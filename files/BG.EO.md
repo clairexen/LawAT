@@ -793,7 +793,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `18.` die im Restrukturierungsverfahren ergangenen rechtskräftigen Beschlüsse, mit denen dem Schuldner die Zahlung der Entlohnung des Restrukturierungsbeauftragten \(§ 15 Abs\. 3 ReO\), der Belohnung der Gläubigerschutzverbände \(§ 31 Abs\. 2 ReO\) oder eines Ausgleichs für finanzielle Verluste eines Gläubigers \(§ 40 Abs\. 5 ReO\) aufgetragen wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-1-eo--exekutionstitel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-1-eo--exekutionstitel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.001.md#-1-eo--exekutionstitel)) \]
 
 ----
 
@@ -803,7 +803,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Den in § 1 genannten Akten und Urkunden stehen auch solche Akte und Urkunden gleich, die zwar im Ausland errichtet wurden, aber aufgrund einer völkerrechtlichen Vereinbarung oder eines Rechtsakts der Europäischen Union ohne gesonderte Vollstreckbarerklärung zu vollstrecken sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-2-eo--ausländische-exekutionstitel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=2) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-2-eo--ausländische-exekutionstitel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=2) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.001.md#-2-eo--ausländische-exekutionstitel)) \]
 
 ----
 
@@ -811,7 +811,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Zur Bewilligung und zum Vollzug der Exekution auf Grund der in §§ 1 und 2 angeführten Exekutionstitel sind, soweit dieses Gesetz nichts anderes bestimmt, die Bezirksgerichte in Zivilsachen zuständig \(Exekutionsgericht\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-3-eo--sachliche-zuständigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=3) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-3-eo--sachliche-zuständigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=3) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.001.md#-3-eo--sachliche-zuständigkeit)) \]
 
 ----
 
@@ -821,7 +821,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Hat die verpflichtete Partei im Inland keinen allgemeinen Gerichtsstand, so ist das Bezirksgericht zuständig, in dessen Sprengel sich das bewegliche Vermögen, auf das Exekution geführt werden soll, befindet\. Die Belegenheit von Geldforderungen richtet sich nach dem allgemeinen Gerichtsstand des Drittschuldners\. Vermögensrechte \(§§ 326 ff\) gelten als an jenem Ort belegen, zu dem ihre stärkste Beziehung besteht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-4-eo--örtliche-zuständigkeit-bei-einer-exekution-zur-hereinbringung-einer-geldforderung-auf-das-bewegliche-vermögen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=4) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-4-eo--örtliche-zuständigkeit-bei-einer-exekution-zur-hereinbringung-einer-geldforderung-auf-das-bewegliche-vermögen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=4) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.001.md#-4-eo--örtliche-zuständigkeit-bei-einer-exekution-zur-hereinbringung-einer-geldforderung-auf-das-bewegliche-vermögen)) \]
 
 ----
 
@@ -833,7 +833,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Hat die verpflichtete Partei im Inland keinen allgemeinen Gerichtsstand und wird von einem Gläubiger oder mehreren Gläubigern gegen die verpflichtete Partei bei mehreren Gerichten Exekution zur Hereinbringung einer Geldforderung auf das bewegliche Vermögen geführt, so sind die Verfahren nur dann an das Gericht zu überweisen, das die Exekution zuerst bewilligt hat, wenn dies zur Vereinfachung des Exekutionsverfahrens, zur vorteilhafteren Verwertung der Vermögensobjekte oder zur Verminderung der Exekutionskosten geeignet ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-5-eo--mehrere-allgemeine-gerichtsstände) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=5) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-5-eo--mehrere-allgemeine-gerichtsstände) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=5) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.001.md#-5-eo--mehrere-allgemeine-gerichtsstände)) \]
 
 ----
 
@@ -841,7 +841,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Verlegt der Verpflichtete seinen allgemeinen Gerichtsstand im Inland, so sind die Exekutionsverfahren zur Hereinbringung einer Geldforderung auf das bewegliche Vermögen an das Gericht, in dessen Sprengel die verpflichtete Partei ihren allgemeinen Gerichtsstand hat, zu überweisen\. Innerhalb eines Ortes mit mehreren Sprengeln hat eine Überweisung nur stattzufinden, wenn dies zur Vereinfachung des Exekutionsverfahrens, zur vorteilhafteren Verwertung der Vermögensobjekte oder zur Verminderung der Exekutionskosten geeignet ist\. Von der Überweisung nicht umfasst ist die Durchführung des Verteilungsverfahrens eines bereits erzielten Erlöses\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-5a-eo--verlegung-des-allgemeinen-gerichtsstands) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=5a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-5a-eo--verlegung-des-allgemeinen-gerichtsstands) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=5a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.001.md#-5a-eo--verlegung-des-allgemeinen-gerichtsstands)) \]
 
 ----
 
@@ -851,7 +851,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Wenn die Exekution auf ein Superädifikat geführt wird, so ist zur Bewilligung und zum Vollzug der Exekution das Gericht zuständig, in dessen Sprengel sich das Superädifikat ganz oder mit seinen Hauptbestandteilen befindet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-5b-eo--örtliche-zuständigkeit-bei-einer-exekution-zur-hereinbringung-einer-geldforderung-auf-das-unbewegliche-vermögen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=5b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-5b-eo--örtliche-zuständigkeit-bei-einer-exekution-zur-hereinbringung-einer-geldforderung-auf-das-unbewegliche-vermögen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=5b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.001.md#-5b-eo--örtliche-zuständigkeit-bei-einer-exekution-zur-hereinbringung-einer-geldforderung-auf-das-unbewegliche-vermögen)) \]
 
 ----
 
@@ -863,7 +863,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Eine Exekution zur Erwirkung einer Unterlassung kann auch bei dem Gericht beantragt werden, in dessen Sprengel die gegen den Exekutionstitel verstoßende Handlung gesetzt worden oder ihr Erfolg eingetreten ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-5c-eo--örtliche-zuständigkeit-bei-einer-exekution-zur-erwirkung-von-handlungen-duldungen-oder-unterlassungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=5c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-5c-eo--örtliche-zuständigkeit-bei-einer-exekution-zur-erwirkung-von-handlungen-duldungen-oder-unterlassungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=5c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.001.md#-5c-eo--örtliche-zuständigkeit-bei-einer-exekution-zur-erwirkung-von-handlungen-duldungen-oder-unterlassungen)) \]
 
 ----
 
@@ -875,7 +875,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `2.` auf Grund desselben Exekutionstitels Exekution gegen mehrere Verpflichtete beantragt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-6-eo--wahlrecht-des-gläubigers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=6) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-6-eo--wahlrecht-des-gläubigers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=6) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.001.md#-6-eo--wahlrecht-des-gläubigers)) \]
 
 ----
 
@@ -887,7 +887,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Das Vollzugsgericht hat die Parteien und Beteiligten über die Weiterführung des Verfahrens zu informieren\.“
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-6a-eo--ersuchen-um-vollzug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=6a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-6a-eo--ersuchen-um-vollzug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=6a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.001.md#-6a-eo--ersuchen-um-vollzug)) \]
 
 ----
 
@@ -904,7 +904,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(5)` Mit dem Antrag auf Aufhebung der Bestätigung kann der Antrag auf Einstellung \(§ 39 Z 9\) oder auf Aufschiebung \(§ 42 Abs\. 2\) verbunden werden; diese Anträge sind, wenn sie nicht beim Exekutionsgericht gestellt werden, an dieses zur Erledigung zu leiten\.
 > *\(Anm\.: Abs\. 6 aufgehoben durch Art\. 1 Z 10, BGBl\. I Nr\. 86/2021\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-7-eo--bestimmtheit-des-exekutionstitels--bestätigung-der-vollstreckbarkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=7) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-7-eo--bestimmtheit-des-exekutionstitels--bestätigung-der-vollstreckbarkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=7) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.001.md#-7-eo--bestimmtheit-des-exekutionstitels--bestätigung-der-vollstreckbarkeit)) \]
 
 ----
 
@@ -920,7 +920,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Ist nach einem Exekutionstitel ein Anspruch wertgesichert zu zahlen, ohne dass hiezu Näheres bestimmt ist, so gilt als Aufwertungsschlüssel der von der Bundesanstalt „Statistik Österreich“ verlautbarte, für den Monat der Schaffung des Exekutionstitels gültige Verbraucherpreisindex\. Der Anspruch vermindert oder erhöht sich in dem Maß, als sich der Verbraucherpreisindex gegenüber dem Zeitpunkt der Schaffung des Exekutionstitels ändert\. Änderungen sind so lange nicht zu berücksichtigen, als sie 10% der bisher maßgebenden Indexzahl nicht übersteigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-8-eo--zug-um-zugleistung--wertsicherungsklausel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=8) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-8-eo--zug-um-zugleistung--wertsicherungsklausel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=8) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.001.md#-8-eo--zug-um-zugleistung--wertsicherungsklausel)) \]
 
 ----
 
@@ -928,7 +928,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Exekution ist bezüglich der Zinsen auch dann zu bewilligen, wenn der Zinssatz in einer bestimmten Zahl von Prozentpunkten über dem Basiszinssatz ausgedrückt wird\. Eines Nachweises des Basiszinssatzes bedarf es nicht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-8a-eo--variable-zinsen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=8a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-8a-eo--variable-zinsen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=8a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.001.md#-8a-eo--variable-zinsen)) \]
 
 ----
 
@@ -936,7 +936,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Zu Gunsten einer anderen als der im Exekutionstitel als berechtigt bezeichneten Person oder wider einen anderen als den im Exekutionstitel benannten Verpflichteten kann die Exekution nur soweit stattfinden, als durch öffentliche oder öffentlich beglaubigte Urkunden bewiesen wird, dass der im Exekutionstitel anerkannte Anspruch oder die darin festgestellte Verpflichtung von den daselbst benannten Personen auf diejenigen Personen übergegangen ist, von welchen oder wider welche die Exekution beantragt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-9-eo--exekution-gegen-und-zugunsten-dritter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=9) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-9-eo--exekution-gegen-und-zugunsten-dritter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=9) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.001.md#-9-eo--exekution-gegen-und-zugunsten-dritter)) \]
 
 ----
 
@@ -944,7 +944,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Wenn die in § 7 Abs\. 1 und 2, § 8 Abs\. 2 und § 9 geforderten urkundlichen Beweise nicht erbracht werden können, muss der Bewilligung der Exekution oder ihrer Fortführung die Erwirkung eines gerichtlichen Urteils vorausgehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-10-eo--urteil-über-den-vollstreckungsanspruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=10) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-10-eo--urteil-über-den-vollstreckungsanspruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=10) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.001.md#-10-eo--urteil-über-den-vollstreckungsanspruch)) \]
 
 ----
 
@@ -954,7 +954,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Der Verpflichtete kann dessen ungeachtet sein Wahlrecht solange ausüben, als der Gläubiger die seinerseits gewählte Leistung weder ganz noch zum Teil empfangen hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-12-eo--wahlschulden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=12) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-12-eo--wahlschulden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=12) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.001.md#-12-eo--wahlschulden)) \]
 
 ----
 
@@ -962,7 +962,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Auf Grund einer Entscheidung, in der mehrere voneinander unabhängige Ansprüche zuerkannt wurden, kann, wenn nur hinsichtlich einzelner dieser Ansprüche ein die Exekution hemmendes Rechtsmittel erhoben wurde, zu Gunsten der übrigen nicht angefochtenen Ansprüche die Exekution bewilligt werden, sobald die Entscheidung über diese Ansprüche in Rechtskraft erwachsen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-13-eo--teilvollstreckbarkeit-von-exekutionstiteln) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=13) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-13-eo--teilvollstreckbarkeit-von-exekutionstiteln) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=13) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.001.md#-13-eo--teilvollstreckbarkeit-von-exekutionstiteln)) \]
 
 ----
 
@@ -970,7 +970,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die gleichzeitige Anwendung mehrerer Exekutionsmittel ist gestattet; die Bewilligung kann jedoch auf einzelne Exekutionsmittel beschränkt werden, wenn aus dem Exekutionsantrag offenbar erhellt, dass bereits eines oder mehrere der beantragten Exekutionsmittel zur Befriedigung des betreibenden Gläubigers hinreichen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-14-eo--anwendung-mehrerer-exekutionsmittel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=14) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-14-eo--anwendung-mehrerer-exekutionsmittel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=14) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.001.md#-14-eo--anwendung-mehrerer-exekutionsmittel)) \]
 
 ----
 
@@ -978,7 +978,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Gegen eine Gemeinde oder gegen eine durch Ausspruch einer Verwaltungsbehörde als öffentlich und gemeinnützig erklärte Anstalt kann die Exekution zum Zwecke der Hereinbringung von Geldforderungen, falls es sich nicht um die Verwirklichung eines vertragsmäßigen Pfandrechtes handelt, nur in Ansehung solcher Vermögensbestandteile bewilligt werden, welche ohne Beeinträchtigung der durch die Gemeinde oder jene Anstalt zu wahrenden öffentlichen Interessen zur Befriedigung des Gläubigers verwendet werden können\. Zur Abgabe der Erklärung, inwieweit letzteres hinsichtlich bestimmter Vermögensbestandteile zutrifft, sind die staatlichen Verwaltungsbehörden berufen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-15-eo--exekution-gegen-gemeinden-und-öffentlich-gemeinnützige-anstalten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=15) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-15-eo--exekution-gegen-gemeinden-und-öffentlich-gemeinnützige-anstalten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=15) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.001.md#-15-eo--exekution-gegen-gemeinden-und-öffentlich-gemeinnützige-anstalten)) \]
 
 ----
 
@@ -994,7 +994,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Der Vollzug der Exekution ist als begonnen anzusehen, sobald der Auftrag zur Vornahme der ersten Exekutionshandlung erteilt worden ist; wenn aber der Vollzug der bewilligten Exekution nicht dem Gericht obliegt, das die Exekution bewilligt hat, sobald das Ersuchen um den Exekutionsvollzug beim Vollzugsgericht eingelangt ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-16-eo--beginn-des-exekutionsvollzugs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=16) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_20_TextContainer_20) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-16-eo--beginn-des-exekutionsvollzugs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=16) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_20_TextContainer_20) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-16-eo--beginn-des-exekutionsvollzugs)) \]
 
 ----
 
@@ -1004,7 +1004,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Über die Durchsetzung einer in diesem Gesetz dem Verpflichteten oder dritten Personen auferlegten Mitwirkungspflicht hat das Exekutionsgericht im Exekutionsverfahren zu entscheiden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-17-eo--befugnisse-des-exekutionsgerichts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=17) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_21_TextContainer_21) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-17-eo--befugnisse-des-exekutionsgerichts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=17) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_21_TextContainer_21) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-17-eo--befugnisse-des-exekutionsgerichts)) \]
 
 ----
 
@@ -1022,7 +1022,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Ein ruhendes Exekutionsverfahren ist nur dann auf Antrag eines Gläubigers zugunsten aller betreibender Gläubiger fortzusetzen, wenn bereits ein Pfandrecht begründet worden ist\. Der Beschluss über die Fortsetzung ist den betreibenden Gläubigern, deren Verfahren fortgesetzt werden, und dem Verpflichteten zuzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-18-eo--ruhen-und-fortsetzung-des-exekutionsverfahrens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=18) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-18-eo--ruhen-und-fortsetzung-des-exekutionsverfahrens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=18) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-18-eo--ruhen-und-fortsetzung-des-exekutionsverfahrens)) \]
 
 ----
 
@@ -1038,7 +1038,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `3.` die Aufnahme eines Vermögensverzeichnisses nach § 47\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-19-eo--exekutionspaket) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=19) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_23_TextContainer_23) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-19-eo--exekutionspaket) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=19) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_23_TextContainer_23) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-19-eo--exekutionspaket)) \]
 
 ----
 
@@ -1052,7 +1052,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Das Gericht kann auf Antrag einer Partei oder des Verwalters ein gepfändetes Vermögensobjekt dem Verpflichteten überlassen und von dessen Verwertung absehen, wenn nicht zu erwarten ist, dass die Fortsetzung oder Durchführung der Exekution auf dieses Vermögensobjekt einen die Kosten übersteigenden Ertrag ergeben wird\. Das Pfandrecht erlischt mit Eintritt der Rechtskraft des Beschlusses\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-20-eo--erweitertes-exekutionspaket) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=20) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-20-eo--erweitertes-exekutionspaket) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=20) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-20-eo--erweitertes-exekutionspaket)) \]
 
 ----
 
@@ -1062,7 +1062,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Reichen die gepfändeten Vermögensobjekte zur Deckung der hereinzubringenden Forderungen nicht aus, so hat der Verwalter weitere Vermögensobjekte zu ermitteln, zu pfänden und zu verwerten\. Es ist nach § 20 Abs\. 3 vorzugehen, wenn davon auszugehen ist, dass der Verpflichtete seit der Aufnahme des Inventars oder dessen Ergänzung nach § 20 Abs\. 3 Vermögen erworben hat oder seither mehr als drei Monate vergangen sind\. An den Vermögensobjekten wird zugunsten aller betreibender Gläubiger ein Pfandrecht begründet, soweit die Verfahren nicht ruhen; die zugunsten der Gläubiger begründeten Pfandrechte, deren Exekutionsverfahren bereits anhängig waren, sind vorrangig; der Rang richtet sich nach dem frühesten Zeitpunkt, zu dem zugunsten des betreibenden Gläubigers ein Pfandrecht im Rahmen des erweiterten Exekutionspaketes begründet wurde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-21-eo--erweitertes-exekutionspaket-zugunsten-mehrerer-gläubiger) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=21) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-21-eo--erweitertes-exekutionspaket-zugunsten-mehrerer-gläubiger) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=21) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-21-eo--erweitertes-exekutionspaket-zugunsten-mehrerer-gläubiger)) \]
 
 ----
 
@@ -1070,7 +1070,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Ist ein Verwalter bestellt und wird auf Antrag eines weiteren betreibenden Gläubigers ein Vermögensobjekt gepfändet, das bereits vom Verwalter gepfändet worden ist, so wird der Verwalter hinsichtlich eines Mehrerlöses aus der Verwertung dieses Vermögensobjekts als Kurator für den weiteren betreibenden Gläubiger tätig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-22-eo--pfändung-zugunsten-weiterer-betreibender-gläubiger) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=22) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_26_TextContainer_26) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-22-eo--pfändung-zugunsten-weiterer-betreibender-gläubiger) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=22) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_26_TextContainer_26) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-22-eo--pfändung-zugunsten-weiterer-betreibender-gläubiger)) \]
 
 ----
 
@@ -1082,7 +1082,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Zur Antragstellung ist sowohl der betreibende Gläubiger wie der Verpflichtete befugt\. Durch die Antragstellung wird der Fortgang des Exekutionsverfahrens nicht aufgehalten\. Gegen die Anordnung des Oberlandesgerichtes findet ein Rekurs nicht statt\. Das Oberlandesgericht kann vor seiner Entscheidung den in Frage kommenden Exekutionsgerichten oder einzelnen derselben eine Äußerung abfordern\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-23-eo--verbindung-von-exekutionsverfahren-auf-mehrere-liegenschaften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=23) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_27_TextContainer_27) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-23-eo--verbindung-von-exekutionsverfahren-auf-mehrere-liegenschaften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=23) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_27_TextContainer_27) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-23-eo--verbindung-von-exekutionsverfahren-auf-mehrere-liegenschaften)) \]
 
 ----
 
@@ -1090,7 +1090,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Auf Antrag oder von Amts wegen können Exekutionsverfahren, in denen mehreren Verpflichteten Anteile einer Liegenschaft, eines Superädifikats oder eines Baurechts zustehen, verbunden werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-23a-eo--verbindung-von-exekutionsverfahren-auf-unbewegliche-sachen-gegen-mehrere-verpflichtete) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=23a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_28_TextContainer_28) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-23a-eo--verbindung-von-exekutionsverfahren-auf-unbewegliche-sachen-gegen-mehrere-verpflichtete) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=23a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_28_TextContainer_28) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-23a-eo--verbindung-von-exekutionsverfahren-auf-unbewegliche-sachen-gegen-mehrere-verpflichtete)) \]
 
 ----
 
@@ -1100,7 +1100,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Sind bei einem Gericht zumindest zwei Gerichtsvollzieher tätig, so sind die Geschäfte nach Gebieten aufzuteilen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-24-eo--vollstreckungsorgane) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=24) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-24-eo--vollstreckungsorgane) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=24) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-24-eo--vollstreckungsorgane)) \]
 
 ----
 
@@ -1112,7 +1112,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Das Vollstreckungsorgan hat die erste Vollzugshandlung innerhalb von vier Wochen ab Erhalt des Vollzugsauftrags durchzuführen\. Die Frist beträgt sechs Wochen, wenn das Vollzugsgebiet zum überwiegenden Teil in einem dünn und verstreut besiedelten ländlichen Gebiet liegt\. Das Vollstreckungsorgan darf, soweit nichts anderes im Gesetz vorgesehen ist, den Verpflichteten von einer bevorstehenden Vollzugshandlung nicht benachrichtigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-25-eo--tätigkeit-der-vollstreckungsorgane) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=25) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-25-eo--tätigkeit-der-vollstreckungsorgane) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=25) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-25-eo--tätigkeit-der-vollstreckungsorgane)) \]
 
 ----
 
@@ -1124,7 +1124,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die Vollstreckungsorgane sind auch berechtigt, bargeldlose Zahlungen entgegenzunehmen\. Die Kosten für die Nutzung der den Vollstreckungsorganen zu diesem Zweck zur Verfügung gestellten technischen Geräten trägt der Bund\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-25a-eo--aufforderung-zur-leistung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=25a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-25a-eo--aufforderung-zur-leistung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=25a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-25a-eo--aufforderung-zur-leistung)) \]
 
 ----
 
@@ -1138,7 +1138,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die Vollstreckungsorgane dürfen die Grenzen ihres Gebiets sowie die Grenzen des Bezirksgerichtssprengels überschreiten\. Sie dürfen stattdessen auch das nach dem voraussichtlichen Vollzugsort zuständige Vollstreckungsorgan um die Vornahme der Amtshandlung ersuchen\. Das ersuchte Vollstreckungsorgan wird dabei im Auftrag des Gerichts, das den Vollzug angeordnet hat, tätig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-25b-eo--vollzugsort) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=25b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-25b-eo--vollzugsort) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=25b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-25b-eo--vollzugsort)) \]
 
 ----
 
@@ -1146,7 +1146,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Wird der Verpflichtete bei einem Vollzugsversuch nicht angetroffen, so kann das Vollstreckungsorgan diesen auffordern, sich bei ihm zu melden, wenn der Zweck der Exekution dadurch nicht vereitelt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-25c-eo--kontaktaufnahme-mit-dem-verpflichteten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=25c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-25c-eo--kontaktaufnahme-mit-dem-verpflichteten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=25c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-25c-eo--kontaktaufnahme-mit-dem-verpflichteten)) \]
 
 ----
 
@@ -1154,7 +1154,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Das Vollstreckungsorgan hat über die Durchführung des Vollzugs oder die entgegenstehenden Hindernisse und spätestens vier Monate nach Erhalt des Vollzugsauftrags dem Gericht und dem betreibenden Gläubiger über den Stand des Verfahrens zu berichten, über die Durchführung des Vollzugs auch dem Verpflichteten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-25d-eo--bericht-des-vollstreckungsorgans) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=25d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-25d-eo--bericht-des-vollstreckungsorgans) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=25d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-25d-eo--bericht-des-vollstreckungsorgans)) \]
 
 ----
 
@@ -1166,7 +1166,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Bei Exekutionen gegen aktiv dienende Personen der bewaffneten Macht oder der Bundespolizei ist, wenn nicht Gefahr am Verzuge ist, behufs Beseitigung eines Widerstandes die Unterstützung des militärischen Vorgesetzten des Verpflichteten anzusuchen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-26-eo--durchsuchungsbefugnis-des-vollstreckungsorgans) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=26) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_35_TextContainer_35) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-26-eo--durchsuchungsbefugnis-des-vollstreckungsorgans) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=26) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_35_TextContainer_35) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-26-eo--durchsuchungsbefugnis-des-vollstreckungsorgans)) \]
 
 ----
 
@@ -1186,7 +1186,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die Kosten des Schlossers sind einstweilen vom betreibenden Gläubiger und bei Vorhandensein mehrerer betreibender Gläubiger von allen nach dem Verhältnis der vollstreckbaren Forderungen zu tragen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-26a-eo--öffnen-der-verschlossenen-haus--und-wohnungstüren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=26a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_36_TextContainer_36) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-26a-eo--öffnen-der-verschlossenen-haus--und-wohnungstüren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=26a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_36_TextContainer_36) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-26a-eo--öffnen-der-verschlossenen-haus--und-wohnungstüren)) \]
 
 ----
 
@@ -1198,7 +1198,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Werden die Vermögensobjekte nicht in der Exekutionsbewilligung genannt, so sind die Vermögensobjekte auszuwählen, die die umfassendste und schnellste Befriedigung des betreibenden Gläubigers bringen, wobei auf die Wahrung der Interessen des Verpflichteten Bedacht zu nehmen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-27-eo--umfang-der-exekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=27) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_37_TextContainer_37) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-27-eo--umfang-der-exekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=27) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_37_TextContainer_37) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-27-eo--umfang-der-exekution)) \]
 
 ----
 
@@ -1212,7 +1212,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Ist ein Vorgehen nach Abs\. 3 nicht möglich oder tunlich, so ist dies im Pfändungsprotokoll zu vermerken und der Verpflichtete aufzufordern, die nach Abs\. 3 erforderlichen Vorkehrungen binnen 14 Tagen nachzuholen\. Kommt der Verpflichtete dieser Aufforderung nicht nach, so ist vor der Verwertung ein Sachverständiger mit der Vornahme der Vorkehrungen zu beauftragen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-27a-eo--mitwirkungspflicht-des-verpflichteten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=27a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-27a-eo--mitwirkungspflicht-des-verpflichteten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=27a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-27a-eo--mitwirkungspflicht-des-verpflichteten)) \]
 
 ----
 
@@ -1220,7 +1220,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > In das Eigentum einer unter staatlicher Aufsicht stehenden, dem öffentlichen Verkehr dienenden Anstalt dürfen Exekutionsakte, welche geeignet wären, die Aufrechterhaltung des öffentlichen Verkehrs zu stören, nur im Einvernehmen mit der Aufsichtsbehörde und unter den von dieser Behörde im Interesse des öffentlichen Verkehrs für notwendig befundenen Einschränkungen vorgenommen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-28-eo--exekution-auf-das-eigentum-dem-öffentlichen-verkehr-dienender-anstalten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=28) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_39_TextContainer_39) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-28-eo--exekution-auf-das-eigentum-dem-öffentlichen-verkehr-dienender-anstalten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=28) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_39_TextContainer_39) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-28-eo--exekution-auf-das-eigentum-dem-öffentlichen-verkehr-dienender-anstalten)) \]
 
 ----
 
@@ -1228,7 +1228,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Gegen eine in Ausübung des Dienstes befindliche Person des Bundesheeres oder der Bundespolizei darf mit dem Exekutionsvollzug erst begonnen werden, nachdem das vorgesetzte Kommando dieser Person von der Bewilligung der Exekution verständigt wurde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-29-eo--exekution-gegen-eine-person-des-bundesheeres-oder-der-bundespolizei) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=29) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_40_TextContainer_40) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-29-eo--exekution-gegen-eine-person-des-bundesheeres-oder-der-bundespolizei) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=29) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_40_TextContainer_40) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-29-eo--exekution-gegen-eine-person-des-bundesheeres-oder-der-bundespolizei)) \]
 
 ----
 
@@ -1244,7 +1244,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 > &nbsp; vornehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-30-eo--vollzugszeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=30) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_41_TextContainer_41) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-30-eo--vollzugszeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=30) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_41_TextContainer_41) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-30-eo--vollzugszeit)) \]
 
 ----
 
@@ -1254,7 +1254,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` In militärischen oder von Militär besetzten Gebäuden kann die Vornahme von Exekutionshandlungen erst nach vorgängiger Anzeige an den Commandanten des Gebäudes und unter Zuziehung einer von diesem beigegebenen Militärperson erfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-31-eo--exekution-bei-immunität-und-exterritorialität) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=31) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_42_TextContainer_42) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-31-eo--exekution-bei-immunität-und-exterritorialität) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=31) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_42_TextContainer_42) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-31-eo--exekution-bei-immunität-und-exterritorialität)) \]
 
 ----
 
@@ -1266,7 +1266,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Beantragt der betreibende Gläubiger, dass der Vollzug unter seiner Beteiligung vorgenommen wird, so ist ihm Zeit und Ort des Vollzugs bekannt zu geben\. Kommt der betreibende Gläubiger nicht zu diesem Termin, so wird in seiner Abwesenheit vollzogen\. Der betreibende Gläubiger ist in diesem Fall von weiteren Vollzügen nur mehr auf neuerlichen Antrag zu benachrichtigen\. Wird der betreibende Gläubiger trotz Antrags nicht vom Termin verständigt, so hat ein weiterer Termin von Amts wegen unter seiner Beteiligung stattzufinden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-32-eo--beteiligung-am-vollzug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=32) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-32-eo--beteiligung-am-vollzug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=32) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-32-eo--beteiligung-am-vollzug)) \]
 
 ----
 
@@ -1280,7 +1280,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Wird die Exekution gegen mehr als einen Verpflichteten bewilligt, so sind die Verfahren nach der Exekutionsbewilligung zu trennen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-33-eo--verbindung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=33) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_44_TextContainer_44) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-33-eo--verbindung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=33) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_44_TextContainer_44) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-33-eo--verbindung)) \]
 
 ----
 
@@ -1290,7 +1290,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Eine bei Lebzeiten des Verpflichteten begonnene Exekution auf Liegenschaften kann ohne vorherige Bestellung eines einstweiligen Nachlassvertreters fortgeführt werden, wenn die zur Einleitung der Zwangsverwaltung oder Zwangsversteigerung notwendige bücherliche Anmerkung noch vor dem Tode des Verpflichteten erfolgt ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-34-eo--tod-des-verpflichteten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=34) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_45_TextContainer_45) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-34-eo--tod-des-verpflichteten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=34) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_45_TextContainer_45) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-34-eo--tod-des-verpflichteten)) \]
 
 ----
 
@@ -1308,7 +1308,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Wenn den Einwendungen rechtskräftig stattgegeben wird, ist die Exekution einzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-35-eo--einwendungen-gegen-den-anspruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=35) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_46_TextContainer_46) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-35-eo--einwendungen-gegen-den-anspruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=35) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_46_TextContainer_46) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.003.md#-35-eo--einwendungen-gegen-den-anspruch)) \]
 
 ----
 
@@ -1328,7 +1328,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Wenn den Einwendungen rechtskräftig stattgegeben wird, ist die Exekution einzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-36-eo--einwendungen-gegen-die-exekutionsbewilligung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=36) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_47_TextContainer_47) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-36-eo--einwendungen-gegen-die-exekutionsbewilligung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=36) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_47_TextContainer_47) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.003.md#-36-eo--einwendungen-gegen-die-exekutionsbewilligung)) \]
 
 ----
 
@@ -1342,7 +1342,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Wenn der Klage rechtskräftig stattgegeben wird, ist die Exekution einzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-37-eo--widerspruch-dritter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=37) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_48_TextContainer_48) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-37-eo--widerspruch-dritter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=37) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_48_TextContainer_48) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.003.md#-37-eo--widerspruch-dritter)) \]
 
 ----
 
@@ -1354,7 +1354,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Der Abs\. 2 ist insoweit zur Gänze oder zum Teil nicht anzuwenden, als nach Völkerrecht oder besonderen gesetzlichen Anordnungen ausdrücklich anderes bestimmt ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-38-eo--sachliche-zuständigkeit-für-exekutionsrechtliche-klagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=38) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_49_TextContainer_49) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-38-eo--sachliche-zuständigkeit-für-exekutionsrechtliche-klagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=38) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_49_TextContainer_49) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.003.md#-38-eo--sachliche-zuständigkeit-für-exekutionsrechtliche-klagen)) \]
 
 ----
 
@@ -1392,7 +1392,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Wird das Exekutionsverfahren auf Antrag des Verpflichteten eingestellt, so gebührt dem betreibenden Gläubiger für seine Äußerung zu diesem Antrag kein Kostenersatz\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-39-eo--einstellung-einschränkung-und-aufschiebung-der-exekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=39) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_50_TextContainer_50) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-39-eo--einstellung-einschränkung-und-aufschiebung-der-exekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=39) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_50_TextContainer_50) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.003.md#-39-eo--einstellung-einschränkung-und-aufschiebung-der-exekution)) \]
 
 ----
 
@@ -1402,7 +1402,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Erscheint die Entscheidung nach den Ergebnissen dieser Einvernehmung von der Ermittlung und Feststellung streitiger Tatumstände abhängig, so ist der Verpflichtete mit seinen Einwendungen auf den Rechtsweg zu verweisen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-40-eo--antrag-auf-einstellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=40) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_51_TextContainer_51) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-40-eo--antrag-auf-einstellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=40) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_51_TextContainer_51) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.003.md#-40-eo--antrag-auf-einstellung)) \]
 
 ----
 
@@ -1412,7 +1412,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Außerdem ist die Exekution einzuschränken, wenn sie in größerem Umfange vollzogen wurde, als zur Erzielung vollständiger Befriedigung des Gläubigers notwendig ist\. Der Entscheidung über einen darauf gerichteten Antrag hat eine Einvernehmung des betreibenden Gläubigers voranzugehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-41-eo--einschränkung-der-exekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=41) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_52_TextContainer_52) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-41-eo--einschränkung-der-exekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=41) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_52_TextContainer_52) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.003.md#-41-eo--einschränkung-der-exekution)) \]
 
 ----
 
@@ -1420,7 +1420,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Das Gericht hat auf Antrag die Beendigung eines Exekutionsverfahrens wegen Geldforderungen mit Beschluss festzustellen, wenn sämtliche Forderungen samt Nebengebühren, zu deren Hereinbringung das Exekutionsverfahren geführt wurde, in diesem Verfahren getilgt worden sind\. Ein Rechtsmittel gegen diese Entscheidung ist unzulässig; sie kann jedoch jederzeit auf Antrag abgeändert werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-41a-eo--beendigung-der-exekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=41a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_53_TextContainer_53) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-41a-eo--beendigung-der-exekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=41a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_53_TextContainer_53) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.003.md#-41a-eo--beendigung-der-exekution)) \]
 
 ----
 
@@ -1454,7 +1454,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die Anträge auf Aufhebung der Bestätigung der Vollstreckbarkeit und auf Aufschiebung der Exekution können miteinander verbunden werden\. Ist das Gericht, bei dem die Anträge eingebracht wurden, nur für einen Antrag zuständig, so hat es den anderen Antrag an das dafür zuständige Gericht weiterzuleiten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-42-eo--aufschiebung-der-exekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=42) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_54_TextContainer_54) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-42-eo--aufschiebung-der-exekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=42) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_54_TextContainer_54) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.003.md#-42-eo--aufschiebung-der-exekution)) \]
 
 ----
 
@@ -1466,7 +1466,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Wenn nur in Ansehung einzelner der in Exekution gezogenen Gegenstände oder eines Teils des Anspruches Gründe für die Aufschiebung der Exekution eintreten, ist die Exekution in dem einen Falle einstweilen nur hinsichtlich der übrigen Gegenstände, in dem anderen Falle aber nur wegen des durch den Aufschiebungsgrund nicht betroffenen Teils des Anspruches fortzuführen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-43-eo--folgen-der-aufschiebung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=43) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_55_TextContainer_55) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-43-eo--folgen-der-aufschiebung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=43) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_55_TextContainer_55) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.003.md#-43-eo--folgen-der-aufschiebung)) \]
 
 ----
 
@@ -1488,7 +1488,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Ein aufgeschobenes Exekutionsverfahren wird, sofern nicht für einzelne Fälle etwas anderes angeordnet ist, nur auf Antrag wieder aufgenommen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-44-eo--sicherheitsleistung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=44) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-44-eo--sicherheitsleistung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=44) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.003.md#-44-eo--sicherheitsleistung)) \]
 
 ----
 
@@ -1500,7 +1500,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Sofern nicht für einzelne Fälle etwas anderes angeordnet ist oder schon eine rechtskräftige Entscheidung über die Einstellung, Einschränkung oder Aufschiebung des Exekutionsverfahrens vorliegt oder der Antrag offenkundig unberechtigt ist, sind die Parteien vor der Entscheidung über Anträge auf Einstellung, Einschränkung oder Aufschiebung des Exekutionsverfahrens, die nicht vom betreibenden Gläubiger selbst gestellt werden, einzuvernehmen \(§ 55 Abs\. 1\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-45-eo--verfahrensbestimmungen-für-anträge-auf-einstellung-einschränkung-oder-aufschiebung-der-exekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=45) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-45-eo--verfahrensbestimmungen-für-anträge-auf-einstellung-einschränkung-oder-aufschiebung-der-exekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=45) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.003.md#-45-eo--verfahrensbestimmungen-für-anträge-auf-einstellung-einschränkung-oder-aufschiebung-der-exekution)) \]
 
 ----
 
@@ -1510,7 +1510,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Entscheidung einer Behörde, die Zahlungsfrist für eine den Gebietskörperschaften zustehende Forderung zu verlängern oder die Entrichtung in Teilbeträgen zu gestatten, hat die Wirkung einer Zahlungsvereinbarung nach Abs\. 1\. Das Exekutionsverfahren kann nach Ablauf der Zahlungsfrist oder nach Eintritt eines Terminverlustes fortgesetzt werden\. Wird die Fortsetzung nicht innerhalb von einem Jahr nach Ablauf der Zahlungsfrist beantragt, so ist die Exekution einzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-45a-eo--zahlungsvereinbarung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=45a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_58_TextContainer_58) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-45a-eo--zahlungsvereinbarung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=45a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_58_TextContainer_58) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.003.md#-45a-eo--zahlungsvereinbarung)) \]
 
 ----
 
@@ -1518,7 +1518,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Das Vollstreckungsorgan darf mit der Vollziehung der ihm aufgetragenen Exekutionshandlung nur dann innehalten, wenn ihm nachgewiesen wird, dass der betreibende Gläubiger nach Erlassung des Exekutionstitels befriedigt worden ist, Stundung bewilligt hat oder von der Fortsetzung des Exekutionsverfahrens abgestanden ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-46-eo--nachweis-der-befriedigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=46) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_59_TextContainer_59) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-46-eo--nachweis-der-befriedigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=46) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_59_TextContainer_59) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.003.md#-46-eo--nachweis-der-befriedigung)) \]
 
 ----
 
@@ -1546,7 +1546,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Das Exekutionsgericht kann auf Anregung des betreibenden Gläubigers oder von Amts wegen noch andere nach den gegebenen Verhältnissen zur Ermittlung der herauszugebenden oder in Exekution zu ziehenden Sachen dienliche Fragen in das Vermögensverzeichnis aufnehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-47-eo--vermögensverzeichnis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=47) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-47-eo--vermögensverzeichnis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=47) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.003.md#-47-eo--vermögensverzeichnis)) \]
 
 ----
 
@@ -1560,7 +1560,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Die Verhängung der Haft verliert ihre Wirksamkeit, wenn sie nicht innerhalb eines Jahres vollzogen worden ist\. Der Verpflichtete kann jedoch neuerlich zur Abgabe eines Vermögensverzeichnisses verhalten werden\. Auch die Haft kann unter den in Abs\. 2 bezeichneten Voraussetzungen neuerlich verhängt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-48-eo--erzwingung-der-abgabe-des-vermögensverzeichnisses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=48) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-48-eo--erzwingung-der-abgabe-des-vermögensverzeichnisses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=48) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.003.md#-48-eo--erzwingung-der-abgabe-des-vermögensverzeichnisses)) \]
 
 ----
 
@@ -1570,7 +1570,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Sind zwar die Voraussetzungen zur Abgabe eines Vermögensverzeichnisses nach § 47 Abs\. 1 gegeben, ist aber eine neuerliche Abgabe eines Vermögensverzeichnisses unzulässig, so ist dem betreibenden Gläubiger eine Ausfertigung des zuletzt abgegebenen Vermögensverzeichnisses zu übersenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-49-eo--neuerliche-abgabe-eines-vermögensverzeichnisses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=49) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-49-eo--neuerliche-abgabe-eines-vermögensverzeichnisses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=49) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.003.md#-49-eo--neuerliche-abgabe-eines-vermögensverzeichnisses)) \]
 
 ----
 
@@ -1598,7 +1598,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `2.` bei Eröffnung eines Insolvenzverfahrens über das Vermögen der verpflichteten Partei\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-49a-eo--offenkundige-zahlungsunfähigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=49a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-49a-eo--offenkundige-zahlungsunfähigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=49a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.003.md#-49a-eo--offenkundige-zahlungsunfähigkeit)) \]
 
 ----
 
@@ -1610,7 +1610,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die gesetzlichen Bestimmungen über die Beiziehung eines fachkundigen Laienrichters finden auf die Ausübung der Gerichtsbarkeit im Exekutionsverfahren keine Anwendung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-50-eo--ausschluss-der-laienbeteiligung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=50) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_64_TextContainer_64) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-50-eo--ausschluss-der-laienbeteiligung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=50) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_64_TextContainer_64) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-50-eo--ausschluss-der-laienbeteiligung)) \]
 
 ----
 
@@ -1618,7 +1618,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die im gegenwärtigen Gesetz angeordneten Gerichtsstände sind ausschließliche\. Vereinbarungen der Parteien über die Zuständigkeit der Gerichte im Exekutionsverfahren sind wirkungslos\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-51-eo--ausschließliche-gerichtsstände) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=51) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_65_TextContainer_65) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-51-eo--ausschließliche-gerichtsstände) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=51) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_65_TextContainer_65) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-51-eo--ausschließliche-gerichtsstände)) \]
 
 ----
 
@@ -1626,7 +1626,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Im Exekutionsverfahren können die Parteien und sonstigen Beteiligten sowohl in Person, als durch Bevollmächtigte handeln\. Die Vertretung durch Rechtsanwälte ist im Exekutionsverfahren weder vor den Bezirksgerichten noch vor den Gerichtshöfen erster Instanz geboten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-52-eo--vertretung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=52) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_66_TextContainer_66) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-52-eo--vertretung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=52) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_66_TextContainer_66) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-52-eo--vertretung)) \]
 
 ----
 
@@ -1638,7 +1638,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Eine Abschrift des Protokolles über einen mündlich vorgebrachten Antrag ist dem Gegner bei der Mitteilung des Beschlusses nur dann zuzustellen, wenn das Protokoll für die Beurteilung der Gesetzmäßigkeit des gefassten Beschlusses wesentliche aus dem Beschlusse selbst nicht ersichtliche Angaben enthält\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-53-eo--anträge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=53) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_67_TextContainer_67) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-53-eo--anträge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=53) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_67_TextContainer_67) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-53-eo--anträge)) \]
 
 ----
 
@@ -1666,7 +1666,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Ist die hereinzubringende Forderung eine Unterhaltsforderung oder eine Forderung auf sonstige wiederkehrende Leistungen, die auf demselben Rechtsgrund beruht, und liegen ihr mehrere Exekutionstitel zu Grunde, so genügt es, die hereinzubringende Forderung mit dem Gesamtbetrag anzuführen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-54-eo--antrag-auf-exekutionsbewilligung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=54) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_68_TextContainer_68) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-54-eo--antrag-auf-exekutionsbewilligung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=54) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_68_TextContainer_68) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-54-eo--antrag-auf-exekutionsbewilligung)) \]
 
 ----
 
@@ -1676,7 +1676,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Ergeht ein Auftrag zur Verbesserung einer Eingabe, weil sich der Antragsteller nicht des hiefür eingeführten Formblatts bedient hat, so ist diesem Auftrag das entsprechende Formblatt anzuschließen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-54a-eo--verbesserung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=54a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_69_TextContainer_69) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-54a-eo--verbesserung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=54a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_69_TextContainer_69) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-54a-eo--verbesserung)) \]
 
 ----
 
@@ -1702,7 +1702,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `3.` Das Gericht hat nur auf Grund der Angaben im Exekutionsantrag zu entscheiden\. Bestehen auf Grund der Angaben im Exekutionsantrag oder gerichtsbekannter Tatsachen Bedenken, ob ein die Exekution deckender Exekutionstitel samt Bestätigung der Vollstreckbarkeit besteht, so hat das Gericht den betreibenden Gläubiger vor der Entscheidung aufzufordern, binnen fünf Tagen eine Ausfertigung des Exekutionstitels samt Bestätigung der Vollstreckbarkeit vorzulegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-54b-eo--vereinfachtes-bewilligungsverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=54b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_70_TextContainer_70) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-54b-eo--vereinfachtes-bewilligungsverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=54b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_70_TextContainer_70) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-54b-eo--vereinfachtes-bewilligungsverfahren)) \]
 
 ----
 
@@ -1714,7 +1714,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die Erhebung des Einspruchs hemmt nicht den Vollzug der bewilligten Exekution\. Wenn über den Einspruch bis zur Vornahme von Verwertungshandlungen nicht rechtskräftig entschieden ist, hat das Exekutionsgericht von Amts wegen mit dem weiteren Vollzug bis zum Eintritt der Rechtskraft dieser Entscheidung innezuhalten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-54c-eo--einspruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=54c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_71_TextContainer_71) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-54c-eo--einspruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=54c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_71_TextContainer_71) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-54c-eo--einspruch)) \]
 
 ----
 
@@ -1724,7 +1724,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Das Exekutionsgericht kann auch auf andere Art prüfen, ob der im Exekutionsantrag genannte Exekutionstitel samt Bestätigung der Vollstreckbarkeit vorliegt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-54d-eo--auftrag-zur-vorlage-des-exekutionstitels) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=54d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_72_TextContainer_72) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-54d-eo--auftrag-zur-vorlage-des-exekutionstitels) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=54d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_72_TextContainer_72) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-54d-eo--auftrag-zur-vorlage-des-exekutionstitels)) \]
 
 ----
 
@@ -1738,7 +1738,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Tritt der Einstellungsgrund nur hinsichtlich eines Teils der Exekution ein, so ist diese verhältnismäßig einzuschränken\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-54e-eo--einstellung-der-exekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=54e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_73_TextContainer_73) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-54e-eo--einstellung-der-exekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=54e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_73_TextContainer_73) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-54e-eo--einstellung-der-exekution)) \]
 
 ----
 
@@ -1746,7 +1746,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Auf Antrag des betreibenden Gläubigers ist während eines anhängigen Exekutionsverfahrens zur Hereinbringung einer Geldforderung die Exekution auf weitere Exekutionsmittel auf bewegliches Vermögen auszudehnen\. Soweit die Exekution schon bewilligt wurde, ist der Antrag als Antrag auf neuerlichen Vollzug zu verstehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-54f-eo--ausdehnung-der-exekutionsbewilligung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=54f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_74_TextContainer_74) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-54f-eo--ausdehnung-der-exekutionsbewilligung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=54f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_74_TextContainer_74) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-54f-eo--ausdehnung-der-exekutionsbewilligung)) \]
 
 ----
 
@@ -1758,7 +1758,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Das Gericht kann jedoch die ihm nötig scheinenden Aufklärungen auch ohne Vermittlung der Parteien oder sonstigen Beteiligten einholen und zu diesem Zwecke von amtswegen alle hiezu geeigneten Erhebungen pflegen und nach Maßgabe der Vorschriften der ZPO die erforderlichen Bescheinigungen oder Beweisaufnahmen anordnen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-55-eo--rechtliches-gehör) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=55) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_75_TextContainer_75) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-55-eo--rechtliches-gehör) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=55) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_75_TextContainer_75) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-55-eo--rechtliches-gehör)) \]
 
 ----
 
@@ -1766,7 +1766,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Ist für eine Entscheidung des Gerichts die Kenntnis des Grundbuchsstands von Bedeutung, so hat es diesen von Amts wegen zu erheben\. Bei unverbücherten Liegenschaften und Superädifikaten ist in die Liegenschafts\- und Bauwerkskartei Einsicht zu nehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-55a-eo--berücksichtigung-des-grundbuchsstands) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=55a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_76_TextContainer_76) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-55a-eo--berücksichtigung-des-grundbuchsstands) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=55a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_76_TextContainer_76) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-55a-eo--berücksichtigung-des-grundbuchsstands)) \]
 
 ----
 
@@ -1778,7 +1778,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die vorstehenden Bestimmungen gelten auch für die Versäumung von Fristen, die für schriftliche Erklärungen oder Äußerungen der Parteien oder sonstigen Beteiligten gegeben werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-56-eo--säumnis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=56) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_77_TextContainer_77) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-56-eo--säumnis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=56) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_77_TextContainer_77) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-56-eo--säumnis)) \]
 
 ----
 
@@ -1788,7 +1788,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Von der Erstreckung einer zur mündlichen Verhandlung, zur Einvernehmung von Parteien oder sonstigen Beteiligten, zur Anbringung von Anträgen, Erinnerungen und Einwendungen oder zur Erhebung eines Widerspruches bestimmten Tagsatzung sind die trotz gehöriger Ladung zur ersten Tagsatzung nicht erschienenen Personen nicht zu verständigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-57-eo--präklusion) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=57) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_78_TextContainer_78) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-57-eo--präklusion) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=57) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_78_TextContainer_78) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-57-eo--präklusion)) \]
 
 ----
 
@@ -1800,7 +1800,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Beginnt eine Frist mit dem Einlangen eines Antrags bei Gericht und wird die mit dem Antrag verbundene Rechtsfolge auch bei einer Zustimmung zum Antrag des Antragsgegners vorgesehen, so beginnt in diesem Fall die Frist mit dem Einlangen der Zustimmung bei Gericht oder mangels einer solchen mit dem Ablauf der zur Äußerung festgelegten Frist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-58-eo--fristen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=58) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_79_TextContainer_79) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-58-eo--fristen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=58) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_79_TextContainer_79) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-58-eo--fristen)) \]
 
 ----
 
@@ -1814,7 +1814,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Das Protokoll ist, sofern nichts anderes im gegenwärtigen Gesetz angeordnet ist, nur vom Richter und dem der Tagsatzung beigezogenen Schriftführer zu unterschreiben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-59-eo--mündliche-verhandlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=59) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_80_TextContainer_80) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-59-eo--mündliche-verhandlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=59) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_80_TextContainer_80) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-59-eo--mündliche-verhandlung)) \]
 
 ----
 
@@ -1822,7 +1822,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Das Gericht kann mündliche Verhandlungen, Tagsatzungen und Einvernehmungen mit Ausnahme des Versteigerungstermins unter Verwendung geeigneter technischer Kommunikationsmittel zur Wort\- und Bildübertragung durchführen, sofern die persönliche Anwesenheit der Parteien oder der zu vernehmenden Person für die Durchführung des Verfahrens und die Entscheidungsfindung nicht erforderlich ist, diese Vorgangsweise unter dem Gesichtspunkt der Verfahrensökonomie tunlich ist und die technischen Voraussetzungen vorhanden sind, um die Durchführung verfahrenskonform sicherzustellen\. Die Parteien können eine solche Vorgangsweise bei Gericht lediglich anregen\. Die Parteien und sonstige geladene Personen sind berechtigt, persönlich am Gericht anwesend zu sein, wenn sie dies mindestens drei Tage vor der mündlichen Verhandlung, Tagsatzung oder Einvernehmung schriftlich bekanntgeben
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-59a-eo--virtuelle-durchführung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=59a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_81_TextContainer_81) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-59a-eo--virtuelle-durchführung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=59a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_81_TextContainer_81) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-59a-eo--virtuelle-durchführung)) \]
 
 ----
 
@@ -1834,7 +1834,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Überdies hat das Vollstreckungsorgan die mit seiner Amtshandlung in Zusammenhang stehenden Anträge und Erklärungen der Parteien entgegenzunehmen und erforderlichenfalls zu beurkunden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-60-eo--protokoll-über-exekutionshandlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=60) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_82_TextContainer_82) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-60-eo--protokoll-über-exekutionshandlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=60) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_82_TextContainer_82) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-60-eo--protokoll-über-exekutionshandlungen)) \]
 
 ----
 
@@ -1842,7 +1842,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Wenn eine Exekutionshandlung vom Vollstreckungsorgan nicht gesetzgemäß oder auftraggemäß ausgeführt wurde, hat das Gericht von amtswegen dem Vollstreckungsorgan die Weisungen zu erteilen, welche zur Behebung der unterlaufenen Fehler oder sonst zum richtigen Vollzug der Exekutionshandlung nötig sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-61-eo--weisungen-an-vollstreckungsorgane) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=61) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_83_TextContainer_83) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-61-eo--weisungen-an-vollstreckungsorgane) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=61) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_83_TextContainer_83) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-61-eo--weisungen-an-vollstreckungsorgane)) \]
 
 ----
 
@@ -1850,7 +1850,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Sofern nicht ein durch Klage eingeleiteter Streit zu entscheiden ist oder das Gesetz etwas anderes anordnet, erfolgen die gerichtlichen Entscheidungen im Exekutionsverfahren und alle in diesem Verfahren vorkommenden gerichtlichen Verfügungen durch Beschluss\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-62-eo--beschlüsse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=62) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_84_TextContainer_84) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-62-eo--beschlüsse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=62) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_84_TextContainer_84) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-62-eo--beschlüsse)) \]
 
 ----
 
@@ -1868,7 +1868,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `5.` die Bezeichnung des Exekutionsgerichts\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-63-eo--bewilligung-der-exekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=63) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_85_TextContainer_85) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-63-eo--bewilligung-der-exekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=63) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_85_TextContainer_85) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-63-eo--bewilligung-der-exekution)) \]
 
 ----
 
@@ -1880,7 +1880,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Hat der betreibende Gläubiger im Exekutionsantrag oder einem sonstigen Antrag eine neue Anschrift oder einen neuen Namen des Schuldners angegeben und steht fest, dass dadurch ein Dritter als Verpflichteter in das Exekutionsverfahren einbezogen wurde, insbesondere durch Einstellung der Exekution nach § 39 Abs\. 1 Z 10, so hat der betreibende Gläubiger dem Verpflichteten die notwendigen Kosten zu ersetzen\. Diese Kosten sind, wenn nicht höhere Kosten nachgewiesen werden, mit 50 Euro festzusetzen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-63a-eo--schadenersatz-und-kostenersatz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=63a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_86_TextContainer_86) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-63a-eo--schadenersatz-und-kostenersatz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=63a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_86_TextContainer_86) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-63a-eo--schadenersatz-und-kostenersatz)) \]
 
 ----
 
@@ -1888,7 +1888,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Wurde die Exekutionsbewilligung mutwillig erwirkt, so ist dem betreibenden Gläubiger überdies eine vom Gericht mit Rücksicht auf die besonderen Umstände des Einzelfalls, insbesondere auf die Höhe des zu Unrecht in Exekution gezogenen Betrags, zu bemessende Mutwillensstrafe von mindestens 100 Euro aufzuerlegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-63b-eo--mutwillensstrafe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=63b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_87_TextContainer_87) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-63b-eo--mutwillensstrafe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=63b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_87_TextContainer_87) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-63b-eo--mutwillensstrafe)) \]
 
 ----
 
@@ -1900,7 +1900,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Wenn hienach die Zustellung einer schriftlichen Ausfertigung nicht zu erfolgen hat, begründet die mündliche Verkündung die Wirkung der Zustellung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-64-eo--verkündung-und-ausfertigung-von-beschlüssen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=64) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_88_TextContainer_88) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-64-eo--verkündung-und-ausfertigung-von-beschlüssen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=64) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_88_TextContainer_88) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-64-eo--verkündung-und-ausfertigung-von-beschlüssen)) \]
 
 ----
 
@@ -1920,7 +1920,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Schreitet der Kinder\- und Jugendhilfeträger als Partei oder Parteienvertreter ein, so besteht für ihn keine Vertretungspflicht\. Er ist anwaltlich vertretenen Parteien gleichzuhalten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-65-eo--rekurs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=65) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_89_TextContainer_89) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-65-eo--rekurs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=65) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_89_TextContainer_89) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-65-eo--rekurs)) \]
 
 ----
 
@@ -1942,7 +1942,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Gegen eine von Amts wegen angeordnete Überweisung des Exekutionsverfahrens ist kein Rekurs zulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-66-eo--rekursbeschränkungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=66) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_90_TextContainer_90) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-66-eo--rekursbeschränkungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=66) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_90_TextContainer_90) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-66-eo--rekursbeschränkungen)) \]
 
 ----
 
@@ -1956,7 +1956,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Das Vollzugsgericht hat sodann je nach dem Inhalt der ihm zukommenden Mitteilungen alle zur Fortsetzung oder zur Einstellung, Einschränkung oder Aufschiebung des Exekutionsvollzugs erforderlichen Anordnungen zu erlassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-67-eo--ausführung-von-beschlüssen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=67) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_91_TextContainer_91) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-67-eo--ausführung-von-beschlüssen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=67) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_91_TextContainer_91) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-67-eo--ausführung-von-beschlüssen)) \]
 
 ----
 
@@ -1964,7 +1964,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Wer sich durch einen Vorgang des Exekutionsvollzugs, insbesondere durch eine Amtshandlung des Vollstreckungsorgans oder des Verwalters oder durch die Verweigerung einer Exekutionshandlung, für beschwert erachtet, kann vom Exekutionsgericht Abhilfe verlangen\. Die Vollzugsbeschwerde ist innerhalb von 14 Tagen nach Kenntnis vom Exekutionsvollzug oder von der Verweigerung der Exekutionshandlung einzubringen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-68-eo--vollzugsbeschwerde) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=68) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_92_TextContainer_92) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-68-eo--vollzugsbeschwerde) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=68) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_92_TextContainer_92) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-68-eo--vollzugsbeschwerde)) \]
 
 ----
 
@@ -1974,7 +1974,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 > Das Exekutionsgericht hat mit der Erlassung der erforderlichen Ersuchschreiben von amtswegen vorzugehen, wenn sich im Laufe eines Exekutionsverfahrens die Notwendigkeit ergibt, behufs Vornahme einzelner, außerhalb des Sprengels des Exekutionsgerichts zu bewirkender Exekutionsmaßregeln oder überhaupt zur Erledigung eines anhängigen Exekutionsverfahrens die Mitwirkung eines anderen Gerichtes in Anspruch zu nehmen, oder wenn während eines Exekutionsverfahrens die Mitwirkung anderer Behörden notwendig wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-69-eo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=69) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_93_TextContainer_93) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-69-eo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=69) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_93_TextContainer_93) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-69-eo)) \]
 
 ----
 
@@ -1984,7 +1984,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Durch die Erhebung des Widerspruches wird die Vollziehung der getroffenen Entscheidung nicht gehemmt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-70-eo--widerspruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=70) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_94_TextContainer_94) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-70-eo--widerspruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=70) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_94_TextContainer_94) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-70-eo--widerspruch)) \]
 
 ----
 
@@ -1994,7 +1994,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Bei Versteigerungsedikten kann das Gericht jedoch von Amts wegen oder auf Antrag verfügen, dass das Edikt auch in Zeitungen veröffentlicht oder sonst bekannt gemacht wird, wenn dadurch offenkundig mehr Kaufinteressenten angesprochen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-71-eo--öffentliche-bekanntmachung-ediktsdatei) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=71) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_95_TextContainer_95) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-71-eo--öffentliche-bekanntmachung-ediktsdatei) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=71) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_95_TextContainer_95) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-71-eo--öffentliche-bekanntmachung-ediktsdatei)) \]
 
 ----
 
@@ -2016,7 +2016,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die übrigen Daten sind zu löschen, wenn seit der Aufnahme in die Ediktsdatei ein Monat vergangen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-71a-eo--löschen-der-daten-der-ediktsdatei) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=71a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_96_TextContainer_96) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-71a-eo--löschen-der-daten-der-ediktsdatei) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=71a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_96_TextContainer_96) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-71a-eo--löschen-der-daten-der-ediktsdatei)) \]
 
 ----
 
@@ -2026,7 +2026,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Aufforderungen und Mitteilungen, welche wegen Abwesenheit der Person, an welche sie zu richten sind, nicht mündlich geschehen können, sind derselben schriftlich zuzustellen\. Die Befolgung dieser Vorschrift ist im Protokolle zu bemerken\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-72-eo--aufforderungen-und-mitteilungen-bei-einer-exekutionshandlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=72) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_97_TextContainer_97) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-72-eo--aufforderungen-und-mitteilungen-bei-einer-exekutionshandlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=72) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_97_TextContainer_97) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-72-eo--aufforderungen-und-mitteilungen-bei-einer-exekutionshandlung)) \]
 
 ----
 
@@ -2034,7 +2034,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Parteien und alle sonstigen Beteiligten können Einsicht in die das Exekutionsverfahren betreffenden Akten begehren und auf ihre Kosten von einzelnen Aktenstücken Abschriften verlangen\. Solche Einsicht\- und Abschriftnahme kann auch dritten Personen, insoweit sie ein rechtliches Interesse glaubhaft machen, gestattet werden\. Durch die Abschriftnahme dürfen jedoch die gerade dringend benötigten Aktenstücke dem Vollstreckungsorgan nicht entzogen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-73-eo--exekutionsakten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=73) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_98_TextContainer_98) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-73-eo--exekutionsakten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=73) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_98_TextContainer_98) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-73-eo--exekutionsakten)) \]
 
 ----
 
@@ -2048,7 +2048,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Beschlüsse, mit denen die Exekutionskosten bestimmt werden, sind ab deren Erlassung vollstreckbar\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-74-eo--kosten-der-exekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=74) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_99_TextContainer_99) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-74-eo--kosten-der-exekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=74) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_99_TextContainer_99) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-74-eo--kosten-der-exekution)) \]
 
 ----
 
@@ -2056,7 +2056,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Der betreibende Gläubiger, der einen Antrag im elektronischen Rechtsverkehr einbringt, braucht Barauslagen, wenn sie den Betrag von 30 Euro nicht übersteigen, nur auf Aufforderung des Gerichts zu belegen\. Diese Aufforderung ist bei Bedenken gegen die Richtigkeit der verzeichneten Barauslagen oder auf Verlangen des Verpflichteten zu erlassen\. § 54b Abs\. 2 Z 3 und §§ 54c ff sind sinngemäß anzuwenden, wobei der Verpflichtete im Einspruch nur geltend machen kann, dass die vom betreibenden Gläubiger verzeichneten Barauslagen diesem nicht oder nicht in der geltend gemachten Höhe entstanden sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-74a-eo--barauslagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=74a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_100_TextContainer_100) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-74a-eo--barauslagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=74a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_100_TextContainer_100) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-74a-eo--barauslagen)) \]
 
 ----
 
@@ -2064,7 +2064,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Wenn ein Exekutionsverfahren aus einem der in den §§ 35, 36 und 39 Abs\. 1 Z 1, 9 und 10 sowie § 54e angeführten Gründe eingestellt wird oder dessen Einstellung aus anderen, dem betreibenden Gläubiger bei Stellung des Antrages auf Exekutionsbewilligung oder bei Beginn des Exekutionsvollzugs schon bekannten Gründen erfolgen musste, so hat der betreibende Gläubiger auf Ersatz der gesamten bis zur Einstellung aufgelaufenen Exekutionskosten keinen Anspruch\. Dies gilt nicht, wenn die Exekution eingestellt wird, weil dem Verpflichteten im Titelverfahren die Wiedereinsetzung in den vorigen Stand bewilligt wurde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-75-eo--aberkennung-der-kosten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=75) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_101_TextContainer_101) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-75-eo--aberkennung-der-kosten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=75) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_101_TextContainer_101) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-75-eo--aberkennung-der-kosten)) \]
 
 ----
 
@@ -2072,7 +2072,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Bei der voraussichtlich letzten gerichtlichen Bestimmung der Exekutionskosten sind auch die Auslagen von amtswegen zu berücksichtigen, die durch das Einheben der Exekutionskosten entstehen dürften\. Eine nachträgliche Bestimmung dieser Einhebungskosten findet nicht statt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-76-eo--bestimmung-der-kosten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=76) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_102_TextContainer_102) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-76-eo--bestimmung-der-kosten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=76) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_102_TextContainer_102) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-76-eo--bestimmung-der-kosten)) \]
 
 ----
 
@@ -2080,7 +2080,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Wenn sich mit Rücksicht auf die Höhe der Beträge, die wahrscheinliche Dauer des Erlages oder aus anderen Gründen die fruchtbringende Anlage der im Laufe eines Exekutionsverfahrens zu Gericht erlegten Ertragsüberschüsse, Feilbietungserlöse, Kassareste oder anderen Bargeldbeträge empfiehlt, so hat das Gericht von amtswegen oder auf Antrag wegen deren fruchtbringender Anlage das Geeignete zu veranlassen\. Die näheren Bestimmungen über die Art der Anlage und das hiebei zu beobachtende Verfahren sind im Verordnungswege zu treffen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-77-eo--fruchtbringende-anlegung-gerichtlich-erlegter-barbeträge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=77) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_103_TextContainer_103) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-77-eo--fruchtbringende-anlegung-gerichtlich-erlegter-barbeträge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=77) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_103_TextContainer_103) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-77-eo--fruchtbringende-anlegung-gerichtlich-erlegter-barbeträge)) \]
 
 ----
 
@@ -2096,7 +2096,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `3.` die Hemmung von Fristen und die Erstreckung von Tagsatzungen nach § 222 ZPO\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-78-eo--anwendung-der-zivilprozessordnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=78) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_104_TextContainer_104) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-78-eo--anwendung-der-zivilprozessordnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=78) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_104_TextContainer_104) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-78-eo--anwendung-der-zivilprozessordnung)) \]
 
 ----
 
@@ -2114,7 +2114,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Soweit in diesem Gesetz nichts anderes angeordnet ist, sind die Bestimmungen der §§ 79 bis 84 auf den Zwangsverwalter anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-79-eo--bestellung-eines-verwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=79) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_105_TextContainer_105) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-79-eo--bestellung-eines-verwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=79) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_105_TextContainer_105) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-79-eo--bestellung-eines-verwalters)) \]
 
 ----
 
@@ -2126,7 +2126,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Zum Verwalter kann auch eine juristische Person oder eingetragene Personengesellschaft bestellt werden\. Sie hat dem Gericht bekanntzugeben, wer sie bei Ausübung der Verwaltung vertritt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-80-eo--person-des-verwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=80) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_106_TextContainer_106) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-80-eo--person-des-verwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=80) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_106_TextContainer_106) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-80-eo--person-des-verwalters)) \]
 
 ----
 
@@ -2146,7 +2146,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` In nach § 33 Abs\. 1 verbundenen Verfahren ist dieselbe Person als Verwalter zu bestellen, die die Voraussetzungen zur Bestellung in allen Verfahren erfüllt\. Ist bereits ein Verwalter bestellt, der nicht in allen Verfahren die Voraussetzungen zur Bestellung erfüllt, so ist dieser zu entheben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-80a-eo--auswahl-des-verwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=80a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_107_TextContainer_107) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-80a-eo--auswahl-des-verwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=80a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_107_TextContainer_107) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-80a-eo--auswahl-des-verwalters)) \]
 
 ----
 
@@ -2166,7 +2166,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Die vom Verwalter bekanntgegebenen Umstände sind, wenn sie das Gericht nicht zum Anlass nimmt, den Verwalter zu entheben, den Parteien mitzuteilen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-80b-eo--unabhängigkeit-des-verwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=80b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_108_TextContainer_108) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-80b-eo--unabhängigkeit-des-verwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=80b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_108_TextContainer_108) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-80b-eo--unabhängigkeit-des-verwalters)) \]
 
 ----
 
@@ -2180,7 +2180,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Wird der Verwalter seines Amtes enthoben, lehnt der Bestellte die Übernahme der Tätigkeit ab oder fällt er sonst weg, so hat das Gericht von Amts wegen eine andere Person zum Verwalter zu bestellen\. Gegen den Beschluss, mit dem ein anderer Verwalter bestellt wird, ist kein Rekurs zulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-80c-eo--enthebung-des-verwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=80c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_109_TextContainer_109) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-80c-eo--enthebung-des-verwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=80c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_109_TextContainer_109) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-80c-eo--enthebung-des-verwalters)) \]
 
 ----
 
@@ -2190,7 +2190,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Der Verwalter und das Vollstreckungsorgan sind zur Einsicht in die Akten des jeweiligen anderen Verfahrens berechtigt, soweit dies für die Durchführung der Exekution erforderlich ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-80d-eo--zusammenarbeit-und-kommunikation-von-verwalter-und-vollstreckungsorgan) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=80d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_110_TextContainer_110) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-80d-eo--zusammenarbeit-und-kommunikation-von-verwalter-und-vollstreckungsorgan) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=80d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_110_TextContainer_110) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-80d-eo--zusammenarbeit-und-kommunikation-von-verwalter-und-vollstreckungsorgan)) \]
 
 ----
 
@@ -2214,7 +2214,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(9)` Soweit in diesem Gesetz nichts anderes angeordnet ist, sind die für das Vollstreckungsorgan geltenden allgemeinen Bestimmungen auch auf den Verwalter anzuwenden\. Der Verwalter kann von den allgemeinen Bestimmungen jedoch abweichen, soweit diese nicht zur Wahrung der Interessen des Verpflichteten oder Dritter geboten sind; der Verwalter kann auch gesetzliche Fristen überschreiten, sofern solche Fristen in diesem Bundesgesetz vorgesehen sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-81-eo--befugnisse-und-tätigkeit-des-verwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=81) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_111_TextContainer_111) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-81-eo--befugnisse-und-tätigkeit-des-verwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=81) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_111_TextContainer_111) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-81-eo--befugnisse-und-tätigkeit-des-verwalters)) \]
 
 ----
 
@@ -2224,7 +2224,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Der Verwalter ist allen Beteiligten für Vermögensnachteile, die er ihnen durch pflichtwidrige Führung seines Amtes verursacht, verantwortlich\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-81a-eo--geschäftskreis-und-verantwortlichkeit-des-verwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=81a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_112_TextContainer_112) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-81a-eo--geschäftskreis-und-verantwortlichkeit-des-verwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=81a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_112_TextContainer_112) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-81a-eo--geschäftskreis-und-verantwortlichkeit-des-verwalters)) \]
 
 ----
 
@@ -2246,7 +2246,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Das Exekutionsgericht kann den Verwalter auf seinen Antrag jederzeit ermächtigen, aus den Erträgnissen angemessene Vorschüsse zu entnehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-82-eo--entlohnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=82) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_113_TextContainer_113) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-82-eo--entlohnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=82) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_113_TextContainer_113) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-82-eo--entlohnung)) \]
 
 ----
 
@@ -2254,7 +2254,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Regelentlohnung nach § 82 erhöht sich, soweit dies unter Berücksichtigung außergewöhnlicher Umstände geboten ist, und zwar insbesondere im Hinblick auf die Größe und Schwierigkeit des Verfahrens oder den für den Gläubiger erzielten besonderen Erfolg\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-82a-eo--erhöhung-der-entlohnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=82a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_114_TextContainer_114) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-82a-eo--erhöhung-der-entlohnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=82a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_114_TextContainer_114) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-82a-eo--erhöhung-der-entlohnung)) \]
 
 ----
 
@@ -2262,7 +2262,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Regelentlohnung nach § 82 vermindert sich, soweit dies unter Berücksichtigung außergewöhnlicher Umstände geboten ist, und zwar insbesondere im Hinblick auf die Einfachheit und Kürze des Verfahrens\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-82b-eo--verminderung-der-entlohnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=82b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_115_TextContainer_115) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-82b-eo--verminderung-der-entlohnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=82b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_115_TextContainer_115) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-82b-eo--verminderung-der-entlohnung)) \]
 
 ----
 
@@ -2272,7 +2272,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Über den Anspruch des Verwalters hat das Exekutionsgericht nach Einvernahme des betreibenden Gläubigers und des Verpflichteten gemeinsam mit der Entscheidung über die Rechnung zu entscheiden\. Wird gegen die Entscheidung Rekurs erhoben, so ist die Rekursschrift den anderen Rekursberechtigten zuzustellen\. Diese können binnen 14 Tagen ab Zustellung des Rekurses eine Rekursbeantwortung anbringen\. Ein Kostenersatz findet im Rekursverfahren nicht statt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-82c-eo--geltendmachung-der-entlohnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=82c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_116_TextContainer_116) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-82c-eo--geltendmachung-der-entlohnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=82c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_116_TextContainer_116) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-82c-eo--geltendmachung-der-entlohnung)) \]
 
 ----
 
@@ -2282,7 +2282,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Rechnungslegung hat mittels Überreichung einer mit den nötigen Belegen versehenen Rechnung zu geschehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-83-eo--berichtspflicht-und-rechnungslegung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=83) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_117_TextContainer_117) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-83-eo--berichtspflicht-und-rechnungslegung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=83) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_117_TextContainer_117) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-83-eo--berichtspflicht-und-rechnungslegung)) \]
 
 ----
 
@@ -2290,7 +2290,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Das Exekutionsgericht hat dem Verpflichteten und dem betreibenden Gläubiger unter Setzung einer bestimmten Frist Gelegenheit zu geben, sich zu der vom Verwalter gelegten Rechnung zu äußern\. Über Einwendungen kann eine Tagsatzung anberaumt werden\. Von den Personen, die keine Einwendungen erhoben haben, wird angenommen, dass sie die gelegte Rechnung als richtig anerkennen\. Diese Rechtsfolge ist in der Aufforderung zur Äußerung bekanntzugeben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-83a-eo--äußerung-zur-rechnungslegung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=83a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_118_TextContainer_118) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-83a-eo--äußerung-zur-rechnungslegung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=83a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_118_TextContainer_118) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-83a-eo--äußerung-zur-rechnungslegung)) \]
 
 ----
 
@@ -2300,7 +2300,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Den Personen, die keine Einwendungen erhoben haben, steht der Rekurs gegen die Entscheidung über die Verwaltungsrechnung nicht zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-83b-eo--entscheidung-über-die-rechnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=83b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_119_TextContainer_119) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-83b-eo--entscheidung-über-die-rechnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=83b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_119_TextContainer_119) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-83b-eo--entscheidung-über-die-rechnung)) \]
 
 ----
 
@@ -2310,7 +2310,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Dem Verwalter rechtskräftig auferlegte Ersätze sind durch Einrechnung auf die ihm zugesprochene Entlohnung oder auf die ihm als Barauslagen gebührende Summe, falls dies aber unausführbar wäre oder nicht vollen Erfolg hätte, durch Exekution auf das Vermögen des Verwalters hereinzubringen\. Das Exekutionsgericht hat dies von Amts wegen zwangsweise durchzusetzen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-83c-eo--erfüllung-der-rechnungslegungspflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=83c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_120_TextContainer_120) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-83c-eo--erfüllung-der-rechnungslegungspflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=83c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_120_TextContainer_120) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-83c-eo--erfüllung-der-rechnungslegungspflicht)) \]
 
 ----
 
@@ -2322,7 +2322,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Über Beschwerden von beteiligten Gläubigern, vom Verpflichteten und von Miteigentümern des verwalteten Vermögensobjekts gegen einzelne Maßnahmen oder das Verhalten des Verwalters entscheidet das Exekutionsgericht nach Einvernehmung des Verwalters und derjenigen Personen, für welche diese Entscheidung von Belang ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-84-eo--überwachung-der-geschäftsführung-des-verwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=84) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_121_TextContainer_121) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-84-eo--überwachung-der-geschäftsführung-des-verwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=84) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_121_TextContainer_121) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-84-eo--überwachung-der-geschäftsführung-des-verwalters)) \]
 
 ----
 
@@ -2342,7 +2342,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 > &nbsp; anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-84a-eo--verwertung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=84a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_122_TextContainer_122) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-84a-eo--verwertung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=84a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_122_TextContainer_122) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-84a-eo--verwertung)) \]
 
 ----
 
@@ -2366,7 +2366,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(9)` Der Zuschlag an den Meistbietenden hat zu erfolgen und die Versteigerung ist zu schließen, wenn ungeachtet einer zweimaligen Aufforderung kein höheres Anbot abgegeben wird und der Meistbietende bei der Versteigerung unbeweglicher Sachen das Vadium erlegt hat\. Vor dem Schluss der Versteigerung hat die den Termin leitende Person das letzte Anbot noch einmal bekannt zu geben\. Der Schluss der Versteigerung ist zu verkünden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-85-eo--versteigerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=85) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_123_TextContainer_123) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-85-eo--versteigerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=85) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_123_TextContainer_123) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-85-eo--versteigerung)) \]
 
 ----
 
@@ -2378,7 +2378,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Eine Person, die vor oder während des Versteigerungstermins Vereinbarungen im Sinn des Abs\. 1 schließt oder zu schließen versucht, kann vom Bieten ausgeschlossen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-86-eo--unzulässige-bieterabsprachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=86) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_124_TextContainer_124) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-86-eo--unzulässige-bieterabsprachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=86) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_124_TextContainer_124) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-86-eo--unzulässige-bieterabsprachen)) \]
 
 ----
 
@@ -2388,7 +2388,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Das Exekutionsgericht hat, soweit dieses Gesetz nichts anderes bestimmt, bei der Verteilung der bei einer Zwangsverwaltung erzielten Erträgnisse nach den Bestimmungen über die Zwangsverwaltung von Liegenschaften, bei der Verteilung des Erlöses aus der Verwertung nach den Bestimmungen über die Exekution auf bewegliche Sachen vorzugehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-87-eo--verteilung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=87) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_125_TextContainer_125) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-87-eo--verteilung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=87) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_125_TextContainer_125) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-87-eo--verteilung)) \]
 
 ----
 
@@ -2396,7 +2396,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Der Verwalter hat einen Verteilungsentwurf zu erstellen und den Verteilungsbeschluss des Exekutionsgerichts auszuführen\. Er hat den Vollzug der Verteilung dem Gericht nachzuweisen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-87a-eo--verteilungsentwurf) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=87a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_126_TextContainer_126) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-87a-eo--verteilungsentwurf) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=87a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_126_TextContainer_126) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-87a-eo--verteilungsentwurf)) \]
 
 ----
 
@@ -2404,7 +2404,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Mit Erteilung des Zuschlags tritt der Ersteher in solche Verträge mit Dritten ein, von deren Bestand die Funktion und der Wert des Vermögensobjekts maßgeblich abhängt\. Das Exekutionsgericht hat auf Antrag den Eintritt des Erstehers nach Einvernehmung des Dritten festzustellen\. Der Vertragsübergang berechtigt den Dritten nicht zur Kündigung, sofern ihm die Fortsetzung des Vertrags mit dem Ersteher zumutbar ist; unberührt bleiben sonstige vereinbarte oder gesetzliche Gründe für eine Vertragsbeendigung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-87b-eo--verträge-mit-dritten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=87b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_127_TextContainer_127) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-87b-eo--verträge-mit-dritten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=87b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_127_TextContainer_127) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-87b-eo--verträge-mit-dritten)) \]
 
 ----
 
@@ -2424,7 +2424,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Zu Gunsten einer vollstreckbaren Geldforderung kann auf Antrag des betreibenden Gläubigers ein Pfandrecht an einer Liegenschaft des Verpflichteten oder an einem diesem gehörenden Liegenschaftsanteil, einem Superädifikat oder einem Baurecht begründet werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-88-eo--bewilligung-und-vollzug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=88) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_128_TextContainer_128) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-88-eo--bewilligung-und-vollzug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=88) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_128_TextContainer_128) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-88-eo--bewilligung-und-vollzug)) \]
 
 ----
 
@@ -2436,7 +2436,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Bei der bücherlichen Einverleibung des Pfandrechtes ist die Forderung, für die das Pfandrecht eingetragen wird, als vollstreckbar zu bezeichnen\. Diese Einverleibung hat die Wirkung, dass wegen der vollstreckbaren Forderung auf die Liegenschaft oder den Liegenschaftsanteil unmittelbar gegen jeden späteren Erwerber derselben Exekution geführt werden kann\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-89-eo--pfändung-von-liegenschaften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=89) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_129_TextContainer_129) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-89-eo--pfändung-von-liegenschaften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=89) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_129_TextContainer_129) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-89-eo--pfändung-von-liegenschaften)) \]
 
 ----
 
@@ -2444,7 +2444,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Ist eine Forderung vollstreckbar geworden, für die schon auf Grund einer dem Eintritt der Vollstreckbarkeit vorausgehenden Bestellung ein Pfandrecht einverleibt war, so ist auf Antrag des betreibenden Gläubigers die bücherliche Anmerkung der Vollstreckbarkeit zu bewilligen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-90-eo--anmerkung-der-vollstreckbarkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=90) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_130_TextContainer_130) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-90-eo--anmerkung-der-vollstreckbarkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=90) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_130_TextContainer_130) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-90-eo--anmerkung-der-vollstreckbarkeit)) \]
 
 ----
 
@@ -2454,7 +2454,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Pfändung kann nur für eine ziffernmäßig bestimmte Geldsumme stattfinden; die ziffernmäßige Angabe der vom Verpflichteten zu leistenden Nebengebühren ist nicht notwendig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-91-eo--pfändung-von-superädifikaten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=91) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_131_TextContainer_131) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-91-eo--pfändung-von-superädifikaten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=91) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_131_TextContainer_131) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-91-eo--pfändung-von-superädifikaten)) \]
 
 ----
 
@@ -2462,7 +2462,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Pfändung ist nur dann vorzunehmen, wenn und soweit das Superädifikat im Besitz oder Mitbesitz des Verpflichteten steht\. Wenn dieser Besitz weder dem Exekutionsgericht bekannt ist noch durch Urkunden glaubhaft gemacht wird, hat der Anordnung der Pfändung eine Einvernehmung des Verpflichteten über die Frage des Besitzes vorauszugehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-92-eo--voraussetzungen-der-pfändung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=92) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_132_TextContainer_132) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-92-eo--voraussetzungen-der-pfändung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=92) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_132_TextContainer_132) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-92-eo--voraussetzungen-der-pfändung)) \]
 
 ----
 
@@ -2476,7 +2476,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Von der durchgeführten pfandweisen Beschreibung hat das Exekutionsgericht den betreibenden Gläubiger und den Verpflichteten zu verständigen; sie ist auch öffentlich bekanntzumachen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-93-eo--durchführung-der-pfandweisen-beschreibung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=93) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_133_TextContainer_133) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-93-eo--durchführung-der-pfandweisen-beschreibung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=93) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_133_TextContainer_133) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-93-eo--durchführung-der-pfandweisen-beschreibung)) \]
 
 ----
 
@@ -2484,7 +2484,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Eine später zu Gunsten anderer vollstreckbarer Forderungen bewilligte Pfändung desselben Superädifikats ist, solange die Richtigkeit und Vollständigkeit der ersten pfandweisen Beschreibung unbestritten ist, durch Anmerkung auf dem bereits errichteten Protokoll zu vollziehen\. In der Anmerkung ist der Gläubiger zu benennen, auf dessen Antrag die weitere Pfändung stattfindet, und es ist dessen vollstreckbare Forderung im Sinn des § 91 zu bezeichnen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-94-eo--exekution-zugunsten-eines-weiteren-gläubigers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=94) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_134_TextContainer_134) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-94-eo--exekution-zugunsten-eines-weiteren-gläubigers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=94) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_134_TextContainer_134) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-94-eo--exekution-zugunsten-eines-weiteren-gläubigers)) \]
 
 ----
 
@@ -2496,7 +2496,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Der Beschluss darf erst nach Eintritt der Rechtskraft in Vollzug gesetzt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-95-eo--einschränkung-der-exekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=95) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_135_TextContainer_135) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-95-eo--einschränkung-der-exekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=95) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_135_TextContainer_135) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-95-eo--einschränkung-der-exekution)) \]
 
 ----
 
@@ -2504,7 +2504,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Soweit das Gesetz nichts anderes bestimmt, sind die Bestimmungen über die zwangsweise Pfandrechtsbegründung von Liegenschaften auch auf einzelne Liegenschaftsanteile und Baurechte anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-96-eo--liegenschaftsanteile-und-baurechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=96) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_136_TextContainer_136) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-96-eo--liegenschaftsanteile-und-baurechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=96) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_136_TextContainer_136) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-96-eo--liegenschaftsanteile-und-baurechte)) \]
 
 ----
 
@@ -2522,7 +2522,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Wurde die Zwangsverwaltung innerhalb des letzten Jahres eingestellt, weil die Erzielung von Erträgnissen, die zur Befriedigung der betreibenden Gläubiger verwendet werden könnten, überhaupt nicht oder doch innerhalb eines Jahres nicht zu erwarten ist, so setzt die Bewilligung der Zwangsverwaltung voraus, dass der betreibende Gläubiger bescheinigt, dass die Erzielung von Erträgnissen, die zur Befriedigung der betreibenden Gläubiger verwendet werden könnten, zu erwarten ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-97-eo--anwendbarkeit-der-zwangsverwaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=97) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_137_TextContainer_137) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-97-eo--anwendbarkeit-der-zwangsverwaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=97) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_137_TextContainer_137) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.005.md#-97-eo--anwendbarkeit-der-zwangsverwaltung)) \]
 
 ----
 
@@ -2538,7 +2538,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Der Zwangsverwaltung steht nicht entgegen, dass der Verpflichtete nicht im öffentlichen Buch als Eigentümer der Liegenschaft eingetragen ist, wenn die Exekutionsbewilligung nach § 335 Abs\. 1 im öffentlichen Buch angemerkt wurde\. Der betreibende Gläubiger sowie der Zwangsverwalter können um die bücherliche Eintragung des Eigentumsrechts des Verpflichteten ansuchen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-98-eo--anmerkung-im-grundbuch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=98) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_138_TextContainer_138) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-98-eo--anmerkung-im-grundbuch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=98) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_138_TextContainer_138) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-98-eo--anmerkung-im-grundbuch)) \]
 
 ----
 
@@ -2546,7 +2546,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Bewilligung der Exekution ist dem betreibenden Gläubiger und dem Verpflichteten zuzustellen\. Ab Zustellung dieses Beschlusses an den Verpflichteten sind Rechtshandlungen des Verpflichteten, die die in Exekution gezogene Liegenschaft sowie deren Zubehör betreffen und die nicht zur ordentlichen Verwaltung gehören, den Gläubigern gegenüber unwirksam\. Auf diese Rechtsfolge ist hinzuweisen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-98a-eo--zustellungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=98a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_139_TextContainer_139) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-98a-eo--zustellungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=98a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_139_TextContainer_139) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-98a-eo--zustellungen)) \]
 
 ----
 
@@ -2558,7 +2558,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Kommt der Verpflichtete dem Auftrag nach Abs\. 2 nicht nach, so kann das Exekutionsgericht auf Ersuchen des Verwalters anordnen, dass die Liegenschaft dem Verwalter durch das Vollstreckungsorgan zur Verwaltung und Einziehung der Erträgnisse übergeben wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-99-eo--bestellung-des-zwangsverwalters-und-übernahme-der-liegenschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=99) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_140_TextContainer_140) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-99-eo--bestellung-des-zwangsverwalters-und-übernahme-der-liegenschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=99) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_140_TextContainer_140) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-99-eo--bestellung-des-zwangsverwalters-und-übernahme-der-liegenschaft)) \]
 
 ----
 
@@ -2566,7 +2566,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Enthebung und die Bestellung eines anderen Verwalters sind öffentlich bekanntzumachen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-99a-eo--bekanntmachung-der-enthebung-und-der-bestellung-eines-anderen-verwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=99a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_141_TextContainer_141) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-99a-eo--bekanntmachung-der-enthebung-und-der-bestellung-eines-anderen-verwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=99a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_141_TextContainer_141) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-99a-eo--bekanntmachung-der-enthebung-und-der-bestellung-eines-anderen-verwalters)) \]
 
 ----
 
@@ -2574,7 +2574,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Zwangsverwaltung ist, vorbehaltlich der Anwendung des § 14, § 27 Abs\. 1 und § 41 Abs\. 2, aufzuschieben, wenn zur Hereinbringung derselben Forderung Exekution auf wiederkehrende Geldforderungen geführt wird und der pfändbare Betrag voraussichtlich ausreichen wird, die hereinzubringende Forderung samt Nebengebühren im Lauf eines Jahres zu tilgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-99b-eo--aufschiebung-der-zwangsverwaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=99b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_142_TextContainer_142) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-99b-eo--aufschiebung-der-zwangsverwaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=99b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_142_TextContainer_142) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-99b-eo--aufschiebung-der-zwangsverwaltung)) \]
 
 ----
 
@@ -2582,7 +2582,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Bei Aufschiebung der Zwangsverwaltung nach § 45a werden bereits vollzogene Exekutionsakte aufgehoben\. Der Pfandrang bleibt erhalten; die bücherliche Löschung der Anmerkung ist nicht zu veranlassen\. Im Übrigen ist § 130 sinngemäß anzuwenden; der Zwangsverwalter ist zu entheben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-99c-eo--folgen-der-aufschiebung-aufgrund-einer-zahlungsvereinbarung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=99c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_143_TextContainer_143) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-99c-eo--folgen-der-aufschiebung-aufgrund-einer-zahlungsvereinbarung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=99c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_143_TextContainer_143) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-99c-eo--folgen-der-aufschiebung-aufgrund-einer-zahlungsvereinbarung)) \]
 
 ----
 
@@ -2594,7 +2594,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Vom Beitritt ist neben dem neuen Gläubiger auch der Verpflichtete zu verständigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-100-eo--beitritt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=100) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_144_TextContainer_144) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-100-eo--beitritt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=100) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_144_TextContainer_144) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-100-eo--beitritt)) \]
 
 ----
 
@@ -2602,7 +2602,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Wird die Zwangsverwaltung nicht beim Vollzugsgericht beantragt und ist die Zwangsverwaltung nach dem Stand des Grundbuchs undurchführbar, so hat das zur Entscheidung über den Exekutionsantrag berufene Gericht – wenn das Hindernis beseitigt werden kann – dem betreibenden Gläubiger aufzutragen, innerhalb einer nach Ermessen zu bestimmenden Frist die Beseitigung des wahrgenommenen Hindernisses darzutun\. Nach fruchtlosem Ablauf dieser Frist ist der Exekutionsantrag abzuweisen\. Ergibt sich das Hindernis erst aus dem für das Vollzugsgericht maßgebendem Grundbuchsstand, so ist die Zwangsverwaltung, wenn das Hindernis beseitigt werden kann, nach fruchtlosem Ablauf der Frist, sonst sofort von Amts wegen einzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-101-eo--undurchführbarkeit-der-zwangsverwaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=101) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_145_TextContainer_145) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-101-eo--undurchführbarkeit-der-zwangsverwaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=101) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_145_TextContainer_145) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-101-eo--undurchführbarkeit-der-zwangsverwaltung)) \]
 
 ----
 
@@ -2614,7 +2614,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Sobald die Bewilligung der Zwangsverwaltung angemerkt wurde, kann die bewilligte Zwangsverwaltung gegen jeden späteren Erwerber des Superädifikats durchgeführt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-102-eo--superädifikate) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=102) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_146_TextContainer_146) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-102-eo--superädifikate) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=102) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_146_TextContainer_146) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-102-eo--superädifikate)) \]
 
 ----
 
@@ -2624,7 +2624,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Sobald im Sinne des ersten Absatzes die Zwangsverwaltung einer Liegenschaft eingeleitet wurde, kann, solange sie nicht rechtskräftig eingestellt ist, zu Gunsten weiterer vollstreckbarer Forderungen eine besondere Zwangsverwaltung derselben Liegenschaft nicht mehr eingeleitet werden\. Alle Gläubiger, welchen während dieser Zeit die Zwangsverwaltung der Liegenschaft bewilligt wird, treten damit der bereits eingeleiteten Zwangsverwaltung bei; sie müssen diese in der Lage annehmen, in der sie sich zur Zeit ihres Beitrittes befindet\. Von da an haben die beitretenden Gläubiger dieselben Rechte, als wenn die Zwangsverwaltung auf ihren Antrag eingeleitet worden wäre\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-103-eo--wirkung-der-einleitung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=103) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_147_TextContainer_147) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-103-eo--wirkung-der-einleitung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=103) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_147_TextContainer_147) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-103-eo--wirkung-der-einleitung)) \]
 
 ----
 
@@ -2634,7 +2634,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Bei Superädifikaten bestimmt sich die Priorität nach dem Zeitpunkt der Anmerkung der Bewilligung der Zwangsverwaltung im Protokoll über die pfandweise Beschreibung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-104-eo--priorität-des-befriedigungsrechts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=104) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_148_TextContainer_148) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-104-eo--priorität-des-befriedigungsrechts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=104) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_148_TextContainer_148) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-104-eo--priorität-des-befriedigungsrechts)) \]
 
 ----
 
@@ -2644,7 +2644,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Zur Räumung der Wohnung können Personen nicht angehalten werden, solange sie dieselbe ohne Gefährdung ihrer Gesundheit nicht verlassen können\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-105-eo--wohnungsräume-des-verpflichteten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=105) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_149_TextContainer_149) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-105-eo--wohnungsräume-des-verpflichteten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=105) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_149_TextContainer_149) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-105-eo--wohnungsräume-des-verpflichteten)) \]
 
 ----
 
@@ -2655,7 +2655,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Die in Aussicht genommene Person muss in Zwangsverwaltungen, die Unternehmen erfassen, ausreichende Fachkenntnisse des Wirtschaftsrechts oder der Betriebswirtschaft haben oder eine erfahrene Persönlichkeit des Wirtschaftslebens sein\. Wenn die Zwangsverwaltung ein Unternehmen erfasst, das im Hinblick auf seine Größe, seinen Standort, seine wirtschaftlichen Verflechtungen oder aus anderen gleich wichtigen Gründen von wirtschaftlicher Bedeutung ist, ist eine besonders erfahrene Person heranzuziehen\. Erforderliche Anfragen des Gerichts über diese Eigenschaften sind von den Behörden und den zuständigen gesetzlichen Interessenvertretungen umgehend zu beantworten\.
 > *\(Anm\.: Abs\. 3 und 4 aufgehoben durch Art\. 1 Z 110, BGBl\. I Nr\. 86/2021\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-106-eo--person-des-zwangsverwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=106) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_150_TextContainer_150) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-106-eo--person-des-zwangsverwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=106) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_150_TextContainer_150) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-106-eo--person-des-zwangsverwalters)) \]
 
 ----
 
@@ -2663,7 +2663,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Bei der Auswahl des Zwangsverwalters hat das Gericht weiters allfällige besondere Kenntnisse, insbesondere der Betriebswirtschaft sowie des Steuer\- und Arbeitsrechts, zu berücksichtigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-107-eo--auswahl-des-zwangsverwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=107) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_151_TextContainer_151) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-107-eo--auswahl-des-zwangsverwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=107) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_151_TextContainer_151) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-107-eo--auswahl-des-zwangsverwalters)) \]
 
 ----
 
@@ -2673,7 +2673,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Der Zwangsverwalter ist kraft seiner Bestellung befugt, alle Nutzungen und Einkünfte sowie die Betriebskosten aus der verwalteten Liegenschaft einzuziehen und darüber zu quittieren\. Er kann alle Rechtsgeschäfte und Rechtshandlungen vornehmen und alle Klagen anstrengen, die zur Durchführung der Zwangsverwaltung erforderlich sind, insbesondere auch eine Klage auf Unterlassung schuldhaft schädigender Einwirkungen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-109-eo--geschäftskreis-des-zwangsverwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=109) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_152_TextContainer_152) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-109-eo--geschäftskreis-des-zwangsverwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=109) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_152_TextContainer_152) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-109-eo--geschäftskreis-des-zwangsverwalters)) \]
 
 ----
 
@@ -2681,7 +2681,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Der Verwalter hat dritte Personen, denen Leistungen an den Verpflichteten obliegen, die sich als Einkünfte der verwalteten Liegenschaft darstellen, unter Anschluss einer Ausfertigung der Bestellungsurkunde aufzufordern, diese an den Verwalter zu entrichten\. Nach der Aufforderung des Verwalters, Zahlungen nur an ihn zu leisten, können diese nicht mehr gültig an den Verpflichteten leisten\. Hierauf ist in der Aufforderung hinzuweisen\. Bei früheren Zahlungen einer Schuld an den Verpflichteten wird der Dritte befreit, außer der Zwangsverwalter beweist, dass dem Dritten zur Zeit der Zahlung die Zwangsverwaltung bekannt war\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-110-eo--aufforderung-an-dritte-personen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=110) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_153_TextContainer_153) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-110-eo--aufforderung-an-dritte-personen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=110) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_153_TextContainer_153) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-110-eo--aufforderung-an-dritte-personen)) \]
 
 ----
 
@@ -2689,7 +2689,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Bewilligung der Zwangsverwaltung ist auf die bei Anmerkung der Zwangsverwaltung im Grundbuch bestehenden Miet\- und Pachtverträge ohne Einfluss\. Der Verwalter kann jedoch solche Verträge unter den sonst hiefür maßgebenden Bedingungen kündigen, Klage wegen Räumung erheben und neue Mietverträge für die ortsübliche Dauer abschließen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-111-eo--miet--und-pachtverträge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=111) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_154_TextContainer_154) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-111-eo--miet--und-pachtverträge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=111) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_154_TextContainer_154) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-111-eo--miet--und-pachtverträge)) \]
 
 ----
 
@@ -2707,7 +2707,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Wenn dem für einen Liegenschaftsanteil bestellten Verwalter auch von den übrigen Miteigentümern die Verwaltung übertragen ist, so müssen vor der gerichtlichen Genehmigung von Verfügungen, die nicht innerhalb der ordentlichen Verwaltung gelegen sind, oder anderer Maßregeln von besonderer Wichtigkeit immer auch die von der Zwangsverwaltung nicht betroffenen Miteigentümer über den Antrag des Verwalters einvernommen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-112-eo--genehmigungspflichtige-rechtsgeschäfte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=112) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_155_TextContainer_155) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-112-eo--genehmigungspflichtige-rechtsgeschäfte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=112) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_155_TextContainer_155) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-112-eo--genehmigungspflichtige-rechtsgeschäfte)) \]
 
 ----
 
@@ -2717,7 +2717,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Bei der Zwangsverwaltung von Liegenschaften, die durch Vermietung oder Verpachtung genutzt werden, beträgt die Entlohnung in der Regel 10% des an Mieten oder Pachten eingezogenen Bruttobetrags, mindestens aber 500 Euro\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-113-eo--entlohnung-des-zwangsverwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=113) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_156_TextContainer_156) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-113-eo--entlohnung-des-zwangsverwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=113) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_156_TextContainer_156) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-113-eo--entlohnung-des-zwangsverwalters)) \]
 
 ----
 
@@ -2743,7 +2743,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `4.` die Tatsache, dass der erzielte Erfolg nicht auf die Tätigkeit des Zwangsverwalters zurückzuführen war, sondern auf Leistungen des Verpflichteten oder Dritter\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-114-eo--erhöhung-oder-verminderung-der-entlohnung-des-zwangsverwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=114) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_157_TextContainer_157) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-114-eo--erhöhung-oder-verminderung-der-entlohnung-des-zwangsverwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=114) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_157_TextContainer_157) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-114-eo--erhöhung-oder-verminderung-der-entlohnung-des-zwangsverwalters)) \]
 
 ----
 
@@ -2751,7 +2751,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Das Gericht kann bestimmen, dass der Verwalter die Ertragsüberschüsse bei Gericht zu erlegen hat\. Dabei hat das Gericht die Perioden im Hinblick auf die hinsichtlich der Liegenschaftseinkünfte üblichen Fälligkeitstermine zu bestimmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-115-eo--rechnungslegung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=115) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_158_TextContainer_158) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-115-eo--rechnungslegung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=115) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_158_TextContainer_158) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-115-eo--rechnungslegung)) \]
 
 ----
 
@@ -2773,7 +2773,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Die Zwangsverwaltung erfasst Sachen und Einkünfte nicht, die vor der Anmerkung der Zwangsverwaltung übertragen worden sind\. Bei einer Verpfändung und einer Übereignung oder Zession zur Sicherstellung gehört der nach Berichtigung der gesicherten Forderung samt Nebengebühren erübrigende Teil zu den Verwaltungserträgnissen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-119-eo--verwaltungserträgnisse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=119) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_159_TextContainer_159) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-119-eo--verwaltungserträgnisse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=119) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_159_TextContainer_159) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-119-eo--verwaltungserträgnisse)) \]
 
 ----
 
@@ -2795,7 +2795,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die unmittelbare Berichtigung der unter Abs\. 2 Z 5 angeführten Ausgaben ist nur insoweit zulässig, als die fraglichen Bezugsrechte unbestritten den Vorrang vor dem Befriedigungsrecht des betreibenden Gläubigers genießen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-120-eo--unmittelbare-berichtigung-aus-den-verwaltungserträgnissen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=120) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_160_TextContainer_160) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-120-eo--unmittelbare-berichtigung-aus-den-verwaltungserträgnissen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=120) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_160_TextContainer_160) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-120-eo--unmittelbare-berichtigung-aus-den-verwaltungserträgnissen)) \]
 
 ----
 
@@ -2805,7 +2805,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Für die übrigen in § 120 Abs\. 2 Z 5 bezeichneten Zahlungen ist die nach dem Grundbuchsstand oder nach dem Inhalt des Protokolls über die pfandweise Beschreibung den Bezugsrechten selbst zukommende Rangordnung maßgebend\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-121-eo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=121) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_161_TextContainer_161) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-121-eo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=121) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_161_TextContainer_161) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-121-eo)) \]
 
 ----
 
@@ -2813,7 +2813,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Verteilung der nach Abzug der unmittelbar berichtigten Auslagen \(§ 120\) erübrigenden Erträgnisse \(Ertragsüberschüsse\) hat in der Regel nach Erledigung jeder einzelnen Verwaltungsrechnung stattzufinden\. Das Gericht kann jedoch solche Verteilungen beim Vorhandensein hinreichender Zahlungsmittel auf Antrag während des Laufes einer Rechnungsperiode nach einer Zwischenrechnung oder, wenn die Einleitung einer besonderen Verteilungsverhandlung wegen der Geringfügigkeit der jährlichen Ertragsüberschüsse dem Gericht unzweckmäßig erscheint und die Rechte der Gläubiger durch eine solche Aufschiebung nicht leiden, auf Antrag oder von Amts wegen erst nach Verstreichen mehrerer Rechnungsperioden vornehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-122-eo--verteilung-der-ertragsüberschüsse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=122) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_162_TextContainer_162) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-122-eo--verteilung-der-ertragsüberschüsse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=122) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_162_TextContainer_162) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-122-eo--verteilung-der-ertragsüberschüsse)) \]
 
 ----
 
@@ -2823,7 +2823,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Verteilungstagsatzung ist in der Ediktsdatei öffentlich bekannt zu machen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-123-eo--verteilungstagsatzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=123) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_163_TextContainer_163) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-123-eo--verteilungstagsatzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=123) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_163_TextContainer_163) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-123-eo--verteilungstagsatzung)) \]
 
 ----
 
@@ -2837,7 +2837,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `3.` soweit nicht gleichfalls schon deren Berichtigung gemäß § 120 Abs\. 2 Z 5 erfolgt ist, die während der Zwangsverwaltung fällig werdenden oder aus dem letzten Jahre vor Bewilligung der Zwangsverwaltung rückständigen Zinsen, Renten, Unterhaltsgelder und sonstigen wiederkehrenden Leistungen aus Forderungen und Rechten, die auf der Liegenschaft sichergestellt sind, einschließlich der im § 120 Abs\. 2 Z 5 bezeichneten Kapitalsabschlagszahlungen, in der den Bezugsrechten selbst zukommenden Rangordnung, vorausgesetzt, dass diesen Bezugsrechten der Vorrang vor dem betreibenden Gläubiger gebührt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-124-eo--rangordnung-der-zu-berichtigenden-ansprüche) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=124) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_164_TextContainer_164) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-124-eo--rangordnung-der-zu-berichtigenden-ansprüche) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=124) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_164_TextContainer_164) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-124-eo--rangordnung-der-zu-berichtigenden-ansprüche)) \]
 
 ----
 
@@ -2847,7 +2847,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Forderungen, die untereinander in gleicher Rangordnung stehen, sind nach Verhältnis ihrer Gesamtbeträge zu tilgen\. Die Forderungen der betreibenden Gläubiger gehen in Bezug auf die Befriedigung aus den Ertragsüberschüssen den länger als drei Jahre rückständigen pfandrechtlich nicht sichergestellten Steuern, Gebühren und öffentlichen Abgaben voraus\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-125-eo--tilgung-der-betriebenen-forderung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=125) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_165_TextContainer_165) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-125-eo--tilgung-der-betriebenen-forderung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=125) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_165_TextContainer_165) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-125-eo--tilgung-der-betriebenen-forderung)) \]
 
 ----
 
@@ -2855,7 +2855,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Der gemäß §§ 124 und 125 nicht zur Verwendung gelangende Teil der Ertragsüberschüsse ist zur Berichtigung derjenigen im § 124 Z 3 bezeichneten, während der Zwangsverwaltung fällig werdenden oder aus dem letzten Jahre vor deren Bewilligung rückständigen Leistungen zu verwenden, die dem Befriedigungsrecht des betreibenden Gläubigers im Range nachstehen\. Ein nach Berichtigung aller dieser Ansprüche erübrigender Rest ist dem Verpflichteten zuzuweisen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-126-eo--verteilung-der-verbleibenden-ertragsüberschüsse-hyperocha) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=126) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_166_TextContainer_166) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-126-eo--verteilung-der-verbleibenden-ertragsüberschüsse-hyperocha) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=126) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_166_TextContainer_166) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-126-eo--verteilung-der-verbleibenden-ertragsüberschüsse-hyperocha)) \]
 
 ----
 
@@ -2865,7 +2865,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` In der Anmeldung ist der beanspruchte, aus den Ertragsüberschüssen zuzuweisende Betrag anzugeben\. § 210 gilt sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-127-eo--forderungsanmeldung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=127) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_167_TextContainer_167) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-127-eo--forderungsanmeldung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=127) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_167_TextContainer_167) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-127-eo--forderungsanmeldung)) \]
 
 ----
 
@@ -2879,7 +2879,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Das weitere Verfahren bei Erhebung von Widersprüchen, die Rechtsfolgen der versäumten Klagsanbringung, die Erlassung des Verteilungsbeschlusses, die Ausfolgung der zugewiesenen Beträge an die Berechtigten und der Einfluss anhängiger Widerspruchsprozesse auf die Ausführung des Verteilungsbeschlusses bestimmen sich nach den für die Meistbotsverteilung aufgestellten Vorschriften\. § 212 Abs\. 2 und § 214 Abs\. 2 erster Halbsatz gelten sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-128-eo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=128) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_168_TextContainer_168) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-128-eo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=128) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_168_TextContainer_168) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-128-eo)) \]
 
 ----
 
@@ -2893,7 +2893,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Die Zwangsverwaltung ist ferner jederzeit auf Antrag des betreibenden Gläubigers einzustellen\. Findet gleichzeitig zu Gunsten mehrerer Gläubiger Zwangsverwaltung statt, so hat der nur von einem derselben gestellte Antrag auf Einstellung der Zwangsverwaltung bloß die Wirkung, dass dieser Gläubiger die Rechte und Pflichten eines betreibenden Gläubigers verliert, die zu seinen Gunsten vollzogene Anmerkung der Zwangsverwaltung gelöscht wird und die Forderung dieses Gläubigers künftighin lediglich nach Maßgabe ihrer sonstigen Sicherstellung \(§§ 120 Abs\. 2 Z 5, 124 Z 3 und 126\) bei den Verteilungen der Erträgnisse berücksichtigt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-129-eo--einstellung-der-zwangsverwaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=129) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_169_TextContainer_169) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-129-eo--einstellung-der-zwangsverwaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=129) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_169_TextContainer_169) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-129-eo--einstellung-der-zwangsverwaltung)) \]
 
 ----
 
@@ -2903,7 +2903,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Mit Rechtskraft des Einstellungsbeschlusses erlangt der Verpflichtete wieder die Befugnis zur Bewirtschaftung und Benützung der Liegenschaft, zur Einziehung der Erträgnisse und zur Verfügung über dieselben\. Das Exekutionsgericht hat die bücherliche Löschung der Anmerkung der Zwangsverwaltung von amtswegen zu veranlassen und den Verwalter zur Übergabe der Liegenschaft an den Verpflichteten, zur Verständigung jener Personen, die gemäß § 110 zur Zahlung an den Verwalter aufgefordert wurden, sowie zur Erstattung der Schlussrechnung anzuweisen\. Ein aus der Schlussrechnung sich ergebender Restbetrag ist dem Verpflichteten herauszugeben, sofern der betreibende Gläubiger mit Zustimmung des Verpflichteten nichts anderes beantragt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-130-eo--verständigung-von-der-einstellung-der-zwangsverwaltung--folgen-der-einstellung-der-zwangsverwaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=130) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_170_TextContainer_170) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-130-eo--verständigung-von-der-einstellung-der-zwangsverwaltung--folgen-der-einstellung-der-zwangsverwaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=130) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_170_TextContainer_170) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-130-eo--verständigung-von-der-einstellung-der-zwangsverwaltung--folgen-der-einstellung-der-zwangsverwaltung)) \]
 
 ----
 
@@ -2911,7 +2911,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Soweit das Gesetz nichts anderes bestimmt, sind die Bestimmungen über die Zwangsverwaltung von Liegenschaften auch auf einzelne Liegenschaftsanteile, Superädifikate und Baurechte anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-131-eo--liegenschaftsanteile-superädifikate-und-baurechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=131) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_171_TextContainer_171) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-131-eo--liegenschaftsanteile-superädifikate-und-baurechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=131) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_171_TextContainer_171) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-131-eo--liegenschaftsanteile-superädifikate-und-baurechte)) \]
 
 ----
 
@@ -2926,7 +2926,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > &nbsp; *\(Anm\.: Z 3 und 4 aufgehoben durch Art\. 1 Z 135, BGBl\. I Nr\. 86/2021\)*  
 > &nbsp; findet ein Rekurs nicht statt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-132-eo--rekurs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=132) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_172_TextContainer_172) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-132-eo--rekurs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=132) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_172_TextContainer_172) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-132-eo--rekurs)) \]
 
 ----
 
@@ -2940,7 +2940,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Ist dem Antrag ein Verzeichnis der Personen, denen an der Liegenschaft oder dem Superädifikat dingliche Rechte zustehen oder zu deren Gunsten Bestand\-, Wiederkaufs\- und Vorkaufsrechte eingetragen sind, und ihrer Adressen nicht angeschlossen, so ist der Exekutionsantrag aus diesem Grund nicht abzuweisen\. Das Gericht kann den betreibenden Gläubiger auffordern, binnen einer festzusetzenden Frist ein solches Verzeichnis vorzulegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-133-eo--exekutionsantrag) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=133) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_173_TextContainer_173) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-133-eo--exekutionsantrag) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=133) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_173_TextContainer_173) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-133-eo--exekutionsantrag)) \]
 
 ----
 
@@ -2948,7 +2948,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Bei einem Superädifikat, für das bei Gericht keine Urkunde über den Erwerb des Eigentums durch Hinterlegung aufgenommen wurde, hat der Gläubiger das Eigentum oder den Besitz des Verpflichteten zu behaupten und durch Urkunden glaubhaft zu machen\. Fehlt die urkundliche Bescheinigung, so haben der Exekutionsbewilligung Erhebungen des Gerichtsvollziehers und eine Einvernahme des Verpflichteten über die Frage des Eigentums oder des Besitzes voranzugehen\. Nach Bewilligung der Exekution hat das Exekutionsgericht von Amts wegen unverzüglich die pfandweise Beschreibung des Superädifikats \(§§ 91 ff\) zu Gunsten der vollstreckbaren Forderung des betreibenden Gläubigers anzuordnen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-134-eo--superädifikat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=134) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_174_TextContainer_174) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-134-eo--superädifikat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=134) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_174_TextContainer_174) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-134-eo--superädifikat)) \]
 
 ----
 
@@ -2956,7 +2956,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Ist für die hereinzubringende vollstreckbare Forderung schon ein Pfandrecht an der Liegenschaft des Verpflichteten rechtskräftig begründet, so bedarf es der Vorlage einer Ausfertigung des Exekutionstitels nicht; die Exekution ist im Rang dieses Pfandrechts zu bewilligen, wenn der betreibende Gläubiger dies beantragt und die Identität der Forderung nachweist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-135-eo--betreibender-gläubiger-mit-pfandrecht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=135) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_175_TextContainer_175) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-135-eo--betreibender-gläubiger-mit-pfandrecht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=135) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_175_TextContainer_175) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-135-eo--betreibender-gläubiger-mit-pfandrecht)) \]
 
 ----
 
@@ -2964,7 +2964,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Der Zwangsversteigerung steht nicht entgegen, dass der Verpflichtete nicht im öffentlichen Buch als Eigentümer der Liegenschaft eingetragen ist, wenn die Exekutionsbewilligung nach § 335 im öffentlichen Buch angemerkt wurde\.“
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-135a-eo--an-verwalter-übergebene-liegenschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=135a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_176_TextContainer_176) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-135a-eo--an-verwalter-übergebene-liegenschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=135a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_176_TextContainer_176) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-135a-eo--an-verwalter-übergebene-liegenschaft)) \]
 
 ----
 
@@ -2974,7 +2974,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Dem betreibenden Gläubiger ist zugleich der Erlag eines Kostenvorschusses binnen einer mindestens vierwöchigen Frist aufzutragen\. Den Wiederkaufsberechtigten ist mitzuteilen, dass sie ihr Recht bei sonstigem Ausschluss innerhalb eines Monats nach Zustellung dieser Verständigung auszuüben haben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-136-eo--zustellungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=136) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_177_TextContainer_177) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-136-eo--zustellungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=136) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_177_TextContainer_177) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-136-eo--zustellungen)) \]
 
 ----
 
@@ -2986,7 +2986,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Wenn das Versteigerungsverfahren nach dem Grundbuchsstand undurchführbar ist, ist § 101 sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-137-eo--anmerkung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=137) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_178_TextContainer_178) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-137-eo--anmerkung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=137) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_178_TextContainer_178) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-137-eo--anmerkung)) \]
 
 ----
 
@@ -2996,7 +2996,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Ab dem Zeitpunkt der Anmerkung der Einleitung des Versteigerungsverfahrens sind Rechtshandlungen des Verpflichteten, die die in Exekution gezogene Liegenschaft sowie deren Zubehör betreffen und die nicht zur ordentlichen Verwaltung gehören, den Gläubigern und dem Ersteher gegenüber unwirksam\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-138-eo--wirkung-der-anmerkung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=138) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_179_TextContainer_179) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-138-eo--wirkung-der-anmerkung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=138) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_179_TextContainer_179) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-138-eo--wirkung-der-anmerkung)) \]
 
 ----
 
@@ -3012,7 +3012,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Das Exekutionsgericht, das nach den im Abs\. 1 bezeichneten Akten die Versteigerung der nämlichen Liegenschaft bewilligt oder um den Vollzug einer bewilligten Versteigerung ersucht wird, hat den Gläubiger, der den Versteigerungsantrag gestellt hat, zu verständigen, dass und welchen anhängigen Versteigerungsverfahren er beigetreten sei\. Von jedem Beitritt hat das Exekutionsgericht auch den Verpflichteten zu verständigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-139-eo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=139) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_180_TextContainer_180) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-139-eo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=139) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_180_TextContainer_180) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-139-eo)) \]
 
 ----
 
@@ -3024,7 +3024,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Zugleich mit der Schätzung ist das auf der Liegenschaft befindliche Zubehör derselben \(§§ 294 bis 297a ABGB\) zu Gunsten der vollstreckbaren Forderung des betreibenden Gläubigers zu beschreiben und zu schätzen\. Für die Beschreibung des Liegenschaftszubehörs haben das Gericht § 257 und der Sachverständige §§ 253 und 254 Abs\. 2 sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-140-eo--anordnung-und-vorbereitung-der-schätzung-zubehör) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=140) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_181_TextContainer_181) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-140-eo--anordnung-und-vorbereitung-der-schätzung-zubehör) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=140) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_181_TextContainer_181) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-140-eo--anordnung-und-vorbereitung-der-schätzung-zubehör)) \]
 
 ----
 
@@ -3042,7 +3042,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Der Sachverständige haftet nach § 1299 ABGB dem Ersteher und allen Beteiligten für Vermögensnachteile, die er ihnen durch pflichtwidrige Führung seines Amtes verursacht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-141-eo--vornahme-der-schätzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=141) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_182_TextContainer_182) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-141-eo--vornahme-der-schätzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=141) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_182_TextContainer_182) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-141-eo--vornahme-der-schätzung)) \]
 
 ----
 
@@ -3054,7 +3054,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Der Beschlussfassung hat eine Einvernehmung beider Teile oder, wenn ein Antrag vorliegt, des Gegners des Antragstellers vorherzugehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-142-eo--unterbleiben-der-schätzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=142) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_183_TextContainer_183) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-142-eo--unterbleiben-der-schätzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=142) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_183_TextContainer_183) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-142-eo--unterbleiben-der-schätzung)) \]
 
 ----
 
@@ -3068,7 +3068,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Ist offenkundig, dass ein höherer Erlös erzielt werden wird, wenn mehrere Grundstücke eines Grundbuchskörpers einzeln oder in Gruppen versteigert werden oder bei gemeinsamer Versteigerung mehrerer Eigentumswohnungen oder Anteile verschiedener Verpflichteter an einer Liegenschaft, einem Superädifikat oder einem Baurecht, so hat der Sachverständige auch zu ermitteln, welchen Wert die einzelnen Grundstücke eines Grundbuchskörpers oder die Gruppen von Grundstücken oder die gemeinsam zu versteigernden Eigentumswohnungen oder Anteile verschiedener Verpflichteter an einer Liegenschaft, einem Superädifikat oder einem Baurecht haben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-143-eo--umfang-der-schätzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=143) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_184_TextContainer_184) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-143-eo--umfang-der-schätzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=143) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_184_TextContainer_184) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-143-eo--umfang-der-schätzung)) \]
 
 ----
 
@@ -3078,7 +3078,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Ist auf der Liegenschaft eine Dienstbarkeit begründet, die der leitungsgebundenen Energieversorgung dient, so kann der aus der Dienstbarkeit Berechtigte binnen 14 Tagen ab Zustellung des Schätzgutachtens unwiderruflich erklären, dass er die Übernahme der Dienstbarkeit ohne Anrechnung auf das Meistbot wünscht und bereit ist, den vom Sachverständigen ermittelten Wert der Dienstbarkeit zu zahlen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-144-eo--bekanntgabe-des-schätzwerts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=144) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_185_TextContainer_185) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-144-eo--bekanntgabe-des-schätzwerts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=144) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_185_TextContainer_185) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-144-eo--bekanntgabe-des-schätzwerts)) \]
 
 ----
 
@@ -3086,7 +3086,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Spätestens nach Ablauf der Frist zur Erstattung von Einwendungen gegen den Schätzwert hat das Exekutionsgericht alle nötigen Ergänzungen, Richtigstellungen und Verbesserungen des Schätzungsgutachtens von Amts wegen zu veranlassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-145-eo--ergänzung-der-schätzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=145) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_186_TextContainer_186) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-145-eo--ergänzung-der-schätzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=145) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_186_TextContainer_186) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-145-eo--ergänzung-der-schätzung)) \]
 
 ----
 
@@ -3110,7 +3110,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Der Antrag nach Abs\. 1 Z 1, 3 und 3a ist spätestens innerhalb der zum Erlag des Kostenvorschusses für die Schätzung der Liegenschaft offen stehenden Frist, der Antrag nach Abs\. 1 Z 2, 4 und 5 längstens bis 14 Tage nach Bekanntgabe des Schätzwerts zu stellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-146-eo--änderung-der-gesetzlichen-versteigerungsbedingungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=146) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_187_TextContainer_187) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-146-eo--änderung-der-gesetzlichen-versteigerungsbedingungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=146) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_187_TextContainer_187) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-146-eo--änderung-der-gesetzlichen-versteigerungsbedingungen)) \]
 
 ----
 
@@ -3122,7 +3122,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Das Gericht oder die Behörde, welche die Exekution auf bewegliche Sachen geführt hat, ist auch vom Eintritt der Rechtskraft des Beschlusses nach Abs\. 1 zu verständigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-147-eo--zubehör) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=147) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_188_TextContainer_188) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-147-eo--zubehör) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=147) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_188_TextContainer_188) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-147-eo--zubehör)) \]
 
 ----
 
@@ -3136,7 +3136,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `3.` wenn der Verpflichtete vor Beginn der Versteigerung allen betreibenden Gläubigern die volle Befriedigung ihrer vollstreckbaren Forderungen samt Nebengebühren und die Bezahlung der bis dahin aufgelaufenen Kosten des Versteigerungsverfahrens anbietet, die dazu erforderlichen Geldbeträge dem Richter, der den Versteigerungstermin leitet, übergibt oder gerichtlich erlegt und die Einstellung beantragt; soweit die Kosten des Versteigerungsverfahrens noch nicht bestimmt sind, ist zu deren Deckung ein vom Richter festzusetzender Betrag als Sicherstellung zu übergeben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-148-eo--einstellung-der-exekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=148) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_189_TextContainer_189) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-148-eo--einstellung-der-exekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=148) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_189_TextContainer_189) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-148-eo--einstellung-der-exekution)) \]
 
 ----
 
@@ -3144,7 +3144,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Von jeder Einstellung oder Aufschiebung eines Versteigerungsverfahrens sind neben dem Verpflichteten der betreibende Gläubiger sowie alle übrigen Personen besonders zu verständigen, die von den Vorfällen des Versteigerungsverfahrens jeweils durch Zustellung schriftlicher Beschlussausfertigungen zu benachrichtigen sind\. Von der rechtskräftigen Einstellung ist auch der nach § 190 oder § 199 bestellte Verwalter der Liegenschaft zu verständigen\. Der betreibende Gläubiger, zu dessen Gunsten die Einleitung des Versteigerungsverfahrens im Grundbuch angemerkt wurde, ist gleichzeitig von den ihm nach § 208 zustehenden Befugnissen und von der Frist zu verständigen, binnen deren diese Befugnisse auszuüben sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-149-eo--verständigung-von-der-einstellung-oder-aufschiebung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=149) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_190_TextContainer_190) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-149-eo--verständigung-von-der-einstellung-oder-aufschiebung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=149) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_190_TextContainer_190) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-149-eo--verständigung-von-der-einstellung-oder-aufschiebung)) \]
 
 ----
 
@@ -3154,7 +3154,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 > *\(Anm\.: Abs\. 2 und 3 aufgehoben durch BGBl\. I Nr\. 59/2000\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-150-eo--ausscheiden-eines-betreibenden-gläubigers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=150) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_191_TextContainer_191) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-150-eo--ausscheiden-eines-betreibenden-gläubigers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=150) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_191_TextContainer_191) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-150-eo--ausscheiden-eines-betreibenden-gläubigers)) \]
 
 ----
 
@@ -3164,7 +3164,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Erfolgt die Einstellung des Versteigerungsverfahrens nur in Ansehung eines oder einzelner Gläubiger, so sind nur diejenigen bücherlichen Anmerkungen zu löschen, welche zu Gunsten des aus dem Versteigerungsverfahren ausscheidenden Gläubigers eingetragen sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-151-eo--löschung-der-bücherlichen-anmerkungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=151) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_192_TextContainer_192) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-151-eo--löschung-der-bücherlichen-anmerkungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=151) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_192_TextContainer_192) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-151-eo--löschung-der-bücherlichen-anmerkungen)) \]
 
 ----
 
@@ -3176,7 +3176,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Dagegen kann einem nach Abs\. 1 gestellten Antrag nicht Folge gegeben werden, wenn das Versteigerungsverfahren deshalb eingestellt wurde, weil ein Exekutionsverfahren zu Gunsten der bestimmten Forderung überhaupt unzulässig ist, weil der Exekutionstitel rechtskräftig aufgehoben oder unwirksam erklärt wurde oder weil der zu vollstreckende Anspruch berichtigt oder dem Gläubiger rechtskräftig aberkannt wurde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-152-eo--pfandrechtseintragung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=152) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_193_TextContainer_193) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-152-eo--pfandrechtseintragung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=152) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_193_TextContainer_193) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-152-eo--pfandrechtseintragung)) \]
 
 ----
 
@@ -3184,7 +3184,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Das Versteigerungsverfahren ist vorbehaltlich der Anwendung des §§ 14, 27 Abs\. 1 und § 41 Abs\. 2 aufzuschieben, wenn zur Hereinbringung derselben Forderung Exekution auf wiederkehrende Geldforderungen geführt wird und der pfändbare Betrag voraussichtlich ausreichen wird, die hereinzubringende Forderung samt Nebengebühren im Laufe eines Jahres zu tilgen oder Exekution auf bewegliche oder unbewegliche Sachen oder Vermögensrechte geführt wird und die gepfändeten Vermögensobjekte die hereinzubringende Forderung voraussichtlich decken werden\. Bei einer anderen unbeweglichen Sache ist das Verfahren nur auf Antrag aufzuschieben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-153-eo--vorrang-anderer-exekutionsarten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=153) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_194_TextContainer_194) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-153-eo--vorrang-anderer-exekutionsarten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=153) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_194_TextContainer_194) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-153-eo--vorrang-anderer-exekutionsarten)) \]
 
 ----
 
@@ -3192,7 +3192,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Macht ein Gläubiger die Unwirksamkeit einer Rechtshandlung geltend, die bei der Schätzung der Liegenschaft wertmindernd berücksichtigt wurde, so hat das Gericht das Verfahren auf Antrag des Gläubigers bis zur rechtskräftigen Klärung dieser Frage aufzuschieben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-154-eo--unwirksamkeit-wertmindernder-rechtshandlungen--aufschiebung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=154) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_195_TextContainer_195) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-154-eo--unwirksamkeit-wertmindernder-rechtshandlungen--aufschiebung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=154) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_195_TextContainer_195) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-154-eo--unwirksamkeit-wertmindernder-rechtshandlungen--aufschiebung)) \]
 
 ----
 
@@ -3202,7 +3202,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Dasselbe kann auf Antrag des Verpflichteten geschehen, wenn zwar eine terminweise Tilgung der vollstreckbaren Forderung nicht vereinbart war, diese Forderung aber samt Nebengebühren aus den voraussichtlichen Ertragsüberschüssen im Laufe eines Jahres getilgt werden kann\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-155-eo--vorrang-der-zwangsverwaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=155) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_196_TextContainer_196) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-155-eo--vorrang-der-zwangsverwaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=155) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_196_TextContainer_196) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-155-eo--vorrang-der-zwangsverwaltung)) \]
 
 ----
 
@@ -3212,7 +3212,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Wenn zur Zeit, da der Aufschiebungsantrag angebracht wird, die Schätzung noch nicht stattgefunden hat, kann das Exekutionsgericht zur Hintanhaltung einer voraussichtlich vergeblichen Aufwendung von Kosten auf Antrag oder von Amts wegen verfügen, dass die Schätzung bis zur Entscheidung über den Antrag zu unterbleiben hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-156-eo--zwangsverwaltung--aufschiebung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=156) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_197_TextContainer_197) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-156-eo--zwangsverwaltung--aufschiebung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=156) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_197_TextContainer_197) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-156-eo--zwangsverwaltung--aufschiebung)) \]
 
 ----
 
@@ -3220,7 +3220,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Aufschiebung der Exekution wegen einer Zahlungsvereinbarung nach § 45a ist bis zum Beginn der Versteigerung möglich\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-157-eo--zahlungsvereinbarung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=157) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_198_TextContainer_198) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-157-eo--zahlungsvereinbarung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=157) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_198_TextContainer_198) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-157-eo--zahlungsvereinbarung)) \]
 
 ----
 
@@ -3232,7 +3232,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Es gibt keinen Kostenersatz zwischen den Parteien\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-158-eo--aufschiebung-der-exekution-bei-einer-naturkatastrophe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=158) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_199_TextContainer_199) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-158-eo--aufschiebung-der-exekution-bei-einer-naturkatastrophe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=158) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_199_TextContainer_199) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-158-eo--aufschiebung-der-exekution-bei-einer-naturkatastrophe)) \]
 
 ----
 
@@ -3246,7 +3246,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Ist zur Zeit der Anberaumung des Versteigerungstermins die Frist zur Anfechtung des die Versteigerungsbedingungen ändernden Beschlusses noch nicht verstrichen oder ein gegen diesen Beschluss angebrachter Rekurs noch anhängig, so hat das Exekutionsgericht bei der Terminsanberaumung darauf entsprechend Rücksicht zu nehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-167-eo--anberaumung-des-versteigerungstermins) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=167) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_200_TextContainer_200) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-167-eo--anberaumung-des-versteigerungstermins) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=167) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_200_TextContainer_200) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-167-eo--anberaumung-des-versteigerungstermins)) \]
 
 ----
 
@@ -3276,7 +3276,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `10.` eine Aussage darüber, ob der Verpflichtete bis spätestens vierzehn Tage nach Bekanntgabe des Schätzwertes \(§ 144\) dem Exekutionsgericht mitgeteilt hat, dass er auf die Steuerbefreiung gemäß § 6 Abs\. 1 Z 9 lit\. a UStG 1994 verzichtet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-168-eo--inhalt-des-versteigerungsedikts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=168) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_201_TextContainer_201) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-168-eo--inhalt-des-versteigerungsedikts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=168) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_201_TextContainer_201) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-168-eo--inhalt-des-versteigerungsedikts)) \]
 
 ----
 
@@ -3292,7 +3292,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `4.` bei Superädifikaten, die Aufforderung an alle Personen, die dingliche Rechte an dem zu versteigernden Superädifikat in Anspruch nehmen, ihre Rechte und Ansprüche innerhalb einer bestimmten Frist bei Gericht anzumelden, widrigens auf dieselben im Versteigerungsverfahren nur insoweit Rücksicht genommen würde, als sie sich aus den Exekutionsakten ergeben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-169-eo--weiterer-inhalt-des-versteigerungsedikts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=169) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_202_TextContainer_202) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-169-eo--weiterer-inhalt-des-versteigerungsedikts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=169) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_202_TextContainer_202) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-169-eo--weiterer-inhalt-des-versteigerungsedikts)) \]
 
 ----
 
@@ -3304,7 +3304,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Bei der Bekanntmachung in der Ediktsdatei ist dem Versteigerungsedikt das vom Sachverständigen übermittelte Schätzungsgutachten, wenn es nicht von außergewöhnlichem Umfang ist, sowie dessen Kurzfassung samt Lageplan und bei Gebäuden auch ein Grundriss sowie zumindest ein Bild anzuschließen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-170-eo--bekanntmachung-des-versteigerungstermins) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=170) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_203_TextContainer_203) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-170-eo--bekanntmachung-des-versteigerungstermins) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=170) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_203_TextContainer_203) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-170-eo--bekanntmachung-des-versteigerungstermins)) \]
 
 ----
 
@@ -3312,7 +3312,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Ausfertigungen des Versteigerungsedikts sind dem Verpflichteten, dem betreibenden Gläubiger und allen Personen zuzustellen, für die nach den dem Gericht darüber vorliegenden Urkunden auf der Liegenschaft oder an den auf dieser Liegenschaft haftenden Rechten dingliche Rechte und Lasten bestehen oder Vorkaufsrechte einverleibt sind\. Wird ein Miteigentumsanteil, mit dem nicht Wohnungseigentum verbunden ist, versteigert, so ist auch jedem Miteigentümer eine Ausfertigung des Edikts an die im Grundbuch angeführte Adresse zu übersenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-171-eo--zustellung-des-versteigerungsedikts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=171) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_204_TextContainer_204) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-171-eo--zustellung-des-versteigerungsedikts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=171) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_204_TextContainer_204) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-171-eo--zustellung-des-versteigerungsedikts)) \]
 
 ----
 
@@ -3320,7 +3320,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Personen, zugunsten deren vor Aufnahme des Versteigerungsediktes in die Ediktsdatei um Einverleibung dinglicher Rechte und Lasten oder eines Vorkaufsrechtes im Grundbuch angesucht wurde, ist, falls sie von der Versteigerung noch nicht verständigt sind, eine Ausfertigung des Versteigerungsediktes zuzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-172-eo--weitere-zustellungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=172) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_205_TextContainer_205) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-172-eo--weitere-zustellungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=172) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_205_TextContainer_205) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-172-eo--weitere-zustellungen)) \]
 
 ----
 
@@ -3328,7 +3328,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Bei einem Superädifikat ist eine Ausfertigung des Versteigerungsedikts auch dem Eigentümer der Liegenschaft, auf der sich das Superädifikat befindet, zu übersenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-173-eo--verständigung-bei-einem-superädifikat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=173) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_206_TextContainer_206) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-173-eo--verständigung-bei-einem-superädifikat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=173) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_206_TextContainer_206) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-173-eo--verständigung-bei-einem-superädifikat)) \]
 
 ----
 
@@ -3340,7 +3340,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die Daten über die Bestellung eines Kurators nach Abs\. 1 sind in der Ediktsdatei zu löschen, sobald der Kurator rechtskräftig seines Amtes enthoben wurde, der Meistbotsverteilungsbeschluss in Rechtskraft erwachsen ist, oder die Kuratel sonst erloschen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-174-eo--kuratorbestellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=174) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_207_TextContainer_207) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-174-eo--kuratorbestellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=174) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_207_TextContainer_207) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-174-eo--kuratorbestellung)) \]
 
 ----
 
@@ -3348,7 +3348,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Das Gericht hat sich spätestens vierzehn Tage vor dem Versteigerungstermin durch Prüfung der Urkunden, welche zum Beweise der Kundmachung und der Zustellung zu dienen haben, die Gewissheit zu verschaffen, dass die in Beziehung auf die Bekanntmachung und Zustellung des Versteigerungsedictes erteilten Anordnungen befolgt wurden\. Bei wahrgenommenen Mängeln sind die erforderlichen Berichtigungen, Ergänzungen und Kuratorbestellungen in der Art zu verfügen, dass die Versteigerung in dem für sie bestimmten Termine ungehindert vorgenommen werden kann\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-175-eo--prüfungspflichten-und-anordnungen-des-gerichts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=175) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_208_TextContainer_208) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-175-eo--prüfungspflichten-und-anordnungen-des-gerichts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=175) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_208_TextContainer_208) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-175-eo--prüfungspflichten-und-anordnungen-des-gerichts)) \]
 
 ----
 
@@ -3360,7 +3360,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Verschlossene Haus\- und Wohnungstüren dürfen auch dann geöffnet werden, wenn die Liegenschaft von einem Dritten bewohnt wird und die Türen zum Zeitpunkt der Besichtigung, der dem Dritten bekannt gegebenen wurde, verschlossen sind\. § 26 und § 26a Abs\. 2 und 3 sind sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-176-eo--besichtigung-der-liegenschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=176) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_209_TextContainer_209) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-176-eo--besichtigung-der-liegenschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=176) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_209_TextContainer_209) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-176-eo--besichtigung-der-liegenschaft)) \]
 
 ----
 
@@ -3372,7 +3372,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die Leitung des Termins und der Versteigerung obliegt dem Richter\. Er ist befugt, alle zur Wahrung der Ruhe und Ordnung, sowie zur Hintanhaltung unerlaubter Verabredungen, Einschüchterungen und sonstiger Verhinderungen von Anboten nötigen Verfügungen zu treffen und sie zwangsweise, erforderlichenfalls mit Unterstützung der den Sicherheitsbehörden zur Verfügung stehenden Organe des öffentlichen Sicherheitsdienstes, durchzuführen\. Er hat über alle während der Versteigerung von einzelnen Beteiligten vorgebrachten Einwendungen und Anträge zu entscheiden, unbeschadet der Befugnis dieser Personen, gegen die Erteilung des Zuschlages später Widerspruch zu erheben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-177-eo--versteigerungstermin) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=177) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_210_TextContainer_210) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-177-eo--versteigerungstermin) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=177) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_210_TextContainer_210) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-177-eo--versteigerungstermin)) \]
 
 ----
 
@@ -3392,7 +3392,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Hierauf wird zum Bieten aufgefordert\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-178-eo--verfahrensablauf) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=178) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_211_TextContainer_211) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-178-eo--verfahrensablauf) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=178) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_211_TextContainer_211) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-178-eo--verfahrensablauf)) \]
 
 ----
 
@@ -3403,7 +3403,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Personen, die sich namens einer unter staatlicher oder Landesverwaltung stehenden Anstalt an der Versteigerung beteiligen und eine Bestätigung der für die Verwaltung zuständigen Bundes\- oder Landesbehörde vorlegen, dass es sich um eine Anstalt der genannten Art handelt, sowie Personen, die sich namens des Staates oder eines Landes an der Versteigerung beteiligen, haben keine Sicherheitsleistung zu erlegen\.
 > *\(Anm\.: Abs\. 3 aufgehoben durch BGBl\. I Nr\. 37/2008\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-179-eo--vadium) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=179) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_212_TextContainer_212) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-179-eo--vadium) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=179) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_212_TextContainer_212) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-179-eo--vadium)) \]
 
 ----
 
@@ -3417,7 +3417,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Insoweit dem Ersteher die Sicherheitsleistung erlassen wurde, ist ihm sogleich nach Schluss der Versteigerung die Veräußerung, Belastung oder Verpfändung der bücherlich sichergestellten Forderung zu untersagen und dieses Verbot von Amts wegen im Grundbuch bei der betreffenden Forderung anzumerken\. Eintragungen, die gegen ihn nach dieser Anmerkung erwirkt werden, können die Verwendung der Forderung zur Befriedigung aller aus der Versteigerung gegen den Ersteher sich ergebenden Ansprüche nicht hindern\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-180-eo--erlag-des-vadiums-veräußerungs--und-belastungsverbot) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=180) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_213_TextContainer_213) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-180-eo--erlag-des-vadiums-veräußerungs--und-belastungsverbot) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=180) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_213_TextContainer_213) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-180-eo--erlag-des-vadiums-veräußerungs--und-belastungsverbot)) \]
 
 ----
 
@@ -3427,7 +3427,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Jede als Sicherheitsleistung des Erstehers bei Gericht verwahrte Sache haftet von der Zeit ihrer Übergabe als Pfand für alle aus der Versteigerung wider den Ersteher sich ergebenden Ansprüche\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-181-eo--verwahrung-des-vadiums) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=181) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_214_TextContainer_214) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-181-eo--verwahrung-des-vadiums) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=181) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_214_TextContainer_214) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-181-eo--verwahrung-des-vadiums)) \]
 
 ----
 
@@ -3437,7 +3437,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Auf Erklärungen, welche nach Schluss des Versteigerungsprotokolles erfolgen, auf Vorbehalte und unbestimmte Erklärungen, sowie auf einen Widerspruch, der sich auf Umstände stützt, durch welche das Recht des Widersprechenden nicht berührt wird, ist bei der Entscheidung über die Erteilung des Zuschlages kein Bedacht zu nehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-182-eo--widerspruchserhebung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=182) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_215_TextContainer_215) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-182-eo--widerspruchserhebung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=182) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_215_TextContainer_215) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-182-eo--widerspruchserhebung)) \]
 
 ----
 
@@ -3453,7 +3453,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Die Bestimmungen der Abs\. 3 und 4 kommen auch dann zur Anwendung, wenn der Zuschlag unter Abweisung eines erhobenen Widerspruches erteilt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-183-eo--erteilung-des-zuschlages) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=183) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_216_TextContainer_216) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-183-eo--erteilung-des-zuschlages) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=183) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_216_TextContainer_216) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-183-eo--erteilung-des-zuschlages)) \]
 
 ----
 
@@ -3479,7 +3479,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die für den Widerspruch angeführten Gründe sind von amtswegen festzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-184-eo--widerspruchsgründe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=184) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_217_TextContainer_217) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-184-eo--widerspruchsgründe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=184) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_217_TextContainer_217) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-184-eo--widerspruchsgründe)) \]
 
 ----
 
@@ -3491,7 +3491,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Wenn über einen erhobenen Widerspruch nicht gleich im Versteigerungstermin entschieden werden kann, so ist der Beschluss, mittels dessen über den Widerspruch entschieden wird, innerhalb acht Tagen nach dem Versteigerungstermin dem Meistbietenden, dem betreibenden Gläubiger, dem Verpflichteten sowie allen sonst jeweils zum Rekurs berechtigten Personen in schriftlicher Ausfertigung \(§ 183 Abs\. 2\) zuzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-185-eo--entscheidung-über-den-widerspruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=185) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_218_TextContainer_218) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-185-eo--entscheidung-über-den-widerspruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=185) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_218_TextContainer_218) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-185-eo--entscheidung-über-den-widerspruch)) \]
 
 ----
 
@@ -3503,7 +3503,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die Versagung des Zuschlages ist im öffentlichen Buch anzumerken\. Diese Anmerkung hat die Folge, dass im Falle der Aufhebung des Beschlusses in höherer Instanz die Rechtswirkungen der Anmerkung der Erteilung des Zuschlages \(§ 72 GBG\) auf den Zeitpunkt der Anmerkung der Zuschlagsversagung zurückbezogen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-186-eo--versagung-des-zuschlags) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=186) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_219_TextContainer_219) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-186-eo--versagung-des-zuschlags) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=186) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_219_TextContainer_219) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-186-eo--versagung-des-zuschlags)) \]
 
 ----
 
@@ -3519,7 +3519,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Die nach der Rekursentscheidung erforderlichen weiteren Verfügungen hat das Gericht erster Instanz von amtswegen zu treffen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-187-eo--rekurs-gegen-zuschlagserteilung-oder--versagung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=187) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_220_TextContainer_220) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-187-eo--rekurs-gegen-zuschlagserteilung-oder--versagung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=187) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_220_TextContainer_220) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-187-eo--rekurs-gegen-zuschlagserteilung-oder--versagung)) \]
 
 ----
 
@@ -3545,7 +3545,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Vor Eintritt der Rechtskraft des Beschlusses über die Aufhebung des Zuschlags findet keine Rückabwicklung statt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-187a-eo--aufhebung-des-zuschlags) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=187a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_221_TextContainer_221) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-187a-eo--aufhebung-des-zuschlags) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=187a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_221_TextContainer_221) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-187a-eo--aufhebung-des-zuschlags)) \]
 
 ----
 
@@ -3559,7 +3559,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Wird im Versteigerungstermin weniger geboten, als das geringste Gebot beträgt, so ist auf einen binnen zwei Jahren zu stellenden Antrag ein weiterer Versteigerungstermin anzuberaumen\. Die neuerliche Versteigerung ist unter entsprechender Anwendung der für die erste Versteigerung geltenden Vorschriften durchzuführen\. Lag der ersten Versteigerung ein höheres geringstes Gebot als der halbe Schätzwert zugrunde, so kann gleichzeitig beantragt werden, dass dieses auf den gesetzlich vorgeschriebenen Betrag herabgesetzt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-188-eo--neuerliche-versteigerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=188) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_222_TextContainer_222) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-188-eo--neuerliche-versteigerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=188) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_222_TextContainer_222) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-188-eo--neuerliche-versteigerung)) \]
 
 ----
 
@@ -3569,7 +3569,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Der Ersteher kann wegen Unrichtigkeit der Angaben, die im Versteigerungsedikt oder in den vor der Versteigerung mitgeteilten Akten über die versteigerte Liegenschaft oder über deren Zubehör enthalten waren, keinen Anspruch auf Gewährleistung erheben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-189-eo--rechtsfolgen-der-zuschlagserteilung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=189) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_223_TextContainer_223) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-189-eo--rechtsfolgen-der-zuschlagserteilung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=189) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_223_TextContainer_223) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-189-eo--rechtsfolgen-der-zuschlagserteilung)) \]
 
 ----
 
@@ -3579,7 +3579,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Eine einstweilige Verwaltung ist auch dann zulässig, wenn der Zuschlag auf Grund landesgesetzlicher Grundverkehrsgesetze noch nicht rechtswirksam ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-190-eo--einstweilige-verwaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=190) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_224_TextContainer_224) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-190-eo--einstweilige-verwaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=190) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_224_TextContainer_224) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-190-eo--einstweilige-verwaltung)) \]
 
 ----
 
@@ -3597,7 +3597,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `5.` anstelle des Erstehers kann von Amts wegen oder auf Antrag ein anderer Verwalter ernannt werden, wenn der Ersteher mit dem Erlag des Meistbots säumig wird oder wenn die Abnahme der Verwaltung aus anderen erheblichen Gründen notwendig oder zweckmäßig erscheint\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-191-eo--einstweilige-verwaltung--anzuwendende-bestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=191) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_225_TextContainer_225) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-191-eo--einstweilige-verwaltung--anzuwendende-bestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=191) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_225_TextContainer_225) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-191-eo--einstweilige-verwaltung--anzuwendende-bestimmungen)) \]
 
 ----
 
@@ -3605,7 +3605,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Eine gemäß § 190 angeordnete Verwaltung hat, wenn der Zuschlag rechtskräftig aufgehoben wird oder wenn er infolge der Anordnung der Wiederversteigerung oder der gerichtlichen Annahme eines Überbots seine Wirksamkeit verliert, bis zur Übergabe der Liegenschaft an den neuen Ersteher fortzudauern\. Dem früheren Ersteher ist die Verwaltung abzunehmen\. Wenn auf Grund landesgesetzlicher Grundverkehrsgesetze die erneute Versteigerung bewilligt wird, so ist dem Meistbietenden der ersten Versteigerung die einstweilige Verwaltung erst dann abzunehmen, wenn im neuerlichen Versteigerungstermin einem anderen Bieter der Zuschlag erteilt worden ist\. Anstelle des früheren Verwalters kann unter den in § 191 Z 1 angegebenen Voraussetzungen der neue Ersteher auf seinen Antrag zum Verwalter ernannt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-192-eo--einstweilige-verwaltung-bei-aufhebung-oder-unwirksamkeit-des-zuschlags) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=192) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_226_TextContainer_226) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-192-eo--einstweilige-verwaltung-bei-aufhebung-oder-unwirksamkeit-des-zuschlags) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=192) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_226_TextContainer_226) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-192-eo--einstweilige-verwaltung-bei-aufhebung-oder-unwirksamkeit-des-zuschlags)) \]
 
 ----
 
@@ -3615,7 +3615,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Verteilung der Erträgnisse, die auf die Zeit vor dem Tag des Zuschlages entfallen, hat nach den Vorschriften der §§ 122 bis 128 zu geschehen; wenn das Versteigerungsverfahren vor seinem Abschluss eingestellt wird, erfolgt die Verteilung der Erträgnisse ohne Rücksicht auf eine dazwischenliegende Verwaltung zu Gunsten des Erstehers\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-193-eo--übergang-der-zwangsverwaltung-in-eine-einstweilige-verwaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=193) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_227_TextContainer_227) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-193-eo--übergang-der-zwangsverwaltung-in-eine-einstweilige-verwaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=193) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_227_TextContainer_227) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-193-eo--übergang-der-zwangsverwaltung-in-eine-einstweilige-verwaltung)) \]
 
 ----
 
@@ -3640,7 +3640,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Das Protokoll ist von den Personen zu unterschreiben, die beim Versteigerungsakt als Bieter mitgewirkt oder gegen den Zuschlag Widerspruch erhoben haben\. Wird die Unterschrift verweigert, so ist dies unter Angabe des hiefür geltend gemachten Grundes in einem Anhange zum Protokolle zu beurkunden\.
 > *\(Anm\.: Abs\. 3 aufgehoben durch BGBl\. I Nr\. 59/2000\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-194-eo--protokoll-über-den-versteigerungstermin) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=194) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_228_TextContainer_228) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-194-eo--protokoll-über-den-versteigerungstermin) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=194) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_228_TextContainer_228) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-194-eo--protokoll-über-den-versteigerungstermin)) \]
 
 ----
 
@@ -3650,7 +3650,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Ein solches Überbot ist zu berücksichtigen, wenn dem Überbieter kein ihn vom Bieten im Versteigerungstermin ausschließendes Hindernis entgegensteht und wenn er sich bereit erklärt, einen das frühere Meistbot mindestens um ein Viertel übersteigenden Preis zu entrichten und die für die frühere Versteigerung geltenden Versteigerungsbedingungen zu erfüllen\. Unterliegt die Übertragung des Eigentums landesgesetzlichen Grundverkehrsgesetzen, so sind die entsprechenden Vorschriften zu beachten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-195-eo--überbot) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=195) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_229_TextContainer_229) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-195-eo--überbot) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=195) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_229_TextContainer_229) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-195-eo--überbot)) \]
 
 ----
 
@@ -3660,7 +3660,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Ein Zurückziehen des Überbots ist unzulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-196-eo--anbringung-des-überbots) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=196) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_230_TextContainer_230) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-196-eo--anbringung-des-überbots) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=196) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_230_TextContainer_230) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-196-eo--anbringung-des-überbots)) \]
 
 ----
 
@@ -3668,7 +3668,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Von dem höchsten Überbot, für das eine Sicherheit erlegt wurde, ist der Ersteher zu verständigen\. Er kann die angebrachten Überbote dadurch entkräften, dass er innerhalb dreier Tage, nachdem ihm das letzte rechtzeitig eingelangte Überbot mitgeteilt wurde, sein Meistbot auf den Betrag des höchsten Überbots erhöht\. Die Erklärung darüber ist beim Exekutionsgericht mittels Schriftsatz oder zu Protokoll abzugeben; sobald der Schriftsatz beim Exekutionsgericht eingelangt oder das Protokoll geschlossen ist, kann die Erklärung nicht mehr zurückgezogen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-197-eo--entkräftung-des-überbots) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=197) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_231_TextContainer_231) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-197-eo--entkräftung-des-überbots) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=197) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_231_TextContainer_231) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-197-eo--entkräftung-des-überbots)) \]
 
 ----
 
@@ -3678,7 +3678,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Der Ersteher, die Überbieter, der betreibende Gläubiger, der Verpflichtete, sowie alle Personen, welche gegen die dem Überbote vorausgegangene Zuschlagserteilung Rekurs erhoben haben, sind von der Entscheidung zu verständigen und können sie mittels Rekurs anfechten\. Das Unterlassen der Anfechtung der gerichtlichen Überbotsannahme seitens derjenigen, welche gegen die Zuschlagserteilung Rekurs erhoben haben, gilt als Zurücknahme dieses Rekurses\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-198-eo--annahme-des-überbots) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=198) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_232_TextContainer_232) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-198-eo--annahme-des-überbots) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=198) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_232_TextContainer_232) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-198-eo--annahme-des-überbots)) \]
 
 ----
 
@@ -3692,7 +3692,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Eine nach § 190 bewilligte einstweilige Verwaltung der Liegenschaft findet von Erteilung des Zuschlages an zu Gunsten des Überbieters statt\. War die Liegenschaft schon dem Ersteher übergeben, so hat das Exekutionsgericht von amtswegen eine einstweilige Verwaltung \(§§ 191 ff\) anzuordnen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-199-eo--rechtsfolgen-der-annahme-des-überbots) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=199) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_233_TextContainer_233) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-199-eo--rechtsfolgen-der-annahme-des-überbots) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=199) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_233_TextContainer_233) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-199-eo--rechtsfolgen-der-annahme-des-überbots)) \]
 
 ----
 
@@ -3706,7 +3706,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Für bücherlich eingetragene Bestandrechte bleiben die Vorschriften des § 1121 des a\. b\. G\. B\. maßgebend\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-200-eo--übernahme-von-lasten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=200) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_234_TextContainer_234) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-200-eo--übernahme-von-lasten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=200) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_234_TextContainer_234) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-200-eo--übernahme-von-lasten)) \]
 
 ----
 
@@ -3721,7 +3721,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(4)` Die für die Erwerbung der Liegenschaft zu entrichtenden Übertragungsgebühren dürfen nicht in das Meistbot eingerechnet werden\.
 > *\(Anm\.: Abs\. 5 aufgehoben durch BGBl\. I Nr\. 59/2000\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-201-eo--berichtigung-des-meistbotes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=201) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_235_TextContainer_235) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-201-eo--berichtigung-des-meistbotes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=201) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_235_TextContainer_235) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-201-eo--berichtigung-des-meistbotes)) \]
 
 ----
 
@@ -3731,7 +3731,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Wird dieser Betrag nicht fristgerecht erlegt, so ist dieser von Amts wegen durch Beschluss des Exekutionsgerichts festzustellen\. Der festgestellte Betrag ist mit 4 % zu verzinsen\. Zu seiner Hereinbringung findet nach Rechtskraft des Beschlusses Exekution statt\. Diese kann vom betreibenden Gläubiger sowie von jeder der übrigen auf das Meistbot gewiesenen Personen beim Exekutionsgericht beantragt und zugunsten der Verteilungsmasse durchgeführt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-202-eo--übernahmebetrag-für-dienstbarkeiten-zu-leitungsgebundener-energieversorgung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=202) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_236_TextContainer_236) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-202-eo--übernahmebetrag-für-dienstbarkeiten-zu-leitungsgebundener-energieversorgung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=202) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_236_TextContainer_236) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-202-eo--übernahmebetrag-für-dienstbarkeiten-zu-leitungsgebundener-energieversorgung)) \]
 
 ----
 
@@ -3741,7 +3741,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Sofern vertragsmäßig kürzere Kündigungsfristen gelten, kommen diese dem Ersteher zu statten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-203-eo--kündigung-pfandrechtlich-sichergestellter-forderungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=203) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_237_TextContainer_237) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-203-eo--kündigung-pfandrechtlich-sichergestellter-forderungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=203) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_237_TextContainer_237) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-203-eo--kündigung-pfandrechtlich-sichergestellter-forderungen)) \]
 
 ----
 
@@ -3749,7 +3749,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Bei Versteigerung eines Superädifikats tritt der Ersteher in das bestehende Nutzungsverhältnis ein\. Der Eigentümer kann jedoch das Nutzungsverhältnis aus wichtigem Grund kündigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-204-eo--nutzungsverhältnis-bei-superädifikat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=204) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_238_TextContainer_238) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-204-eo--nutzungsverhältnis-bei-superädifikat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=204) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_238_TextContainer_238) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-204-eo--nutzungsverhältnis-bei-superädifikat)) \]
 
 ----
 
@@ -3763,7 +3763,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Von dem neuerlichen Versteigerungstermin sind auch jene Personen in Kenntnis zu setzen, für welche erst nach Anberaumung der ersten Versteigerung dingliche Rechte und Lasten begründet, oder Wiederkaufs\- und Vorkaufsrechte eingetragen wurden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-205-eo--wiederversteigerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=205) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_239_TextContainer_239) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-205-eo--wiederversteigerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=205) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_239_TextContainer_239) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-205-eo--wiederversteigerung)) \]
 
 ----
 
@@ -3777,7 +3777,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Bleibt die Wiederversteigerung erfolglos, so gilt als Ausfall am Meistbot der Unterschiedsbetrag zwischen dem geringsten Gebot \(§ 85 Abs\. 2\) und dem Meistbot des säumigen Erstehers\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-206-eo--haftung-des-säumigen-erstehers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=206) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_240_TextContainer_240) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-206-eo--haftung-des-säumigen-erstehers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=206) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_240_TextContainer_240) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-206-eo--haftung-des-säumigen-erstehers)) \]
 
 ----
 
@@ -3787,7 +3787,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Übergabe der Liegenschaft sowie des veräußerten Zubehörs an den Ersteher und die bücherliche Eintragung seines Eigentumsrechtes hat erst nach Erfüllung aller Versteigerungsbedingungen zu erfolgen\. Die Übergabe der Liegenschaft ist nach den Bestimmungen des § 349 zu vollziehen\. Die Kosten einer zwangsweisen Räumung sind durch Beschluss des Exekutionsgerichtes festzusetzen; dem Verpflichteten ist die Zahlung an den Ersteher aufzutragen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-207-eo--übergang-der-gefahr-der-nutzungen-und-lasten-und-übergabe-der-liegenschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=207) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_241_TextContainer_241) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-207-eo--übergang-der-gefahr-der-nutzungen-und-lasten-und-übergabe-der-liegenschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=207) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_241_TextContainer_241) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-207-eo--übergang-der-gefahr-der-nutzungen-und-lasten-und-übergabe-der-liegenschaft)) \]
 
 ----
 
@@ -3801,7 +3801,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Wird der auf Grund landesgesetzlicher Grundverkehrsgesetze unter Vorbehalt erteilte Zuschlag nicht rechtswirksam, so sind für die Wiederversteigerung die entsprechenden landesgesetzlichen Sondervorschriften zu beachten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-208-eo--rückerstattung-bei-aufhebung-oder-unwirksamkeit-des-zuschlags) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=208) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_242_TextContainer_242) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-208-eo--rückerstattung-bei-aufhebung-oder-unwirksamkeit-des-zuschlags) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=208) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_242_TextContainer_242) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-208-eo--rückerstattung-bei-aufhebung-oder-unwirksamkeit-des-zuschlags)) \]
 
 ----
 
@@ -3815,7 +3815,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Die Anberaumung der Tagsatzung ist öffentlich bekannt zu machen\. Zwischen der Aufnahme in die Ediktsdatei und der Tagsatzung soll eine Frist von mindestens vier Wochen liegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-209-eo--anberaumung-der-meistbotsverteilungstagsatzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=209) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_243_TextContainer_243) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-209-eo--anberaumung-der-meistbotsverteilungstagsatzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=209) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_243_TextContainer_243) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-209-eo--anberaumung-der-meistbotsverteilungstagsatzung)) \]
 
 ----
 
@@ -3825,7 +3825,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Auch Forderungen, die nach Ablauf der in Abs\. 1 genannten Frist, spätestens aber bei der Tagsatzung angemeldet werden, sind bei der Verteilung zu berücksichtigen\. Muss auf Grund der verspäteten Anmeldung die Verhandlung von Amts wegen oder auf Antrag eines anwesenden Gläubigers erstreckt werden, so hat das Exekutionsgericht nach freier Überzeugung \(§ 273 ZPO\) die Kosten jedes nach § 209 Abs\. 2 und 3 zu verständigenden und bei der erstreckten Tagsatzung anwesenden Beteiligten für die Teilnahme an der erstreckten Verhandlung festzusetzen und deren Bezahlung dem säumigen Gläubiger aufzuerlegen\. Wenn ein Beteiligter durch einen Rechtsanwalt vertreten wird, sind die Kosten nach dem Rechtsanwaltstarifgesetz zu bemessen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-210-eo--forderungsanmeldung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=210) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_244_TextContainer_244) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-210-eo--forderungsanmeldung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=210) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_244_TextContainer_244) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-210-eo--forderungsanmeldung)) \]
 
 ----
 
@@ -3841,7 +3841,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Bei einer Höchstbetragshypothek reicht zum Nachweis des zum Zeitpunkt der letzten vom Verpflichteten unwidersprochen gebliebenen Saldomitteilung offenen Betrags die Vorlage dieser Saldomitteilung aus\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-211-eo--angabe-des-entschädigungs--oder-kapitalbetrags) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=211) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_245_TextContainer_245) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-211-eo--angabe-des-entschädigungs--oder-kapitalbetrags) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=211) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_245_TextContainer_245) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-211-eo--angabe-des-entschädigungs--oder-kapitalbetrags)) \]
 
 ----
 
@@ -3853,7 +3853,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Kann die Verhandlung an einem Tag nicht beendet werden, so ist die Fortsetzung derselben für einen der nächsten Tage anzuordnen und dies den anwesenden Personen bei Unterbrechung der Verhandlung zu verkünden\. Einer neuerlichen Ladung der im § 209 bezeichneten Personen bedarf es nicht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-212-eo--verhandlung-über-die-ansprüche) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=212) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_246_TextContainer_246) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-212-eo--verhandlung-über-die-ansprüche) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=212) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_246_TextContainer_246) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-212-eo--verhandlung-über-die-ansprüche)) \]
 
 ----
 
@@ -3865,7 +3865,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Das über die Tagsatzung aufzunehmende Protokoll hat den wesentlichen Inhalt der von den Beteiligten abgegebenen, für die Verteilung erheblichen Erklärungen zu enthalten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-213-eo--widerspruchsrecht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=213) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_247_TextContainer_247) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-213-eo--widerspruchsrecht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=213) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_247_TextContainer_247) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-213-eo--widerspruchsrecht)) \]
 
 ----
 
@@ -3875,7 +3875,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Soweit die im einzelnen Falle davon betroffenen berechtigten Personen einig sind, erfolgt die Verteilung nach Maßgabe dieses Einverständnisses; andernfalls sind dabei die nachfolgenden Vorschriften zu beobachten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-214-eo--verteilungsbeschluss) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=214) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_248_TextContainer_248) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-214-eo--verteilungsbeschluss) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=214) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_248_TextContainer_248) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-214-eo--verteilungsbeschluss)) \]
 
 ----
 
@@ -3891,7 +3891,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `4.` die vom Ersteher gemäß § 208 geleisteten Rückerstattungen und alle übrigen nach den Vorschriften dieses Gesetzes in die Verteilungsmasse fließenden Beträge\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-215-eo--verteilungsmasse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=215) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_249_TextContainer_249) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-215-eo--verteilungsmasse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=215) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_249_TextContainer_249) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-215-eo--verteilungsmasse)) \]
 
 ----
 
@@ -3909,7 +3909,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die gerichtlich bestimmten Prozess\- und Exekutionskosten, die durch die Geltendmachung eines der in Abs\. 1 Z 2 bis 4 angeführten Ansprüche entstanden sind, und die nicht länger als drei Jahre vor dem Tag der Erteilung des Zuschlages rückständigen, aus einem Vertrag oder aus dem Gesetz gebührenden Zinsen, Renten, Unterhaltsgelder und sonstigen wiederkehrenden Leistungen genießen gleiche Priorität mit dem Kapital oder Bezugsrecht\. Eine gleiche Priorität wie dem Kapital kommt auch den Ansprüchen aus einem für den Fall der vorzeitigen Rückzahlung einer bücherlich sichergestellten Forderung geschlossenen Vertrage zu\. Bei Unzulänglichkeit der Verteilungsmasse sind diese Nebengebühren vor dem Kapital zu berichtigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-216-eo--rangordnung-der-zu-berichtigenden-ansprüche) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=216) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_250_TextContainer_250) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-216-eo--rangordnung-der-zu-berichtigenden-ansprüche) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=216) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_250_TextContainer_250) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-216-eo--rangordnung-der-zu-berichtigenden-ansprüche)) \]
 
 ----
 
@@ -3917,7 +3917,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Im Fall einer nur relativ wirksamen Vorrangseinräumung im Sinne des § 30 Abs\. 3 GBG ist bei der Meistbotsverteilung das vortretende Recht an seiner ursprünglichen Stelle zu berücksichtigen, wenn das Recht, das nach seinem ursprünglichen Rang vom Ersteher ohne Anrechnung auf das Meistbot zu übernehmen ist, zurücktritt und ein seiner Natur nach verschiedenes Recht vortritt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-216a-eo--vorrangseinräumung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=216a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_251_TextContainer_251) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-216a-eo--vorrangseinräumung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=216a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_251_TextContainer_251) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-216a-eo--vorrangseinräumung)) \]
 
 ----
 
@@ -3931,7 +3931,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Ein nach Berichtigung aller dieser Ansprüche erübrigender Rest der Verteilungsmasse ist dem Verpflichteten zuzuweisen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-217-eo--rest-der-verteilungsmasse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=217) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_252_TextContainer_252) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-217-eo--rest-der-verteilungsmasse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=217) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_252_TextContainer_252) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-217-eo--rest-der-verteilungsmasse)) \]
 
 ----
 
@@ -3941,7 +3941,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Forderungen, zu deren Hereinbringung vor Einleitung des Versteigerungsverfahrens die Zwangsverwaltung der Liegenschaft angeordnet wurde, gelangen in der gemäß § 104 dem Befriedigungsrecht des Gläubigers zukommenden Rangordnung aus der Verteilungsmasse zum Zug, wenngleich dieser Gläubiger auf der Liegenschaft weder pfandrechtlich sichergestellt, noch dem Versteigerungsverfahren beigetreten ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-218-eo--gleiche-rangordnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=218) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_253_TextContainer_253) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-218-eo--gleiche-rangordnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=218) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_253_TextContainer_253) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-218-eo--gleiche-rangordnung)) \]
 
 ----
 
@@ -3951,7 +3951,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Das durch Erlöschen des Bezugsrechtes frei werdende Kapital ist, soweit tunlich, schon im Voraus nach Maßgabe der Priorität ihrer Ansprüche den Berechtigten, deren Ansprüche aus der Verteilungsmasse nicht mehr voll zum Zug gelangen, und in Ermanglung solcher dem Verpflichteten zu überweisen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-219-eo--renten-und-wiederkehrende-leistungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=219) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_254_TextContainer_254) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-219-eo--renten-und-wiederkehrende-leistungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=219) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_254_TextContainer_254) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-219-eo--renten-und-wiederkehrende-leistungen)) \]
 
 ----
 
@@ -3965,7 +3965,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Forderungen, hinsichtlich deren im öffentlichen Buch eine Streitanmerkung oder die Anmerkung der Löschungsklage eingetragen ist, sind wie Forderungen unter auflösender Bedingung zu behandeln\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-220-eo--pfandrechtlich-sichergestellte-forderungen-unter-auflösender-bedingung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=220) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_255_TextContainer_255) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-220-eo--pfandrechtlich-sichergestellte-forderungen-unter-auflösender-bedingung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=220) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_255_TextContainer_255) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-220-eo--pfandrechtlich-sichergestellte-forderungen-unter-auflösender-bedingung)) \]
 
 ----
 
@@ -3975,7 +3975,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Zinsen sind dem bedingt berechtigten Gläubiger, wenn diesem aber der Zinsenbezug nicht gebührt, den im § 220 Abs\. 2, genannten Personen zuzuweisen\. Für die Verwendung des frei werdenden Kapitals gelten die Vorschriften des § 219 Abs\. 2\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-221-eo--pfandrechtlich-sichergestellte-forderungen-unter-aufschiebender-bedingung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=221) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_256_TextContainer_256) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-221-eo--pfandrechtlich-sichergestellte-forderungen-unter-aufschiebender-bedingung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=221) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_256_TextContainer_256) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-221-eo--pfandrechtlich-sichergestellte-forderungen-unter-aufschiebender-bedingung)) \]
 
 ----
 
@@ -3989,7 +3989,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Wenn nicht sämtliche mitverhafteten Liegenschaften zur Versteigerung gelangen, sind der Berechnung des den nachstehenden Berechtigten gebührenden Ersatzes anstelle der Restbeträge der einzelnen Verteilungsmassen die Einheitswerte sämtlicher ungeteilt haftender Liegenschaften zugrunde zu legen\. Die Finanzbehörden sind zur Auskunft über die Einheitswerte verpflichtet\. Der Ersatzanspruch der nachstehenden Berechtigten ist in diesem Fall zu deren Gunsten auf den nicht versteigerten, mitverhafteten Liegenschaften in der Rangordnung der ganz oder teilweise getilgten und gleichzeitig zu löschenden Forderung des befriedigten Simultanpfandgläubigers einzuverleiben\. Diese Einverleibung ist vom Gericht auf Antrag zu verfügen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-222-eo--simultanhypothek) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=222) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_257_TextContainer_257) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-222-eo--simultanhypothek) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=222) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_257_TextContainer_257) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-222-eo--simultanhypothek)) \]
 
 ----
 
@@ -4003,7 +4003,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Für unverzinsliche betagte Forderungen, die in Anrechnung auf das Meistbot übernommen werden, hat der Ersteher vom Tag der Erteilung des Zuschlages bis zum Eintritt der Fälligkeit Zinsen in der Höhe der gesetzlichen Zinsen zu entrichten\. Diese Zinsen sind nach den Bestimmungen des vorhergehenden Absatzes zu verwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-223-eo--andere-pfandrechtlich-sichergestellte-forderungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=223) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_258_TextContainer_258) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-223-eo--andere-pfandrechtlich-sichergestellte-forderungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=223) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_258_TextContainer_258) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-223-eo--andere-pfandrechtlich-sichergestellte-forderungen)) \]
 
 ----
 
@@ -4011,7 +4011,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Bei einer Höchstbetragshypothek sind die bis zur letzten Verteilungstagsatzung bereits entstandenen Forderungen des Gläubigers an Kapital und Nebengebühren in Gemäßheit der sonst für pfandrechtlich sichergestellte Forderungen der gleichen Art geltenden Vorschriften durch Barzahlung oder Übernahme zu berichtigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-224-eo--höchstbetragshypothek) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=224) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_259_TextContainer_259) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-224-eo--höchstbetragshypothek) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=224) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_259_TextContainer_259) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-224-eo--höchstbetragshypothek)) \]
 
 ----
 
@@ -4021,7 +4021,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Bei Dienstbarkeiten und Reallasten von beschränkter Dauer, die der Ersteher in Anrechnung auf das Meistbot übernimmt, ist das Deckungskapital zinstragend anzulegen\. Die Zinsen gebühren für die Dauer der fraglichen Last dem Ersteher\. In Bezug auf das frei werdende Deckungskapital ist im Sinne des § 219 Abs\. 2, zu verfahren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-225-eo--dienstbarkeiten-und-reallasten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=225) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_260_TextContainer_260) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-225-eo--dienstbarkeiten-und-reallasten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=225) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_260_TextContainer_260) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-225-eo--dienstbarkeiten-und-reallasten)) \]
 
 ----
 
@@ -4033,7 +4033,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Mit Zustimmung des Ausgedingsberechtigten und der auf das Deckungskapital gewiesenen Personen kann das Gericht verfügen, dass, wo Altersversorgungskassen bestehen, das Deckungskapital in eine solche Kassa zu Gunsten des Ausgedingsberechtigten eingezahlt werde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-226-eo--einverleibte-ausgedinge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=226) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_261_TextContainer_261) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-226-eo--einverleibte-ausgedinge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=226) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_261_TextContainer_261) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-226-eo--einverleibte-ausgedinge)) \]
 
 ----
 
@@ -4043,7 +4043,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Das Gleiche gilt betreffs der Entschädigungsansprüche für ein nicht auf den Ersteher überwiesenes einverleibtes Bestandrecht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-227-eo--entschädigungsansprüche) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=227) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_262_TextContainer_262) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-227-eo--entschädigungsansprüche) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=227) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_262_TextContainer_262) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-227-eo--entschädigungsansprüche)) \]
 
 ----
 
@@ -4051,7 +4051,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Bücherliche Vormerkungen sind nur dann zu berücksichtigen, wenn spätestens bei der letzten Verteilungstagsatzung nachgewiesen wird, dass das Verfahren zur Rechtfertigung der Vormerkung sich im Zuge befindet, oder wenn zu dieser Zeit die Frist für die Einleitung dieses Verfahrens noch nicht abgelaufen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-228-eo--bücherliche-vormerkungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=228) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_263_TextContainer_263) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-228-eo--bücherliche-vormerkungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=228) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_263_TextContainer_263) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-228-eo--bücherliche-vormerkungen)) \]
 
 ----
 
@@ -4063,7 +4063,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Der Verteilungsbeschluss ist allen zur Tagsatzung geladenen Personen zuzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-229-eo--verteilungsbeschluss) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=229) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_264_TextContainer_264) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-229-eo--verteilungsbeschluss) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=229) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_264_TextContainer_264) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-229-eo--verteilungsbeschluss)) \]
 
 ----
 
@@ -4075,7 +4075,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die Daten über die Bestellung eines Kurators nach Abs\. 1 sind in der Ediktsdatei zu löschen, sobald der Kurator rechtskräftig seines Amtes enthoben wurde oder der Beschluss über die Nachtragsverteilung in Rechtskraft erwachsen ist oder die Kuratel sonst erloschen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-230-eo--gläubiger-unbekannten-aufenthalts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=230) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_265_TextContainer_265) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-230-eo--gläubiger-unbekannten-aufenthalts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=230) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_265_TextContainer_265) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-230-eo--gläubiger-unbekannten-aufenthalts)) \]
 
 ----
 
@@ -4089,7 +4089,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Die Befugnis desjenigen, der Widerspruch erhoben hat, gegen Personen, die auf Grund des Verteilungsbeschlusses Befriedigung erlangt haben, sein besseres Recht im Wege der Klage geltend zu machen, wird weder durch die Versäumung der für die Erhebung der Klage bestimmten Frist, noch durch die Ausführung des Verteilungsbeschlusses verwirkt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-231-eo--entscheidung-über-den-widerspruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=231) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_266_TextContainer_266) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-231-eo--entscheidung-über-den-widerspruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=231) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_266_TextContainer_266) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-231-eo--entscheidung-über-den-widerspruch)) \]
 
 ----
 
@@ -4099,7 +4099,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Das Urteil, welches in dem Prozess über einen bei der Verteilungstagsatzung erhobenen Widerspruch erfließt, ist für und gegen sämtliche beteiligte Gläubiger und Berechtigte, sowie für und gegen den Verpflichteten \(§ 14 der ZPO\) wirksam\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-232-eo--verfahrensbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=232) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_267_TextContainer_267) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-232-eo--verfahrensbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=232) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_267_TextContainer_267) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-232-eo--verfahrensbestimmungen)) \]
 
 ----
 
@@ -4109,7 +4109,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Stehen solcher Bestimmung nach Ermessen des Gerichtes erhebliche Schwierigkeiten entgegen, so ist im Urteil ein neuerliches Verteilungsverfahren anzuordnen und nach Rechtskraft des Urteils von amtswegen einzuleiten\. Diese neuerliche Verteilung hat sich auf den durch den Widerspruch betroffenen Teil der Masse zu beschränken\. Die durch Barzahlung, Schuldübernahme oder Deckungserlag aus dem Versteigerungserlös bereits befriedigten Beteiligten sind diesem neuen Verfahren nicht beizuziehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-233-eo--inhalt-des-urteils) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=233) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_268_TextContainer_268) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-233-eo--inhalt-des-urteils) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=233) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_268_TextContainer_268) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-233-eo--inhalt-des-urteils)) \]
 
 ----
 
@@ -4119,7 +4119,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Bestimmungen des § 233 sind auch auf die Entscheidung über den Rekurs anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-234-eo--rekurs-gegen-verteilungsbeschluss) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=234) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_269_TextContainer_269) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-234-eo--rekurs-gegen-verteilungsbeschluss) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=234) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_269_TextContainer_269) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-234-eo--rekurs-gegen-verteilungsbeschluss)) \]
 
 ----
 
@@ -4131,7 +4131,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Mit dem eingezahlten Meistbotrest ist nach § 233 Abs\. 2, zu verfahren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-235-eo--meistbotsrest) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=235) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_270_TextContainer_270) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-235-eo--meistbotsrest) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=235) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_270_TextContainer_270) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-235-eo--meistbotsrest)) \]
 
 ----
 
@@ -4143,7 +4143,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Soweit der Verteilungsbeschluss wegen eines anhängigen Rechtsstreites nicht ausgeführt werden kann, bleiben die entsprechenden Beträge bis zur rechtskräftigen Entscheidung in gerichtlicher Verwahrung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-236-eo--ausfolgungsbeschluss) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=236) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_271_TextContainer_271) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-236-eo--ausfolgungsbeschluss) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=236) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_271_TextContainer_271) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-236-eo--ausfolgungsbeschluss)) \]
 
 ----
 
@@ -4155,7 +4155,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die Löschung der auf der versteigerten Liegenschaft eingetragenen, vom Ersteher nicht übernommenen Lasten und Rechte kann erst nach Rechtskraft des Verteilungsbeschlusses vom Exekutionsgericht auf Antrag des Erstehers bewilligt werden; mit diesem Antrag kann das im ersten Absatze bezeichnete Begehren verbunden werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-237-eo--bücherliche-einverleibungen-und-löschungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=237) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_272_TextContainer_272) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-237-eo--bücherliche-einverleibungen-und-löschungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=237) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_272_TextContainer_272) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-237-eo--bücherliche-einverleibungen-und-löschungen)) \]
 
 ----
 
@@ -4163,7 +4163,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Soweit das Gesetz nichts anderes bestimmt, sind die Bestimmungen über die Zwangsversteigerung von Liegenschaften auch auf einzelne Liegenschaftsanteile, Superädifikate und Baurechte anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-238-eo--liegenschaftsanteile-und-baurechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=238) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_273_TextContainer_273) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-238-eo--liegenschaftsanteile-und-baurechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=238) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_273_TextContainer_273) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-238-eo--liegenschaftsanteile-und-baurechte)) \]
 
 ----
 
@@ -4190,7 +4190,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Gegen die während des Versteigerungstermins und während der Verteilungstagsatzung gefassten und verkündeten Beschlüsse ist ein abgesonderter Rekurs nicht zulässig\.
 > *\(Anm\.: Abs\. 3 aufgehoben durch BGBl\. I Nr\. 59/2000\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-239-eo--rekurs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=239) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_274_TextContainer_274) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-239-eo--rekurs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=239) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_274_TextContainer_274) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-239-eo--rekurs)) \]
 
 ----
 
@@ -4206,7 +4206,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `2.` die während der Zwangsverwaltung fällig werdenden und die aus dem letzten Jahre vor Bewilligung der Zwangsverwaltung rückständigen Beträge an Lohn und anderen Arbeitseinkommen der beim Betriebe des Bergbaues verwendeten Personen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-241-eo--zwangsverwaltung--unmittelbar-zu-berichtigende-auslagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=241) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_275_TextContainer_275) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-241-eo--zwangsverwaltung--unmittelbar-zu-berichtigende-auslagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=241) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_275_TextContainer_275) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.008.md#-241-eo--zwangsverwaltung--unmittelbar-zu-berichtigende-auslagen)) \]
 
 ----
 
@@ -4216,7 +4216,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` In der Bekanntmachung des Versteigerungstermins sind der Name des Bergbaus, die sich darauf beziehenden Grubenmaße \(Grubenfelder\) und Überscharen, die Größe des Grubenfeldes, die mineralischen Rohstoffe, die in diesem Bergbau gewonnen werden oder wurden, und die dem Bergbau zunächst gelegene Eisenbahn\- oder Schifffahrtsstation anzugeben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-242-eo--zwangsversteigerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=242) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_276_TextContainer_276) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-242-eo--zwangsversteigerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=242) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_276_TextContainer_276) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.008.md#-242-eo--zwangsversteigerung)) \]
 
 ----
 
@@ -4224,7 +4224,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Einhaltung der in § 148 Z 2 und § 188 Abs\. 4 vorgesehenen Fristen sowie der in § 140 Abs\. 1 und § 167 Abs\. 2 bestimmten Zwischenfristen ist nicht erforderlich\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-243-eo--fristen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=243) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_277_TextContainer_277) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-243-eo--fristen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=243) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_277_TextContainer_277) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.008.md#-243-eo--fristen)) \]
 
 ----
 
@@ -4234,7 +4234,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Entstehen während der Zwangsversteigerung Zweifel über Art, Menge und Zuordnung der in § 146 MinroG genannten Gegenstände, so hat die Bundesministerin für Landwirtschaft, Regionen und Tourismus als Montanbehörde darüber zu entscheiden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-244-eo--geringstes-gebot) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=244) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_278_TextContainer_278) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-244-eo--geringstes-gebot) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=244) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_278_TextContainer_278) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.008.md#-244-eo--geringstes-gebot)) \]
 
 ----
 
@@ -4242,7 +4242,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Wird die Zwangsversteigerung eines außer Betrieb befindlichen und unfahrbaren Bergbaues beantragt, so ist der Betrag der Forderung, zu Gunsten deren Exekution geführt wird, der Versteigerung als Ausrufspreis zugrunde zu legen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-245-eo--zwangsversteigerung-eines-außer-betrieb-befindlichen-und-unfahrbaren-bergbaues) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=245) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_279_TextContainer_279) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-245-eo--zwangsversteigerung-eines-außer-betrieb-befindlichen-und-unfahrbaren-bergbaues) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=245) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_279_TextContainer_279) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.008.md#-245-eo--zwangsversteigerung-eines-außer-betrieb-befindlichen-und-unfahrbaren-bergbaues)) \]
 
 ----
 
@@ -4256,7 +4256,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `3.` die Kosten der Schätzung der Bergwerksberechtigung oder eines anderen Gegenstandes des Bergwerkseigentums und der in § 146 MinroG genannten Gegenstände\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-246-eo--verteilung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=246) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_280_TextContainer_280) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-246-eo--verteilung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=246) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_280_TextContainer_280) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.008.md#-246-eo--verteilung)) \]
 
 ----
 
@@ -4264,7 +4264,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Mit Ausnahme des eine Exekution bewilligenden Beschlusses können alle Zustellungen an Bergbauunternehmer oder Bergbauberechtigte, welche im Laufe einer auf Gegenstände des Bergwerkseigentums geführten Exekution vorkommen, an den zur Besorgung der Verwaltung des Bergbaues bestellten Bevollmächtigten bewirkt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-247-eo--zustellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=247) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_281_TextContainer_281) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-247-eo--zustellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=247) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_281_TextContainer_281) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.008.md#-247-eo--zustellung)) \]
 
 ----
 
@@ -4285,7 +4285,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Im vereinfachten Bewilligungsverfahren dürfen Vollzugshandlungen frühestens 14 Tage nach Zustellung der Bewilligung der Exekution vorgenommen werden\. Ist die Exekution nicht im vereinfachten Bewilligungsverfahren bewilligt worden, so ist der Beschluss, durch welchen die Pfändung bewilligt wurde, dem Verpflichteten erst bei Vornahme der Pfändung zuzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-249-eo--grundsatz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=249) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_282_TextContainer_282) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-249-eo--grundsatz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=249) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_282_TextContainer_282) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-249-eo--grundsatz)) \]
 
 ----
 
@@ -4303,7 +4303,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Ein im Rahmen eines erweiterten Exekutionspaketes bestellter Verwalter kann die Exekution auf bewegliche Sachen auch dann vollziehen, wenn die Voraussetzungen des Abs\. 1 nicht vorliegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-249a-eo--verbindung-mit-exekution-auf-einkommensbezüge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=249a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_283_TextContainer_283) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-249a-eo--verbindung-mit-exekution-auf-einkommensbezüge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=249a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_283_TextContainer_283) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-249a-eo--verbindung-mit-exekution-auf-einkommensbezüge)) \]
 
 ----
 
@@ -4317,7 +4317,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Eine Verwahrung der gepfändeten Sache bei Gericht darf der Verwalter nur auf Antrag des betreibenden Gläubigers vornehmen\. Er kann diese wie eine Überstellung der gepfändeten Sache von einem Kostenvorschuss des betreibenden Gläubigers oder dessen Mitwirkung abhängig machen\. § 260 ist anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-249b-eo--verwalter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=249b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_284_TextContainer_284) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-249b-eo--verwalter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=249b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_284_TextContainer_284) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-249b-eo--verwalter)) \]
 
 ----
 
@@ -4345,7 +4345,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Das Vollstreckungsorgan hat Gegenstände geringen Werts auch dann nicht zu pfänden, wenn offenkundig ist, dass die Fortsetzung oder Durchführung der Exekution einen die Kosten dieser Exekution übersteigenden Ertrag nicht ergeben wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-250-eo--unpfändbare-sachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=250) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_285_TextContainer_285) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-250-eo--unpfändbare-sachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=250) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_285_TextContainer_285) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-250-eo--unpfändbare-sachen)) \]
 
 ----
 
@@ -4359,7 +4359,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Bei einer Exekution auf die Fassung von Kreuzpartikeln und Reliquien darf die Authentika nicht verletzt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-251-eo--weitere-unpfändbare-sachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=251) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_286_TextContainer_286) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-251-eo--weitere-unpfändbare-sachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=251) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_286_TextContainer_286) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-251-eo--weitere-unpfändbare-sachen)) \]
 
 ----
 
@@ -4373,7 +4373,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Hat der betreibende Gläubiger innerhalb der Frist des Abs\. 3 eine Vollzugsbeschwerde gegen den vom Vollstreckungsorgan mitgeteilten Wert des Ersatzstücks oder den zur Beschaffung eines solchen Ersatzstücks erforderlichen Geldbetrag erhoben, so wird diese Frist bis zum Eintritt der Rechtskraft der Entscheidung über die Vollzugsbeschwerde unterbrochen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-251a-eo--austauschpfändung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=251a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_287_TextContainer_287) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-251a-eo--austauschpfändung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=251a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_287_TextContainer_287) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-251a-eo--austauschpfändung)) \]
 
 ----
 
@@ -4383,7 +4383,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Auf das Bergwerkszubehör und das Zubehör von Schiffen und Flößen findet eine abgesonderte Exekution nicht statt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-252-eo--liegenschaftszubehör) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=252) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_288_TextContainer_288) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-252-eo--liegenschaftszubehör) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=252) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_288_TextContainer_288) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-252-eo--liegenschaftszubehör)) \]
 
 ----
 
@@ -4391,7 +4391,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Bei Festlegung der Vollzugszeit hat das Vollstreckungsorgan insbesondere darauf Bedacht zu nehmen, wann der Verpflichtete am wahrscheinlichsten anzutreffen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-252a-eo--vollzugszeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=252a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_289_TextContainer_289) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-252a-eo--vollzugszeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=252a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_289_TextContainer_289) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-252a-eo--vollzugszeit)) \]
 
 ----
 
@@ -4399,7 +4399,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Kann beim Vollzugsversuch der Vollzugsort nicht betreten werden und ist nicht auszuschließen, dass sich dort der Verpflichtete oder Vermögensteile, auf die Exekution geführt werden soll, befinden, so sind zwei weitere Versuche durchzuführen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-252b-eo--vollzugsversuche) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=252b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_290_TextContainer_290) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-252b-eo--vollzugsversuche) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=252b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_290_TextContainer_290) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-252b-eo--vollzugsversuche)) \]
 
 ----
 
@@ -4407,7 +4407,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Das Vollstreckungsorgan hat Vollzüge durchzuführen, solange sie erfolgversprechend sind, insbesondere Zahlung auch nur eines Teils der betriebenen Forderung zu erwarten ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-252c-eo--weitere-vollzüge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=252c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_291_TextContainer_291) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-252c-eo--weitere-vollzüge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=252c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_291_TextContainer_291) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-252c-eo--weitere-vollzüge)) \]
 
 ----
 
@@ -4428,7 +4428,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Das Vollstreckungsorgan hat auch spätestens vier Monate nach Erhalt des Vollzugsauftrags über den Stand des Verfahrens zu berichten\. Wurde dem betreibenden Gläubiger innerhalb dieser Frist der Vollzug der Pfändung mitgeteilt und dem Gericht das Pfändungsprotokoll vorgelegt, so ist erst nach sechs Monaten über den Stand des Verfahrens zu berichten\. Nach Ablauf von vier bzw\. sechs Monaten ist monatlich zu berichten\.
 > *\(Anm\.: Abs\. 3 aufgehoben durch BGBl\. I Nr\. 31/2003\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-252d-eo--bericht-des-vollstreckungsorgans) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=252d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_292_TextContainer_292) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-252d-eo--bericht-des-vollstreckungsorgans) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=252d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_292_TextContainer_292) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-252d-eo--bericht-des-vollstreckungsorgans)) \]
 
 ----
 
@@ -4448,7 +4448,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `3.` die Voraussetzungen zur Aufnahme eines Vermögensverzeichnisses nach § 47 vorliegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-252e-eo--vollzug-nach-einem-ergebnislosen-vollzugsversuch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=252e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_293_TextContainer_293) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-252e-eo--vollzug-nach-einem-ergebnislosen-vollzugsversuch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=252e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_293_TextContainer_293) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-252e-eo--vollzug-nach-einem-ergebnislosen-vollzugsversuch)) \]
 
 ----
 
@@ -4462,7 +4462,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Von dem Vollzug der Pfändung sind der betreibende Gläubiger und der Verpflichtete in Kenntnis zu setzen, es sei denn, dass sie bei der Pfändung anwesend oder vertreten waren oder dass ihnen eine Ausfertigung des Versteigerungsediktes unverweilt zugestellt wird\. Eine Ablichtung des Pfändungsprotokolls ist dem betreibenden Gläubiger auf Antrag und gegen Kostenersatz zu übersenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-253-eo--pfändung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=253) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_294_TextContainer_294) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-253-eo--pfändung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=253) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_294_TextContainer_294) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-253-eo--pfändung)) \]
 
 ----
 
@@ -4476,7 +4476,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Wurde mit dem Verpflichteten kein Vermögensverzeichnis aufgenommen, weil dessen Aufnahme nach § 49 Abs\. 1 unzulässig war, so kann der betreibende Gläubiger die Aufnahme eines Vermögensverzeichnisses nur gemeinsam mit einem neuerlichen Vollzug beantragen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-253a-eo--aufnahme-eines-vermögensverzeichnisses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=253a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_295_TextContainer_295) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-253a-eo--aufnahme-eines-vermögensverzeichnisses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=253a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_295_TextContainer_295) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-253a-eo--aufnahme-eines-vermögensverzeichnisses)) \]
 
 ----
 
@@ -4484,7 +4484,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Der betreibende Gläubiger hat keinen Anspruch auf Ersatz der Kosten für die Beteiligung am Exekutionsvollzug, wenn die hereinzubringende Forderung an Kapital 2 700 Euro nicht übersteigt\. Prozesskosten oder Nebengebühren sind nur dann zu berücksichtigen, wenn sie allein Gegenstand des durchzusetzenden Anspruchs sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-253b-eo--kostenersatz-für-die-beteiligung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=253b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_296_TextContainer_296) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-253b-eo--kostenersatz-für-die-beteiligung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=253b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_296_TextContainer_296) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-253b-eo--kostenersatz-für-die-beteiligung)) \]
 
 ----
 
@@ -4494,7 +4494,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Das Vollstreckungsorgan hat dem Exekutionsgericht das Pfändungsprotokoll vorzulegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-254-eo--pfändungsregister-und-pfändungsprotokoll) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=254) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_297_TextContainer_297) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-254-eo--pfändungsregister-und-pfändungsprotokoll) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=254) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_297_TextContainer_297) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-254-eo--pfändungsregister-und-pfändungsprotokoll)) \]
 
 ----
 
@@ -4502,7 +4502,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Auskünfte aus dem Pfändungsregister sind allen Personen zu erteilen, welche glaubhaft machen, dass sie diese Auskünfte behufs Einleitung eines Rechtsstreites oder einer Exekution, zur Geltendmachung von Einwendungen gegen eine bereits eingeleitete Exekution oder aus anderen wichtigen Gründen bedürfen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-255-eo--auskunft-aus-dem-pfändungsregister) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=255) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_298_TextContainer_298) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-255-eo--auskunft-aus-dem-pfändungsregister) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=255) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_298_TextContainer_298) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-255-eo--auskunft-aus-dem-pfändungsregister)) \]
 
 ----
 
@@ -4514,7 +4514,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Erfolgt die Pfändung gleichzeitig zu Gunsten mehrerer Gläubiger, so stehen die hiedurch begründeten Pfandrechte im Range einander gleich\. Jedem dieser Gläubiger kommt die Stellung eines betreibenden Gläubigers zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-256-eo--erwerb-des-pfandrechts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=256) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_299_TextContainer_299) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-256-eo--erwerb-des-pfandrechts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=256) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_299_TextContainer_299) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-256-eo--erwerb-des-pfandrechts)) \]
 
 ----
 
@@ -4525,7 +4525,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Jedem Gläubiger, zu dessen Gunsten Pfändung stattfindet, kommt die Stellung eines betreibenden Gläubigers zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-257-eo--nachpfändung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=257) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_300_TextContainer_300) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-257-eo--nachpfändung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=257) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_300_TextContainer_300) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-257-eo--nachpfändung)) \]
 
 ----
 
@@ -4535,7 +4535,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Wenn die Sache vor rechtskräftiger Entscheidung über die Klage im Exekutionszug verkauft wird und der klägerische Anspruch genügend bescheinigt ist, kann auf Antrag vom Gericht die einstweilige Hinterlegung des Erlöses angeordnet werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-258-eo--geltendmachung-von-pfand--und-vorzugsrechten-dritter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=258) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_301_TextContainer_301) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-258-eo--geltendmachung-von-pfand--und-vorzugsrechten-dritter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=258) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_301_TextContainer_301) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-258-eo--geltendmachung-von-pfand--und-vorzugsrechten-dritter)) \]
 
 ----
 
@@ -4555,7 +4555,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(6)` Die Einleitung der Verwahrung ist unter Angabe des Verwahrers im Pfändungsprotokoll ersichtlich zu machen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-259-eo--verwahrung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=259) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_302_TextContainer_302) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-259-eo--verwahrung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=259) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_302_TextContainer_302) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-259-eo--verwahrung)) \]
 
 ----
 
@@ -4563,7 +4563,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Der Verwahrer wird vom Vollstreckungsorgan bestellt\. Sofern der Verwahrer ohne Zustimmung des Verpflichteten und der betreibenden Gläubiger bestellt wurde, sind sie unter Bekanntgabe des Namens des Verwahrers von dessen Ernennung zu verständigen\. Unter Darlegung geeigneter Gründe kann von ihnen jederzeit die Ernennung eines anderen Verwahrers beim Exekutionsgericht beantragt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-260-eo--bestellung-des-verwahrers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=260) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_303_TextContainer_303) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-260-eo--bestellung-des-verwahrers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=260) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_303_TextContainer_303) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-260-eo--bestellung-des-verwahrers)) \]
 
 ----
 
@@ -4579,7 +4579,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Behauptet der Verpflichtete oder sonst eine bei der Pfändung anwesende Person, dass ein Umstand vorliegt, dessen Geltendmachung zur Aufschiebung der Exekution führen kann, so ist das vorgefundene Geld in jedem Falle zunächst gerichtlich zu erlegen und damit nach den vorstehenden Bestimmungen zu verfahren; es darf aber vor Ablauf von acht Tagen nicht ausgefolgt werden\. Das Vollstreckungsorgan hat bei Vornahme der Pfändung die Anwesenden auf diese Frist aufmerksam zu machen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-261-eo--vorgefundenes-bargeld) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=261) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_304_TextContainer_304) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-261-eo--vorgefundenes-bargeld) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=261) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_304_TextContainer_304) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-261-eo--vorgefundenes-bargeld)) \]
 
 ----
 
@@ -4587,7 +4587,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die gleichen Vorschriften gelten für die Pfändung und Verwahrung der beweglichen körperlichen Sachen des Verpflichteten, die sich in der Gewahrsame des betreibenden Gläubigers oder einer zu deren Herausgabe bereiten dritten Person befinden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-262-eo--pfändung-bei-dritten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=262) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_305_TextContainer_305) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-262-eo--pfändung-bei-dritten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=262) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_305_TextContainer_305) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-262-eo--pfändung-bei-dritten)) \]
 
 ----
 
@@ -4595,7 +4595,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Hat der betreibende Gläubiger eine bewegliche körperliche Sache des Verpflichteten in seiner Gewahrsame, an der ihm ein Pfandrecht oder ein Zurückbehaltungsrecht für die zu vollstreckende Forderung zusteht, so kann der Verpflichtete, soweit diese Forderung durch die Sache gedeckt ist, beim Exekutionsgericht die Einschränkung der Pfändung auf diese Sache beantragen\. Besteht das Pfand\- oder Zurückbehaltungsrecht zugleich für eine andere Forderung des betreibenden Gläubigers, so ist dem Antrag nur stattzugeben, wenn auch diese Forderung durch die Sache gedeckt ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-263-eo--einschränkung-der-pfändung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=263) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_306_TextContainer_306) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-263-eo--einschränkung-der-pfändung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=263) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_306_TextContainer_306) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-263-eo--einschränkung-der-pfändung)) \]
 
 ----
 
@@ -4603,7 +4603,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Der Verkauf ist, vorbehaltlich der Anwendung der §§ 14, 27 Abs\. 1 und 41 Abs\. 2, aufzuschieben, wenn zur Hereinbringung derselben Forderung Exekution auf wiederkehrende Geldforderungen geführt wird und deren Erlös voraussichtlich ausreichen wird, die vollstreckbare Forderung samt Nebengebühren im Lauf eines Jahres zu tilgen\. Das gilt nicht, wenn Gegenstand des Verkaufs eine der im § 321 genannten Forderungen ist \(§§ 317 bis 319\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-264-eo--aufschiebung-des-verkaufs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=264) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_307_TextContainer_307) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-264-eo--aufschiebung-des-verkaufs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=264) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_307_TextContainer_307) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-264-eo--aufschiebung-des-verkaufs)) \]
 
 ----
 
@@ -4611,7 +4611,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Im Fall des § 252c kann das Vollstreckungsorgan für den Zeitraum von erfolgversprechenden Vollzügen, längstens aber für vier Monate, mit der Anordnung des Verkaufs der Pfandgegenstände innehalten\. Dies ist dem betreibenden Gläubiger mitzuteilen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-264a-eo--innehalten-mit-der-anordnung-des-verkaufs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=264a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_308_TextContainer_308) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-264a-eo--innehalten-mit-der-anordnung-des-verkaufs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=264a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_308_TextContainer_308) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-264a-eo--innehalten-mit-der-anordnung-des-verkaufs)) \]
 
 ----
 
@@ -4621,7 +4621,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Von dieser Feststellung sind alle Personen zu verständigen, die an dem Wertpapier ein Pfandrecht erworben haben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-265-eo--wertpapiere-einer-juristischen-person-des-öffentlichen-rechts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=265) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_309_TextContainer_309) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-265-eo--wertpapiere-einer-juristischen-person-des-öffentlichen-rechts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=265) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_309_TextContainer_309) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-265-eo--wertpapiere-einer-juristischen-person-des-öffentlichen-rechts)) \]
 
 ----
 
@@ -4631,7 +4631,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Vor Leistung der vom Exekutionsgericht zu bestimmenden Sicherheit darf der Verkauf nicht stattfinden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-266-eo--verkauf-vor-rechtskraft-der-pfändungsbewilligung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=266) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_310_TextContainer_310) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-266-eo--verkauf-vor-rechtskraft-der-pfändungsbewilligung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=266) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_310_TextContainer_310) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-266-eo--verkauf-vor-rechtskraft-der-pfändungsbewilligung)) \]
 
 ----
 
@@ -4643,7 +4643,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die beitretenden Gläubiger haben vom Zeitpunkte ihres Beitrittes an dieselben Rechte, als wenn das Verfahren auf ihren Antrag eingeleitet worden wäre\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-267-eo--beitritt-zum-verkaufsverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=267) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_311_TextContainer_311) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-267-eo--beitritt-zum-verkaufsverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=267) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_311_TextContainer_311) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-267-eo--beitritt-zum-verkaufsverfahren)) \]
 
 ----
 
@@ -4657,7 +4657,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Der Verwalter kann bewegliche Sachen unter Berücksichtigung des Schätzwerts verkaufen\. Er hat den beabsichtigten Freihandverkauf, soweit tunlich, für mindestens 14 Tage öffentlich bekanntzumachen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-268-eo--freihandverkauf) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=268) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_312_TextContainer_312) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-268-eo--freihandverkauf) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=268) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_312_TextContainer_312) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-268-eo--freihandverkauf)) \]
 
 ----
 
@@ -4665,7 +4665,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Bestimmung des § 367 ABGB über den Eigentumserwerb an Sachen, die in einer öffentlichen Versteigerung veräußert werden, gilt auch bei einem Verkauf aus freier Hand\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-269-eo--gutgläubiger-eigentumserwerb) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=269) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_313_TextContainer_313) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-269-eo--gutgläubiger-eigentumserwerb) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=269) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_313_TextContainer_313) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-269-eo--gutgläubiger-eigentumserwerb)) \]
 
 ----
 
@@ -4679,7 +4679,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Gewährleistungsrechte des Erwerbers wegen eines Mangels der veräußerten Sache sowie das Rücktrittsrecht sind ausgeschlossen, das FAGG ist nicht anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-270-eo--öffentliche-versteigerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=270) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_314_TextContainer_314) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-270-eo--öffentliche-versteigerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=270) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_314_TextContainer_314) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-270-eo--öffentliche-versteigerung)) \]
 
 ----
 
@@ -4687,7 +4687,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Solange die Versteigerung noch nicht begonnen hat, kann eine gepfändete Sache, die keinen Liebhaberwert hat, unter Entfall der Versteigerung zu einem Preis, der den Schätzwert um ein Viertel übersteigt, verkauft werden\. Wird der Kaufpreis nicht vor der Versteigerung erlegt, so ist die Versteigerung durchzuführen\.“
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-271-eo--sofortkauf-vor-der-versteigerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=271) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_315_TextContainer_315) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-271-eo--sofortkauf-vor-der-versteigerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=271) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_315_TextContainer_315) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-271-eo--sofortkauf-vor-der-versteigerung)) \]
 
 ----
 
@@ -4703,7 +4703,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Vom Versteigerungstermin und vom Versteigerungsort sind der Verpflichtete und die betreibenden Gläubiger durch Zustellung einer Ausfertigung des Edikts zu verständigen\. Dies kann unterbleiben, soweit dem Verpflichteten und dem betreibenden Gläubiger der Versteigerungstermin und der Versteigerungsort bereits bei der Pfändung bekanntgegeben wurden; die Kenntnisnahme ist zu bestätigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-272-eo--versteigerungstermin) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=272) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_316_TextContainer_316) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-272-eo--versteigerungstermin) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=272) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_316_TextContainer_316) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-272-eo--versteigerungstermin)) \]
 
 ----
 
@@ -4729,7 +4729,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `2.` bei einer Versteigerung im Internet aufgrund des Kundenkreises zu erwarten ist, dass ein großer Interessentenkreis angesprochen wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-272a-eo--versteigerungsedikt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=272a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_317_TextContainer_317) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-272a-eo--versteigerungsedikt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=272a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_317_TextContainer_317) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-272a-eo--versteigerungsedikt)) \]
 
 ----
 
@@ -4739,7 +4739,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Das zur Vornahme der Versteigerung oder bei der Versteigerung in einem Versteigerungshaus das zur Überstellung berufene Vollstreckungsorgan hat sich rechtzeitig vor dem Termin von der Zustellung der Versteigerungsbewilligung an die Beteiligten und von der ordnungsgemäßen Bekanntmachung des Versteigerungstermins zu überzeugen und wahrgenommene Mängel dem Exekutionsgericht mitzuteilen\. Das Exekutionsgericht hat infolge einer solchen Anzeige im Sinne des § 175 vorzugehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-273-eo--frist-zwischen-pfändung-und-versteigerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=273) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_318_TextContainer_318) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-273-eo--frist-zwischen-pfändung-und-versteigerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=273) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_318_TextContainer_318) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-273-eo--frist-zwischen-pfändung-und-versteigerung)) \]
 
 ----
 
@@ -4787,7 +4787,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Das Vollstreckungsorgan darf nur solche Versteigerer heranziehen, die einer Versteigerung im Internet die Bestimmungen dieses Gesetzes zugrunde legen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-274-eo--versteigerungsort) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=274) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_319_TextContainer_319) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-274-eo--versteigerungsort) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=274) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_319_TextContainer_319) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-274-eo--versteigerungsort)) \]
 
 ----
 
@@ -4797,7 +4797,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Der betreibende Gläubiger kann auch die zur Überstellung erforderlichen Transportmittel und Arbeitskräfte bereitstellen\. Dies hat er rechtzeitig dem Vollstreckungsorgan bekanntzugeben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-274a-eo--vorschuss-für-kosten-des-transports-der-verkaufsverwahrung-und-des-versteigerers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=274a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_320_TextContainer_320) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-274a-eo--vorschuss-für-kosten-des-transports-der-verkaufsverwahrung-und-des-versteigerers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=274a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_320_TextContainer_320) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-274a-eo--vorschuss-für-kosten-des-transports-der-verkaufsverwahrung-und-des-versteigerers)) \]
 
 ----
 
@@ -4807,7 +4807,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Diese Kosten sind aus dem vom betreibenden Gläubiger erlegten Kostenvorschuss, mangels eines solchen aus dem Verkaufserlös zu berichtigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-274b-eo--transportkosten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=274b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_321_TextContainer_321) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-274b-eo--transportkosten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=274b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_321_TextContainer_321) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-274b-eo--transportkosten)) \]
 
 ----
 
@@ -4817,7 +4817,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Pfandstücke sind von Amts wegen so zeitgerecht zu überstellen, dass sie zur Besichtigung ausgestellt werden können\. Der Termin der Überstellung ist den Parteien möglichst bei Bekanntgabe des Versteigerungstermins bekannt zu geben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-274c-eo--zeitpunkt-der-überstellung-und-besichtigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=274c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_322_TextContainer_322) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-274c-eo--zeitpunkt-der-überstellung-und-besichtigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=274c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_322_TextContainer_322) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-274c-eo--zeitpunkt-der-überstellung-und-besichtigung)) \]
 
 ----
 
@@ -4830,7 +4830,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(3)` Die Sachen sind unter Anschluss eines Verzeichnisses, in dem die Gegenstände mit den Postnummern des Pfändungsprotokolls sowie die Parteien des Exekutionsverfahrens anzuführen sind, der Auktionshalle oder dem Versteigerungshaus zu übergeben\.
 > *\(Anm\.: Abs\. 4 aufgehoben durch BGBl\. I Nr\. 31/2003\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-274d-eo--überstellungsverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=274d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_323_TextContainer_323) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-274d-eo--überstellungsverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=274d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_323_TextContainer_323) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-274d-eo--überstellungsverfahren)) \]
 
 ----
 
@@ -4840,7 +4840,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Fehlen Gegenstände oder zeigen sich Fehler, Mängel oder Beschädigungen, so hat dies die Auktionshalle oder das Versteigerungshaus dem Exekutionsgericht unverzüglich mitzuteilen und die nötigen Schritte zur Erhebung des Schadens und des Schädigers einzuleiten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-274e-eo--übernahme-der-sachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=274e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_324_TextContainer_324) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-274e-eo--übernahme-der-sachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=274e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_324_TextContainer_324) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-274e-eo--übernahme-der-sachen)) \]
 
 ----
 
@@ -4848,7 +4848,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Auktionshalle und das Versteigerungshaus haben für die ordnungsgemäße Aufbewahrung der übernommenen Sachen zu sorgen\. Werden Sachen während der Aufbewahrung beschädigt oder vernichtet, so ist § 274e Abs\. 2 anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-274f-eo--verkaufsverwahrung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=274f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_325_TextContainer_325) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-274f-eo--verkaufsverwahrung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=274f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_325_TextContainer_325) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-274f-eo--verkaufsverwahrung)) \]
 
 ----
 
@@ -4856,7 +4856,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Das Gericht hat der zuständigen Abgabenbehörde oder dem Amt für Betrugsbekämpfung und der Vollstreckungsbehörde, die dem Gericht das Bestehen eines Pfandrechtes nach § 286a Abs\. 2 mitgeteilt hat, das Versteigerungsedikt zuzustellen und diese Behörden von der beabsichtigten Verwertung nach §§ 268, 270 Abs\. 2 und § 280 Abs\. 1 zu verständigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-274g-eo--verständigungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=274g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_326_TextContainer_326) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-274g-eo--verständigungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=274g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_326_TextContainer_326) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-274g-eo--verständigungen)) \]
 
 ----
 
@@ -4879,7 +4879,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(5)` Zum Sachverständigen darf nur ein allgemein beeideter gerichtlicher Sachverständiger bestimmt werden; bei der Versteigerung von Gegenständen nach § 274 Abs\. 2 in einem Versteigerungshaus auch ein anerkannter, ständig vom Versteigerungshaus zugezogener Experte\. Wohnungseinrichtungsstücke und sonstige Gegenstände minderen und allgemein bekannten Werts sind vom Vollstreckungsorgan zu schätzen\.
 > *\(Anm\.: Abs\. 6 aufgehoben durch Art\. 1 Z 221, BGBl\. I Nr\. 86/2021\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-275-eo--schätzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=275) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_327_TextContainer_327) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-275-eo--schätzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=275) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_327_TextContainer_327) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-275-eo--schätzung)) \]
 
 ----
 
@@ -4893,7 +4893,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Der Leiter der Auktionshalle hat dem Verpflichteten den Zeitraum mitzuteilen, für den mit der Versteigerung innegehalten wird; dieser Zeitraum darf drei Tage nicht übersteigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-275a-eo--innehalten-mit-der-versteigerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=275a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_328_TextContainer_328) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-275a-eo--innehalten-mit-der-versteigerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=275a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_328_TextContainer_328) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-275a-eo--innehalten-mit-der-versteigerung)) \]
 
 ----
 
@@ -4905,7 +4905,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die Bieter brauchen kein Vadium zu erlegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-276-eo--durchführung-der-versteigerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=276) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_329_TextContainer_329) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-276-eo--durchführung-der-versteigerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=276) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_329_TextContainer_329) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-276-eo--durchführung-der-versteigerung)) \]
 
 ----
 
@@ -4941,7 +4941,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Bei Internetversteigerungen kann vorgesehen werden, dass das vom Bieter abgegebene Gebot ein Höchstgebot ist, innerhalb dessen Gebote als abgegeben gelten, bis das von einem anderen Bieter abgegebene Gebot übertroffen wird\. Unzulässig ist die Abgabe von Geboten mittels eines automatisierten Datenverarbeitungsprogramms, das die Gebote beobachtet und unmittelbar vor Ablauf der Frist, innerhalb der Gebote zulässig sind, ein Gebot abgibt, das im Rahmen einer oberen Grenze nach Möglichkeit das aktuelle Höchstgebot überbietet, sodass dem Bieter, der das Programm verwendet, der Zuschlag erteilt wird \(Sniper\-Programm\)\. Gebote von Personen, die ein solches Programm verwenden, sind unwirksam\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-277-eo--sonderbestimmungen-für-die-versteigerung-im-internet) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=277) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_330_TextContainer_330) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-277-eo--sonderbestimmungen-für-die-versteigerung-im-internet) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=277) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_330_TextContainer_330) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-277-eo--sonderbestimmungen-für-die-versteigerung-im-internet)) \]
 
 ----
 
@@ -4949,7 +4949,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Solange kein Gebot abgegeben wurde, kann bei einer Versteigerung im Internet der Gegenstand unter Entfall der Versteigerung zu einem Preis, der den Schätzwert um ein Viertel übersteigt, erworben werden\. Dem Käufer ist der Zuschlag zu erteilen\. Ein Sofortkauf kann vom Vollstreckungsorgan ausgeschlossen werden\. Dies ist den Parteien bei Übermittlung des Versteigerungsediktes bekannt zu geben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-277a-eo--sofortkauf) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=277a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_331_TextContainer_331) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-277a-eo--sofortkauf) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=277a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_331_TextContainer_331) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-277a-eo--sofortkauf)) \]
 
 ----
 
@@ -4957,7 +4957,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Bei Einstellung oder Aufschiebung der Exekution ist die Versteigerung im Internet abzubrechen, solange kein Gebot abgegeben wurde; danach nur bei einer Einstellung oder Aufschiebung aufgrund eines Widerspruchs Dritter\. Der Versteigerer hat in diesen Fällen einem Ersuchen des Gerichts oder Vollstreckungsorgans auf Abbruch der Versteigerung zu entsprechen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-277b-eo--abbruch-der-versteigerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=277b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_332_TextContainer_332) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-277b-eo--abbruch-der-versteigerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=277b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_332_TextContainer_332) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-277b-eo--abbruch-der-versteigerung)) \]
 
 ----
 
@@ -4969,7 +4969,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Hat der Meistbietende den in bar zu zahlenden Kaufpreis nicht über Aufforderung unverzüglich, sonst bis zum Schluss der Versteigerung erlegt, so kann die Versteigerung ausgehend von dem dem Bietgebot des Meistbietenden vorangehenden Bietgebot weitergeführt werden, wenn dies nach den Umständen tunlich ist; sonst ist die ihm zugeschlagene Sache bei einem neuen Termin neuerlich auszubieten\. Der Meistbietende wird bei der neuerlichen Versteigerung zu einem Anbot nicht zugelassen; er haftet für einen etwaigen Ausfall, ohne den Mehrerlös beanspruchen zu können\. In bezug auf die Hereinbringung des Ausfalls vom Kaufpreis gilt § 206 Abs\. 2\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-278-eo--erfüllung-des-meistbots) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=278) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_333_TextContainer_333) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-278-eo--erfüllung-des-meistbots) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=278) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_333_TextContainer_333) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-278-eo--erfüllung-des-meistbots)) \]
 
 ----
 
@@ -4977,7 +4977,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Nach Ablauf der Versteigerungsfrist ist der Zuschlag demjenigen zu erteilen, der bei Ablauf dieser Frist das höchste Anbot abgegeben hat\. Der Ersteher ist von der Zuschlagserteilung zu verständigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-278a-eo--zuschlag-bei-versteigerung-im-internet) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=278a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_334_TextContainer_334) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-278a-eo--zuschlag-bei-versteigerung-im-internet) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=278a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_334_TextContainer_334) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-278a-eo--zuschlag-bei-versteigerung-im-internet)) \]
 
 ----
 
@@ -4988,7 +4988,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Für das im Versteigerungstermin aufzunehmende Protokoll haben die Bestimmungen des § 194 Abs\. 1 Z 1 und 2 sinngemäß Anwendung zu finden\. Außerdem sind im Protokolle nebst den Ausrufspreisen die erzielten Meistbote und die Käufer anzugeben\.
 > *\(Anm\.: Abs\. 3 aufgehoben durch Art\. VIII Z 36, RGBl\. Nr\. 118/1914\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-279-eo--schluss-der-versteigerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=279) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_335_TextContainer_335) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-279-eo--schluss-der-versteigerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=279) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_335_TextContainer_335) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-279-eo--schluss-der-versteigerung)) \]
 
 ----
 
@@ -4996,7 +4996,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Werden die gepfändeten Gegenstände bei der Überstellung oder der Versteigerung an Ort und Stelle nicht vorgefunden, so hat der Verpflichtete vor Gericht oder vor dem Vollstreckungsorgan anzugeben, wo sich diese Sachen befinden\. Das Vollstreckungsorgan hat den Verpflichteten hiezu aufzufordern\. § 47 Abs\. 2 über die Belehrung, die Protokolleinsicht und die Bestätigung durch den Verpflichteten sowie § 48 und § 346a Abs\. 2 sind anzuwenden\. Kann dadurch nicht festgestellt werden, wo sich die Sachen befinden, oder ist der Verpflichtete unter Mitnahme der Sachen verzogen und kann das Vollstreckungsorgan durch zumutbare Erhebungen nicht in Erfahrung bringen, wo sich der Verpflichtete aufhält, so wird die Exekution hinsichtlich der nicht vorgefundenen Sachen erst fortgesetzt, sobald der Gläubiger bekannt gibt, wo sich diese Gegenstände befinden\. Dies hat das Vollstreckungsorgan dem betreibenden Gläubiger mitzuteilen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-279a-eo--unauffindbarkeit-der-pfandsachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=279a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_336_TextContainer_336) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-279a-eo--unauffindbarkeit-der-pfandsachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=279a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_336_TextContainer_336) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-279a-eo--unauffindbarkeit-der-pfandsachen)) \]
 
 ----
 
@@ -5008,7 +5008,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Meldet sich im Versteigerungstermin eine Person, die ein Interesse am Erwerb eines Gegenstands, für den bei der Versteigerung das geringste Gebot nicht erzielt wurde, hat, so ist der Gegenstand im selben Termin neuerlich auszubieten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-280-eo--neuerlicher-verwertungsversuch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=280) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_337_TextContainer_337) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-280-eo--neuerlicher-verwertungsversuch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=280) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_337_TextContainer_337) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-280-eo--neuerlicher-verwertungsversuch)) \]
 
 ----
 
@@ -5020,7 +5020,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Können die Sachen nicht binnen vier Wochen verkauft werden, so kann das Exekutionsgericht anordnen, dass die Sachen auf Gefahr und Kosten des Verpflichteten einem Dritten in Verwahrung gegeben werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-281-eo--ausfolgung-und-verwertung-unverkaufter-gegenstände) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=281) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_338_TextContainer_338) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-281-eo--ausfolgung-und-verwertung-unverkaufter-gegenstände) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=281) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_338_TextContainer_338) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-281-eo--ausfolgung-und-verwertung-unverkaufter-gegenstände)) \]
 
 ----
 
@@ -5032,7 +5032,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Wird die Versendung ausgeschlossen oder begehrt der Ersteher die Selbstabholung, so hat dieser binnen 14 Tagen ab Verständigung von der Zuschlagserteilung den Gegenstand gegen Bezahlung des Meistbots abzuholen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-281a-eo--versendung-und-ausschluss-derselben) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=281a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_339_TextContainer_339) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-281a-eo--versendung-und-ausschluss-derselben) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=281a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_339_TextContainer_339) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-281a-eo--versendung-und-ausschluss-derselben)) \]
 
 ----
 
@@ -5040,7 +5040,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Ist der Ersteher bei einer Versteigerung im Internet mit der Abholung oder Bezahlung des Meistbots und der Transportkosten säumig, so ist der Gegenstand neuerlich auszubieten\. § 278 Abs\. 3 zweiter und dritter Satz sind anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-281b-eo--nicht-abgeholte-gegenstände) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=281b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_340_TextContainer_340) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-281b-eo--nicht-abgeholte-gegenstände) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=281b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_340_TextContainer_340) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-281b-eo--nicht-abgeholte-gegenstände)) \]
 
 ----
 
@@ -5052,7 +5052,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Von der Einstellung des Verkaufsverfahrens sind nur der Verpflichtete und die betreibenden Gläubiger zu verständigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-282-eo--einstellung-des-verkaufsverfahrens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=282) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_341_TextContainer_341) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-282-eo--einstellung-des-verkaufsverfahrens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=282) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_341_TextContainer_341) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-282-eo--einstellung-des-verkaufsverfahrens)) \]
 
 ----
 
@@ -5062,7 +5062,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Frist des § 256 Abs\. 2 verlängert sich um die Dauer der Aufschiebung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-282a-eo--aufschiebung-der-exekution-bei-einer-naturkatastrophe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=282a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_342_TextContainer_342) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-282a-eo--aufschiebung-der-exekution-bei-einer-naturkatastrophe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=282a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_342_TextContainer_342) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-282a-eo--aufschiebung-der-exekution-bei-einer-naturkatastrophe)) \]
 
 ----
 
@@ -5072,7 +5072,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Ist die Berechnung der dem Versteigerungshaus zustehenden Kosten strittig, so hat hierüber das Exekutionsgericht auf Antrag eines Beteiligten zu entscheiden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-282b-eo--erlös-bei-versteigerung-durch-einen-versteigerer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=282b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_343_TextContainer_343) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-282b-eo--erlös-bei-versteigerung-durch-einen-versteigerer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=282b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_343_TextContainer_343) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-282b-eo--erlös-bei-versteigerung-durch-einen-versteigerer)) \]
 
 ----
 
@@ -5086,7 +5086,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Ein etwa verbleibender Rest ist, sofern nicht ein nachfolgender Pfandgläubiger inzwischen darauf gegriffen hat, dem Verpflichteten auszufolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-283-eo--verwendung-des-verkaufserlöses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=283) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_344_TextContainer_344) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-283-eo--verwendung-des-verkaufserlöses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=283) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_344_TextContainer_344) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-283-eo--verwendung-des-verkaufserlöses)) \]
 
 ----
 
@@ -5100,7 +5100,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Das Begehren um Kostenersatz muss vom betreibenden Gläubiger bei sonstigem Ausschlusse vor Beendigung des Versteigerungstermines gestellt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-284-eo--ersatz-noch-nicht-gerichtlich-festgestellter-exekutionskosten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=284) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_345_TextContainer_345) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-284-eo--ersatz-noch-nicht-gerichtlich-festgestellter-exekutionskosten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=284) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_345_TextContainer_345) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-284-eo--ersatz-noch-nicht-gerichtlich-festgestellter-exekutionskosten)) \]
 
 ----
 
@@ -5112,7 +5112,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die Verteilungstagsatzung ist vom Exekutionsgericht von amtswegen anzuberaumen\. Zur Tagsatzung sind der Verpflichtete und alle aus den Pfändungsakten ersichtlichen, noch nicht vollständig befriedigten Gläubiger zu laden, deren Pfandrecht nicht bereits gemäß § 256 Abs\. 2, erloschen ist\. Die Gläubiger sind zugleich aufzufordern, ihre Ansprüche an Kapital, Zinsen, Kosten und sonstigen Nebenforderungen vor oder bei der Tagsatzung anzumelden\. Sie haben dazu die zum Nachweis ihrer Ansprüche dienenden Urkunden, falls sich diese nicht schon bei Gericht befinden, spätestens bei der Tagsatzung in Urschrift oder Abschrift vorzulegen\. Andernfalls werden ihre Ansprüche bei der Verteilung nur insoweit berücksichtigt, als zu deren Gunsten bereits die Exekution durch Versteigerung bewilligt wurde\. Eine nachträgliche Einstellung des Verkaufsverfahrens und die Aufschiebung der Exekution wegen einer Zahlungsvereinbarung nach § 45a hindern eine Berücksichtigung ebenso wie der Umstand, dass die gepfändeten Gegenstände vorerst nicht vorgefunden wurden und auf Antrag eines anderen betreibenden Gläubigers die Versteigerung der später vorgefundenen Gegenstände erfolgte oder dass für Gegenstände bei der Versteigerung das geringste Gebot vorerst nicht erzielt wurde und später auf Antrag eines anderen betreibenden Gläubigers die Gegenstände versteigert wurden\. Darüber sind die Gläubiger in der Aufforderung zu belehren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-285-eo--verteilungstagsatzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=285) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_346_TextContainer_346) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-285-eo--verteilungstagsatzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=285) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_346_TextContainer_346) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-285-eo--verteilungstagsatzung)) \]
 
 ----
 
@@ -5134,7 +5134,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` In Ansehung der Berichtigung von Zinsen, wiederkehrenden Zahlungen, Prozess\- und Exekutionskosten sind die in den §§ 216, 217, 218 Abs\. 1, und 219 aufgestellten Grundsätze anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-286-eo--verteilung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=286) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_347_TextContainer_347) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-286-eo--verteilung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=286) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_347_TextContainer_347) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-286-eo--verteilung)) \]
 
 ----
 
@@ -5150,7 +5150,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Ein im abgaben\- oder verwaltungsbehördlichen Vollstreckungsverfahren erzielter Verkaufserlös ist bei Gericht zu erlegen, falls an dem verkauften Gegenstand ein gerichtliches Pfandrecht besteht, auch wenn ein gerichtliches Verwertungsverfahren nicht anhängig ist\. Die Verteilung des Verkaufserlöses obliegt in diesem Fall dem Gericht\. Die Gerichte haben Anfragen der Abgabenbehörden oder des Amts für Betrugsbekämpfung oder der Verwaltungsbehörde, ob gerichtliche Pfandrechte an den verkauften Gegenständen haften, längstens binnen 14 Tagen zu beantworten\. Nach fruchtlosem Ablauf dieser Frist kann die Abgabenbehörde oder das Amt für Betrugsbekämpfung oder die Verwaltungsbehörde den Verkaufserlös verwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-286a-eo--abgabenbehördliche-und-verwaltungsbehördliche-pfandrechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=286a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_348_TextContainer_348) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-286a-eo--abgabenbehördliche-und-verwaltungsbehördliche-pfandrechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=286a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_348_TextContainer_348) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-286a-eo--abgabenbehördliche-und-verwaltungsbehördliche-pfandrechte)) \]
 
 ----
 
@@ -5158,7 +5158,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Im Verteilungsbeschluss sind die für den Erlös bezugsberechtigten Personen und die diesen auszufolgenden Beträge anzugeben\. Diese Beträge sind nach Eintritt der Rechtskraft den bezugsberechtigten Personen auszufolgen\. Diese Verfügungen können auch gesondert getroffen werden, insbesondere, wenn hinsichtlich einzelner Posten die Erledigung im Rechtsweg abgewartet werden muss\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-287-eo--ausfolgung-des-erlöses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=287) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_349_TextContainer_349) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-287-eo--ausfolgung-des-erlöses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=287) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_349_TextContainer_349) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-287-eo--ausfolgung-des-erlöses)) \]
 
 ----
 
@@ -5166,7 +5166,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Bestimmungen der §§ 283 bis 287 haben für die Verwendung des Erlöses sinngemäß zu gelten, der bei einem Verkaufe aus freier Hand erzielt wurde\. Das Begehren um Kostenersatz muss in diesem Fall vom betreibenden Gläubiger bei sonstigem Ausschlusse innerhalb der im § 74 Abs\. 2, festgesetzten Frist gestellt werden\. Vor Ablauf dieser Frist darf dem Verpflichteten von dem erzielten Erlöse nichts ausgefolgt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-288-eo--erlös-aus-freihandverkauf) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=288) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_350_TextContainer_350) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-288-eo--erlös-aus-freihandverkauf) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=288) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_350_TextContainer_350) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-288-eo--erlös-aus-freihandverkauf)) \]
 
 ----
 
@@ -5190,7 +5190,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Bezüge im Sinne dieser Abteilung sind regelmäßig wiederkehrende Geldleistungen, insbesondere Einkünfte aus einem Arbeitsverhältnis oder sonstige wiederkehrende Leistungen mit Einkommensersatzfunktion\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-289-eo--grundsatz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=289) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_351_TextContainer_351) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-289-eo--grundsatz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=289) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_351_TextContainer_351) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.010.md#-289-eo--grundsatz)) \]
 
 ----
 
@@ -5232,7 +5232,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die Unpfändbarkeit von Renten und Beihilfen nach Abs\. 1 Z 14 gilt nicht bei einer Exekution wegen einer Forderung nach § 291b Abs\. 1 Z 1\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-290-eo--unpfändbare-forderungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=290) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_352_TextContainer_352) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-290-eo--unpfändbare-forderungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=290) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_352_TextContainer_352) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.010.md#-290-eo--unpfändbare-forderungen)) \]
 
 ----
 
@@ -5282,7 +5282,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Gesetzliche Ansprüche auf Vorschüsse sowie der Anspruch auf Insolvenz\-Entgelt sind wie die Leistungen, für die der Vorschuss gewährt wird, pfändbar\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-290a-eo--beschränkt-pfändbare-forderungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=290a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_353_TextContainer_353) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-290a-eo--beschränkt-pfändbare-forderungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=290a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_353_TextContainer_353) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.010.md#-290a-eo--beschränkt-pfändbare-forderungen)) \]
 
 ----
 
@@ -5290,7 +5290,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Auch vom 14\. Monatsbezug \(Urlaubszuschuss, Urlaubsbeihilfe, Renten\- oder Pensionssonderzahlung, die zu den im April oder Mai bezogenen Renten bzw\. Pensionen gebührt, und dergleichen\) und vom 13\. Monatsbezug \(Weihnachtszuwendung, Weihnachtsremuneration, Renten\- oder Pensionssonderzahlung, die zu den im September oder Oktober bezogenen Renten bzw\. Pensionen gebührt, und dergleichen\) hat dem Verpflichteten ein unpfändbarer Freibetrag nach § 291a zu verbleiben\. Wird die Sonderzahlung in Teilzahlungen geleistet, so ist der unpfändbare Freibetrag auf die Teilzahlungen entsprechend deren Höhe aufzuteilen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-290b-eo--sonderzahlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=290b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_354_TextContainer_354) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-290b-eo--sonderzahlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=290b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_354_TextContainer_354) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.010.md#-290b-eo--sonderzahlungen)) \]
 
 ----
 
@@ -5302,7 +5302,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Nachzahlungen sind für den Zeitraum zu berücksichtigen, auf den sie sich beziehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-290c-eo--vorschüsse-und-nachzahlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=290c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_355_TextContainer_355) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-290c-eo--vorschüsse-und-nachzahlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=290c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_355_TextContainer_355) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.010.md#-290c-eo--vorschüsse-und-nachzahlungen)) \]
 
 ----
 
@@ -5322,7 +5322,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Der sich nach Abs\. 1 ergebende Betrag ist abzurunden, und zwar bei Auszahlung für Monate auf einen durch 20, bei Auszahlung für Wochen auf einen durch fünf teilbaren Betrag und bei Auszahlung für Tage auf einen ganzen Betrag\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-291-eo--ermittlung-der-berechnungsgrundlage) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=291) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_356_TextContainer_356) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-291-eo--ermittlung-der-berechnungsgrundlage) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=291) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_356_TextContainer_356) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.010.md#-291-eo--ermittlung-der-berechnungsgrundlage)) \]
 
 ----
 
@@ -5350,7 +5350,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Die Grundbeträge sind auf volle Euro abzurunden; der Betrag nach Abs\. 3 letzter Satz ist nach § 291 Abs\. 2 zu runden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-291a-eo--existenzminimum) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=291a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_357_TextContainer_357) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-291a-eo--existenzminimum) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=291a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_357_TextContainer_357) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-291a-eo--existenzminimum)) \]
 
 ----
 
@@ -5374,7 +5374,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Gläubigern, die Exekution wegen einer Forderung nach Abs\. 1 führen, stehen Zahlungen aus dem nach § 291a pfändbaren Betrag, aus dem Forderungen nach Abs\. 1 und sonstige Forderungen rangmäßig zu befriedigen sind, nur zu, soweit ihre Forderungen aus dem in Abs\. 3 genannten Unterschiedsbetrag nicht gedeckt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-291b-eo--besonderheiten-bei-exekutionen-wegen-unterhaltsansprüchen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=291b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_358_TextContainer_358) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-291b-eo--besonderheiten-bei-exekutionen-wegen-unterhaltsansprüchen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=291b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_358_TextContainer_358) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-291b-eo--besonderheiten-bei-exekutionen-wegen-unterhaltsansprüchen)) \]
 
 ----
 
@@ -5400,7 +5400,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Auf Antrag des betreibenden Gläubigers hat das Gericht bei einer neuerlichen Bewilligung der Exekution auszusprechen, dass das Pfandrecht den ursprünglich begründeten Pfandrang, dessen Datum das Gericht anzugeben hat, erhält\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-291c-eo--besonderheiten-bei-exekutionen-wegen-wiederkehrender-leistungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=291c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_359_TextContainer_359) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-291c-eo--besonderheiten-bei-exekutionen-wegen-wiederkehrender-leistungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=291c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_359_TextContainer_359) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-291c-eo--besonderheiten-bei-exekutionen-wegen-wiederkehrender-leistungen)) \]
 
 ----
 
@@ -5428,7 +5428,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Vom Anspruch auf Auszahlung des Entlassungsgeldes \(§ 54 Abs\. 5, § 150 Abs\. 3 und § 156 Abs\. 3 StVG\) hat dem Verpflichteten das Sechsfache des unpfändbaren Freibetrags nach § 291a Abs\. 2 zu verbleiben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-291d-eo--beschränkt-pfändbare-einmalige-leistungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=291d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_360_TextContainer_360) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-291d-eo--beschränkt-pfändbare-einmalige-leistungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=291d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_360_TextContainer_360) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-291d-eo--beschränkt-pfändbare-einmalige-leistungen)) \]
 
 ----
 
@@ -5438,7 +5438,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Abs\. 1 gilt entsprechend für gepfändete Vergütungen, die dem Verpflichteten für die Gewährung einer Wohngelegenheit oder für die sonstige Benützung einer Sache geschuldet werden, aber zu einem nicht unwesentlichen Teil auch als Entgelt für Arbeitsleistungen, die vom Verpflichteten erbracht wurden, anzusehen sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-291e-eo--einmalige-vergütung-für-persönlich-geleistete-arbeiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=291e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_361_TextContainer_361) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-291e-eo--einmalige-vergütung-für-persönlich-geleistete-arbeiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=291e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_361_TextContainer_361) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-291e-eo--einmalige-vergütung-für-persönlich-geleistete-arbeiten)) \]
 
 ----
 
@@ -5448,7 +5448,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Auf Antrag des Verpflichteten ist der unpfändbare Betrag nach Abs\. 1 zu erhöhen, soweit er die unpfändbaren Grundbeträge von einem anderen Bezug nicht erhalten hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-291f-eo--nebenleistungen-und-abgabenguthaben) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=291f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_362_TextContainer_362) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-291f-eo--nebenleistungen-und-abgabenguthaben) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=291f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_362_TextContainer_362) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-291f-eo--nebenleistungen-und-abgabenguthaben)) \]
 
 ----
 
@@ -5472,7 +5472,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 > &nbsp; nach freier Überzeugung im Sinn des § 273 ZPO festzulegen, wobei der gesetzliche Naturalunterhalt so zu bewerten ist, als ob der Unterhalt in Geld zu leisten wäre\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-292-eo--zusammenrechnung--sachleistungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=292) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_363_TextContainer_363) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-292-eo--zusammenrechnung--sachleistungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=292) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_363_TextContainer_363) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-292-eo--zusammenrechnung--sachleistungen)) \]
 
 ----
 
@@ -5492,7 +5492,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 > &nbsp; dringend geboten ist und nicht die Gefahr besteht, dass der betreibende Gläubiger dadurch schwer geschädigt werden könnte\. Der Beschluss über die Erhöhung ist vor Ablauf der Rekursfrist in Vollzug zu setzen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-292a-eo--erhöhung-des-unpfändbaren-betrags) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=292a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_364_TextContainer_364) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-292a-eo--erhöhung-des-unpfändbaren-betrags) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=292a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_364_TextContainer_364) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-292a-eo--erhöhung-des-unpfändbaren-betrags)) \]
 
 ----
 
@@ -5508,7 +5508,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 > &nbsp; Der Beschluss über die Herabsetzung ist vor Ablauf der Rekursfrist in Vollzug zu setzen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-292b-eo--herabsetzung-des-unpfändbaren-betrags) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=292b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_365_TextContainer_365) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-292b-eo--herabsetzung-des-unpfändbaren-betrags) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=292b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_365_TextContainer_365) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-292b-eo--herabsetzung-des-unpfändbaren-betrags)) \]
 
 ----
 
@@ -5520,7 +5520,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `2.` diese Verhältnisse dem Gericht bei der Beschlussfassung nicht vollständig bekannt waren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-292c-eo--änderung-der-voraussetzungen-der-unpfändbarkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=292c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_366_TextContainer_366) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-292c-eo--änderung-der-voraussetzungen-der-unpfändbarkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=292c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_366_TextContainer_366) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-292c-eo--änderung-der-voraussetzungen-der-unpfändbarkeit)) \]
 
 ----
 
@@ -5536,7 +5536,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 > &nbsp; erstrecken sich die Wirkungen des Pfandrechts auch auf den Anspruch des Dritten, der ihm gegen den Drittschuldner zusteht\. Der Anspruch des Dritten wird insoweit erfasst, als ob er dem Verpflichteten zustehen würde\. Die Exekutionsbewilligung ist mit dem Verfügungsverbot dem Drittberechtigten ebenso wie dem Verpflichteten zuzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-292d-eo--auszahlung-des-entgelts-an-dritte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=292d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_367_TextContainer_367) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-292d-eo--auszahlung-des-entgelts-an-dritte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=292d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_367_TextContainer_367) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-292d-eo--auszahlung-des-entgelts-an-dritte)) \]
 
 ----
 
@@ -5554,7 +5554,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 > &nbsp; Rücksicht zu nehmen\. Die wirtschaftliche Existenz des Drittschuldners darf nicht beeinträchtigt werden\. Bei einem Betriebsübergang gilt das Entgelt ab dem Zeitpunkt des Übergangs als vereinbart\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-292e-eo--verschleiertes-entgelt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=292e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_368_TextContainer_368) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-292e-eo--verschleiertes-entgelt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=292e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_368_TextContainer_368) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-292e-eo--verschleiertes-entgelt)) \]
 
 ----
 
@@ -5592,7 +5592,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 > &nbsp; übersteigt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-292f-eo--bestimmungen-für-die-berechnung-durch-den-drittschuldner) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=292f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_369_TextContainer_369) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-292f-eo--bestimmungen-für-die-berechnung-durch-den-drittschuldner) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=292f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_369_TextContainer_369) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-292f-eo--bestimmungen-für-die-berechnung-durch-den-drittschuldner)) \]
 
 ----
 
@@ -5636,7 +5636,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(6)` Wird einem betreibenden Gläubiger nach Erlassen eines Beschlusses nach Abs\. 4 die Exekution bewilligt, so gilt der Beschluss auch für ihn\. Dem betreibenden Gläubiger ist der Beschluss zuzustellen; er kann auf dessen Antrag geändert werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-292g-eo--entscheidung-des-exekutionsgerichts--antragsberechtigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=292g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_370_TextContainer_370) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-292g-eo--entscheidung-des-exekutionsgerichts--antragsberechtigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=292g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_370_TextContainer_370) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-292g-eo--entscheidung-des-exekutionsgerichts--antragsberechtigung)) \]
 
 ----
 
@@ -5654,7 +5654,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` In den Fällen des § 75 hat der betreibende Gläubiger dem Verpflichteten auf dessen Verlangen die Beträge zu ersetzen, die dem Drittschuldner nach Abs\. 1 zugekommen sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-292h-eo--kosten-des-drittschuldners-für-die-berechnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=292h) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_371_TextContainer_371) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-292h-eo--kosten-des-drittschuldners-für-die-berechnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=292h) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_371_TextContainer_371) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-292h-eo--kosten-des-drittschuldners-für-die-berechnung)) \]
 
 ----
 
@@ -5666,7 +5666,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Das Exekutionsgericht hat die Pfändung des Guthabens für den Teil vorweg aufzuheben, dessen der Verpflichtete bis zum nächsten Zahlungstermin dringend bedarf, um seinen notwendigen Unterhalt zu bestreiten und seine laufenden gesetzlichen Unterhaltspflichten zu erfüllen\. Der vorweg freigegebene Teil des Guthabens darf den Betrag nicht übersteigen, der dem Verpflichteten voraussichtlich nach Abs\. 1 zu belassen ist\. Der Verpflichtete hat glaubhaft zu machen, dass beschränkt pfändbare Geldforderungen auf das Konto überwiesen worden sind und dass die Voraussetzungen des Satzes 1 vorliegen\. Der betreibende Gläubiger ist nicht einzuvernehmen, wenn der damit verbundene Aufschub dem Verpflichteten nicht zuzumuten ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-292i-eo--kontenschutz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=292i) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_372_TextContainer_372) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-292i-eo--kontenschutz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=292i) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_372_TextContainer_372) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-292i-eo--kontenschutz)) \]
 
 ----
 
@@ -5680,7 +5680,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Die Verpflichtung des betreibenden Gläubigers oder des Verwalters, eine Quittung und eine Aufstellung über die Höhe der offenen Forderung nach Abs\. 1 und 2 zu übersenden, besteht nicht, wenn die Exekution nur zur Hereinbringung des laufenden gesetzlichen Unterhalts oder anderer wiederkehrender Leistungen geführt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-292j-eo--aufstellung-über-die-offene-forderung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=292j) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_373_TextContainer_373) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-292j-eo--aufstellung-über-die-offene-forderung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=292j) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_373_TextContainer_373) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-292j-eo--aufstellung-über-die-offene-forderung)) \]
 
 ----
 
@@ -5694,7 +5694,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Ein Übereinkommen, wodurch eine Forderung bei ihrer Begründung oder später die Eigenschaft einer Forderung anderer Art beigelegt wird, um sie ganz oder teilweise der Exekution oder der Veranschlagung bei Berechnung des der Exekution unterliegenden Teiles von Gesamtbezügen zu entziehen, ist ohne rechtliche Wirkung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-293-eo--zwingendes-recht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=293) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_374_TextContainer_374) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-293-eo--zwingendes-recht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=293) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_374_TextContainer_374) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-293-eo--zwingendes-recht)) \]
 
 ----
 
@@ -5708,7 +5708,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Der Drittschuldner kann das Zahlungsverbot mit Rekurs anfechten oder dem Exekutionsgericht anzeigen, dass die Exekutionsführung nach den darüber bestehenden Vorschriften unzulässig sei\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-294-eo--pfändung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=294) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_375_TextContainer_375) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-294-eo--pfändung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=294) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_375_TextContainer_375) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-294-eo--pfändung)) \]
 
 ----
 
@@ -5730,7 +5730,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Die Anfrage an den Dachverband der Sozialversicherungsträger und dessen Antwort sind mit automationsunterstützer Datenverarbeitung durchzuführen\. Die Sozialversicherungsträger und der Dachverband der Sozialversicherungsträger sind verpflichtet, die in Abs\. 1 angeführten Informationen den Gerichten zu übermitteln\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-295-eo--unbekannter-drittschuldner) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=295) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_376_TextContainer_376) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-295-eo--unbekannter-drittschuldner) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=295) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_376_TextContainer_376) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-295-eo--unbekannter-drittschuldner)) \]
 
 ----
 
@@ -5738,7 +5738,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Eine Exekution nach § 295 ist nach Bewilligung einer Exekution auf bewegliche Sachen nur dann zu bewilligen, wenn seit Bewilligung ein Jahr vergangen ist oder der betreibende Gläubiger glaubhaft macht, dass er erst nach seinem Antrag auf Exekution auf bewegliche Sachen erfahren hat, dass dem Verpflichteten Forderungen im Sinn des § 290a zustehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-296-eo--frühere-bewilligung-einer-fahrnisexekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=296) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_377_TextContainer_377) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-296-eo--frühere-bewilligung-einer-fahrnisexekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=296) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_377_TextContainer_377) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-296-eo--frühere-bewilligung-einer-fahrnisexekution)) \]
 
 ----
 
@@ -5748,7 +5748,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Ergibt sich aus den sonstigen Angaben im Exekutionsantrag, insbesondere über die Art der zu pfändenden Forderung, dass der Empfänger des Zahlungsverbots für diese Forderung nicht anweisende Stelle im Sinn des Abs\. 1 ist, so hat er das Zahlungsverbot und den Auftrag zur Drittschuldnererklärung der anweisenden Stelle auf Gefahr des betreibenden Gläubigers weiterzuleiten, wenn er die anweisende Stelle kennt und beide Stellen zur selben juristischen Person des öffentlichen Rechts gehören\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-297-eo--pfändung-von-forderungen-gegen-eine-juristische-person-des-öffentlichen-rechts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=297) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_378_TextContainer_378) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-297-eo--pfändung-von-forderungen-gegen-eine-juristische-person-des-öffentlichen-rechts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=297) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_378_TextContainer_378) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-297-eo--pfändung-von-forderungen-gegen-eine-juristische-person-des-öffentlichen-rechts)) \]
 
 ----
 
@@ -5756,7 +5756,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Ein für die gepfändete Forderung bestelltes Handpfand ist auf Antrag des betreibenden Gläubigers in Verwahrung zu nehmen \(§ 259\)\. Der Antrag auf Einleitung der Verwahrung kann mit dem Antrag auf Bewilligung der Forderungspfändung verbunden oder abgesondert nach Bewilligung der Pfändung beim Exekutionsgericht gestellt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-298-eo--verwahrung-eines-handpfands) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=298) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_379_TextContainer_379) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-298-eo--verwahrung-eines-handpfands) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=298) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_379_TextContainer_379) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-298-eo--verwahrung-eines-handpfands)) \]
 
 ----
 
@@ -5770,7 +5770,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Das Pfandrecht bleibt bei einem Betriebsübergang und einer Gesamtrechtsnachfolge bestehen\. Bei einem Wechsel zu einem anderen Konzernunternehmen kann der bisherige Drittschuldner das Zahlungsverbot auf Gefahr des betreibenden Gläubigers an das andere Konzernunternehmen weiterleiten\. Er hat den betreibenden Gläubiger von der Weiterleitung zu verständigen\. Ab dem Zeitpunkt der Weiterleitung hat der neue Drittschuldner das Zahlungsverbot zu beachten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-299-eo--umfang-des-pfandrechts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=299) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_380_TextContainer_380) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-299-eo--umfang-des-pfandrechts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=299) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_380_TextContainer_380) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-299-eo--umfang-des-pfandrechts)) \]
 
 ----
 
@@ -5784,7 +5784,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Abs\. 1 bis 3 gelten nicht für die Abfindung, die Abfertigung, die Urlaubsersatzleistung und das Überbrückungsgeld nach dem Bauarbeiter\-Urlaubs\- und Abfertigungsgesetz\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-299a-eo--anspruch-auf-einen-entgeltteil-gegen-einen-dritten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=299a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_381_TextContainer_381) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-299a-eo--anspruch-auf-einen-entgeltteil-gegen-einen-dritten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=299a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_381_TextContainer_381) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-299a-eo--anspruch-auf-einen-entgeltteil-gegen-einen-dritten)) \]
 
 ----
 
@@ -5796,7 +5796,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Erfolgt die Besitznahme der im Abs\. 1 bezeichneten Papiere gleichzeitig zu Gunsten mehrerer Gläubiger oder kommen mehrere Zahlungsverbote dem Drittschuldner oder bei Forderungen gegen eine juristische Person des öffentlichen Rechts der anweisenden Stelle am nämlichen Tage zu, so stehen die hiedurch begründeten Pfandrechte im Range einander gleich\. Bei Unzulänglichkeit des gepfändeten Anspruches sind sodann die zu vollstreckenden Forderungen samt Nebengebühren nach Verhältnis ihrer Gesamtbeträge zu berichtigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-300-eo--rang-der-pfandrechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=300) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_382_TextContainer_382) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-300-eo--rang-der-pfandrechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=300) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_382_TextContainer_382) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-300-eo--rang-der-pfandrechte)) \]
 
 ----
 
@@ -5808,7 +5808,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Dass ein gerichtliches Pfandrecht nach § 291c Abs\. 2 erlischt, ist nach Abs\. 1 bis 2 unbeachtlich, sobald es wieder auflebt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-300a-eo--pfändung-einer-übertragenen-oder-verpfändeten-forderung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=300a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_383_TextContainer_383) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-300a-eo--pfändung-einer-übertragenen-oder-verpfändeten-forderung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=300a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_383_TextContainer_383) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-300a-eo--pfändung-einer-übertragenen-oder-verpfändeten-forderung)) \]
 
 ----
 
@@ -5836,7 +5836,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Ist ein Verwalter bestellt, so obliegt es ihm, dem Drittschuldner den Auftrag zur Abgabe der Drittschuldnererklärung zu erteilen; er kann aber davon absehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-301-eo--drittschuldnererklärung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=301) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_384_TextContainer_384) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-301-eo--drittschuldnererklärung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=301) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_384_TextContainer_384) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-301-eo--drittschuldnererklärung)) \]
 
 ----
 
@@ -5852,7 +5852,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Der Drittschuldner ist im Fall des Abs\. 1 berechtigt, den ihm als Kostenersatz zustehenden Betrag von dem dem Verpflichteten zustehenden Betrag der überwiesenen Forderung einzubehalten, sofern dadurch der unpfändbare Betrag nicht geschmälert wird; sonst von dem dem betreibenden Gläubiger zustehenden Betrag\. § 292h Abs\. 3 ist anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-302-eo--kosten-des-drittschuldners-für-seine-erklärung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=302) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_385_TextContainer_385) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-302-eo--kosten-des-drittschuldners-für-seine-erklärung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=302) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_385_TextContainer_385) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-302-eo--kosten-des-drittschuldners-für-seine-erklärung)) \]
 
 ----
 
@@ -5864,7 +5864,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Ein Interesse der Parteien im Sinn des Abs\. 2 liegt insbesondere dann nicht vor, wenn der Drittschuldner häufig mit Exekutionen auf die Bezüge seiner Arbeitnehmer befasst ist und die Berechnung durch den Verwalter nicht angeregt hat \(§ 301 Abs\. 1 Z 6\), außer es liegt ein Fall der Zusammenrechnung nach § 292 Abs\. 2 vor\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-303-eo--geltendmachung-durch-verwalter-und-überweisung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=303) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_386_TextContainer_386) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-303-eo--geltendmachung-durch-verwalter-und-überweisung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=303) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_386_TextContainer_386) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-303-eo--geltendmachung-durch-verwalter-und-überweisung)) \]
 
 ----
 
@@ -5872,7 +5872,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Wurde die Forderungsexekution im vereinfachten Bewilligungsverfahren bewilligt, so darf an den betreibenden Gläubiger erst vier Wochen nach Zustellung des Zahlungsverbots an den Drittschuldner geleistet oder der Betrag hinterlegt werden\. Dies ist dem Drittschuldner bekanntzugeben\. Der Drittschuldner kann mit der Leistung oder Hinterlegung bis zum nächsten Auszahlungstermin zuwarten, nicht jedoch länger als 8 Wochen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-304-eo--besonderheiten-im-vereinfachten-bewilligungsverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=304) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_387_TextContainer_387) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-304-eo--besonderheiten-im-vereinfachten-bewilligungsverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=304) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_387_TextContainer_387) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-304-eo--besonderheiten-im-vereinfachten-bewilligungsverfahren)) \]
 
 ----
 
@@ -5882,7 +5882,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` §§ 297 und 300 Abs\. 2 und 3 gelten für die dort genannten Forderungen gegen eine juristische Person des öffentlichen Rechts auch für den Überweisungsbeschluss\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-305-eo--durchführung-der-überweisung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=305) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_388_TextContainer_388) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-305-eo--durchführung-der-überweisung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=305) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_388_TextContainer_388) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-305-eo--durchführung-der-überweisung)) \]
 
 ----
 
@@ -5892,7 +5892,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die erfolgte Überweisung ist vom Gericht auf den dem Gläubiger ausgefolgten Urkunden ersichtlich zu machen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-306-eo--auskunftsrecht--ausfolgung-der-urkunden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=306) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_389_TextContainer_389) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-306-eo--auskunftsrecht--ausfolgung-der-urkunden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=306) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_389_TextContainer_389) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-306-eo--auskunftsrecht--ausfolgung-der-urkunden)) \]
 
 ----
 
@@ -5906,7 +5906,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Die Befugnis des Drittschuldners nach Abs\. 1 besteht soweit nicht, als ihm ein Antragsrecht nach § 292g zusteht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-307-eo--hinterlegung-bei-gericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=307) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_390_TextContainer_390) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-307-eo--hinterlegung-bei-gericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=307) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_390_TextContainer_390) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-307-eo--hinterlegung-bei-gericht)) \]
 
 ----
 
@@ -5920,7 +5920,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Ist ein Verwalter bestellt, so kann das Gericht auf Antrag des betreibenden Gläubigers diesem die Forderung zur Einziehung überweisen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-308-eo--rechte-des-verwalters-und-des-betreibenden-gläubigers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=308) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_391_TextContainer_391) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-308-eo--rechte-des-verwalters-und-des-betreibenden-gläubigers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=308) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_391_TextContainer_391) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-308-eo--rechte-des-verwalters-und-des-betreibenden-gläubigers)) \]
 
 ----
 
@@ -5944,7 +5944,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(6)` Jede Entscheidung über die gepfändete und überwiesene Forderung ist auch dem betreibenden Gläubiger und im Fall des Eintritts des betreibenden Gläubigers \(Abs\. 1 Z 1\) dem Verpflichteten zuzustellen\. Bei Geltendmachung des pfändbaren Teils durch den Verpflichteten nach Abs\. 1 Z 2 ist auch die Klage sowie eine allfällige Änderung des Klagebegehrens \(Abs\. 3\) dem betreibenden Gläubiger zuzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-308a-eo--klagerecht-des-verpflichteten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=308a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_392_TextContainer_392) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-308a-eo--klagerecht-des-verpflichteten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=308a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_392_TextContainer_392) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-308a-eo--klagerecht-des-verpflichteten)) \]
 
 ----
 
@@ -5956,7 +5956,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Vor Entscheidung über den Antrag ist der Verpflichtete einzuvernehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-309-eo--von-gegenleistung-abhängige-forderung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=309) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_393_TextContainer_393) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-309-eo--von-gegenleistung-abhängige-forderung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=309) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_393_TextContainer_393) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-309-eo--von-gegenleistung-abhängige-forderung)) \]
 
 ----
 
@@ -5970,7 +5970,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Im Fall der Verzögerung der Betreibung ist auf Antrag des Verwalters, jedes nachrangigen Gläubigers, der auf dieselbe Forderung Exekution führt, oder der verpflichteten Partei die Überweisung der Forderung an den säumigen Gläubiger aufzuheben und zur Einziehung der gepfändeten Forderung vom Exekutionsgericht ein Kurator zu bestellen; ist ein Verwalter bestellt, so ist er zum Kurator zu bestellen\. Vor der Entscheidung über einen solchen Antrag ist der betreibende Gläubiger einzuvernehmen, dem die Forderung überwiesen wurde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-310-eo--streitverkündung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=310) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_394_TextContainer_394) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-310-eo--streitverkündung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=310) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_394_TextContainer_394) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-310-eo--streitverkündung)) \]
 
 ----
 
@@ -5982,7 +5982,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die gesamten durch die Überweisung und insbesondere die durch die Einklagung der überwiesenen Forderung entstandenen Kosten sind vom verzichtleistenden Gläubiger zu tragen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-311-eo--verzicht-auf-die-rechte-aus-der-überweisung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=311) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_395_TextContainer_395) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-311-eo--verzicht-auf-die-rechte-aus-der-überweisung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=311) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_395_TextContainer_395) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-311-eo--verzicht-auf-die-rechte-aus-der-überweisung)) \]
 
 ----
 
@@ -5990,7 +5990,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Bei Aufschiebung einer Exekution zur Hereinbringung einer Forderung auf wiederkehrende Leistungen wegen einer Zahlungsvereinbarung nach § 45a werden bereits vollzogene Exekutionsakte aufgehoben; der Pfandrang bleibt erhalten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-311a-eo--zahlungsvereinbarung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=311a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_396_TextContainer_396) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-311a-eo--zahlungsvereinbarung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=311a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_396_TextContainer_396) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-311a-eo--zahlungsvereinbarung)) \]
 
 ----
 
@@ -6000,7 +6000,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Hat der Drittschuldner sämtliche Forderungen samt Nebengebühren getilgt, so ist auf Antrag der verpflichteten Partei oder des Drittschuldners das Exekutionsverfahren einzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-312-eo--zahlung-des-drittschuldners) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=312) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_397_TextContainer_397) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-312-eo--zahlung-des-drittschuldners) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=312) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_397_TextContainer_397) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-312-eo--zahlung-des-drittschuldners)) \]
 
 ----
 
@@ -6010,7 +6010,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die vom Verwalter oder betreibenden Gläubiger dem Drittschuldner erteilten Zahlungsbestätigungen haben dieselbe Wirkung wie eine vom Verpflichteten ausgestellte Bestätigung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-313-eo--befreiung-des-drittschuldners-von-der-verbindlichkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=313) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_398_TextContainer_398) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-313-eo--befreiung-des-drittschuldners-von-der-verbindlichkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=313) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_398_TextContainer_398) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-313-eo--befreiung-des-drittschuldners-von-der-verbindlichkeit)) \]
 
 ----
 
@@ -6022,7 +6022,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Auf den Kurator sind die Bestimmungen über den Verwalter anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-314-eo--einziehung-durch-einen-kurator) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=314) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_399_TextContainer_399) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-314-eo--einziehung-durch-einen-kurator) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=314) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_399_TextContainer_399) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-314-eo--einziehung-durch-einen-kurator)) \]
 
 ----
 
@@ -6032,7 +6032,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Abs\. 1 ist auf die Exekution zur Hereinbringung von Unterhalt nicht anzuwenden; der Verwalter hat den betreibenden Gläubigern, die Exekution wegen einer Forderung nach § 291b Abs\. 1 führen, den pfändbaren Betrag jeweils unverzüglich, längstens innerhalb von drei Tagen ab Einlangen des Betrags, zu zahlen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-315-eo--verteilung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=315) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_400_TextContainer_400) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-315-eo--verteilung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=315) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_400_TextContainer_400) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-315-eo--verteilung)) \]
 
 ----
 
@@ -6050,7 +6050,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Vor Beschlussfassung über den Antrag sind die übrigen Gläubiger, welche an der Forderung ein Pfandrecht erworben haben, und, wenn es ohne erhebliche Verzögerung geschehen kann, der Verpflichtete einzuvernehmen\. Wird dem Antrag Folge gegeben, so ist ein früher ergangener Überweisungsbeschluss unter Verständigung des Drittschuldners und sämtlicher übrigen Beteiligten aufzuheben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-317-eo--anderweitige-verwertung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=317) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_401_TextContainer_401) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-317-eo--anderweitige-verwertung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=317) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_401_TextContainer_401) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-317-eo--anderweitige-verwertung)) \]
 
 ----
 
@@ -6058,7 +6058,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Der Verkauf einer gepfändeten Forderung ist unter sinngemäßer Anwendung der Bestimmungen über den Verkauf gepfändeter beweglicher Sachen \(§§ 264 bis 276, 278, 281 und 282\) zu vollziehen\. Dabei hat der Nennwert der Forderung den Ausrufspreis zu bilden\. Die über die verkaufte Forderung vorhandenen Urkunden sind dem Käufer bei Erlag des Kaufpreises vom Verwalter oder von dem Vollstreckungsorgan zu übergeben\. Betreffs der erforderlichen schriftlichen Übertragungserklärungen haben die Bestimmungen des § 323 Abs\. 1, sinngemäße Anwendung zu finden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-318-eo--verkauf-einer-forderung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=318) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_402_TextContainer_402) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-318-eo--verkauf-einer-forderung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=318) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_402_TextContainer_402) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-318-eo--verkauf-einer-forderung)) \]
 
 ----
 
@@ -6082,7 +6082,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Zwangsverwaltung von Forderungen ist nach § 332 durchzuführen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-319-eo--verkauf-durch-versteigerung--zwangsverwaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=319) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_403_TextContainer_403) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-319-eo--verkauf-durch-versteigerung--zwangsverwaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=319) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_403_TextContainer_403) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-319-eo--verkauf-durch-versteigerung--zwangsverwaltung)) \]
 
 ----
 
@@ -6100,7 +6100,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(6)` Wenn der betreibende Gläubiger auf die durch die Überweisung zur Einziehung erworbenen Rechte oder der Verwalter auf die Einziehung verzichtet, so ist die Anmerkung von Amts wegen zu löschen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-320-eo--besondere-bestimmungen-über-die-exekution-auf-bücherlich-sichergestellte-forderungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=320) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_404_TextContainer_404) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-320-eo--besondere-bestimmungen-über-die-exekution-auf-bücherlich-sichergestellte-forderungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=320) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_404_TextContainer_404) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-320-eo--besondere-bestimmungen-über-die-exekution-auf-bücherlich-sichergestellte-forderungen)) \]
 
 ----
 
@@ -6110,7 +6110,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Für eine später zu Gunsten eines anderen Gläubigers bewilligte Pfändung derselben Forderung gilt § 257\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-321-eo--pfändung-von-forderungen-aus-papieren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=321) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_405_TextContainer_405) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-321-eo--pfändung-von-forderungen-aus-papieren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=321) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_405_TextContainer_405) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-321-eo--pfändung-von-forderungen-aus-papieren)) \]
 
 ----
 
@@ -6120,7 +6120,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Bei Gefahr im Verzug kann das Vollstreckungsorgan die fällige Forderung aus einem derartigen bei Gericht erliegenden Papier einziehen\. Die eingehenden Beträge sind gerichtlich zu hinterlegen; das für den betreibenden Gläubiger an der Forderung begründete Pfandrecht erstreckt sich auf diese Forderungseingänge\. Wenn die Einklagung der Forderung zur Unterbrechung der Verjährung oder zur Vermeidung sonstiger Nachteile nötig erscheint, hat das Exekutionsgericht von Amts wegen oder auf Antrag zu diesem Zweck einen Kurator zu bestellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-322-eo--sonderbestimmungen-für-bei-gericht-erliegende-papiere) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=322) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_406_TextContainer_406) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-322-eo--sonderbestimmungen-für-bei-gericht-erliegende-papiere) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=322) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_406_TextContainer_406) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-322-eo--sonderbestimmungen-für-bei-gericht-erliegende-papiere)) \]
 
 ----
 
@@ -6130,7 +6130,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Gründet sich die Forderung auf ein Papier nach § 321 Abs\. 1, so ist die Überweisung nur im Gesamtbetrag der gepfändeten Forderung und, falls letzterer den Betrag der vollstreckbaren Forderung übersteigt, nur dann zulässig, wenn vom betreibenden Gläubiger für die Ausfolgung des Überschusses Sicherheit geleistet wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-323-eo--überweisung-von-forderungen-aus-papieren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=323) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_407_TextContainer_407) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-323-eo--überweisung-von-forderungen-aus-papieren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=323) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_407_TextContainer_407) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-323-eo--überweisung-von-forderungen-aus-papieren)) \]
 
 ----
 
@@ -6140,7 +6140,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` § 323 ist anzuwenden, wenn kein Verwalter bestellt ist und die Einziehung scheitert\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-324-eo--verwertung-der-forderung-aus-einer-sparurkunde) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=324) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_408_TextContainer_408) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-324-eo--verwertung-der-forderung-aus-einer-sparurkunde) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=324) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_408_TextContainer_408) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-324-eo--verwertung-der-forderung-aus-einer-sparurkunde)) \]
 
 ----
 
@@ -6150,7 +6150,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Verwendung des dem betreibenden Gläubiger nicht gebührenden Einganges ist auf Antrag vom Exekutionsgericht zu bestimmen\. Vor der Entscheidung sind alle Beteiligten einzuvernehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-325-eo--zahlung-des-drittschuldners--mehrempfang) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=325) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_409_TextContainer_409) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-325-eo--zahlung-des-drittschuldners--mehrempfang) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=325) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_409_TextContainer_409) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-325-eo--zahlung-des-drittschuldners--mehrempfang)) \]
 
 ----
 
@@ -6174,7 +6174,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Der neben einer Gehaltsforderung oder einer anderen in fortlaufenden Bezügen bestehenden beschränkt pfändbaren Forderung gegenüber einem Drittschuldner bestehende wiederkehrende Anspruch auf Herausgabe und Leistung beweglicher Sachen darf nur durch Zusammenrechnung mit der Forderung selbst in Exekution gezogen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-326-eo--anwendungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=326) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_410_TextContainer_410) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-326-eo--anwendungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=326) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_410_TextContainer_410) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.012.md#-326-eo--anwendungsbereich)) \]
 
 ----
 
@@ -6184,7 +6184,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Das Gericht hat bei Bewilligung der Exekution an den Verpflichteten das Gebot zu erlassen, sich jeder Verfügung über die vom Verwalter bestimmten Rechte zu enthalten\. Dritten, die kraft eines Vermögensrechts zu Leistungen an die verpflichtete Partei verpflichtet sind, ist zu verbieten, an diese zu leisten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-327-eo--grundsatz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=327) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_411_TextContainer_411) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-327-eo--grundsatz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=327) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_411_TextContainer_411) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.012.md#-327-eo--grundsatz)) \]
 
 ----
 
@@ -6200,7 +6200,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Ist ein Dritter kraft eines Vermögensrechtes zu Leistungen an die verpflichtete Partei verpflichtet, so kann das Gericht oder der Verwalter dem Drittschuldner gleichzeitig mit dem Zahlungsverbot eine Drittschuldnererklärung auftragen; § 301 gilt dabei sinngemäß\. Der Drittschuldner hat seine Erklärung dem Gericht sowie eine Abschrift davon dem Verwalter – ist keiner bestellt, dem betreibenden Gläubiger – zu übersenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-328-eo--pfändung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=328) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_412_TextContainer_412) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-328-eo--pfändung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=328) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_412_TextContainer_412) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.012.md#-328-eo--pfändung)) \]
 
 ----
 
@@ -6212,7 +6212,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Rechtshandlungen des Verpflichteten, die das gepfändete Vermögensrecht betreffen, insbesondere dessen Kündigung, sind dem betreibenden Gläubiger gegenüber unwirksam und ohne Einfluss auf die Befugnisse des Verwalters\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-329-eo--befugnisse-des-verwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=329) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_413_TextContainer_413) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-329-eo--befugnisse-des-verwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=329) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_413_TextContainer_413) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.012.md#-329-eo--befugnisse-des-verwalters)) \]
 
 ----
 
@@ -6240,7 +6240,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 > &nbsp; so ist jedenfalls ein Verwalter zu bestellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-330-eo--exekution-ohne-verwalter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=330) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_414_TextContainer_414) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-330-eo--exekution-ohne-verwalter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=330) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_414_TextContainer_414) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.012.md#-330-eo--exekution-ohne-verwalter)) \]
 
 ----
 
@@ -6260,7 +6260,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `5.` die Kündigung eines Gesellschaftsverhältnisses\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-331-eo--verwertung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=331) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_415_TextContainer_415) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-331-eo--verwertung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=331) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_415_TextContainer_415) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.012.md#-331-eo--verwertung)) \]
 
 ----
 
@@ -6282,7 +6282,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Ist das gepfändete Vermögensrecht befristet, so endet die Zwangsverwaltung mit Ablauf der Zeit, für die das gepfändete Recht des Verpflichteten besteht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-332-eo--zwangsverwaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=332) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_416_TextContainer_416) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-332-eo--zwangsverwaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=332) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_416_TextContainer_416) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.012.md#-332-eo--zwangsverwaltung)) \]
 
 ----
 
@@ -6294,7 +6294,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Zahlt der Bestandnehmer den Pachtzins trotz Mahnung nicht, so ist der Verwalter berechtigt, das Bestandverhältnis aufzulösen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-333-eo--vermietung-und-verpachtung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=333) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_417_TextContainer_417) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-333-eo--vermietung-und-verpachtung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=333) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_417_TextContainer_417) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.012.md#-333-eo--vermietung-und-verpachtung)) \]
 
 ----
 
@@ -6302,7 +6302,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Ein Vermögensrecht, sowie daraus hervorgehende Forderungen oder Ansprüche oder daraus erlangte Sachen dürfen nur dann öffentlich versteigert werden, wenn hiebei unter Berücksichtigung der Kosten ein höherer Erlös als bei einem Verkauf erzielt werden kann\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-334-eo--freihandverkauf) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=334) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_418_TextContainer_418) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-334-eo--freihandverkauf) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=334) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_418_TextContainer_418) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.012.md#-334-eo--freihandverkauf)) \]
 
 ----
 
@@ -6326,7 +6326,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(6)` Die Abs\. 1 bis 5 gelten für Superädifikate sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-335-eo--freihandverkauf-von-liegenschaften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=335) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_419_TextContainer_419) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-335-eo--freihandverkauf-von-liegenschaften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=335) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_419_TextContainer_419) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.012.md#-335-eo--freihandverkauf-von-liegenschaften)) \]
 
 ----
 
@@ -6338,7 +6338,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Ein Rücktritt des Vorbehaltsverkäufers binnen 14 Tagen nach Erhalt des Leistungsverbots ist unwirksam, sofern dieser nicht zur Abwendung schwerer persönlicher oder wirtschaftlicher Nachteile des Vorbehaltsverkäufers unerlässlich ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-336-eo--eigentumsvorbehalt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=336) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_420_TextContainer_420) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-336-eo--eigentumsvorbehalt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=336) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_420_TextContainer_420) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.012.md#-336-eo--eigentumsvorbehalt)) \]
 
 ----
 
@@ -6350,7 +6350,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Der Inhalt des Schrankfaches ist vom Verwalter pfandweise zu beschreiben und zu verwerten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-337-eo--schrankfach) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=337) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_421_TextContainer_421) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-337-eo--schrankfach) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=337) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_421_TextContainer_421) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.012.md#-337-eo--schrankfach)) \]
 
 ----
 
@@ -6360,7 +6360,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` § 307 gilt auch bei Ansprüchen auf Herausgabe und Leistung beweglicher Sachen\. Wenn sich die zu leistende Sache zu gerichtlichem Erlag nicht eignet, hat das Gericht auf Antrag des Drittschuldners einen Verwahrer zu bestellen, an den der Drittschuldner die Sache herauszugeben hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-338-eo--ansprüche-auf-herausgabe-und-leistung-von-sachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=338) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_422_TextContainer_422) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-338-eo--ansprüche-auf-herausgabe-und-leistung-von-sachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=338) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_422_TextContainer_422) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.012.md#-338-eo--ansprüche-auf-herausgabe-und-leistung-von-sachen)) \]
 
 ----
 
@@ -6372,7 +6372,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Ist kein Verwalter bestellt, so kann der betreibende Gläubiger nach Abs\. 1 oder Abs\. 2 nur kündigen, wenn innerhalb der letzten sechs Monate ein Vollzugsversuch bei einer Exekution auf bewegliche Sachen des Gesellschafters ergebnislos gewesen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-339-eo--gesellschaftsanteile-an-personengesellschaften-und-genossenschaften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=339) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_423_TextContainer_423) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-339-eo--gesellschaftsanteile-an-personengesellschaften-und-genossenschaften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=339) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_423_TextContainer_423) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.012.md#-339-eo--gesellschaftsanteile-an-personengesellschaften-und-genossenschaften)) \]
 
 ----
 
@@ -6384,7 +6384,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Ist im Gesellschaftsvertrag für den Exekutionsfall ein Aufgriffsrecht vorgesehen, so hat der Verwalter den Aufgriffsberechtigten vom geplanten Verkauf zu verständigen\. Der Aufgriffsberechtigte kann das Aufgriffsrecht binnen zwei Monaten durch Erklärung gegenüber dem Verwalter und Zahlung des Aufgriffspreises ausüben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-340-eo--vinkulierung-und-aufgriffsrecht-an-gesellschaftsanteilen-an-kapitalgesellschaften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=340) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_424_TextContainer_424) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-340-eo--vinkulierung-und-aufgriffsrecht-an-gesellschaftsanteilen-an-kapitalgesellschaften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=340) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_424_TextContainer_424) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.012.md#-340-eo--vinkulierung-und-aufgriffsrecht-an-gesellschaftsanteilen-an-kapitalgesellschaften)) \]
 
 ----
 
@@ -6406,7 +6406,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Gegen das Verfügungsverbot verstoßende Verfügungen sind dem betreibenden Gläubiger gegenüber unwirksam\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-341-eo--unternehmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=341) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_425_TextContainer_425) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-341-eo--unternehmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=341) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_425_TextContainer_425) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.012.md#-341-eo--unternehmen)) \]
 
 ----
 
@@ -6418,7 +6418,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Nach Bekanntmachung der Bestellung des Zwangsverwalters in der Ediktsdatei ist, solange eine Exekution auf ein Unternehmen anhängig ist, eine Exekution auf einzelne Vermögensobjekte des Unternehmens nicht zulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-342-eo--bekanntmachung-des-zwangsverwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=342) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_426_TextContainer_426) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-342-eo--bekanntmachung-des-zwangsverwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=342) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_426_TextContainer_426) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.012.md#-342-eo--bekanntmachung-des-zwangsverwalters)) \]
 
 ----
 
@@ -6434,7 +6434,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Inwieweit die dem Inhaber des Unternehmens in gewerberechtlicher Beziehung zukommenden Befugnisse und Obliegenheiten auf den Zwangsverwalter übergehen, bestimmt sich nach der Gewerbeordnung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-343-eo--befugnisse-des-zwangsverwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=343) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_427_TextContainer_427) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-343-eo--befugnisse-des-zwangsverwalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=343) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_427_TextContainer_427) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.012.md#-343-eo--befugnisse-des-zwangsverwalters)) \]
 
 ----
 
@@ -6444,7 +6444,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Vor der Bekanntmachung in der Ediktsdatei fällig gewordene Forderungen kann der Zwangsverwalter begleichen, wenn das der Forderung zugrundeliegende Rechtsgeschäft wiederkehrende Leistungen umfasst und diese für den Betrieb des Unternehmens geboten sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-344-eo--unmittelbare-berichtigung-aus-den-verwaltungserträgnissen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=344) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_428_TextContainer_428) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-344-eo--unmittelbare-berichtigung-aus-den-verwaltungserträgnissen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=344) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_428_TextContainer_428) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.012.md#-344-eo--unmittelbare-berichtigung-aus-den-verwaltungserträgnissen)) \]
 
 ----
 
@@ -6464,7 +6464,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` In Betreff der Beschlüsse, durch welche die Verwahrung von Gegenständen angeordnet oder ein Verwahrer ernannt wird, gilt § 259 Abs\. 2 letzter Satz\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-345-eo--rekurs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=345) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_429_TextContainer_429) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-345-eo--rekurs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=345) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_429_TextContainer_429) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.012.md#-345-eo--rekurs)) \]
 
 ----
 
@@ -6478,7 +6478,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Diese Vorschrift findet auch Anwendung, wenn der Verpflichtete Wertpapiere oder eine bestimmte Quantität von vertretbaren Sachen zu leisten hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-346-eo--herausgabe-oder-leistung-von-beweglichen-sachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=346) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_430_TextContainer_430) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-346-eo--herausgabe-oder-leistung-von-beweglichen-sachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=346) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_430_TextContainer_430) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-346-eo--herausgabe-oder-leistung-von-beweglichen-sachen)) \]
 
 ----
 
@@ -6490,7 +6490,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Auf die Vermögensangabe sind § 47 Abs\. 2 über die Belehrung, die Protokolleinsicht und die Bestätigung durch den Verpflichteten sowie § 48 anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-346a-eo--angaben-über-die-herauszugebenden-sachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=346a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_431_TextContainer_431) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-346a-eo--angaben-über-die-herauszugebenden-sachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=346a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_431_TextContainer_431) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-346a-eo--angaben-über-die-herauszugebenden-sachen)) \]
 
 ----
 
@@ -6500,7 +6500,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Wird von dem Dritten die Herausgabe der Sachen verweigert, so kann der betreibende Gläubiger beim Exekutionsgericht beantragen, dass ihm der wider den Inhaber der Sachen bestehende Anspruch des Verpflichteten auf Herausgabe der Sachen überwiesen werde\. Auf diese Überweisung haben die für die Überweisung von Geldforderungen zur Einziehung erlassenen Vorschriften entsprechend Anwendung zu finden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-347-eo--herausgabe-durch-dritte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=347) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_432_TextContainer_432) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-347-eo--herausgabe-durch-dritte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=347) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_432_TextContainer_432) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-347-eo--herausgabe-durch-dritte)) \]
 
 ----
 
@@ -6510,7 +6510,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Auf den im Sinne des § 427 a\. b\. G\. B\. dem betreibenden Gläubiger vom Vollstreckungsorgan zu übergebenden Urkunden hat letzteres anzumerken, dass die Übergabe behufs Vollstreckung des bestimmt zu bezeichnenden Anspruches erfolgt sei\. Die nach Vorschrift des bürgerlichen Rechtes zum Zwecke der Übertragung sonst noch erforderlichen urkundlichen Erklärungen sind vom Exekutionsgericht oder auf Grund der Ermächtigung des Exekutionsgerichts vom Vollstreckungsorgan abzugeben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-348-eo--herausgabe-durch-zeichen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=348) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_433_TextContainer_433) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-348-eo--herausgabe-durch-zeichen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=348) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_433_TextContainer_433) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-348-eo--herausgabe-durch-zeichen)) \]
 
 ----
 
@@ -6522,7 +6522,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Der nach Deckung der Verwahrungs\- und Veräußerungskosten erübrigende Erlös ist für den Verpflichteten gerichtlich zu hinterlegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-349-eo--überlassung-oder-räumung-von-unbeweglichen-sachen-gegenständen-des-bergwerkseigentums-und-schiffen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=349) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_434_TextContainer_434) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-349-eo--überlassung-oder-räumung-von-unbeweglichen-sachen-gegenständen-des-bergwerkseigentums-und-schiffen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=349) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_434_TextContainer_434) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-349-eo--überlassung-oder-räumung-von-unbeweglichen-sachen-gegenständen-des-bergwerkseigentums-und-schiffen)) \]
 
 ----
 
@@ -6541,7 +6541,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(6)` Soll nebst der bücherlichen Begründung des Rechtes die Übergabe der Liegenschaft an den betreibenden Gläubiger oder dessen Einführung in den Besitz des Rechtes stattfinden, so ist zugleich gemäß § 349 vorzugehen\.
 > *\(Anm\.: Abs\. 7 aufgehoben durch Art\. 1 Z 304, BGBl\. I Nr\. 86/2021\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-350-eo--einräumung-oder-aufhebung-bücherlicher-rechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=350) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_435_TextContainer_435) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-350-eo--einräumung-oder-aufhebung-bücherlicher-rechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=350) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_435_TextContainer_435) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-350-eo--einräumung-oder-aufhebung-bücherlicher-rechte)) \]
 
 ----
 
@@ -6553,7 +6553,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` § 74 ist im Teilungsverfahren nicht anzuwenden\. Die entstandenen Barauslagen sind auf die Parteien im Verhältnis ihrer Miteigentumsanteile aufzuteilen; Barauslagen, die eine Partei in einem darüber hinausgehenden Ausmaß vorläufig bestritten hat, sind ihr, soweit sie zur Rechtsverwirklichung notwendig waren, auf ihr Verlangen zu erstatten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-351-eo--aufhebung-einer-gemeinschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=351) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_436_TextContainer_436) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-351-eo--aufhebung-einer-gemeinschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=351) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_436_TextContainer_436) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-351-eo--aufhebung-einer-gemeinschaft)) \]
 
 ----
 
@@ -6573,7 +6573,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `6.` Hinsichtlich der Kosten des Verfahrens gilt § 351 Abs\. 3\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-352-eo--versteigerung-einer-gemeinschaftlichen-liegenschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=352) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_437_TextContainer_437) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-352-eo--versteigerung-einer-gemeinschaftlichen-liegenschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=352) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_437_TextContainer_437) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-352-eo--versteigerung-einer-gemeinschaftlichen-liegenschaft)) \]
 
 ----
 
@@ -6587,7 +6587,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Einer Schätzung bedarf es nicht, wenn sich die Miteigentümer vor dem Schätzungstermin auf einen Ausrufpreis einigen\. Im Versteigerungsedikt ist darauf hinzuweisen, dass keine Schätzung erfolgt ist\. Im Übrigen tritt der Ausrufpreis, soweit in gesetzlichen Bestimmungen auf den Schätzwert abgestellt wird, an dessen Stelle\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-352a-eo--versteigerungsbedingungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=352a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_438_TextContainer_438) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-352a-eo--versteigerungsbedingungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=352a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_438_TextContainer_438) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-352a-eo--versteigerungsbedingungen)) \]
 
 ----
 
@@ -6603,7 +6603,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `4.` Die schriftlichen Anbote dürfen den Schätzwert um ein Viertel unterschreiten\. Das schriftliche Anbot ist in einem verschlossenen Kuvert abzugeben\. Dessen Inhalt ist bis zur Öffnung durch den Richter von der Akteneinsicht ausgenommen\. Unverzüglich nach Ablauf der Frist, keinesfalls jedoch vor diesem Zeitpunkt, hat der Richter in einer öffentlichen Tagsatzung eigenhändig sämtliche eingelangte Kuverts zu öffnen und den Bieter mit dem höchsten Anbot zum Erlag des Vadiums binnen 14 Tagen aufzufordern\. Bei rechtzeitigem Erlag des Vadiums ist diesem Bieter mit Beschluss der Zuschlag zu erteilen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-352b-eo--versteigerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=352b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_439_TextContainer_439) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-352b-eo--versteigerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=352b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_439_TextContainer_439) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-352b-eo--versteigerung)) \]
 
 ----
 
@@ -6611,7 +6611,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Das Meistbot ist nach dem Einvernehmen der Parteien aufzuteilen\. Einigen sich die Parteien nicht, so hat das Gericht hierüber nach mündlicher Verhandlung durch Urteil zu entscheiden\. Auf das Verfahren sind die Bestimmungen über das Verfahren vor den Bezirksgerichten \(§§ 431 ff ZPO\) anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-352c-eo--verteilung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=352c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_440_TextContainer_440) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-352c-eo--verteilung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=352c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_440_TextContainer_440) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-352c-eo--verteilung)) \]
 
 ----
 
@@ -6621,7 +6621,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Der betreibende Gläubiger kann zugleich beantragen, dem Verpflichteten die Vorauszahlung der Kosten aufzutragen, welche durch die Vornahme der Handlung entstehen werden\. Der diesem Antrag stattgebende Beschluss ist in das Vermögen des Verpflichteten vollstreckbar\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-353-eo--erwirkung-vertretbarer-handlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=353) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_441_TextContainer_441) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-353-eo--erwirkung-vertretbarer-handlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=353) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_441_TextContainer_441) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-353-eo--erwirkung-vertretbarer-handlungen)) \]
 
 ----
 
@@ -6632,7 +6632,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Die Exekution hat mit Androhung der für den Fall der Saumsal zu verhängenden Strafe zu beginnen; als erste Strafe darf nur eine Geldstrafe angedroht werden\. Nach fruchtlosem Ablauf der in dieser Verfügung für die Vornahme der Handlung gewährten Frist ist das angedrohte Zwangsmittel auf Antrag des betreibenden Gläubigers zu vollziehen und zugleich unter jeweiliger Bestimmung einer neuerlichen Frist für die geschuldete Leistung ein stets schärferes Zwangsmittel anzudrohen\. Der Vollzug desselben erfolgt nur auf Antrag des betreibenden Gläubigers\.
 > *\(Anm\.: Abs\. 3 aufgehoben durch Art\. II Z 2, BGBl\. Nr\. 120/1980\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-354-eo--erwirkung-unvertretbarer-handlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=354) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_442_TextContainer_442) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-354-eo--erwirkung-unvertretbarer-handlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=354) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_442_TextContainer_442) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-354-eo--erwirkung-unvertretbarer-handlungen)) \]
 
 ----
 
@@ -6643,7 +6643,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Auf Antrag des betreibenden Gläubigers kann dem Verpflichteten vom Exekutionsgericht die Bestellung einer Sicherheit für den durch ferneres Zuwiderhandeln entstehenden Schaden aufgetragen werden\. Hiebei ist die Höhe und Art der zu leistenden Sicherheit, sowie die Zeit zu bestimmen, für welche sie zu haften hat\. In Ansehung der Vollstreckung dieses Beschlusses gelten die Bestimmungen des § 353 Abs\. 2\.
 > *\(Anm\.: Abs\. 3 aufgehoben durch Art\. II Z 4, BGBl\. Nr\. 120/1980\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-355-eo--erwirkung-von-duldungen-und-unterlassungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=355) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_443_TextContainer_443) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-355-eo--erwirkung-von-duldungen-und-unterlassungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=355) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_443_TextContainer_443) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-355-eo--erwirkung-von-duldungen-und-unterlassungen)) \]
 
 ----
 
@@ -6653,7 +6653,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Der Beschluss, durch den die Kosten dieser Wiederherstellung bestimmt werden, ist in das Vermögen des Verpflichteten vollstreckbar\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-356-eo--wiederherstellung-des-früheren-zustands) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=356) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_444_TextContainer_444) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-356-eo--wiederherstellung-des-früheren-zustands) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=356) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_444_TextContainer_444) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-356-eo--wiederherstellung-des-früheren-zustands)) \]
 
 ----
 
@@ -6661,7 +6661,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Leistet der Verpflichtete gegen die Vornahme einer Handlung, die er nach Inhalt des § 356 Abs\. 1, zu dulden hat, Widerstand, so ist dem betreibenden Gläubiger auf Antrag zum Zwecke der Beseitigung des Widerstandes und zum Schutze der auszuführenden Arbeit ein Vollstreckungsorgan beizugeben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-357-eo--widerstand-des-verpflichteten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=357) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_445_TextContainer_445) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-357-eo--widerstand-des-verpflichteten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=357) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_445_TextContainer_445) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-357-eo--widerstand-des-verpflichteten)) \]
 
 ----
 
@@ -6671,7 +6671,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Sofern nicht Gefahr im Verzug ist, hat das Gericht vor der Verhängung von Geldstrafen dem Verpflichteten Gelegenheit zu einer Äußerung zu den Strafzumessungsgründen zu geben, wenn nicht bereits eine Äußerung zu einem im Wesentlichen gleichen Antrag notorisch ist\. Gegen die Höhe einer Strafe kann der Verpflichtete, falls er nicht bereits vor der Beschlussfassung einvernommen wurde, Widerspruch erheben\. Auf den Widerspruch sind die §§ 397 f sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-358-eo--strafantrag--strafzumessung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=358) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_446_TextContainer_446) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-358-eo--strafantrag--strafzumessung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=358) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_446_TextContainer_446) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-358-eo--strafantrag--strafzumessung)) \]
 
 ----
 
@@ -6682,7 +6682,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Ist die Geldstrafe zu Unrecht verhängt worden oder wird der Antrag vor Rechtskraft des Strafbeschlusses zurückgezogen, so ist der erhaltene Betrag dem Verpflichteten zurückzuzahlen\. Über die Rückzahlungspflicht hat auf Antrag des Verpflichteten das Exekutionsgericht durch Beschluss zu entscheiden\.
 > *\(Anm\.: Abs\. 3 aufgehoben durch BGBl\. I Nr\. 59/2000\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-359-eo--geldstrafen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=359) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_447_TextContainer_447) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-359-eo--geldstrafen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=359) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_447_TextContainer_447) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-359-eo--geldstrafen)) \]
 
 ----
 
@@ -6692,7 +6692,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Verhaftung wird auf Grund eines vom Exekutionsgericht erteilten Haftbefehles, in welchem insbesondere der Grund der Verhaftung zu bezeichnen ist, durch das Vollstreckungsorgan vorgenommen\. Der Haftbefehl muss dem Verpflichteten bei der Verhaftung zugestellt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-360-eo--haft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=360) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_448_TextContainer_448) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-360-eo--haft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=360) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_448_TextContainer_448) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-360-eo--haft)) \]
 
 ----
 
@@ -6700,7 +6700,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Haft darf nur verhängt werden, wenn der maßgebliche Sachverhalt bewiesen ist \(§ 55 Abs\. 2\); sie darf in jeder einzelnen Strafverfügung nicht für länger als für die Dauer von zwei Monaten verhängt werden\. Nach Ablauf der in der Strafverfügung angegebenen Haftzeit ist der Verpflichtete von amtswegen aus der Haft zu entlassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-361-eo--haftdauer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=361) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_449_TextContainer_449) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-361-eo--haftdauer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=361) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_449_TextContainer_449) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-361-eo--haftdauer)) \]
 
 ----
 
@@ -6710,7 +6710,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Muss zur Wahrung der öffentlichen Sicherheit oder anderer öffentlicher Interessen eine Stellvertretung während der Anhaltung eintreten, so darf die Verhaftung erst dann erfolgen, wenn für die Stellvertretung Vorsorge getroffen ist\. Das hiezu Erforderliche ist von dem Vorgesetzten des Verpflichteten ohne Verzug nach empfangener Verständigung von dem Haftbeschlusse zu verfügen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-362-eo--haft-von-im-öffentlichen-amt-oder-dienst-stehenden-personen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=362) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_450_TextContainer_450) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-362-eo--haft-von-im-öffentlichen-amt-oder-dienst-stehenden-personen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=362) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_450_TextContainer_450) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-362-eo--haft-von-im-öffentlichen-amt-oder-dienst-stehenden-personen)) \]
 
 ----
 
@@ -6718,7 +6718,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Wird die Verhängung einer Strafe vom betreibenden Gläubiger mutwillig erwirkt, so hat er dem Verpflichteten alle verursachten Vermögensnachteile zu ersetzen\. § 63a Abs\. 2 ist sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-363-eo--schadenersatz-bei-mutwilligkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=363) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_451_TextContainer_451) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-363-eo--schadenersatz-bei-mutwilligkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=363) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_451_TextContainer_451) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-363-eo--schadenersatz-bei-mutwilligkeit)) \]
 
 ----
 
@@ -6726,7 +6726,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Haft kann nicht vollzogen werden, so lange durch sie die Gesundheit des Verpflichteten einer nahen und erheblichen Gefahr ausgesetzt würde\. Sie ist von amtswegen aufzuheben, wenn sich nach ihrem Beginne solche Gefahren einstellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-365-eo--gesundheitsgefährdung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=365) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_452_TextContainer_452) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-365-eo--gesundheitsgefährdung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=365) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_452_TextContainer_452) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-365-eo--gesundheitsgefährdung)) \]
 
 ----
 
@@ -6734,7 +6734,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Der Vollzug der Haft ist nicht vom Erlag eines Kostenvorschusses abhängig zu machen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-366-eo--kostenvorschuss) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=366) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_453_TextContainer_453) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-366-eo--kostenvorschuss) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=366) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_453_TextContainer_453) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-366-eo--kostenvorschuss)) \]
 
 ----
 
@@ -6744,7 +6744,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Insofern die Verpflichtung zur Abgabe der Willenserklärung von einer Gegenleistung abhängig ist, tritt die im Abs\. 1 bezeichnete Rechtsfolge erst mit Bewirkung der Gegenleistung seitens des betreibenden Gläubigers ein\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-367-eo--abgabe-einer-willenserklärung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=367) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_454_TextContainer_454) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-367-eo--abgabe-einer-willenserklärung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=367) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_454_TextContainer_454) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-367-eo--abgabe-einer-willenserklärung)) \]
 
 ----
 
@@ -6754,7 +6754,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Diese Ansprüche können jederzeit unter Verzicht auf die Fortsetzung des eingeleiteten Exekutionsverfahrens oder nach fruchtloser Durchführung desselben, nach Wahl des betreibenden Gläubigers bei dem sonst hiefür zuständigen Gericht oder bei dem Exekutionsgericht mittels Klage geltend gemacht werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-368-eo--interesse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=368) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_455_TextContainer_455) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-368-eo--interesse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=368) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_455_TextContainer_455) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-368-eo--interesse)) \]
 
 ----
 
@@ -6764,7 +6764,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Der betreibende Gläubiger hat das zur Deckung der Kosten zu verwendende Vermögen des Verpflichteten sowie die deshalb anzuwendenden Exekutionsmittel im Sinne des § 54 schon in dem ersten Antrag auf Exekutionsbewilligung zu bezeichnen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-369-eo--kosten-der-exekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=369) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_456_TextContainer_456) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-369-eo--kosten-der-exekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=369) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_456_TextContainer_456) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-369-eo--kosten-der-exekution)) \]
 
 ----
 
@@ -6780,7 +6780,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Zur Sicherung von Geldforderungen kann auf Grund der von inländischen Zivilgerichten in nicht streitigen Rechtsangelegenheiten erlassenen, einstweilen noch nicht vollziehbaren Verfügungen, sowie auf Grund von Endurteilen und Zahlungsaufträgen inländischer Zivilgerichte schon vor Eintritt ihrer Rechtskraft oder vor Ablauf der für die Leistung bestimmten Frist auf Antrag die Vornahme von Exekutionshandlungen bewilligt werden, wenn dem Gericht glaubhaft gemacht wird, dass ohne diese die Einbringung der gerichtlich zuerkannten Geldforderung vereitelt oder erheblich erschwert werden würde oder dass zum Zweck ihrer Einbringung die Entscheidung in Staaten vollstreckt werden müsste, in denen die Vollstreckung des Anspruchs weder durch völkerrechtliche Verträge noch durch Unionsrecht gesichert ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-370-eo--bewilligung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=370) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_457_TextContainer_457) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-370-eo--bewilligung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=370) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_457_TextContainer_457) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.014.md#-370-eo--bewilligung)) \]
 
 ----
 
@@ -6796,7 +6796,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `4.` auf Grund von strafgerichtlichen Entscheidungen über privatrechtliche Ansprüche, wenn die Wiederaufnahme des Strafverfahrens bewilligt wurde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-371-eo--exekution-zur-sicherstellung-ohne-bescheinigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=371) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_458_TextContainer_458) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-371-eo--exekution-zur-sicherstellung-ohne-bescheinigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=371) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_458_TextContainer_458) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.014.md#-371-eo--exekution-zur-sicherstellung-ohne-bescheinigung)) \]
 
 ----
 
@@ -6804,7 +6804,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Auf Grund von Endurteilen erster oder zweiter Instanz, wider die Berufung oder Revision erhoben wurde, sind Exekutionshandlungen zur Sicherung von Geldforderungen ohne die im § 370 geforderte Bescheinigung auch dann zulässig, wenn der betreibende Gläubiger eine vom Gericht nach freiem Ermessen zu bestimmende Sicherheit für den dem Verpflichteten durch die Exekutionshandlungen drohenden Schaden \(§ 376 Abs\. 2\) leistet\. Vor Nachweis des gerichtlichen Erlages der zu leistenden Sicherheit darf mit dem Vollzuge der Exekutionshandlungen nicht begonnen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-371a-eo--leistung-einer-sicherheit-für-drohenden-schaden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=371a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_459_TextContainer_459) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-371a-eo--leistung-einer-sicherheit-für-drohenden-schaden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=371a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_459_TextContainer_459) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.014.md#-371a-eo--leistung-einer-sicherheit-für-drohenden-schaden)) \]
 
 ----
 
@@ -6812,7 +6812,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Zur Sicherung noch nicht fälliger Unterhaltsansprüche und noch nicht fälliger Geldrenten wegen Tötung, Verletzung des Körpers oder der Gesundheit kann, soweit § 291c Abs\. 1 nicht anzuwenden ist, zugleich mit der Exekution zur Hereinbringung fälliger Beträge Exekution zur Sicherung der innerhalb eines Jahres fällig werdenden Beträge begehrt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-372-eo--unterhaltsansprüche-geldrenten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=372) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_460_TextContainer_460) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-372-eo--unterhaltsansprüche-geldrenten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=372) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_460_TextContainer_460) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.014.md#-372-eo--unterhaltsansprüche-geldrenten)) \]
 
 ----
 
@@ -6820,7 +6820,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Exekutionshandlungen zur Sicherung von Geldforderungen sind auf Grund eines Versäumungsurteils, gegen das Widerspruch nach den §§ 397a, 398, 442a ZPO erhoben worden ist, auch dann zu bewilligen, wenn das Versäumungsurteil zwar infolge des Widerspruchs aufgehoben, aber die Geldforderung dem Gläubiger noch nicht aberkannt oder deren Erlöschung noch nicht festgestellt worden ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-373-eo--versäumungsurteil) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=373) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_461_TextContainer_461) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-373-eo--versäumungsurteil) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=373) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_461_TextContainer_461) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.014.md#-373-eo--versäumungsurteil)) \]
 
 ----
 
@@ -6832,7 +6832,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die Beträge, welche bei der Zwangsverwaltung auf die zu sichernde Forderung entfallen oder im Wege der Einziehung der gepfändeten Forderung eingehen, sind solange in gerichtlicher Verwahrung zu behalten, als nicht die Vollstreckbarkeit der Forderung oder der einzelnen Unterhaltsraten eingetreten ist oder die behufs Sicherung bewilligten Exekutionshandlungen aufgehoben worden sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-374-eo--sicherungsmittel-von-geldforderungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=374) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_462_TextContainer_462) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-374-eo--sicherungsmittel-von-geldforderungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=374) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_462_TextContainer_462) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.014.md#-374-eo--sicherungsmittel-von-geldforderungen)) \]
 
 ----
 
@@ -6842,7 +6842,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` In dem bewilligenden Beschlusse ist der zu sichernde Betrag samt Nebengebühren und durch Hinweisung auf den Umstand, von welchem der Eintritt der Vollstreckbarkeit des Anspruches abhängt, der Zeitraum anzugeben, für dessen Dauer die Sicherung gewährt wird\. §§ 54b bis 54e sowie 63a sind nicht anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-375-eo--zuständigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=375) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_463_TextContainer_463) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-375-eo--zuständigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=375) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_463_TextContainer_463) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.014.md#-375-eo--zuständigkeit)) \]
 
 ----
 
@@ -6860,7 +6860,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` In den unter Z 1, 3 und 4 bezeichneten Fällen hat der betreibende Gläubiger alle durch die Bewilligung, den Vollzug und die Wiederaufhebung der Exekutionshandlungen entstandenen Kosten zu tragen und den dem Verpflichteten verursachten Schaden zu ersetzen\. Ist die Exekution auf Grund eines Versäumungsurteils, gegen das Widerspruch erhoben ist, bewilligt worden, so tritt die Schadenersatzpflicht nicht ein, wenn dem betreibenden Gläubiger bei der Einleitung und der Fortsetzung der Exekution keine grobe Fahrlässigkeit zur Last fällt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-376-eo--vollziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=376) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_464_TextContainer_464) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-376-eo--vollziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=376) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_464_TextContainer_464) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.014.md#-376-eo--vollziehung)) \]
 
 ----
 
@@ -6874,7 +6874,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Eine zur Deckung der Schadenersatzansprüche des Verpflichteten von dem betreibenden Gläubiger erlegte Sicherheit \(§ 371a\) darf diesem erst nach Ablauf von 14 Tagen seit Eintritt der Rechtskraft des Beschlusses ausgefolgt werden, womit dem Antrag auf Unterlassung des Vollzuges bewilligter Exekutionshandlungen oder auf deren Aufhebung aus den im § 376 Abs\. 1 Z 1 oder 3 bezeichneten Gründen stattgegeben wurde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-377-eo--aufhebung-und-einschränkung-der-exekutionshandlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=377) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_465_TextContainer_465) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-377-eo--aufhebung-und-einschränkung-der-exekutionshandlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=377) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_465_TextContainer_465) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.014.md#-377-eo--aufhebung-und-einschränkung-der-exekutionshandlungen)) \]
 
 ----
 
@@ -6888,7 +6888,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Zulässigkeit einstweiliger Verfügungen wird dadurch nicht ausgeschlossen, dass der Anspruch der antragstellenden Partei \(gefährdete Partei\) ein betagter oder bedingter ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-378-eo--zulässigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=378) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_466_TextContainer_466) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-378-eo--zulässigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=378) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_466_TextContainer_466) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-378-eo--zulässigkeit)) \]
 
 ----
 
@@ -6896,7 +6896,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > In Verfahren außer Streitsachen, die von Amts wegen eingeleitet werden können, kann das Gericht einstweilige Verfügungen auch von Amts wegen erlassen, einschränken oder aufheben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-378a-eo--einstweilige-verfügungen-in-verfahren-außer-streitsachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=378a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_467_TextContainer_467) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-378a-eo--einstweilige-verfügungen-in-verfahren-außer-streitsachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=378a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_467_TextContainer_467) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-378a-eo--einstweilige-verfügungen-in-verfahren-außer-streitsachen)) \]
 
 ----
 
@@ -6926,7 +6926,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Zur Sicherung von Forderungen gegen einen Erben können bei Vorhandensein der in Abs\. 2 angegebenen Voraussetzungen zu Gunsten der Gläubiger des Erben in Ansehung des ihm angefallenen Erbgutes vor der Einantwortung einstweilige Verfügungen getroffen werden\. Je nach dem zu erreichenden Zweck können mit der einstweiligen Verfügung die notwendigen Sicherungsmittel \(§§ 379 und 382\) angeordnet werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-379-eo--sicherung-von-geldforderungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=379) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_468_TextContainer_468) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-379-eo--sicherung-von-geldforderungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=379) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_468_TextContainer_468) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-379-eo--sicherung-von-geldforderungen)) \]
 
 ----
 
@@ -6936,7 +6936,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Anmeldung einer Forderung im Insolvenzverfahren ist einer Klage nach Abs\. 1 gleichzuhalten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-379a-eo--pfandweise-beschreibung-nach--1101-abgb) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=379a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_469_TextContainer_469) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-379a-eo--pfandweise-beschreibung-nach--1101-abgb) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=379a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_469_TextContainer_469) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-379a-eo--pfandweise-beschreibung-nach--1101-abgb)) \]
 
 ----
 
@@ -6944,7 +6944,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Soweit Ansprüche und Rechte der Exekution entzogen sind, können sie durch ein gerichtliches Verbot oder durch eine andere einstweilige, zur Sicherung einer Geldforderung angeordnete Verfügung nicht getroffen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-380-eo--der-exekution-entzogene-vermögenswerte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=380) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_470_TextContainer_470) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-380-eo--der-exekution-entzogene-vermögenswerte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=380) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_470_TextContainer_470) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-380-eo--der-exekution-entzogene-vermögenswerte)) \]
 
 ----
 
@@ -6956,7 +6956,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `2.` wenn derartige Verfügungen zur Verhütung drohender Gewalt oder zur Abwendung eines drohenden unwiederbringlichen Schadens nötig erscheinen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-381-eo--sicherung-anderer-ansprüche) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=381) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_471_TextContainer_471) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-381-eo--sicherung-anderer-ansprüche) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=381) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_471_TextContainer_471) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-381-eo--sicherung-anderer-ansprüche)) \]
 
 ----
 
@@ -6982,7 +6982,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >>
 >>> `b)` die einstweilige Regelung der Benützung oder die einstweilige Sicherung ehelichen Gebrauchsvermögens und ehelicher Ersparnisse im Zusammenhang mit einem Verfahren auf Aufteilung dieses Vermögens oder im Zusammenhang mit einem Verfahren auf Scheidung, Aufhebung oder Nichtigerklärung der Ehe\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-382-eo--sicherungsmittel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=382) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_472_TextContainer_472) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-382-eo--sicherungsmittel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=382) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_472_TextContainer_472) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-382-eo--sicherungsmittel)) \]
 
 ----
 
@@ -6998,7 +6998,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Die Möglichkeit der Anordnung einer einstweiligen Verfügung nach § 382 Z 8 lit\. a bleibt unberührt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-382a-eo--vorläufiger-unterhalt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=382a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_473_TextContainer_473) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-382a-eo--vorläufiger-unterhalt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=382a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_473_TextContainer_473) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-382a-eo--vorläufiger-unterhalt)) \]
 
 ----
 
@@ -7012,7 +7012,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 > &nbsp; wenn die Wohnung der Befriedigung des dringenden Wohnbedürfnisses des Antragstellers dient\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-382b-eo--schutz-vor-gewalt-in-wohnungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=382b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_474_TextContainer_474) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-382b-eo--schutz-vor-gewalt-in-wohnungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=382b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_474_TextContainer_474) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-382b-eo--schutz-vor-gewalt-in-wohnungen)) \]
 
 ----
 
@@ -7028,7 +7028,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 > &nbsp; soweit dem nicht schwerwiegende Interessen des Antragsgegners zuwiderlaufen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-382c-eo--allgemeiner-schutz-vor-gewalt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=382c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_475_TextContainer_475) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-382c-eo--allgemeiner-schutz-vor-gewalt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=382c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_475_TextContainer_475) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-382c-eo--allgemeiner-schutz-vor-gewalt)) \]
 
 ----
 
@@ -7052,7 +7052,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `8.` Verbot, sich der gefährdeten Partei oder bestimmt zu bezeichnenden Orten in einem bestimmten Umkreis anzunähern\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-382d-eo--schutz-vor-eingriffen-in-die-privatsphäre) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=382d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_476_TextContainer_476) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-382d-eo--schutz-vor-eingriffen-in-die-privatsphäre) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=382d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_476_TextContainer_476) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-382d-eo--schutz-vor-eingriffen-in-die-privatsphäre)) \]
 
 ----
 
@@ -7066,7 +7066,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Verfahren in der Hauptsache im Sinn des § 391 Abs\. 2 sind bei einstweiligen Verfügungen nach § 382b und bei einer mit dieser gemeinsam erlassenen einstweiligen Verfügung nach § 382c Verfahren auf Scheidung, Aufhebung oder Nichtigerklärung der Ehe, Verfahren über die Aufteilung des ehelichen Gebrauchsvermögens und der ehelichen Ersparnisse und Verfahren zur Klärung der Benützungsberechtigung an der Wohnung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-382e-eo--dauer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=382e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_477_TextContainer_477) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-382e-eo--dauer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=382e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_477_TextContainer_477) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-382e-eo--dauer)) \]
 
 ----
 
@@ -7084,7 +7084,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(6)` Die Bundesministerin für Justiz wird ermächtigt, für die in Abs\. 4 vorgesehene Beratung bewährte geeignete Einrichtungen für opferschutzorientierte Täterarbeit im Wege von Förderverträgen vertraglich zu beauftragen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-382f-eo--verfahrensbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=382f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_478_TextContainer_478) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-382f-eo--verfahrensbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=382f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_478_TextContainer_478) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-382f-eo--verfahrensbestimmungen)) \]
 
 ----
 
@@ -7092,7 +7092,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Wenn eine einstweilige Verfügung zum Schutz vor Gewalt \(§§ 382b, 382c\) beantragt wurde und der Antragsgegner gegenüber Organen des öffentlichen Sicherheitsdienstes aus Anlass eines Betretungs\- und Annäherungsverbots nach § 38a SPG eine Abgabestelle bekanntgegeben hat, so gilt diese als Abgabestelle für das gerichtliche Verfahren über eine einstweilige Verfügung zum Schutz vor Gewalt\. Hat der Antragsgegner eine solche Bekanntgabe trotz Hinweises auf die Rechtsfolgen unterlassen, so können die Zustellungen im Verfahren über die einstweilige Verfügung durch Hinterlegung so lange ohne vorausgehenden Zustellversuch vorgenommen werden \(§§ 8 und 23 Zustellgesetz\), bis dem Gericht eine Abgabestelle bekanntgegeben wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-382g-eo--abgabestelle-des-antragsgegners) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=382g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_479_TextContainer_479) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-382g-eo--abgabestelle-des-antragsgegners) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=382g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_479_TextContainer_479) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-382g-eo--abgabestelle-des-antragsgegners)) \]
 
 ----
 
@@ -7108,7 +7108,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 > &nbsp; unverzüglich zu verständigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-382h-eo--verständigungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=382h) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_480_TextContainer_480) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-382h-eo--verständigungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=382h) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_480_TextContainer_480) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-382h-eo--verständigungen)) \]
 
 ----
 
@@ -7126,7 +7126,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Einstweilige Verfügungen zum Schutz vor Gewalt und zum Schutz vor Eingriffen in die Privatsphäre können auch nach den Bestimmungen des Dritten Abschnitts im Ersten Teil vollzogen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-382i-eo--vollzug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=382i) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_481_TextContainer_481) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-382i-eo--vollzug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=382i) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_481_TextContainer_481) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-382i-eo--vollzug)) \]
 
 ----
 
@@ -7140,7 +7140,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Die Zeit, für die die einstweilige Verfügung getroffen wird, darf über den Zeitpunkt nicht hinausgehen, ab dem ein die Ehewohnung betreffender Anspruch im Zusammenhang mit einem Verfahren auf Scheidung, Aufhebung oder Nichtigerklärung der Ehe nicht mehr geltend gemacht werden kann oder ein Verfahren darüber rechtskräftig beendet ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-382j-eo--sicherung-des-dringenden-wohnbedürfnisses-eines-ehegatten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=382j) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_482_TextContainer_482) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-382j-eo--sicherung-des-dringenden-wohnbedürfnisses-eines-ehegatten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=382j) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_482_TextContainer_482) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-382j-eo--sicherung-des-dringenden-wohnbedürfnisses-eines-ehegatten)) \]
 
 ----
 
@@ -7150,7 +7150,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Der einstweilige Mietzins nach Abs\. 1 ist mit dem in § 45 Abs\. 1 oder 2 MRG für den jeweiligen Mietgegenstand vorgesehenen Betrag zuzüglich des im Antragszeitpunkt für den Mietgegenstand vorgeschriebenen gleichbleibenden Teilbetrags an Betriebskosten und öffentlichen Abgaben nach § 21 Abs\. 3 MRG festzusetzen\. Liegt aber der vertraglich vereinbarte Hauptmietzins unter dem für den Mietgegenstand geltenden Betrag nach § 45 Abs\. 1 oder 2 MRG, so ist der Festsetzung des einstweiligen Mietzinses die Mietzinsvereinbarung zugrunde zu legen\. § 15 Abs\. 2 MRG ist anzuwenden\. Bei einer Wohnung ist für die Bescheinigung der Ausstattungskategorie deren Anführung in der Mietvertragsurkunde ausreichend\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-382k-eo--einstweiliger-mietzins) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=382k) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_483_TextContainer_483) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-382k-eo--einstweiliger-mietzins) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=382k) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_483_TextContainer_483) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-382k-eo--einstweiliger-mietzins)) \]
 
 ----
 
@@ -7160,7 +7160,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Ertragsüberschüsse, die sich nach Bestreitung aller aus den Erträgnissen zu berichtigenden Kosten und Auslagen ergeben, sind, soweit nicht Rechte dritter Personen entgegenstehen, dem Gegner der gefährdeten Partei auszufolgen, bei Bestrittenheit des Eigentums an der Sache aber gerichtlich zu erlegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-383-eo--verwaltung-von-sachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=383) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_484_TextContainer_484) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-383-eo--verwaltung-von-sachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=383) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_484_TextContainer_484) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-383-eo--verwaltung-von-sachen)) \]
 
 ----
 
@@ -7172,7 +7172,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Durch Eintragungen, welche nach Vollzug dieser Anmerkung auf Grund einer vom Gegner der gefährdeten Partei dem Verbote zuwider vorgenommenen freiwilligen Verfügung erfolgen, wird der gefährdeten Partei gegenüber nur für den Fall ein Recht bewirkt, als die von ihr geltend gemachte Geldforderung oder der von ihr auf die Liegenschaft oder das bücherliche Recht erhobene Anspruch rechtskräftig abgewiesen wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-384-eo--vollzug-aufgetragener-handlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=384) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_485_TextContainer_485) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-384-eo--vollzug-aufgetragener-handlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=384) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_485_TextContainer_485) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-384-eo--vollzug-aufgetragener-handlungen)) \]
 
 ----
 
@@ -7186,7 +7186,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Das Gericht hat dem Drittschuldner auf Antrag der gefährdeten Partei gleichzeitig mit dem Drittverbot aufzutragen, binnen vier Wochen eine Erklärung nach § 301 abzugeben\. Für die mit der Abgabe dieser Erklärung verbundenen Kosten stehen dem Drittschuldner als Ersatz 25 Euro zu\. Das Gericht hat auf Antrag des Drittschuldners der gefährdeten Partei den Ersatz der Kosten an den Drittschuldner aufzuerlegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-385-eo--drittverbot) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=385) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_486_TextContainer_486) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-385-eo--drittverbot) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=385) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_486_TextContainer_486) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-385-eo--drittverbot)) \]
 
 ----
 
@@ -7202,7 +7202,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die Kosten einer solchen, nicht im öffentlichen Haftlokal zu vollziehenden Haft und insbesondere die mit der entsprechenden Überwachung des Verhafteten verbundenen Kosten hat dieser selbst zu tragen\. § 366 ist auf diese Kosten insoweit anzuwenden, als bei nicht rechtzeitigem Erlag der Kosten der Verhaftete in die Haftanstalt zu bringen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-386-eo--haft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=386) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_487_TextContainer_487) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-386-eo--haft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=386) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_487_TextContainer_487) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-386-eo--haft)) \]
 
 ----
 
@@ -7216,7 +7216,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Abweichend von Abs\. 2 ist in den dort genannten Fällen für eine einstweilige Verfügung nach §§ 382b, 382c oder 382d das Bezirksgericht zuständig, bei dem die gefährdete Partei ihren allgemeinen Gerichtsstand in Streitsachen hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-387-eo--zuständigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=387) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_488_TextContainer_488) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-387-eo--zuständigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=387) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_488_TextContainer_488) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-387-eo--zuständigkeit)) \]
 
 ----
 
@@ -7228,7 +7228,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Der erste Satz des Abs\. 2 gilt auch für das Rekursverfahren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-388-eo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=388) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_489_TextContainer_489) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-388-eo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=388) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_489_TextContainer_489) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-388-eo)) \]
 
 ----
 
@@ -7240,7 +7240,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Wird eine Einvernehmung innerhalb einer drei Tage unterschreitenden Frist angeordnet, so kann diese nicht unter Verwendung geeigneter technischer Kommunikationsmittel zur Wort\- und Bildübertragung \(§ 59a\) durchgeführt werden, wenn sich die geladene Person dagegen ausspricht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-389-eo--antrag-auf-erlassung-einstweiliger-verfügungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=389) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_490_TextContainer_490) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-389-eo--antrag-auf-erlassung-einstweiliger-verfügungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=389) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_490_TextContainer_490) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-389-eo--antrag-auf-erlassung-einstweiliger-verfügungen)) \]
 
 ----
 
@@ -7254,7 +7254,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `3.` ein solcher Beschluss widerrufen oder abgeändert wurde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-389a-eo--bankguthaben) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=389a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_491_TextContainer_491) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-389a-eo--bankguthaben) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=389a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_491_TextContainer_491) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-389a-eo--bankguthaben)) \]
 
 ----
 
@@ -7268,7 +7268,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Die Bewilligung einer einstweiligen Verfügung zum Schutz vor Gewalt \(§§ 382b, 382c\), zum Schutz vor Eingriffen in die Privatsphäre \(§ 382d\), nach § 382 Z 8 lit\. a oder § 382a kann nicht von einer Sicherheitsleistung abhängig gemacht werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-390-eo--sicherheitsleistung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=390) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_492_TextContainer_492) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-390-eo--sicherheitsleistung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=390) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_492_TextContainer_492) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-390-eo--sicherheitsleistung)) \]
 
 ----
 
@@ -7278,7 +7278,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Wenn eine einstweilige Verfügung vor Eintritt der Fälligkeit des von der antragstellenden Partei behaupteten Rechts oder sonst vor Einleitung des Prozesses oder der Exekution bewilligt wird, ist – außer bei einstweiligen Verfügungen nach §§ 382b, 382e oder 382g Abs\. 1 Z 1 bis 8 – im Beschluss eine angemessene Frist für die Einbringung der Klage oder für den Antrag auf Bewilligung der Exekution zu bestimmen\. Nach vergeblichem Ablauf der Frist ist die getroffene Verfügung auf Antrag oder von Amts wegen aufzuheben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-391-eo--dauer-befreiungsbetrag-und-frist-zur-rechtfertigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=391) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_493_TextContainer_493) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-391-eo--dauer-befreiungsbetrag-und-frist-zur-rechtfertigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=391) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_493_TextContainer_493) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-391-eo--dauer-befreiungsbetrag-und-frist-zur-rechtfertigung)) \]
 
 ----
 
@@ -7288,7 +7288,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Unter mehreren im einzelnen Falle gleich anwendbaren Verfügungen ist diejenige zu bewilligen, die zur Hintanhaltung der nach den besonderen Verhältnissen zu besorgenden Gefährdung am geeignetsten ist, bei gleicher Eignung aber die den Gegner der gefährdeten Partei am wenigsten beschwerende Verfügung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-392-eo--mehrere-verfügungen-zugunsten-desselben-anspruchs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=392) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_494_TextContainer_494) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-392-eo--mehrere-verfügungen-zugunsten-desselben-anspruchs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=392) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_494_TextContainer_494) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-392-eo--mehrere-verfügungen-zugunsten-desselben-anspruchs)) \]
 
 ----
 
@@ -7300,7 +7300,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Bei Bewilligung einer einstweiligen Verfügung kann der antragstellenden Partei aufgetragen werden, den zur Vollziehung der erlassenen Verfügung erforderlichen Geldbetrag im Vorhinein gerichtlich zu erlegen\. Vor Nachweis dieses Erlages darf mit der Vollziehung der Verfügung nicht begonnen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-393-eo--kosten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=393) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_495_TextContainer_495) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-393-eo--kosten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=393) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_495_TextContainer_495) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-393-eo--kosten)) \]
 
 ----
 
@@ -7314,7 +7314,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 > *Anm\. 1: Art\. 6 Z 4 der Novelle BGBl\. I Nr\. 147/2021 lautet: „Folgende Begriffe werden in der Exekutionsordnung \(auch in den Überschriften\) in der grammatikalisch jeweils richtigen Form und dem dazu passenden bestimmten oder unbestimmten Artikel unter Berücksichtigung der Klein\- und Großschreibung ersetzt:…………\.\.10\. „Vermögensachtheile“ durch „Vermögensnachteile“\.* *Richtig wäre der Begriff „Vermögens**n**achtheile“ durch „Vermögensnachteile“\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-394-eo--schadenersatz-und-mutwillensstrafe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=394) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_496_TextContainer_496) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-394-eo--schadenersatz-und-mutwillensstrafe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=394) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_496_TextContainer_496) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-394-eo--schadenersatz-und-mutwillensstrafe)) \]
 
 ----
 
@@ -7325,7 +7325,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Im Falle der Anordnung einer Haft hat die Zustellung des Beschlusses an die anzuhaltende Person bei Verhaftung derselben zu geschehen\.
 > *\(Anm\.: aufgehoben durch Art\. 1 Z 366, BGBl\. I Nr\. 86/2021\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-395-eo--zustellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=395) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_497_TextContainer_497) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-395-eo--zustellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=395) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_497_TextContainer_497) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-395-eo--zustellung)) \]
 
 ----
 
@@ -7333,7 +7333,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Vollziehung einer bewilligten Verfügung ist, sofern sie nicht wegen eines angebrachten Rekurses aufgeschoben wurde, unstatthaft, wenn seit dem Tage, an welchem die Bewilligung verkündet oder der antragstellenden Partei durch Zustellung des Beschlusses bekannt gegeben wurde, mehr als ein Monat verstrichen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-396-eo--unstatthaftigkeit-der-vollziehung-einer-einstweiligen-verfügung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=396) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_498_TextContainer_498) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-396-eo--unstatthaftigkeit-der-vollziehung-einer-einstweiligen-verfügung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=396) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_498_TextContainer_498) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-396-eo--unstatthaftigkeit-der-vollziehung-einer-einstweiligen-verfügung)) \]
 
 ----
 
@@ -7345,7 +7345,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Durch die Erhebung des Widerspruches wird die Vollziehung der getroffenen Verfügung nicht gehemmt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-397-eo--widerspruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=397) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_499_TextContainer_499) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-397-eo--widerspruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=397) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_499_TextContainer_499) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-397-eo--widerspruch)) \]
 
 ----
 
@@ -7355,7 +7355,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Das Gericht kann die Bestätigung, Abänderung oder Aufhebung der getroffenen Verfügung von der Leistung einer von ihm nach freiem Ermessen zu bestimmenden Sicherheit abhängig machen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-398-eo--verfahren-über-den-widerspruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=398) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_500_TextContainer_500) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-398-eo--verfahren-über-den-widerspruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=398) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_500_TextContainer_500) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-398-eo--verfahren-über-den-widerspruch)) \]
 
 ----
 
@@ -7375,7 +7375,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Über solche Anträge hat, wenn sie während des in der Hauptsache noch anhängigen Prozesses gestellt werden, das Prozessgericht erster Instanz, sonst das Gericht, das über Antrag auf Bewilligung der einstweiligen Verfügung in erster Instanz entschieden hat, mit Beschluss zu entscheiden\. Vor der Entscheidung ist die gefährdete Partei einzuvernehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-399-eo--aufhebung-oder-einschränkung-der-angeordneten-verfügung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=399) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_501_TextContainer_501) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-399-eo--aufhebung-oder-einschränkung-der-angeordneten-verfügung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=399) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_501_TextContainer_501) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-399-eo--aufhebung-oder-einschränkung-der-angeordneten-verfügung)) \]
 
 ----
 
@@ -7393,7 +7393,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Der § 399 ist nicht anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-399a-eo--aufhebung-oder-einschränkung-des-vorläufigen-unterhalts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=399a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_502_TextContainer_502) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-399a-eo--aufhebung-oder-einschränkung-des-vorläufigen-unterhalts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=399a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_502_TextContainer_502) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-399a-eo--aufhebung-oder-einschränkung-des-vorläufigen-unterhalts)) \]
 
 ----
 
@@ -7405,7 +7405,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Das Gericht kann sich die Entscheidung über den Antrag auf Ersatz und Aufrechnung bis zur Beendigung des Unterhaltsverfahrens vorbehalten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-399b-eo--ersatz-und-aufrechnung-nach-aufhebung-oder-einschränkung-des-vorläufigen-unterhalts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=399b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_503_TextContainer_503) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-399b-eo--ersatz-und-aufrechnung-nach-aufhebung-oder-einschränkung-des-vorläufigen-unterhalts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=399b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_503_TextContainer_503) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-399b-eo--ersatz-und-aufrechnung-nach-aufhebung-oder-einschränkung-des-vorläufigen-unterhalts)) \]
 
 ----
 
@@ -7417,7 +7417,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die für den Vollzug einer Verfügung nach §§ 382b, 382c und 382d geltenden Bestimmungen sind auf den Vollzug der angepassten Verfügung anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-399c-eo--anpassung-einer-einstweiligen-verfügung-zum-schutz-vor-gewalt-und-eingriffen-in-die-privatsphäre) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=399c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_504_TextContainer_504) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-399c-eo--anpassung-einer-einstweiligen-verfügung-zum-schutz-vor-gewalt-und-eingriffen-in-die-privatsphäre) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=399c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_504_TextContainer_504) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-399c-eo--anpassung-einer-einstweiligen-verfügung-zum-schutz-vor-gewalt-und-eingriffen-in-die-privatsphäre)) \]
 
 ----
 
@@ -7425,7 +7425,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Eine zur Deckung der Kosten oder der Schadenersatzansprüche von der gefährdeten Partei erlegte Sicherheit \(§§ 390 und 398\) darf ihr erst nach Ablauf von vierzehn Tagen seit Eintritt der Rechtskraft des Beschlusses ausgefolgt werden, durch welchen die einstweilige Verfügung aufgehoben wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-400-eo--ausfolgung-der-sicherheitsleistung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=400) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_505_TextContainer_505) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-400-eo--ausfolgung-der-sicherheitsleistung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=400) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_505_TextContainer_505) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-400-eo--ausfolgung-der-sicherheitsleistung)) \]
 
 ----
 
@@ -7435,7 +7435,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` In besonders dringenden Fällen kann eine solche Anordnung ohne vorgängige Vernehmung des Gegners erlassen werden\. Dies gilt insbesondere für die Handlungen, die zur Erhaltung oder Ausübung der Rechte aus den im § 321 bezeichneten Papieren erforderlich sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-401-eo--anordnungen-über-verwahrte-sachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=401) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_506_TextContainer_506) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-401-eo--anordnungen-über-verwahrte-sachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=401) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_506_TextContainer_506) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-401-eo--anordnungen-über-verwahrte-sachen)) \]
 
 ----
 
@@ -7451,7 +7451,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Im Übrigen sind die Bestimmungen über das Exekutionsverfahren sinngemäß anzuwenden, sofern nicht in diesem Teil etwas anderes bestimmt ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-402-eo--rekurs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=402) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_507_TextContainer_507) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-402-eo--rekurs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=402) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_507_TextContainer_507) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-402-eo--rekurs)) \]
 
 ----
 
@@ -7467,7 +7467,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Akte und Urkunden, die im Ausland errichtet wurden \(ausländische Exekutionstitel\), bedürfen zur Vollstreckung einer Vollstreckbarerklärung im Inland, soweit sie nicht aufgrund einer völkerrechtlichen Vereinbarung oder eines Rechtsakts der Europäischen Union ohne gesonderte Vollstreckbarerklärung zu vollstrecken sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-403-eo--allgemeines) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=403) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_508_TextContainer_508) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-403-eo--allgemeines) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=403) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_508_TextContainer_508) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-403-eo--allgemeines)) \]
 
 ----
 
@@ -7481,7 +7481,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Der Widerspruch muss innerhalb von vierzehn Tagen nach Zustellung des Beschlusses erhoben werden\. Zufolge erhobenen Widerspruches ist über die Rechtmäßigkeit der Anpassung mündlich zu verhandeln und mit Beschluss zu entscheiden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-404-eo--anpassung-ausländischer-exekutionstitel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=404) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_509_TextContainer_509) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-404-eo--anpassung-ausländischer-exekutionstitel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=404) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_509_TextContainer_509) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-404-eo--anpassung-ausländischer-exekutionstitel)) \]
 
 ----
 
@@ -7495,7 +7495,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Für die mit der Abgabe der Erklärung verbundenen Kosten stehen der bezugauszahlenden Person 35 Euro als Ersatz zu\. § 302 Abs\. 2 ist anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-405-eo--anpassung-von-bruchteilstiteln) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=405) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_510_TextContainer_510) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-405-eo--anpassung-von-bruchteilstiteln) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=405) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_510_TextContainer_510) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-405-eo--anpassung-von-bruchteilstiteln)) \]
 
 ----
 
@@ -7507,7 +7507,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Akte und Urkunden sind für vollstreckbar zu erklären, wenn die Akte und Urkunden nach den Bestimmungen des Staates, in dem sie errichtet wurden, vollstreckbar sind und die Gegenseitigkeit durch Staatsverträge oder durch Verordnungen verbürgt ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-406-eo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=406) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_511_TextContainer_511) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-406-eo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=406) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_511_TextContainer_511) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-406-eo)) \]
 
 ----
 
@@ -7521,7 +7521,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `3.` wenn das Erkenntnis gemäß dem darüber vorliegenden Zeugnisse der ausländischen Gerichts\- oder sonstigen Behörde nach dem für letztere geltenden Rechte einem die Vollstreckbarkeit hemmenden Rechtszuge nicht mehr unterliegt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-407-eo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=407) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_512_TextContainer_512) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-407-eo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=407) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_512_TextContainer_512) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-407-eo)) \]
 
 ----
 
@@ -7535,7 +7535,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `3.` wenn durch die Vollstreckbarerklärung ein Rechtsverhältnis zur Anerkennung oder ein Anspruch zur Verwirklichung gelangen soll, dem durch das inländische Gesetz im Inland aus Rücksichten der öffentlichen Ordnung oder der Sittlichkeit die Gültigkeit oder Klagbarkeit versagt ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-408-eo--versagungsgründe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=408) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_513_TextContainer_513) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-408-eo--versagungsgründe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=408) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_513_TextContainer_513) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-408-eo--versagungsgründe)) \]
 
 ----
 
@@ -7547,7 +7547,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `2.` das nach §§ 18 und 19 bezeichnete Bezirksgericht, in Wien das nach dem Bezirksgerichts\-Organisationsgesetz für Wien in Exekutionssachen zuständige Gericht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-409-eo--zuständigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=409) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_514_TextContainer_514) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-409-eo--zuständigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=409) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_514_TextContainer_514) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-409-eo--zuständigkeit)) \]
 
 ----
 
@@ -7557,7 +7557,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Soweit nicht in diesem Titel etwas anderes bestimmt ist, sind die Bestimmungen über die Exekution inländischer Akte und Urkunden sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-410-eo--verfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=410) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_515_TextContainer_515) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-410-eo--verfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=410) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_515_TextContainer_515) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-410-eo--verfahren)) \]
 
 ----
 
@@ -7577,7 +7577,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Ist der ausländische Exekutionstitel nach den Rechtsvorschriften des Ursprungsstaates noch nicht rechtskräftig, so kann das mit einem Rekurs gegen die Entscheidung über den Antrag auf Vollstreckbarerklärung befasste Gericht auf Antrag des Antragsgegners das Verfahren zur Vollstreckbarerklärung bis zum Eintritt der Rechtskraft des ausländischen Exekutionstitels unterbrechen, wobei es dem Antragsgegner eine angemessene Frist für das Einlegen eines Rechtsmittels im Ursprungsstaat setzen kann\. Das Gericht kann außerdem die Vornahme bereits zulässiger Exekutionshandlungen davon abhängig machen, dass der betreibende Gläubiger eine vom Gericht nach freiem Ermessen zu bestimmende Sicherheit für den dem Verpflichteten drohenden Schaden leistet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-411-eo--rekurs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=411) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_516_TextContainer_516) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-411-eo--rekurs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=411) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_516_TextContainer_516) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-411-eo--rekurs)) \]
 
 ----
 
@@ -7587,7 +7587,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Wenn bis zur Vornahme von Verwertungshandlungen über den Antrag auf Vollstreckbarerklärung nicht rechtskräftig entschieden ist, hat das Exekutionsgericht von Amts wegen mit dem weiteren Vollzug bis zum Eintritt der Rechtskraft dieser Entscheidung innezuhalten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-412-eo--exekutionsantrag-und-vollzug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=412) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_517_TextContainer_517) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-412-eo--exekutionsantrag-und-vollzug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=412) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_517_TextContainer_517) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-412-eo--exekutionsantrag-und-vollzug)) \]
 
 ----
 
@@ -7595,7 +7595,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Nach Eintritt der Rechtskraft der Vollstreckbarerklärung ist der ausländische Exekutionstitel wie ein inländischer zu behandeln\. Ihm kommt aber nie mehr Wirkung als im Ursprungsstaat zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-413-eo--wirkung-der-vollstreckbarerklärung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=413) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_518_TextContainer_518) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-413-eo--wirkung-der-vollstreckbarerklärung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=413) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_518_TextContainer_518) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-413-eo--wirkung-der-vollstreckbarerklärung)) \]
 
 ----
 
@@ -7605,7 +7605,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Über den Antrag auf Aufhebung oder Abänderung der Vollstreckbarerklärung hat das für die Vollstreckbarerklärung in erster Instanz zuständige Gericht nach Anhörung des betreibenden Gläubigers mit Beschluss zu entscheiden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-414-eo--aufhebung-und-abänderung-der-vollstreckbarerklärung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=414) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_519_TextContainer_519) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-414-eo--aufhebung-und-abänderung-der-vollstreckbarerklärung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=414) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_519_TextContainer_519) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-414-eo--aufhebung-und-abänderung-der-vollstreckbarerklärung)) \]
 
 ----
 
@@ -7621,7 +7621,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 > &nbsp; so sind die vorstehenden Bestimmungen sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-415-eo--anerkennung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=415) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_520_TextContainer_520) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-415-eo--anerkennung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=415) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_520_TextContainer_520) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-415-eo--anerkennung)) \]
 
 ----
 
@@ -7631,7 +7631,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Ist zur Vollstreckbarerklärung eines ausländischen Titels auf Grund besonderer Vorschriften eine andere Behörde als das nach § 409 zuständige Gericht berufen, so sind von den Bestimmungen des Zweiten Abschnitts § 412 Abs\. 2 und § 413 anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-416-eo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=416) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_521_TextContainer_521) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-416-eo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=416) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_521_TextContainer_521) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-416-eo)) \]
 
 ----
 
@@ -7643,7 +7643,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Akte und Urkunden supranationaler Organisationen, denen Österreich angehört, sind, unabhängig davon, ob sie im Inland oder im Ausland errichtet worden sind, ausländischen Akten und Urkunden gleichgestellt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-417-eo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=417) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_522_TextContainer_522) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-417-eo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=417) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_522_TextContainer_522) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-417-eo)) \]
 
 ----
 
@@ -7661,7 +7661,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Ein weiterer Rekurs gegen die Entscheidung, mit der über einen Rekurs gegen die Entscheidung über die Versagung der Vollstreckung oder Abweisung eines solchen Antrags entschieden wird, ist nicht deshalb unzulässig, weil das Gericht zweiter Instanz die angefochtene Entscheidung zur Gänze bestätigt hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-418-eo--frist-für-versagungsanträge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=418) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_523_TextContainer_523) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-418-eo--frist-für-versagungsanträge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=418) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_523_TextContainer_523) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-418-eo--frist-für-versagungsanträge)) \]
 
 ----
 
@@ -7677,7 +7677,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Bei den in § 1 Z 17 genannten Exekutionstiteln obliegt die Erteilung der in Abs\. 1 genannten Bestätigung und deren Berichtigung jenem Notar, der den Notariatsakt aufgenommen hat, im Verhinderungsfall dem nach §§ 119 und 146 NO berufenen Amtsträger\. Für die Aufhebung der vom Notar erteilten Bestätigung ist das nach den Prozessgesetzen zur Entscheidung über die Bestreitung der Exekutionskraft eines Notariatsakts berufene Gericht zuständig \(§ 4 NO\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-419-eo--europäischer-vollstreckungstitel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=419) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_524_TextContainer_524) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-419-eo--europäischer-vollstreckungstitel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=419) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_524_TextContainer_524) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-419-eo--europäischer-vollstreckungstitel)) \]
 
 ----
 
@@ -7701,7 +7701,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `2.` die Aufhebung der Anerkennung oder der Vollstreckung nach Art\. 14 Abs\. 2 EuSchMaVO\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-420-eo--zuständigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=420) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_525_TextContainer_525) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-420-eo--zuständigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=420) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_525_TextContainer_525) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-420-eo--zuständigkeit)) \]
 
 ----
 
@@ -7713,7 +7713,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die Kostenersatzpflicht im Verfahren über die Anpassung der Schutzmaßnahme richtet sich nach den Bestimmungen der ZPO\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-421-eo--verfahren-bei-der-anpassung-von-schutzmaßnahmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=421) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_526_TextContainer_526) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-421-eo--verfahren-bei-der-anpassung-von-schutzmaßnahmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=421) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_526_TextContainer_526) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-421-eo--verfahren-bei-der-anpassung-von-schutzmaßnahmen)) \]
 
 ----
 
@@ -7729,7 +7729,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die Regelungen der EuKoPfVO sind auch dann anzuwenden, wenn sich das vorläufig zu pfändende Bankkonto, das zuständige Gericht und der Wohnsitz des Gläubigers im Inland befinden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-422-eo--anwendung-der-bestimmungen-über-einstweilige-verfügungen-und-anwendungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=422) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_527_TextContainer_527) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-422-eo--anwendung-der-bestimmungen-über-einstweilige-verfügungen-und-anwendungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=422) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_527_TextContainer_527) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-422-eo--anwendung-der-bestimmungen-über-einstweilige-verfügungen-und-anwendungsbereich)) \]
 
 ----
 
@@ -7741,7 +7741,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Der Schuldner kann Anträge und Rechtsbehelfe nach der EuKoPfVO beim Bezirksgericht seines Aufenthalts mündlich zu Protokoll erklären; dieses Bezirksgericht hat das Protokoll dem zuständigen Gericht unverzüglich zu übersenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-423-eo--zuständigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=423) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_528_TextContainer_528) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-423-eo--zuständigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=423) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_528_TextContainer_528) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-423-eo--zuständigkeit)) \]
 
 ----
 
@@ -7755,7 +7755,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Das Gericht hat über den Schuldner, der gegen den Beschluss nach Abs\. 2 verstößt, eine Ordnungsstrafe bis zu 5 000 Euro zu verhängen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-424-eo--einholung-von-kontoinformationen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=424) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_529_TextContainer_529) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-424-eo--einholung-von-kontoinformationen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=424) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_529_TextContainer_529) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-424-eo--einholung-von-kontoinformationen)) \]
 
 ----
 
@@ -7785,7 +7785,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Ein Schuldner kann zur Vorbereitung eines Insolvenz\-, Restrukturierungs\- oder Reorganisationsverfahrens oder seiner sonstigen Entschuldung in die in Abs\. 1 genannten, seine Person betreffenden Daten einsehen\. Abfrageberechtigt sind Rechtsanwälte, Notare und anerkannte Schuldenberatungsstellen als Vertreter des Schuldners\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-427-eo--voraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=427) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_530_TextContainer_530) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-427-eo--voraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=427) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_530_TextContainer_530) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-427-eo--voraussetzungen)) \]
 
 ----
 
@@ -7799,7 +7799,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Mit dem Abfrageergebnis sind zur näheren Bestimmung des Schuldners dessen Adresse, sowie – soweit vorhanden – dessen Geburtsdatum, Firmenbuch\- oder Vereinsregisternummer oder Gewerbeinformationssystem Austria\-Zahl \(GISA\-Zahl\) oder die im Ergänzungsregister vergebene Ordnungsnummer \(ErsB\-Ordnungsnummer\) anzugeben und auf einen Doppelgängerfall hinzuweisen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-428-eo--durchführung-der-abfrage) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=428) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_531_TextContainer_531) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-428-eo--durchführung-der-abfrage) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=428) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_531_TextContainer_531) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-428-eo--durchführung-der-abfrage)) \]
 
 ----
 
@@ -7811,7 +7811,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Ein Rechtsanwalt oder Notar darf pro Kalendertag nicht mehr als 25 Abfragen tätigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-429-eo--verhinderung-von-missbrauch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=429) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_532_TextContainer_532) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-429-eo--verhinderung-von-missbrauch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=429) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_532_TextContainer_532) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-429-eo--verhinderung-von-missbrauch)) \]
 
 ----
 
@@ -7839,7 +7839,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(6)` Das Bundesministerium für Justiz veröffentlicht einen jährlichen Kontrollbericht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-430-eo--kontrolle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=430) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_533_TextContainer_533) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-430-eo--kontrolle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=430) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_533_TextContainer_533) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-430-eo--kontrolle)) \]
 
 ----
 
@@ -7849,7 +7849,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Bezirksverwaltungsbehörden haben von jeder rechtskräftigen Verurteilung das Bundesministerium für Justiz und, wenn der Täter Rechtsanwalt oder Notar ist, die Rechtsanwalts\- bzw\. Notariatskammer zu verständigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-431-eo--strafbestimmung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=431) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_534_TextContainer_534) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-431-eo--strafbestimmung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=431) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_534_TextContainer_534) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md#-431-eo--strafbestimmung)) \]
 
 ----
 
@@ -7863,7 +7863,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Alle sonstigen Klagen nach den §§ 17, 35, 36 und 37 sind von der mit Exekutionssachen befassten Abteilung zu bearbeiten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-432-eo--geschäftsverteilung-bei-exekutionsrechtlichen-klagen-und-anträgen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=432) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_535_TextContainer_535) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-432-eo--geschäftsverteilung-bei-exekutionsrechtlichen-klagen-und-anträgen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=432) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_535_TextContainer_535) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-432-eo--geschäftsverteilung-bei-exekutionsrechtlichen-klagen-und-anträgen)) \]
 
 ----
 
@@ -7871,7 +7871,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > In der Ediktsdatei ist bekannt zu machen, bei welchen Gerichten Auktionshallen betrieben werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-433-eo--auktionshallen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=433) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_536_TextContainer_536) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-433-eo--auktionshallen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=433) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_536_TextContainer_536) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-433-eo--auktionshallen)) \]
 
 ----
 
@@ -7889,7 +7889,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Der Lagerzins ist von dem Gericht, bei dem die Auktionshalle eingerichtet ist, vorzuschreiben und nach den Bestimmungen des GEG einzubringen\. Für die Einbringung des Lagerzinses bei Verwahrung gilt außerdem § 274b Abs\. 2 sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-434-eo--lagerzins) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=434) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_537_TextContainer_537) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-434-eo--lagerzins) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=434) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_537_TextContainer_537) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-434-eo--lagerzins)) \]
 
 ----
 
@@ -7897,7 +7897,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Bundesministerin für Justiz wird ermächtigt, zur Ermöglichung einer zweckmäßigen Behandlung der Eingaben mit Verordnung Formblätter einzuführen, die die Parteien für ihre Eingaben an das Gericht zu verwenden haben\. Diese Formblätter sind so zu gestalten, dass sie die Parteien leicht und sicher verwenden können\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-435-eo--formblätter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=435) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_538_TextContainer_538) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-435-eo--formblätter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=435) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_538_TextContainer_538) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-435-eo--formblätter)) \]
 
 ----
 
@@ -7947,7 +7947,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` § 89e GOG ist anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-436-eo--verwalterliste-in-exekutionssachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=436) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_539_TextContainer_539) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-436-eo--verwalterliste-in-exekutionssachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=436) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_539_TextContainer_539) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-436-eo--verwalterliste-in-exekutionssachen)) \]
 
 ----
 
@@ -7955,7 +7955,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Wenn ein neues Bezirksgericht errichtet wird, sind die im Zeitpunkt der Errichtung dieses Bezirksgerichts bei dem Bezirksgericht, dessen Sprengelgrenzen geändert wurden, anhängigen Exekutionsverfahren von Amts wegen an das neue Bezirksgericht zu überweisen, wenn dieses nach §§ 4 ff zuständig ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-437-eo--überweisung-bei-neuerrichtung-eines-bezirksgerichts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=437) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_540_TextContainer_540) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-437-eo--überweisung-bei-neuerrichtung-eines-bezirksgerichts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=437) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_540_TextContainer_540) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-437-eo--überweisung-bei-neuerrichtung-eines-bezirksgerichts)) \]
 
 ----
 
@@ -7967,7 +7967,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Rechtshandlungen, die das Vermögen eines Schuldners betreffen, können außerhalb des Insolvenzverfahrens nach den folgenden Bestimmungen zum Zweck der Befriedigung eines Gläubigers angefochten und diesem gegenüber als unwirksam erklärt werden\. §§ 36, 38 und 42 IO sind anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-438-eo--anfechtungsrecht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=438) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_541_TextContainer_541) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-438-eo--anfechtungsrecht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=438) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_541_TextContainer_541) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-438-eo--anfechtungsrecht)) \]
 
 ----
 
@@ -7983,7 +7983,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `4.` die im letzten Jahr vor der Anfechtung vom Schuldner eingegangenen Kauf\-, Tausch\- und Lieferungsverträge, sofern der andere Teil in dem Geschäft eine die Gläubiger benachteiligende Vermögensverschleuderung erkannte oder erkennen musste\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-439-eo--benachteiligungsabsicht-und-vermögensverschleuderung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=439) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_542_TextContainer_542) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-439-eo--benachteiligungsabsicht-und-vermögensverschleuderung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=439) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_542_TextContainer_542) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-439-eo--benachteiligungsabsicht-und-vermögensverschleuderung)) \]
 
 ----
 
@@ -7995,7 +7995,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `2.` der Erwerb von Sachen des Schuldners zufolge obrigkeitlicher Verfügung, wenn das Entgelt aus den Mitteln des Schuldners geleistet worden ist\. Sind diese Sachen von nahen Angehörigen des Schuldners gemäß § 32 IO erworben worden, so wird vermutet, dass das Entgelt aus den Mitteln des Schuldners geleistet worden ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-440-eo--unentgeltliche-und-ihnen-gleichgestellte-verfügungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=440) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_543_TextContainer_543) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-440-eo--unentgeltliche-und-ihnen-gleichgestellte-verfügungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=440) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_543_TextContainer_543) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-440-eo--unentgeltliche-und-ihnen-gleichgestellte-verfügungen)) \]
 
 ----
 
@@ -8003,7 +8003,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Leistungen auf Grund von Einzelverkäufen beweglicher Sachen im gewerbemäßigen Betrieb des Schuldners können nur wegen Benachteiligungsabsicht nach § 439 Z 1 bis 3 angefochten werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-441-eo--einzelverkäufe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=441) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_544_TextContainer_544) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-441-eo--einzelverkäufe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=441) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_544_TextContainer_544) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-441-eo--einzelverkäufe)) \]
 
 ----
 
@@ -8011,7 +8011,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Anfechtung wird dadurch nicht ausgeschlossen, dass für die anzufechtende Handlung ein Exekutionstitel erworben oder dass sie durch Exekution bewirkt worden ist\. Wird die Rechtshandlung für unwirksam erklärt, so erlischt dem Gläubiger gegenüber auch die Wirksamkeit des Exekutionstitels\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-442-eo--exekution-und-anfechtung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=442) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_545_TextContainer_545) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-442-eo--exekution-und-anfechtung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=442) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_545_TextContainer_545) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-442-eo--exekution-und-anfechtung)) \]
 
 ----
 
@@ -8021,7 +8021,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Anfechtung kann durch Klage oder Einrede geltend gemacht werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-443-eo--anfechtungsbefugnis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=443) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_546_TextContainer_546) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-443-eo--anfechtungsbefugnis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=443) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_546_TextContainer_546) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-443-eo--anfechtungsbefugnis)) \]
 
 ----
 
@@ -8039,7 +8039,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Zur Erstreckung der Fristen genügt die Zustellung des Schriftsatzes an denjenigen, gegen den die Anfechtung stattfinden soll\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-444-eo--hemmung-des-ablaufs-der-anfechtungsfrist) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=444) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_547_TextContainer_547) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-444-eo--hemmung-des-ablaufs-der-anfechtungsfrist) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=444) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_547_TextContainer_547) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-444-eo--hemmung-des-ablaufs-der-anfechtungsfrist)) \]
 
 ----
 
@@ -8047,7 +8047,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Anfechtung kann mittels Einrede ausgeübt werden, bevor die Forderung des Gläubigers vollstreckbar geworden ist\. Ebenso kann die Anfechtung im Verfahren zur Verteilung eines im Wege der Zwangsvollstreckung erzielten Erlöses auch stattfinden, bevor die Forderung des anfechtenden Gläubigers vollstreckbar geworden ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-445-eo--anfechtung-vor-vollstreckbarkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=445) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_548_TextContainer_548) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-445-eo--anfechtung-vor-vollstreckbarkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=445) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_548_TextContainer_548) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-445-eo--anfechtung-vor-vollstreckbarkeit)) \]
 
 ----
 
@@ -8055,7 +8055,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > In der Klage ist anzugeben, in welchem Umfang und in welcher Weise der Beklagte zum Zweck der Befriedigung des Gläubigers etwas leisten oder dulden soll\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-446-eo--anfechtungsklage) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=446) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_549_TextContainer_549) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-446-eo--anfechtungsklage) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=446) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_549_TextContainer_549) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-446-eo--anfechtungsklage)) \]
 
 ----
 
@@ -8067,7 +8067,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Der gutgläubige Empfänger einer unentgeltlichen Leistung hat diese nur so weit zu erstatten, als er durch sie bereichert ist, es sei denn, dass sein Erwerb auch als entgeltlicher anfechtbar wäre\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-447-eo--inhalt-des-anfechtungsanspruchs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=447) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_550_TextContainer_550) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-447-eo--inhalt-des-anfechtungsanspruchs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=447) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_550_TextContainer_550) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-447-eo--inhalt-des-anfechtungsanspruchs)) \]
 
 ----
 
@@ -8075,7 +8075,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Haben dritte Personen an Sachen, die zurückzustellen sind, unanfechtbare Rechte erworben, so ist derjenige, während dessen Besitz die Belastung stattgefunden hat, zum Ersatz des Schadens an den Gläubiger verpflichtet, wenn sein Erwerb anfechtbar war\. § 447 Abs\. 3 ist anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-448-eo--rechte-dritter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=448) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_551_TextContainer_551) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-448-eo--rechte-dritter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=448) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_551_TextContainer_551) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-448-eo--rechte-dritter)) \]
 
 ----
 
@@ -8083,7 +8083,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Wegen Erstattung einer Gegenleistung oder wegen einer infolge der Anfechtung wieder auflebenden Forderung kann sich der Anfechtungsgegner nur an den Schuldner halten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-449-eo--ansprüche-des-anfechtungsgegners) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=449) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_552_TextContainer_552) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-449-eo--ansprüche-des-anfechtungsgegners) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=449) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_552_TextContainer_552) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-449-eo--ansprüche-des-anfechtungsgegners)) \]
 
 ----
 
@@ -8091,7 +8091,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Der Anfechtungsgegner kann sich von dem Anfechtungsanspruch dadurch befreien, dass er die dem anfechtenden Gläubiger gegen den Schuldner zustehende Forderung befriedigt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-450-eo--befreiung-des-anfechtungsgegners) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=450) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_553_TextContainer_553) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-450-eo--befreiung-des-anfechtungsgegners) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=450) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_553_TextContainer_553) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-450-eo--befreiung-des-anfechtungsgegners)) \]
 
 ----
 
@@ -8099,7 +8099,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Der Umstand, dass dieselbe Rechtshandlung von mehreren Gläubigern angefochten wird, kann in keinem Fall zur Folge haben, dass die den Anfechtungsgegner treffenden Verbindlichkeiten das durch die §§ 447 und 448 bestimmte Maß überschreiten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-451-eo--mehrfache-anfechtung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=451) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_554_TextContainer_554) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-451-eo--mehrfache-anfechtung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=451) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_554_TextContainer_554) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-451-eo--mehrfache-anfechtung)) \]
 
 ----
 
@@ -8109,7 +8109,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Eine Befriedigung oder Sicherstellung, die ein Gläubiger infolge einer Anfechtung vor der Eröffnung eines Insolvenzverfahrens erlangt hat, kann, wenn über das Vermögen des Schuldners ein Insolvenzverfahren eröffnet wird, nach den Bestimmungen der Insolvenzordnung angefochten werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-452-eo--anfechtbarkeit-bei-eröffnung-eines-insolvenzverfahrens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=452) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_555_TextContainer_555) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-452-eo--anfechtbarkeit-bei-eröffnung-eines-insolvenzverfahrens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=452) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_555_TextContainer_555) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-452-eo--anfechtbarkeit-bei-eröffnung-eines-insolvenzverfahrens)) \]
 
 ----
 
@@ -8119,7 +8119,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Diese Anmerkung bewirkt, dass das Urteil über die Anfechtungsklage auch gegen Personen wirkt, die nach der Anmerkung bücherliche Rechte erworben haben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-453-eo--anmerkung-der-anfechtungsklage) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=453) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_556_TextContainer_556) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-453-eo--anmerkung-der-anfechtungsklage) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=453) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_556_TextContainer_556) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-453-eo--anmerkung-der-anfechtungsklage)) \]
 
 ----
 
@@ -8139,7 +8139,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Ein Antrag auf Neuvollzug im Sinne des Abs\. 1 ist insbesondere jeder Antrag auf Vollzug in den Fällen des § 252d Abs\. 1 Z 2 und 3, nicht jedoch im Fall des § 249a Abs\. 1 Z 4\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-454-eo--gebührenpflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=454) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_557_TextContainer_557) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-454-eo--gebührenpflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=454) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_557_TextContainer_557) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-454-eo--gebührenpflicht)) \]
 
 ----
 
@@ -8161,7 +8161,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 > &nbsp; Wenn der betreibende Gläubiger in einem Antrag mehr als ein Exekutionsmittel zur Hereinbringung einer Geldforderung auf das bewegliche Vermögen beantragt, dann ist nur die höhere Gebühr zu entrichten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-455-eo--höhe-der-gebühr) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=455) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_558_TextContainer_558) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-455-eo--höhe-der-gebühr) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=455) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_558_TextContainer_558) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-455-eo--höhe-der-gebühr)) \]
 
 ----
 
@@ -8179,7 +8179,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Auf die Vollzugsgebühren ist das Gerichtliche Einbringungsgesetz mit Ausnahme des § 6a Abs\. 3 anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-456-eo--anwendbarkeit-anderer-vorschriften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=456) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_559_TextContainer_559) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-456-eo--anwendbarkeit-anderer-vorschriften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=456) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_559_TextContainer_559) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-456-eo--anwendbarkeit-anderer-vorschriften)) \]
 
 ----
 
@@ -8201,7 +8201,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die Vergütung steht im Rang vor der betriebenen Forderung\. Der Anspruch gegen den Bund entsteht mit Ende des Monats, der auf jenen Monat folgt, in dem der Gerichtsvollzieher über die Beendigung seiner Tätigkeit berichtete\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-457-eo--entstehen-der-vergütung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=457) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_560_TextContainer_560) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-457-eo--entstehen-der-vergütung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=457) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_560_TextContainer_560) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-457-eo--entstehen-der-vergütung)) \]
 
 ----
 
@@ -8209,7 +8209,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Für Handlungen, die zugunsten mehrerer Verfahren vorgenommen werden, gebühren die Vergütung und die Fahrtkosten für jedes Verfahren\. Für Handlungen im Rahmen eines einheitlichen Verwertungsverfahrens und bei nicht nach § 33 verbundenen Verfahren stehen die Vergütung und die Fahrtkosten jedoch nur einmal zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-458-eo--vergütung-bei-handlungen-zugunsten-mehrerer-verfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=458) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_561_TextContainer_561) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-458-eo--vergütung-bei-handlungen-zugunsten-mehrerer-verfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=458) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_561_TextContainer_561) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-458-eo--vergütung-bei-handlungen-zugunsten-mehrerer-verfahren)) \]
 
 ----
 
@@ -8229,7 +8229,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die Vergütung für die Aufnahme des Vermögensverzeichnisses gebührt zusätzlich zu sonstigen Vergütungen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-459-eo--vergütung-bei-mehreren-handlungen-in-einem-verfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=459) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_562_TextContainer_562) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-459-eo--vergütung-bei-mehreren-handlungen-in-einem-verfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=459) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_562_TextContainer_562) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-459-eo--vergütung-bei-mehreren-handlungen-in-einem-verfahren)) \]
 
 ----
 
@@ -8237,7 +8237,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Der Gerichtsvollzieher hat die Vergütung und die Fahrtkosten zurückzuzahlen, soweit ein Anspruch hierauf nicht bestanden hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-460-eo--zurückzahlung-der-vergütung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=460) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_563_TextContainer_563) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-460-eo--zurückzahlung-der-vergütung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=460) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_563_TextContainer_563) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-460-eo--zurückzahlung-der-vergütung)) \]
 
 ----
 
@@ -8245,7 +8245,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Für die Aufnahme jedes Vermögensverzeichnisses, insbesondere auch einer Kontoangabe nach § 424 Abs\. 3, beträgt die Vergütung 4 Euro\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-461-eo--vermögensverzeichnis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=461) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_564_TextContainer_564) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-461-eo--vermögensverzeichnis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=461) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_564_TextContainer_564) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-461-eo--vermögensverzeichnis)) \]
 
 ----
 
@@ -8279,7 +8279,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Hat der Gerichtsvollzieher den Betrag der gesamten hereinzubringenden Forderung erhalten, gebührt ihm zusätzlich ein einmaliger Abschlussbonus in Höhe von 2,50 Euro bei einer hereinzubringenden Gesamtforderung bis 1 000 Euro, in Höhe von 5 Euro bei einer hereinzubringenden Gesamtforderung bis 5 000 Euro, in Höhe von 10 Euro bei einer hereinzubringenden Gesamtforderung bis 100 000 Euro und in Höhe von 20 Euro bei einer hereinzubringenden Gesamtforderung über 100 000 Euro\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-462-eo--zahlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=462) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_565_TextContainer_565) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-462-eo--zahlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=462) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_565_TextContainer_565) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-462-eo--zahlung)) \]
 
 ----
 
@@ -8287,7 +8287,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Werden Gegenstände verwertet, so gebührt eine vom Verwertungserlös abhängige Vergütung\. Diese bemisst sich nach § 462\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-463-eo--verwertung-von-gegenständen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=463) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_566_TextContainer_566) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-463-eo--verwertung-von-gegenständen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=463) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_566_TextContainer_566) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-463-eo--verwertung-von-gegenständen)) \]
 
 ----
 
@@ -8295,7 +8295,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Bei der Zwangsverwaltung einer Liegenschaft beträgt die Vergütung für die Einführung eines Verwalters 25 Euro\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-464-eo--zwangsverwaltung-einer-liegenschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=464) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_567_TextContainer_567) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-464-eo--zwangsverwaltung-einer-liegenschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=464) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_567_TextContainer_567) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-464-eo--zwangsverwaltung-einer-liegenschaft)) \]
 
 ----
 
@@ -8309,7 +8309,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `3.` die Schätzung oder Besichtigung einer Liegenschaft 25 Euro\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-465-eo--zwangsversteigerung-einer-liegenschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=465) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_568_TextContainer_568) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-465-eo--zwangsversteigerung-einer-liegenschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=465) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_568_TextContainer_568) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-465-eo--zwangsversteigerung-einer-liegenschaft)) \]
 
 ----
 
@@ -8321,7 +8321,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Hat der Gerichtsvollzieher Handlungen aufgrund eines Vollzugsauftrags und nach Ablauf der Frist des § 249 Abs\. 3 gesetzt, wird aber kein Tatbestand nach Abs\. 1 und 2 verwirklicht, so beträgt die Vergütung 50 Cent\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-466-eo--fahrnisexekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=466) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_569_TextContainer_569) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-466-eo--fahrnisexekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=466) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_569_TextContainer_569) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-466-eo--fahrnisexekution)) \]
 
 ----
 
@@ -8335,7 +8335,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 > &nbsp; Im Übrigen ist § 466 sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-467-eo--exekution-auf-vermögensrechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=467) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_570_TextContainer_570) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-467-eo--exekution-auf-vermögensrechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=467) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_570_TextContainer_570) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-467-eo--exekution-auf-vermögensrechte)) \]
 
 ----
 
@@ -8343,7 +8343,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Bei der Exekution zur Herausgabe oder Leistung beweglicher Sachen beträgt die Vergütung für die Abnahme der Sachen 7,50 Euro\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-468-eo--exekution-zur-herausgabe-beweglicher-sachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=468) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_571_TextContainer_571) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-468-eo--exekution-zur-herausgabe-beweglicher-sachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=468) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_571_TextContainer_571) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-468-eo--exekution-zur-herausgabe-beweglicher-sachen)) \]
 
 ----
 
@@ -8351,7 +8351,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Bei der Räumungsexekution beträgt die Vergütung für die Räumung 30 Euro für die erste Stunde und darüber hinaus 20 Euro für jede weitere, wenn auch nur begonnene Stunde\. Wird eine begonnene Räumung nicht beendet, so beträgt die Vergütung 20 Euro für die erste Stunde und darüber hinaus 20 Euro für jede weitere volle Stunde\. Eine Räumung gilt nur dann als begonnen, wenn der betreibende Gläubiger die zur Öffnung der Räumlichkeiten und zur Wegschaffung der zu entfernenden beweglichen Sachen erforderlichen Arbeitskräfte und Beförderungsmittel bereitgestellt hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-469-eo--räumungsexekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=469) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_572_TextContainer_572) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-469-eo--räumungsexekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=469) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_572_TextContainer_572) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-469-eo--räumungsexekution)) \]
 
 ----
 
@@ -8363,7 +8363,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `2.` Ermittlungen 7,50 Euro\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-470-eo--insolvenzverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=470) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_573_TextContainer_573) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-470-eo--insolvenzverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=470) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_573_TextContainer_573) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-470-eo--insolvenzverfahren)) \]
 
 ----
 
@@ -8371,7 +8371,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Für die pfandweise Beschreibung nach § 1101 ABGB beträgt die Vergütung 7,50 Euro\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-471-eo--pfandweise-beschreibung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=471) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_574_TextContainer_574) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-471-eo--pfandweise-beschreibung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=471) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_574_TextContainer_574) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-471-eo--pfandweise-beschreibung)) \]
 
 ----
 
@@ -8385,7 +8385,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `3.` die Vorbesprechung der Übergabe 80 Euro\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-472-eo--verhaftung-und-vorführung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=472) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_575_TextContainer_575) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-472-eo--verhaftung-und-vorführung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=472) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_575_TextContainer_575) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-472-eo--verhaftung-und-vorführung)) \]
 
 ----
 
@@ -8393,7 +8393,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Für die Zustellung von Schriftstücken und deren Anschlag im Haus beträgt die Vergütung 2 Euro, für jeden Anschlag an einem weiteren Anbringungsort 1 Euro\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-473-eo--zustellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=473) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_576_TextContainer_576) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-473-eo--zustellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=473) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_576_TextContainer_576) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-473-eo--zustellung)) \]
 
 ----
 
@@ -8417,7 +8417,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Bei Benützung eines unentgeltlich beigestellten Kraftfahrzeugs sind keine Fahrtkosten zu erstatten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-474-eo--höhe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=474) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_577_TextContainer_577) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-474-eo--höhe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=474) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_577_TextContainer_577) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-474-eo--höhe)) \]
 
 ----
 
@@ -8437,7 +8437,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Der Vollzugsgebietsplan gewährt dem Gerichtsvollzieher kein Recht auf Betrauung mit einem Vollzugsgebiet und den Parteien kein Recht auf Einschreiten eines bestimmten Gerichtsvollziehers\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-475-eo--vollzugsgebietsplan) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=475) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_578_TextContainer_578) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-475-eo--vollzugsgebietsplan) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=475) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_578_TextContainer_578) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-475-eo--vollzugsgebietsplan)) \]
 
 ----
 
@@ -8447,7 +8447,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Jeder Gerichtsvollzieher ist berechtigt, während der Amtsstunden in den Entwurf des Vollzugsgebietsplans und dessen Teile Einsicht zu nehmen und innerhalb der Auflagefrist zum gesamten Entwurf seines Oberlandesgerichtssprengels schriftlich Stellung zu nehmen\. Auf diese Möglichkeit ist im Entwurf hinzuweisen\. Rechtzeitig abgegebene Stellungnahmen sind bei der Erstellung des Vollzugsgebietsplans in Erwägung zu ziehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-476-eo--entwurf-des-vollzugsgebietsplans) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=476) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_579_TextContainer_579) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-476-eo--entwurf-des-vollzugsgebietsplans) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=476) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_579_TextContainer_579) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-476-eo--entwurf-des-vollzugsgebietsplans)) \]
 
 ----
 
@@ -8455,7 +8455,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Der Vollzugsgebietsplan oder dessen Teile sind beim Oberlandesgericht zur Einsicht durch Gerichtsbedienstete während der Amtsstunden aufzulegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-477-eo--auflage-des-vollzugsgebietsplans) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=477) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_580_TextContainer_580) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-477-eo--auflage-des-vollzugsgebietsplans) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=477) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_580_TextContainer_580) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-477-eo--auflage-des-vollzugsgebietsplans)) \]
 
 ----
 
@@ -8463,7 +8463,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Werden Vollzugsgebiete nicht bloß geringfügig geändert, so sind §§ 475 bis 477 sinngemäß anzuwenden\. Stellungnahmen können in diesem Fall nur zu den Änderungen abgegeben werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-478-eo--änderung-des-vollzugsgebietsplans) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=478) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_581_TextContainer_581) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-478-eo--änderung-des-vollzugsgebietsplans) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=478) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_581_TextContainer_581) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-478-eo--änderung-des-vollzugsgebietsplans)) \]
 
 ----
 
@@ -8471,7 +8471,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Der Präsident des Oberlandesgerichts hat den Vollzugsgebietsplan periodisch, jedenfalls alle zwei Jahre, zu überprüfen sowie notwendige und zweckmäßige Änderungen und Neuzuordnungen vorzunehmen\. §§ 475 bis 477 sind sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-479-eo--überprüfung-des-vollzugsgebietsplans) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=479) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_582_TextContainer_582) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-479-eo--überprüfung-des-vollzugsgebietsplans) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=479) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_582_TextContainer_582) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-479-eo--überprüfung-des-vollzugsgebietsplans)) \]
 
 ----
 
@@ -8491,7 +8491,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Der Fahrtkostenersatz gilt als Reisekostenvergütung und als Nächtigungsgebühr nach Abschnitt II der Reisegebührenvorschrift 1955\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-480-eo--zusammensetzung-der-vergütung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=480) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_583_TextContainer_583) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-480-eo--zusammensetzung-der-vergütung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=480) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_583_TextContainer_583) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-480-eo--zusammensetzung-der-vergütung)) \]
 
 ----
 
@@ -8501,7 +8501,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Bei einer vorübergehenden Betrauung mit einem weiteren Vollzugsgebiet gebühren dem Gerichtsvollzieher Reisegebühren für die Anreise und Abreise von seinem Dienstort zu dem Bezirksgericht, in dessen Sprengel der überwiegende Teil dieses Vollzugsgebiets liegt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-481-eo--reisegebühren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=481) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_584_TextContainer_584) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-481-eo--reisegebühren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=481) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_584_TextContainer_584) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-481-eo--reisegebühren)) \]
 
 ----
 
@@ -8509,7 +8509,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Es obliegt dem Präsidenten des Oberlandesgerichts, die Gerichtsvollzieher mit den Vollzugsgebieten zu betrauen\. Hiebei ist auf die persönliche Eignung der Gerichtsvollzieher Bedacht zu nehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-482-eo--vollzugsgebietsbetrauung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=482) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_585_TextContainer_585) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-482-eo--vollzugsgebietsbetrauung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=482) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_585_TextContainer_585) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-482-eo--vollzugsgebietsbetrauung)) \]
 
 ----
 
@@ -8517,7 +8517,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Bestimmungen dieses Teils gelten auch für sonstige Bedienstete der Gerichte, die die im zweiten Abschnitt genannten Amtshandlungen außerhalb des Gerichts vornehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-483-eo--sonstige-bedienstete) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=483) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_586_TextContainer_586) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-483-eo--sonstige-bedienstete) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=483) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_586_TextContainer_586) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-483-eo--sonstige-bedienstete)) \]
 
 ----
 
@@ -8525,7 +8525,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Mit der Vollziehung dieses Bundesgesetzes ist die Bundesministerin für Justiz betraut\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-483a-eo--vollziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=483a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_587_TextContainer_587) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-483a-eo--vollziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=483a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_587_TextContainer_587) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.017.md#-483a-eo--vollziehung)) \]
 
 ----
 
@@ -8539,7 +8539,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` § 382c Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 146/1999 tritt mit 1\. Jänner 2000 in Kraft\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-484-eo--inkrafttreten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=484) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_588_TextContainer_588) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-484-eo--inkrafttreten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=484) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_588_TextContainer_588) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.018.md#-484-eo--inkrafttreten)) \]
 
 ----
 
@@ -8555,7 +8555,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `2.` § 1 Z 12 in der Fassung der Z 3 mit 1\. Jänner 2014\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-485-eo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=485) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_589_TextContainer_589) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-485-eo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=485) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_589_TextContainer_589) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.018.md#-485-eo)) \]
 
 ----
 
@@ -8589,7 +8589,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(14)` Erfordert eine große Zahl von Überstellungen, Aufsperren verschlossener Schlösser und Verwahrungen die Heranziehung eines ständigen Frachtführers, Schlossers bzw\. Verwahrers, so hat der Präsident des Oberlandesgerichts die nötigen Vorkehrungen zu treffen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-486-eo--in-kraft-treten-und-übergangsbestimmungen-zur-eo-novelle-2003) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=486) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_590_TextContainer_590) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-486-eo--in-kraft-treten-und-übergangsbestimmungen-zur-eo-novelle-2003) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=486) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_590_TextContainer_590) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.018.md#-486-eo--in-kraft-treten-und-übergangsbestimmungen-zur-eo-novelle-2003)) \]
 
 ----
 
@@ -8597,7 +8597,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > § 403 tritt am 1\. Jänner 2005 in Kraft; er ist auf Verstöße anzuwenden, die nach dem 31\. Dezember 2004 vorgenommen wurden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-487-eo--in-kraft-treten-und-übergangsbestimmung-zur-zvn-2004) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=487) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_591_TextContainer_591) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-487-eo--in-kraft-treten-und-übergangsbestimmung-zur-zvn-2004) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=487) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_591_TextContainer_591) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.018.md#-487-eo--in-kraft-treten-und-übergangsbestimmung-zur-zvn-2004)) \]
 
 ----
 
@@ -8625,7 +8625,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(11)` § 399 Abs\. 2 in der Fassung der EO\-Novelle 2005 ist anzuwenden, wenn der Antrag auf Einstellung oder Aufhebung der einstweiligen Verfügung nach dem 31\. August 2005 bei Gericht einlangt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-488-eo--in-kraft-treten-und-übergangsbestimmungen-zur-eo-novelle-2005) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=488) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_592_TextContainer_592) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-488-eo--in-kraft-treten-und-übergangsbestimmungen-zur-eo-novelle-2005) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=488) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_592_TextContainer_592) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.018.md#-488-eo--in-kraft-treten-und-übergangsbestimmungen-zur-eo-novelle-2005)) \]
 
 ----
 
@@ -8635,7 +8635,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` §§ 382g, 390 Abs\. 4 und 393 Abs\. 2 in der Fassung des Bundesgesetzes, BGBl\. I Nr\. 56/2006, sind anzuwenden, wenn der Antrag auf Erlassung der einstweiligen Verfügung nach dem 30\. Juni 2006 bei Gericht einlangt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-489-eo--in-kraft-treten-und-übergangsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=489) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_593_TextContainer_593) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-489-eo--in-kraft-treten-und-übergangsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=489) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_593_TextContainer_593) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.018.md#-489-eo--in-kraft-treten-und-übergangsbestimmungen)) \]
 
 ----
 
@@ -8659,7 +8659,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(9)` Erfordert eine große Zahl von Versteigerungen im Internet die Heranziehung eines oder mehrerer ständiger Versteigerer, so hat der Präsident des Oberlandesgerichts die nötigen Vorkehrungen zu treffen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-490-eo--inkrafttreten-und-übergangsbestimmungen-zur-eo-novelle-2008) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=490) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_594_TextContainer_594) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-490-eo--inkrafttreten-und-übergangsbestimmungen-zur-eo-novelle-2008) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=490) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_594_TextContainer_594) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.018.md#-490-eo--inkrafttreten-und-übergangsbestimmungen-zur-eo-novelle-2008)) \]
 
 ----
 
@@ -8667,7 +8667,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > § 290a Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 82/2008 tritt mit 1\. Juli 2008 in Kraft\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-491-eo--inkrafttreten-und-übergangsbestimmungen-zur-novelle-bgbl-i-nr-822008) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=491) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_595_TextContainer_595) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-491-eo--inkrafttreten-und-übergangsbestimmungen-zur-novelle-bgbl-i-nr-822008) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=491) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_595_TextContainer_595) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.018.md#-491-eo--inkrafttreten-und-übergangsbestimmungen-zur-novelle-bgbl-i-nr-822008)) \]
 
 ----
 
@@ -8677,7 +8677,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Aufhebung des § 73a tritt mit 1\. April 2009 in Kraft\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-492-eo--inkrafttreten-und-übergangsbestimmungen-zur-zvn-2009) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=492) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_596_TextContainer_596) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-492-eo--inkrafttreten-und-übergangsbestimmungen-zur-zvn-2009) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=492) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_596_TextContainer_596) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.018.md#-492-eo--inkrafttreten-und-übergangsbestimmungen-zur-zvn-2009)) \]
 
 ----
 
@@ -8685,7 +8685,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > §§ 382b, 382e, 382g Abs\. 2 und 3, § 387 Abs\. 3 und 4, § 390 Abs\. 4 und § 393 Abs\. 2 in der Fassung des 2\. Gewaltschutzgesetzes, BGBl\. I Nr\. 40/2009, treten mit 1\. Juni 2009 in Kraft und sind anzuwenden, wenn der Antrag auf Erlassung der einstweiligen Verfügung nach dem 31\. Mai 2009 bei Gericht einlangt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-493-eo--inkrafttreten-und-übergangsbestimmungen-zum-2-gewaltschutzgesetz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=493) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_597_TextContainer_597) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-493-eo--inkrafttreten-und-übergangsbestimmungen-zum-2-gewaltschutzgesetz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=493) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_597_TextContainer_597) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.018.md#-493-eo--inkrafttreten-und-übergangsbestimmungen-zum-2-gewaltschutzgesetz)) \]
 
 ----
 
@@ -8693,7 +8693,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > § 382a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 75/2009 tritt mit 1\. Jänner 2010 in Kraft und ist in der Fassung dieses Bundesgesetzes anzuwenden, wenn der Antrag auf Gewährung vorläufigen Unterhalts nach dem 31\. Dezember 2009 bei Gericht eingebracht wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-494-eo--inkrafttreten-und-übergangsbestimmungen-zum-familienrechts-änderungsgesetz-2009) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=494) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_598_TextContainer_598) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-494-eo--inkrafttreten-und-übergangsbestimmungen-zum-familienrechts-änderungsgesetz-2009) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=494) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_598_TextContainer_598) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.018.md#-494-eo--inkrafttreten-und-übergangsbestimmungen-zum-familienrechts-änderungsgesetz-2009)) \]
 
 ----
 
@@ -8701,7 +8701,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > § 78 in der Fassung des Budgetbegleitgesetzes 2011, BGBl\. I Nr\. 111/2010, tritt mit 1\. Mai 2011 in Kraft\. § 80 Z 2 tritt mit 1\. Jänner 2011 in Kraft und ist in dieser Fassung anzuwenden, wenn die Ladung oder Verfügung nach dem 30\. Juni 2009 zugestellt worden ist\. § 249 Abs\. 3 in der Fassung des Budgetbegleitgesetzes 2011, BGBl\. I Nr\. 111/2010, tritt mit 1\. Juli 2011 in Kraft und ist in dieser Fassung anzuwenden, wenn der Exekutionsantrag nach dem 30\. Juni 2011 bei Gericht einlangt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-495-eo--inkrafttreten-und-übergangsbestimmung-zur-novelle-bgbl-i-nr-1112010) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=495) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_599_TextContainer_599) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-495-eo--inkrafttreten-und-übergangsbestimmung-zur-novelle-bgbl-i-nr-1112010) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=495) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_599_TextContainer_599) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.018.md#-495-eo--inkrafttreten-und-übergangsbestimmung-zur-novelle-bgbl-i-nr-1112010)) \]
 
 ----
 
@@ -8709,7 +8709,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > § 290 Abs\. 1 Z 10 und § 290a Abs\. 1 Z 6 in der Fassung BGBl\. I Nr\. 139/2011 treten mit 1\. Jänner 2012 in Kraft\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-496-eo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=496) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_600_TextContainer_600) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-496-eo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=496) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_600_TextContainer_600) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.018.md#-496-eo)) \]
 
 ----
 
@@ -8741,7 +8741,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(13)` § 397 in der Fassung der EO\-Nov\. 2014, BGBl\. I Nr\. 69/2014, ist anzuwenden, wenn die einstweilige Verfügung nach dem 30\. September 2014 bewilligt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-497-eo--inkrafttreten-und-übergangsbestimmungen-zur-eo-novelle-2014) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=497) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_601_TextContainer_601) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-497-eo--inkrafttreten-und-übergangsbestimmungen-zur-eo-novelle-2014) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=497) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_601_TextContainer_601) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.018.md#-497-eo--inkrafttreten-und-übergangsbestimmungen-zur-eo-novelle-2014)) \]
 
 ----
 
@@ -8767,7 +8767,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(10)` § 411 in der Fassung der EO\-Nov\. 2016, BGBl\. I Nr\. 100/2016, ist anzuwenden, wenn der ausländische Exekutionstitel nach dem 1\. Jänner 2017 für vollstreckbar erklärt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-498-eo--inkrafttreten-und-übergangsbestimmungen-zur-eo-novelle-2016) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=498) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_602_TextContainer_602) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-498-eo--inkrafttreten-und-übergangsbestimmungen-zur-eo-novelle-2016) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=498) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_602_TextContainer_602) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.018.md#-498-eo--inkrafttreten-und-übergangsbestimmungen-zur-eo-novelle-2016)) \]
 
 ----
 
@@ -8777,7 +8777,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` §§ 427 bis 431 in der Fassung des IRÄG 2017, BGBl\. I Nr\. 122/2017, treten mit 1\. Jänner 2019 in Kraft; § 431 ist auf Abfragen anzuwenden, die nach dem 31\. Dezember 2018 durchgeführt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-499-eo--inkrafttreten-und-übergangsbestimmungen-zum-iräg-2017) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=499) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_603_TextContainer_603) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-499-eo--inkrafttreten-und-übergangsbestimmungen-zum-iräg-2017) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=499) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_603_TextContainer_603) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.018.md#-499-eo--inkrafttreten-und-übergangsbestimmungen-zum-iräg-2017)) \]
 
 ----
 
@@ -8785,7 +8785,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > § 41a, § 427 Abs\. 1, § 428 Abs\. 3 und 4, § 429 Abs\. 2 und § 430 Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 38/2019 treten mit 1\. Juni 2019 in Kraft\. § 107a Abs\. 2 tritt mit dem der Kundmachung folgenden Tag in Kraft\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-500-eo--inkrafttreten-des-zzräg-2019) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=500) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_604_TextContainer_604) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-500-eo--inkrafttreten-des-zzräg-2019) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=500) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_604_TextContainer_604) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.018.md#-500-eo--inkrafttreten-des-zzräg-2019)) \]
 
 ----
 
@@ -8793,7 +8793,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > § 382b Abs\. 2, § 382c Abs\. 1, 3 und 4, § 382d Abs\. 2, 4 und 5, § 382e Abs\. 1 bis 3, § 382g Abs\. 1 bis 3, § 391 Abs\. 2, § 395 Abs\. 3, §§ 399 und 399c in der Fassung des Gewaltschutzgesetzes 2019, BGBl\. I Nr\. 105/2019, treten mit 01\.01\.2020 in Kraft und sind anzuwenden, wenn der Antrag auf Erlassung oder – im Fall des § 399c – auf Anpassung der einstweiligen Verfügung nach dem 01\.01\.2020 bei Gericht einlangt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-501-eo--inkrafttreten-und-übergangsbestimmungen-zum-gewaltschutzgesetz-2019) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=501) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_605_TextContainer_605) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-501-eo--inkrafttreten-und-übergangsbestimmungen-zum-gewaltschutzgesetz-2019) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=501) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_605_TextContainer_605) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.018.md#-501-eo--inkrafttreten-und-übergangsbestimmungen-zum-gewaltschutzgesetz-2019)) \]
 
 ----
 
@@ -8817,7 +8817,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(9)` Die Bestimmungen des Ersten Abschnitts des Sechsten Teils \(Vollzugsgebühr und Vergütungen der Gerichtsvollzieher\) sind anzuwenden, wenn der Exekutionsantrag oder der Antrag auf Neuvollzug nach dem 30\. Juni 2021 bei Gericht einlangt; dessen Zweiter und Dritter Abschnitt sind anzuwenden, wenn die Amtshandlung nach dem 30\. Juni 2021 vorgenommen wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-502-eo--inkrafttreten-und-übergangsbestimmungen-zur-grex) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=502) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_606_TextContainer_606) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-502-eo--inkrafttreten-und-übergangsbestimmungen-zur-grex) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=502) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_606_TextContainer_606) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.018.md#-502-eo--inkrafttreten-und-übergangsbestimmungen-zur-grex)) \]
 
 ----
 
@@ -8825,7 +8825,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > § 382f in der Fassung des Bundesgesetzes BGBl\. I Nr\. 202/2021 tritt mit 1\. Juli 2022 in Kraft\. Ein Auftrag zur Kontaktierung einer Beratungsstelle für Gewaltprävention und zur Teilnahme an einer solchen Beratung kann auch in Verfahren über einstweilige Verfügungen erteilt werden, die vor dem Inkrafttreten eingeleitet worden sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-503-eo--inkrafttreten-und-übergangsbestimmung-zur-novelle-bgbl-i-nr-2022021) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=503) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_607_TextContainer_607) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-503-eo--inkrafttreten-und-übergangsbestimmung-zur-novelle-bgbl-i-nr-2022021) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=503) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_607_TextContainer_607) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.018.md#-503-eo--inkrafttreten-und-übergangsbestimmung-zur-novelle-bgbl-i-nr-2022021)) \]
 
 ----
 
@@ -8833,7 +8833,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > § 59a und § 389 Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 77/2023 treten mit 14\. Juli 2023 in Kraft\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-504-eo--inkrafttretens--und-übergangsbestimmung-zum-bgbl-i-nr-772023) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=504) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_608_TextContainer_608) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-504-eo--inkrafttretens--und-übergangsbestimmung-zum-bgbl-i-nr-772023) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=504) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_608_TextContainer_608) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.018.md#-504-eo--inkrafttretens--und-übergangsbestimmung-zum-bgbl-i-nr-772023)) \]
 
 ----
 
@@ -8847,7 +8847,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` § 457 Abs\. 3 letzter Satz tritt mit Ablauf des 31\. Dezember 2023 außer Kraft\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-505-eo--inkrafttreten-und-übergangsbestimmungen-zur-gerichtsvollzieher-vergütungs-novelle-2023) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=505) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_609_TextContainer_609) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-505-eo--inkrafttreten-und-übergangsbestimmungen-zur-gerichtsvollzieher-vergütungs-novelle-2023) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=505) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_609_TextContainer_609) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.018.md#-505-eo--inkrafttreten-und-übergangsbestimmungen-zur-gerichtsvollzieher-vergütungs-novelle-2023)) \]
 
 ----
 

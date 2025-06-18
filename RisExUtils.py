@@ -782,12 +782,13 @@ class RisEnDocMarkdownEngine:
                     gnr = None
                     if self.normdata['docurl'].startswith(pf := "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer="):
                         gnr = self.normdata['docurl'].removeprefix(pf)
+                    aipartidx = int(self.idxout[p.citename].ref4ai.split(":", 1)[0].split(".")[-1])
                     navItems = [
                         f"[🔗 Permalink]({flags.permauri}/{self.normkey}.md#{p.anchor})",
                         f"[📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?" +
                                 f"Abfrage=Bundesnormen&Gesetzesnummer={gnr}&Paragraf={p.name.split()[-1]})",
                         f"[📖 RIS-Gesamtansicht]({self.normdata['docurl']}#{self.srcAnchors[p.name]})",
-                        #f"[🤖 KI-freundliche Fassung](#blabla)",
+                        f"[🤖 KI-freundliche Fassung]({flags.permauri}/{self.normkey}.{aipartidx:03}.md#{p.anchor}))",
                     ]
                     self.largeBreak()
                     self.push(f"\\[ {' | '.join(navItems)} \\]")
