@@ -63,7 +63,7 @@ Example Session:
 
 ````
 >>> from RisEnQuery import *
->>> p(toc("Begr", "BG.StGB"))
+>>> p(q("Begr", "BG.StGB"))
 ## Achter Abschnitt # Begriffsbestimmungen | BG.StGB.004:11-12
 ### § 74 StGB # Andere Begriffsbestimmungen | BG.StGB.004:58-108
 ### § 255 StGB # Begriff des Staatsgeheimnisses | BG.StGB.010:149-153
@@ -80,16 +80,16 @@ Example Session:
 ## Besonderer Teil # Erster Abschnitt # Strafbare Handlungen gegen Leib und Leben
 
 >>> sel("BG.StGB", "BG.StPO")
->>> toc("+Eltern")[:3]
+>>> q("+Eltern")[:3]
 [('### § 72 StGB # Angehörige', 'BG.StGB.004:45-52'), ('### § 240 StPO', 'BG.StPO.015:18-22')]
 
 >>> sel("BG.ABGB")
->>> toc("+Eltern")[:3]
+>>> q("+Eltern")[:3]
 [('## Drittes Hauptstück # Rechte zwischen Eltern und Kindern # Erster Abschnitt # Allgemeine Bestimmungen', 'BG.ABGB.002:11-12'), ('### § 137 ABGB # Allgemeine Grundsätze', 'BG.ABGB.002:13-20'), ('### § 138 ABGB # Kindeswohl', 'BG.ABGB.002:21-49')]
 
 >>> sel() # Reset Selection
 
->>> with sel("BG.StPO", "BG.StGB"): p(toc("+Anzeig")) # Change selection temporarily
+>>> with sel("BG.StPO", "BG.StGB"): p(q("+Anzeig")) # Change selection temporarily
 ### § 25 StPO # Örtliche Zuständigkeit | BG.StPO.001:278-302
 ### § 25a StPO # Abtretung | BG.StPO.001:303-310
 ### § 44 StPO # Anzeige der Ausgeschlossenheit und Antrag auf Ablehnung | BG.StPO.003:33-43
@@ -114,13 +114,13 @@ BG.StGB.toc.md
 BG.StPO.toc.md
 
 
->>> p(get("§ 71 StGB"))
+>>> p(g("§ 71 StGB"))
 ### § 71 StGB # Schädliche Neigung | BG.StGB.004:40-44
 
 `§ 71 StGB.`
 Auf der gleichen schädlichen Neigung beruhen mit Strafe bedrohte Handlungen, wenn sie gegen dasselbe Rechtsgut gerichtet oder auf gleichartige verwerfliche Beweggründe oder auf den gleichen Charaktermangel zurückzuführen sind.
 
->>> p(get(" § 74 StGB ").split("\n")[9:18])
+>>> p(g(" § 74 StGB ").split("\n")[9:18])
 `§ 74 (1) Z 4 StGB.`
 Beamter: jeder, der bestellt ist, im Namen des Bundes, eines Landes, eines Gemeindeverbandes, einer Gemeinde oder einer anderen Person des öffentlichen Rechtes, ausgenommen einer Kirche oder Religionsgesellschaft, als deren Organ allein oder gemeinsam mit einem anderen Rechtshandlungen vorzunehmen, oder sonst mit Aufgaben der Bundes-, Landes- oder Gemeindeverwaltung betraut ist; als Beamter gilt auch, wer nach einem anderen Bundesgesetz oder auf Grund einer zwischenstaatlichen Vereinbarung bei einem Einsatz im Inland einem österreichischen Beamten gleichgestellt ist;
 `§ 74 (1) Z 4a StGB.`
@@ -131,7 +131,7 @@ für den Bund, ein Land, einen Gemeindeverband, eine Gemeinde, für eine andere 
 `§ 74 (1) Z 4a lit. c StGB.`
 sonst im Namen der in lit. b genannten Körperschaften befugt ist, in Vollziehung der Gesetze Amtsgeschäfte vorzunehmen, oder
 
->>> p(untag(get(" § 74 StGB ").split("\n")[9:18]))
+>>> p(untag(g(" § 74 StGB ").split("\n")[9:18]))
 `  4.`
 Beamter: jeder, der bestellt ist, im Namen des Bundes, eines Landes, eines Gemeindeverbandes, einer Gemeinde oder einer anderen Person des öffentlichen Rechtes, ausgenommen einer Kirche oder Religionsgesellschaft, als deren Organ allein oder gemeinsam mit einem anderen Rechtshandlungen vorzunehmen, oder sonst mit Aufgaben der Bundes-, Landes- oder Gemeindeverwaltung betraut ist; als Beamter gilt auch, wer nach einem anderen Bundesgesetz oder auf Grund einer zwischenstaatlichen Vereinbarung bei einem Einsatz im Inland einem österreichischen Beamten gleichgestellt ist;
 `  4a.`
@@ -142,14 +142,14 @@ für den Bund, ein Land, einen Gemeindeverband, eine Gemeinde, für eine andere 
 `    c)`
 sonst im Namen der in lit. b genannten Körperschaften befugt ist, in Vollziehung der Gesetze Amtsgeschäfte vorzunehmen, oder
 
->>> p(toc(s("+verfälscht", "BG.StGB") & s("+Urkund", "BG.StGB"))) # Liste der StGB Paragraphen mit "verfälscht" und "Urkund" im Text
+>>> p(q(s("+verfälscht", "BG.StGB") & s("+Urkund", "BG.StGB"))) # Liste der StGB Paragraphen mit "verfälscht" und "Urkund" im Text
 ### § 147 StGB # Schwerer Betrug | BG.StGB.006:496-518
 ### § 223 StGB # Urkundenfälschung | BG.StGB.009:33-40
 ### § 224a StGB # Annahme, Weitergabe oder Besitz falscher oder verfälschter besonders geschützter Urkunden | BG.StGB.009:46-50
 ### § 226 StGB # Tätige Reue | BG.StGB.009:67-74
 ### § 264 StGB # Verbreitung falscher Nachrichten bei einer Wahl oder Volksabstimmung | BG.StGB.010:218-225
 
->>> p(grep("Urkund", get("", "BG.StGB"))) # Volltextsuche nach "Urkund" im StGB
+>>> p(grep("Urkund", g("", "BG.StGB"))) # Volltextsuche nach "Urkund" im StGB
 
 ## Achter Abschnitt # Begriffsbestimmungen | BG.StGB.004:11-12
 
@@ -178,26 +178,26 @@ Die Wichtigsten Funktionen:
   → Gibt diesen Einführungstext aus.
 
 - sel(*p):
-  → Selektiert die Liste der Normen die bei ls(), toc(), get(), und s() verwendet werden
+  → Selektiert die Liste der Normen die bei ls(), q(), g(), und s() verwendet werden
      wenn normPat den Wert None hat. (Reset mit sel() ohne argumente.)
 
 - ls(normPat=None):
   → Gibt eine Liste aller (matchender) Normen im Archiv zurück.
 
-- toc(searchPat, normPat=None):
+- q(searchPat, normPat=None):
   → Durchsucht .index.json-Dateien nach Überschriften, die dem Muster entsprechen.
      Gibt eine liste der gefundenden Überschriften zurück.  WICHTIG: Die Dateinamen
      beginnen mit dem Typ des Gesetzes. Also zB "BG.StGB", nicht nur "StGB".
+     ("q" is for query)
 
 - s(searchPat, normPat=None):
-  → Ähnlich toc(), aber gibt ein set von fetch keys zurück.
-
-- q(searchPat, normPat=None):
-  → Durchsucht .index.json-Dateien nach Überschriften, die dem Muster entsprechen.
-     Zitiert die gefundenden Paragraphen vollständig.
+  → Ähnlich q(), aber gibt ein set von fetch keys zurück.
+    ("s" is for set-search)
 
 - g(searchPat, normPat=None):
-  → Ein Alias für p(q(...))
+  → Durchsucht .index.json-Dateien nach Überschriften, die dem Muster entsprechen.
+     Zitiert die gefundenden Paragraphen vollständig.
+     ("g" is for get)
 
 - grep(grepPat, data):
   → Durchsucht die string(s) im zweiten Argument nach dem pattern.
@@ -227,7 +227,7 @@ können ähnlich, aber unterschiedlich zwischen Ländern oder Paragrafen sein.
 Nur durch die Datenbank kann sichergestellt werden, dass nach österreichischem
 Recht korrekt zitiert wird.
 
-Merksatz: "Immer zuerst toc() oder gleich q() oder p() – nie raten!"
+Merksatz: "Immer zuerst q() oder gleich q() oder p() – nie raten!"
 """.split("\n")
 
 import json, os, sys, re, fnmatch
@@ -448,8 +448,8 @@ def sel(*p):
     """
         Select a list of norms.
 
-        This list of files is used whenever the normPat argument to toc(),
-        get(), or s() is left None.
+        This list of files is used whenever the normPat argument to q(),
+        g(), or s() is left None.
 
         Running sel() without arguments resets the list of selected files.
 
@@ -477,7 +477,7 @@ def sel(*p):
     _rex_selected = tuple(sorted(newRexSelected))
     return _rex_sel_context(oldRexSelected, _rex_selected)
 
-def toc(searchPat: str, normPat: str = None):
+def q(searchPat: str, normPat: str = None):
     """
         Search for searchPat in the tables-of-contents .index.json
         files selected by normPat, or all toc files when normPat
@@ -527,29 +527,23 @@ def toc(searchPat: str, normPat: str = None):
 
 def s(searchPat: str, normPat: str = None):
     """
-        Like toc() but return a set instead of a list.
+        Like q() but return a set instead of a list.
     """
-    return set(toc(searchPat, normPat))
+    return set(q(searchPat, normPat))
 
-def get(searchPat: str, normPat: str = None):
+def g(searchPat: str, normPat: str = None):
     """
-        Like toc() but return the full Markdown
+        Like q() but return the full Markdown
         text for all matching paragraphs.
     """
     out = list()
     first = True
-    for key in toc(searchPat, normPat):
+    for key in q(searchPat, normPat):
         if not first:
             out.append(f"\n----\n# {key}\n")
         out.append(fetch(key[3]))
         first = False
     return "\n".join(out)
-
-def g(searchPat: str, normPat: str = None):
-    """
-        An alias for p(get(...))
-    """
-    return p(get(searchPat, normPat))
 
 def grep(grepPat: str, s: str):
     """
@@ -773,6 +767,54 @@ def pr(*args, indent_head="", indent_body="", indent_tail="", depth=1):
             s = indent_head + s.replace("\n", "\n"+indent_body)
             print(s)
 
+# ----------------------------------------------------------------------------------------------------
+
+def shell():
+    from ptpython.repl import embed
+    from prompt_toolkit.validation import Validator, ValidationError
+    from prompt_toolkit.document import Document
+
+    def handle_paragraph_query(line):
+        print()
+        print(f">>> custom handler: resolving {line}")
+        # Replace with your actual query logic
+
+    def configure(repl):
+        original_handler = repl.default_buffer.accept_handler
+
+        def custom_handler(buf):
+            text = buf.text.strip()
+            if text.startswith("§"):
+                if len(q(text)) > 5:
+                    buf.document = Document(f"p(q('{text}'))")
+                else:
+                    buf.document = Document(f"v(g('{text}'))")
+                return original_handler(buf)
+            elif text.startswith("§"):
+                handle_paragraph_query(text)
+                buf.document = Document("")  # Clear the buffer
+                return  # Prevent evaluation
+            else:
+                return original_handler(buf)
+
+        # Disable validation for custom input lines
+        class CustomValidator(Validator):
+            def validate(self, document):
+                if document.text.strip().startswith("§"):
+                    # Don't validate (i.e., don't error)
+                    return
+                else:
+                    # Let ptpython validate normal input
+                    if repl._validator:
+                        repl._validator.validate(document)
+
+        repl.default_buffer.accept_handler = custom_handler
+        repl.default_buffer.validator = CustomValidator()
+
+    embed(globals=globals(), locals=locals(), configure=configure)
+
+# ----------------------------------------------------------------------------------------------------
+
 if "RisEnQuery_Do_Print_Welcome_Message" in os.environ:
     if os.environ["RisEnQuery_Do_Print_Welcome_Message"]:
         welcome()
@@ -788,14 +830,16 @@ if __name__ == "__main__" and len(sys.argv) > 1 and _rex_repcnt == 0:
     elif sys.argv[1] == "pat":
         p(pat(*sys.argv[2:]).pattern)
     elif sys.argv[1] == "toc":
-        p(toc(*sys.argv[2:]))
+        p(q(*sys.argv[2:]))
     elif sys.argv[1] == "grep":
-        p(grep(sys.argv[2], get(*sys.argv[3:])))
+        p(grep(sys.argv[2], g(*sys.argv[3:])))
     elif sys.argv[1] == "untag":
-        p(untag(get(*sys.argv[2:])))
+        p(untag(g(*sys.argv[2:])))
     elif sys.argv[1] in ("p", "g"):
-        p(get(*sys.argv[2:]))
+        p(g(*sys.argv[2:]))
     elif sys.argv[1] == "v":
-        v(get(*sys.argv[2:]))
+        v(g(*sys.argv[2:]))
+    elif sys.argv[1] == "shell":
+        shell()
     else:
         assert False
