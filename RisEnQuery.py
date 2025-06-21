@@ -541,7 +541,7 @@ def S(searchPat: str, normPat: str = None):
 
         Like Q() but return a set instead of a list.
     """
-    return set(q(searchPat, normPat))
+    return set(Q(searchPat, normPat))
 
 def G(searchPat: str, normPat: str = None, ggMode=False):
     """
@@ -817,7 +817,7 @@ def MAGIC(pattern):
         Thus, "§ 69 JN" will show you the one paragraph, and "§ * StGB *Urkund"
     """
     if len(pattern) > 2 and pattern[0] == pattern[1]:
-        p(Q(pattern[1:]))
+        P(Q(pattern[1:]))
     else:
         V(H(pattern))
 
