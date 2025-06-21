@@ -24,7 +24,7 @@ def intro():
     """
         Print the introduction message for RisEnQuery.py.
     """
-    v(_rex_intro_message)
+    V(_rex_intro_message)
 
 _rex_intro_message = r"""
 Utility library for accessing and searching RisExFiles.zip.
@@ -80,11 +80,11 @@ Example Session:
 ## Besonderer Teil # Erster Abschnitt # Strafbare Handlungen gegen Leib und Leben
 
 >>> sel("BG.StGB", "BG.StPO")
->>> q("+Eltern")[:3]
+>>> Q("+Eltern")[:3]
 [('### § 72 StGB # Angehörige', 'BG.StGB.004:45-52'), ('### § 240 StPO', 'BG.StPO.015:18-22')]
 
 >>> sel("BG.ABGB")
->>> q("+Eltern")[:3]
+>>> Q("+Eltern")[:3]
 [('## Drittes Hauptstück # Rechte zwischen Eltern und Kindern # Erster Abschnitt # Allgemeine Bestimmungen', 'BG.ABGB.002:11-12'), ('### § 137 ABGB # Allgemeine Grundsätze', 'BG.ABGB.002:13-20'), ('### § 138 ABGB # Kindeswohl', 'BG.ABGB.002:21-49')]
 
 >>> sel() # Reset Selection
@@ -142,14 +142,14 @@ für den Bund, ein Land, einen Gemeindeverband, eine Gemeinde, für eine andere 
 `    c)`
 sonst im Namen der in lit. b genannten Körperschaften befugt ist, in Vollziehung der Gesetze Amtsgeschäfte vorzunehmen, oder
 
->>> p(q(s("+verfälscht", "BG.StGB") & s("+Urkund", "BG.StGB"))) # Liste der StGB Paragraphen mit "verfälscht" und "Urkund" im Text
+>>> p(q(s("+verfälscht", "BG.StGB") & S("+Urkund", "BG.StGB"))) # Liste der StGB Paragraphen mit "verfälscht" und "Urkund" im Text
 ### § 147 StGB # Schwerer Betrug | BG.StGB.006:496-518
 ### § 223 StGB # Urkundenfälschung | BG.StGB.009:33-40
 ### § 224a StGB # Annahme, Weitergabe oder Besitz falscher oder verfälschter besonders geschützter Urkunden | BG.StGB.009:46-50
 ### § 226 StGB # Tätige Reue | BG.StGB.009:67-74
 ### § 264 StGB # Verbreitung falscher Nachrichten bei einer Wahl oder Volksabstimmung | BG.StGB.010:218-225
 
->>> p(grep("Urkund", g("", "BG.StGB"))) # Volltextsuche nach "Urkund" im StGB
+>>> p(grep("Urkund", G("", "BG.StGB"))) # Volltextsuche nach "Urkund" im StGB
 
 ## Achter Abschnitt # Begriffsbestimmungen | BG.StGB.004:11-12
 
@@ -178,26 +178,29 @@ Die Wichtigsten Funktionen:
   → Gibt diesen Einführungstext aus.
 
 - sel(*p):
-  → Selektiert die Liste der Normen die bei ls(), q(), g(), und s() verwendet werden
+  → Selektiert die Liste der Normen die bei ls(), Q(), G(), und S() verwendet werden
      wenn normPat den Wert None hat. (Reset mit sel() ohne argumente.)
 
 - ls(normPat=None):
   → Gibt eine Liste aller (matchender) Normen im Archiv zurück.
 
-- q(searchPat, normPat=None):
+- Q(searchPat, normPat=None):
   → Durchsucht .index.json-Dateien nach Überschriften, die dem Muster entsprechen.
      Gibt eine liste der gefundenden Überschriften zurück.  WICHTIG: Die Dateinamen
      beginnen mit dem Typ des Gesetzes. Also zB "BG.StGB", nicht nur "StGB".
      ("q" is for query)
 
-- s(searchPat, normPat=None):
-  → Ähnlich q(), aber gibt ein set von fetch keys zurück.
+- S(searchPat, normPat=None):
+  → Ähnlich Q(), aber gibt ein set() (anstelle einer list()) von fetch keys zurück.
     ("s" is for set-search)
 
-- g(searchPat, normPat=None):
+- G(searchPat, normPat=None):
   → Durchsucht .index.json-Dateien nach Überschriften, die dem Muster entsprechen.
      Zitiert die gefundenden Paragraphen vollständig.
      ("g" is for get)
+
+- H(searchPat, normPat=None):
+  → Das gleiche wie G(), aber zitiert die "for humans" variante vom markdown text.
 
 - grep(grepPat, data):
   → Durchsucht die string(s) im zweiten Argument nach dem pattern.
@@ -210,13 +213,10 @@ Die Wichtigsten Funktionen:
      Ausgabeformat von untag(), ist, wie die Normen dem Anwender
      zitiert werden sollten.
 
-- p(data):
+- P(data):
   → Ausgabe auf der Konsole in plain ASCII
 
-- h(data):
-  → Ausgabe der Überschriften aus dem Markdown text
-
-- v(data):
+- V(data):
   → Ausgabe von vormattiertem Markdown auf der Konsole mit ANSI escape codes (mit rich.markdown)
 
 WICHTIG:
@@ -227,10 +227,14 @@ können ähnlich, aber unterschiedlich zwischen Ländern oder Paragrafen sein.
 Nur durch die Datenbank kann sichergestellt werden, dass nach österreichischem
 Recht korrekt zitiert wird.
 
-Merksatz: "Immer zuerst q() oder gleich q() oder p() – nie raten!"
+Merksatz: "Immer zuerst Q() oder gleich Q() oder P() – nie raten!"
 """.split("\n")
 
 import json, os, sys, re, fnmatch
+from collections import namedtuple
+
+Cite = namedtuple("Cite", "norm par vref pref title")
+Cite.__str__ = lambda self: f"<{self.title.strip('# ').replace(' # ', ' — ')}>"
 
 if _rex_src is None:
     import glob
@@ -287,7 +291,7 @@ def _rex_rerun_intro_examples(cmds = None):
     local_vars = dict()
 
     for cmd in cmds:
-        p(f"\n>>> {cmd}")
+        P(f"\n>>> {cmd}")
         output_buffer.append("")
         output_buffer.append(f">>> {cmd}")
         if cmd.startswith("from RisEnQuery "): continue
@@ -302,6 +306,10 @@ def _rex_update_intro_examples():
             "\n````\n" + "\n".join(_rex_rerun_intro_examples()) + "\n````\n",
             open("RisEnQuery.py").read(), 1, re.S)
     open("RisEnQuery.py.new", "w").write(new_code)
+
+
+# ----------------------------------------------------------------------------------------------------
+# Main RisEn Feature Functions
 
 def reload(count=None):
     """
@@ -448,8 +456,8 @@ def sel(*p):
     """
         Select a list of norms.
 
-        This list of files is used whenever the normPat argument to q(),
-        g(), or s() is left None.
+        This list of files is used whenever the normPat argument to Q(),
+        G(), or S() is left None.
 
         Running sel() without arguments resets the list of selected files.
 
@@ -477,8 +485,10 @@ def sel(*p):
     _rex_selected = tuple(sorted(newRexSelected))
     return _rex_sel_context(oldRexSelected, _rex_selected)
 
-def q(searchPat: str, normPat: str = None):
+def Q(searchPat: str, normPat: str = None):
     """
+        QUERY
+
         Search for searchPat in the tables-of-contents .index.json
         files selected by normPat, or all toc files when normPat
         is None.
@@ -490,7 +500,7 @@ def q(searchPat: str, normPat: str = None):
         See pat() for details on the pattern syntax.
 
         In addition, searchPat may also be a set of fetch keys,
-        such as returned by s().
+        such as returned by S().
     """
 
     setMode = type(searchPat) is set
@@ -512,7 +522,7 @@ def q(searchPat: str, normPat: str = None):
         for par, dat in fetch(f"{norm}.index.json").items():
             if isinstance(dat, str):
                 continue
-            key = (norm,par) + tuple(dat)
+            key = Cite(norm, par, *dat)
             ref, _, txt = dat
             if setMode:
                 if key in searchPat:
@@ -525,25 +535,38 @@ def q(searchPat: str, normPat: str = None):
 
     return matches
 
-def s(searchPat: str, normPat: str = None):
+def S(searchPat: str, normPat: str = None):
     """
-        Like q() but return a set instead of a list.
+        SEARCH/SET
+
+        Like Q() but return a set instead of a list.
     """
     return set(q(searchPat, normPat))
 
-def g(searchPat: str, normPat: str = None):
+def G(searchPat: str, normPat: str = None, ggMode=False):
     """
-        Like q() but return the full Markdown
+        GET
+
+        Like Q() but return the full Markdown
         text for all matching paragraphs.
     """
     out = list()
     first = True
-    for key in q(searchPat, normPat):
+    for key in Q(searchPat, normPat):
         if not first:
             out.append(f"\n----\n# {key}\n")
-        out.append(fetch(key[3]))
+        out.append(fetch(key[2] if ggMode else key[3]))
         first = False
     return "\n".join(out)
+
+def H(*args, **kwargs):
+    """
+        HUMANS
+
+        Like G() but return the "Human Friendly" markdown
+        text instead of the "AI Friendly" version.
+    """
+    return G(*args, **kwargs, ggMode=True)
 
 def grep(grepPat: str, s: str):
     """
@@ -642,19 +665,11 @@ def untag(*a):
 
     return "\n".join(outLines)
 
-def edit(text=""):
-    import tempfile
-    if not isinstance(text, str):
-        return edit("\n".join(text)).split("\n")
-    with tempfile.NamedTemporaryFile(delete_on_close=False) as fp:
-        fp.write(text.encode())
-        fp.close()
-        os.system(f"editor '{fp.name}' 2> x");
-        new_text = open(fp.name).read()
-    _rex_edit_history.append((text, new_text))
-    return new_text
 
-def p(*a):
+# ----------------------------------------------------------------------------------------------------
+# I/O Helpers 
+
+def P(*a):
     """
         Print (markdown or any other) text to the console as-is
     """
@@ -668,17 +683,7 @@ def p(*a):
             s = "\n".join(items) + "\n"
         _rex_print_f(s)
 
-def h(a):
-    """
-        Print only the headers from the given markdown text
-    """
-    for s in a:
-        if type(s) is str:
-            s = s.split("\n")
-        for line in s:
-            if line.startswith("#"): _rex_print_f(line)
-
-def v(*a):
+def V(*a):
     """
         Render markdown text to the console using rich.markdown
     """
@@ -717,6 +722,18 @@ def v(*a):
 
     Heading.__rich_console__ = original__rich_console__
 
+def ed(text=""):
+    import tempfile
+    if not isinstance(text, str):
+        return edit("\n".join(text)).split("\n")
+    with tempfile.NamedTemporaryFile(delete_on_close=False) as fp:
+        fp.write(text.encode())
+        fp.close()
+        os.system(f"editor '{fp.name}' 2> x");
+        new_text = open(fp.name).read()
+    _rex_edit_history.append((text, new_text))
+    return new_text
+
 def pp(*args, **kwargs):
     """
         A thin wrapper for pprint.pp()
@@ -724,6 +741,22 @@ def pp(*args, **kwargs):
     import pprint, shutil
     term_width = shutil.get_terminal_size().columns
     pprint.pp(*args, width=term_width, **kwargs)
+
+def foldSoftPreserve(s, width=80):
+    out, start, last_space = [], 0, -1
+    for i, c in enumerate(s):
+        if c == ' ': last_space = i
+        if i - start >= width:
+            if last_space > start:
+                out.append(s[start:last_space + 1])
+                start = last_space + 1
+            else:
+                out.append(s[start:i])
+                start = i
+            last_space = -1
+    if start < len(s):
+        out.append(s[start:])
+    return out
 
 def pr(*args, indent_head="", indent_body="", indent_tail="", depth=1):
     """
@@ -767,40 +800,55 @@ def pr(*args, indent_head="", indent_body="", indent_tail="", depth=1):
             s = indent_head + s.replace("\n", "\n"+indent_body)
             print(s)
 
+
 # ----------------------------------------------------------------------------------------------------
+# The Shell
+
+def MAGIC(pattern):
+    """
+        An alias for V(H(pattern)).
+
+        In the shell, a line starting with §, /, +,  or = is automatically converted to a call to P().
+        This way you only just to type the cite name of a paragraph on the shell, and instead
+        of the usual Python syntax error, you'll be presented with the text of the paragraph.
+
+        And if the first charter is duplicated, then it's an alias for P(Q(pattern)).
+
+        Thus, "§ 69 JN" will show you the one paragraph, and "§ * StGB *Urkund"
+    """
+    if len(pattern) > 2 and pattern[0] == pattern[1]:
+        p(Q(pattern[1:]))
+    else:
+        V(H(pattern))
+
 
 def shell():
     from ptpython.repl import embed
     from prompt_toolkit.validation import Validator, ValidationError
     from prompt_toolkit.document import Document
 
-    def handle_paragraph_query(line):
-        print()
-        print(f">>> custom handler: resolving {line}")
-        # Replace with your actual query logic
+    welcome()
 
-    def configure(repl):
-        original_handler = repl.default_buffer.accept_handler
+    def configure_repl(repl):
+        original_accept_handler = repl.default_buffer.accept_handler
+        original_show_results = repl._show_result
 
-        def custom_handler(buf):
+        def custom_accept_handler(buf):
             text = buf.text.strip()
-            if text.startswith("§"):
-                if len(q(text)) > 5:
-                    buf.document = Document(f"p(q('{text}'))")
-                else:
-                    buf.document = Document(f"v(g('{text}'))")
-                return original_handler(buf)
-            elif text.startswith("§"):
-                handle_paragraph_query(text)
-                buf.document = Document("")  # Clear the buffer
-                return  # Prevent evaluation
-            else:
-                return original_handler(buf)
+            if text.startswith("§") or \
+                 text.startswith("=") or \
+                 text.startswith("/") or \
+                 text.startswith("+"):
+                buf.document = Document(f"MAGIC({repr(text)})")
+            return original_accept_handler(buf)
 
         # Disable validation for custom input lines
         class CustomValidator(Validator):
             def validate(self, document):
-                if document.text.strip().startswith("§"):
+                if document.text.strip().startswith("§") or \
+                    document.text.strip().startswith("=") or \
+                    document.text.strip().startswith("/") or \
+                    document.text.strip().startswith("+"):
                     # Don't validate (i.e., don't error)
                     return
                 else:
@@ -808,38 +856,14 @@ def shell():
                     if repl._validator:
                         repl._validator.validate(document)
 
-        repl.default_buffer.accept_handler = custom_handler
+        def custom_show_result(output):
+            return original_show_results(output)
+
+        repl.default_buffer.accept_handler = custom_accept_handler
         repl.default_buffer.validator = CustomValidator()
+        repl._show_result = custom_show_result
 
-    embed(globals=globals(), locals=locals(), configure=configure)
+    embed(globals=globals(), locals=locals(), configure=configure_repl)
 
-# ----------------------------------------------------------------------------------------------------
-
-if "RisEnQuery_Do_Print_Welcome_Message" in os.environ:
-    if os.environ["RisEnQuery_Do_Print_Welcome_Message"]:
-        welcome()
-    del os.environ["RisEnQuery_Do_Print_Welcome_Message"]
-
-if __name__ == "__main__" and len(sys.argv) > 1 and _rex_repcnt == 0:
-    if sys.argv[1] == "intro":
-        txintro()
-    elif sys.argv[1] == "ls":
-        p(ls(*sys.argv[2:]))
-    elif sys.argv[1] == "fetch":
-        p(fetch(*sys.argv[2:]))
-    elif sys.argv[1] == "pat":
-        p(pat(*sys.argv[2:]).pattern)
-    elif sys.argv[1] == "toc":
-        p(q(*sys.argv[2:]))
-    elif sys.argv[1] == "grep":
-        p(grep(sys.argv[2], g(*sys.argv[3:])))
-    elif sys.argv[1] == "untag":
-        p(untag(g(*sys.argv[2:])))
-    elif sys.argv[1] in ("p", "g"):
-        p(g(*sys.argv[2:]))
-    elif sys.argv[1] == "v":
-        v(g(*sys.argv[2:]))
-    elif sys.argv[1] == "shell":
-        shell()
-    else:
-        assert False
+if __name__ == "__main__" and len(sys.argv) == 2 and _rex_repcnt == 0 and sys.argv[1] == "shell":
+    shell()
