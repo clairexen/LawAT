@@ -78,7 +78,7 @@
       "prefixItems": [{ "type": "string", "pattern": "^List( |$)" }],
       "items": { "anyOf": [
         { "$ref": "#/$defs/Item" },
-        { "$ref": "#/$defs/Text" }
+        { "$ref": "#/$defs/Anm" }
       ]}
     },
     "Item": {
