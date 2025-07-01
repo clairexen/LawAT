@@ -3,9 +3,10 @@
 **Kurztitel:** StGB  
 **Langtitel:** Bundesgesetz vom 23. Jänner 1974 über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch – StGB)  
 **Gesamte Rechtsvorschrift in der Fassung vom:** 18.06.2025  
-**Letzte Änderung:** BGBl. I Nr. 135/2023 (NR: GP XXVII RV 2208 AB 2260 S. 233. BR: AB 11322 S. 959.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
-**RisEn-Link:** https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md  
+**Letzte Änderung:** BGBl. I Nr. 135/2023 (NR: GP XXVII RV 2208 AB 2260 S. 233. BR: AB 11322 S. 959.)  
+**LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.005.md  
+**LawAT Änderungen im Markup:** [BG.StGB.p100-par57-abslist](../patches/BG.StGB.p100-par57-abslist.diff)  
 *Mit RisEx für RisEn von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *Das ist die "AI-Friendly" multi-part Variante dieser Rechtsvorschrift mit kompakter Formatierung. Siehe [BG.StGB.md](BG.StGB.md) für die "Human-Friendly" single-page Variante dieser Norm mit hübscherer Formatierung.*
@@ -24,19 +25,14 @@ Die Strafbarkeit anderer Taten erlischt durch Verjährung. Die Verjährungsfrist
 
 `§ 57 (3) StGB.`  
 Die Verjährungsfrist beträgt
-
 zwanzig Jahre,  
 wenn die Handlung zwar nicht mit lebenslanger Freiheitsstrafe, aber mit mehr als zehnjähriger Freiheitsstrafe bedroht ist;
-
 zehn Jahre,  
 wenn die Handlung mit mehr als fünfjähriger, aber höchstens zehnjähriger Freiheitsstrafe bedroht ist;
-
 fünf Jahre,  
 wenn die Handlung mit mehr als einjähriger, aber höchstens fünfjähriger Freiheitsstrafe bedroht ist;
-
 drei Jahre,  
 wenn die Handlung mit mehr als sechsmonatiger, aber höchstens einjähriger Freiheitsstrafe bedroht ist;
-
 ein Jahr,  
 wenn die Handlung mit nicht mehr als sechsmonatiger Freiheitsstrafe oder nur mit Geldstrafe bedroht ist.
 

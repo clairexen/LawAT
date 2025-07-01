@@ -3,9 +3,10 @@
 **Kurztitel:** StGB  
 **Langtitel:** Bundesgesetz vom 23. Jänner 1974 über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch – StGB)  
 **Gesamte Rechtsvorschrift in der Fassung vom:** 18.06.2025  
-**Letzte Änderung:** BGBl. I Nr. 135/2023 (NR: GP XXVII RV 2208 AB 2260 S. 233. BR: AB 11322 S. 959.)  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
-**RisEn-Link:** https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md  
+**Letzte Änderung:** BGBl. I Nr. 135/2023 (NR: GP XXVII RV 2208 AB 2260 S. 233. BR: AB 11322 S. 959.)  
+**LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md  
+**LawAT Änderungen im Markup:** [BG.StGB.p100-par57-abslist](../patches/BG.StGB.p100-par57-abslist.diff)  
 *Mit RisEx für RisEn von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## Inhaltsverzeichnis
@@ -1497,7 +1498,7 @@ Der Nationalrat hat beschlossen:
 > `(2)` Die Strafbarkeit anderer Taten erlischt durch Verjährung\. Die Verjährungsfrist beginnt, sobald die mit Strafe bedrohte Tätigkeit abgeschlossen ist oder das mit Strafe bedrohte Verhalten aufhört\.
 
 > `(3)` Die Verjährungsfrist beträgt
-
+>
 > zwanzig Jahre,  
 > &nbsp; wenn die Handlung zwar nicht mit lebenslanger Freiheitsstrafe, aber mit mehr als zehnjähriger Freiheitsstrafe bedroht ist;
 >
