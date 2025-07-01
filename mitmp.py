@@ -9,7 +9,7 @@ if not os.access("__riscache__", os.F_OK):
     os.mkdir("__riscache__")
 
 def url_to_filename(url):
-        fn = re.sub(r'[^a-zA-Z0-9\.-]','_',key.replace('/', '-'))
+        fn = re.sub(r'[^a-zA-Z0-9\.-]', '_', url.replace('/', '-'))
         fn = re.sub(r"_[a-zA-Z_]{5,}_", lambda t: hex(hash(t))[10:], fn)
 
 def request(flow: http.HTTPFlow) -> None:

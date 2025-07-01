@@ -238,9 +238,9 @@ Cite.__str__ = lambda self: f"<{self.title.strip('# ').replace(' # ', ' — ')}>
 
 if _rex_src is None:
     import glob
-    _rex_dir = {"index.json"} | {fn.removeprefix("files/") for fn in glob.glob("files/*")}
-    _rex_rd_text = lambda fn: open(fn if fn == "index.json" else f"files/{fn}").read()
-    _rex_rd_json = lambda fn: json.load(open(fn if fn == "index.json" else f"files/{fn}"))
+    _rex_dir = {"normlist.json"} | {fn.removeprefix("files/") for fn in glob.glob("files/*")}
+    _rex_rd_text = lambda fn: open(fn if fn == "normlist.json" else f"files/{fn}").read()
+    _rex_rd_json = lambda fn: json.load(open(fn if fn == "normlist.json" else f"files/{fn}"))
 
 elif _rex_src.endswith(".zip"):
     import zipfile
@@ -262,7 +262,7 @@ _rex_trace = False
 _rex_ls_cache = dict()
 _rex_fetch_cache = dict()
 _rex_selected = None
-_rex_index = _rex_rd_json("index.json")
+_rex_index = _rex_rd_json("normlist.json")
 _rex_sorted_norms = tuple(sorted(_rex_index.keys()))
 _rex_is_upy = sys.implementation.name == 'micropython'
 _rex_edit_history = list()

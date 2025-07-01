@@ -549,7 +549,7 @@ function getMetaPromulgation() {
 function risExtractor(parName=null, stopPar=null, docName=null, verbose=false, annotate=false) {
 	_rex_initialize();
 	if (!parName) {
-		let doc = ["RisEnDoc" + (docName ? " " + docName : "")];
+		let doc = ["LawDoc" + (docName ? " " + docName : "")];
 		doc.push(getMetaLangtitel());
 		doc.push(getMetaFassungVom());
 		doc.push(getMetaLastChange());

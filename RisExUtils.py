@@ -16,7 +16,7 @@ from pathlib import Path
 #######################################
 
 
-normindex = json.load(open("index.json"))
+normindex = json.load(open("normlist.json"))
 
 GlobalFlagDefaults = {
     "esc": False,
@@ -304,8 +304,8 @@ Locator.get_attrset = lambda self, name: set() if self.get_attribute(name) is No
                                                else set(self.get_attribute(name).split())
 
 
-# RisEnDoc -> Markdown Engine
-#############################
+# LawDoc -> Markdown Engine
+###########################
 
 def renderText(item, inAnm=False, plain=False):
     if type(item) is str:
@@ -330,12 +330,12 @@ def renderText(item, inAnm=False, plain=False):
 
 engineIndexOutput = dict()
 
-class RisEnDocMarkdownEngine:
+class LawDocMarkdownEngine:
     def __init__(self, risDoc):
         globals()["_dbg_engine"] = self
 
         self.risDoc = risDoc
-        self.normkey = risDoc[0].removeprefix("RisEnDoc ")
+        self.normkey = risDoc[0].removeprefix("LawDoc ")
         self.normdata = normindex[self.normkey]
 
         self.meta = {
@@ -706,10 +706,13 @@ class RisEnDocMarkdownEngine:
         self.push(f"**Kurztitel:** {kurztitel}  ")
         self.push(f"**Langtitel:** {self.meta['Langtitel'][-1]}  ")
         self.push(f"**Gesamte Rechtsvorschrift in der Fassung vom:** {self.meta['FassungVom'][-1]}  ")
-        self.push(f"**Letzte Änderung:** {self.meta['LastChange'][-1]}  ")
         self.push(f"**Quelle:** {self.normdata['docurl']}  ")
-        self.push(f"**RisEn-Link:** {flags.permauri}/{self.normkey}{partSuff}.md  ")
-        self.push(f"*Mit RisEx für RisEn von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*")
+        self.push(f"**Letzte Änderung:** {self.meta['LastChange'][-1]}  ")
+        self.push(f"**LawAT Permalink:** {flags.permauri}/{self.normkey}{partSuff}.md  ")
+        if len(self.meta["LocalChanges"]) > 1:
+            changes = [f"[{change}](../patches/{change}.diff)" for change in self.meta["LocalChanges"][1:]]
+            self.push(f"**LawAT Änderungen im Markup:** {', '.join(changes)}  ")
+        self.push(f"*Mit RisEx für RisEn und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*")
 
         if partIdx is not None:
             self.largeBreak()
@@ -827,8 +830,7 @@ def cli_find(normkey):
 
     normdata = {
         "type": normkey.split(".", 1)[0],
-        "title": normkey.split(".", 1)[1],
-        "split": 20000
+        "title": normkey.split(".", 1)[1]
     }
 
     if normdata["type"] in ("BG", "BVG"):
@@ -857,7 +859,7 @@ def cli_find(normkey):
     normdata["docurl"] = docurl
 
     # Update Index JSON
-    lines = open("index.json").read().split("\n")
+    lines = open("normlist.json").read().split("\n")
     assert lines[-1] == ""
     assert lines[-2] == "}"
     assert lines[-3] == "\t}"
@@ -866,7 +868,7 @@ def cli_find(normkey):
     lines += [f"\t\t\"{key}\": \"{value}\"," for key, value in normdata.items()]
     lines[-1] = lines[-1].removesuffix(",")
     lines += ["\t}", "}", ""]
-    open("index.json", "w").write("\n".join(lines))
+    open("normlist.json", "w").write("\n".join(lines))
 
     print("DONE.")
     stopPlaywright()
@@ -905,6 +907,9 @@ def cli_fetch(*args):
             os.mkdir(flags.filesdir)
         open(f"{flags.filesdir}/{normkey}.markup.json", "w").write(risDocJsonText)
 
+        for patch in sorted(glob.glob(f"patches/{normkey}.p[0-9][0-9][0-9]*.diff")):
+            cli_patch(normkey, patch)
+
     print("DONE.")
     stopPlaywright()
 
@@ -918,7 +923,7 @@ def cli_render(*args):
     engine = None
     def runEngine(normkey, skipBig=False, skipOthers=False):
         nonlocal engine # for easier debug using embed() from within cli_render()
-        engine = RisEnDocMarkdownEngine(json.load(open(f"{flags.filesdir}/{normkey}.markup.json")))
+        engine = LawDocMarkdownEngine(json.load(open(f"{flags.filesdir}/{normkey}.markup.json")))
 
         if not flags.verbose:
             print(f"[{normkey}] Generating files:")
@@ -987,6 +992,35 @@ def cli_render(*args):
     print("DONE.")
     embed()
 
+def cli_patch(*args):
+    norm, *patches = args
+
+    norm = norm.removeprefix("files/").removesuffix(".markup.json")
+
+    for patch in patches:
+        patch = patch.removeprefix("patches/").removesuffix(".diff")
+
+        rc = os.system(f"set -ex; patch -fs 'files/{norm}.markup.json' 'patches/{patch}.diff'")
+        assert rc == 0
+
+        txt = open(f"files/{norm}.markup.json").read()
+        try:
+            markup = json.loads(txt)
+        except json.decoder.JSONDecodeError:
+            print(" `- applying fixPrettyJSON algorithm")
+            txt = fixPrettyJSON(txt)
+            markup = json.loads(txt)
+
+        for i in range(1,len(markup)):
+            if markup[i][0] == "Meta LocalChanges":
+                markup[i].append(patch)
+                break
+        else:
+            assert 0, '"Meta LocalChanges"-element not found'
+
+        txt = prettyJSON(markup)
+        open(f"files/{norm}.markup.json", "w").write(txt)
+
 def cli_markup(*args):
     addFlag("fix", False)
     addFlag("fmt", False)
@@ -994,10 +1028,10 @@ def cli_markup(*args):
     addFlag("diff", False)
 
     def handleArg(arg):
-        print(f"Processing {arg} RisEnDoc from {flags.filesdir}/{arg}.markup.json", file=sys.stderr)
-
-        if arg != "-" and not os.access(arg, os.F_OK) and \
+        if (a := arg) != "-" and not os.access(arg, os.F_OK) and \
                 os.access(fn := f"{flags.filesdir}/{arg}.markup.json", os.F_OK): arg = fn
+
+        print(f"Processing {a} LawDoc from {arg}", file=sys.stderr)
 
         txt = (open(arg) if arg != "-" else sys.stdin).read()
 
@@ -1028,7 +1062,7 @@ def cli_markup(*args):
 def cli_mkjson():
     data = dict()
 
-    for fn in ["index.json"] + glob.glob("{flags.filesdir}/*.json") + glob.glob("{flags.filesdir}/*.md"):
+    for fn in ["normlist.json"] + glob.glob("{flags.filesdir}/*.json") + glob.glob("{flags.filesdir}/*.md"):
         if fn.endswith(".json"):
             data[fn.removeprefix("{flags.filesdir}/")] = json.load(open(fn))
         else:

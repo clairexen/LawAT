@@ -22,12 +22,12 @@ venv: .venv/bin/activate
 	.venv/bin/playwright install
 
 zip: RisExFiles.zip
-RisExFiles.zip: index.json files/*
+RisExFiles.zip: normlist.json files/*
 	rm -vf RisExFiles.zip
-	zip -vXj RisExFiles.zip -r files index.json
+	zip -vXj RisExFiles.zip -r files normlist.json
 
 json: RisExData.json
-RisExData.json: venv index.json files/*
+RisExData.json: venv normlist.json files/*
 	./RisExUtils.py mkjson
 
 update:

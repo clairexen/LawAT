@@ -1,0 +1,26 @@
+diff --git a/files/BG.UrhG.markup.json b/files/BG.UrhG.markup.json
+index 2f850e4..311503c 100644
+--- a/files/BG.UrhG.markup.json
++++ b/files/BG.UrhG.markup.json
+@@ -505,12 +505,15 @@
+                     "bildenden Künste nach der ersten Veräußerung durch den Urheber mit der Maßgabe, ",
+                     "dass der Urheber gegen den Veräußerer einen Anspruch auf eine Vergütung in der ",
+                     "Höhe des folgenden Anteils am Verkaufspreis ohne Steuern (Folgerechtsvergütung) ",
+-                    "hat:"]]],
+-        [{"type":"Unknown","path":"table#Tabelle1","tag":"TABLE","class":null},
+-            "4%von den ersten50.000 EUR,3%von den weiteren150.000 EUR,1%von den weiteren150.000 EUR,0,5%von den weiteren150.000 EUR,0,25%von allen weiteren Beträgen; "],
+-        ["Text Erl",
+-            "die Vergütung beträgt insgesamt jedoch höchstens 12.500 EUR."],
+-        ["List",
++                    "hat:"]
++                ["Text",
++                    "4% von den ersten 50.000 EUR,  \n",
++                    "3% von den weiteren 150.000 EUR,  \n",
++                    "1% von den weiteren 150.000 EUR,  \n",
++                    "0,5% von den weiteren 150.000 EUR,  \n",
++                    "0,25% von allen weiteren Beträgen;"]
++                ["Text Erl",
++                    "die Vergütung beträgt insgesamt jedoch höchstens 12.500 EUR."]
+             ["Item (2)",
+                 ["Text",
+                     "Der Anspruch auf Folgerechtsvergütung steht nur zu, wenn der Verkaufspreis ",

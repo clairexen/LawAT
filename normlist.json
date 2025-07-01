@@ -84,5 +84,13 @@
 		"stop": "§ 208",
 		"caption": "Außerstreitgesetz (AußStrG)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047"
+	},
+	"BG.UrhG": {
+		"type": "BG",
+		"title": "UrhG",
+		"split": "20000",
+		"stop": "§ 116",
+		"caption": "Urheberrechtsgesetz (UrhG)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848"
 	}
 }
