@@ -707,7 +707,7 @@ class LawDocMarkdownEngine:
         self.push(f"**Langtitel:** {self.meta['Langtitel'][-1]}  ")
         self.push(f"**Gesamte Rechtsvorschrift in der Fassung vom:** {self.meta['FassungVom'][-1]}  ")
         self.push(f"**Quelle:** {self.normdata['docurl']}  ")
-        self.push(f"**Letzte Änderung:** {self.meta['LastChange'][-1]}  ")
+        self.push(f"**Letzte Änderung im RIS:** {self.meta['LastChange'][-1]}  ")
         self.push(f"**LawAT Permalink:** {flags.permauri}/{self.normkey}{partSuff}.md  ")
         if len(self.meta["LocalChanges"]) > 1:
             changes = [f"[{change}](../patches/{change}.diff)" for change in self.meta["LocalChanges"][1:]]

@@ -2,17 +2,16 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** AVG  
 **Langtitel:** Allgemeines Verwaltungsverfahrensgesetz 1991 – AVG  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 18.06.2025  
-**Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 01.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768  
-**RisEn-Link:** https://github.com/clairexen/LawAT/blob/main/files/BG.AVG.001.md  
-*Mit RisEx für RisEn von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+**Letzte Änderung im RIS:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
+**LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.AVG.001.md  
+*Mit RisEx für RisEn und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *Das ist die "AI-Friendly" multi-part Variante dieser Rechtsvorschrift mit kompakter Formatierung. Siehe [BG.AVG.md](BG.AVG.md) für die "Human-Friendly" single-page Variante dieser Norm mit hübscherer Formatierung.*
 
 *(Fortsetzg. v. [BG.AVG.000](BG.AVG.000.md))*
 
-Der Nationalrat hat beschlossen:
 
 ## I. Teil: Allgemeine Bestimmungen # 1. Abschnitt: Behörden
 

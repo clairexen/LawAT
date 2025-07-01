@@ -2,11 +2,11 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** StVO  
 **Langtitel:** Bundesgesetz vom 6. Juli 1960, mit dem Vorschriften über die Straßenpolizei erlassen werden (Straßenverkehrsordnung 1960 – StVO. 1960).  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 18.06.2025  
-**Letzte Änderung:** BGBl. I Nr. 52/2024 (NR: GP XXVII IA 3975/A AB 2518 S. 259. BR: AB 11481 S. 966.)  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 01.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336  
-**RisEn-Link:** https://github.com/clairexen/LawAT/blob/main/files/BG.StVO.000.md  
-*Mit RisEx für RisEn von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+**Letzte Änderung im RIS:** BGBl. I Nr. 52/2024 (NR: GP XXVII IA 3975/A AB 2518 S. 259. BR: AB 11481 S. 966.)  
+**LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.StVO.000.md  
+*Mit RisEx für RisEn und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *Das ist die "AI-Friendly" multi-part Variante dieser Rechtsvorschrift mit kompakter Formatierung. Siehe [BG.StVO.md](BG.StVO.md) für die "Human-Friendly" single-page Variante dieser Norm mit hübscherer Formatierung.*
 

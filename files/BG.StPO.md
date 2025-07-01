@@ -2,11 +2,11 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 18.06.2025  
-**Letzte Änderung:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 01.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
-**RisEn-Link:** https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md  
-*Mit RisEx für RisEn von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+**Letzte Änderung im RIS:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
+**LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md  
+*Mit RisEx für RisEn und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## Inhaltsverzeichnis
 
@@ -861,7 +861,6 @@
 
 ----
 
-Der Nationalrat hat beschlossen:
 
 ## 1. Teil
 
@@ -6364,7 +6363,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 297 StPO
 
-> *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z 92\)*
+> *\(Aufgehoben; BGBl\. Nr\. 423/1974, Art\. I Z\. 92\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-297-stpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=297) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_342_TextContainer_342) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.020.md#-297-stpo) \]
 
@@ -8942,7 +8941,7 @@ Der Nationalrat hat beschlossen:
 
 > `(45)` § 294 Abs\. 5 und § 296 Abs\. 3 in der Fassung BGBl\. I Nr\. 24/2020 treten mit dem der Kundmachung folgenden Tag in Kraft\.
 
-> `(46)` Der Eintrag des Titels von § 66b im Inhaltsverzeichnis sowie § 30 Abs\. 1 Z 3a, § 31 Abs\. 1, § 49, § 66b, § 67 Abs\. 7, § 70 Abs\. 2, § 71, § 76a Abs\. 1, § 381 Abs\. 1 Z 9, § 390 Abs\. 1a, § 393 Abs\. 4a , § 395 Abs\. 1 und § 516a Abs\. 12 in der Fassung des Bundesgesetzblattes BGBl\. I Nr\. 148/2020 treten mit 1\. Jänner 2021 in Kraft; gleichzeitig entfallen § 66 Abs\. 2 und 4\. § 390 Abs\. 1a und § 393 Abs\. 4a in der Fassung des Bundesgesetzblattes BGBl\. I Nr\. 148/2020 treten mit 31\. Dezember 2026 wieder außer Kraft\.
+> `(46)` Der Eintrag des Titels von § 66b im Inhaltsverzeichnis sowie § 30 Abs\. 1 Z 3a, § 31 Abs\. 1, § 49, § 66b, § 67 Abs\. 7, § 70 Abs\. 2, § 71, § 76a Abs\. 1, § 381 Abs\. 1 Z 9, § 390 Abs\. 1a, § 393 Abs\. 4a, § 395 Abs\. 1 und § 516a Abs\. 12 in der Fassung des Bundesgesetzblattes BGBl\. I Nr\. 148/2020 treten mit 1\. Jänner 2021 in Kraft; gleichzeitig entfallen § 66 Abs\. 2 und 4\. § 390 Abs\. 1a und § 393 Abs\. 4a in der Fassung des Bundesgesetzblattes BGBl\. I Nr\. 148/2020 treten mit 31\. Dezember 2026 wieder außer Kraft\.
 
 > `(47)` § 112a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 148/2021 tritt am 1\. Dezember 2021 in Kraft\.
 
@@ -8952,7 +8951,7 @@ Der Nationalrat hat beschlossen:
 
 > `(50)` § 209a Abs\. 1 und § 209b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 243/2021 treten mit 1\. Jänner 2022 in Kraft\. § 209b in der Fassung des genannten Bundesgesetzes ist auf Verfahren anzuwenden, in denen die Verständigung des Bundeskartellanwalts gemäß § 209b Abs\. 1 nach dem 31\. Dezember 2021 bei der Staatsanwaltschaft eingelangt ist; für andere Verfahren gilt weiterhin § 209b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 27/2018\. § 209a und § 209b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 243/2021 treten mit Ablauf des 31\. Dezember 2028 außer Kraft\.
 
-> `(51)` Die Einträge im Inhaltsverzeichnis zum 21\. Hauptstück, § 48 Abs\. 2, § 61 Abs\. 1 Z 2, § 66a Abs\. 2 Z 5, § 281 Abs\. 1 Z 3 und 5 *\(Anm\.: offensichtlich gemeint Z 3 und Z 8\)*, § 345 Abs\. 1 Z 4, die Abschnittsbezeichnung und Abschnittsüberschrift zum 1\. Abschnitt des 21\. Hauptstücks, §§ 429 bis 434g, die Abschnittsbezeichnung und Abschnittsüberschrift zum 2\. Abschnitt des 21\. Hauptstücks, § 435 Abs\. 1, § 437, § 438, § 439 Abs\. 1 und 2, § 440, § 441, § 442, die Abschnittsbezeichnung und Abschnittsüberschrift zum 3\. und 4\. Abschnitt des 21\. Hauptstücks, § 492 Abs\. 1, § 494a Abs\. 2, § 495 Abs\. 1 und § 497 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 223/2022, treten mit 1\. März 2023 in Kraft; gleichzeitig tritt § 436 außer Kraft\.
+> `(51)` Die Einträge im Inhaltsverzeichnis zum 21\. Hauptstück, § 48 Abs\. 2, § 61 Abs\. 1 Z 2, § 66a Abs\. 2 Z 5, § 281 Abs\. 1 Z 3 und 5 *\(Anm\.: offensichtlich gemeint Z 3 und Z 8\)*, § 345 Abs\. 1 Z 4, die Abschnittsbezeichnung und Abschnittsüberschrift zum 1\. Abschnitt des 21\. Hauptstücks, §§ 429 bis 434g, die Abschnittsbezeichnung und Abschnittsüberschrift zum 2\. Abschnitt des 21\. Hauptstücks, § 435 Abs\. 1, § 437, § 438, § 439 Abs\. 1 und 2, § 440, § 441, § 442, die Abschnittsbezeichnung und Abschnittsüberschrift zum 3\. und 4\. Abschnitt des 21\. Hauptstücks, § 492 Abs\. 1, § 494a Abs\. 2, § 495 Abs\. 1 und § 497 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 223/2022, treten mit 1\. März 2023 in Kraft; gleichzeitig tritt § 436 außer Kraft\.
 
 > `(52)` § 30 Abs\. 1 Z 9 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 135/2023, tritt mit Ablauf des 30\. November 2023 außer Kraft\.
 

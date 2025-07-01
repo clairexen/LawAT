@@ -2,11 +2,11 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** ZPO  
 **Langtitel:** Gesetz vom 1. August 1895, über das gerichtliche Verfahren in bürgerlichen Rechtsstreitigkeiten (Zivilprozessordnung – ZPO).  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 18.06.2025  
-**Letzte Änderung:** [CELEX-Nr.: 32020L1828]  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 01.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699  
-**RisEn-Link:** https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.004.md  
-*Mit RisEx für RisEn von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+**Letzte Änderung im RIS:** [CELEX-Nr.: 32020L1828]  
+**LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.004.md  
+*Mit RisEx für RisEn und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *Das ist die "AI-Friendly" multi-part Variante dieser Rechtsvorschrift mit kompakter Formatierung. Siehe [BG.ZPO.md](BG.ZPO.md) für die "Human-Friendly" single-page Variante dieser Norm mit hübscherer Formatierung.*
 
