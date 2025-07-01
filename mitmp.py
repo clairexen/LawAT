@@ -8,6 +8,10 @@ cachecnt = defaultdict(int)
 if not os.access("__riscache__", os.F_OK):
     os.mkdir("__riscache__")
 
+def url_to_filename(url):
+        fn = re.sub(r'[^a-zA-Z0-9\.-]','_',key.replace('/', '-'))
+        fn = re.sub(r"_[a-zA-Z_]{5,}_", lambda t: hex(hash(t))[10:], fn)
+
 def request(flow: http.HTTPFlow) -> None:
     if flow.request.method == "GET":
         # key = (flow.request.pretty_url, tuple(flow.request.headers.items()))
@@ -27,5 +31,6 @@ def response(flow: http.HTTPFlow) -> None:
         # if "set-cookie" in flow.response.headers: return
         # key = (flow.request.pretty_url, tuple(flow.request.headers.items()))
         key = flow.request.pretty_url
+        fn = url_to_filename(key)
         cache[key] = flow.response.copy()
-        open(f"__riscache__/{re.sub(r'[^a-zA-Z0-9\.-]','_',key.replace('/', '-'))}", "wb").write(flow.response.content)
+        open(f"__riscache__/{re.sub(r'[^a-zA-Z0-9\.-]', '_', key.replace('/', '-'))}", "wb").write(flow.response.content)

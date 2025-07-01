@@ -35,13 +35,18 @@ update:
 	.venv/bin/python3 RisExUtils.py render --down
 	$(MAKE) zip json
 
+
+check-markup: JSON_SCHEMA ?= schema.json
 check-markup:
-	.venv/bin/check-jsonschema -v --check-metaschema schema.json
-	set -e; for f in files/*.markup.json; do .venv/bin/check-jsonschema -v --schemafile schema.json $$f; done
+	.venv/bin/check-jsonschema -v --check-metaschema $(JSON_SCHEMA)
+	set -e; for f in files/*.markup.json; do .venv/bin/check-jsonschema -v --schemafile $(JSON_SCHEMA) $$f; done
 	grep -h '^ *\[' files/*.markup.json | sed -e 's/^ *//; s/\]*,.*//; /\["\(Par\|RisDoc\|Item\|Meta\) / s/ .*/ ..."/' | sort | uniq -c
+
+mitmp:
+	mitmdump -s mitmp.py
 
 purge:
 	rm -rf .venv RisExData.json __pycache__/ __rismarkup__/ __rishtml__/
 	rm -rf RisExFiles.zip
 
-.PHONY: help venv zip json update check-markup purge
+.PHONY: help venv zip json update check-markup mitmp purge

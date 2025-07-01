@@ -543,7 +543,7 @@ function getMetaLocalChanges() {
 }
 
 function getMetaPromulgation() {
-	return ["Meta Promulgation", document.querySelector(".PromKlEinlSatz")?.textContent ?? risUserPromKl];
+	return ["Meta Promulgation", document.querySelector(".PromKlEinlSatz")?.textContent ?? ""];
 }
 
 function risExtractor(parName=null, stopPar=null, docName=null, verbose=false, annotate=false) {
@@ -596,7 +596,5 @@ if (isNode) {
 	});
 	global.document = dom.window.document; // make it global if your code expects it
 	global.Element = dom.window.Element;
-	if (process.argv.length > 2)
-		global.risUserPromKl = process.argv[3];
 	process.stdout.write(prettyJSON(risExtractor()))
 }
