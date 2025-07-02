@@ -24,6 +24,8 @@
   "BV.RPV": "BMSGPK: Rezeptpflichtverordnung (RPV)",
   "BV.DV-StAG": "BMJ: DV zum Staatsanwaltschaftsgesetz (DV-StAG)",
   "BV.RLV": "BMI: Richtlinien-Verordnung (RLV)",
+  "BV.AFV": "BMIMI: Amateurfunkverordnung (AFV)",
+  "BV.FNV": "BMIMI: Frequenznutzungsverordnung 2013 (FNV)",
   "WLG.WLSG": "Wiener Landes-Sicherheitsgesetz (WLSG)",
   "WLG.WrAuskPG": "Wiener Auskunftspflichtgesetz (WrAuskPG)"
 }

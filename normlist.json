@@ -183,6 +183,18 @@
 		"caption": "BMI: Richtlinien-Verordnung (RLV)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005857"
 	},
+	"BV.AFV": {
+		"type": "BV",
+		"title": "AFV",
+		"caption": "BMIMI: Amateurfunkverordnung (AFV)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012930"
+	},
+	"BV.FNV": {
+		"type": "BV",
+		"title": "FNV",
+		"caption": "BMIMI: Frequenznutzungsverordnung 2013 (FNV)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008807"
+	},
 	"WLG.WLSG": {
 		"type": "WLG",
 		"title": "WLSG",

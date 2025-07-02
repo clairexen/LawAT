@@ -25,7 +25,9 @@
 * [Zivilprozessordnung (ZPO)](BG.ZPO.md)
 
 ## Verordnungen der Bundesministerien
+* [BMIMI: Amateurfunkverordnung (AFV)](BV.AFV.md)
 * [BMJ: DV zum Staatsanwaltschaftsgesetz (DV-StAG)](BV.DV-StAG.md)
+* [BMIMI: Frequenznutzungsverordnung 2013 (FNV)](BV.FNV.md)
 * [BMI: Richtlinien-Verordnung (RLV)](BV.RLV.md)
 * [BMSGPK: Rezeptpflichtverordnung (RPV)](BV.RPV.md)
 
