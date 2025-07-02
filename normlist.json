@@ -87,7 +87,6 @@
 		"type": "BG",
 		"title": "UrhG",
 		"stop": "§ 116",
-		"disable-strict-mode": [],
 		"caption": "Urheberrechtsgesetz (UrhG)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848"
 	},
@@ -121,7 +120,6 @@
 	"BV.RPV": {
 		"type": "BV",
 		"title": "RPV",
-		"disable-strict-mode": [],
 		"caption": "Rezeptpflichtverordnung (RPV)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010358"
 	},

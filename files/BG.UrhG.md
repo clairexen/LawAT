@@ -499,6 +499,14 @@
 
 > `(1)` § 16 Abs\. 3 gilt für die Weiterveräußerung des Originals eines Werkes der bildenden Künste nach der ersten Veräußerung durch den Urheber mit der Maßgabe, dass der Urheber gegen den Veräußerer einen Anspruch auf eine Vergütung in der Höhe des folgenden Anteils am Verkaufspreis ohne Steuern \(Folgerechtsvergütung\) hat:
 
+<table id="Tabelle1"><tbody>
+<tr><td style="vertical-align:top;text-align:right">4%</td><td style="vertical-align:top;text-align:left">von den ersten</td><td style="vertical-align:top;text-align:right">50.000 EUR,</td></tr>
+<tr><td style="vertical-align:top;text-align:right">3%</td><td style="vertical-align:top;text-align:left">von den weiteren</td><td style="vertical-align:top;text-align:right">150.000 EUR,</td></tr>
+<tr><td style="vertical-align:top;text-align:right">1%</td><td style="vertical-align:top;text-align:left">von den weiteren</td><td style="vertical-align:top;text-align:right">150.000 EUR,</td></tr>
+<tr><td style="vertical-align:top;text-align:right">0,5%</td><td style="vertical-align:top;text-align:left">von den weiteren</td><td style="vertical-align:top;text-align:right">150.000 EUR,</td></tr>
+<tr><td style="vertical-align:top;text-align:right">0,25%</td><td style="vertical-align:top;text-align:left">von allen weiteren Beträgen;</td><td style="vertical-align:top"> </td></tr>
+</tbody></table>
+
 > die Vergütung beträgt insgesamt jedoch höchstens 12\.500 EUR\.
 
 > `(2)` Der Anspruch auf Folgerechtsvergütung steht nur zu, wenn der Verkaufspreis mindestens 2\.500 EUR beträgt und an der Veräußerung ein Vertreter des Kunstmarkts – wie ein Auktionshaus, eine Kunstgalerie oder ein sonstiger Kunsthändler \- als Verkäufer, Käufer oder Vermittler beteiligt ist; diese Personen haften als Bürge und Zahler, soweit sie nicht selbst zahlungspflichtig sind\. Auf den Anspruch kann im Voraus nicht verzichtet werden\. Der Anspruch kann auch durch Verwertungsgesellschaften geltend gemacht werden; im Übrigen ist der Anspruch unveräußerlich\. § 23 Abs\. 1 gilt sinngemäß\.
@@ -675,7 +683,7 @@
 
 > `(2)` Eine Werknutzungsbewilligung, die vor Einräumung oder Übertragung eines Werknutzungsrechts erteilt worden ist, bleibt gegenüber dem Werknutzungsberechtigten wirksam, wenn mit dem Inhaber der Werknutzungsbewilligung nichts anderes vereinbart ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.md#-24-urhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848&Paragraf=24) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.001.md#-24-urhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.md#-24-urhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848&Paragraf=24) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.002.md#-24-urhg) \]
 
 ----
 
@@ -683,7 +691,7 @@
 
 > Wurde dem Anbieter einer großen Online\-Plattform eine Werknutzungsbewilligung für die Sendung oder die öffentliche Zurverfügungstellung nach § 18c erteilt oder dazu ein Werknutzungsrecht eingeräumt oder übertragen, so ist es auch den Nutzern dieses Dienstes gestattet, über die Online\-Plattform die betroffenen Werke im Umfang der erteilten Erlaubnis zu senden oder der Öffentlichkeit zur Verfügung zu stellen, sofern nicht diese Nutzer auf der Grundlage einer gewerblichen Tätigkeit handeln oder mit ihrer Tätigkeit erhebliche Einnahmen erzielen\. Eine dem Nutzer erteilte Erlaubnis berechtigt auch den Anbieter des Dienstes zur erlaubten Nutzung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.md#-24a-urhg--werknutzungsbewilligung-oder-werknutzungsrecht-für-die-sendung-oder-die-öffentliche-zurverfügungstellung-nach--18c) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848&Paragraf=24a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.001.md#-24a-urhg--werknutzungsbewilligung-oder-werknutzungsrecht-für-die-sendung-oder-die-öffentliche-zurverfügungstellung-nach--18c) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.md#-24a-urhg--werknutzungsbewilligung-oder-werknutzungsrecht-für-die-sendung-oder-die-öffentliche-zurverfügungstellung-nach--18c) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848&Paragraf=24a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.002.md#-24a-urhg--werknutzungsbewilligung-oder-werknutzungsrecht-für-die-sendung-oder-die-öffentliche-zurverfügungstellung-nach--18c) \]
 
 ----
 
@@ -691,7 +699,7 @@
 
 > Kommt ein Vertrag über die Bewilligung der Zugänglichmachung audiovisueller Werke über Videoabrufdienste nicht zustande, so kann jeder der Beteiligten beim Schlichtungsausschuss \(§ 82 VerwGesG 2016, BGBl\. I Nr\. 27/2016\) Vertragshilfe beantragen\. Der Schlichtungsausschuss kann den Parteien Vorschläge unterbreiten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.md#-24b-urhg--vertragshilfe-für-die-zugänglichmachung-audiovisueller-werke-über-videoabrufdienste) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848&Paragraf=24b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.001.md#-24b-urhg--vertragshilfe-für-die-zugänglichmachung-audiovisueller-werke-über-videoabrufdienste) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.md#-24b-urhg--vertragshilfe-für-die-zugänglichmachung-audiovisueller-werke-über-videoabrufdienste) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848&Paragraf=24b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.002.md#-24b-urhg--vertragshilfe-für-die-zugänglichmachung-audiovisueller-werke-über-videoabrufdienste) \]
 
 ----
 
@@ -703,7 +711,7 @@
 
 > `(3)` An einem Filmwerk oder an einem zur Herstellung eines Filmwerks benutzten Werk steht das Widerrufsrecht nicht zu\. Das Widerrufsrecht besteht weiters nicht, wenn der Urheber einen lediglich nachrangigen Beitrag zu einem Werk, einem Produkt oder einer Dienstleistung erbracht hat, bei Werken, die im Rahmen eines arbeitsrechtlichen Verhältnisses geschaffen wurden, sowie wenn gesondert eine zusätzliche angemessene Vergütung für die unbekannte Verwertungsart vereinbart wurde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.md#-24c-urhg--zweckübertragungsgrundsatz-und-unbekannte-verwertungsarten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848&Paragraf=24c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.001.md#-24c-urhg--zweckübertragungsgrundsatz-und-unbekannte-verwertungsarten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.md#-24c-urhg--zweckübertragungsgrundsatz-und-unbekannte-verwertungsarten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848&Paragraf=24c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.002.md#-24c-urhg--zweckübertragungsgrundsatz-und-unbekannte-verwertungsarten) \]
 
 ----
 
@@ -985,7 +993,7 @@
 
 > `(3)` Bis zum Beweis des Gegenteils gilt als Filmhersteller, wer als solcher auf den Vervielfältigungsstücken eines Filmwerkes in der üblichen Weise durch Angabe seines wahren Namens, seiner Firma oder eines von ihm bekanntermaßen gebrauchten Decknamens oder Unternehmenskennzeichens bezeichnet wird\. Dasselbe gilt von dem, der bei einer öffentlichen Aufführung oder bei einer Rundfunksendung des Filmwerkes auf die angegebene Art als Filmhersteller bezeichnet wird, sofern nicht die im vorigen Satz aufgestellte Vermutung dafür spricht, daß Filmhersteller ein anderer ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.md#-38-urhg--rechte-am-filmwerk) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848&Paragraf=38) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.002.md#-38-urhg--rechte-am-filmwerk) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.md#-38-urhg--rechte-am-filmwerk) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848&Paragraf=38) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.003.md#-38-urhg--rechte-am-filmwerk) \]
 
 ----
 
@@ -1000,7 +1008,7 @@
 > `(4)` Zur Verwertung von Bearbeitungen und Übersetzungen des Filmwerkes bedarf es außer der Einwilligung des Filmherstellers auch der Einwilligung der in der Urheberbezeichnung genannten Urheber\. Soweit diese Urheber mit dem Filmhersteller nichts anderes vereinbart haben, bedarf es dieser Einwilligung nicht für Übersetzungen und Bearbeitungen einschließlich der Fertigstellung des unvollendet gebliebenen Filmwerks, die nach den im redlichen Verkehr geltenden Gewohnheiten und Gebräuchen zur normalen Verwertung des Filmwerks erforderlich sind und die geistigen Interessen der Urheber am Werk nicht beeinträchtigen\.
 > *\(Anm\.: Abs\. 5 aufgehoben durch BGBl\. Nr\. 151/1996\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.md#-39-urhg--urheber) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848&Paragraf=39) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.002.md#-39-urhg--urheber) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.md#-39-urhg--urheber) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848&Paragraf=39) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.003.md#-39-urhg--urheber) \]
 
 ----
 
@@ -1012,7 +1020,7 @@
 
 > `(3)` Die Vorschriften der §§ 29 und 31a gelten für Werknutzungsbewilligungen oder Werknutzungsrechte an gewerbsmäßig hergestellten Filmwerken nicht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.md#-40-urhg--verwertungsrechte-und-werknutzungsrechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848&Paragraf=40) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_58_TextContainer_58) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.002.md#-40-urhg--verwertungsrechte-und-werknutzungsrechte) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.md#-40-urhg--verwertungsrechte-und-werknutzungsrechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848&Paragraf=40) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_58_TextContainer_58) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.003.md#-40-urhg--verwertungsrechte-und-werknutzungsrechte) \]
 
 ----
 

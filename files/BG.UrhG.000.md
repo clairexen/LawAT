@@ -56,10 +56,10 @@
 * [§ 23 UrhG](BG.UrhG.001.md#-23-urhg)
 
 **5. Werknutzungsbewilligung und Werknutzungsrecht.**  
-* [§ 24 UrhG](BG.UrhG.001.md#-24-urhg)  
-* [§ 24a UrhG # Werknutzungsbewilligung oder Werknutzungsrecht für die Sendung oder die öffentliche Zurverfügungstellung nach § 18c](BG.UrhG.001.md#-24a-urhg--werknutzungsbewilligung-oder-werknutzungsrecht-für-die-sendung-oder-die-öffentliche-zurverfügungstellung-nach--18c)  
-* [§ 24b UrhG # Vertragshilfe für die Zugänglichmachung audiovisueller Werke über Videoabrufdienste](BG.UrhG.001.md#-24b-urhg--vertragshilfe-für-die-zugänglichmachung-audiovisueller-werke-über-videoabrufdienste)  
-* [§ 24c UrhG # Zweckübertragungsgrundsatz und unbekannte Verwertungsarten](BG.UrhG.001.md#-24c-urhg--zweckübertragungsgrundsatz-und-unbekannte-verwertungsarten)
+* [§ 24 UrhG](BG.UrhG.002.md#-24-urhg)  
+* [§ 24a UrhG # Werknutzungsbewilligung oder Werknutzungsrecht für die Sendung oder die öffentliche Zurverfügungstellung nach § 18c](BG.UrhG.002.md#-24a-urhg--werknutzungsbewilligung-oder-werknutzungsrecht-für-die-sendung-oder-die-öffentliche-zurverfügungstellung-nach--18c)  
+* [§ 24b UrhG # Vertragshilfe für die Zugänglichmachung audiovisueller Werke über Videoabrufdienste](BG.UrhG.002.md#-24b-urhg--vertragshilfe-für-die-zugänglichmachung-audiovisueller-werke-über-videoabrufdienste)  
+* [§ 24c UrhG # Zweckübertragungsgrundsatz und unbekannte Verwertungsarten](BG.UrhG.002.md#-24c-urhg--zweckübertragungsgrundsatz-und-unbekannte-verwertungsarten)
 
 **6. Exekutionsbeschränkungen.**  
 * [§ 25 UrhG](BG.UrhG.002.md#-25-urhg)
@@ -91,9 +91,9 @@
 * [§ 37g UrhG # Ausnahme von Computerprogrammen](BG.UrhG.002.md#-37g-urhg--ausnahme-von-computerprogrammen)
 
 **VI. Abschnitt # Sondervorschriften für gewerbsmäßig hergestellte Filmwerke.**  
-* [§ 38 UrhG # Rechte am Filmwerk](BG.UrhG.002.md#-38-urhg--rechte-am-filmwerk)  
-* [§ 39 UrhG # Urheber](BG.UrhG.002.md#-39-urhg--urheber)  
-* [§ 40 UrhG # Verwertungsrechte und Werknutzungsrechte](BG.UrhG.002.md#-40-urhg--verwertungsrechte-und-werknutzungsrechte)
+* [§ 38 UrhG # Rechte am Filmwerk](BG.UrhG.003.md#-38-urhg--rechte-am-filmwerk)  
+* [§ 39 UrhG # Urheber](BG.UrhG.003.md#-39-urhg--urheber)  
+* [§ 40 UrhG # Verwertungsrechte und Werknutzungsrechte](BG.UrhG.003.md#-40-urhg--verwertungsrechte-und-werknutzungsrechte)
 
 **VIa. Abschnitt # Sondervorschriften für Computerprogramme**  
 * [§ 40a UrhG # Computerprogramme](BG.UrhG.003.md#-40a-urhg--computerprogramme)  

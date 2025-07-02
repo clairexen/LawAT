@@ -546,6 +546,66 @@ class LawDocMarkdownEngine:
 
         return self.popLineNum()
 
+    def genTable(self, item):
+        self.pushLineNum()
+        head, *tail = item
+        tag = head.split()
+
+        self.largeBreak()
+        self.push(f'<table id="{tag[1]}"><tbody>')
+        for tline in tail:
+            assert tline[0] == "TabLine"
+            self.push(f'<tr>')
+            for tcell in tline[1:]:
+                self.genTabCell(tcell)
+            self.append(f'</tr>')
+        self.push(f'</tbody></table>')
+        self.largeBreak()
+
+        return self.popLineNum()
+
+    def genTabCell(self, item):
+        self.pushLineNum()
+        head, *tail = item
+        tag, fmt = head.split()
+        assert tag == "TabCell"
+
+        hLeft = fmt.startswith(":")
+        hRight = fmt.endswith(":")
+        hCenter = hLeft and hRight
+        hLeft = hLeft and not hCenter
+        hRight = hRight and not hCenter
+        fmt = fmt.replace(":", "")
+
+        vTop = "A" in fmt or "^" in fmt
+        vBottom = "V" in fmt or "v" in fmt
+        vCenter = "X" in fmt or "x" in fmt
+
+        # I want this syntax in python: ("A", "V", "X", or "O") in fmt
+        isTH = "A" in fmt or "V" in fmt or "X" in fmt or "O" in fmt
+
+        rowSpan, colSpan = fmt.replace("A", ":").replace("V", ":").replace("X", ":").replace("O", ":") \
+                              .replace("^", ":").replace("v", ":").replace("x", ":").replace("o", ":").split(":")
+        rowSpan = int(rowSpan) if rowSpan else 0
+        colSpan = int(colSpan) if colSpan else 0
+
+        style = []
+        if vTop: style.append(f'vertical-align:top')
+        if vBottom: style.append(f'vertical-align:bottom')
+        if vCenter: style.append(f'vertical-align:center')
+        if hLeft: style.append(f'text-align:left')
+        if hRight: style.append(f'text-align:right')
+        if hCenter: style.append(f'text-align:center')
+
+        self.append('<th' if isTH else '<td')
+        if rowSpan > 1: self.append(f' rowspan={rowSpan}')
+        if colSpan > 1: self.append(f' colspan={colSpan}')
+        if style: self.append(f' style="{";".join(style)}"')
+        self.append('>' + renderText(item, plain=True))
+        self.append('</th>' if isTH else '</td>')
+
+        return self.popLineNum()
+
     def genPar(self, parDoc):
         self.pushLineNum()
         firstLine = len(self.lines)
@@ -637,6 +697,9 @@ class LawDocMarkdownEngine:
                             hasAbsList = True
                             performIndent()
                         self.genList(item, br=(tag[-1] in ("Abs", "List")))
+
+                    elif tag[0] == "Table":
+                        self.genTable(item)
 
                     else:
                         if self.strict_mode:
@@ -1066,7 +1129,7 @@ def cli_patch(*args):
     for patch in patches:
         patch = patch.removeprefix("patches/").removesuffix(".diff")
 
-        rc = os.system(f"set -ex; patch -fs 'files/{norm}.markup.json' 'patches/{patch}.diff'")
+        rc = os.system(f"set -ex; patch --no-backup-if-mismatch -r - -fs 'files/{norm}.markup.json' 'patches/{patch}.diff'")
         assert rc == 0
 
         txt = open(f"files/{norm}.markup.json").read()

@@ -1,106 +1,74 @@
-# BV.RPV — Rezeptpflichtverordnung (RPV)
+# BV.RPV.002 — Rezeptpflichtverordnung (RPV)
 **Typ:** Verordnung eines Bundesministeriums  
 **Kurztitel:** RPV  
 **Langtitel:** Verordnung des Bundesministers für Gesundheit und Umweltschutz vom 30. August 1973 über rezeptpflichtige Arzneimittel (Rezeptpflichtverordnung)  
 **Gesamte Rechtsvorschrift in der Fassung vom:** 02.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010358  
 **Letzte Änderung im RIS:** BGBl. II Nr. 261/2024  
-**LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BV.RPV.md  
+**LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BV.RPV.002.md  
 *Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
-## Inhaltsverzeichnis
+*Das ist die "AI-Friendly" multi-part Variante dieser Rechtsvorschrift mit kompakter Formatierung. Siehe [BV.RPV.md](BV.RPV.md) für die "Human-Friendly" single-page Variante dieser Norm mit hübscherer Formatierung.*
 
-* [§ 1 RPV](#-1-rpv)  
-* [§ 2 RPV](#-2-rpv)
-
-**Anlage**  
-* [Anl. 1 RPV](#anl-1-rpv)
-
-----
-
-
-### § 1 RPV
-
-> `(1)` Einer Abgabebeschränkung gemäß § 1 des Rezeptpflichtgesetzes unterliegen die in der Anlage angeführten Arzneimittel und deren Zubereitung, sofern sie nicht
->
->> `a)` durch die Anlage selbst oder gemäß Anhang I zur Anlage von der Abgabebeschränkung ausgenommen oder
->
->> `b)` mit dem in Anhang II zur Anlage angeführten Warnhinweis versehen sind\.
-
-> `(2)` Sofern Abs\. 3 keine andere Regelung trifft, gilt Abs\. 1 mit der Maßgabe, daß homöopathische Arzneimittel, die in der Anlage angeführte Stoffe in einer Verdünnung der 4\. Dezimalpotenz oder darüber enthalten, nicht der Rezeptpflicht unterliegen\.
-
-> `(3)` Abs\. 1 gilt für homöopathische Arzneimittel, deren wirksame Bestandteile in den Anlagen 1 und 2 der Verordnung betreffend anmeldepflichtige homöopathische Arzneispezialitäten, BGBl\. Nr\. 1011/1994, genannt sind, mit der Maßgabe, daß sie nicht der Rezeptpflicht unterliegen, wenn sie in einem Verdünnungsgrad hergestellt werden, der diesen Anlagen entspricht oder darüber liegt\.
-
-> `(4)` Abs\. 2 und 3 gelten nicht für Arzneimittel zur Injektion\.
-
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.RPV.md#-1-rpv) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010358&Paragraf=1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010358#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.RPV.001.md#-1-rpv) \]
-
-----
-
-### § 2 RPV
-
-> Diese Verordnung tritt mit 1\. Oktober 1973 in Kraft\.
-
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.RPV.md#-2-rpv) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010358&Paragraf=2) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010358#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.RPV.001.md#-2-rpv) \]
-
-----
+*(Fortsetzg. v. [BV.RPV.001](BV.RPV.001.md))*
 
 ## Anlage
 
 ### Anl. 1 RPV
 
-> Die folgenden Listen für Humanarzneimittel und Veterinärarzneimittel enthalten unter Angabe des Rezeptpflichtstatus
->
-> <table id="Tabelle1"><tbody>
-> <tr><td style="vertical-align:top;text-align:left">Teil 1</td><td style="vertical-align:top;text-align:left">Sammelbezeichnungen: nach fachlichen Gesichtspunkten stofflicher Art, therapeutischer Anwendung oder Arzneiform.</td></tr>
-> <tr><td style="vertical-align:top;text-align:left">Teil 2:</td><td style="vertical-align:top;text-align:left">Wirkstoffe definierter chemischer Zusammensetzung. INN-Bezeichnungen erfolgen in Blockschrift. Die Rezeptpflicht gilt, sofern nicht ausdrücklich etwas anderes vermerkt ist, auch für Salze, Ester, Salze von Estern.</td></tr>
-> <tr><td style="vertical-align:top;text-align:left">Teil 3:</td><td style="vertical-align:top;text-align:left">Pflanzen und Pflanzenteile; Pflanzenbestandteile wie ätherische Öle, Harze u. dgl.; Tiere und deren Bestandteile.</td></tr>
-> <tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:left">Die Bezeichnungen erfolgen unter dem Namen der Stammpflanze, gegebenenfalls des Pflanzenteiles oder Pflanzenbestandteiles bzw. der üblichen Bezeichnung des Tieres oder dessen Bestandteiles.</td></tr>
-> <tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:left">Die Rezeptpflicht gilt, sofern nicht ausdrücklich etwas anderes vermerkt ist, auch für daraus hergestellte Auszüge.</td></tr>
-> <tr><td></td><td></td></tr>
-> </tbody></table>
->
-> Fällt ein in Teil 2 oder Teil 3 enthaltener Wirkstoff unter eine Sammelbezeichnung, gilt der in Teil 2 oder Teil 3 angeführte Rezeptpflichtstatus\.
+`Anl. 1 RPV.`  
+Die folgenden Listen für Humanarzneimittel und Veterinärarzneimittel enthalten unter Angabe des Rezeptpflichtstatus
 
-#### A\. HUMANARZNEIMITTEL
+<table id="Tabelle1"><tbody>
+<tr><td style="vertical-align:top;text-align:left">Teil 1</td><td style="vertical-align:top;text-align:left">Sammelbezeichnungen: nach fachlichen Gesichtspunkten stofflicher Art, therapeutischer Anwendung oder Arzneiform.</td></tr>
+<tr><td style="vertical-align:top;text-align:left">Teil 2:</td><td style="vertical-align:top;text-align:left">Wirkstoffe definierter chemischer Zusammensetzung. INN-Bezeichnungen erfolgen in Blockschrift. Die Rezeptpflicht gilt, sofern nicht ausdrücklich etwas anderes vermerkt ist, auch für Salze, Ester, Salze von Estern.</td></tr>
+<tr><td style="vertical-align:top;text-align:left">Teil 3:</td><td style="vertical-align:top;text-align:left">Pflanzen und Pflanzenteile; Pflanzenbestandteile wie ätherische Öle, Harze u. dgl.; Tiere und deren Bestandteile.</td></tr>
+<tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:left">Die Bezeichnungen erfolgen unter dem Namen der Stammpflanze, gegebenenfalls des Pflanzenteiles oder Pflanzenbestandteiles bzw. der üblichen Bezeichnung des Tieres oder dessen Bestandteiles.</td></tr>
+<tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:left">Die Rezeptpflicht gilt, sofern nicht ausdrücklich etwas anderes vermerkt ist, auch für daraus hergestellte Auszüge.</td></tr>
+<tr><td></td><td></td></tr>
+</tbody></table>
 
-> Arzneimittel, welche zu Einspritzungen in und unter die Haut und Schleimhaut, in die Muskulatur und andere Organe, in die Blutbahn, in den Rückenmarkskanal, in geschlossene Körperhöhlen, zur Einverleibung durch Suppositorien, zur Aufbringung auf die Schleimhäute \(insbesondere auch die Schleimhäute des Auges, des Mundes und der Vagina\) dienen sollen, werden hinsichtlich der Rezeptpflicht den Arzneimitteln für den inneren Gebrauch gleichgestellt\.
+Fällt ein in Teil 2 oder Teil 3 enthaltener Wirkstoff unter eine Sammelbezeichnung, gilt der in Teil 2 oder Teil 3 angeführte Rezeptpflichtstatus.
+
+#### A. HUMANARZNEIMITTEL
+
+Arzneimittel, welche zu Einspritzungen in und unter die Haut und Schleimhaut, in die Muskulatur und andere Organe, in die Blutbahn, in den Rückenmarkskanal, in geschlossene Körperhöhlen, zur Einverleibung durch Suppositorien, zur Aufbringung auf die Schleimhäute (insbesondere auch die Schleimhäute des Auges, des Mundes und der Vagina) dienen sollen, werden hinsichtlich der Rezeptpflicht den Arzneimitteln für den inneren Gebrauch gleichgestellt.
 
 #### Anhang I
 
-> Ausnahmen von der Rezeptpflicht
+Ausnahmen von der Rezeptpflicht
 
 #### Anhang II
 
-> Warnhinweise
->
-> Zeichenerklärung:
->
-> <table id="Tabelle2"><tbody>
-> <tr><td style="vertical-align:top;text-align:left">RP:</td><td style="vertical-align:top;text-align:left">Rezeptpflichtig</td></tr>
-> <tr><td style="vertical-align:top;text-align:left">NR:</td><td style="vertical-align:top;text-align:left">Rezeptpflichtig, wiederholte Abgabe verboten</td></tr>
-> <tr><td style="vertical-align:top;text-align:left">RPF:</td><td style="vertical-align:top;text-align:left">Rezeptfrei</td></tr>
-> <tr><td style="vertical-align:top;text-align:left">R:</td><td style="vertical-align:top;text-align:left">Ausnahmen gemäß Anhang I</td></tr>
-> <tr><td style="vertical-align:top;text-align:left">W:</td><td style="vertical-align:top;text-align:left">Warnhinweise gemäß Anhang II</td></tr>
-> <tr><td style="vertical-align:top;text-align:left">I.E.:</td><td style="vertical-align:top;text-align:left">Internationale Einheit</td></tr>
-> <tr><td style="vertical-align:top;text-align:left">INN:</td><td style="vertical-align:top;text-align:left">Internationaler Freiname</td></tr>
-> <tr><td></td><td></td></tr>
-> </tbody></table>
+Warnhinweise
 
-#### B\. VETERINÄRARZNEIMITTEL
+Zeichenerklärung:
 
-> Zeichenerklärung:
->
-> <table id="Tabelle3"><tbody>
-> <tr><td style="vertical-align:top;text-align:left">RP:</td><td style="vertical-align:top;text-align:left">Rezeptpflichtig</td></tr>
-> <tr><td style="vertical-align:top;text-align:left">NR:</td><td style="vertical-align:top;text-align:left">Rezeptpflichtig, wiederholte Abgabe verboten</td></tr>
-> <tr><td style="vertical-align:top;text-align:left">RPF:</td><td style="vertical-align:top;text-align:left">Rezeptfrei</td></tr>
-> <tr><td style="vertical-align:top;text-align:left">I.E.:</td><td style="vertical-align:top;text-align:left">Internationale Einheit</td></tr>
-> <tr><td style="vertical-align:top;text-align:left">INN:</td><td style="vertical-align:top;text-align:left">Internationaler Freiname</td></tr>
-> <tr><td></td><td></td></tr>
-> </tbody></table>
+<table id="Tabelle2"><tbody>
+<tr><td style="vertical-align:top;text-align:left">RP:</td><td style="vertical-align:top;text-align:left">Rezeptpflichtig</td></tr>
+<tr><td style="vertical-align:top;text-align:left">NR:</td><td style="vertical-align:top;text-align:left">Rezeptpflichtig, wiederholte Abgabe verboten</td></tr>
+<tr><td style="vertical-align:top;text-align:left">RPF:</td><td style="vertical-align:top;text-align:left">Rezeptfrei</td></tr>
+<tr><td style="vertical-align:top;text-align:left">R:</td><td style="vertical-align:top;text-align:left">Ausnahmen gemäß Anhang I</td></tr>
+<tr><td style="vertical-align:top;text-align:left">W:</td><td style="vertical-align:top;text-align:left">Warnhinweise gemäß Anhang II</td></tr>
+<tr><td style="vertical-align:top;text-align:left">I.E.:</td><td style="vertical-align:top;text-align:left">Internationale Einheit</td></tr>
+<tr><td style="vertical-align:top;text-align:left">INN:</td><td style="vertical-align:top;text-align:left">Internationaler Freiname</td></tr>
+<tr><td></td><td></td></tr>
+</tbody></table>
 
-#### A\. HUMANARZNEIMITTEL
+#### B. VETERINÄRARZNEIMITTEL
+
+Zeichenerklärung:
+
+<table id="Tabelle3"><tbody>
+<tr><td style="vertical-align:top;text-align:left">RP:</td><td style="vertical-align:top;text-align:left">Rezeptpflichtig</td></tr>
+<tr><td style="vertical-align:top;text-align:left">NR:</td><td style="vertical-align:top;text-align:left">Rezeptpflichtig, wiederholte Abgabe verboten</td></tr>
+<tr><td style="vertical-align:top;text-align:left">RPF:</td><td style="vertical-align:top;text-align:left">Rezeptfrei</td></tr>
+<tr><td style="vertical-align:top;text-align:left">I.E.:</td><td style="vertical-align:top;text-align:left">Internationale Einheit</td></tr>
+<tr><td style="vertical-align:top;text-align:left">INN:</td><td style="vertical-align:top;text-align:left">Internationaler Freiname</td></tr>
+<tr><td></td><td></td></tr>
+</tbody></table>
+
+#### A. HUMANARZNEIMITTEL
 
 #### Teil 1
 
@@ -2145,11 +2113,11 @@ CLOSTRIDIUM HISTOLYTICUM</td><td style="vertical-align:top;text-align:left">NR</
 <tr><td></td><td></td><td></td></tr>
 </tbody></table>
 
-> *\(\_\_\_\_\_\_\_\_\_\_\_*
->
-> *Anm\. 1: Z 2 der Novelle BGBl\. II Nr\. 60/2016 lautet: „Die Liste der Anlage A\. Humanarzneimittel, Teil 2 human, wird an den entsprechenden alphabetischen Stellen wie folgt ergänzt: \.\.\. SOLIFENACIN RP \.\.\.“\. Dieses Arzneimittel wurde bereits mit BGBl\. II Nr\. 182/2015 eingefügt\.*
->
-> *Anm\. 2: Z 1 der Novelle BGBl\. II Nr\. 261/2024 lautet: „Die Liste der Anlage A\. Humanarzneimittel, Teil 2 human, wird an den entsprechenden alphabetischen Stellen wie folgt ergänzt: … ITOPRID RP … RELUGOLIX NR …“\. Diese Arzneimittel wurden bereits mit BGBl\. II Nr\. 109/2023 eingefügt\.\)*
+*(___________*
+
+*Anm. 1: Z 2 der Novelle BGBl. II Nr. 60/2016 lautet: „Die Liste der Anlage A. Humanarzneimittel, Teil 2 human, wird an den entsprechenden alphabetischen Stellen wie folgt ergänzt: ... SOLIFENACIN RP ...“. Dieses Arzneimittel wurde bereits mit BGBl. II Nr. 182/2015 eingefügt.*
+
+*Anm. 2: Z 1 der Novelle BGBl. II Nr. 261/2024 lautet: „Die Liste der Anlage A. Humanarzneimittel, Teil 2 human, wird an den entsprechenden alphabetischen Stellen wie folgt ergänzt: … ITOPRID RP … RELUGOLIX NR …“. Diese Arzneimittel wurden bereits mit BGBl. II Nr. 109/2023 eingefügt.)*
 
 #### Teil    3
 
@@ -2341,7 +2309,7 @@ CLOSTRIDIUM HISTOLYTICUM</td><td style="vertical-align:top;text-align:left">NR</
 <tr><td></td><td></td></tr>
 </tbody></table>
 
-#### B\. VETERINÄRARZNEIMITTEL
+#### B. VETERINÄRARZNEIMITTEL
 
 #### Teil 1
 
@@ -2835,4 +2803,4 @@ CLOSTRIDIUM HISTOLYTICUM</td><td style="vertical-align:top;text-align:left">NR</
 <tr><td></td><td></td></tr>
 </tbody></table>
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.RPV.md#anl-1-rpv) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010358&Paragraf=1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010358#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.RPV.002.md#anl-1-rpv) \]
+`END-OF-DATA-SET`

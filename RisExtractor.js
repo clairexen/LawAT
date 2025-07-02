@@ -506,6 +506,8 @@ class RisExAST {
 							el.style.verticalAlign == "center" ? (isTH ? "X" : "x") :
 							el.style.verticalAlign == "bottom" ? (isTH ? "V" : "v") :
 							(isTH ? "O" : "o");
+					if (el.rowSpan > 1) fmt = el.rowSpan + fmt;
+					if (el.colSpan > 1) fmt = fmt + el.colSpan;
 					if (inCls(cel, "AlignLeft")) fmt = ":" + fmt;
 					else if (inCls(cel, "AlignRight")) fmt = fmt + ":";
 					else if (inCls(cel, "AlignCenter")) fmt = ":" + fmt + ":";

@@ -186,6 +186,14 @@ Gestattet ein Werknutzungsberechtigter oder der nach § 38 Abs. 1 berechtigte 
 `§ 16b (1) UrhG.`  
 § 16 Abs. 3 gilt für die Weiterveräußerung des Originals eines Werkes der bildenden Künste nach der ersten Veräußerung durch den Urheber mit der Maßgabe, dass der Urheber gegen den Veräußerer einen Anspruch auf eine Vergütung in der Höhe des folgenden Anteils am Verkaufspreis ohne Steuern (Folgerechtsvergütung) hat:
 
+<table id="Tabelle1"><tbody>
+<tr><td style="vertical-align:top;text-align:right">4%</td><td style="vertical-align:top;text-align:left">von den ersten</td><td style="vertical-align:top;text-align:right">50.000 EUR,</td></tr>
+<tr><td style="vertical-align:top;text-align:right">3%</td><td style="vertical-align:top;text-align:left">von den weiteren</td><td style="vertical-align:top;text-align:right">150.000 EUR,</td></tr>
+<tr><td style="vertical-align:top;text-align:right">1%</td><td style="vertical-align:top;text-align:left">von den weiteren</td><td style="vertical-align:top;text-align:right">150.000 EUR,</td></tr>
+<tr><td style="vertical-align:top;text-align:right">0,5%</td><td style="vertical-align:top;text-align:left">von den weiteren</td><td style="vertical-align:top;text-align:right">150.000 EUR,</td></tr>
+<tr><td style="vertical-align:top;text-align:right">0,25%</td><td style="vertical-align:top;text-align:left">von allen weiteren Beträgen;</td><td style="vertical-align:top"> </td></tr>
+</tbody></table>
+
 die Vergütung beträgt insgesamt jedoch höchstens 12.500 EUR.
 
 `§ 16b (2) UrhG.`  
@@ -336,36 +344,5 @@ Im übrigen ist das Urheberrecht unübertragbar.
 
 `§ 23 (4) UrhG.`  
 Geht das Urheberrecht auf mehrere Personen über, so sind auf sie die für Miturheber (§ 11) geltenden Vorschriften entsprechend anzuwenden.
-
-## 5. Werknutzungsbewilligung und Werknutzungsrecht.
-
-### § 24 UrhG
-
-`§ 24 (1) UrhG.`  
-Der Urheber kann anderen gestatten, das Werk auf einzelne oder alle nach den §§ 14 bis 18a dem Urheber vorbehaltenen Verwertungsarten zu benutzen (Werknutzungsbewilligung). Auch kann er einem anderen das ausschließliche Recht dazu einräumen (Werknutzungsrecht).
-
-`§ 24 (2) UrhG.`  
-Eine Werknutzungsbewilligung, die vor Einräumung oder Übertragung eines Werknutzungsrechts erteilt worden ist, bleibt gegenüber dem Werknutzungsberechtigten wirksam, wenn mit dem Inhaber der Werknutzungsbewilligung nichts anderes vereinbart ist.
-
-### § 24a UrhG # Werknutzungsbewilligung oder Werknutzungsrecht für die Sendung oder die öffentliche Zurverfügungstellung nach § 18c
-
-`§ 24a UrhG.`  
-Wurde dem Anbieter einer großen Online-Plattform eine Werknutzungsbewilligung für die Sendung oder die öffentliche Zurverfügungstellung nach § 18c erteilt oder dazu ein Werknutzungsrecht eingeräumt oder übertragen, so ist es auch den Nutzern dieses Dienstes gestattet, über die Online-Plattform die betroffenen Werke im Umfang der erteilten Erlaubnis zu senden oder der Öffentlichkeit zur Verfügung zu stellen, sofern nicht diese Nutzer auf der Grundlage einer gewerblichen Tätigkeit handeln oder mit ihrer Tätigkeit erhebliche Einnahmen erzielen. Eine dem Nutzer erteilte Erlaubnis berechtigt auch den Anbieter des Dienstes zur erlaubten Nutzung.
-
-### § 24b UrhG # Vertragshilfe für die Zugänglichmachung audiovisueller Werke über Videoabrufdienste
-
-`§ 24b UrhG.`  
-Kommt ein Vertrag über die Bewilligung der Zugänglichmachung audiovisueller Werke über Videoabrufdienste nicht zustande, so kann jeder der Beteiligten beim Schlichtungsausschuss (§ 82 VerwGesG 2016, BGBl. I Nr. 27/2016) Vertragshilfe beantragen. Der Schlichtungsausschuss kann den Parteien Vorschläge unterbreiten.
-
-### § 24c UrhG # Zweckübertragungsgrundsatz und unbekannte Verwertungsarten
-
-`§ 24c (1) UrhG.`  
-Sind in einer Werknutzungsbewilligung oder bei der Einräumung eines Werknutzungsrechts die Verwertungsarten nicht ausdrücklich einzeln bezeichnet, so bestimmt sich nach dem von beiden Vertragspartnern zugrunde gelegten Vertragszweck, auf welche Verwertungsarten sie sich erstreckt. Entsprechendes gilt für die Frage, ob eine Werknutzungsbewilligung erteilt oder ein Werknutzungsrecht eingeräumt wurde, wie weit die Erlaubnis und das eingeräumte Recht reichen und welchen Einschränkungen sie unterliegen. Der Zweckübertragungsgrundsatz kommt bei Werken, die im Rahmen eines arbeitsrechtlichen Verhältnisses geschaffen wurden, sowie bei Werken, die im Verhältnis zum Gesamtwerk einen nachrangigen Beitrag darstellen, nicht zur Anwendung.
-
-`§ 24c (2) UrhG.`  
-Ein Vertrag, durch den der Urheber für eine bei dessen Abschluss unbekannte Verwertungsart eine Werknutzungsbewilligung erteilt oder ein Werknutzungsrecht einräumt, bedarf der Schriftform. Der Urheber kann diese Werknutzungsbewilligung oder dieses Werknutzungsrecht widerrufen. Das Widerrufsrecht erlischt nach Ablauf von drei Monaten, nachdem der Vertragspartner die Mitteilung über die beabsichtigte Aufnahme der neuen Art der Verwertung an den Urheber unter der ihm zuletzt bekannten Anschrift abgesendet hat. Auf das Widerrufsrecht kann im Voraus nicht verzichtet werden.
-
-`§ 24c (3) UrhG.`  
-An einem Filmwerk oder an einem zur Herstellung eines Filmwerks benutzten Werk steht das Widerrufsrecht nicht zu. Das Widerrufsrecht besteht weiters nicht, wenn der Urheber einen lediglich nachrangigen Beitrag zu einem Werk, einem Produkt oder einer Dienstleistung erbracht hat, bei Werken, die im Rahmen eines arbeitsrechtlichen Verhältnisses geschaffen wurden, sowie wenn gesondert eine zusätzliche angemessene Vergütung für die unbekannte Verwertungsart vereinbart wurde.
 
 `END-OF-DATA-FILE` *(fortges. in [BG.UrhG.002](BG.UrhG.002.md))*

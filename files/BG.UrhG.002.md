@@ -13,6 +13,37 @@
 
 *(Fortsetzg. v. [BG.UrhG.001](BG.UrhG.001.md))*
 
+## 5. Werknutzungsbewilligung und Werknutzungsrecht.
+
+### § 24 UrhG
+
+`§ 24 (1) UrhG.`  
+Der Urheber kann anderen gestatten, das Werk auf einzelne oder alle nach den §§ 14 bis 18a dem Urheber vorbehaltenen Verwertungsarten zu benutzen (Werknutzungsbewilligung). Auch kann er einem anderen das ausschließliche Recht dazu einräumen (Werknutzungsrecht).
+
+`§ 24 (2) UrhG.`  
+Eine Werknutzungsbewilligung, die vor Einräumung oder Übertragung eines Werknutzungsrechts erteilt worden ist, bleibt gegenüber dem Werknutzungsberechtigten wirksam, wenn mit dem Inhaber der Werknutzungsbewilligung nichts anderes vereinbart ist.
+
+### § 24a UrhG # Werknutzungsbewilligung oder Werknutzungsrecht für die Sendung oder die öffentliche Zurverfügungstellung nach § 18c
+
+`§ 24a UrhG.`  
+Wurde dem Anbieter einer großen Online-Plattform eine Werknutzungsbewilligung für die Sendung oder die öffentliche Zurverfügungstellung nach § 18c erteilt oder dazu ein Werknutzungsrecht eingeräumt oder übertragen, so ist es auch den Nutzern dieses Dienstes gestattet, über die Online-Plattform die betroffenen Werke im Umfang der erteilten Erlaubnis zu senden oder der Öffentlichkeit zur Verfügung zu stellen, sofern nicht diese Nutzer auf der Grundlage einer gewerblichen Tätigkeit handeln oder mit ihrer Tätigkeit erhebliche Einnahmen erzielen. Eine dem Nutzer erteilte Erlaubnis berechtigt auch den Anbieter des Dienstes zur erlaubten Nutzung.
+
+### § 24b UrhG # Vertragshilfe für die Zugänglichmachung audiovisueller Werke über Videoabrufdienste
+
+`§ 24b UrhG.`  
+Kommt ein Vertrag über die Bewilligung der Zugänglichmachung audiovisueller Werke über Videoabrufdienste nicht zustande, so kann jeder der Beteiligten beim Schlichtungsausschuss (§ 82 VerwGesG 2016, BGBl. I Nr. 27/2016) Vertragshilfe beantragen. Der Schlichtungsausschuss kann den Parteien Vorschläge unterbreiten.
+
+### § 24c UrhG # Zweckübertragungsgrundsatz und unbekannte Verwertungsarten
+
+`§ 24c (1) UrhG.`  
+Sind in einer Werknutzungsbewilligung oder bei der Einräumung eines Werknutzungsrechts die Verwertungsarten nicht ausdrücklich einzeln bezeichnet, so bestimmt sich nach dem von beiden Vertragspartnern zugrunde gelegten Vertragszweck, auf welche Verwertungsarten sie sich erstreckt. Entsprechendes gilt für die Frage, ob eine Werknutzungsbewilligung erteilt oder ein Werknutzungsrecht eingeräumt wurde, wie weit die Erlaubnis und das eingeräumte Recht reichen und welchen Einschränkungen sie unterliegen. Der Zweckübertragungsgrundsatz kommt bei Werken, die im Rahmen eines arbeitsrechtlichen Verhältnisses geschaffen wurden, sowie bei Werken, die im Verhältnis zum Gesamtwerk einen nachrangigen Beitrag darstellen, nicht zur Anwendung.
+
+`§ 24c (2) UrhG.`  
+Ein Vertrag, durch den der Urheber für eine bei dessen Abschluss unbekannte Verwertungsart eine Werknutzungsbewilligung erteilt oder ein Werknutzungsrecht einräumt, bedarf der Schriftform. Der Urheber kann diese Werknutzungsbewilligung oder dieses Werknutzungsrecht widerrufen. Das Widerrufsrecht erlischt nach Ablauf von drei Monaten, nachdem der Vertragspartner die Mitteilung über die beabsichtigte Aufnahme der neuen Art der Verwertung an den Urheber unter der ihm zuletzt bekannten Anschrift abgesendet hat. Auf das Widerrufsrecht kann im Voraus nicht verzichtet werden.
+
+`§ 24c (3) UrhG.`  
+An einem Filmwerk oder an einem zur Herstellung eines Filmwerks benutzten Werk steht das Widerrufsrecht nicht zu. Das Widerrufsrecht besteht weiters nicht, wenn der Urheber einen lediglich nachrangigen Beitrag zu einem Werk, einem Produkt oder einer Dienstleistung erbracht hat, bei Werken, die im Rahmen eines arbeitsrechtlichen Verhältnisses geschaffen wurden, sowie wenn gesondert eine zusätzliche angemessene Vergütung für die unbekannte Verwertungsart vereinbart wurde.
+
 ## 6. Exekutionsbeschränkungen.
 
 ### § 25 UrhG
@@ -243,47 +274,5 @@ Die Anwartschaft auf den Anspruch nach § 37c unterliegt nicht der Zwangsvollst
 
 `§ 37g UrhG.`  
 Die §§ 24a, 31a, 37b bis 37f gelten nicht für Urheber von Computerprogrammen im Sinn des § 40a.
-
-## VI. Abschnitt # Sondervorschriften für gewerbsmäßig hergestellte Filmwerke.
-
-### § 38 UrhG # Rechte am Filmwerk
-
-`§ 38 (1) UrhG.`  
-Wer sich zur Mitwirkung bei der Herstellung eines Filmes verpflichtet, räumt damit für den Fall, dass er ein Urheberrecht am Filmwerk erwirbt, dem Filmhersteller im Zweifel das ausschließliche Recht ein, das Filmwerk sowie Übersetzungen und andere filmische Bearbeitungen oder Umgestaltungen des Filmwerkes auf alle Nutzungsarten zu nutzen. Hat der Urheber des Filmwerkes dieses Nutzungsrecht im Voraus einem Dritten eingeräumt, so behält er gleichwohl stets die Befugnis, dieses Recht beschränkt oder unbeschränkt dem Filmhersteller einzuräumen. Das Urheberrecht an den zur Herstellung des Filmwerkes benutzten Werken, wie Roman, Drehbuch und Filmmusik, bleibt unberührt. Dieser Absatz gilt für die Rechte zur filmischen Verwertung der bei der Herstellung eines Filmwerkes entstehenden Lichtbildwerke entsprechend. Die gesetzlichen Vergütungsansprüche des Filmurhebers stehen dem Filmhersteller und dem Filmurheber je zur Hälfte zu, soweit sie nicht unverzichtbar sind.
-
-`§ 38 (1a) UrhG.`  
-Gestattet der nach Abs. 1 berechtigte Filmhersteller oder ein Werknutzungsberechtigter gegen Entgelt anderen die Benutzung eines Filmwerks zur gleichzeitigen, vollständigen und unveränderten Weitersendung mit Hilfe von Leitungen, so hat der Urheber Anspruch auf einen Anteil an diesem Entgelt; dieser Anteil beträgt ein Drittel, soweit der Filmhersteller mit dem Urheber nichts anderes vereinbart hat. Gestattet der Filmhersteller oder Werknutzungsberechtigte die Benutzung auch als Inhaber anderer Ausschließungsrechte und wird hiefür ein pauschales Entgelt vereinbart, so steht dem Urheber der Anspruch nach dieser Bestimmung nur an dem Teil des Entgelts zu, der auf die Abgeltung des Werknutzungsrechts am Filmwerk entfällt. Der Urheber kann den Anspruch nach dieser Bestimmung unmittelbar gegenüber demjenigen geltend machen, der zur Zahlung des Entgelts verpflichtet ist, wenn er diesem gegenüber nachweist, dass der Anspruch vom Filmhersteller beziehungsweise Werknutzungsberechtigten anerkannt oder gegen diesen gerichtlich festgestellt ist. Der Anspruch des Urhebers nach dieser Bestimmung kann nur durch Verwertungsgesellschaften geltend gemacht werden.
-
-`§ 38 (2) UrhG.`  
-Änderungen des Filmwerkes, seines Titels und der Bezeichnung des Filmherstellers dürfen, unbeschadet der Vorschrift des § 39, Absatz 3, ohne Einwilligung des Filmherstellers nur vorgenommen werden, soweit sie nach der auf den Filmhersteller entsprechend anzuwendenden Vorschrift des § 21, Absatz 1, zulässig sind.
-
-`§ 38 (3) UrhG.`  
-Bis zum Beweis des Gegenteils gilt als Filmhersteller, wer als solcher auf den Vervielfältigungsstücken eines Filmwerkes in der üblichen Weise durch Angabe seines wahren Namens, seiner Firma oder eines von ihm bekanntermaßen gebrauchten Decknamens oder Unternehmenskennzeichens bezeichnet wird. Dasselbe gilt von dem, der bei einer öffentlichen Aufführung oder bei einer Rundfunksendung des Filmwerkes auf die angegebene Art als Filmhersteller bezeichnet wird, sofern nicht die im vorigen Satz aufgestellte Vermutung dafür spricht, daß Filmhersteller ein anderer ist.
-
-### § 39 UrhG # Urheber
-
-`§ 39 (1) UrhG.`  
-Wer an der Schaffung eines gewerbsmäßig hergestellten Filmwerkes derart mitgewirkt hat, daß der Gesamtgestaltung des Werkes die Eigenschaft einer eigentümlichen geistigen Schöpfung zukommt, kann vom Hersteller verlangen, auf dem Film und in Ankündigungen des Filmwerkes als dessen Urheber genannt zu werden.
-
-`§ 39 (2) UrhG.`  
-Die Urheberbezeichnung (Absatz 1) ist in den Ankündigungen von öffentlichen Aufführungen und von Rundfunksendungen des Filmwerkes anzuführen.
-
-`§ 39 (3) UrhG.`  
-Zu einer nach § 21 nur mit Einwilligung des Urhebers zulässigen Änderung des Filmwerkes, seines Titels und der Urheberbezeichnung bedarf es, unbeschadet der Vorschrift des § 38, Absatz 2, der Einwilligung der in der Urheberbezeichnung genannten Urheber.
-
-`§ 39 (4) UrhG.`  
-Zur Verwertung von Bearbeitungen und Übersetzungen des Filmwerkes bedarf es außer der Einwilligung des Filmherstellers auch der Einwilligung der in der Urheberbezeichnung genannten Urheber. Soweit diese Urheber mit dem Filmhersteller nichts anderes vereinbart haben, bedarf es dieser Einwilligung nicht für Übersetzungen und Bearbeitungen einschließlich der Fertigstellung des unvollendet gebliebenen Filmwerks, die nach den im redlichen Verkehr geltenden Gewohnheiten und Gebräuchen zur normalen Verwertung des Filmwerks erforderlich sind und die geistigen Interessen der Urheber am Werk nicht beeinträchtigen.
-*(Anm.: Abs. 5 aufgehoben durch BGBl. Nr. 151/1996)*
-
-### § 40 UrhG # Verwertungsrechte und Werknutzungsrechte
-
-`§ 40 (1) UrhG.`  
-Die dem Filmhersteller zustehenden Verwertungsrechte sind vererblich und veräußerlich und können ohne Einschränkung in Exekution gezogen werden. Werden sie auf einen anderen übertragen, so kann dem Erwerber auch das Recht eingeräumt werden, sich als Hersteller des Filmwerkes zu bezeichnen. In diesem Falle gilt der Erwerber fortan als Filmhersteller und genießt auch den diesem nach § 38, Absatz 2, zukommenden Schutz.
-
-`§ 40 (2) UrhG.`  
-Werknutzungsrechte an gewerbsmäßig hergestellten Filmwerken können, wenn mit dem Hersteller nichts anderes vereinbart worden ist, ohne dessen Einwilligung auf einen anderen übertragen werden.
-
-`§ 40 (3) UrhG.`  
-Die Vorschriften der §§ 29 und 31a gelten für Werknutzungsbewilligungen oder Werknutzungsrechte an gewerbsmäßig hergestellten Filmwerken nicht.
 
 `END-OF-DATA-FILE` *(fortges. in [BG.UrhG.003](BG.UrhG.003.md))*
