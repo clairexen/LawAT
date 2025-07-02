@@ -320,6 +320,9 @@ class RisExAST {
 		if (inCls(el, "Abstand"))
 			return ast.set("type", "Break");
 
+		if (el.tagName == "TABLE")
+			return ast.parseTable();
+
 		ast.set("type", "Unknown");
 		ast.set("path", getCssSelector(el));
 		ast.set("tag", el.tagName);
@@ -380,6 +383,29 @@ class RisExAST {
 			if (ast.get("sym")?.match(/^[a-z]+[0-9]*\)$/))
 				this.set("type", "LitLst");
 		});
+	}
+
+	parseTable() {
+		this.set("type", "Table");
+		this.baseElement.querySelectorAll(":scope > tbody > tr").forEach(el => {
+			let ast = new RisExAST(this, el);
+			ast.parseTabLine();
+		});
+	}
+
+	parseTabLine() {
+		this.set("type", "TabLine");
+		this.baseElement.querySelectorAll(":scope > td").forEach(el => {
+			let ast = new RisExAST(this, el);
+			ast.parseTabCell();
+		});
+	}
+
+	parseTabCell() {
+		this.set("type", "TabCell");
+		this.contentElement = this.baseElement.querySelector(":scope > p");
+		if (this.contentElement)
+			this.text = getVisibleTextTree(this.contentElement);
 	}
 
 	parseText() {
@@ -466,6 +492,25 @@ class RisExAST {
 				if (tag == "LitLst") tag = "List Lit";
 				if (tag == "Lst") tag = "List";
 				color = null;
+			}
+
+			if (this.typeIn("Table", "TabLine", "TabCell")) {
+				tag = this.get("type");
+				let el = this.baseElement;
+				if (this.typeIn("Table") && el.id)
+					tag = "Table " + el.id;
+				if (this.typeIn("TabCell")) {
+					let isTH = el.tagName == "TH";
+					let cel = this.contentElement;
+					let fmt = el.style.verticalAlign == "top" ? (isTH ? "A" : "^") :
+							el.style.verticalAlign == "center" ? (isTH ? "X" : "x") :
+							el.style.verticalAlign == "bottom" ? (isTH ? "V" : "v") :
+							(isTH ? "O" : "o");
+					if (inCls(cel, "AlignLeft")) fmt = ":" + fmt;
+					else if (inCls(cel, "AlignRight")) fmt = fmt + ":";
+					else if (inCls(cel, "AlignCenter")) fmt = ":" + fmt + ":";
+					tag = "TabCell " + fmt;
+				}
 			}
 
 			if (this.typeIn("Item")) {
