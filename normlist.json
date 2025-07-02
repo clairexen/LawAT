@@ -168,8 +168,20 @@
 	"BV.RPV": {
 		"type": "BV",
 		"title": "RPV",
-		"caption": "Rezeptpflichtverordnung (RPV)",
+		"caption": "BMSGPK: Rezeptpflichtverordnung (RPV)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010358"
+	},
+	"BV.DV-StAG": {
+		"type": "BV",
+		"title": "DV-StAG",
+		"caption": "BMJ: DV zum Staatsanwaltschaftsgesetz (DV-StAG)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000872"
+	},
+	"BV.RLV": {
+		"type": "BV",
+		"title": "RLV",
+		"caption": "BMI: Richtlinien-Verordnung (RLV)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005857"
 	},
 	"WLG.WLSG": {
 		"type": "WLG",

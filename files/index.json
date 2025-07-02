@@ -21,7 +21,9 @@
   "BG.StAG": "Staatsanwaltschaftsgesetz (StAG)",
   "BG.VStG": "Verwaltungsstrafgesetz (VStG)",
   "BG.VwGVG": "Verwaltungsgerichtsverfahrensgesetz (VwGVG)",
-  "BV.RPV": "Rezeptpflichtverordnung (RPV)",
+  "BV.RPV": "BMSGPK: Rezeptpflichtverordnung (RPV)",
+  "BV.DV-StAG": "BMJ: DV zum Staatsanwaltschaftsgesetz (DV-StAG)",
+  "BV.RLV": "BMI: Richtlinien-Verordnung (RLV)",
   "WLG.WLSG": "Wiener Landes-Sicherheitsgesetz (WLSG)",
   "WLG.WrAuskPG": "Wiener Auskunftspflichtgesetz (WrAuskPG)"
 }

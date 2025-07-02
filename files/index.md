@@ -25,7 +25,9 @@
 * [Zivilprozessordnung (ZPO)](BG.ZPO.md)
 
 ## Verordnungen der Bundesministerien
-* [Rezeptpflichtverordnung (RPV)](BV.RPV.md)
+* [BMJ: DV zum Staatsanwaltschaftsgesetz (DV-StAG)](BV.DV-StAG.md)
+* [BMI: Richtlinien-Verordnung (RLV)](BV.RLV.md)
+* [BMSGPK: Rezeptpflichtverordnung (RPV)](BV.RPV.md)
 
 ## Wiener Landesgesetze
 * [Wiener Landes-Sicherheitsgesetz (WLSG)](WLG.WLSG.md)
