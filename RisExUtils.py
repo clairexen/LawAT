@@ -15,7 +15,6 @@ from pathlib import Path
 # Global flags and command line options
 #######################################
 
-
 normindex = json.load(open("normlist.json"))
 
 GlobalFlagDefaults = {
