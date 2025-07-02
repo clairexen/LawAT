@@ -12,13 +12,14 @@
   "BG.UrhG": "Urheberrechtsgesetz (UrhG)",
   "BG.WechselG": "Wechselgesetz (WechselG)",
   "BG.SPG": "Sicherheitspolizeigesetz (SPG)",
-  "BG.AuskPG": "Auskunftspflichtgesetz",
+  "BG.AuskPG": "Auskunftspflichtgesetz (AuskPG)",
   "BG.RezeptPG": "Rezeptpflichtgesetz (RezeptPG)",
   "BG.BDG": "Beamten-Dienstrechtsgesetz (BDG)",
   "BG.DSG": "Datenschutzgesetz (DSG)",
   "BG.SchUG": "Schulunterrichtsgesetz (SchUG)",
   "BG.KSchG": "Konsumentenschutzgesetz (KSchG)",
+  "BG.StAG": "Staatsanwaltschaftsgesetz (StAG)",
   "BV.RPV": "Rezeptpflichtverordnung (RPV)",
   "WLG.WLSG": "Wiener Landes-Sicherheitsgesetz (WLSG)",
-  "WLG.WrAuskPG": "Wiener Auskunftspflichtgesetz"
+  "WLG.WrAuskPG": "Wiener Auskunftspflichtgesetz (WrAuskPG)"
 }

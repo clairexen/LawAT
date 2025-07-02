@@ -3,7 +3,7 @@
 ## Bundesgesetze
 * [Allgemeines bürgerliches Gesetzbuch (ABGB)](BG.ABGB.md)
 * [Allgemeines Verwaltungsverfahrensgesetz (AVG)](BG.AVG.md)
-* [Auskunftspflichtgesetz](BG.AuskPG.md)
+* [Auskunftspflichtgesetz (AuskPG)](BG.AuskPG.md)
 * [Außerstreitgesetz (AußStrG)](BG.AußStrG.md)
 * [Beamten-Dienstrechtsgesetz (BDG)](BG.BDG.md)
 * [Datenschutzgesetz (DSG)](BG.DSG.md)
@@ -13,6 +13,7 @@
 * [Rezeptpflichtgesetz (RezeptPG)](BG.RezeptPG.md)
 * [Sicherheitspolizeigesetz (SPG)](BG.SPG.md)
 * [Schulunterrichtsgesetz (SchUG)](BG.SchUG.md)
+* [Staatsanwaltschaftsgesetz (StAG)](BG.StAG.md)
 * [Strafgesetzbuch (StGB)](BG.StGB.md)
 * [Strafprozeßordnung (StPO)](BG.StPO.md)
 * [Straßenverkehrsordnung (StVO)](BG.StVO.md)
@@ -26,4 +27,4 @@
 
 ## Wiener Landesgesetze
 * [Wiener Landes-Sicherheitsgesetz (WLSG)](WLG.WLSG.md)
-* [Wiener Auskunftspflichtgesetz](WLG.WrAuskPG.md)
+* [Wiener Auskunftspflichtgesetz (WrAuskPG)](WLG.WrAuskPG.md)

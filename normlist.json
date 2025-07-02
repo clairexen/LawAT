@@ -144,6 +144,13 @@
 		"caption": "Konsumentenschutzgesetz (KSchG)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002462"
 	},
+	"BG.StAG": {
+		"type": "BG",
+		"title": "StAG",
+		"stop": "§ 43",
+		"caption": "Staatsanwaltschaftsgesetz (StAG)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000842"
+	},
 	"BV.RPV": {
 		"type": "BV",
 		"title": "RPV",
