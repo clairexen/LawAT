@@ -955,6 +955,10 @@ def cli_find(normkey):
     print("DONE.")
     stopPlaywright()
 
+def cli_update(*args):
+    cli_fetch(*args)
+    cli_render("--index", "--down", *args)
+
 def cli_fetch(*args):
     addFlag("patch", True)
     args = updateFlags(*args)
@@ -1098,7 +1102,6 @@ def cli_render(*args):
             f.write("\n}\n")
 
     if flags.index:
-        print()
         print("Generating Top-Level Index Files.")
         cli_index()
 

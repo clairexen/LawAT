@@ -236,7 +236,7 @@ class RisExAST {
 				"": ["UeberschrPara"]
 			},
 			"Text": {
-				"Aufz": ["AufzaehlungE0", "AufzaehlungE1", "AufzaehlungE2"],
+				"Aufz": ["AufzaehlungE0", "AufzaehlungE1", "AufzaehlungE2", "AufzaehlungE3"],
 				"End": ["SchlussteilE0", "SchlussteilE1", "SchlussteilE2",
 					"SchlussteilE0_5", "SatznachNovao"],
 				"Erl": ["ErlText"],
@@ -306,7 +306,7 @@ class RisExAST {
 			if (inCls(el, "ParagraphMitAbsatzzahl"))
 				return ast.parseAbsLst();
 			if (inCls(el, "Abs", "Abs_small_indent", "SatznachNovao", "ErlText",
-					"AufzaehlungE0", "AufzaehlungE1", "AufzaehlungE2",
+					"AufzaehlungE0", "AufzaehlungE1", "AufzaehlungE2", "AufzaehlungE3",
 					"SchlussteilE0", "SchlussteilE1", "SchlussteilE2",
 					"SchlussteilE0_5", "PromKlEinlSatz"))
 				return ast.parseText();

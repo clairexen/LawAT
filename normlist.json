@@ -117,6 +117,13 @@
 		"caption": "Rezeptpflichtgesetz (RezeptPG)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010351"
 	},
+	"BG.BDG": {
+		"type": "BG",
+		"title": "BDG",
+		"stop": "§ 286",
+		"caption": "Beamten-Dienstrechtsgesetz (BDG)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008470"
+	},
 	"BV.RPV": {
 		"type": "BV",
 		"title": "RPV",

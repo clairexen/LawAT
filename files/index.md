@@ -5,6 +5,7 @@
 * [Allgemeines Verwaltungsverfahrensgesetz (AVG)](BG.AVG.md)
 * [Auskunftspflichtgesetz](BG.AuskPflichtG.md)
 * [Außerstreitgesetz (AußStrG)](BG.AußStrG.md)
+* [Beamten-Dienstrechtsgesetz (BDG)](BG.BDG.md)
 * [Exekutionsordnung (EO)](BG.EO.md)
 * [Jurisdiktionsnorm (JN)](BG.JN.md)
 * [Rezeptpflichtgesetz (RezeptPG)](BG.RezeptPG.md)
