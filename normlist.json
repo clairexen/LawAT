@@ -108,7 +108,7 @@
 	"BG.AuskPG": {
 		"type": "BG",
 		"title": "AuskPG",
-		"caption": "Auskunftspflichtgesetz",
+		"caption": "Auskunftspflichtgesetz (AuskPG)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000916"
 	},
 	"BG.RezeptPG": {
@@ -159,7 +159,7 @@
 	"WLG.WrAuskPG": {
 		"type": "WLG",
 		"title": "WrAuskPG",
-		"caption": "Wiener Auskunftspflichtgesetz",
+		"caption": "Wiener Auskunftspflichtgesetz (WrAuskPG)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrW&Gesetzesnummer=20000332"
 	}
 }
