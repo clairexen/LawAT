@@ -240,6 +240,7 @@ class RisExAST {
 				"End": ["SchlussteilE0", "SchlussteilE1", "SchlussteilE2",
 					"SchlussteilE0_5", "SatznachNovao"],
 				"Erl": ["ErlText"],
+				"Prom": ["PromKlEinlSatz"],
 				"": ["Abs", "Abs_small_indent"]
 			},
 			"": ["AlignCenter", "AlignJustify"]
@@ -307,7 +308,7 @@ class RisExAST {
 			if (inCls(el, "Abs", "Abs_small_indent", "SatznachNovao", "ErlText",
 					"AufzaehlungE0", "AufzaehlungE1", "AufzaehlungE2",
 					"SchlussteilE0", "SchlussteilE1", "SchlussteilE2",
-					"SchlussteilE0_5"))
+					"SchlussteilE0_5", "PromKlEinlSatz"))
 				return ast.parseText();
 			if (inCls(el, "AbbildungoderObjekt"))
 				return ast.parseMedia();

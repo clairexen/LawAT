@@ -254,6 +254,8 @@ def markdownEscape(text):
 def docTypeToLongName(typ):
     match typ:
         case "BG": return "Bundesgesetz"
+        case "BV": return "Verordnung eines Bundesministeriums"
+        case "WLG": return "Wiener Landesgesetz"
     assert False, "Unrecognized doc type: {typ}"
 
 
@@ -350,6 +352,10 @@ class LawDocMarkdownEngine:
         self.risDoc = risDoc
         self.normkey = risDoc[0].removeprefix("LawDoc ")
         self.normdata = normindex[self.normkey]
+
+        self.strict_mode = flags.strict
+        if "disable-strict-mode" in self.normdata:
+            self.strict_mode = False
 
         self.meta = {
             item[0].removeprefix("Meta "): item for item in self.risDoc
@@ -459,7 +465,7 @@ class LawDocMarkdownEngine:
                 self.genList(item)
 
             case _:
-                if flags.strict:
+                if self.strict_mode:
                     assert False, f"Unsupported Tag in genText(): {tag}"
                 else:
                     print(f"Unsupported Tag in genText(): {tag}")
@@ -566,7 +572,7 @@ class LawDocMarkdownEngine:
         lastTyp = None
         for item in parDoc[1:]:
             if type(item[0]) is dict:
-                if flags.strict:
+                if self.strict_mode:
                     assert False, f"Unknown Tag in genPar(): {tag}"
                 print(f"Unknown Tag in genPar(): {tag}")
                 continue
@@ -633,7 +639,7 @@ class LawDocMarkdownEngine:
                         self.genList(item, br=(tag[-1] in ("Abs", "List")))
 
                     else:
-                        if flags.strict:
+                        if self.strict_mode:
                             assert False, f"Unsupported Tag in genPar(): {tag}"
                         else:
                             print(f"Unsupported Tag in genPar(): {tag}")
@@ -953,6 +959,7 @@ def cli_fetch(*args):
 
 def cli_render(*args):
     addFlag("prdemo", False)
+    addFlag("index", False)
     args = updateFlags(*args)
 
     if not len(args):
@@ -1027,24 +1034,29 @@ def cli_render(*args):
                 sep = ",\n  "
             f.write("\n}\n")
 
-    print()
-    print("Generating Top-Level Index Files.")
+    if flags.index:
+        print()
+        print("Generating Top-Level Index Files.")
+        cli_index()
 
+    print("DONE.")
+    embed()
+
+def cli_index():
     with open(f"{flags.filesdir}/index.json", "w") as f:
-        f.write("[\n  " + ",\n  ".join([f'"{normkey}": "{normindex[normkey]["caption"]}"'
-                for normkey in normindex.keys()]) + "\n]\n")
+        f.write("{\n  " + ",\n  ".join([f'"{normkey}": "{normindex[normkey]["caption"]}"'
+                for normkey in normindex.keys()]) + "\n}\n")
 
     with open(f"{flags.filesdir}/index.md", "w") as f:
         f.write(f"# LawAT Rechtsdatensatz — Index der Normen\n")
         for pf, header in (
                     ("BG", "Bundesgesetze"),
+                    ("BV", "Verordnungen der Bundesministerien"),
+                    ("WLG", "Wiener Landesgesetze"),
                 ):
             f.write(f"\n## {header}\n")
             f.write("\n".join([f'* [{normindex[normkey]["caption"]}]({normkey}.md)'
                     for normkey in sorted(normindex.keys()) if normkey.startswith(pf+".")])+"\n")
-
-    print("DONE.")
-    embed()
 
 def cli_patch(*args):
     norm, *patches = args
@@ -1120,8 +1132,9 @@ def cli_markup(*args):
 def cli_mkjson():
     data = dict()
 
-    for fn in ["normlist.json"] + glob.glob("{flags.filesdir}/*.json") + glob.glob("{flags.filesdir}/*.md"):
+    for fn in ["normlist.json"] + glob.glob(f"{flags.filesdir}/*.json") + glob.glob(f"{flags.filesdir}/*.md"):
         if fn.endswith(".json"):
+            print(fn)
             data[fn.removeprefix("{flags.filesdir}/")] = json.load(open(fn))
         else:
             data[fn.removeprefix("{flags.filesdir}/")] = open(fn).read().split("\n")

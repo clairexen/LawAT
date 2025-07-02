@@ -4,13 +4,9 @@ import re
 import hashlib
 
 # Directory where cached bodies (.content) and header metadata (.headers) are stored
-CACHE_DIR = "__riscache__"
+CACHE_DIR = "__webcache__"
 CACHED_ONLY = False
 
-memcache = dict()
-
-# Ensure the cache directory exists.
-os.makedirs(CACHE_DIR, exist_ok=True)
 
 # ---------------------------------------------------------------------------
 # Helpers
@@ -33,6 +29,7 @@ def _paths(url: str):
         base,
     )
 
+
 # ---------------------------------------------------------------------------
 # Mitmproxy hooks
 # ---------------------------------------------------------------------------
@@ -44,9 +41,8 @@ def request(flow: http.HTTPFlow):
 
     content_path, headers_path, base = _paths(flow.request.pretty_url)
 
-
     if not (os.path.exists(content_path) and os.path.exists(headers_path)):
-        ctx.log.warn(f"Uncached request: {base}")
+        ctx.log.warn(f"Uncached Request: {base}")
         if CACHED_ONLY:
             flow.response = http.Response.make(
                 502,
@@ -60,12 +56,6 @@ def request(flow: http.HTTPFlow):
         return
 
     # ---------------- Cache‑HIT ----------------
-    if base in memcache:
-        ctx.log.info(f"Cached Request in Memory: {base}")
-        flow.response = memcache[base].copy()
-        flow.response.is_replay = True
-        return
-
     ctx.log.info(f"Cached Request: {base}")
 
     with open(content_path, "rb") as f:
@@ -106,7 +96,6 @@ def request(flow: http.HTTPFlow):
     flow.response = http.Response.make(status_code, body, resp_headers)
     flow.response.is_replay = True
 
-
 def response(flow: http.HTTPFlow):
     """Persist successful GETs that were not served from cache."""
     if flow.request.method.upper() != "GET":
@@ -116,11 +105,13 @@ def response(flow: http.HTTPFlow):
         return
 
     content_path, headers_path, base = _paths(flow.request.pretty_url)
-    memcache[base] = flow.response.copy()
+
+    # Ensure the cache directory exists.
+    os.makedirs(CACHE_DIR, exist_ok=True)
 
     # --- Save body ---
     with open(content_path, "wb") as f:
-        f.write(flow.response.raw_content or b"")
+        f.write(flow.response.content)
 
     # --- Save request & response headers ---
     with open(headers_path, "w", encoding="utf-8") as f:

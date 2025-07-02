@@ -28,12 +28,12 @@ RisExFiles.zip: normlist.json files/*
 
 json: RisExData.json
 RisExData.json: venv normlist.json files/*
-	./RisExUtils.py mkjson
+	.venv/bin/python3 RisExUtils.py mkjson
 
 update:
-	rm -rf files __rismarkup__ __riscache__
+	rm -rf files __rismarkup__ __webcache__
 	.venv/bin/python3 RisExUtils.py fetch
-	.venv/bin/python3 RisExUtils.py render --down
+	.venv/bin/python3 RisExUtils.py render --down --index
 	$(MAKE) zip json
 
 
@@ -47,7 +47,7 @@ mitmp:
 	mitmdump -s mitmp.py
 
 purge:
-	rm -rf .venv RisExData.json __pycache__/ __rismarkup__/ __rishtml__/
+	rm -rf .venv RisExData.json __pycache__/ __rismarkup__/ __webcache__/
 	rm -rf RisExFiles.zip
 
 .PHONY: help venv zip json update check-markup mitmp purge
