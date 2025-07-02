@@ -1028,6 +1028,22 @@ def cli_render(*args):
                 sep = ",\n  "
             f.write("\n}\n")
 
+    print()
+    print("Generating Top-Level Index Files.")
+
+    with open(f"{flags.filesdir}/index.json", "w") as f:
+        f.write("[\n  " + ",\n  ".join([f'"{normkey}": "{normindex[normkey]["caption"]}"'
+                for normkey in normindex.keys()]) + "\n]\n")
+
+    with open(f"{flags.filesdir}/index.md", "w") as f:
+        f.write(f"# LawAT Rechtsdatensatz — Index der Normen\n")
+        for pf, header in (
+                    ("BG", "Bundesgesetze"),
+                ):
+            f.write(f"\n## {header}\n")
+            f.write("\n".join([f'* [{normindex[normkey]["caption"]}]({normkey}.md)'
+                    for normkey in sorted(normindex.keys()) if normkey.startswith(pf+".")])+"\n")
+
     print("DONE.")
     embed()
 
@@ -1061,7 +1077,8 @@ def cli_patch(*args):
         open(f"files/{norm}.markup.json", "w").write(txt)
 
 def cli_diff(norm):
-    os.system(f"bash -c \"diff --label {norm}.markup.json --label {norm}.markup.json -uF '^\\[' <(git cat-file blob :files/{norm}.markup.json;) files/{norm}.markup.json\"")
+    os.system(f"bash -c \"diff --label {norm}.markup.json --label {norm}.markup.json -uF '^\\[' " + \
+              f"<(git cat-file blob :files/{norm}.markup.json;) files/{norm}.markup.json\"")
 
 def cli_markup(*args):
     addFlag("fix", False)
