@@ -1,4 +1,4 @@
-# LawAT Rechtsdatensatz
+### LawAT Rechtsdatensatz
 
 Dieser Datensatz ist keine weitere "Online Rechtsdatenbank", sondern eine
 Sammlung ausgewählter Österreichischer Normen, die leicht als ganzer Datensatz
@@ -7,19 +7,19 @@ den Einsatz in Apps und/oder mit Large Language Models (LLMs, aka Chatbots).
 
 * **[Zu der Liste der aktuell abgedeckten Normen](https://github.com/clairexen/RisEx/blob/main/files/index.md)**
 
-# RisEx - Von RIS HTML zu Mensch- und Maschinenfreundlichem Markup und MarkDown
+### RisEx - Von RIS HTML zu Mensch- und Maschinenfreundlichem Markup und MarkDown
 
 TBD
 
-# RisEn - AI-Freundliche Python Library zum Zugriff auf den mit RisEx erzeugtem Datensatz
+### RisEn - AI-Freundliche Python Library zum Zugriff auf den mit RisEx erzeugtem Datensatz
 
 TBD
 
-# LawAT - WebApp (incl. advanced search and RisEn via Micropython)
+### LawAT - WebApp (incl. advanced search and RisEn via Micropython)
 
 TBD
 
-# Rechtliches
+### Rechtliches
 
 Die Texte der Normen im `files/` Ordner, die dazugehörigen Abbildungen, sowie
 die Kommentare aus dem RIS sind gemeinfrei, denn sie fallen unter den § 7 (1)
