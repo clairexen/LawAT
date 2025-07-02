@@ -17,6 +17,7 @@
 * [Strafgesetzbuch (StGB)](BG.StGB.md)
 * [Strafprozeßordnung (StPO)](BG.StPO.md)
 * [Straßenverkehrsordnung (StVO)](BG.StVO.md)
+* [Telekommunikationsgesetz 2021 (TKG)](BG.TKG.md)
 * [Urheberrechtsgesetz (UrhG)](BG.UrhG.md)
 * [Verwaltungsstrafgesetz (VStG)](BG.VStG.md)
 * [Vereinsgesetz (VerG)](BG.VerG.md)

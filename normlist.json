@@ -165,6 +165,12 @@
 		"caption": "Verwaltungsgerichtsverfahrensgesetz (VwGVG)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008255"
 	},
+	"BG.TKG": {
+		"type": "BG",
+		"title": "TKG",
+		"caption": "Telekommunikationsgesetz 2021 (TKG)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011678"
+	},
 	"BV.RPV": {
 		"type": "BV",
 		"title": "RPV",

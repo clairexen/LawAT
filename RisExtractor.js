@@ -236,7 +236,8 @@ class RisExAST {
 				"": ["UeberschrPara"]
 			},
 			"Text": {
-				"Aufz": ["AufzaehlungE0", "AufzaehlungE1", "AufzaehlungE2", "AufzaehlungE3"],
+				"Aufz": ["AufzaehlungE0", "AufzaehlungE1", "AufzaehlungE2",
+				         "AufzaehlungE3", "AufzaehlungE4"],
 				"End": ["SchlussteilE0", "SchlussteilE1", "SchlussteilE2",
 					"SchlussteilE0_5", "SatznachNovao"],
 				"Erl": ["ErlText"],
@@ -306,7 +307,8 @@ class RisExAST {
 			if (inCls(el, "ParagraphMitAbsatzzahl"))
 				return ast.parseAbsLst();
 			if (inCls(el, "Abs", "Abs_small_indent", "SatznachNovao", "ErlText",
-					"AufzaehlungE0", "AufzaehlungE1", "AufzaehlungE2", "AufzaehlungE3",
+					"AufzaehlungE0", "AufzaehlungE1", "AufzaehlungE2",
+					"AufzaehlungE3", "AufzaehlungE4",
 					"SchlussteilE0", "SchlussteilE1", "SchlussteilE2",
 					"SchlussteilE0_5", "PromKlEinlSatz"))
 				return ast.parseText();
@@ -314,7 +316,7 @@ class RisExAST {
 				return ast.parseMedia();
 		}
 
-		if (el.tagName == "OL" && inCls(el, "wai-list", "wai-absatz-list"))
+		if ((el.tagName == "OL" || el.tagName == "UL") && inCls(el, "wai-list", "wai-absatz-list"))
 			return ast.parseLst();
 
 		if (inCls(el, "Abstand"))
