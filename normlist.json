@@ -124,6 +124,12 @@
 		"caption": "Beamten-Dienstrechtsgesetz (BDG)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008470"
 	},
+	"BG.DSG": {
+		"type": "BG",
+		"title": "DSG",
+		"caption": "Datenschutzgesetz (DSG)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001597"
+	},
 	"BV.RPV": {
 		"type": "BV",
 		"title": "RPV",
