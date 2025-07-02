@@ -1,18 +1,16 @@
-diff --git a/files/BG.UrhG.markup.json b/files/BG.UrhG.markup.json
-index 871aa54..8502567 100644
---- a/files/BG.UrhG.markup.json
-+++ b/files/BG.UrhG.markup.json
-@@ -552,9 +552,10 @@
-             ["Item (1)",
-                 ["Text",
-                     "Der Urheber hat das ausschließliche Recht, das Werk durch Rundfunk oder auf eine ",
--                    "ähnliche Art zu senden."],
--                ["Text End",
--                    "(2) Einer Rundfunksendung steht es gleich, wenn ein Werk von einer im In- oder ",
-+                    "ähnliche Art zu senden."]]
-+            ["Item (2)",
-+                ["Text",
-+                    "Einer Rundfunksendung steht es gleich, wenn ein Werk von einer im In- oder ",
-                     "im Ausland gelegenen Stelle aus der Öffentlichkeit im Inland, ähnlich wie durch ",
-                     "Rundfunk, aber mit Hilfe von Leitungen wahrnehmbar gemacht wird."]],
-             ["Item (3)",
+--- BG.UrhG.markup.json
++++ BG.UrhG.markup.json
+@@ -552,9 +552,10 @@ ["Par § 17",
+         ["Item (1)",
+             ["Text",
+                 "Der Urheber hat das ausschließliche Recht, das Werk durch Rundfunk oder auf eine ",
+-                "ähnliche Art zu senden."],
+-            ["Text End",
+-                "(2) Einer Rundfunksendung steht es gleich, wenn ein Werk von einer im In- oder ",
++                "ähnliche Art zu senden."]]
++        ["Item (2)",
++            ["Text",
++                "Einer Rundfunksendung steht es gleich, wenn ein Werk von einer im In- oder ",
+                 "im Ausland gelegenen Stelle aus der Öffentlichkeit im Inland, ähnlich wie durch ",
+                 "Rundfunk, aber mit Hilfe von Leitungen wahrnehmbar gemacht wird."]],
+         ["Item (3)",

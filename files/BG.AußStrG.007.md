@@ -2,9 +2,9 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** AußStrG  
 **Langtitel:** Bundesgesetz über das gerichtliche Verfahren in Rechtsangelegenheiten außer Streitsachen (Außerstreitgesetz – AußStrG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 01.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 02.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047  
-**Letzte Änderung im RIS:** BGBl. I Nr. 91/2024 (NR: GP XXVII RV 2606 AB 2617 S. 274. BR: AB 11567 S. 970.)  
+**Letzte Änderung im RIS:** BGBl. I Nr. 25/2025 (NR: GP XXVIII RV 69 und Zu 69 AB 100 S. 30. BR: 11643 AB 11645 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.007.md  
 *Mit RisEx für RisEn und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
@@ -165,12 +165,13 @@ Die Vorschriften für das Verfahren zur Bestellung eines gerichtlichen Erwachsen
 Das Gericht hat die in Abs. 1 genannten Verfahren auch auf Antrag des gerichtlichen Erwachsenenvertreters einzuleiten. Diesem kommen die Aufgaben des Rechtsbeistands im Verfahren (§ 119) zu. Im Verfahren über die Übertragung der gerichtlichen Erwachsenenvertretung kann das Gericht erforderlichenfalls einen vom bisherigen gerichtlichen Erwachsenenvertreter verschiedenen Vertreter für das Verfahren bestellen.
 
 `§ 128 (3) AußStrG.`  
-Das Gericht hat im Verfahren  
+Das Gericht  
 `§ 128 (3) Z 1 AußStrG.`
-über die Erneuerung der Erwachsenenvertretung und  
+hat sich im Verfahren über die Erneuerung der Erwachsenenvertretung einen persönlichen Eindruck von der betroffenen Person zu verschaffen und kann, wenn es das für erforderlich hält, den Erwachsenenschutzverein mit der Abklärung beauftragen;  
 `§ 128 (3) Z 2 AußStrG.`
-zur Erweiterung der gerichtlichen Erwachsenenvertretung, wenn diese auf die Zustimmung zu einzelnen oder Arten von medizinischen Behandlungen, die Entscheidung über eine dauerhafte Änderung des Wohnortes oder auf einzelne oder Arten von Angelegenheiten des außerordentlichen Wirtschaftsbetriebes erweitert werden soll,  
-den Erwachsenenschutzverein mit der Abklärung zu beauftragen und sich einen persönlichen Eindruck von der betroffenen Person zu verschaffen. In allen anderen Verfahren kann sich das Gericht, wenn es das für erforderlich hält, einen persönlichen Eindruck von der betroffenen Person verschaffen, einen Sachverständigen bestellen oder eine mündliche Verhandlung durchführen sowie, ausgenommen im Verfahren über die Übertragung der gerichtlichen Erwachsenenvertretung, den Erwachsenenschutzverein mit der Abklärung beauftragen.
+hat im Verfahren über die Erweiterung der gerichtlichen Erwachsenenvertretung, wenn diese um die Zustimmung zu einzelnen oder Arten von medizinischen Behandlungen, um die Entscheidung über eine dauerhafte Änderung des Wohnortes oder um einzelne oder Arten von Angelegenheiten des außerordentlichen Wirtschaftsbetriebes erweitert werden soll, den Erwachsenenschutzverein mit der Abklärung zu beauftragen und sich einen persönlichen Eindruck von der betroffenen Person zu verschaffen und  
+`§ 128 (3) Z 3 AußStrG.`
+kann sich in allen anderen Verfahren, wenn es das für erforderlich hält, einen persönlichen Eindruck von der betroffenen Person verschaffen, einen Sachverständigen bestellen oder eine mündliche Verhandlung durchführen sowie, ausgenommen im Verfahren über die Übertragung der gerichtlichen Erwachsenenvertretung, den Erwachsenenschutzverein mit der Abklärung beauftragen.
 
 `§ 128 (4) AußStrG.`  
 Das Gericht hat die betroffene Person und den gerichtlichen Erwachsenenvertreter zumindest ein halbes Jahr vor dem in § 123 Abs. 1 Z 4 genannten Zeitpunkt über die bevorstehende Beendigung der Erwachsenvertretung zu informieren und auf die Möglichkeit einer Erneuerung hinzuweisen. Wurde vor dem in § 123 Abs. 1 Z 4 genannten Zeitpunkt ein Antrag auf Erneuerung gestellt oder das Verfahren über die Erneuerung von Amts wegen mit Beschluss eingeleitet, so bleibt die Bestellung des gerichtlichen Erwachsenenvertreters bis zur rechtskräftigen Entscheidung über die Erneuerung aufrecht. Über das Einbringen des Antrags ist eine Bestätigung auszustellen. Unterbleibt eine Erneuerung der gerichtlichen Erwachsenenvertretung, so hat das Gericht deren Beendigung durch Beschluss festzustellen.

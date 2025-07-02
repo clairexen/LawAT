@@ -1,23 +1,21 @@
-diff --git a/files/BG.StGB.markup.json b/files/BG.StGB.markup.json
-index 64a3789..2e51952 100644
---- a/files/BG.StGB.markup.json
-+++ b/files/BG.StGB.markup.json
-@@ -2307,7 +2307,7 @@
-                     "Strafe bedrohte Verhalten aufhört."]],
-             ["Item (3)",
-                 ["Text",
--                    "Die Verjährungsfrist beträgt"]]],
-+                    "Die Verjährungsfrist beträgt"],
-         ["Text Erl",
-             "zwanzig Jahre,"],
-         ["Text End",
-@@ -2332,8 +2332,7 @@
-             "ein Jahr,"],
-         ["Text End",
-             "wenn die Handlung mit nicht mehr als sechsmonatiger Freiheitsstrafe oder nur mit ",
--            "Geldstrafe bedroht ist."],
--        ["List",
-+            "Geldstrafe bedroht ist."]],
-             ["Item (4)",
-                 ["Text",
-                     "Mit dem Eintritt der Verjährung werden auch der Verfall und vorbeugende ",
+--- BG.StGB.markup.json
++++ BG.StGB.markup.json
+@@ -2308,7 +2308,7 @@ ["Par § 57",
+                 "Strafe bedrohte Verhalten aufhört."]],
+         ["Item (3)",
+             ["Text",
+-                "Die Verjährungsfrist beträgt"]]],
++                "Die Verjährungsfrist beträgt"],
+     ["Text Erl",
+         "zwanzig Jahre,"],
+     ["Text End",
+@@ -2333,8 +2333,7 @@ ["Par § 57",
+         "ein Jahr,"],
+     ["Text End",
+         "wenn die Handlung mit nicht mehr als sechsmonatiger Freiheitsstrafe oder nur mit ",
+-        "Geldstrafe bedroht ist."],
+-    ["List",
++        "Geldstrafe bedroht ist."]],
+         ["Item (4)",
+             ["Text",
+                 "Mit dem Eintritt der Verjährung werden auch der Verfall und vorbeugende ",

@@ -2,9 +2,9 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** ABGB  
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 01.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 02.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
-**Letzte Änderung im RIS:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
+**Letzte Änderung im RIS:** BGBl. I Nr. 25/2025 (NR: GP XXVIII RV 69 und Zu 69 AB 100 S. 30. BR: 11643 AB 11645 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.005.md  
 *Mit RisEx für RisEn und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
@@ -281,7 +281,7 @@ durch die Eintragung des Widerrufs oder der Kündigung einer gewählten Erwachse
 `§ 246 (1) Z 5 ABGB.`
 bei einer gesetzlichen Erwachsenenvertretung durch die Eintragung des Widerspruchs der vertretenen Person oder ihres Vertreters im Österreichischen Zentralen Vertretungsverzeichnis oder mit dem Ablauf von drei Jahren, sofern sie nicht zuvor erneut eingetragen wird, oder  
 `§ 246 (1) Z 6 ABGB.`
-bei einer gerichtlichen Erwachsenenvertretung spätestens mit dem Ablauf von drei Jahren nach Beschlussfassung erster Instanz über die Bestellung, sofern sie nicht erneuert wird; die Änderung oder Übertragung der Erwachsenenvertretung verlängert diese Frist nicht.  
+bei einer gerichtlichen Erwachsenenvertretung spätestens mit dem Ablauf von fünf Jahren nach Beschlussfassung erster Instanz über die Bestellung, sofern sie nicht erneuert wird; die Änderung oder Übertragung der Erwachsenenvertretung verlängert diese Frist nicht.  
 Für den Widerruf oder den Widerspruch der vertretenen Person genügt es, wenn sie zu erkennen gibt, dass sie nicht mehr vertreten sein will. Auf diese Möglichkeiten kann sie nicht verzichten. Die Eintragung des Widerrufs oder des Widerspruchs hat auf Verlangen der vertretenen Person oder ihres Vertreters zu erfolgen.
 
 `§ 246 (2) ABGB.`  

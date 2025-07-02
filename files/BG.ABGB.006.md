@@ -2,9 +2,9 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** ABGB  
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 01.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 02.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
-**Letzte Änderung im RIS:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
+**Letzte Änderung im RIS:** BGBl. I Nr. 25/2025 (NR: GP XXVIII RV 69 und Zu 69 AB 100 S. 30. BR: 11643 AB 11645 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.006.md  
 *Mit RisEx für RisEn und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
@@ -290,20 +290,19 @@ Kommt eine solche Person nicht in Betracht, so ist mit dessen Zustimmung ein Erw
 
 `§ 274 (4) ABGB.`  
 Ist auch die Bestellung eines Erwachsenenschutzvereins nicht möglich, so ist – nach Maßgabe des § 275 – ein Notar (Notariatskandidat) oder Rechtsanwalt (Rechtsanwaltsanwärter) oder mit deren Zustimmung eine andere geeignete Person zu bestellen.
-
-`§ 274 (5) ABGB.`  
-Ein Notar (Notariatskandidat) oder Rechtsanwalt (Rechtsanwaltsanwärter) ist vor allem dann zu bestellen, wenn die Besorgung der Angelegenheiten vorwiegend Rechtskenntnisse erfordert, ein Erwachsenenschutzverein (§ 1 ErwSchVG) vor allem dann, wenn sonst besondere Anforderungen mit der Erwachsenenvertretung verbunden sind.
+*(Anm.: Abs. 5 aufgehoben durch Art. 16 Z 2, BGBl. I Nr. 25/2025)*
 
 ### § 275 ABGB
 
-`§ 275 ABGB.`  
-Ein Notar (Notariatskandidat) oder Rechtsanwalt (Rechtsanwaltsanwärter), der nicht aufrecht in der Liste von zur Übernahme von Vorsorgevollmachten und gerichtlichen Erwachsenenvertretungen besonders geeigneten Rechtsanwälten oder Notaren eingetragen ist, kann die Übernahme einer gerichtlichen Erwachsenenvertretung nur ablehnen, wenn  
-`§ 275 Z 1 ABGB.`
-die Besorgung der Angelegenheiten nicht vorwiegend Rechtskenntnisse erfordert,  
-`§ 275 Z 2 ABGB.`
+`§ 275 (1) ABGB.`  
+Ein Notar (Notariatskandidat) oder Rechtsanwalt (Rechtsanwaltsanwärter) ist vor allem dann zum Erwachsenenvertreter zu bestellen, wenn die Besorgung der Angelegenheiten vorwiegend Rechtskenntnisse erfordert, ein Erwachsenenschutzverein (§ 1 ErwSchVG) vor allem dann, wenn sonst besondere Anforderungen mit der Erwachsenenvertretung verbunden sind.
+
+`§ 275 (2) ABGB.`  
+Ein Notar (Notariatskandidat) oder Rechtsanwalt (Rechtsanwaltsanwärter) kann die Übernahme einer gerichtlichen Erwachsenenvertretung ablehnen, wenn  
+`§ 275 (2) Z 1 ABGB.`
 er nachweist, dass ein Notar (Notariatskandidat) oder Rechtsanwalt (Rechtsanwaltsanwärter), der in der Liste von zur Übernahme von Vorsorgevollmachten und gerichtlichen Erwachsenenvertretungen besonders geeigneten Rechtsanwälten oder Notaren aufrecht eingetragen ist, mit der Übernahme der Erwachsenenvertretung einverstanden wäre oder  
-`§ 275 Z 3 ABGB.`
-ihm diese unter Berücksichtigung seiner persönlichen, familiären, beruflichen und sonstigen Verhältnisse nicht zugemutet werden kann. Dies wird bei mehr als fünf gerichtlichen Erwachsenenvertretungen vermutet.
+`§ 275 (2) Z 2 ABGB.`
+ihm diese unter Berücksichtigung seiner persönlichen, familiären, beruflichen und sonstigen Verhältnisse nicht zugemutet werden kann. Das wird bei mehr als fünf gerichtlichen Erwachsenenvertretungen vermutet.
 
 ### § 276 ABGB # Entschädigung, Entgelt und Aufwandersatz
 

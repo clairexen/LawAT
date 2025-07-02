@@ -2,9 +2,9 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** ABGB  
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 01.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 02.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
-**Letzte Änderung im RIS:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
+**Letzte Änderung im RIS:** BGBl. I Nr. 25/2025 (NR: GP XXVIII RV 69 und Zu 69 AB 100 S. 30. BR: 11643 AB 11645 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md  
 *Mit RisEx für RisEn und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
@@ -3485,7 +3485,7 @@
 >
 >> `5.` bei einer gesetzlichen Erwachsenenvertretung durch die Eintragung des Widerspruchs der vertretenen Person oder ihres Vertreters im Österreichischen Zentralen Vertretungsverzeichnis oder mit dem Ablauf von drei Jahren, sofern sie nicht zuvor erneut eingetragen wird, oder
 >
->> `6.` bei einer gerichtlichen Erwachsenenvertretung spätestens mit dem Ablauf von drei Jahren nach Beschlussfassung erster Instanz über die Bestellung, sofern sie nicht erneuert wird; die Änderung oder Übertragung der Erwachsenenvertretung verlängert diese Frist nicht\.
+>> `6.` bei einer gerichtlichen Erwachsenenvertretung spätestens mit dem Ablauf von fünf Jahren nach Beschlussfassung erster Instanz über die Bestellung, sofern sie nicht erneuert wird; die Änderung oder Übertragung der Erwachsenenvertretung verlängert diese Frist nicht\.
 >
 > &nbsp; Für den Widerruf oder den Widerspruch der vertretenen Person genügt es, wenn sie zu erkennen gibt, dass sie nicht mehr vertreten sein will\. Auf diese Möglichkeiten kann sie nicht verzichten\. Die Eintragung des Widerrufs oder des Widerspruchs hat auf Verlangen der vertretenen Person oder ihres Vertreters zu erfolgen\.
 
@@ -3890,8 +3890,7 @@
 > `(3)` Kommt eine solche Person nicht in Betracht, so ist mit dessen Zustimmung ein Erwachsenenschutzverein \(§ 1 ErwSchVG\) zu bestellen\.
 
 > `(4)` Ist auch die Bestellung eines Erwachsenenschutzvereins nicht möglich, so ist – nach Maßgabe des § 275 – ein Notar \(Notariatskandidat\) oder Rechtsanwalt \(Rechtsanwaltsanwärter\) oder mit deren Zustimmung eine andere geeignete Person zu bestellen\.
-
-> `(5)` Ein Notar \(Notariatskandidat\) oder Rechtsanwalt \(Rechtsanwaltsanwärter\) ist vor allem dann zu bestellen, wenn die Besorgung der Angelegenheiten vorwiegend Rechtskenntnisse erfordert, ein Erwachsenenschutzverein \(§ 1 ErwSchVG\) vor allem dann, wenn sonst besondere Anforderungen mit der Erwachsenenvertretung verbunden sind\.
+> *\(Anm\.: Abs\. 5 aufgehoben durch Art\. 16 Z 2, BGBl\. I Nr\. 25/2025\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-274-abgb) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=274) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_188_TextContainer_188) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.006.md#-274-abgb) \]
 
@@ -3899,13 +3898,13 @@
 
 ### § 275 ABGB
 
-> Ein Notar \(Notariatskandidat\) oder Rechtsanwalt \(Rechtsanwaltsanwärter\), der nicht aufrecht in der Liste von zur Übernahme von Vorsorgevollmachten und gerichtlichen Erwachsenenvertretungen besonders geeigneten Rechtsanwälten oder Notaren eingetragen ist, kann die Übernahme einer gerichtlichen Erwachsenenvertretung nur ablehnen, wenn
+> `(1)` Ein Notar \(Notariatskandidat\) oder Rechtsanwalt \(Rechtsanwaltsanwärter\) ist vor allem dann zum Erwachsenenvertreter zu bestellen, wenn die Besorgung der Angelegenheiten vorwiegend Rechtskenntnisse erfordert, ein Erwachsenenschutzverein \(§ 1 ErwSchVG\) vor allem dann, wenn sonst besondere Anforderungen mit der Erwachsenenvertretung verbunden sind\.
+
+> `(2)` Ein Notar \(Notariatskandidat\) oder Rechtsanwalt \(Rechtsanwaltsanwärter\) kann die Übernahme einer gerichtlichen Erwachsenenvertretung ablehnen, wenn
 >
->> `1.` die Besorgung der Angelegenheiten nicht vorwiegend Rechtskenntnisse erfordert,
+>> `1.` er nachweist, dass ein Notar \(Notariatskandidat\) oder Rechtsanwalt \(Rechtsanwaltsanwärter\), der in der Liste von zur Übernahme von Vorsorgevollmachten und gerichtlichen Erwachsenenvertretungen besonders geeigneten Rechtsanwälten oder Notaren aufrecht eingetragen ist, mit der Übernahme der Erwachsenenvertretung einverstanden wäre oder
 >
->> `2.` er nachweist, dass ein Notar \(Notariatskandidat\) oder Rechtsanwalt \(Rechtsanwaltsanwärter\), der in der Liste von zur Übernahme von Vorsorgevollmachten und gerichtlichen Erwachsenenvertretungen besonders geeigneten Rechtsanwälten oder Notaren aufrecht eingetragen ist, mit der Übernahme der Erwachsenenvertretung einverstanden wäre oder
->
->> `3.` ihm diese unter Berücksichtigung seiner persönlichen, familiären, beruflichen und sonstigen Verhältnisse nicht zugemutet werden kann\. Dies wird bei mehr als fünf gerichtlichen Erwachsenenvertretungen vermutet\.
+>> `2.` ihm diese unter Berücksichtigung seiner persönlichen, familiären, beruflichen und sonstigen Verhältnisse nicht zugemutet werden kann\. Das wird bei mehr als fünf gerichtlichen Erwachsenenvertretungen vermutet\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-275-abgb) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=275) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_189_TextContainer_189) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.006.md#-275-abgb) \]
 
@@ -14303,7 +14302,9 @@
 
 > `(25)` § 1164a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 11/2024 tritt mit dem auf die Kundmachung folgenden Tag in Kraft und gilt für ab diesem Zeitpunkt abgeschlossene freie Dienstverträge\.
 
-> `(25)` § 1319b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 33/2024 tritt mit 1\. Mai 2024 in Kraft und ist in dieser Fassung auf Schadensereignisse anzuwenden, die nach dem 30\. April 2024 eintreten\.
+> `(26)` § 1319b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 33/2024 tritt mit 1\. Mai 2024 in Kraft und ist in dieser Fassung auf Schadensereignisse anzuwenden, die nach dem 30\. April 2024 eintreten\.
+
+> `(27)` § 246 Abs\. 1 Z 6 und § 275 in der Fassung des Budgetbegleitgesetzes 2025, BGBl\. I Nr\. 25/2025, treten mit 1\. Juli 2025 in Kraft und sind auf alle ab diesem Zeitpunkt neu zu bestellenden und auf alle bereits eingerichteten gerichtlichen Erwachsenenvertretungen anzuwenden\. § 274 Abs\. 5 tritt mit Ablauf des 30\. Juni 2025 außer Kraft\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1503-abgb--inkrafttreten-und-übergangsbestimmungen-ab-1-februar-2013) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1503) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1332_TextContainer_1332) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.027.md#-1503-abgb--inkrafttreten-und-übergangsbestimmungen-ab-1-februar-2013) \]
 

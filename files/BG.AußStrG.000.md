@@ -2,9 +2,9 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** AußStrG  
 **Langtitel:** Bundesgesetz über das gerichtliche Verfahren in Rechtsangelegenheiten außer Streitsachen (Außerstreitgesetz – AußStrG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 01.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 02.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047  
-**Letzte Änderung im RIS:** BGBl. I Nr. 91/2024 (NR: GP XXVII RV 2606 AB 2617 S. 274. BR: AB 11567 S. 970.)  
+**Letzte Änderung im RIS:** BGBl. I Nr. 25/2025 (NR: GP XXVIII RV 69 und Zu 69 AB 100 S. 30. BR: 11643 AB 11645 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.000.md  
 *Mit RisEx für RisEn und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
@@ -318,6 +318,7 @@
 * [§ 207p AußStrG # Inkrafttreten des Bundesgesetzes BGBl. I Nr. 147/2022](BG.AußStrG.010.md#-207p-außstrg--inkrafttreten-des-bundesgesetzes-bgbl-i-nr-1472022)  
 * [§ 207q AußStrG # Inkrafttreten des Bundesgesetzes BGBl. I Nr. 77/2023](BG.AußStrG.010.md#-207q-außstrg--inkrafttreten-des-bundesgesetzes-bgbl-i-nr-772023)  
 * [§ 207r AußStrG # Inkrafttreten des Bundesgesetzes BGBl. I Nr. 91/2024](BG.AußStrG.010.md#-207r-außstrg--inkrafttreten-des-bundesgesetzes-bgbl-i-nr-912024)  
+* [§ 207s AußStrG # Inkrafttreten und Übergangsbestimmung zum Bundesgesetz BGBl. I Nr. 25/2025](BG.AußStrG.010.md#-207s-außstrg--inkrafttreten-und-übergangsbestimmung-zum-bundesgesetz-bgbl-i-nr-252025)  
 * [§ 208 AußStrG # Vollziehung](BG.AußStrG.010.md#-208-außstrg--vollziehung)
 
 `END-OF-DATA-FILE` *(fortges. in [BG.AußStrG.001](BG.AußStrG.001.md))*

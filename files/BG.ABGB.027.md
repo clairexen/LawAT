@@ -2,9 +2,9 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** ABGB  
 **Langtitel:** Allgemeines bürgerliches Gesetzbuch für die gesammten deutschen Erbländer der Oesterreichischen Monarchie  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 01.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 02.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
-**Letzte Änderung im RIS:** BGBl. I Nr. 33/2024 (NR: GP XXVII RV 2462 AB 2481 S. 257. BR: AB 11461 S. 965.)  
+**Letzte Änderung im RIS:** BGBl. I Nr. 25/2025 (NR: GP XXVIII RV 69 und Zu 69 AB 100 S. 30. BR: 11643 AB 11645 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.027.md  
 *Mit RisEx für RisEn und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
@@ -187,7 +187,10 @@ Die Wirksamkeit eines Anerkenntnisses nach § 144 Abs. 1 Z 2 und Abs. 2 Z 2
 `§ 1503 (25) ABGB.`  
 § 1164a in der Fassung des Bundesgesetzes BGBl. I Nr. 11/2024 tritt mit dem auf die Kundmachung folgenden Tag in Kraft und gilt für ab diesem Zeitpunkt abgeschlossene freie Dienstverträge.
 
-`§ 1503 (25) ABGB.`  
+`§ 1503 (26) ABGB.`  
 § 1319b in der Fassung des Bundesgesetzes BGBl. I Nr. 33/2024 tritt mit 1. Mai 2024 in Kraft und ist in dieser Fassung auf Schadensereignisse anzuwenden, die nach dem 30. April 2024 eintreten.
+
+`§ 1503 (27) ABGB.`  
+§ 246 Abs. 1 Z 6 und § 275 in der Fassung des Budgetbegleitgesetzes 2025, BGBl. I Nr. 25/2025, treten mit 1. Juli 2025 in Kraft und sind auf alle ab diesem Zeitpunkt neu zu bestellenden und auf alle bereits eingerichteten gerichtlichen Erwachsenenvertretungen anzuwenden. § 274 Abs. 5 tritt mit Ablauf des 30. Juni 2025 außer Kraft.
 
 `END-OF-DATA-SET`

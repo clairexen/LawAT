@@ -2,9 +2,9 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** AußStrG  
 **Langtitel:** Bundesgesetz über das gerichtliche Verfahren in Rechtsangelegenheiten außer Streitsachen (Außerstreitgesetz – AußStrG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 01.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 02.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047  
-**Letzte Änderung im RIS:** BGBl. I Nr. 91/2024 (NR: GP XXVII RV 2606 AB 2617 S. 274. BR: AB 11567 S. 970.)  
+**Letzte Änderung im RIS:** BGBl. I Nr. 25/2025 (NR: GP XXVIII RV 69 und Zu 69 AB 100 S. 30. BR: 11643 AB 11645 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.md  
 *Mit RisEx für RisEn und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
@@ -348,6 +348,7 @@
 * [§ 207p AußStrG — Inkrafttreten des Bundesgesetzes BGBl. I Nr. 147/2022](#-207p-außstrg--inkrafttreten-des-bundesgesetzes-bgbl-i-nr-1472022)  
 * [§ 207q AußStrG — Inkrafttreten des Bundesgesetzes BGBl. I Nr. 77/2023](#-207q-außstrg--inkrafttreten-des-bundesgesetzes-bgbl-i-nr-772023)  
 * [§ 207r AußStrG — Inkrafttreten des Bundesgesetzes BGBl. I Nr. 91/2024](#-207r-außstrg--inkrafttreten-des-bundesgesetzes-bgbl-i-nr-912024)  
+* [§ 207s AußStrG — Inkrafttreten und Übergangsbestimmung zum Bundesgesetz BGBl. I Nr. 25/2025](#-207s-außstrg--inkrafttreten-und-übergangsbestimmung-zum-bundesgesetz-bgbl-i-nr-252025)  
 * [§ 208 AußStrG — Vollziehung](#-208-außstrg--vollziehung)
 
 ----
@@ -2390,13 +2391,13 @@
 
 > `(2)` Das Gericht hat die in Abs\. 1 genannten Verfahren auch auf Antrag des gerichtlichen Erwachsenenvertreters einzuleiten\. Diesem kommen die Aufgaben des Rechtsbeistands im Verfahren \(§ 119\) zu\. Im Verfahren über die Übertragung der gerichtlichen Erwachsenenvertretung kann das Gericht erforderlichenfalls einen vom bisherigen gerichtlichen Erwachsenenvertreter verschiedenen Vertreter für das Verfahren bestellen\.
 
-> `(3)` Das Gericht hat im Verfahren
+> `(3)` Das Gericht
 >
->> `1.` über die Erneuerung der Erwachsenenvertretung und
+>> `1.` hat sich im Verfahren über die Erneuerung der Erwachsenenvertretung einen persönlichen Eindruck von der betroffenen Person zu verschaffen und kann, wenn es das für erforderlich hält, den Erwachsenenschutzverein mit der Abklärung beauftragen;
 >
->> `2.` zur Erweiterung der gerichtlichen Erwachsenenvertretung, wenn diese auf die Zustimmung zu einzelnen oder Arten von medizinischen Behandlungen, die Entscheidung über eine dauerhafte Änderung des Wohnortes oder auf einzelne oder Arten von Angelegenheiten des außerordentlichen Wirtschaftsbetriebes erweitert werden soll,
+>> `2.` hat im Verfahren über die Erweiterung der gerichtlichen Erwachsenenvertretung, wenn diese um die Zustimmung zu einzelnen oder Arten von medizinischen Behandlungen, um die Entscheidung über eine dauerhafte Änderung des Wohnortes oder um einzelne oder Arten von Angelegenheiten des außerordentlichen Wirtschaftsbetriebes erweitert werden soll, den Erwachsenenschutzverein mit der Abklärung zu beauftragen und sich einen persönlichen Eindruck von der betroffenen Person zu verschaffen und
 >
-> &nbsp; den Erwachsenenschutzverein mit der Abklärung zu beauftragen und sich einen persönlichen Eindruck von der betroffenen Person zu verschaffen\. In allen anderen Verfahren kann sich das Gericht, wenn es das für erforderlich hält, einen persönlichen Eindruck von der betroffenen Person verschaffen, einen Sachverständigen bestellen oder eine mündliche Verhandlung durchführen sowie, ausgenommen im Verfahren über die Übertragung der gerichtlichen Erwachsenenvertretung, den Erwachsenenschutzverein mit der Abklärung beauftragen\.
+>> `3.` kann sich in allen anderen Verfahren, wenn es das für erforderlich hält, einen persönlichen Eindruck von der betroffenen Person verschaffen, einen Sachverständigen bestellen oder eine mündliche Verhandlung durchführen sowie, ausgenommen im Verfahren über die Übertragung der gerichtlichen Erwachsenenvertretung, den Erwachsenenschutzverein mit der Abklärung beauftragen\.
 
 > `(4)` Das Gericht hat die betroffene Person und den gerichtlichen Erwachsenenvertreter zumindest ein halbes Jahr vor dem in § 123 Abs\. 1 Z 4 genannten Zeitpunkt über die bevorstehende Beendigung der Erwachsenvertretung zu informieren und auf die Möglichkeit einer Erneuerung hinzuweisen\. Wurde vor dem in § 123 Abs\. 1 Z 4 genannten Zeitpunkt ein Antrag auf Erneuerung gestellt oder das Verfahren über die Erneuerung von Amts wegen mit Beschluss eingeleitet, so bleibt die Bestellung des gerichtlichen Erwachsenenvertreters bis zur rechtskräftigen Entscheidung über die Erneuerung aufrecht\. Über das Einbringen des Antrags ist eine Bestätigung auszustellen\. Unterbleibt eine Erneuerung der gerichtlichen Erwachsenenvertretung, so hat das Gericht deren Beendigung durch Beschluss festzustellen\.
 
@@ -3683,12 +3684,20 @@ ihrer Rechtskraft oder vorläufigen Wirksamkeit sowie ein Nachweis über die Wah
 
 ----
 
+### § 207s AußStrG — Inkrafttreten und Übergangsbestimmung zum Bundesgesetz BGBl. I Nr. 25/2025
+
+> § 128 Abs\. 3 in der Fassung des Budgetbegleitgesetzes 2025, BGBl\. I Nr\. 25/2025, tritt mit 1\. Juli 2025 in Kraft und ist auch auf alle zu diesem Zeitpunkt bereits eingerichteten gerichtlichen Erwachsenenvertretungen anzuwenden\.
+
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.md#-207s-außstrg--inkrafttreten-und-übergangsbestimmung-zum-bundesgesetz-bgbl-i-nr-252025) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047&Paragraf=207s) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_252_TextContainer_252) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.010.md#-207s-außstrg--inkrafttreten-und-übergangsbestimmung-zum-bundesgesetz-bgbl-i-nr-252025) \]
+
+----
+
 ### § 208 AußStrG — Vollziehung
 
 > Mit der Vollziehung dieses Bundesgesetzes ist der Bundesminister für Justiz betraut\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.md#-208-außstrg--vollziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047&Paragraf=208) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_252_TextContainer_252) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.010.md#-208-außstrg--vollziehung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.md#-208-außstrg--vollziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047&Paragraf=208) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_253_TextContainer_253) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.010.md#-208-außstrg--vollziehung) \]
 
 ----
 
-*(Weitere relevante Bestimmungen finden Sie am Ende der [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_253_TextContainer_253) zu dieser Rechtsvorschrift.)*
+*(Weitere relevante Bestimmungen finden Sie am Ende der [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_254_TextContainer_254) zu dieser Rechtsvorschrift.)*

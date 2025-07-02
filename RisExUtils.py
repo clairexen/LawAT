@@ -169,7 +169,12 @@ def foldSoftPreserve(s, width=80):
     return out
 
 # Python version of prettyJSON() from RisExtractor.js
-def prettyJSON(data, indent="", autofold=False, addFinalNewline=True):
+def prettyJSON(data, indent=None, autofold=False, addFinalNewline=True, incindent="    "):
+    if indent is None:
+        if isinstance(data, dict): data = data["document"]
+        s = '{ "$schema": "https://raw.githubusercontent.com/clairexen/LawAT/refs/heads/main/schema.json",\n'
+        return s + '  "document": ' + prettyJSON(data, "", autofold, False, "") + '}\n'
+
     if autofold and isinstance(data, str) and len(data) > 80:
         return ',\n'.join(indent + json.dumps(line, separators=",:", ensure_ascii=False)
                 for line in foldSoftPreserve(data))
@@ -183,7 +188,7 @@ def prettyJSON(data, indent="", autofold=False, addFinalNewline=True):
 
     s = [indent + "[" + json.dumps(data[0], separators=",:", ensure_ascii=False)]
     for item in data[1:]:
-        s.append(",\n" + prettyJSON(item, indent + "    ", autofold, False))
+        s.append(",\n" + prettyJSON(item, indent + incindent, autofold, False))
     s.append("]\n" if addFinalNewline else "]")
     return ''.join(s)
 
@@ -192,7 +197,14 @@ def fixPrettyJSON(text):
     result = []
     stack = [0]
 
-    for line in text.split("\n"):
+    lines = text.split("\n")
+    if lines[0].startswith("{"):
+        lines = lines[1:]
+        lines[0] = lines[0].removeprefix('  "document": ')
+        if not lines[-1]: del lines[-1]
+        lines[-1] = lines[-1].removesuffix("}")
+
+    for line in lines:
         line = line.rstrip(",\t ")
         brOnly = re.sub(r'"([^"\\]|\\.)+"|[^\[\]]+', "_", line)
         while line.endswith("]") and brOnly.endswith("]"):
@@ -334,6 +346,8 @@ class LawDocMarkdownEngine:
     def __init__(self, risDoc):
         globals()["_dbg_engine"] = self
 
+        if isinstance(risDoc, dict):
+            risDoc = risDoc["document"]
         self.risDoc = risDoc
         self.normkey = risDoc[0].removeprefix("LawDoc ")
         self.normdata = normindex[self.normkey]
@@ -874,6 +888,7 @@ def cli_find(normkey):
     stopPlaywright()
 
 def cli_fetch(*args):
+    addFlag("patch", True)
     args = updateFlags(*args)
 
     if not len(args):
@@ -898,6 +913,7 @@ def cli_fetch(*args):
         print(f"  `- writing markup object tree to {flags.filesdir}/{normkey}.markup.json")
         stopParJs = f"'{normdata['stop']}'" if 'stop' in normdata else "null"
         risDocJsonText = page.evaluate(f"prettyJSON(risExtractor(null, {stopParJs}, '{normkey}'))")
+        risDocJsonText = prettyJSON(json.loads(risDocJsonText))
 
         if not os.access("__rismarkup__", os.F_OK):
             os.mkdir("__rismarkup__")
@@ -907,8 +923,9 @@ def cli_fetch(*args):
             os.mkdir(flags.filesdir)
         open(f"{flags.filesdir}/{normkey}.markup.json", "w").write(risDocJsonText)
 
-        for patch in sorted(glob.glob(f"patches/{normkey}.p[0-9][0-9][0-9]*.diff")):
-            cli_patch(normkey, patch)
+        if flags.patch:
+            for patch in sorted(glob.glob(f"patches/{normkey}.p[0-9][0-9][0-9]*.diff")):
+                cli_patch(normkey, patch)
 
     print("DONE.")
     stopPlaywright()
@@ -1005,10 +1022,10 @@ def cli_patch(*args):
 
         txt = open(f"files/{norm}.markup.json").read()
         try:
-            markup = json.loads(txt)
+            markup = json.loads(txt)["document"]
         except json.decoder.JSONDecodeError:
             print(" `- applying fixPrettyJSON algorithm")
-            txt = fixPrettyJSON(txt)
+            txt = fixPrettyJSON(txt) + "]"
             markup = json.loads(txt)
 
         for i in range(1,len(markup)):
@@ -1020,6 +1037,9 @@ def cli_patch(*args):
 
         txt = prettyJSON(markup)
         open(f"files/{norm}.markup.json", "w").write(txt)
+
+def cli_diff(norm):
+    os.system(f"bash -c \"diff --label {norm}.markup.json --label {norm}.markup.json -uF '^\\[' <(git cat-file blob :files/{norm}.markup.json;) files/{norm}.markup.json\"")
 
 def cli_markup(*args):
     addFlag("fix", False)

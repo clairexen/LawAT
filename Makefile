@@ -31,6 +31,7 @@ RisExData.json: venv normlist.json files/*
 	./RisExUtils.py mkjson
 
 update:
+	rm -rf files __rismarkup__ __riscache__
 	.venv/bin/python3 RisExUtils.py fetch
 	.venv/bin/python3 RisExUtils.py render --down
 	$(MAKE) zip json
