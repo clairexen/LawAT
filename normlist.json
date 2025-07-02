@@ -130,6 +130,20 @@
 		"caption": "Datenschutzgesetz (DSG)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001597"
 	},
+	"BG.SchUG": {
+		"type": "BG",
+		"title": "SchUG",
+		"stop": "§ 83",
+		"caption": "Schulunterrichtsgesetz (SchUG)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600"
+	},
+	"BG.KSchG": {
+		"type": "BG",
+		"title": "KSchG",
+		"stop": "§ 42",
+		"caption": "Konsumentenschutzgesetz (KSchG)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002462"
+	},
 	"BV.RPV": {
 		"type": "BV",
 		"title": "RPV",
