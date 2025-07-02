@@ -6,7 +6,7 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848  
 **Letzte Änderung im RIS:** BGBl. I Nr. 182/2023 (NR: GP XXVII RV 2309 AB 2344 S. 247. BR: 11366 AB 11400 S. 961.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.md  
-**LawAT Änderungen im Markup:** [BG.UrhG.p100-par16b-table](../patches/BG.UrhG.p100-par16b-table.diff), [BG.UrhG.p100-par17-abs2](../patches/BG.UrhG.p100-par17-abs2.diff)  
+**LawAT Änderungen im Markup:** [BG.UrhG.p100-par17-abs2](../patches/BG.UrhG.p100-par17-abs2.diff)  
 *Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## Inhaltsverzeichnis
@@ -498,12 +498,7 @@
 ### § 16b UrhG — Folgerecht
 
 > `(1)` § 16 Abs\. 3 gilt für die Weiterveräußerung des Originals eines Werkes der bildenden Künste nach der ersten Veräußerung durch den Urheber mit der Maßgabe, dass der Urheber gegen den Veräußerer einen Anspruch auf eine Vergütung in der Höhe des folgenden Anteils am Verkaufspreis ohne Steuern \(Folgerechtsvergütung\) hat:
-> 4% von den ersten 50\.000 EUR,  
-3% von den weiteren 150\.000 EUR,  
-1% von den weiteren 150\.000 EUR,  
-0,5% von den weiteren 150\.000 EUR,  
-0,25% von allen weiteren Beträgen;
->
+
 > die Vergütung beträgt insgesamt jedoch höchstens 12\.500 EUR\.
 
 > `(2)` Der Anspruch auf Folgerechtsvergütung steht nur zu, wenn der Verkaufspreis mindestens 2\.500 EUR beträgt und an der Veräußerung ein Vertreter des Kunstmarkts – wie ein Auktionshaus, eine Kunstgalerie oder ein sonstiger Kunsthändler \- als Verkäufer, Käufer oder Vermittler beteiligt ist; diese Personen haften als Bürge und Zahler, soweit sie nicht selbst zahlungspflichtig sind\. Auf den Anspruch kann im Voraus nicht verzichtet werden\. Der Anspruch kann auch durch Verwertungsgesellschaften geltend gemacht werden; im Übrigen ist der Anspruch unveräußerlich\. § 23 Abs\. 1 gilt sinngemäß\.

@@ -87,6 +87,7 @@
 		"type": "BG",
 		"title": "UrhG",
 		"stop": "§ 116",
+		"disable-strict-mode": [],
 		"caption": "Urheberrechtsgesetz (UrhG)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848"
 	},

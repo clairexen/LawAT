@@ -6,7 +6,7 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848  
 **Letzte Änderung im RIS:** BGBl. I Nr. 182/2023 (NR: GP XXVII RV 2309 AB 2344 S. 247. BR: 11366 AB 11400 S. 961.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.007.md  
-**LawAT Änderungen im Markup:** [BG.UrhG.p100-par16b-table](../patches/BG.UrhG.p100-par16b-table.diff), [BG.UrhG.p100-par17-abs2](../patches/BG.UrhG.p100-par17-abs2.diff)  
+**LawAT Änderungen im Markup:** [BG.UrhG.p100-par17-abs2](../patches/BG.UrhG.p100-par17-abs2.diff)  
 *Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *Das ist die "AI-Friendly" multi-part Variante dieser Rechtsvorschrift mit kompakter Formatierung. Siehe [BG.UrhG.md](BG.UrhG.md) für die "Human-Friendly" single-page Variante dieser Norm mit hübscherer Formatierung.*
