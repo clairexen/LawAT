@@ -97,5 +97,12 @@
 		"remove-headers": "^Head Art Artikel \\d+\\.$",
 		"caption": "Wechselgesetz (WechselG)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001934"
+	},
+	"BG.SPG": {
+		"type": "BG",
+		"title": "SPG",
+		"stop": "§ 98",
+		"caption": "Sicherheitspolizeigesetz (SPG)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005792"
 	}
 }
