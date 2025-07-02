@@ -151,6 +151,20 @@
 		"caption": "Staatsanwaltschaftsgesetz (StAG)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000842"
 	},
+	"BG.VStG": {
+		"type": "BG",
+		"title": "VStG",
+		"stop": "§ 70",
+		"caption": "Verwaltungsstrafgesetz (VStG)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005770"
+	},
+	"BG.VwGVG": {
+		"type": "BG",
+		"title": "VwGVG",
+		"stop": "§ 59",
+		"caption": "Verwaltungsgerichtsverfahrensgesetz (VwGVG)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008255"
+	},
 	"BV.RPV": {
 		"type": "BV",
 		"title": "RPV",

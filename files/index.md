@@ -18,7 +18,9 @@
 * [Strafprozeßordnung (StPO)](BG.StPO.md)
 * [Straßenverkehrsordnung (StVO)](BG.StVO.md)
 * [Urheberrechtsgesetz (UrhG)](BG.UrhG.md)
+* [Verwaltungsstrafgesetz (VStG)](BG.VStG.md)
 * [Vereinsgesetz (VerG)](BG.VerG.md)
+* [Verwaltungsgerichtsverfahrensgesetz (VwGVG)](BG.VwGVG.md)
 * [Wechselgesetz (WechselG)](BG.WechselG.md)
 * [Zivilprozessordnung (ZPO)](BG.ZPO.md)
 
