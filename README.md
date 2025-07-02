@@ -14,6 +14,10 @@ TBD
 
 TBD
 
+### RisEn-GPT - Chatbot mit integriertem Rechtsdatensatz
+
+TBD
+
 ### LawAT - WebApp (incl. advanced search and RisEn via Micropython)
 
 TBD

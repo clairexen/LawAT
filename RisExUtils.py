@@ -731,7 +731,7 @@ class LawDocMarkdownEngine:
         if len(self.meta["LocalChanges"]) > 1:
             changes = [f"[{change}](../patches/{change}.diff)" for change in self.meta["LocalChanges"][1:]]
             self.push(f"**LawAT Änderungen im Markup:** {', '.join(changes)}  ")
-        self.push(f"*Mit RisEx für RisEn und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*")
+        self.push(f"*Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*")
 
         if partIdx is not None:
             self.largeBreak()

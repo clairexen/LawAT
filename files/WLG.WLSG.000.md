@@ -6,7 +6,7 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrW&Gesetzesnummer=20000160  
 **Letzte Änderung im RIS:** LGBl. Nr. 71/2018  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/WLG.WLSG.000.md  
-*Mit RisEx für RisEn und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *Das ist die "AI-Friendly" multi-part Variante dieser Rechtsvorschrift mit kompakter Formatierung. Siehe [WLG.WLSG.md](WLG.WLSG.md) für die "Human-Friendly" single-page Variante dieser Norm mit hübscherer Formatierung.*
 

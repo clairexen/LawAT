@@ -6,7 +6,7 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001934  
 **Letzte Änderung im RIS:** BGBl. I Nr. 58/2010 (NR: GP XXIV RV 771 AB 840 S. 74. BR: 8354 AB 8380 S. 787.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.WechselG.003.md  
-*Mit RisEx für RisEn und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *Das ist die "AI-Friendly" multi-part Variante dieser Rechtsvorschrift mit kompakter Formatierung. Siehe [BG.WechselG.md](BG.WechselG.md) für die "Human-Friendly" single-page Variante dieser Norm mit hübscherer Formatierung.*
 

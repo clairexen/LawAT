@@ -6,7 +6,7 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrW&Gesetzesnummer=20000332  
 **Letzte Änderung im RIS:** LGBl. Nr. 33/2013  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/WLG.WrAuskPflichtG.000.md  
-*Mit RisEx für RisEn und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *Das ist die "AI-Friendly" multi-part Variante dieser Rechtsvorschrift mit kompakter Formatierung. Siehe [WLG.WrAuskPflichtG.md](WLG.WrAuskPflichtG.md) für die "Human-Friendly" single-page Variante dieser Norm mit hübscherer Formatierung.*
 

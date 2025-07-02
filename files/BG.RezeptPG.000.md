@@ -6,7 +6,7 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010351  
 **Letzte Änderung im RIS:** BGBl. I Nr. 100/2024 (NR: GP XXVII IA 4095/A AB 2660 S. 272. BR: 11525 AB 11575 S. 970.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.RezeptPG.000.md  
-*Mit RisEx für RisEn und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *Das ist die "AI-Friendly" multi-part Variante dieser Rechtsvorschrift mit kompakter Formatierung. Siehe [BG.RezeptPG.md](BG.RezeptPG.md) für die "Human-Friendly" single-page Variante dieser Norm mit hübscherer Formatierung.*
 

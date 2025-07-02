@@ -6,7 +6,7 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005792  
 **Letzte Änderung im RIS:** BGBl. I Nr. 122/2024 (NR: GP XXVII IA 4132/A AB 2639 S. 270. BR: AB 11597 S. 969.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.SPG.002.md  
-*Mit RisEx für RisEn und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *Das ist die "AI-Friendly" multi-part Variante dieser Rechtsvorschrift mit kompakter Formatierung. Siehe [BG.SPG.md](BG.SPG.md) für die "Human-Friendly" single-page Variante dieser Norm mit hübscherer Formatierung.*
 

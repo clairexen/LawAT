@@ -6,7 +6,7 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697  
 **Letzte Änderung im RIS:** BGBl. I Nr. 61/2022 (NR: GP XXVII RV 1291 AB 1400 S. 147. BR: AB 10924 S. 939.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.JN.001.md  
-*Mit RisEx für RisEn und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
+*Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *Das ist die "AI-Friendly" multi-part Variante dieser Rechtsvorschrift mit kompakter Formatierung. Siehe [BG.JN.md](BG.JN.md) für die "Human-Friendly" single-page Variante dieser Norm mit hübscherer Formatierung.*
 
