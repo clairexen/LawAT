@@ -105,9 +105,9 @@
 		"caption": "Sicherheitspolizeigesetz (SPG)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005792"
 	},
-	"BG.AuskPflichtG": {
+	"BG.AuskPG": {
 		"type": "BG",
-		"title": "AuskPflichtG",
+		"title": "AuskPG",
 		"caption": "Auskunftspflichtgesetz",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000916"
 	},
@@ -156,9 +156,9 @@
 		"caption": "Wiener Landes-Sicherheitsgesetz (WLSG)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrW&Gesetzesnummer=20000160"
 	},
-	"WLG.WrAuskPflichtG": {
+	"WLG.WrAuskPG": {
 		"type": "WLG",
-		"title": "WrAuskPflichtG",
+		"title": "WrAuskPG",
 		"caption": "Wiener Auskunftspflichtgesetz",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrW&Gesetzesnummer=20000332"
 	}

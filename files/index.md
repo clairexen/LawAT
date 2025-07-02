@@ -3,7 +3,7 @@
 ## Bundesgesetze
 * [Allgemeines bürgerliches Gesetzbuch (ABGB)](BG.ABGB.md)
 * [Allgemeines Verwaltungsverfahrensgesetz (AVG)](BG.AVG.md)
-* [Auskunftspflichtgesetz](BG.AuskPflichtG.md)
+* [Auskunftspflichtgesetz](BG.AuskPG.md)
 * [Außerstreitgesetz (AußStrG)](BG.AußStrG.md)
 * [Beamten-Dienstrechtsgesetz (BDG)](BG.BDG.md)
 * [Datenschutzgesetz (DSG)](BG.DSG.md)
@@ -26,4 +26,4 @@
 
 ## Wiener Landesgesetze
 * [Wiener Landes-Sicherheitsgesetz (WLSG)](WLG.WLSG.md)
-* [Wiener Auskunftspflichtgesetz](WLG.WrAuskPflichtG.md)
+* [Wiener Auskunftspflichtgesetz](WLG.WrAuskPG.md)
