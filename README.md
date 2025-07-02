@@ -1,70 +1,23 @@
-# RisEx - Von RIS HTML zu Mensch- und Maschinenfreundlichem MarkDown
+# LawAT Rechtsdatensatz
+
+Dieser Datensatz ist keine weitere "Online Rechtsdatenbank", sondern eine
+Sammlung ausgewählter Österreichischer Normen, die leicht als ganzer Datensatz
+runtergeladen werden kann, und sich speziell für lokale Volltextsuche sowie
+den Einsatz in Apps und/oder mit Large Language Models (LLMs, aka Chatbots).
+
+* **[Zu der Liste der aktuell abgedeckten Normen](https://github.com/clairexen/RisEx/blob/main/files/index.md)**
+
+# RisEx - Von RIS HTML zu Mensch- und Maschinenfreundlichem Markup und MarkDown
 
 TBD
 
-## Liste der Normen
-
-### Bundesrecht
-* [Strafgesetzbuch (StGB)](https://github.com/clairexen/RisEx/blob/main/files/BG.StGB.md)
-* [Strafprozeßordnung (StPO)](https://github.com/clairexen/RisEx/blob/main/files/BG.StPO.md)
-* [Allgemeines bürgerliches Gesetzbuch (ABGB)](https://github.com/clairexen/RisEx/blob/main/files/BG.ABGB.md)
-* [Zivilprozessordnung (ZPO)](https://github.com/clairexen/RisEx/blob/main/files/BG.ZPO.md)
-* [Vereinsgesetz (VerG)](https://github.com/clairexen/RisEx/blob/main/files/BG.VerG.md)
-* [Straßenverkehrsordnung (StVO)](https://github.com/clairexen/RisEx/blob/main/files/BG.StVO.md)
-* [Allgemeines Verwaltungsverfahrensgesetz (AVG)](https://github.com/clairexen/RisEx/blob/main/files/BG.AVG.md)
-
-# RisEn - AI-Freundliche Python Library zum Zugriff auf die RisEx Files
+# RisEn - AI-Freundliche Python Library zum Zugriff auf den mit RisEx erzeugtem Datensatz
 
 TBD
 
-# RisEx/RisEn Markdown Formatbeschreibung
+# LawAT - WebApp (incl. advanced search and RisEn via Micropython)
 
 TBD
-
-Das sieht in der "AI Friendly" variante dann zB so aus:
-
-----
-
-**Typ:** Phantasiegesetz  
-**Kurztitel:** BussiG  
-**Langtitel:** k. u. k. Bussigesetz (BussiG)  
-**Letzte Änderung:** BGBl. I Nr. 1/2345  
-**Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=-1  
-*Mit RisEx für RisEn-GPT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
-
-Die Kaiserin hat angetrunken gescherzt:
-
-## Hauptteil
-
-### § 1 BussiG # Wirkungsbereich
-
-`§ 1 BussiG.`  
-Wer von Anfang an ohnehin kein Bussi von der Kaiserin haben wollte, der bleibt von diesem Gesetz unberührt.  
-*(Anm.: Denn eine Norm, die nicht für alle gilt, so etwas wäre doch sicher verfassungswidrig. Aber eine
-Norm, die manche unberührt lässt, das ist nur eine sprachliche Vereinfachung, damit man nicht immer die gleiche
-Klausel schreiben muss.)*
-
-### § 2 BussiG # Bestimmungen
-
-`§ 2 (1) BussiG.`  
-Wer  
-`§ 2 (1) Z 1 BussiG.`
-ganz besonders  
-`§ 2 (1) Z 1 lit. a BussiG.`
-fleissig oder  
-`§ 2 (1) Z 1 lit. b BussiG.`
-bemüht war, oder  
-`§ 2 (1) Z 2 BussiG.`
-einfach nur so ganz lieb ist,  
-der hat sich ein Bussi von der Kaiserin verdient.
-
-`§ 2 (2) BussiG.`  
-Sich ein Bussi von der Kaiserin verdient zu haben begründet aber keinen Anschpruch auf ein Bussi oder einen Ersatz.
-
-`§ 2 (2a) BussiG.`  
-Wer sich ein Bussi von der Kaiserin verdient und keines bekommen hat, darf aber etwas traurig dreinschaun.
-
-`END-OF-DATA-SET`
 
 # Rechtliches
 
