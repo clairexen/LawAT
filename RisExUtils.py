@@ -913,7 +913,29 @@ def cli_fetch(*args):
         print(f"  `- writing markup object tree to {flags.filesdir}/{normkey}.markup.json")
         stopParJs = f"'{normdata['stop']}'" if 'stop' in normdata else "null"
         risDocJsonText = page.evaluate(f"prettyJSON(risExtractor(null, {stopParJs}, '{normkey}'))")
-        risDocJsonText = prettyJSON(json.loads(risDocJsonText))
+        risDocJsonText = json.loads(risDocJsonText)
+
+        if "remove-headers" in normdata:
+            changecnt = 0
+            def text(el):
+                if not isinstance(el, list):
+                    return el.replace("\u00a0", " ")
+                return " ".join([text(c) for c in el[1:]])
+            def walker(el, pat):
+                nonlocal changecnt
+                if not isinstance(el, list):
+                    return el
+                if el[0].startswith("Head") or el[0].startswith("Title") or \
+                        el[0].startswith("SubHdr"):
+                    t = el[0] + " " + text(el)
+                    if pat.match(t):
+                        changecnt += 1
+                        return None
+                return [c for c in [el[0]] + [walker(c, pat) for c in el[1:]] if c is not None]
+            risDocJsonText = walker(risDocJsonText, re.compile(normdata["remove-headers"]))
+            print(f"  `- removed {changecnt} headers matching /{normdata['remove-headers']}/.")
+
+        risDocJsonText = prettyJSON(risDocJsonText)
 
         if not os.access("__rismarkup__", os.F_OK):
             os.mkdir("__rismarkup__")

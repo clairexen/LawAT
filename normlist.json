@@ -72,7 +72,6 @@
 	"BG.EO": {
 		"type": "BG",
 		"title": "EO",
-		"split": "20000",
 		"stop": "§ 505",
 		"caption": "Exekutionsordnung (EO)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700"
@@ -80,7 +79,6 @@
 	"BG.AußStrG": {
 		"type": "BG",
 		"title": "AußStrG",
-		"split": "20000",
 		"stop": "§ 208",
 		"caption": "Außerstreitgesetz (AußStrG)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047"
@@ -88,9 +86,16 @@
 	"BG.UrhG": {
 		"type": "BG",
 		"title": "UrhG",
-		"split": "20000",
 		"stop": "§ 116",
 		"caption": "Urheberrechtsgesetz (UrhG)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848"
+	},
+	"BG.WechselG": {
+		"type": "BG",
+		"title": "WechselG",
+		"stop": "Art. 102",
+		"remove-headers": "^Head Art Artikel \\d+\\.$",
+		"caption": "Wechselgesetz (WechselG)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001934"
 	}
 }
