@@ -12,18 +12,28 @@ class SmartTOC extends HTMLElement {
     this.content = document.createElement('div');
     this.content.classList.add('content');
 
-    for (let i = 1; i <= 200; i++) {
+    const children = Array.from(this.children).filter(el => el.tagName === 'LI');
+    children.forEach(li => {
       const entry = document.createElement('div');
       entry.className = 'entry';
-      entry.textContent = `Chapter ${i}`;
+      entry.textContent = li.textContent;
       this.content.appendChild(entry);
-    }
+    });
 
     this.deadZoneBox = document.createElement('div');
     this.deadZoneBox.className = 'dead-zone';
+    this.deadZoneBox.style.position = 'fixed';
+    this.deadZoneBox.style.left = '0';
+    this.deadZoneBox.style.width = '300px';
+    this.deadZoneBox.style.height = `${this.deadZoneHeight}px`;
+    this.deadZoneBox.style.background = 'rgba(0, 128, 255, 0.15)';
+    this.deadZoneBox.style.pointerEvents = 'none';
+    this.deadZoneBox.style.zIndex = '10000';
+    this.deadZoneBox.style.display = 'none';
     document.body.appendChild(this.deadZoneBox);
 
     this.container.appendChild(this.content);
+    this.innerHTML = ''; // Clear slotted content after extraction
     this.appendChild(this.container);
 
     this.addEventListener('mouseenter', this.handleMouseEnter.bind(this));
@@ -72,7 +82,9 @@ class SmartTOC extends HTMLElement {
   handleGlobalMouseMove(e) {
     if (e.clientX > 400) {
       this.collapse();
-      this.deadZoneBox.style.display = 'none';
+      if (!this.hasAttribute('show-box')) {
+        this.deadZoneBox.style.display = 'none';
+      }
     }
   }
 
@@ -97,9 +109,11 @@ class SmartTOC extends HTMLElement {
   }
 
   updateDeadZoneBox() {
-    this.deadZoneBox.style.display = 'block';
     this.deadZoneBox.style.top = `${this.deadZoneTop}px`;
     this.deadZoneBox.style.height = `${this.deadZoneHeight}px`;
+    if (this.hasAttribute('show-box')) {
+      this.deadZoneBox.style.display = 'block';
+    }
   }
 }
 
