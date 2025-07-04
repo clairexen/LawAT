@@ -28,6 +28,9 @@ const lawdoc = (() => {
 				infoStr = markup[0].replace(/^\s*\S+\s*/, ''),
 				tag = head[0], info = head.slice(1);
 
+		if (tag == "Meta")
+			return document.createComment('LawDoc'+markup.join('\n')+' ');
+
 		function genElement(htmlTag, lawDocTag=null) {
 			let el = document.createElement(htmlTag);
 			el.classList.add('LawDoc');
@@ -65,7 +68,7 @@ const lawdoc = (() => {
 			tail.forEach(item => {
 				c = render(item);
 				if (c.tagName == 'H3') {
-					sp.innerText = sp.innerText + " ";
+					c.prepend(document.createTextNode(" "));
 					c.prepend(sp);
 				}
 				el.appendChild(c);
