@@ -1,4 +1,4 @@
-# BV.DV-StAG — Durchführungsverordnung zum Staatsanwaltschaftsgesetz (DV-StAG)
+# BV.DV-StAG — BMJ: DV zum Staatsanwaltschaftsgesetz (DV-StAG)
 **Typ:** Verordnung eines Bundesministeriums  
 **Kurztitel:** DV-StAG  
 **Langtitel:** Verordnung des Bundesministers für Justiz vom 16. Juni 1986 zur Durchführung des Staatsanwaltschaftsgesetzes (DV-StAG)  

@@ -1,8 +1,8 @@
 # LawAT Rechtsdatensatz — Index der Normen
 
 ## Bundesgesetze
-* [Allgemeines bürgerliches Gesetzbuch (ABGB)](BG.ABGB.md)
 * [Allgemeines Verwaltungsverfahrensgesetz (AVG)](BG.AVG.md)
+* [Allgemeines bürgerliches Gesetzbuch (ABGB)](BG.ABGB.md)
 * [Auskunftspflichtgesetz (AuskPG)](BG.AuskPG.md)
 * [Außerstreitgesetz (AußStrG)](BG.AußStrG.md)
 * [Beamten-Dienstrechtsgesetz (BDG)](BG.BDG.md)
@@ -11,27 +11,27 @@
 * [Jurisdiktionsnorm (JN)](BG.JN.md)
 * [Konsumentenschutzgesetz (KSchG)](BG.KSchG.md)
 * [Rezeptpflichtgesetz (RezeptPG)](BG.RezeptPG.md)
-* [Sicherheitspolizeigesetz (SPG)](BG.SPG.md)
 * [Schulunterrichtsgesetz (SchUG)](BG.SchUG.md)
+* [Sicherheitspolizeigesetz (SPG)](BG.SPG.md)
 * [Staatsanwaltschaftsgesetz (StAG)](BG.StAG.md)
 * [Strafgesetzbuch (StGB)](BG.StGB.md)
 * [Strafprozeßordnung (StPO)](BG.StPO.md)
 * [Straßenverkehrsordnung (StVO)](BG.StVO.md)
 * [Telekommunikationsgesetz 2021 (TKG)](BG.TKG.md)
 * [Urheberrechtsgesetz (UrhG)](BG.UrhG.md)
-* [Verwaltungsstrafgesetz (VStG)](BG.VStG.md)
 * [Vereinsgesetz (VerG)](BG.VerG.md)
 * [Verwaltungsgerichtsverfahrensgesetz (VwGVG)](BG.VwGVG.md)
+* [Verwaltungsstrafgesetz (VStG)](BG.VStG.md)
 * [Wechselgesetz (WechselG)](BG.WechselG.md)
 * [Zivilprozessordnung (ZPO)](BG.ZPO.md)
 
-## Verordnungen der Bundesministerien
-* [BMIMI: Amateurfunkverordnung (AFV)](BV.AFV.md)
-* [BMJ: DV zum Staatsanwaltschaftsgesetz (DV-StAG)](BV.DV-StAG.md)
-* [BMIMI: Frequenznutzungsverordnung 2013 (FNV)](BV.FNV.md)
+## Verordnungen der Bundesminister(ien)
 * [BMI: Richtlinien-Verordnung (RLV)](BV.RLV.md)
+* [BMIMI: Amateurfunkverordnung (AFV)](BV.AFV.md)
+* [BMIMI: Frequenznutzungsverordnung 2013 (FNV)](BV.FNV.md)
+* [BMJ: DV zum Staatsanwaltschaftsgesetz (DV-StAG)](BV.DV-StAG.md)
 * [BMSGPK: Rezeptpflichtverordnung (RPV)](BV.RPV.md)
 
 ## Wiener Landesgesetze
-* [Wiener Landes-Sicherheitsgesetz (WLSG)](WLG.WLSG.md)
 * [Wiener Auskunftspflichtgesetz (WrAuskPG)](WLG.WrAuskPG.md)
+* [Wiener Landes-Sicherheitsgesetz (WLSG)](WLG.WLSG.md)

@@ -1,4 +1,4 @@
-# BG.AuskPG — Auskunftspflichtgesetz
+# BG.AuskPG — Auskunftspflichtgesetz (AuskPG)
 **Typ:** Bundesgesetz  
 **Kurztitel:** AuskPG  
 **Langtitel:** Bundesgesetz vom 15. Mai 1987 über die Auskunftspflicht der Verwaltung des Bundes und eine Änderung des Bundesministeriengesetzes 1986 (Auskunftspflichtgesetz)  

@@ -1,18 +1,29 @@
 {
-  "000": "Artikel I",
-  "001": "1. Abschnitt",
-  "Art. 1 § 1 WLSG": ["WLG.WLSG:40-66", "WLG.WLSG.001:17-47", "Art. 1 § 1 WLSG # Anstandsverletzung und Lärmerregung"],
-  "003": "2. Abschnitt",
-  "Art. 1 § 2 WLSG": ["WLG.WLSG:72-85", "WLG.WLSG.001:49-65", "Art. 1 § 2 WLSG # Bettelei"],
-  "005": "3. Abschnitt",
-  "Art. 1 § 3 WLSG": ["WLG.WLSG:91-109", "WLG.WLSG.001:67-88", "Art. 1 § 3 WLSG # Abwehr von Belästigungen und Sicherung des Gemeingebrauchs"],
-  "007": "4. Abschnitt",
-  "Art. 1 § 4 WLSG": ["WLG.WLSG:115-119", "WLG.WLSG.001:90-95", "Art. 1 § 4 WLSG # Informations- und Verständigungspflichten"],
-  "009": "5. Abschnitt",
-  "Art. 1 § 5 WLSG": ["WLG.WLSG:125-137", "WLG.WLSG.001:97-114", "Art. 1 § 5 WLSG # Eigener Wirkungsbereich und Zuständigkeit"],
-  "011": "Artikel II",
-  "Art. 2 WLSG": ["WLG.WLSG:143-153", "WLG.WLSG.001:116-127", "Art. 2 WLSG"],
-  "013": "Artikel III",
-  "014": "Schlußbestimmungen",
-  "Art. 3 WLSG": ["WLG.WLSG:159-165", "WLG.WLSG.001:129-134", "Art. 3 WLSG"]
+  "toc": [
+    "Artikel I",
+    "1. Abschnitt",
+    ["Art. 1 § 1 WLSG", "WLG.WLSG:40-66", "WLG.WLSG.001:17-47", "Art. 1 § 1 WLSG # Anstandsverletzung und Lärmerregung"],
+    "2. Abschnitt",
+    ["Art. 1 § 2 WLSG", "WLG.WLSG:72-85", "WLG.WLSG.001:49-65", "Art. 1 § 2 WLSG # Bettelei"],
+    "3. Abschnitt",
+    ["Art. 1 § 3 WLSG", "WLG.WLSG:91-109", "WLG.WLSG.001:67-88", "Art. 1 § 3 WLSG # Abwehr von Belästigungen und Sicherung des Gemeingebrauchs"],
+    "4. Abschnitt",
+    ["Art. 1 § 4 WLSG", "WLG.WLSG:115-119", "WLG.WLSG.001:90-95", "Art. 1 § 4 WLSG # Informations- und Verständigungspflichten"],
+    "5. Abschnitt",
+    ["Art. 1 § 5 WLSG", "WLG.WLSG:125-137", "WLG.WLSG.001:97-114", "Art. 1 § 5 WLSG # Eigener Wirkungsbereich und Zuständigkeit"],
+    "Artikel II",
+    ["Art. 2 WLSG", "WLG.WLSG:143-153", "WLG.WLSG.001:116-127", "Art. 2 WLSG"],
+    "Artikel III",
+    "Schlußbestimmungen",
+    ["Art. 3 WLSG", "WLG.WLSG:159-165", "WLG.WLSG.001:129-134", "Art. 3 WLSG"]
+  ],
+  "index": {
+    "Art. 1 § 1 WLSG": 2,
+    "Art. 1 § 2 WLSG": 4,
+    "Art. 1 § 3 WLSG": 6,
+    "Art. 1 § 4 WLSG": 8,
+    "Art. 1 § 5 WLSG": 10,
+    "Art. 2 WLSG": 12,
+    "Art. 3 WLSG": 15
+  }
 }

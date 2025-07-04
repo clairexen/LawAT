@@ -1,4 +1,4 @@
-# BV.RPV — Rezeptpflichtverordnung (RPV)
+# BV.RPV — BMSGPK: Rezeptpflichtverordnung (RPV)
 **Typ:** Verordnung eines Bundesministeriums  
 **Kurztitel:** RPV  
 **Langtitel:** Verordnung des Bundesministers für Gesundheit und Umweltschutz vom 30. August 1973 über rezeptpflichtige Arzneimittel (Rezeptpflichtverordnung)  

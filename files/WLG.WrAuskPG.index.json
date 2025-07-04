@@ -1,7 +1,16 @@
 {
-  "§ 1 WrAuskPG": ["WLG.WrAuskPG:23-33", "WLG.WrAuskPG.001:17-32", "§ 1 WrAuskPG"],
-  "§ 2 WrAuskPG": ["WLG.WrAuskPG:39-43", "WLG.WrAuskPG.001:34-40", "§ 2 WrAuskPG"],
-  "§ 3 WrAuskPG": ["WLG.WrAuskPG:49-61", "WLG.WrAuskPG.001:42-60", "§ 3 WrAuskPG"],
-  "§ 4 WrAuskPG": ["WLG.WrAuskPG:67-69", "WLG.WrAuskPG.001:62-65", "§ 4 WrAuskPG"],
-  "§ 5 WrAuskPG": ["WLG.WrAuskPG:75-77", "WLG.WrAuskPG.001:67-70", "§ 5 WrAuskPG"]
+  "toc": [
+    ["§ 1 WrAuskPG", "WLG.WrAuskPG:23-33", "WLG.WrAuskPG.001:17-32", "§ 1 WrAuskPG"],
+    ["§ 2 WrAuskPG", "WLG.WrAuskPG:39-43", "WLG.WrAuskPG.001:34-40", "§ 2 WrAuskPG"],
+    ["§ 3 WrAuskPG", "WLG.WrAuskPG:49-61", "WLG.WrAuskPG.001:42-60", "§ 3 WrAuskPG"],
+    ["§ 4 WrAuskPG", "WLG.WrAuskPG:67-69", "WLG.WrAuskPG.001:62-65", "§ 4 WrAuskPG"],
+    ["§ 5 WrAuskPG", "WLG.WrAuskPG:75-77", "WLG.WrAuskPG.001:67-70", "§ 5 WrAuskPG"]
+  ],
+  "index": {
+    "§ 1 WrAuskPG": 0,
+    "§ 2 WrAuskPG": 1,
+    "§ 3 WrAuskPG": 2,
+    "§ 4 WrAuskPG": 3,
+    "§ 5 WrAuskPG": 4
+  }
 }

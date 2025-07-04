@@ -1089,17 +1089,26 @@ def cli_render(*args):
     print("Generating JSON Index File(s).")
 
     for normkey in args:
-        data = {k: v if isinstance(v, str) else [v.ref4human,v.ref4ai,v.title]
-                for k,v in engineIndexOutput[normkey].items()}
+        data = [v if isinstance(v, str) else [k,v.ref4human,v.ref4ai,v.title]
+                for k,v in engineIndexOutput[normkey].items()]
         with open(f"{flags.filesdir}/{normkey}.index.json", "w") as f:
-            f.write("{")
-            sep = "\n  "
-            for k, v in data.items():
-                k = json.dumps(k, ensure_ascii=False)
-                v = json.dumps(v, ensure_ascii=False)
-                f.write(f"{sep}{k}: {v}")
-                sep = ",\n  "
-            f.write("\n}\n")
+            f.write("{\n")
+            f.write("  \"toc\": [")
+            sep = "\n    "
+            for item in data:
+                f.write(f"{sep}{json.dumps(item, ensure_ascii=False)}")
+                sep = ",\n    "
+            f.write("\n")
+            f.write("  ],\n")
+            f.write("  \"index\": {")
+            sep = "\n    "
+            for idx, item in enumerate(data):
+                if isinstance(item, str): continue
+                f.write(f"{sep}\"{item[0]}\": {idx}")
+                sep = ",\n    "
+            f.write("\n")
+            f.write("  }\n")
+            f.write("}\n")
 
     if flags.index:
         print("Generating Top-Level Index Files.")
@@ -1116,13 +1125,13 @@ def cli_index():
     with open(f"{flags.filesdir}/index.md", "w") as f:
         f.write(f"# LawAT Rechtsdatensatz — Index der Normen\n")
         for pf, header in (
-                    ("BG", "Bundesgesetze"),
-                    ("BV", "Verordnungen der Bundesministerien"),
-                    ("WLG", "Wiener Landesgesetze"),
+                    ("BG.", "Bundesgesetze"),
+                    ("BV.", "Verordnungen der Bundesminister(ien)"),
+                    ("WLG.", "Wiener Landesgesetze"),
                 ):
             f.write(f"\n## {header}\n")
-            f.write("\n".join([f'* [{normindex[normkey]["caption"]}]({normkey}.md)'
-                    for normkey in sorted(normindex.keys()) if normkey.startswith(pf+".")])+"\n")
+            f.write("\n".join(sorted([f'* [{normindex[normkey]["caption"]}]({normkey}.md)'
+                    for normkey in normindex.keys() if normkey.startswith(pf)]))+"\n")
 
 def cli_patch(*args):
     norm, *patches = args

@@ -1,4 +1,4 @@
-# WLG.WrAuskPG.000 — Wiener Auskunftspflichtgesetz
+# WLG.WrAuskPG.000 — Wiener Auskunftspflichtgesetz (WrAuskPG)
 **Typ:** Wiener Landesgesetz  
 **Kurztitel:** WrAuskPG  
 **Langtitel:** Gesetz über die Auskunftspflicht (Wiener Auskunftspflichtgesetz)  

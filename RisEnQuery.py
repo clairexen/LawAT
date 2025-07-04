@@ -519,11 +519,11 @@ def Q(searchPat: str, normPat: str = None):
         normList = ls()
 
     for norm in normList:
-        for par, dat in fetch(f"{norm}.index.json").items():
-            if isinstance(dat, str):
+        for item in fetch(f"{norm}.index.json")["toc"]:
+            if isinstance(item, str):
                 continue
-            key = Cite(norm, par, *dat)
-            ref, _, txt = dat
+            key = Cite(norm, *item)
+            _, ref, _, txt = item
             if setMode:
                 if key in searchPat:
                     matches.append(key)

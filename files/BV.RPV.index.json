@@ -1,6 +1,13 @@
 {
-  "§ 1 RPV": ["BV.RPV:22-34", "BV.RPV.001:16-32", "§ 1 RPV"],
-  "§ 2 RPV": ["BV.RPV:40-42", "BV.RPV.001:34-37", "§ 2 RPV"],
-  "002": "Anlage",
-  "Anl. 1 RPV": ["BV.RPV:48-2835", "BV.RPV.002:15-2803", "Anl. 1 RPV"]
+  "toc": [
+    ["§ 1 RPV", "BV.RPV:22-34", "BV.RPV.001:16-32", "§ 1 RPV"],
+    ["§ 2 RPV", "BV.RPV:40-42", "BV.RPV.001:34-37", "§ 2 RPV"],
+    "Anlage",
+    ["Anl. 1 RPV", "BV.RPV:48-2835", "BV.RPV.002:15-2803", "Anl. 1 RPV"]
+  ],
+  "index": {
+    "§ 1 RPV": 0,
+    "§ 2 RPV": 1,
+    "Anl. 1 RPV": 3
+  }
 }
