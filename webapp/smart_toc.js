@@ -1,120 +1,140 @@
-class SmartTOC extends HTMLElement {
-  constructor() {
-    super();
-    this.viewportPadding = 10;
-    this.deadZoneHeight = 20;
-    this.expanded = false;
-    this.deadZoneTop = null;
+const smart_toc = (() => {
+  let root = null;
+  let container = null;
+  let content = null;
+  let box = null;
+  let isExpanded = false;
+  let shownOnce = false;
+  let mouseInside = false;
+  let cfg = {
+    showBox: false,
+    viewportPadding: 30,
+    deadZoneHeight: 30
+  };
+  let deadZoneTop = 0;
 
-    this.container = document.createElement('div');
-    this.container.classList.add('container');
+  function setup(userCfg = {}) {
+    cfg = { ...cfg, ...userCfg };
+    reset();
+  }
 
-    this.content = document.createElement('div');
-    this.content.classList.add('content');
+  function reset() {
+    if (root) root.remove();
+    if (box) box.remove();
 
-    const children = Array.from(this.children).filter(el => el.tagName === 'LI');
-    children.forEach(li => {
-      const entry = document.createElement('div');
-      entry.className = 'entry';
-      entry.textContent = li.textContent;
-      this.content.appendChild(entry);
+    root = document.createElement('smart-toc');
+    container = document.createElement('div');
+    container.className = 'container';
+    container.style.display = 'none';
+
+    content = document.createElement('div');
+    content.className = 'content';
+
+    container.appendChild(content);
+    root.appendChild(container);
+    document.body.appendChild(root);
+
+    box = document.createElement('div');
+    Object.assign(box.style, {
+      position: 'fixed',
+      left: '0',
+      width: '300px',
+      height: `${cfg.deadZoneHeight}px`,
+      background: 'rgba(0, 128, 255, 0.15)',
+      pointerEvents: 'none',
+      zIndex: '10000',
+      display: 'none'
+    });
+    document.body.appendChild(box);
+
+    root.addEventListener('mouseenter', e => {
+      mouseInside = true;
+      expand();
+      deadZoneTop = clamp(e.clientY - cfg.deadZoneHeight / 2);
+      updateBox();
     });
 
-    this.deadZoneBox = document.createElement('div');
-    this.deadZoneBox.className = 'dead-zone';
-    this.deadZoneBox.style.position = 'fixed';
-    this.deadZoneBox.style.left = '0';
-    this.deadZoneBox.style.width = '300px';
-    this.deadZoneBox.style.height = `${this.deadZoneHeight}px`;
-    this.deadZoneBox.style.background = 'rgba(0, 128, 255, 0.15)';
-    this.deadZoneBox.style.pointerEvents = 'none';
-    this.deadZoneBox.style.zIndex = '10000';
-    this.deadZoneBox.style.display = 'none';
-    document.body.appendChild(this.deadZoneBox);
+    root.addEventListener('mouseleave', () => {
+      mouseInside = false;
+      collapse();
+    });
 
-    this.container.appendChild(this.content);
-    this.innerHTML = ''; // Clear slotted content after extraction
-    this.appendChild(this.container);
+    root.addEventListener('mousemove', e => {
+      const rect = root.getBoundingClientRect();
+      const mouseY = e.clientY;
+      const visibleHeight = rect.height;
+      const contentHeight = content.scrollHeight;
+      const maxScroll = contentHeight - visibleHeight;
 
-    this.addEventListener('mouseenter', this.handleMouseEnter.bind(this));
-    this.addEventListener('mousemove', this.handleMouseMove.bind(this));
-    document.addEventListener('mousemove', this.handleGlobalMouseMove.bind(this));
-  }
+      let dzBottom = deadZoneTop + cfg.deadZoneHeight;
+      let outside = false;
 
-  handleMouseEnter(e) {
-    this.expand();
-    this.deadZoneTop = this.clampDeadZoneTop(e.clientY - this.deadZoneHeight / 2);
-    this.updateDeadZoneBox();
-  }
-
-  handleMouseMove(e) {
-    const rect = this.getBoundingClientRect();
-    const mouseY = e.clientY;
-    const visibleHeight = rect.height;
-    const contentHeight = this.content.scrollHeight;
-    const maxScroll = contentHeight - visibleHeight;
-
-    const dzBottom = this.deadZoneTop + this.deadZoneHeight;
-    let outside = false;
-
-    if (mouseY < this.deadZoneTop) {
-      this.deadZoneTop = this.clampDeadZoneTop(mouseY);
-      outside = true;
-    } else if (mouseY > dzBottom) {
-      this.deadZoneTop = this.clampDeadZoneTop(mouseY - this.deadZoneHeight);
-      outside = true;
-    }
-
-    if (outside) {
-      this.updateDeadZoneBox();
-
-      const effectiveUsableHeight = visibleHeight - 2 * this.viewportPadding - this.deadZoneHeight;
-      const clampedY = Math.max(this.viewportPadding, Math.min(mouseY, visibleHeight - this.viewportPadding));
-      const scrollRatio = Math.max(0, Math.min(1,
-        (clampedY - this.viewportPadding - this.deadZoneHeight / 2) / effectiveUsableHeight
-      ));
-
-      const targetTop = -scrollRatio * maxScroll;
-      this.content.style.top = `${targetTop}px`;
-    }
-  }
-
-  handleGlobalMouseMove(e) {
-    if (e.clientX > 400) {
-      this.collapse();
-      if (!this.hasAttribute('show-box')) {
-        this.deadZoneBox.style.display = 'none';
+      if (mouseY < deadZoneTop) {
+        deadZoneTop = clamp(mouseY);
+        outside = true;
+      } else if (mouseY > dzBottom) {
+        deadZoneTop = clamp(mouseY - cfg.deadZoneHeight);
+        outside = true;
       }
+
+      if (outside) {
+        updateBox();
+        const usable = visibleHeight - 2 * cfg.viewportPadding - cfg.deadZoneHeight;
+        const clampedY = Math.max(cfg.viewportPadding, Math.min(mouseY, visibleHeight - cfg.viewportPadding));
+        const ratio = (clampedY - cfg.viewportPadding - cfg.deadZoneHeight / 2) / usable;
+        const scroll = -Math.max(0, Math.min(1, ratio)) * maxScroll;
+        content.style.top = `${scroll}px`;
+      }
+    });
+
+    document.addEventListener('mousemove', e => {
+      if (e.clientX > 400) collapse();
+    });
+  }
+
+  function append(domOrHtml) {
+    const entry = document.createElement('div');
+    entry.className = 'entry';
+    if (typeof domOrHtml === 'string') entry.innerHTML = domOrHtml;
+    else entry.appendChild(domOrHtml);
+    content.appendChild(entry);
+    container.style.display = 'block';
+  }
+
+  function updateBox() {
+    box.style.top = `${deadZoneTop}px`;
+    box.style.height = `${cfg.deadZoneHeight}px`;
+  }
+
+  function clamp(pos) {
+    return Math.min(window.innerHeight - cfg.viewportPadding - cfg.deadZoneHeight, Math.max(cfg.viewportPadding, pos));
+  }
+
+  function expand() {
+    if (!isExpanded) {
+      root.classList.add('expanded');
+      if (cfg.showBox) box.style.display = 'block';
+      isExpanded = true;
     }
   }
 
-  expand() {
-    if (!this.expanded) {
-      this.classList.add('expanded');
-      this.expanded = true;
+  function collapse() {
+    if (isExpanded) {
+      root.classList.remove('expanded');
+      box.style.display = 'none';
+      isExpanded = false;
     }
   }
 
-  collapse() {
-    if (this.expanded) {
-      this.classList.remove('expanded');
-      this.expanded = false;
-    }
+  function show() {
+    if (shownOnce) return;
+    shownOnce = true;
+    container.style.display = 'block';
+    expand();
+    setTimeout(() => {
+      if (!mouseInside) collapse();
+    }, 1000);
   }
 
-  clampDeadZoneTop(proposedTop) {
-    const maxTop = window.innerHeight - this.viewportPadding - this.deadZoneHeight;
-    const minTop = this.viewportPadding;
-    return Math.min(maxTop, Math.max(minTop, proposedTop));
-  }
-
-  updateDeadZoneBox() {
-    this.deadZoneBox.style.top = `${this.deadZoneTop}px`;
-    this.deadZoneBox.style.height = `${this.deadZoneHeight}px`;
-    if (this.hasAttribute('show-box')) {
-      this.deadZoneBox.style.display = 'block';
-    }
-  }
-}
-
-customElements.define('smart-toc', SmartTOC);
+  return { setup, append, reset, show };
+})();

@@ -1,44 +1,39 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8" />
-  <title>Smart TOC Component Example</title>
+  <meta charset="UTF-8">
+  <title>smart_toc Example</title>
   <link rel="stylesheet" href="smart_toc.css">
+  <script src="smart_toc.js"></script>
 </head>
 <body>
+  <script>
+    window.addEventListener("DOMContentLoaded", () => {
+      const sections = (prefix, n) => Array.from({ length: n }, (_, i) => `${prefix} Section ${i + 1}`);
 
-<smart-toc show-box>
-  <li>Introduction</li>
-  <li>Installation</li>
-  <li>Usage</li>
-  <li>Configuration</li>
-  <li>API Reference</li>
-  <li>FAQ</li>
-  <li>License</li>
-  <li>Introduction</li>
-  <li>Installation</li>
-  <li>Usage</li>
-  <li>Configuration</li>
-  <li>API Reference</li>
-  <li>FAQ</li>
-  <li>License</li>
-  <li>Introduction</li>
-  <li>Installation</li>
-  <li>Usage</li>
-  <li>Configuration</li>
-  <li>API Reference</li>
-  <li>FAQ</li>
-  <li>License</li>
-  <li>Introduction</li>
-  <li>Installation</li>
-  <li>Usage</li>
-  <li>Configuration</li>
-  <li>API Reference</li>
-  <li>FAQ</li>
-  <li>License</li>
-</smart-toc>
+      const toc = {
+        "Intro": sections("Intro", 12),
+        "Installation": sections("Installation", 15),
+        "Usage": sections("Usage", 17),
+        "API": sections("API", 13),
+        "Advanced": sections("Advanced", 19),
+        "License": sections("License", 10)
+      };
 
-<script src="smart_toc.js"></script>
+      smart_toc.setup({ showBox: true });
 
+      for (const [chapter, subs] of Object.entries(toc)) {
+        smart_toc.append(`<b>${chapter}</b>`);
+        subs.forEach(s => smart_toc.append(`&nbsp;&nbsp;${s}`));
+      }
+
+      requestAnimationFrame(() => {
+        const evt = new MouseEvent("mousemove", { clientX: 1, clientY: 1 });
+        document.dispatchEvent(evt);
+      });
+
+      smart_toc.show();
+    });
+  </script>
 </body>
 </html>
