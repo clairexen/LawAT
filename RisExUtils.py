@@ -1209,10 +1209,9 @@ def cli_mkjson():
 
     for fn in ["normlist.json"] + glob.glob(f"{flags.filesdir}/*.json") + glob.glob(f"{flags.filesdir}/*.md"):
         if fn.endswith(".json"):
-            print(fn)
-            data[fn.removeprefix("{flags.filesdir}/")] = json.load(open(fn))
+            data[fn.removeprefix(f"{flags.filesdir}/")] = json.load(open(fn))
         else:
-            data[fn.removeprefix("{flags.filesdir}/")] = open(fn).read().split("\n")
+            data[fn.removeprefix(f"{flags.filesdir}/")] = open(fn).read().split("\n")
 
     with open("RisExData.json", "w") as f:
         json.dump(data, f)
