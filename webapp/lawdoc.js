@@ -14,12 +14,11 @@ const lawdoc = (() => {
 
 	function render(markup) {
 		// -----------------------------------------------------------------------
-		// string/text handling
+		// content handling
 
 		if (typeof markup === "string") {
 			let el = document.createElement('SPAN');
-			el.classList.add('LawDoc');
-			el.classList.add('LawDocSpan');
+			el.classList.add('LawSpan');
 			el.innerText = markup;
 			return el;
 		}
@@ -28,13 +27,19 @@ const lawdoc = (() => {
 				infoStr = markup[0].replace(/^\s*\S+\s*/, ''),
 				tag = head[0], info = head.slice(1);
 
-		if (tag == "Meta")
+		if (tag == "Meta") {
+			if (markup[0] == "Meta ParAnchors")
+				markup = [markup[0] + " ..."];
 			return document.createComment('LawDoc'+markup.join('\n')+' ');
+		}
+
+		function removePrefix(str, prefix) {
+			return str.startsWith(prefix) ? str.slice(prefix.length) : str;
+		}
 
 		function genElement(htmlTag, lawDocTag=null) {
 			let el = document.createElement(htmlTag);
-			el.classList.add('LawDoc');
-			el.classList.add('LawDoc' + (lawDocTag === null ? tag : lawDocTag));
+			el.classList.add('Law' + removePrefix(lawDocTag === null ? tag : lawDocTag, "Law"));
 			return el;
 		}
 
@@ -46,26 +51,38 @@ const lawdoc = (() => {
 
 		if (tag == "Head" || tag == "Title" || tag == "Text") {
 			let el = genElement(tag == "Head" ? 'H2' : tag == "Title" ? 'H3' : 'DIV');
-			info.forEach(item => { el.classList.add('LawDoc' + item); });
+			info.forEach(item => { el.classList.add('Law' + item); });
 			tail.forEach(item => { el.appendChild(render(item)); });
 			return el;
+		}
+
+		if (tag == "Break") {
+			return genElement('P');
 		}
 
 		// -----------------------------------------------------------------------
 		// structure handling
 
-		if (tag == "Par" || tag == "Item") {
+		if (tag == "LawDoc" || tag == "Par" || tag == "Item") {
 			let el = genElement(tag == "Item" ? 'DD' : 'DIV'), sp;
-			if (tag == "Par") {
-				sp = genElement('SPAN', tag + 'Name');
-				sp.innerText = infoStr;
-				el.appendChild(sp);
-			} else {
+			if (tag == "Item") {
 				dt = genElement('DT', tag + 'Name');
 				dt.innerText = infoStr;
 				el.appendChild(dt);
+			} else {
+				sp = genElement('SPAN', tag + 'Name');
+				sp.innerText = infoStr;
+				el.appendChild(sp);
+			}
+			if (tag == "LawDoc") {
+				let h1 = genElement('H1', tag + 'Title');
+				h1.appendChild(sp);
+				h1.appendChild(document.createTextNode(": " + markup[1][1]));
+				el.appendChild(h1);
 			}
 			tail.forEach(item => {
+				if (el.children.length)
+					el.appendChild(document.createTextNode("\n"));
 				c = render(item);
 				if (c.tagName == 'H3') {
 					c.prepend(document.createTextNode(" "));
@@ -78,8 +95,10 @@ const lawdoc = (() => {
 
 		if (tag == "List") {
 			let el = genElement('DL');
-			info.forEach(item => { el.classList.add('LawDoc' + item); });
+			info.forEach(item => { el.classList.add('Law' + item); });
 			tail.forEach(item => {
+				if (el.children.length)
+					el.appendChild(document.createTextNode("\n"));
 				c = render(item);
 				if (c.firstElementChild.tagName == 'DT')
 					el.appendChild(c.firstElementChild);
@@ -88,7 +107,7 @@ const lawdoc = (() => {
 			return el;
 		}
 
-		let el = genElement('TT');
+		let el = genElement('TT', 'Err');
 		el.innerText = JSON.stringify(markup);
 		return el;
 	}
