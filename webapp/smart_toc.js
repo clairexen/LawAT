@@ -2,39 +2,27 @@ const smart_toc = (() => {
   let root, container, content, box;
   let isExpanded = false, shownOnce = false, mouseInside = false;
 
-  // -----------------------------------------------------------------------
-  // configuration
-  // -----------------------------------------------------------------------
   const cfg = {
     boxWidth: 20,
     boxHeight: 30,
     viewportPadding: 30,
     speedExponent: 3.0,
-    speedFactor: 5 // px per frame
+    speedFactor: 5,
+    classicScroll: false
   };
 
-  // -----------------------------------------------------------------------
-  // animation state
-  // -----------------------------------------------------------------------
-  let lastMouseX    = 0;          // latest X position of the pointer
-  let lastMouseY    = 0;          // latest Y position of the pointer
-  let currentCenter = 0;          // current vertical center of the box (px)
-  let targetCenter  = 0;          // desired vertical center of the box (px)
-  let currentSpeed  = 0;
-  let animId        = null;
+  let lastMouseX = 0, lastMouseY = 0;
+  let currentCenter = 0, targetCenter = 0, currentSpeed = 0;
+  let animId = null;
 
-  function innerHeight() {
-    // return root.getBoundingClientRect().height;
-    return window.innerHeight;
-  }
+  function innerHeight() { return window.innerHeight; }
 
   function clamp(pos) {
     return Math.min(innerHeight() - cfg.viewportPadding - cfg.boxHeight / 2,
                     Math.max(cfg.viewportPadding + cfg.boxHeight / 2, pos));
   }
 
-  function updateTargetAndSpeed()
-  {
+  function updateTargetAndSpeed() {
     currentCenter = clamp(currentCenter);
     targetCenter = lastMouseY;
     currentSpeed = targetCenter - currentCenter;
@@ -53,25 +41,19 @@ const smart_toc = (() => {
 
   function animate() {
     animId = null;
+    if (cfg.classicScroll) return;
     updateTargetAndSpeed();
     currentCenter = clamp(currentCenter + currentSpeed);
 
-    box.style.top    = `${currentCenter - cfg.boxHeight/2}px`;
+    box.style.top = `${currentCenter - cfg.boxHeight/2}px`;
     box.style.height = `${cfg.boxHeight}px`;
-    if (cfg.boxWidth) {
-      if (isExpanded) {
-        box.style.display = 'block';
-        // box.style.width = '300px';
-      } else {
-        // box.style.display = 'none';
-        box.style.width = `${cfg.boxWidth}px`;
-      }
-    }
+    box.style.width = `${cfg.boxWidth}px`;
+    if (isExpanded) box.style.display = 'block';
 
     const visibleHeight = root.getBoundingClientRect().height;
     const minCenter = cfg.viewportPadding + cfg.boxHeight/2;
     const maxCenter = innerHeight() - cfg.viewportPadding - cfg.boxHeight/2;
-    const ratio = (currentCenter - minCenter) / (maxCenter - minCenter); // 0..1
+    const ratio = (currentCenter - minCenter) / (maxCenter - minCenter);
 
     const contentHeight = content.scrollHeight;
     const maxScroll = Math.max(100, contentHeight - visibleHeight);
@@ -83,7 +65,7 @@ const smart_toc = (() => {
   }
 
   function go() {
-    if (!animId) animId = requestAnimationFrame(animate);
+    if (!animId && !cfg.classicScroll) animId = requestAnimationFrame(animate);
   }
 
   function expand() {
@@ -102,9 +84,6 @@ const smart_toc = (() => {
     }
   }
 
-  // -----------------------------------------------------------------------
-  // public API
-  // -----------------------------------------------------------------------
   function setup(userCfg = {}) {
     Object.assign(cfg, userCfg);
     reset();
@@ -112,29 +91,33 @@ const smart_toc = (() => {
 
   function reset() {
     if (root) root.remove();
-    if (box)  box.remove();
+    if (box) box.remove();
     if (animId) cancelAnimationFrame(animId);
 
-    // ------- root & container -------------------------------------------
     root = document.createElement('smart-toc');
+    if (cfg.classicScroll) root.classList.add('classic');
+
     container = document.createElement('div');
     container.className = 'container';
     container.style.display = 'none';
 
     content = document.createElement('div');
     content.className = 'content';
+    if (cfg.classicScroll) {
+      content.style.position = 'relative';
+      content.style.overflowY = 'auto';
+      content.style.overflowX = 'hidden';
+      content.style.height = '100%';
+    }
 
     container.appendChild(content);
     root.appendChild(container);
     document.body.appendChild(root);
 
-    // ------- helper box --------------------------------------------------
     box = document.createElement('div');
     Object.assign(box.style, {
       position: 'fixed',
       left: '0',
-      width: `${cfg.boxWidth}px`,
-      height: `${cfg.boxHeight}px`,
       background: 'rgba(0,128,255,0.15)',
       pointerEvents: 'none',
       zIndex: '10000',
@@ -142,11 +125,10 @@ const smart_toc = (() => {
     });
     document.body.appendChild(box);
 
-    // ------- pointer interaction ----------------------------------------
     root.addEventListener('mouseenter', e => {
       mouseInside = true;
-      lastMouseX  = e.clientX;
-      lastMouseY  = e.clientY;
+      lastMouseX = e.clientX;
+      lastMouseY = e.clientY;
       updateTargetAndSpeed();
       expand();
       go();
@@ -154,7 +136,6 @@ const smart_toc = (() => {
 
     root.addEventListener('mouseleave', () => {
       mouseInside = false;
-      // collapse();
     });
 
     root.addEventListener('mousemove', e => {
@@ -164,7 +145,6 @@ const smart_toc = (() => {
       go();
     });
 
-    // collapse when pointer far right of page
     document.addEventListener('mousemove', e => {
       if (e.clientX > 400) collapse();
     });
@@ -187,6 +167,5 @@ const smart_toc = (() => {
     setTimeout(() => { if (!mouseInside) collapse(); }, 1000);
   }
 
-  // -----------------------------------------------------------------------
   return { setup, reset, append, show };
 })();

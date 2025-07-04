@@ -12,13 +12,12 @@ smart-toc .container {
   height: 100%;
   overflow: hidden;
   background: #eee;
-  white-space: nowrap;
   padding-top: 10px;
   padding-bottom: 10px;
   width: 100px;
   box-shadow: 2px 0 5px rgba(0, 0, 0, 0.15);
   transition: width 0.3s, box-shadow 0.3s;
-  display: none; /* stays hidden until .entry added */
+  display: none;
 }
 
 smart-toc.expanded .container {
@@ -33,12 +32,39 @@ smart-toc .content {
   top: 0;
   left: 0;
   width: 300px;
+  padding-bottom: 2em;
   clip-path: inset(0 200px 0 0);
   transition: clip-path 0.3s, opacity 0.3s;
 }
 
 smart-toc.expanded .content {
   clip-path: none;
+}
+
+smart-toc.classic .content {
+  position: relative !important;
+  overflow-y: auto !important;
+  overflow-x: hidden;
+  height: 100%;
+  clip-path: none !important;
+  direction: rtl;
+  scrollbar-width: thick;
+}
+
+smart-toc.classic .content::-webkit-scrollbar {
+  width: 16px;
+  background-color: transparent;
+}
+
+smart-toc.classic .content::-webkit-scrollbar-thumb {
+  background-color: rgba(0,0,0,0.3);
+  border-radius: 8px;
+}
+
+smart-toc.classic .entry {
+  direction: ltr;
+  white-space: normal;
+  word-break: break-word;
 }
 
 smart-toc .entry {

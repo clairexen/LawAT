@@ -11,11 +11,12 @@
 # the canvas.
 
 files=()
-files+=(copy.sh)
+#files+=(copy.sh)
 files+=(smart_toc.{html,css,js})
 
-{ echo "#!/bin/bash"; for file in "${files[@]}"; do
+# canvas starts with a space so this doesn't clog up the shell history
+{ echo " #!/bin/bash"; for file in "${files[@]}"; do
 	eoftag=`echo -n "$file-EOF" | tr a-z A-Z | tr -c A-Z - | tr -s -`
-	echo -e "\ncat > '$file' <<'$eoftag'"; cat < "$file"; echo $eoftag
+	echo -e "\ncat>'$file'<<'$eoftag'"; cat < "$file"; echo $eoftag
 done; } | xclip -selection clipboard -i
 echo "Copied canvas content to clipboard."
