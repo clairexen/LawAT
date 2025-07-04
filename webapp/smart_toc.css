@@ -15,7 +15,7 @@ smart-toc .container {
   white-space: nowrap;
   padding-top: 10px;
   padding-bottom: 10px;
-  width: 60px;
+  width: 100px;
   box-shadow: 2px 0 5px rgba(0, 0, 0, 0.15);
   transition: width 0.3s, box-shadow 0.3s;
   display: none; /* stays hidden until .entry added */
@@ -33,17 +33,14 @@ smart-toc .content {
   top: 0;
   left: 0;
   width: 300px;
-  clip-path: inset(0 240px 0 0);
-  /* opacity: 0; */
+  clip-path: inset(0 200px 0 0);
   transition: clip-path 0.3s, opacity 0.3s;
 }
 
 smart-toc.expanded .content {
   clip-path: none;
-  /* opacity: 1; */
 }
 
 smart-toc .entry {
   padding: 4px 8px;
-  /* border-bottom: 1px solid #ccc; */
 }

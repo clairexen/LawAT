@@ -5,12 +5,13 @@
 # copy&paste the canvas into my shell for updating my local files.
 #
 # Feel free to drop files from the canvas when the conversation is
-# focusing on other parts of the project. (Most importantly: Feel
-# free to drop this file. Whenever you see this file you'll know
-# that I've just copied my most recent local version of the project
-# into the canvas.)
+# focusing on other parts of the project. Most importantly: Always
+# drop this file! So whenever you see this comment you'll know that
+# I've just copied my most recent local version of the project into
+# the canvas.
 
-files=(copy.sh)
+files=()
+files+=(copy.sh)
 files+=(smart_toc.{html,css,js})
 
 { echo "#!/bin/bash"; for file in "${files[@]}"; do

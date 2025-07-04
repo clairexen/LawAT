@@ -9,17 +9,17 @@
 <body>
   <script>//<!--
     window.addEventListener("DOMContentLoaded", () =>
-          fetch('RisExData.json').then(res => res.json()).then(rexdata => {
-      smart_toc.setup({ showBox: true });
-      const toc = rexdata['BG.ABGB.index.json']['toc'];
-      for (const item of toc) {
-        if (typeof item === 'string')
-          smart_toc.append(item);
-	else
-          smart_toc.append(item[3]);
-      }
-      smart_toc.show();
-    }));
+      fetch('RisExData.json').then(res => res.json()).then(rexdata => {
+        smart_toc.setup({ showBox: true });
+        const toc = rexdata['BG.ABGB.index.json']['toc'];
+        for (const item of toc) {
+          if (typeof item === 'string')
+            smart_toc.append(item);
+          else
+            smart_toc.append(item[3]);
+        }
+        smart_toc.show();
+      }));
   //--></script>
 </body>
 </html>
