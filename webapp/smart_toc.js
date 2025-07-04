@@ -9,18 +9,93 @@ const smart_toc = (() => {
     showBox: true, // draw blue helper box
     viewportPadding: 30,
     deadZoneHeight: 30,
-    speedExponent: 2.0,
-    speedFactor: 3 // px per frame
+    speedExponent: 3.0,
+    speedFactor: 5 // px per frame
   };
 
   // -----------------------------------------------------------------------
   // animation state
   // -----------------------------------------------------------------------
-  let currentTop   = 0;          // current top of the box (px)
-  let targetTop    = 0;          // desired top of the box (px)
-  let currentSpeed = 0;
-  let animId       = null;
-  let lastMouseY   = 0;          // latest Y position of the pointer
+  let lastMouseX    = 0;          // latest X position of the pointer
+  let lastMouseY    = 0;          // latest Y position of the pointer
+  let currentCenter = 0;          // current vertical center of the box (px)
+  let targetCenter  = 0;          // desired vertical center of the box (px)
+  let currentSpeed  = 0;
+  let animId        = null;
+
+  function clamp(pos) {
+    return Math.min(window.innerHeight - cfg.viewportPadding - cfg.deadZoneHeight / 2,
+                    Math.max(cfg.viewportPadding + cfg.deadZoneHeight / 2, pos));
+  }
+
+  function updateTargetAndSpeed()
+  {
+    currentCenter = clamp(currentCenter);
+    targetCenter = clamp(lastMouseY);
+    const delta = targetCenter - currentCenter;
+    if (Math.abs(delta) < cfg.deadZoneHeight / 2) {
+      targetCenter = currentCenter;
+      currentSpeed = 0;
+    } else {
+      targetCenter -= Math.sign(delta) * cfg.deadZoneHeight / 2;
+      const diff = targetCenter - currentCenter;
+      const dist = Math.min(1.0, Math.abs(diff) / cfg.deadZoneHeight);
+      const scale = Math.pow(Math.min(1, Math.max(0, 1.0 - lastMouseX / 100)), cfg.speedExponent);
+      currentSpeed = Math.sign(diff) * dist * scale * cfg.speedFactor;
+      if (Math.abs(currentSpeed) > Math.abs(diff)) currentSpeed = diff;
+    }
+  }
+
+  function animate() {
+    animId = null;
+    updateTargetAndSpeed();
+    currentCenter += currentSpeed;
+    if (Math.abs(targetCenter - currentCenter) < 0.1) return;
+
+    box.style.top    = `${currentCenter - cfg.deadZoneHeight/2}px`;
+    box.style.height = `${cfg.deadZoneHeight}px`;
+    if (cfg.showBox) {
+      if (isExpanded) {
+        box.style.display = 'block';
+        box.style.width = '300px';
+      } else {
+        // box.style.display = 'none';
+        box.style.width = '10px';
+      }
+    }
+
+    const rect          = root.getBoundingClientRect();
+    const visibleHeight = rect.height;
+    const contentHeight = content.scrollHeight;
+    const maxScroll     = Math.max(100, contentHeight - visibleHeight);
+    const ratio = (currentCenter - cfg.deadZoneHeight/2 - cfg.viewportPadding) /
+                         (visibleHeight - cfg.deadZoneHeight - 2*cfg.viewportPadding);  // 0..1
+    const scroll = -maxScroll * Math.max(0, Math.min(1, ratio));
+    content.style.top = `${scroll}px`;
+
+    if (isExpanded)
+      animId = requestAnimationFrame(animate);
+  }
+
+  function go() {
+    if (!animId) animId = requestAnimationFrame(animate);
+  }
+
+  function expand() {
+    if (!isExpanded) {
+      root.classList.add('expanded');
+      isExpanded = true;
+      go();
+    }
+  }
+
+  function collapse() {
+    if (isExpanded) {
+      root.classList.remove('expanded');
+      isExpanded = false;
+      go();
+    }
+  }
 
   // -----------------------------------------------------------------------
   // public API
@@ -30,24 +105,10 @@ const smart_toc = (() => {
     reset();
   }
 
-  function append(domOrHtml) {
-    const entry = document.createElement('div');
-    entry.className = 'entry';
-    if (typeof domOrHtml === 'string') entry.innerHTML = domOrHtml;
-    else entry.appendChild(domOrHtml);
-    content.appendChild(entry);
-    container.style.display = 'block';
-  }
-
-  // -----------------------------------------------------------------------
-  // init / teardown
-  // -----------------------------------------------------------------------
   function reset() {
     if (root) root.remove();
     if (box)  box.remove();
     if (animId) cancelAnimationFrame(animId);
-
-    currentTop = cfg.viewportPadding;
 
     // ------- root & container -------------------------------------------
     root = document.createElement('smart-toc');
@@ -79,28 +140,23 @@ const smart_toc = (() => {
     // ------- pointer interaction ----------------------------------------
     root.addEventListener('mouseenter', e => {
       mouseInside = true;
+      lastMouseX  = e.clientX;
       lastMouseY  = e.clientY;
+      updateTargetAndSpeed();
       expand();
-      targetTop   = clamp(e.clientY - cfg.deadZoneHeight / 2);
-      ensureAnimLoop();
+      go();
     });
 
     root.addEventListener('mouseleave', () => {
       mouseInside = false;
-      collapse();
+      // collapse();
     });
 
     root.addEventListener('mousemove', e => {
+      lastMouseX = e.clientX;
       lastMouseY = e.clientY;
-
-      // update target once the pointer leaves the current box bounds
-      if (e.clientY < currentTop || e.clientY > currentTop + cfg.deadZoneHeight) {
-        targetTop = clamp(e.clientY - cfg.deadZoneHeight / 2);
-      }
-
-      // horizontal position → speed (non‑linear mapping)
-      currentSpeed = speedFromMouseX(e.clientX);
-      ensureAnimLoop();
+      updateTargetAndSpeed();
+      go();
     });
 
     // collapse when pointer far right of page
@@ -109,106 +165,13 @@ const smart_toc = (() => {
     });
   }
 
-  // -----------------------------------------------------------------------
-  // animation helpers
-  // -----------------------------------------------------------------------
-  function ensureAnimLoop() {
-    if (!isExpanded) return;
-    if (!animId) animId = requestAnimationFrame(animateBox);
-  }
-
-  function animateBox() {
-    // stop moving once the cursor is within the box bounds
-    if (lastMouseY >= currentTop && lastMouseY <= currentTop + cfg.deadZoneHeight) {
-      targetTop = currentTop;
-      updateBox();
-      animId = null;
-      return;
-    }
-
-    const diff      = targetTop - currentTop;
-    const distance  = Math.abs(diff);
-
-    if (distance < 0.2) {
-      currentTop = targetTop;
-      updateBox();
-      animId = null;
-      return;
-    }
-
-    // soft‑landing: within one dead‑zone height, fade speed from 1.0 → 0.1
-    let stepSpeed = currentSpeed;
-    if (distance < cfg.deadZoneHeight) {
-      const ratio = distance / cfg.deadZoneHeight;   // 0…1
-      stepSpeed  *= 0.1 + 0.9 * ratio;               // 0.1…1.0
-    }
-
-    currentTop += Math.sign(diff) * Math.min(stepSpeed, distance);
-    updateBox();
-    animId = requestAnimationFrame(animateBox);
-  }
-
-  function speedFromMouseX(x) {
-    const scale = Math.pow(Math.min(1, Math.max(0, 1.0 - x / 100)), cfg.speedExponent);
-    return scale * cfg.speedFactor;
-  }
-
-  // -----------------------------------------------------------------------
-  // visual helpers (box + scrolling)
-  // -----------------------------------------------------------------------
-  function updateBox() {
-    box.style.top    = `${currentTop}px`;
-    box.style.height = `${cfg.deadZoneHeight}px`;
-    if (cfg.showBox) {
-      if (isExpanded) {
-        box.style.display = 'block';
-        box.style.width = '300px';
-      } else {
-        // box.style.display = 'none';
-        box.style.width = '10px';
-      }
-    }
-    updateScroll();
-  }
-
-  function updateScroll() {
-    if (!isExpanded) return;
-    const rect          = root.getBoundingClientRect();
-    const visibleHeight = rect.height;
-    const contentHeight = content.scrollHeight;
-    const maxScroll     = contentHeight - visibleHeight;
-
-    const centerY = currentTop + cfg.deadZoneHeight / 2;
-    const usable  = visibleHeight - 2 * cfg.viewportPadding - cfg.deadZoneHeight;
-    const clamped = Math.max(cfg.viewportPadding, Math.min(centerY, visibleHeight - cfg.viewportPadding));
-    const ratio   = (clamped - cfg.viewportPadding - cfg.deadZoneHeight / 2) / usable;
-    const scroll  = -Math.max(0, Math.min(1, ratio)) * maxScroll;
-    content.style.top = `${scroll}px`;
-  }
-
-  function clamp(pos) {
-    return Math.min(window.innerHeight - cfg.viewportPadding - cfg.deadZoneHeight,
-                    Math.max(cfg.viewportPadding, pos));
-  }
-
-  // -----------------------------------------------------------------------
-  // expansion / collapse helpers
-  // -----------------------------------------------------------------------
-  function expand() {
-    if (!isExpanded) {
-      root.classList.add('expanded');
-      isExpanded = true;
-      updateBox();
-    }
-  }
-
-  function collapse() {
-    if (isExpanded) {
-      root.classList.remove('expanded');
-      isExpanded = false;
-      if (animId) { cancelAnimationFrame(animId); animId = null; }
-      updateBox();
-    }
+  function append(domOrHtml) {
+    const entry = document.createElement('div');
+    entry.className = 'entry';
+    if (typeof domOrHtml === 'string') entry.innerHTML = domOrHtml;
+    else entry.appendChild(domOrHtml);
+    content.appendChild(entry);
+    container.style.display = 'block';
   }
 
   function show() {
@@ -220,5 +183,5 @@ const smart_toc = (() => {
   }
 
   // -----------------------------------------------------------------------
-  return { setup, append, reset, show };
+  return { setup, reset, append, show };
 })();
