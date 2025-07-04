@@ -7,33 +7,19 @@
   <script src="smart_toc.js"></script>
 </head>
 <body>
-  <script>
-    window.addEventListener("DOMContentLoaded", () => {
-      const sections = (prefix, n) => Array.from({ length: n }, (_, i) => `${prefix} Section ${i + 1}`);
-
-      const toc = {
-        "Intro": sections("Intro", 12),
-        "Installation": sections("Installation", 15),
-        "Usage": sections("Usage", 17),
-        "API": sections("API", 13),
-        "Advanced": sections("Advanced", 19),
-        "License": sections("License", 10)
-      };
-
+  <script>//<!--
+    window.addEventListener("DOMContentLoaded", () =>
+          fetch('RisExData.json').then(res => res.json()).then(rexdata => {
       smart_toc.setup({ showBox: true });
-
-      for (const [chapter, subs] of Object.entries(toc)) {
-        smart_toc.append(`<b>${chapter}</b>`);
-        subs.forEach(s => smart_toc.append(`&nbsp;&nbsp;${s}`));
+      const toc = rexdata['BG.ABGB.index.json']['toc'];
+      for (const item of toc) {
+        if (typeof item === 'string')
+          smart_toc.append(item);
+	else
+          smart_toc.append(item[3]);
       }
-
-      requestAnimationFrame(() => {
-        const evt = new MouseEvent("mousemove", { clientX: 1, clientY: 1 });
-        document.dispatchEvent(evt);
-      });
-
       smart_toc.show();
-    });
-  </script>
+    }));
+  //--></script>
 </body>
 </html>
