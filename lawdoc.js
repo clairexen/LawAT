@@ -12,7 +12,7 @@ const lawdoc = (() => {
 		zipPromise.then(callback);
 	}
 
-	function render(markup) {
+	function render(markup, refSuffix="") {
 		// -----------------------------------------------------------------------
 		// content handling
 
@@ -45,14 +45,14 @@ const lawdoc = (() => {
 
 		if (tag == "Rem") {
 			let el = genElement('I');
-			tail.forEach(item => { el.appendChild(render(item)); });
+			tail.forEach(item => { el.appendChild(render(item, refSuffix)); });
 			return el;
 		}
 
 		if (tag == "Head" || tag == "Title" || tag == "Text") {
 			let el = genElement(tag == "Head" ? 'H2' : tag == "Title" ? 'H3' : 'DIV');
 			info.forEach(item => { el.classList.add('Law' + item); });
-			tail.forEach(item => { el.appendChild(render(item)); });
+			tail.forEach(item => { el.appendChild(render(item, refSuffix)); });
 			return el;
 		}
 
@@ -71,10 +71,13 @@ const lawdoc = (() => {
 				el.appendChild(dt);
 			} else {
 				sp = genElement('SPAN', tag + 'Name');
+				if (tag == "Part")
+					sp.setAttribute('id', getIdForPartRef(infoStr + refSuffix));
 				sp.innerText = infoStr;
 				el.appendChild(sp);
 			}
 			if (tag == "LawDoc") {
+				refSuffix = " " + infoStr.replace(/^[A-Z]+\./, '')
 				let h1 = genElement('H1', tag + 'Title');
 				h1.appendChild(sp);
 				h1.appendChild(document.createTextNode(": " + markup[1][1]));
@@ -84,7 +87,7 @@ const lawdoc = (() => {
 			tail.forEach(item => {
 				if (el.children.length)
 					el.appendChild(document.createTextNode("\n"));
-				c = render(item);
+				c = render(item, refSuffix);
 				if (c.tagName == 'H3' && sp) {
 					c.prepend(document.createTextNode(" "));
 					c.prepend(sp);
@@ -107,7 +110,7 @@ const lawdoc = (() => {
 			tail.forEach(item => {
 				if (el.children.length)
 					el.appendChild(document.createTextNode("\n"));
-				c = render(item);
+				c = render(item, refSuffix);
 				if (c.firstElementChild.tagName == 'DT')
 					el.appendChild(c.firstElementChild);
 				el.appendChild(c);
@@ -120,6 +123,15 @@ const lawdoc = (() => {
 		return el;
 	}
 
+	function getIdForPartRef(ref) {
+		let a = [];
+		for (tok of ref.split(/\s+/)) {
+			if (tok == "§" || tok == "Art.") continue;
+			a.push(tok);
+		}
+		return a.slice(-1).concat(a.slice(0,-1)).join(".");
+	}
+
 	// -----------------------------------------------------------------------
-	return { zip, onLoad, render };
+	return { zip, onLoad, render, getIdForPartRef };
 })();

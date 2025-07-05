@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>lawdoc Example</title>
+  <title>LawAT Browser</title>
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="lawdoc.css">
   <link rel="stylesheet" href="tocui.css">
@@ -24,14 +24,17 @@
       }
 
       function selDoc(caption, norm) {
-        console.log(caption, norm);
         mainDiv.innerHTML = "";
         mainDiv.appendChild(lawdoc.render(lawdoc.zip[norm + '.markup.json']['document']));
         tocui.reset();
         const toc = lawdoc.zip[norm + '.index.json']['toc'];
         for (const item of toc) {
-          const label = typeof item === 'string' ? item : item[3];
-          tocui.append(label);
+          if (typeof item === 'string') {
+            tocui.append(item);
+          } else {
+            const ref = item[0], label = item[3];
+            tocui.append(label, lawdoc.getIdForPartRef(ref));
+          }
         }
         tocui.setDoc(caption);
         tocui.show();
