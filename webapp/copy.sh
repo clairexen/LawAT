@@ -12,7 +12,8 @@
 
 files=()
 #files+=(copy.sh)
-files+=(smart_toc.{html,css,js})
+#files+=(lawdoc.{html,css,js})
+files+=(tocui.{html,css,js})
 
 # canvas starts with a space so this doesn't clog up the shell history
 { echo " #!/bin/bash"; for file in "${files[@]}"; do

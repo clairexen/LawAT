@@ -1171,6 +1171,7 @@ def cli_mkjson():
 def cli_mkwebapp():
     data = dict()
     for fn in sorted([f"{flags.filesdir}/index.json"] +
+                     glob.glob(f"{flags.filesdir}/*.index.json") +
                      glob.glob(f"{flags.filesdir}/*.markup.json")):
         data[fn.removeprefix(f"{flags.filesdir}/")] = json.load(open(fn))
     with open("webapp/lawdoc.json", "w") as f:

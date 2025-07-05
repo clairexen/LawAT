@@ -55,8 +55,8 @@ deploy:
 	-cd __ghpages__ && git rm -rf .
 	cp -vt __ghpages__/ RisExData.json RisExFiles.zip
 	cp -vt __ghpages__/ webapp/index.html webapp/lawdoc.json
-	cp -vt __ghpages__/ webapp/smart_toc.js webapp/smart_toc.css
 	cp -vt __ghpages__/ webapp/lawdoc.js webapp/lawdoc.css
+	cp -vt __ghpages__/ webapp/tocui.js webapp/tocui.css
 	cd __ghpages__ && git add . && git commit -m deploy && git push
 
 purge:

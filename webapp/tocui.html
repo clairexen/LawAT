@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>tocui – classic mode</title>
+    <link rel="stylesheet" href="tocui.css">
+    <script src="tocui.js"></script>
+  </head>
+  <body>
+    <script>
+      window.addEventListener("DOMContentLoaded", () => fetch('lawdoc.json').then(r => r.json()).then(data => {
+        function showABGB() {
+          tocui.reset();
+          const toc = data['BG.ABGB.index.json']['toc'];
+          for (const item of toc) {
+            const label = typeof item === 'string' ? item : item[3];
+            tocui.append(label);
+          }
+          tocui.setDoc("ABGB");
+          tocui.show();
+	}
+        function showZPO() {
+          tocui.reset();
+          const toc = data['BG.ZPO.index.json']['toc'];
+          for (const item of toc) {
+            const label = typeof item === 'string' ? item : item[3];
+            tocui.append(label);
+          }
+          tocui.setDoc("ZPO");
+          tocui.show();
+	}
+        tocui.addDoc("ABGB", showABGB);
+        tocui.addDoc("ZPO", showZPO);
+        tocui.addDoc("Weitere Dokumente"); // section header
+        tocui.addDoc("StGB", () => console.log("show StGB"));
+	showABGB();
+      }));
+    </script>
+  </body>
+</html>
