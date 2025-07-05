@@ -79,14 +79,22 @@ const lawdoc = (() => {
 				h1.appendChild(sp);
 				h1.appendChild(document.createTextNode(": " + markup[1][1]));
 				el.appendChild(h1);
+				sp = null;
 			}
 			tail.forEach(item => {
 				if (el.children.length)
 					el.appendChild(document.createTextNode("\n"));
 				c = render(item);
-				if (c.tagName == 'H3') {
+				if (c.tagName == 'H3' && sp) {
 					c.prepend(document.createTextNode(" "));
 					c.prepend(sp);
+					sp = null;
+				} else
+				if (c.tagName != 'H2' && sp) {
+					let h3 = genElement('H3', tag + 'Title');
+					h3.appendChild(sp);
+					el.appendChild(h3);
+					sp = null;
 				}
 				el.appendChild(c);
 			});
