@@ -15,6 +15,15 @@
     window.addEventListener("DOMContentLoaded", () => lawdoc.onLoad(() => {
       const mainDiv = document.getElementById("main");
 
+      function getIdForPartRef(ref) {
+        let a = [];
+        for (tok of ref.split(/\s+/)) {
+          if (tok == "§" || tok == "Art.") continue;
+          a.push(tok);
+        }
+        return a.slice(-1).concat(a.slice(0,-1)).join(".");
+      }
+
       function selIndex() {
         tocui.setDoc("Index der Normen");
         mainDiv.innerHTML = "";
@@ -24,14 +33,17 @@
       }
 
       function selDoc(caption, norm) {
-        console.log(caption, norm);
         mainDiv.innerHTML = "";
         mainDiv.appendChild(lawdoc.render(lawdoc.zip[norm + '.markup.json']['document']));
         tocui.reset();
         const toc = lawdoc.zip[norm + '.index.json']['toc'];
         for (const item of toc) {
-          const label = typeof item === 'string' ? item : item[3];
-          tocui.append(label);
+          if (typeof item === 'string') {
+            tocui.append(item);
+          } else {
+            const ref = item[0], label = item[3];
+            tocui.append(label, getIdForPartRef(ref));
+          }
         }
         tocui.setDoc(caption);
         tocui.show();
