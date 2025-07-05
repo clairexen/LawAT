@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>lawdoc Example</title>
+  <title>LawAT Browser</title>
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="lawdoc.css">
   <link rel="stylesheet" href="tocui.css">
@@ -14,15 +14,6 @@
   <script>//<!--
     window.addEventListener("DOMContentLoaded", () => lawdoc.onLoad(() => {
       const mainDiv = document.getElementById("main");
-
-      function getIdForPartRef(ref) {
-        let a = [];
-        for (tok of ref.split(/\s+/)) {
-          if (tok == "§" || tok == "Art.") continue;
-          a.push(tok);
-        }
-        return a.slice(-1).concat(a.slice(0,-1)).join(".");
-      }
 
       function selIndex() {
         tocui.setDoc("Index der Normen");
@@ -42,7 +33,7 @@
             tocui.append(item);
           } else {
             const ref = item[0], label = item[3];
-            tocui.append(label, getIdForPartRef(ref));
+            tocui.append(label, lawdoc.getIdForPartRef(ref));
           }
         }
         tocui.setDoc(caption);
