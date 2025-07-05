@@ -2,10 +2,11 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** RezeptPG  
 **Langtitel:** Bundesgesetz über die Abgabe von Arzneimitteln und Tierarzneimitteln auf Grund ärztlicher oder tierärztlicher Verschreibung (Rezeptpflichtgesetz – RezeptPG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 02.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 05.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010351  
 **Letzte Änderung im RIS:** BGBl. I Nr. 100/2024 (NR: GP XXVII IA 4095/A AB 2660 S. 272. BR: 11525 AB 11575 S. 970.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.RezeptPG.001.md  
+**LawAT Änderungen im Markup:** [BG.RezeptPG.p100-par2a-anm](../patches/BG.RezeptPG.p100-par2a-anm.diff)  
 *Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *Das ist die "AI-Friendly" multi-part Variante dieser Rechtsvorschrift mit kompakter Formatierung. Siehe [BG.RezeptPG.md](BG.RezeptPG.md) für die "Human-Friendly" single-page Variante dieser Norm mit hübscherer Formatierung.*
@@ -51,7 +52,7 @@ Das Bundesamt für Sicherheit im Gesundheitswesen hat ungeachtet der Bestimmung 
 Es ist verboten, Arzneimittel oder Tierarzneimittel mit verbotenen Wirkstoffen gemäß § 1 Abs. 2 Z 1 Anti-Doping-Bundesgesetz 2007, BGBl. I Nr. 30, zu Zwecken des Dopings im Sport zu verschreiben. *(Anm. 1)*
 
 *(_____________*
-*Anm. 1: Art. 11 Z 1 der Novelle ***BGBl. I Nr. 191/2023 *lautet: „In § 2a wird die Wort- und Zeichenfolge „Arzneimittel mit verbotenen Wirkstoffen gemäß § 1 Abs. 2 Z 1 Anti-Doping-Bundesgesetz 2007, BGBl. I Nr. 30,“ durch die Wort- und Zeichenfolge „verbotene Wirkstoffe gemäß § 1 Abs. 2 Z 1 des Anti-Doping-Bundesgesetzes 2021 (ADBG 2021), ***BGBl. I Nr. 152/2020*,“ ersetzt.“ Diese Novellierungsanweisung konnte nicht eingearbeitet werden.)*
+*Anm. 1: Art. 11 Z 1 der Novelle **BGBl. I Nr. 191/2023 **lautet: „In § 2a wird die Wort- und Zeichenfolge „Arzneimittel mit verbotenen Wirkstoffen gemäß § 1 Abs. 2 Z 1 Anti-Doping-Bundesgesetz 2007, BGBl. I Nr. 30,“ durch die Wort- und Zeichenfolge „verbotene Wirkstoffe gemäß § 1 Abs. 2 Z 1 des Anti-Doping-Bundesgesetzes 2021 (ADBG 2021), **BGBl. I Nr. 152/2020**,“ ersetzt.“ Diese Novellierungsanweisung konnte nicht eingearbeitet werden.)*
 
 ### § 3 RezeptPG
 

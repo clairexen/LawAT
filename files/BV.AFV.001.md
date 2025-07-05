@@ -2,7 +2,7 @@
 **Typ:** Verordnung eines Bundesministeriums  
 **Kurztitel:** AFV  
 **Langtitel:** Verordnung des Bundesministers für Wissenschaft und Verkehr zur Durchführung des Amateurfunkgesetzes (Amateurfunkverordnung – AFV)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 02.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 05.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012930  
 **Letzte Änderung im RIS:** BGBl. II Nr. 61/2023  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BV.AFV.001.md  

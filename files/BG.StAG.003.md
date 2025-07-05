@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** StAG  
 **Langtitel:** Bundesgesetz vom 5. März 1986 über die staatsanwaltschaftlichen Behörden (Staatsanwaltschaftsgesetz – StAG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 02.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 05.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000842  
 **Letzte Änderung im RIS:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.StAG.003.md  

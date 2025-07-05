@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** BDG  
 **Langtitel:** Bundesgesetz vom 27. Juni 1979 über das Dienstrecht der Beamten (Beamten-Dienstrechtsgesetz 1979 – BDG 1979)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 02.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 05.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008470  
 **Letzte Änderung im RIS:** BGBl. I Nr. 25/2025 (NR: GP XXVIII RV 69 und Zu 69 AB 100 S. 30. BR: 11643 AB 11645 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.BDG.009.md  

@@ -2,7 +2,7 @@
 **Typ:** Verordnung eines Bundesministeriums  
 **Kurztitel:** RLV  
 **Langtitel:** Verordnung des Bundesministers für Inneres, mit der Richtlinien für das Einschreiten der Organe des öffentlichen Sicherheitsdienstes erlassen werden (Richtlinien-Verordnung - RLV)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 02.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 05.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005857  
 **Letzte Änderung im RIS:** BGBl. II Nr. 155/2012  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BV.RLV.001.md  

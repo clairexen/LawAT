@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** SchUG  
 **Langtitel:** Bundesgesetz über die Ordnung von Unterricht und Erziehung in den im Schulorganisationsgesetz geregelten Schulen (Schulunterrichtsgesetz – SchUG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 02.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 05.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600  
 **Letzte Änderung im RIS:** BGBl. I Nr. 29/2025 (NR: GP XXVIII IA 321/A AB 123 S. 33. BR: AB 11649 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.013.md  

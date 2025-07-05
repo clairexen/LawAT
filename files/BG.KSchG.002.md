@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** KSchG  
 **Langtitel:** Bundesgesetz vom 8. März 1979, mit dem Bestimmungen zum Schutz der Verbraucher getroffen werden (Konsumentenschutzgesetz – KSchG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 02.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 05.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002462  
 **Letzte Änderung im RIS:** [CELEX-Nr.: 32020L1828]  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.KSchG.002.md  

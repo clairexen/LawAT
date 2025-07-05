@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** TKG  
 **Langtitel:** Bundesgesetz, mit dem ein Telekommunikationsgesetz (Telekommunikationsgesetz 2021 – TKG 2021) erlassen wird  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 02.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 05.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011678  
 **Letzte Änderung im RIS:** BGBl. I Nr. 75/2024 (NR: GP XXVII IA 4066/A AB 2583 S. 268. BR: AB 11510 S. 968.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.TKG.008.md  

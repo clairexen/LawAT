@@ -2,7 +2,7 @@
 **Typ:** Verordnung eines Bundesministeriums  
 **Kurztitel:** FNV  
 **Langtitel:** Verordnung der Bundesministerin für Verkehr, Innovation und Technologie betreffend die Frequenznutzung (Frequenznutzungsverordnung 2013 – FNV 2013)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 02.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 05.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008807  
 **Letzte Änderung im RIS:** BGBl. II Nr. 61/2023  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BV.FNV.md  

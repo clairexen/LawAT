@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** VStG  
 **Langtitel:** Verwaltungsstrafgesetz 1991 – VStG  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 02.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 05.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005770  
 **Letzte Änderung im RIS:** [CELEX-Nr.: 32013L0048]  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.VStG.002.md  
