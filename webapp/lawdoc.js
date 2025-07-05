@@ -28,7 +28,7 @@ const lawdoc = (() => {
 				tag = head[0], info = head.slice(1);
 
 		if (tag == "Meta") {
-			if (markup[0] == "Meta ParAnchors")
+			if (markup[0] == "Meta PartAnchors")
 				markup = [markup[0] + " ..."];
 			return document.createComment('LawDoc'+markup.join('\n')+' ');
 		}
@@ -43,7 +43,7 @@ const lawdoc = (() => {
 			return el;
 		}
 
-		if (tag == "Anm") {
+		if (tag == "Rem") {
 			let el = genElement('I');
 			tail.forEach(item => { el.appendChild(render(item)); });
 			return el;
@@ -63,7 +63,7 @@ const lawdoc = (() => {
 		// -----------------------------------------------------------------------
 		// structure handling
 
-		if (tag == "LawDoc" || tag == "Par" || tag == "Item") {
+		if (tag == "LawDoc" || tag == "Part" || tag == "Item") {
 			let el = genElement(tag == "Item" ? 'DD' : 'DIV'), sp;
 			if (tag == "Item") {
 				dt = genElement('DT', tag + 'Name');
