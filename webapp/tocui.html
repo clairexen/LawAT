@@ -8,33 +8,29 @@
   </head>
   <body>
     <script>
-      window.addEventListener("DOMContentLoaded", () => fetch('lawdoc.json').then(r => r.json()).then(data => {
-        function showABGB() {
-          tocui.reset();
-          const toc = data['BG.ABGB.index.json']['toc'];
-          for (const item of toc) {
-            const label = typeof item === 'string' ? item : item[3];
-            tocui.append(label);
-          }
-          tocui.setDoc("ABGB");
-          tocui.show();
-	}
-        function showZPO() {
-          tocui.reset();
-          const toc = data['BG.ZPO.index.json']['toc'];
-          for (const item of toc) {
-            const label = typeof item === 'string' ? item : item[3];
-            tocui.append(label);
-          }
-          tocui.setDoc("ZPO");
-          tocui.show();
-	}
-        tocui.addDoc("ABGB", showABGB);
-        tocui.addDoc("ZPO", showZPO);
-        tocui.addDoc("Weitere Dokumente"); // section header
-        tocui.addDoc("StGB", () => console.log("show StGB"));
-	showABGB();
-      }));
+      window.addEventListener('DOMContentLoaded', () => {
+        /* Register documents ------------------------------------------------*/
+        tocui.addDoc('ABGB', () => {
+          fetch('RisExData.json')
+            .then(r => r.json())
+            .then(data => {
+              tocui.reset();
+              const toc = data['BG.ABGB.index.json'].toc;
+              for (const item of toc) {
+                const label = typeof item === 'string' ? item : item[3];
+                tocui.append(label); // pass id as 2nd arg if available
+              }
+              tocui.setDoc('ABGB');
+              tocui.show();
+            });
+        });
+
+        tocui.addDoc('Weitere Dokumente'); // header in drop‑down
+        tocui.addDoc('ZPO', () => console.log('Lade ZPO …'));
+
+        /* Load default ------------------------------------------------------*/
+        tocui.setDoc('ABGB');
+      });
     </script>
   </body>
 </html>

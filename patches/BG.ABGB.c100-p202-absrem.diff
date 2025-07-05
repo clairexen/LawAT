@@ -1,0 +1,14 @@
+--- BG.ABGB.markup.json
++++ BG.ABGB.markup.json
+@@ -3244,9 +3244,8 @@ ["Part § 202",
+             ["Text",
+                 "Mit diesem Zeitpunkt leben die familienrechtlichen Beziehungen zwischen den ",
+                 "leiblichen Eltern und deren Verwandten einerseits und dem Wahlkind und dessen ",
+-                "Nachkommen andererseits, soweit sie nach dem § 197 erloschen sind, wieder auf."],
+-            ["Text",
+-                ["Rem","(Anm.: Abs. 3 aufgehoben durch Art. 1 Z 34, BGBl. I Nr. 59/2017)"]]]]],
++                "Nachkommen andererseits, soweit sie nach dem § 197 erloschen sind, wieder auf."]],
++        ["Rem","(Anm.: Abs. 3 aufgehoben durch Art. 1 Z 34, BGBl. I Nr. 59/2017)"]]],
+ ["Part § 203",
+     ["Text",
+         "Ein Widerruf oder eine Aufhebung aus anderen als den in den §§ 200 und 201 ",

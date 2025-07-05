@@ -970,7 +970,7 @@ def cli_fetch(*args):
         open(f"{flags.filesdir}/{normkey}.markup.json", "w").write(risDocJsonText)
 
         if flags.patch:
-            for patch in sorted(glob.glob(f"patches/{normkey}.p[0-9][0-9][0-9]*.diff")):
+            for patch in sorted(glob.glob(f"patches/{normkey}.c[0-9][0-9][0-9]*.diff")):
                 cli_patch(normkey, patch)
 
     print("DONE.")
