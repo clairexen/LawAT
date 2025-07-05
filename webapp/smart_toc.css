@@ -1,72 +1,50 @@
+/* Minimal styles for classic (scrollbar‑based) mode */
+
 smart-toc {
   position: fixed;
   top: 0;
   left: 0;
   height: 100vh;
+  width: 300px;          /* permanent width */
   font-family: sans-serif;
-  display: block;
-  z-index: 9999;
-}
-
-smart-toc .container {
-  height: 100%;
-  overflow: hidden;
   background: #eee;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  width: 100px;
-  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.15);
-  transition: width 0.3s, box-shadow 0.3s;
-  display: none;
-}
-
-smart-toc.expanded .container {
-  width: 300px;
-  overflow: visible;
-  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.25);
-  display: block;
+  box-shadow: 2px 0 5px rgba(0,0,0,0.25);
+  z-index: 9999;
+  display: none;         /* becomes block after show() */
 }
 
 smart-toc .content {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 300px;
-  padding-bottom: 2em;
-  clip-path: inset(0 200px 0 0);
-  transition: clip-path 0.3s, opacity 0.3s;
-}
-
-smart-toc.expanded .content {
-  clip-path: none;
-}
-
-smart-toc.classic .content {
-  position: relative !important;
-  overflow-y: auto !important;
-  overflow-x: hidden;
   height: 100%;
-  clip-path: none !important;
-  direction: rtl;
+  overflow-y: auto;
+  overflow-x: hidden;
+  direction: rtl;        /* keep scrollbar on the left */
+  padding: 10px 0;
   scrollbar-width: thick;
 }
 
-smart-toc.classic .content::-webkit-scrollbar {
+smart-toc .content::-webkit-scrollbar {
   width: 16px;
-  background-color: transparent;
+  background: transparent;
 }
 
-smart-toc.classic .content::-webkit-scrollbar-thumb {
-  background-color: rgba(0,0,0,0.3);
+smart-toc .content::-webkit-scrollbar-thumb {
+  background: rgba(0,0,0,0.3);
   border-radius: 8px;
 }
 
-smart-toc.classic .entry {
+smart-toc .entry {
   direction: ltr;
   white-space: normal;
   word-break: break-word;
+  padding: 4px 8px;
 }
 
-smart-toc .entry {
-  padding: 4px 8px;
+/* Make links look like plain text but still copy‑able / openable */
+smart-toc .entry a {
+  color: inherit;
+  text-decoration: none;
+  display: block;
+}
+smart-toc .entry a:hover {
+  text-decoration: underline;
 }
