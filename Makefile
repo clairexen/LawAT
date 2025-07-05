@@ -36,12 +36,11 @@ update:
 	.venv/bin/python3 RisExUtils.py render --down --index
 	$(MAKE) zip json
 
-
-check-markup: JSON_SCHEMA ?= schema.json
+check-markup: JSON_SCHEMA ?= docs/lawdoc.json
 check-markup:
 	.venv/bin/check-jsonschema -v --check-metaschema $(JSON_SCHEMA)
 	set -e; for f in files/*.markup.json; do .venv/bin/check-jsonschema -v --schemafile $(JSON_SCHEMA) $$f; done
-	grep -h '^ *\[' files/*.markup.json | sed -e 's/^ *//; s/\]*,.*//; /\["\(Par\|RisDoc\|Item\|Meta\) / s/ .*/ ..."/' | sort | uniq -c
+	grep -h '^ *\[' files/*.markup.json | sed -re 's/^ *//; s/\]*[\}?,].*//; /\["(Par|Item|Meta|Table|TabCell) / s/ .*/ ..."/' | sort | uniq -c
 
 mitmp:
 	mitmdump -s mitmp.py

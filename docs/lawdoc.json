@@ -1,13 +1,24 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "LawAT/RisEx/RisEn ''LawDoc'' JSON Markup Format Schema",
-  "type": "array", "minItems": 1, "unevaluatedItems": false,
-  "prefixItems": [{ "type": "string", "pattern": "^(RisEnDoc|LawDoc) " }],
-  "items": { "anyOf": [
-    { "$ref": "#/$defs/Meta" },
-    { "$ref": "#/$defs/Par" }
-  ]},
+  "type": "object",
+  "required": ["$schema", "document"],
+  "properties": {
+    "$schema": { "type": "string",
+      "const": "https://raw.githubusercontent.com/clairexen/LawAT/refs/heads/main/schema.json"
+    },
+    "document": { "$ref": "#/$defs/LawDoc" }
+  },
+  "additionalProperties": false,
   "$defs": {
+    "LawDoc": {
+      "type": "array", "minItems": 1, "unevaluatedItems": false,
+      "prefixItems": [{ "type": "string", "pattern": "^LawDoc " }],
+      "items": { "anyOf": [
+        { "$ref": "#/$defs/Meta" },
+        { "$ref": "#/$defs/Par" }
+      ]}
+    },
     "Meta": {
       "type": "array", "minItems": 1, "unevaluatedItems": false,
       "prefixItems": [{ "type": "string", "pattern": "^Meta " }],
@@ -50,12 +61,13 @@
       { "$ref": "#/$defs/Break" },
       { "$ref": "#/$defs/Text" },
       { "$ref": "#/$defs/List" },
+      { "$ref": "#/$defs/Table" },
       { "$ref": "#/$defs/Media" }
     ]},
 
     "Break": {
       "type": "array", "minItems": 1, "maxItems": 1, "unevaluatedItems": false,
-      "items": { "pattern": "^Break$" }
+      "items": { "const": "Break" }
     },
 
     "Text": {
@@ -69,7 +81,7 @@
     ]},
     "Anm": {
       "type": "array", "minItems": 2, "unevaluatedItems": false,
-      "prefixItems": [{ "type": "string", "pattern": "^Anm$" }],
+      "prefixItems": [{ "type": "string", "const": "Anm" }],
       "items": { "type": "string" }
     },
 
@@ -87,9 +99,25 @@
       "items": { "$ref": "#/$defs/Content" }
     },
 
+    "Table": {
+      "type": "array", "minItems": 1, "unevaluatedItems_": false,
+      "prefixItems": [{ "type": "string", "pattern": "^Table( |$)" }],
+      "items_": { "$ref": "#/$defs/TabLine" }
+    },
+    "TabLine": {
+      "type": "array", "minItems": 1, "unevaluatedItems": false,
+      "prefixItems": [{ "type": "string", "const": "Tabline" }],
+      "items": { "$ref": "#/$defs/TabCell" }
+    },
+    "TabCell": {
+      "type": "array", "minItems": 1, "unevaluatedItems": false,
+      "prefixItems": [{ "type": "string", "pattern": "^TabCell( |$)" }],
+      "items": { "$ref": "#/$defs/TextContent" }
+    },
+
     "Media": {
       "type": "array", "minItems": 1, "unevaluatedItems": false,
-      "prefixItems": [{ "type": "string", "pattern": "^Media$" }],
+      "prefixItems": [{ "type": "string", "const": "Media" }],
       "items": { "anyOf": [
         { "$ref": "#/$defs/Text" },
         { "$ref": "#/$defs/Img" }
