@@ -3,14 +3,51 @@
 <head>
   <meta charset="UTF-8">
   <title>lawdoc Example</title>
+  <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="lawdoc.css">
+  <link rel="stylesheet" href="tocui.css">
   <script src="lawdoc.js"></script>
+  <script src="tocui.js"></script>
 </head>
 <body>
+  <div id="main"></div>
   <script>//<!--
     window.addEventListener("DOMContentLoaded", () => lawdoc.onLoad(() => {
-      // document.body.appendChild(lawdoc.render(lawdoc.zip['BG.VerG.markup.json']['document']));
-      document.body.appendChild(lawdoc.render(lawdoc.zip['BG.ABGB.markup.json']['document']));
+      const mainDiv = document.getElementById("main");
+
+      function selIndex() {
+        tocui.setDoc("Index der Normen");
+        mainDiv.innerHTML = "";
+        tocui.reset();
+        tocui.append("Selektiere eine Norm ☝️");
+        tocui.show();
+      }
+
+      function selDoc(caption, norm) {
+        console.log(caption, norm);
+        mainDiv.innerHTML = "";
+        mainDiv.appendChild(lawdoc.render(lawdoc.zip[norm + '.markup.json']['document']));
+        tocui.reset();
+        const toc = lawdoc.zip[norm + '.index.json']['toc'];
+        for (const item of toc) {
+          const label = typeof item === 'string' ? item : item[3];
+          tocui.append(label);
+        }
+        tocui.setDoc(caption);
+        tocui.show();
+      }
+
+      tocui.addDoc("Index der Normen", () => selIndex());
+      for (const item of lawdoc.zip['index.json']) {
+        if (typeof item === 'string') {
+          tocui.addDoc(item);
+        } else {
+          const caption = item[0], norm = item[1];
+          tocui.addDoc(caption, () => selDoc(caption, norm));
+        }
+      }
+
+      selIndex();
     }));
   //--></script>
 </body>

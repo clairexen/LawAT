@@ -1070,20 +1070,24 @@ def cli_render(*args):
     embed()
 
 def cli_index():
-    with open(f"{flags.filesdir}/index.json", "w") as f:
-        f.write("{\n  " + ",\n  ".join([f'"{normkey}": "{normindex[normkey]["caption"]}"'
-                for normkey in normindex.keys()]) + "\n}\n")
-
-    with open(f"{flags.filesdir}/index.md", "w") as f:
-        f.write(f"# LawAT Rechtsdatensatz — Index der Normen\n")
-        for pf, header in (
-                    ("BG.", "Bundesgesetze"),
-                    ("BV.", "Verordnungen der Bundesminister(ien)"),
-                    ("WLG.", "Wiener Landesgesetze"),
-                ):
-            f.write(f"\n## {header}\n")
-            f.write("\n".join(sorted([f'* [{normindex[normkey]["caption"]}]({normkey}.md)'
-                    for normkey in normindex.keys() if normkey.startswith(pf)]))+"\n")
+    with open(f"{flags.filesdir}/index.md", "w") as f_md:
+        with open(f"{flags.filesdir}/index.json", "w") as f_json:
+            f_md.write(f"# LawAT Rechtsdatensatz — Index der Normen\n")
+            f_json.write(f"[")
+            json_sep = "\n  "
+            for pf, header in (
+                        ("BG.", "Bundesgesetze"),
+                        ("BV.", "Verordnungen der Bundesminister(ien)"),
+                        ("WLG.", "Wiener Landesgesetze"),
+                    ):
+                f_md.write(f"\n## {header}\n")
+                f_md.write("\n".join(sorted([f'* [{normindex[normkey]["caption"]}]({normkey}.md)'
+                        for normkey in normindex.keys() if normkey.startswith(pf)]))+"\n")
+                f_json.write(f"{json_sep}{json.dumps(header, separators=",:", ensure_ascii=False)}")
+                json_sep = ",\n  "
+                f_json.write((json_sep + "  ").join([""] + sorted([f'[{json.dumps(normindex[normkey]["caption"], separators=",:", ensure_ascii=False)},{json.dumps(normkey, separators=",:", ensure_ascii=False)}]'
+                        for normkey in normindex.keys() if normkey.startswith(pf)])))
+            f_json.write(f"\n]\n")
 
 def cli_patch(*args):
     norm, *patches = args
