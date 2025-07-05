@@ -6,7 +6,7 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622  
 **Letzte Änderung im RIS:** BGBl. I Nr. 25/2025 (NR: GP XXVIII RV 69 und Zu 69 AB 100 S. 30. BR: 11643 AB 11645 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md  
-**LawAT Änderungen im Markup:** [BG.ABGB.p100-par1209-abslist](../patches/BG.ABGB.p100-par1209-abslist.diff)  
+**LawAT Änderungen im Markup:** [BG.ABGB.c100-p1209-abslist](../patches/BG.ABGB.c100-p1209-abslist.diff), [BG.ABGB.c100-p202-absrem](../patches/BG.ABGB.c100-p202-absrem.diff)  
 *Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## Inhaltsverzeichnis
@@ -3016,6 +3016,7 @@
 > `(1)` Mit dem Eintritt der Rechtskraft des Aufhebungsbeschlusses erlöschen die durch die Annahme zwischen dem Wahlvater \(der Wahlmutter\) und dessen \(deren\) Nachkommen einerseits und dem Wahlkind und dessen Nachkommen andererseits begründeten Rechtsbeziehungen\.
 
 > `(2)` Mit diesem Zeitpunkt leben die familienrechtlichen Beziehungen zwischen den leiblichen Eltern und deren Verwandten einerseits und dem Wahlkind und dessen Nachkommen andererseits, soweit sie nach dem § 197 erloschen sind, wieder auf\.
+
 > *\(Anm\.: Abs\. 3 aufgehoben durch Art\. 1 Z 34, BGBl\. I Nr\. 59/2017\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-202-abgb) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=202) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_119_TextContainer_119) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.004.md#-202-abgb) \]

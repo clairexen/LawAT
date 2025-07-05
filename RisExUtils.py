@@ -477,22 +477,23 @@ class LawDocMarkdownEngine:
         head, *tail = item
         tag = head.split()
 
-        assert tag[0] == "Item"
-        cite = head.removeprefix("Item ")
-        match typ:
-            case "Num" if re.fullmatch(r"[0-9]+[a-z]*\.", cite):
-                cite = f"Z {cite[:-1]}"
-            case "Lit" if re.fullmatch(r"[a-z]+[0-9]*\)", cite):
-                cite = f"lit. {cite[:-1]}"
-        self.citepath.append(cite)
-
         if br or not flags.forai:
             self.largeBreak()
+
+        if tag[0] != "Rem":
+            assert tag[0] == "Item"
+            cite = head.removeprefix("Item ")
+            match typ:
+                case "Num" if re.fullmatch(r"[0-9]+[a-z]*\.", cite):
+                    cite = f"Z {cite[:-1]}"
+                case "Lit" if re.fullmatch(r"[a-z]+[0-9]*\)", cite):
+                    cite = f"lit. {cite[:-1]}"
+            self.citepath.append(cite)
 
         firstIndentLine = None
         if not flags.forai:
             firstIndentLine = len(self.lines)
-        else:
+        elif tag[0] != "Rem":
             if typ == "Abs" or (br and typ == "List" and len(self.citepath) == 2):
                 self.largeBreak()
                 self.push(f"`{' '.join(self.citepath)} {self.normdata['title']}.`  ")
@@ -500,13 +501,17 @@ class LawDocMarkdownEngine:
                 self.smallBreak()
                 self.push(f"`{' '.join(self.citepath)} {self.normdata['title']}.`")
 
-        for t in tail:
-            self.genText(t)
+        if tag[0] != "Rem":
+            for t in tail:
+                self.genText(t)
+        else:
+            self.push(renderText(item))
 
         if firstIndentLine is not None:
-            self.indentSinceLine(firstIndentLine, head.removeprefix('Item '))
+            self.indentSinceLine(firstIndentLine, head.removeprefix('Item ') if tag[0] != "Rem" else None)
 
-        self.citepath.pop()
+        if tag[0] != "Rem":
+            self.citepath.pop()
         return self.popLineNum()
 
     def genList(self, item, *, br=False):
