@@ -171,7 +171,7 @@ def foldSoftPreserve(s, width=80):
 def prettyJSON(data, indent=None, autofold=False, addFinalNewline=True, incindent="    "):
     if indent is None:
         if isinstance(data, dict): data = data["document"]
-        s = '{ "$schema": "https://raw.githubusercontent.com/clairexen/LawAT/refs/heads/main/schema.json",\n'
+        s = '{ "$schema": "https://raw.githubusercontent.com/clairexen/LawAT/refs/heads/main/docs/lawdoc.json",\n'
         return s + '  "document": ' + prettyJSON(data, "", autofold, False, "") + '}\n'
 
     if autofold and isinstance(data, str) and len(data) > 80:
@@ -320,7 +320,7 @@ Locator.get_attrset = lambda self, name: set() if self.get_attribute(name) is No
 # LawDoc -> Markdown Engine
 ###########################
 
-def renderText(item, inAnm=False, plain=False):
+def renderText(item, inRem=False, plain=False):
     if type(item) is str:
         if plain: return item
         return markdownEscape(item)
@@ -328,15 +328,15 @@ def renderText(item, inAnm=False, plain=False):
     head, *tail = item
     tag, s = head.split(), []
 
-    if tag[0] == "Anm" and not plain:
-        assert inAnm is False
-        inAnm = True
+    if tag[0] == "Rem" and not plain:
+        assert inRem is False
+        inRem = True
         s.append("*")
 
     for t in tail:
-        s.append(renderText(t, inAnm, plain))
+        s.append(renderText(t, inRem, plain))
 
-    if tag[0] == "Anm" and not plain:
+    if tag[0] == "Rem" and not plain:
         s.append("*")
 
     return "".join(s)
@@ -362,11 +362,11 @@ class LawDocMarkdownEngine:
                     if type(item) is list and len(item) and item[0].startswith("Meta ")
         }
         self.pars = {
-            item[0].removeprefix("Par "): item for item in self.risDoc
-                    if type(item) is list and len(item) and item[0].startswith("Par ")
+            item[0].removeprefix("Part "): item for item in self.risDoc
+                    if type(item) is list and len(item) and item[0].startswith("Part ")
         }
 
-        self.srcAnchors = dict(line.split(" #", 1) for line in self.meta["ParAnchors"][1:])
+        self.srcAnchors = dict(line.split(" #", 1) for line in self.meta["PartAnchors"][1:])
 
         self.addIndexHdrs = False
         if self.normkey not in engineIndexOutput:
@@ -606,13 +606,13 @@ class LawDocMarkdownEngine:
 
         return self.popLineNum()
 
-    def genPar(self, parDoc):
+    def genPart(self, parDoc):
         self.pushLineNum()
         firstLine = len(self.lines)
         startNewSection = False
 
         assert not self.citepath
-        self.citepath.append(parDoc[0].removeprefix("Par "))
+        self.citepath.append(parDoc[0].removeprefix("Part "))
         parTitle = parCiteStr = f"{' '.join(self.citepath)} {self.normdata['title']}"
         parRegEx = f"^\\s*{' '.join(self.citepath).replace(' ', r'[\.\s\u00a0]*')}\\b\\.?\\s*"
 
@@ -633,8 +633,8 @@ class LawDocMarkdownEngine:
         for item in parDoc[1:]:
             if type(item[0]) is dict:
                 if self.strict_mode:
-                    assert False, f"Unknown Tag in genPar(): {tag}"
-                print(f"Unknown Tag in genPar(): {tag}")
+                    assert False, f"Unknown Tag in genPart(): {tag}"
+                print(f"Unknown Tag in genPart(): {tag}")
                 continue
 
             head, *tail = item
@@ -703,9 +703,9 @@ class LawDocMarkdownEngine:
 
                     else:
                         if self.strict_mode:
-                            assert False, f"Unsupported Tag in genPar(): {tag}"
+                            assert False, f"Unsupported Tag in genPart(): {tag}"
                         else:
-                            print(f"Unsupported Tag in genPar(): {tag}")
+                            print(f"Unsupported Tag in genPart(): {tag}")
 
             lastTyp = tag[0]
 
@@ -745,9 +745,9 @@ class LawDocMarkdownEngine:
             self.pushLineNum()
             for item in self.risDoc[1:]:
                 tag = item[0].split()
-                if tag[0] != "Par":
+                if tag[0] != "Part":
                     continue
-                self.genPar(item)
+                self.genPart(item)
             self.body = self.popLineNum()
 
             self.parts = []
@@ -838,7 +838,7 @@ class LawDocMarkdownEngine:
             pars = self.parts[partIdx-1].pars if partIdx else \
                     self.pars if partIdx is None else []
 
-            firstPar = True
+            firstPart = True
             for p in pars:
                 if isinstance(p, str):
                     p = self.parmap[p]
@@ -847,17 +847,17 @@ class LawDocMarkdownEngine:
                     self.largeBreak()
                     self.push("----")
 
-                if partIdx is None and firstPar:
+                if partIdx is None and firstPart:
                     self.pushHdr(self.meta['Promulgation'][-1])
 
                 self.largeBreak()
                 #self.push("----")
-                firstParLine = len(self.lines)
+                firstPartLine = len(self.lines)
                 self.lines += self.lines[p.firstLine:p.lastLine+1]
-                lastParLine = len(self.lines)-1
+                lastPartLine = len(self.lines)-1
                 #self.push("----")
 
-                ref = f"{k}:{firstParLine-firstLine+1}-{lastParLine-firstLine+1}"
+                ref = f"{k}:{firstPartLine-firstLine+1}-{lastPartLine-firstLine+1}"
                 if flags.forai:
                     self.idxout[p.citename].ref4ai = ref
                 else:
@@ -878,7 +878,7 @@ class LawDocMarkdownEngine:
                     self.largeBreak()
                     self.push(f"\\[ {' | '.join(navItems)} \\]")
 
-                firstPar = False
+                firstPart = False
 
 
             if partIdx is not None:
@@ -935,8 +935,8 @@ def cli_fetch(*args):
         embed()
 
         print(f"  `- writing markup object tree to {flags.filesdir}/{normkey}.markup.json")
-        stopParJs = f"'{normdata['stop']}'" if 'stop' in normdata else "null"
-        risDocJsonText = page.evaluate(f"prettyJSON(risExtractor(null, {stopParJs}, '{normkey}'))")
+        stopPartJs = f"'{normdata['stop']}'" if 'stop' in normdata else "null"
+        risDocJsonText = page.evaluate(f"prettyJSON(risExtractor(null, {stopPartJs}, '{normkey}'))")
         risDocJsonText = json.loads(risDocJsonText)
 
         if "remove-headers" in normdata:

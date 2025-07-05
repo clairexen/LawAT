@@ -1,6 +1,6 @@
 --- BG.ABGB.markup.json
 +++ BG.ABGB.markup.json
-@@ -13666,10 +13666,11 @@ ["Par § 1209",
+@@ -13666,10 +13666,11 @@ ["Part § 1209",
                  "Gesellschaft für unbestimmte Zeit eingegangen ist, nur für den Schluss eines ",
                  "Geschäftsjahres erfolgen; sie muss mindestens sechs Monate vor diesem Zeitpunkt ",
                  "stattfinden."]]],
@@ -13,6 +13,6 @@
 +                "Eine Vereinbarung, durch die das Kündigungsrecht ausgeschlossen oder in ",
 +                "anderer Weise als durch angemessene Verlängerung der Kündigungsfrist erschwert ",
 +                "wird, ist nichtig. Dies gilt nicht für Innengesellschaften (§ 1176 Abs. 1)."]]
- ["Par § 1210",
+ ["Part § 1210",
      ["Title",
          "Auflösung durch gerichtliche Entscheidung"],

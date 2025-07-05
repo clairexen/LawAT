@@ -196,7 +196,7 @@ function getVisibleTextTree(el) {
 		visitChildren = false;
 
 	if (el.classList.contains("Kursiv"))
-		tag = "Anm";
+		tag = "Rem";
 
 	if (visitChildren) {
 		for (let child of el.childNodes) {
@@ -454,7 +454,7 @@ class RisExAST {
 
 		if (!verbose) {
 			if (this.typeIn("Par"))
-				tag = "Par " + this.get("par");
+				tag = "Part " + this.get("par");
 
 			if (this.typeIn("Head", "Title", "Text")) {
 				let inParPretext = true;
@@ -568,8 +568,8 @@ function getMetaRisSrcLink() {
 	return ["Meta RisSrcLink", document.URL.split("#")[0]];
 }
 
-function getMetaParAnchors(stopPar) {
-	let el, id, data = ["Meta ParAnchors"];
+function getMetaPartAnchors(stopPar) {
+	let el, id, data = ["Meta PartAnchors"];
 
 	for (let p of risParList) {
 		if (p === "§ 0")
@@ -604,7 +604,7 @@ function risExtractor(parName=null, stopPar=null, docName=null, verbose=false, a
 		doc.push(getMetaFassungVom());
 		doc.push(getMetaLastChange());
 		doc.push(getMetaRisSrcLink());
-		doc.push(getMetaParAnchors(stopPar));
+		doc.push(getMetaPartAnchors(stopPar));
 		doc.push(getMetaLocalChanges());
 		doc.push(getMetaPromulgation());
 		for (let p of risParList) {

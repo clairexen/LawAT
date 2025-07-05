@@ -5,7 +5,7 @@
   "required": ["$schema", "document"],
   "properties": {
     "$schema": { "type": "string",
-      "const": "https://raw.githubusercontent.com/clairexen/LawAT/refs/heads/main/schema.json"
+      "const": "https://raw.githubusercontent.com/clairexen/LawAT/refs/heads/main/docs/lawdoc.json"
     },
     "document": { "$ref": "#/$defs/LawDoc" }
   },
@@ -16,7 +16,7 @@
       "prefixItems": [{ "type": "string", "pattern": "^LawDoc " }],
       "items": { "anyOf": [
         { "$ref": "#/$defs/Meta" },
-        { "$ref": "#/$defs/Par" }
+        { "$ref": "#/$defs/Part" }
       ]}
     },
     "Meta": {
@@ -24,9 +24,9 @@
       "prefixItems": [{ "type": "string", "pattern": "^Meta " }],
       "items": { "type": "string" }
     },
-    "Par": {
+    "Part": {
       "type": "array", "minItems": 1, "unevaluatedItems": false,
-      "prefixItems": [{ "type": "string", "pattern": "^Par " }],
+      "prefixItems": [{ "type": "string", "pattern": "^Part " }],
       "items": { "anyOf": [
         { "$ref": "#/$defs/Head" },
         { "$ref": "#/$defs/Title" },
@@ -77,11 +77,11 @@
     },
     "TextContent": { "anyOf": [
       { "type": "string" },
-      { "$ref": "#/$defs/Anm" }
+      { "$ref": "#/$defs/Rem" }
     ]},
-    "Anm": {
+    "Rem": {
       "type": "array", "minItems": 2, "unevaluatedItems": false,
-      "prefixItems": [{ "type": "string", "const": "Anm" }],
+      "prefixItems": [{ "type": "string", "const": "Rem" }],
       "items": { "type": "string" }
     },
 
@@ -90,7 +90,7 @@
       "prefixItems": [{ "type": "string", "pattern": "^List( |$)" }],
       "items": { "anyOf": [
         { "$ref": "#/$defs/Item" },
-        { "$ref": "#/$defs/Anm" }
+        { "$ref": "#/$defs/Rem" }
       ]}
     },
     "Item": {
