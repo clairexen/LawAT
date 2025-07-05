@@ -46,8 +46,22 @@ check-markup:
 mitmp:
 	mitmdump -s mitmp.py
 
-purge:
-	rm -rf .venv RisExData.json __pycache__/ __rismarkup__/ __webcache__/
-	rm -rf RisExFiles.zip
+webapp:
+	.venv/bin/python3 RisExUtils.py mkwebapp
+	( sleep 1; xdg-open http://0.0.0.0:8000/; ) &
+	cd webapp && ../.venv/bin/python3 -m http.server
 
-.PHONY: help venv zip json update check-markup mitmp purge
+deploy:
+	[ -d __ghpages__ ] || git clone -b gh-pages git@github.com:clairexen/LawAT.git __ghpages__
+	-cd __ghpages__ && git rm -rf .
+	cp -vt __ghpages__/ RisExData.json RisExFiles.zip
+	cp -vt __ghpages__/ webapp/index.html webapp/lawdoc.json
+	cp -vt __ghpages__/ webapp/smart_toc.js webapp/smart_toc.css
+	cp -vt __ghpages__/ webapp/lawdoc.js webapp/lawdoc.css
+	cd __ghpages__ && git add . && git commit -m deploy && git push
+
+purge:
+	rm -rf .venv __pycache__/ __ghpages__/ __rismarkup__/ __webcache__/
+	rm -rf RisExData.json RisExFiles.zip webapp/lawdoc.json
+
+.PHONY: help venv zip json update check-markup mitmp webapp deploy purge

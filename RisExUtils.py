@@ -907,54 +907,6 @@ class LawDocMarkdownEngine:
 # CLI Interface
 ###############
 
-def cli_find(normkey):
-    page = startPlaywright()
-
-    normdata = {
-        "type": normkey.split(".", 1)[0],
-        "title": normkey.split(".", 1)[1]
-    }
-
-    if normdata["type"] in ("BG", "BVG"):
-        # Fill out search form
-        page.goto("https://ris.bka.gv.at/Bundesrecht/")
-        page.locator("#MainContent_TitelField_Value").fill(normdata["title"])
-        page.locator("#MainContent_VonParagrafField_Value").fill("0")
-        page.locator("#MainContent_TypField_Value").fill(normdata["type"])
-        page.locator("#MainContent_SearchButton").click()
-
-        # Click through to complete norm
-        with page.context.expect_page() as new_page_info:
-            page.locator("a").get_by_text("heute", exact=True).click()
-        page = new_page_info.value
-        page.wait_for_load_state()
-
-        print(f"Document URL for {normkey}:", page.url)
-        docurl = page.url
-
-    print("Opening {docurl}")
-    os.system(f"xdg-open '{docurl}'")
-    time.sleep(0.5)
-
-    normdata["stop"] = input("Letzter paragraph (zB '§ 123a')? ")
-    normdata["caption"] = input("Caption? ")
-    normdata["docurl"] = docurl
-
-    # Update Index JSON
-    lines = open("normlist.json").read().split("\n")
-    assert lines[-1] == ""
-    assert lines[-2] == "}"
-    assert lines[-3] == "\t}"
-    del lines[-3:]
-    lines += ["\t},", f"\t\"{normkey}\": {{"]
-    lines += [f"\t\t\"{key}\": \"{value}\"," for key, value in normdata.items()]
-    lines[-1] = lines[-1].removesuffix(",")
-    lines += ["\t}", "}", ""]
-    open("normlist.json", "w").write("\n".join(lines))
-
-    print("DONE.")
-    stopPlaywright()
-
 def cli_update(*args):
     cli_fetch(*args)
     cli_render("--index", "--down", *args)
@@ -1214,6 +1166,14 @@ def cli_mkjson():
             data[fn.removeprefix(f"{flags.filesdir}/")] = open(fn).read().split("\n")
 
     with open("RisExData.json", "w") as f:
+        json.dump(data, f)
+
+def cli_mkwebapp():
+    data = dict()
+    for fn in sorted([f"{flags.filesdir}/index.json"] +
+                     glob.glob(f"{flags.filesdir}/*.markup.json")):
+        data[fn.removeprefix(f"{flags.filesdir}/")] = json.load(open(fn))
+    with open("webapp/lawdoc.json", "w") as f:
         json.dump(data, f)
 
 def cli_shell():
