@@ -17,25 +17,26 @@
       const mainDiv = document.getElementById("main");
       const locTarget = window.location.hash.slice(1);
 
-      function selIndex(pushHistory) {
+      let noPushHistory = true;
+      let currentNorm = null;
+      let selNorm = {};
+
+      function selIndex() {
         tocui.setDoc("Index der Normen");
         mainDiv.innerHTML = "";
         tocui.reset();
         tocui.append("Selektiere eine Norm ☝️");
-        if (pushHistory)
+        if (!noPushHistory)
           history.pushState(null, '', "#");
+        currentNorm = null;
       }
 
-      tocui.addDoc("Index der Normen", () => selIndex(true));
-      selIndex(false);
+      tocui.addDoc("Index der Normen", () => selIndex());
+      selIndex();
 
       lawdoc.onLoad(() => {
         const loadingDiv = document.getElementById("loading");
         if (loadingDiv) loadingDiv.remove();
-
-        let noPushHistory = true;
-        let currentNorm = null;
-        let selNorm = {};
 
 	function withNoPushHistory(action) {
           const old_noPushHistory = noPushHistory;
@@ -107,7 +108,8 @@
 
         window.addEventListener("popstate", (event) => {
 	  targetId = window.location.hash.slice(1);
-	  withNoPushHistory(() => targetId != "" ? scrollTo(targetId) : selIndex(false));
+	  // console.log("popstate:", targetId);
+	  withNoPushHistory(() => targetId != "" ? scrollTo(targetId) : selIndex());
         });
       });
     });
