@@ -1,0 +1,106 @@
+(?x)  # Extended mode
+#
+# This is a PCRE2 RegEx version of the JSON schmema in lawdoc.schema. The main
+# advantage of this version of the schema is, that it can also check if the
+# elements in a LawDoc Part are in the right order, whereas the description in
+# lawdoc.schema only check for valid parent-child pairings.
+#
+# For simplicity this regex assumes well-formated JSON input and doesn't check
+# for things like valid escape sequences in strings and so forth.
+#
+# (.. still under constructions)
+
+\A
+  \s*\{
+    \s*"\$schema"\s*:\s*"https://raw\.githubusercontent\.com/clairexen/LawAT/refs/heads/main/docs/lawdoc\.json"\s*,
+    \s*"document"\s*: (?&LawDoc)
+  \s*\}\s*
+\z
+
+(?(DEFINE)
+
+(?<LawDoc>
+  \s*\[
+    \s*"LawDoc [^"]*"\s*,?
+    (?: (?&Meta) | (?&Part) )+
+  \s*\]\s*,?
+)
+
+(?<Meta>
+  \s*\[
+    \s*"Meta [^"]*"\s*,?
+    (?: \s*"[^"]*"\s*,? )*
+  \s*\]\s*,?
+)
+
+(?<Part>
+  \s*\[
+    \s*"Part [^"]*"\s*,?
+    (?&PartContent)*
+  \s*\]\s*,?
+)
+
+(?<PartContent>
+  (?&Head) | (?&Title) | (?&SubHdr) | (?&Content)
+)
+
+(?<Head>
+  \s*\[
+    \s*"Head(?: [^"]+|)"\s*,?
+    (?: \s*"[^"]*"\s*,? | (?&Rem) )+
+  \s*\]\s*,?
+)
+
+(?<Title>
+  \s*\[
+    \s*"Title(?: [^"]+|)"\s*,?
+    (?: \s*"[^"]*"\s*,? | (?&Rem) )+
+  \s*\]\s*,?
+)
+
+(?<SubHdr>
+  \s*\[
+    \s*"SubHdr(?: [^"]+|)"\s*,?
+    (?: \s*"[^"]*"\s*,? | (?&Rem) )+
+  \s*\]\s*,?
+)
+
+(?<Content>
+  (?&Break) | (?&Text) | (?&List) # | (?&Table) | (?&Media)
+)
+
+(?<Break>
+  \s*\[
+    \s*"Break"\s*
+  \s*\]\s*,?
+)
+
+(?<Text>
+  \s*\[
+    \s*"Text(?: [^"]+|)"\s*,?
+    (?: \s*"[^"]*"\s,? | (?&Rem) )+
+  \s*\]\s*,?
+)
+
+(?<Rem>
+  \s*\[
+    \s*"Rem"\s*,?
+    (?: \s*"[^"]*"\s*,? )+
+  \s*\]\s*,?
+)
+
+(?<List>
+  \s*\[
+    \s*"List(?: [^"]+|)"\s*,?
+    (?: (?&Item) | (?&Rem) )*
+  \s*\]\s*,?
+)
+
+(?<Item>
+  \s*\[
+    \s*"Item(?: [^"]+|)"\s*,?
+    (?&Content)+
+  \s*\]\s*,?
+)
+
+) # end DEFINE
