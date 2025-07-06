@@ -256,5 +256,18 @@
 		"title": "B-VG",
 		"caption": "Bundes-Verfassungsgesetz (B-VG)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000138"
+	},
+	"BG.StVG": {
+		"type": "BG",
+		"title": "StVG",
+		"stop": "§ 182",
+		"caption": "Strafvollzugsgesetz (StVG)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002135"
+	},
+	"BG.VVG": {
+		"type": "BG",
+		"title": "VVG",
+		"caption": "Verwaltungsvollstreckungsgesetz (VVG)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005772"
 	}
 }

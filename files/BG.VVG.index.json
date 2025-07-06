@@ -1,0 +1,43 @@
+{
+  "toc": [
+    ["§ 1 VVG", "BG.VVG:37-55", "BG.VVG.001:16-37", "§ 1 VVG # Allgemeine Grundsätze"],
+    ["§ 1a VVG", "BG.VVG:61-73", "BG.VVG.001:39-53", "§ 1a VVG"],
+    ["§ 2 VVG", "BG.VVG:79-83", "BG.VVG.001:55-61", "§ 2 VVG"],
+    ["§ 3 VVG", "BG.VVG:89-95", "BG.VVG.001:63-72", "§ 3 VVG # Eintreibung von Geldleistungen"],
+    "Erzwingung anderer Leistungen und Unterlassungen",
+    ["§ 4 VVG", "BG.VVG:101-107", "BG.VVG.001:74-82", "§ 4 VVG # a) Ersatzvornahme"],
+    ["§ 5 VVG", "BG.VVG:113-121", "BG.VVG.001:84-96", "§ 5 VVG # b) Zwangsstrafen"],
+    ["§ 6 VVG", "BG.VVG:127-131", "BG.VVG.001:98-104", "§ 6 VVG"],
+    ["§ 7 VVG", "BG.VVG:137-139", "BG.VVG.001:106-109", "§ 7 VVG # c) Anwendung unmittelbaren Zwanges"],
+    ["§ 8 VVG", "BG.VVG:145-149", "BG.VVG.001:111-117", "§ 8 VVG # Einstweilige Verfügungen"],
+    ["§ 9 VVG", "BG.VVG:155-161", "BG.VVG.001:119-128", "§ 9 VVG # Organe der Vollstreckung"],
+    ["§ 10 VVG", "BG.VVG:167-171", "BG.VVG.001:130-136", "§ 10 VVG # Verfahren"],
+    ["§ 10a VVG", "BG.VVG:177-185", "BG.VVG.001:138-150", "§ 10a VVG"],
+    ["§ 11 VVG", "BG.VVG:191-199", "BG.VVG.001:152-164", "§ 11 VVG # Kosten"],
+    ["§ 12 VVG", "BG.VVG:205-207", "BG.VVG.001:166-169", "§ 12 VVG # Besondere Zwangsbefugnisse"],
+    ["§ 13 VVG", "BG.VVG:213-235", "BG.VVG.001:171-201", "§ 13 VVG # Inkrafttreten"],
+    ["§ 14 VVG", "BG.VVG:241-243", "BG.VVG.001:203-206", "§ 14 VVG # Vollziehung"],
+    ["§ 14a VVG", "BG.VVG:249-251", "BG.VVG.001:208-211", "§ 14a VVG # Verweisungen"],
+    ["§ 15 VVG", "BG.VVG:257-259", "BG.VVG.001:213-216", "§ 15 VVG # Sprachliche Gleichbehandlung"]
+  ],
+  "index": {
+    "§ 1 VVG": 0,
+    "§ 1a VVG": 1,
+    "§ 2 VVG": 2,
+    "§ 3 VVG": 3,
+    "§ 4 VVG": 5,
+    "§ 5 VVG": 6,
+    "§ 6 VVG": 7,
+    "§ 7 VVG": 8,
+    "§ 8 VVG": 9,
+    "§ 9 VVG": 10,
+    "§ 10 VVG": 11,
+    "§ 10a VVG": 12,
+    "§ 11 VVG": 13,
+    "§ 12 VVG": 14,
+    "§ 13 VVG": 15,
+    "§ 14 VVG": 16,
+    "§ 14a VVG": 17,
+    "§ 15 VVG": 18
+  }
+}

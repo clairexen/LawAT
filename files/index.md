@@ -22,6 +22,7 @@
 * [Staatsanwaltschaftsgesetz (StAG)](BG.StAG.md)
 * [Strafgesetzbuch (StGB)](BG.StGB.md)
 * [Strafprozeßordnung (StPO)](BG.StPO.md)
+* [Strafvollzugsgesetz (StVG)](BG.StVG.md)
 * [Straßenverkehrsordnung (StVO)](BG.StVO.md)
 * [Suchtmittelgesetz (SMG)](BG.SMG.md)
 * [Telekommunikationsgesetz 2021 (TKG)](BG.TKG.md)
@@ -29,6 +30,7 @@
 * [Vereinsgesetz (VerG)](BG.VerG.md)
 * [Verwaltungsgerichtsverfahrensgesetz (VwGVG)](BG.VwGVG.md)
 * [Verwaltungsstrafgesetz (VStG)](BG.VStG.md)
+* [Verwaltungsvollstreckungsgesetz (VVG)](BG.VVG.md)
 * [Wechselgesetz (WechselG)](BG.WechselG.md)
 * [Zivilprozessordnung (ZPO)](BG.ZPO.md)
 
