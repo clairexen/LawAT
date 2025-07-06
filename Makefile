@@ -48,6 +48,7 @@ mitmp:
 
 webapp:
 	.venv/bin/python3 RisExUtils.py mkwebapp
+	cp -vt webapp/ RisEnQuery.py LawAT_DataSet.json
 	( sleep 1; xdg-open http://0.0.0.0:8000/; ) &
 	cd webapp && ../.venv/bin/python3 -m http.server
 
@@ -64,6 +65,7 @@ deploy:
 
 purge:
 	rm -rf .venv __pycache__/ __ghpages__/ __rismarkup__/ __webcache__/
-	rm -rf LawAT_DataSet.json LawAT_DataSet.zip webapp/lawdoc.json
+	rm -rf webapp/lawdoc.json webapp/RisEnQuery.py webapp/LawAT_DataSet.json
+	rm -rf LawAT_DataSet.json LawAT_DataSet.zip
 
 .PHONY: help venv zip json update check-markup mitmp webapp deploy purge

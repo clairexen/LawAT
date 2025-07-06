@@ -234,7 +234,8 @@ import json, os, sys, re, fnmatch
 from collections import namedtuple
 
 Cite = namedtuple("Cite", "norm par vref pref title")
-Cite.__str__ = lambda self: f"<{self.title.strip('# ').replace(' # ', ' — ')}>"
+if hasattr(Cite, "__str__"):
+    Cite.__str__ = lambda self: f"<{self.title.strip('# ').replace(' # ', ' — ')}>"
 
 if _rex_src is None:
     import glob
@@ -296,7 +297,7 @@ def _rex_rerun_intro_examples(cmds = None):
         output_buffer.append(f">>> {cmd}")
         if cmd.startswith("from RisEnQuery "): continue
         output = _rex_capture(lambda: exec(cmd, globals(), local_vars))
-        if len(output) > 20: output = [*output[:20], "..."]
+        if len(output) > 20: output = output[:20] + ["..."]
         output_buffer += output
 
     return output_buffer
