@@ -1,51 +1,56 @@
 <!doctype html>
 <html lang="en">
 <head>
-<!-- Recommended meta tags -->
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1.0">
-<!-- PyScript CSS -->
-<link rel="stylesheet" href="https://pyscript.net/releases/2025.5.1/core.css">
-<!-- This script tag bootstraps PyScript -->
-<script type="module" src="https://pyscript.net/releases/2025.5.1/core.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <!-- helper library (loads PyScript lazily) -->
+  <script src="risen.js"></script>
 </head>
 <body>
+  <h1>RisEnQuery Shell (MicroPython REPL)</h1>
 
-<h1>RisEnQuery Shell (Using MicroPython REPL)</h1>
+  <p>
+    <button id="btn-open-shell" onclick="risen.open()">Open Shell</button>
+    <button id="btn-close-shell" onclick="risen.close()">Close Shell</button>
+  </p>
 
-<!-- begin terminal window -->
-<div id="new-terminal">
-<script id="python-terminal" type="mpy" terminal config='{
-	"packages": [
-	],
-	"files": {
-		"RisEnQuery.py": "/RisEnQuery.py",
-		"LawAT_DataSet.json": "/LawAT_DataSet.json"
-	}
-}'>
-print("Loading RisEnQuery.py and RisEnData.json.")
-exec(open("RisEnQuery.py").read().replace("#/#", "", 2))
-print("READY. Launching Python REPL.")
+  <!-- ────────────────────────────────────────────────────────────── -->
+  <!--  Pre‑built shell window (hidden at load, revealed by risen.js) -->
+  <!-- ────────────────────────────────────────────────────────────── -->
+  <div id="risen-shell-wrapper" style="display:none;">
+    <div class="risen-header">MicroPython Shell</div>
+    <div class="risen-body">
+      <div id="risen-terminal-container">
+        <script id="python-terminal" type="mpy" terminal config='{"packages":[],"files":{"RisEnQuery.py":"/RisEnQuery.py","LawAT_DataSet.json":"/LawAT_DataSet.json"}}'>
+# -*- coding: utf-8 -*-
+print("Loading support files …")
+try:
+    exec(open("RisEnQuery.py").read().replace("#/#", "", 2))
+    print("RisEnQuery.py loaded ✔︎")
+except OSError as e:
+    print("⚠️  RisEnQuery.py not found:", e)
 
-print()
-print('# Usage Example: Liste der StGB §§ mit "verfälscht" und "Urkund" im Text')
+print('# Usage Example: Liste der StGB §§ mit \'verfälscht\' und "Urkund" im Text')
 print('with sel("BG.StGB"): utoc(find("+verfälscht") & find("+Urkund"))')
-print()
-print('Run tx(intro()) to display a longer introduction to the RisEnQuery environment.')
+print('Run tx(intro()) for a longer introduction.\n')
 
-import code
-code.interact()
-</script>
-
-<div class="old-terminal" id="old-terminal">
-    <div class="menu">
-	<div class="window-buttons close"></div>
-	<div class="window-buttons minimize"></div>
-	<div class="window-buttons zoom"></div>
+import sys
+try:
+    import code
+    code.interact()
+except ImportError:
+    while True:
+        try:
+            line = input('>>> ')
+            exec(line, globals())
+        except (SystemExit, KeyboardInterrupt):
+            raise
+        except Exception as exc:
+            sys.print_exception(exc)
+        </script>
+      </div>
     </div>
-    <div class="screen">
-	<div class="code"></div>
-    </div>
-</div>
-<!-- end terminal window -->
-</body></html>
+  </div>
+  <!-- ────────────────────────────────────────────────────────────── -->
+</body>
+</html>

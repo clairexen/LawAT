@@ -13,7 +13,8 @@
 files=()
 #files+=(copy.sh)
 #files+=(lawdoc.{html,css,js})
-files+=(tocui.{html,css,js})
+#files+=(tocui.{html,css,js})
+files+=(risen.{html,js})
 
 { echo "  #!/bin/bash";
   echo "#^ canvas starts with spaces so this doesn't clog up the shell history";
