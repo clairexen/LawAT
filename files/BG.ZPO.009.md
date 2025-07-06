@@ -14,12 +14,12 @@
 
 ## Beweisaufnahme durch einen ersuchten oder beauftragten Richter.
 
-### § 282 ZPO # 
+### § 282 ZPO
 
 `§ 282 ZPO.`  
 Mit Beweisaufnahmen, welche außerhalb der Verhandlungstagsatzung am Orte des Processgerichtes oder in dessen Nähe stattzufinden haben, ist ein Mitglied des Processgerichtes, und zwar in der Regel ein Mitglied des zur Entscheidung der Rechtssache berufenen Senates zu beauftragen.
 
-### § 283 ZPO # 
+### § 283 ZPO
 
 `§ 283 (1) ZPO.`  
 Ersuchschreiben, welche wegen einer Beweisaufnahme erlassen werden, die außerhalb des Geltungsgebietes dieses Gesetzes stattfinden soll, können dem Beweisführer auf seinen Antrag behufs Übermittlung an die ersuchte Behörde übergeben werden.
@@ -30,7 +30,7 @@ Auf Antrag des Beweisführers kann ferner das Gericht gestatten, dass von der Er
 `§ 283 (3) ZPO.`  
 Für die Vorlegung der Acten über die Beweisaufnahme ist in beiden Fällen eine Frist zu bestimmen, deren fruchtloser Ablauf die im §. 279 bezeichneten Rechtsfolgen nach sich zieht.
 
-### § 284 ZPO # 
+### § 284 ZPO
 
 `§ 284 (1) ZPO.`  
 Dem Richter, welcher eine Beweisaufnahme infolge eines Auftrages oder Ersuchens vollzieht, kommen die Befugnisse zu, welche von dem Vorsitzenden bei einer Beweisaufnahme ausgeübt werden, die vor dem erkennenden Gerichte vor sich geht.
@@ -38,7 +38,7 @@ Dem Richter, welcher eine Beweisaufnahme infolge eines Auftrages oder Ersuchens 
 `§ 284 (2) ZPO.`  
 Andere auf die Beweisaufnahme sich beziehende richterliche Verfügungen kann ein solcher Richter insoweit treffen, als sie nicht ausdrücklich dem Processgerichte zugewiesen sind.
 
-### § 285 ZPO # 
+### § 285 ZPO
 
 `§ 285 (1) ZPO.`  
 Ergibt sich bei der Beweisaufnahme vor einem beauftragten oder ersuchten Richter ein Streit, von dessen Erledigung die Fortsetzung der Beweisaufnahme abhängig, zu dessen Entscheidung der mit der Beweisaufnahme betraute Richter jedoch nicht berechtigt ist, so hat über seinen Bericht die Erledigung des Streites durch das Processgericht zu erfolgen. Die Tagsatzung zur Verhandlung über diesen Zwischenstreit ist vom Processgerichte von amtswegen anzuberaumen.
@@ -46,7 +46,7 @@ Ergibt sich bei der Beweisaufnahme vor einem beauftragten oder ersuchten Richter
 `§ 285 (2) ZPO.`  
 Wenn im Verlaufe der durch einen beauftragten oder ersuchten Richter stattfindenden Beweisaufnahme behufs Durchführung oder Vollendung der Beweisaufnahme an ein anderes Gericht ein Ersuchen gestellt werden muss, so ist dasselbe unmittelbar von dem mit der Beweisaufnahme betrauten Richter zu stellen. Derselbe ist auch befugt, ein anderes Gericht um die Aufnahme des Beweises zu ersuchen, falls sich Gründe ergeben, welche die Beweisaufnahme vor diesem Gerichte als sachgemäß erscheinen lassen.
 
-### § 286 ZPO # 
+### § 286 ZPO
 
 `§ 286 (1) ZPO.`  
 Der Vorsitzende hat die von dem beauftragten oder ersuchten Richter vorgelegten Protokolle und sonstigen Acten über die Beweisaufnahme zu prüfen und, falls er Mängel wahrnimmt, die erforderlichen Verbesserungen oder Vervollständigungen zu veranlassen. Die Beweisaufnahme-Acten sind sodann unter gleichzeitiger Verständigung der Parteien bis zur nächsten, zur mündlichen Verhandlung bestimmten Tagsatzung der Einsichtnahme der Parteien offen zu halten.
@@ -60,7 +60,7 @@ Wenn die Parteien bei der durch einen beauftragten oder ersuchten Richter oder e
 `§ 286 (3) ZPO.`  
 Ergibt sich erst bei der mündlichen Verhandlung die Nothwendigkeit einer Ergänzung oder Wiederholung der Beweisaufnahme, so hat das Gericht die der Sachlage entsprechenden Anordnungen zu treffen. Dasselbe kann auch anordnen, dass die Ergänzung oder Wiederholung der Beweisaufnahme in der mündlichen Verhandlung selbst stattfinde.
 
-### § 287 ZPO # 
+### § 287 ZPO
 
 `§ 287 (1) ZPO.`  
 Das Ergebnis einer nicht vor dem erkennenden Gerichte erfolgten Beweisaufnahme hat der Vorsitzende auf Grund der diese Beweisaufnahme betreffenden Protokolle und sonstigen Acten bei der mündlichen Verhandlung zu geeigneter Zeit darzulegen.
@@ -73,7 +73,7 @@ Den Parteien bleibt es unbenommen, schon vor dieser Darlegung des Vorsitzenden i
 
 ## Verfahren bei der Beweisaufnahme.
 
-### § 288 ZPO # 
+### § 288 ZPO
 
 `§ 288 (1) ZPO.`  
 Für die zum Zwecke einer Beweisaufnahme erforderlichen Ladungen und für alle anderen zur Beweisaufnahme erforderlichen Vorkehrungen hat, falls die Beweisaufnahme vor dem erkennenden Gerichte stattfindet, der Vorsitzende des Senates, außerdem aber der Richter, welchem die Beweisaufnahme obliegt, von amtswegen Sorge zu tragen. Letzterer hat auch die Tagsatzung für die Beweisaufnahme von amtswegen anzuberaumen.
@@ -81,7 +81,7 @@ Für die zum Zwecke einer Beweisaufnahme erforderlichen Ladungen und für alle a
 `§ 288 (2) ZPO.`  
 Die Parteien können die von ihnen benannten Zeugen oder die Personen, welche sie dem Gerichte bei der Verhandlung als Zeugen namhaft machen oder als Sachverständige in Vorschlag bringen wollen, auch ohne vorherige gerichtliche Vorladung zur Verhandlung vor dem erkennenden Gerichte mitbringen.
 
-### § 289 ZPO # 
+### § 289 ZPO
 
 `§ 289 (1) ZPO.`  
 Die Parteien können bei der Beweisaufnahme zugegen sein; sie können an die Zeugen und Sachverständigen diejenigen Fragen durch den Vorsitzenden oder den die Beweisaufnahme leitenden Richter stellen lassen oder mit deren Zustimmung selbst stellen, welche sie zur Aufklärung oder Vervollständigung der Aussage, sowie zur Aufklärung des Streitverhältnisses oder der für die Beweiskraft der Aussagen wesentlichen Verhältnisse für dienlich erachten. Fragen, welche dem Richter unangemessen erscheinen, hat er zurückzuweisen.
@@ -114,12 +114,12 @@ Der Vernehmung der minderjährigen Person ist, soweit es in ihrem Interesse zwec
 `§ 289b (4) ZPO.`  
 Gegen die Entscheidung nach Abs. 1 ist ein abgesondertes Rechtsmittel nicht zulässig. Gegen die Entscheidung nach Abs. 2 ist kein Rechtsmittel zulässig.
 
-### § 290 ZPO # 
+### § 290 ZPO
 
 `§ 290 ZPO.`  
 Aus dem Umstande, dass die von einer ausländischen Behörde vorgenommene Beweisaufnahme nach den ausländischen Gesetzen mangelhaft ist, kann gegen dieselbe dann kein Einwand erhoben werden, wenn die Beweisaufnahme den für das Processgericht geltenden Gesetzen entspricht.
 
-### § 291 ZPO # 
+### § 291 ZPO
 
 `§ 291 (1) ZPO.`  
 Gegen Beschlüsse, durch welche angebotene Beweise zurückgewiesen, Beweisaufnahmen angeordnet oder einem beauftragten Richter übertragen oder zum Zwecke der Beweisaufnahme Ersuchschreiben erlassen werden, ferner gegen Beschlüsse, durch welche Fragen der Parteien bei der Beweisaufnahme zurückgewiesen werden, endlich gegen Beschlüsse, durch welche die Benützung eines Beweises nach §. 279, Absatz 2, bewilligt oder ausgeschlossen oder eine nach §. 286, Absatz 2, in Antrag gebrachte Ergänzung der Beweisaufnahme verweigert wird, ist ein abgesondertes Rechtsmittel nicht zulässig.
@@ -156,7 +156,7 @@ Die Bestimmungen des § 291a Abs. 1 Z 2 und 3 sowie des § 291b sind auf ein
 
 ## Dritter Titel. # Beweis durch Urkunden. # Beweiskraft der Urkunden.
 
-### § 292 ZPO # 
+### § 292 ZPO
 
 `§ 292 (1) ZPO.`  
 Urkunden, welche im Geltungsgebiete dieses Gesetzes von einer öffentlichen Behörde innerhalb der Grenzen ihrer Amtsbefugnisse oder von einer mit öffentlichem Glauben versehenen Person innerhalb des ihr zugewiesenen Geschäftskreises in der vorgeschriebenen Form auf Papier oder elektronisch errichtet sind (öffentliche Urkunden), begründen vollen Beweis dessen, was darin von der Behörde amtlich verfügt oder erklärt, oder von der Behörde oder der Urkundsperson bezeugt wird. Das Gleiche gilt von den Urkunden, welche zwar außerhalb des Geltungsgebietes dieses Gesetzes, jedoch innerhalb der Grenzen ihrer Amtsbefugnisse von solchen öffentlichen Organen errichtet wurden, die einer Behörde unterstehen, welche im Geltungsgebiete dieses Gesetzes ihren Sitz hat.
@@ -164,7 +164,7 @@ Urkunden, welche im Geltungsgebiete dieses Gesetzes von einer öffentlichen Beh�
 `§ 292 (2) ZPO.`  
 Der Beweis der Unrichtigkeit des bezeugten Vorganges oder der bezeugten Thatsache oder der unrichtigen Beurkundung ist zulässig.
 
-### § 293 ZPO # 
+### § 293 ZPO
 
 `§ 293 (1) ZPO.`  
 Gleiche Beweiskraft haben auch andere Urkunden, welche durch besondere gesetzliche Vorschriften als öffentliche Urkunden erklärt sind.
@@ -172,12 +172,12 @@ Gleiche Beweiskraft haben auch andere Urkunden, welche durch besondere gesetzlic
 `§ 293 (2) ZPO.`  
 Die außerhalb des Geltungsgebietes dieses Gesetzes errichteten Urkunden, welche am Orte ihrer Errichtung als öffentliche Urkunden gelten, genießen unter der Voraussetzung der Gegenseitigkeit auch im Geltungsgebiete dieses Gesetzes die Beweiskraft öffentlicher Urkunden, wenn sie mit den vorgeschriebenen Beglaubigungen versehen sind.
 
-### § 294 ZPO # 
+### § 294 ZPO
 
 `§ 294 ZPO.`  
 Auf Papier oder elektronisch errichtete Privaturkunden begründen, sofern sie von den Ausstellern unterschrieben oder mit ihrem gerichtlich oder notariell beglaubigten Handzeichen versehen sind, vollen Beweis dafür, dass die in denselben enthaltenen Erklärungen von den Ausstellern herrühren.
 
-### § 296 ZPO # 
+### § 296 ZPO
 
 `§ 296 ZPO.`  
 Ob und in melchem Maße Durchstreichungen, Radirungen und andere Auslöschungen, Einschaltungen oder sonstige äußere Mängel einer Urkunde deren Beweiskraft mindern oder dieselbe ganz aufheben, hat das Gericht nach §. 272 zu beurtheilen.
@@ -194,7 +194,7 @@ Die Urkunden sind dem Gericht in Abschrift vorzulegen, sofern nicht ausdrücklic
 
 ## Vorlegung der Urkunde durch den Beweisführer.
 
-### § 298 ZPO # 
+### § 298 ZPO
 
 `§ 298 (1) ZPO.`  
 Urkunden sind in der Weise vorzulegen, dass das Gericht und die Gegenpartei von dem ganzen Inhalte der Urkunden Einsicht nehmen können.
@@ -205,12 +205,12 @@ Kommen nur einzelne Theile einer sich auf verschiedene Rechtsverhältnisse bezie
 `§ 298 (3) ZPO.`  
 Der Gegner des Beweisführers ist zur Erklärung über die vorgelegte Urkunde aufzufordern.
 
-### § 299 ZPO # 
+### § 299 ZPO
 
 `§ 299 ZPO.`  
 Hat die Partei eine Abschrift der Urkunde vorgelegt, so kann ihr auf Antrag der Gegenpartei oder von amtswegen die Vorlage der Urschrift aufgetragen werden. Ob und inwieweit ungeachtet der Nichtbefolgung dieses Auftrages der vorgelegten Abschrift infolge ihrer Beglaubigung, ihres Alters, ihres Ursprunges oder aus anderen Gründen Glauben beizumessen ist, hat das Gericht nach seinem Ermessen zu entscheiden. Hiebei sind die für die Unterlassung der Vorlage der Urschrift geltend gemachten Gründe und die sonstigen Umstände des einzelnen Falles sorgfältig zu würdigen.
 
-### § 300 ZPO # 
+### § 300 ZPO
 
 `§ 300 (1) ZPO.`  
 Wenn die Vorlegung der Urschrift einer Urkunde in der mündlichen Verhandlung wegen erheblicher Hindernisse nicht erfolgen kann, oder wegen der Wichtigkeit der Urkunde und der Besorgnis ihres Verlustes oder ihrer Beschädigung bedenklich erscheint, so kann das Gericht auf Antrag oder von amtswegen anordnen, dass die Urkunde einem beauftragten oder ersuchten Richter vorgelegt werde.
@@ -221,7 +221,7 @@ Das Gericht hat in diesem Falle zu bestimmen, welche Umstände durch das über d
 `§ 300 (3) ZPO.`  
 Von der seitens des beauftragten oder ersuchten Richters zur Vorlage der Urkunde anberaumten Tagsatzung ist der Gegner des Beweisführers rechtzeitig zu verständigen. Wird die Urkunde bei dieser Tagsatzung nicht vorgelegt, so kann der Fortgang des Processes durch die Rücksicht auf dieses Beweismittel nicht weiter aufgehalten werden.
 
-### § 301 ZPO # 
+### § 301 ZPO
 
 `§ 301 (1) ZPO.`  
 Der Antrag, die Vorlage einer als Beweismittel zu benützenden Urkunde zu veranlassen, welche sich bei einer öffentlichen Behörde oder in Verwahrung eines Notars befindet und deren Ausfolgung oder Vorlage die Partei im Wege unmittelbaren Einschreitens nicht zu erlangen vermag, kann auch während der mündlichen Verhandlung gestellt werden.
@@ -229,14 +229,14 @@ Der Antrag, die Vorlage einer als Beweismittel zu benützenden Urkunde zu veranl
 `§ 301 (2) ZPO.`  
 Wird diesem Antrag stattgegeben, so hat der Vorsitzende die zur Herbeischaffung der Urkunde oder Einsichtnahme in die Urkunde geeigneten Verfügungen zu treffen.
 
-### § 302 ZPO # 
+### § 302 ZPO
 
 `§ 302 ZPO.`  
 Nach erfolgter Vorlegung einer Urkunde kann der Beweisführer auf dieses Beweismittel nur mit Zustimmung des Gegners verzichten.
 
 ## Vorlegung der Urkunde durch den Gegner.
 
-### § 303 ZPO # 
+### § 303 ZPO
 
 `§ 303 (1) ZPO.`  
 Wenn eine Partei behauptet, dass sich eine für ihre Beweisführung erhebliche Urkunde in den Händen des Gegners befindet, so kann auf ihren Antrag das Gericht dem Gegner die Vorlage der Urkunde durch Beschluss auftragen.
@@ -247,7 +247,7 @@ Die antragstellende Partei hat eine Abschrift der vom Gegner vorzulegenden Urkun
 `§ 303 (3) ZPO.`  
 Der Entscheidung über den Antrag hat, wenn derselbe außerhalb der mündlichen Verhandlung gestellt wird, eine mündliche oder schriftliche Einvernehmung des Gegners vorauszugehen.
 
-### § 304 ZPO # 
+### § 304 ZPO
 
 `§ 304 (1) ZPO.`  
 Die Vorlage der Urkunde kann nicht verweigert werden:  
@@ -261,7 +261,7 @@ wenn die Urkunde ihrem Inhalte nach eine beiden Parteien gemeinschaftliche ist.
 `§ 304 (2) ZPO.`  
 Als gemeinschaftlich gilt eine Urkunde insbesondere für die Personen, in deren Interesse sie errichtet ist oder deren gegenseitige Rechtsverhältnisse darin bekundet sind. Als gemeinschaftlich gelten auch die über ein Rechtsgeschäft zwischen den Betheiligten oder zwischen einem derselben und dem gemeinsamen Vermittler des Geschäftes gepflogenen schriftlichen Verhandlungen.
 
-### § 305 ZPO # 
+### § 305 ZPO
 
 `§ 305 ZPO.`  
 Die Vorlage anderer Urkunden kann verweigert werden:  
@@ -276,12 +276,12 @@ wenn die Partei durch die Vorlage der Urkunde eine staatlich anerkannte Pflicht 
 `§ 305 Z 5 ZPO.`
 wenn andere gleich wichtige Gründe vorhanden sind, welche die Verweigerung der Vorlage rechtfertigen.
 
-### § 306 ZPO # 
+### § 306 ZPO
 
 `§ 306 ZPO.`  
 Wenn einer der im §. 305 angeführten Gründe nur einzelne Theile des Inhaltes einer Urkunde betrifft, so ist ein Auszug der Urkunde vorzulegen. § 299 ist mit der Maßgabe anzuwenden, dass anstelle der Urschrift ein beglaubigter Auszug der Urkunde vorzulegen ist.
 
-### § 307 ZPO # 
+### § 307 ZPO
 
 `§ 307 (1) ZPO.`  
 Leugnet der Gegner den Besitz der Urkunde und erachtet das Gericht die durch die Urkunde zu beweisenden Thatsachen erheblich und zugleich die Verpflichtung zur Vorlage der Urkunde als bestehend, so kann die Vernehmung und eidliche Anhörung des Gegners durch gerichtlichen Beschluss zu dem Zwecke angeordnet werden, um zu ermitteln, ob der Gegner die Urkunde besitze oder doch wisse, wo dieselbe zu finden sei, oder ob die Urkunde nicht etwa von ihm oder auf seine Veranlassung, um sie dem Beweisführer zu entziehen, beseitigt oder zur Benützung untauglich gemacht worden sei.
@@ -291,7 +291,7 @@ Welchen Einfluss es auf die Beurtheilung des Falles hat, wenn der Gegner dem Auf
 
 ## Vorlegung der Urkunde durch einen Dritten.
 
-### § 308 ZPO # 
+### § 308 ZPO
 
 `§ 308 (1) ZPO.`  
 Wenn sich eine zur Beweisführung benöthigte Urkunde in der Hand eines Dritten befindet, welcher nach den Vorschriften des bürgerlichen Rechtes oder deshalb zur Herausgabe und Vorlage der Urkunde verpflichtet ist, weil dieselbe ihrem Inhalte nach eine für den Beweisführer und den Dritten gemeinschaftliche ist (§. 304), so kann letzterem auf Antrag des Beweisführers vom Processgerichte durch Beschluss aufgetragen werden, die Urkunde innerhalb einer ihm zugleich zu bestimmenden Frist auf Kosten des Beweisführers bei dem Processgerichte behufs Benützung bei der mündlichen Verhandlung zu hinterlegen.
@@ -302,7 +302,7 @@ Wenn sich eine zur Beweisführung benöthigte Urkunde in der Hand eines Dritten 
 `§ 308 (3) ZPO.`  
 Bei Zurückweisung des Antrages sind dem angeblichen Besitzer der Urkunde auf sein Verlangen die ihm durch das Verfahren verursachten nothwendigen Kosten zu ersetzen.
 
-### § 309 ZPO # 
+### § 309 ZPO
 
 `§ 309 (1) ZPO.`  
 Muss der angebliche Besitzer der Urkunde im Wege der Klage zur Herausgabe und Vorlage der Urkunde verhalten werden, weil nicht glaubhaft gemacht werden kann, dass sich die Urkunde in seiner Hand befindet oder weil die Entscheidung über das Vorhandensein der Pflicht zur Herausgabe und Vorlage der Urkunde die vorgängige Ermittlung und Feststellung streitiger Thatumstände verlangt, so kann das Processgericht, wenn es die durch die Urkunde zu beweisenden Thatsachen für erheblich hält, auf Antrag anordnen, dass mit der Fortsetzung der mündlichen Verhandlung bis nach Ablauf der gleichzeitig dem Beweisführer zur Vorlegung der Urkunde zu bestimmenden Frist gewartet werde (§. 279).
@@ -315,7 +315,7 @@ Die Vorlegung der Urkunde geschieht auf Kosten des Beweisführers.
 
 ## Echtheitsbeweis.
 
-### § 310 ZPO # 
+### § 310 ZPO
 
 `§ 310 (1) ZPO.`  
 Urkunden, welche sich nach Form und Inhalt als öffentliche Urkunden darstellen, haben die Vermuthung der Echtheit für sich.
@@ -323,7 +323,7 @@ Urkunden, welche sich nach Form und Inhalt als öffentliche Urkunden darstellen,
 `§ 310 (2) ZPO.`  
 Hält das Gericht die Echtheit für zweifelhaft, so kann es auf Antrag oder von amtswegen die Behörde oder die Person, von welcher die Urkunde errichtet sein soll, zu einer Erklärung über die Echtheit veranlassen. Lässt sich der Zweifel an der Echtheit der Urkunde nicht auf diese Art beseitigen, so obliegt der Beweis ihrer Echtheit demjenigen, der diese Urkunde als Beweismittel gebrauchen will.
 
-### § 311 ZPO # 
+### § 311 ZPO
 
 `§ 311 (1) ZPO.`  
 Ob eine Urkunde, welche sich als von einer ausländischen Behörde oder von einer mit öffentlichem Glauben versehenen Person des Auslandes errichtet darstellt, ohne näheren Nachweis als echt anzusehen sei, hat das Gericht nach den Umständen des Falles zu ermessen.
@@ -331,7 +331,7 @@ Ob eine Urkunde, welche sich als von einer ausländischen Behörde oder von eine
 `§ 311 (2) ZPO.`  
 Zum Beweis der Echtheit einer solchen Urkunde genügt, sofern nicht durch besondere Bestimmungen etwas anderes festgesetzt ist, die Beglaubigung durch die örtlich zuständige österreichische Vertretungsbehörde.
 
-### § 312 ZPO # 
+### § 312 ZPO
 
 `§ 312 (1) ZPO.`  
 Die Echtheit einer Privaturkunde gilt als unbestritten, wenn der Gegner des Beweisführers es unterlassen hat, sich über die Echtheit der Urkunde zu erklären, soferne nicht die Absicht, die Echtheit zu bestreiten, aus den übrigen Erklärungen des Gegners hervorgeht. Befindet sich auf der Urkunde eine Namensunterschrift, so hat sich der Gegner des Beweisführers unter der gleichen Rechtsfolge auch über die Echtheit der Unterschrift zu erklären.
@@ -339,14 +339,14 @@ Die Echtheit einer Privaturkunde gilt als unbestritten, wenn der Gegner des Bewe
 `§ 312 (2) ZPO.`  
 Die bestrittene Echtheit einer Privaturkunde oder einer auf derselben befindlichen Namensunterschrift ist von demjenigen zu beweisen, der die Urkunde als Beweismittel gebrauchen will.
 
-### § 313 ZPO # 
+### § 313 ZPO
 
 `§ 313 ZPO.`  
 Eine Partei, welche die Echtheit einer Urkunde in muthwilliger Weise bestritten hat, ist in eine Muthwillensstrafe zu verfällen.
 
 ## Schriftvergleichung.
 
-### § 314 ZPO # 
+### § 314 ZPO
 
 `§ 314 (1) ZPO.`  
 Der Beweis der Echtheit oder Unechtheit einer Urkunde kann auch durch Schriftvergleichung geführt werden.
@@ -363,7 +363,7 @@ Mangelt es an zureichenden Vergleichungsschriften, so kann derjenigen Partei, ü
 `§ 314 (5) ZPO.`  
 Das Niedergeschriebene ist dem Verhandlungsprotokoll beizulegen. Welchen Einfluss es auf die Herstellung des Beweises hat, wenn die Partei einem solchen richterlichen Auftrage keine Folge leistet oder mit offenbar entstellter Schrift schreibt, bleibt der richterlichen Beurtheilung überlassen.
 
-### § 315 ZPO # 
+### § 315 ZPO
 
 `§ 315 (1) ZPO.`  
 Die Vergleichung der Handschriften kann das Gericht selbst vornehmen oder, wenn sich ihm Zweifel ergeben, das Gutachten von Sachverständigen einholen.

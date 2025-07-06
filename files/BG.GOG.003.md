@@ -242,7 +242,7 @@ Die Entsendung einer Sprengelrichterin oder eines Sprengelrichters oder einer Ve
 `§ 36 GOG.`  
 Bei jedem Gerichtshof ist im Rahmen der Geschäftsverteilung ein Begutachtungssenat zu bilden, der sich aus dem Präsidenten und sechs weiteren Richtern zusammensetzt, die tunlichst in den verschiedenen Geschäftssparten des Gerichtshofes tätig sein sollen. Aufgabe dieses Senates ist es, auf Ersuchen des Bundesministers für Justiz oder des Präsidenten des Oberlandesgerichtes zu Gesetzes- oder Verordnungsentwürfen Gutachten abzugeben.
 
-### § 37 GOG # 
+### § 37 GOG
 
 `§ 37 (1) GOG.`  
 Außer den Fällen, welche die Strafprocessordnung und die für die Ausübung der Gerichtsbarkeit in bürgerlichen Rechtsfragen geltenden Gesetze bezeichnen, bedarf bei Gerichtshöfen erster Instanz keiner Beschlussfassung des Senates:  
@@ -302,7 +302,7 @@ Der in Rufbereitschaft stehende Richter ist unter den Voraussetzungen des Abs. 
 `§ 39 (1) GOG.`  
 Der Bundesminister für Justiz kann nach Maßgabe des durchschnittlichen Anfalls dringlicher Amtshandlungen in Strafsachen anordnen, daß bei einzelnen Gerichtshöfen erster Instanz während bestimmter Zeiträume anstelle der Rufbereitschaft Journaldienst zu leisten ist. Während des Journaldienstes hat der für den betreffenden Tag zur Rufbereitschaft eingeteilte Richter in den dafür bestimmten Amtsräumen des Gerichtshofes erster Instanz anwesend zu sein, sofern er nicht auf Grund einer Inanspruchnahme im Rahmen der Rufbereitschaft oder des Journaldienstes auswärtige Amtshandlungen durchzuführen hat.
 
-### § 40 GOG # 
+### § 40 GOG
 
 `§ 40 GOG.`  
 Die gerichtliche Beglaubigung ämtlicher Unterschriften zum Zwecke der Legalisirung im diplomatischen Wege erfolgt durch den Präsidenten des Gerichtshofes erster Instanz.

@@ -14,7 +14,7 @@
 
 ## Zweiter Unterabschnitt # Gerichtspersonen # Ernennung der richterlichen und staatsanwaltschaftlichen Beamten.
 
-### § 18 GOG # 
+### § 18 GOG
 
 `§ 18 GOG.`  
 Die Bestimmungen über die Ernennung der richterlichen und staatsanwaltschaftlichen Beamten werden durch das gegenwärtige Gesetz nicht berührt.
@@ -29,7 +29,7 @@ Bei den Gerichten, für welche solche Vollstreckungsbeamte nicht bestellt sind, 
 
 ## Anzeige von Ausschließungs- und Befangenheitsgründen
 
-### § 22 GOG # 
+### § 22 GOG
 
 `§ 22 (1) GOG.`  
 Ein Richter oder richterlicher Hilfsbeamter, dem ein Verhältnis bekannt wird, das ihn im gegebenen Falle nach dem Gesetze von der Ausübung richterlicher Geschäfte ausschließt, hat dieses dem Vorsteher des Gerichtes (vorgesetzten Beamten der Staatsanwaltschaft) unverzüglich anzuzeigen. Erscheint der Vorsteher eines Gerichtes ausgeschlossen, so hat er davon seinem Stellvertreter, falls es aber an einem Stellvertreter fehlt oder durch das Ausscheiden des Vorstehers das Gericht beschlußunfähig würde, dem Vorsteher des übergeordneten Gerichtes Mittheilung zu machen.

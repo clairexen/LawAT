@@ -104,7 +104,7 @@ Die in diesem Gesetz verwendeten personenbezogenen Ausdrücke umfassen Frauen un
 `§ 96 GOG.`  
 Soweit in diesem Gesetz auf Bundesgesetze verwiesen wird, sind diese in der jeweils geltenden Fassung anzuwenden.
 
-### § 97 GOG # 
+### § 97 GOG
 
 `§ 97 GOG.`  
 Auf die Geschäfte der Strafrechtspflege sind die Bestimmungen des gegenwärtigen Gesetzes sofern anzuwenden, als sie sich ihrer Beschaffenheit nach dazu eignen und durch Vorschriften über das strafgerichtliche Verfahren keine besonderen Anordnungen darüber getroffen werden.
@@ -120,7 +120,7 @@ Die Bundesministerin für Justiz hat vor dieser Versetzung ein Gutachten des Per
 `§ 97a (3) GOG.`  
 Maßnahmen nach Abs. 1 und 2 sind innerhalb von sechs Monaten ab dem Inkrafttreten dieser Bestimmung zulässig.
 
-### § 98 GOG # 
+### § 98 GOG
 
 `§ 98 (1) GOG.`  
 Die Bestimmungen des gegenwärtigen Gesetzes treten, soweit in demselben nichts anderes angeordnet ist, mit dem Beginne der Wirksamkeit der Civilprocessordnung in Kraft.
@@ -246,7 +246,7 @@ Die §§ 17, 19, 31a, 49, 81a, 89, 89c und 89i in der Fassung des Bundesgesetze
 `§ 98 (34) GOG.`  
 § 26 Abs. 6, § 32 Abs. 5 und § 48a in der Fassung des Bundesgesetzes BGBl. I Nr. 157/2024 treten mit 1. Jänner 2025 in Kraft. § 48a in der Fassung dieses Bundesgesetzes ist auf Entscheidungen anzuwenden, die nach dem 31. Dezember 2024 gefasst werden. Im Falle des § 48a Abs. 5 sind jene Entscheidungen maßgeblich, in denen auf andere nicht veröffentlichte rechtskräftige Entscheidungen Bezug genommen wird.
 
-### § 99 GOG # 
+### § 99 GOG
 
 `§ 99 (1) GOG.`  
 Mit dem Vollzuge dieses Gesetzes ist Mein Justizminister beauftragt. Derselbe hat alle zu dessen Durchführung erforderlichen Verordnungen und Anordnungen zu erlassen.

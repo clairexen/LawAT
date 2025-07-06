@@ -38,11 +38,11 @@
 **Zweiter Unterabschnitt**  
 **Gerichtspersonen**  
 **Ernennung der richterlichen und staatsanwaltschaftlichen Beamten.**  
-* [§ 18 GOG — ](#-18-gog--)  
+* [§ 18 GOG](#-18-gog)  
 * [§ 19 GOG — Vollstreckungsorgane](#-19-gog--vollstreckungsorgane)
 
 **Anzeige von Ausschließungs- und Befangenheitsgründen**  
-* [§ 22 GOG — ](#-22-gog--)  
+* [§ 22 GOG](#-22-gog)  
 * [§ 23 GOG — Systemisierungsübersichten](#-23-gog--systemisierungsübersichten)
 
 **Zweiter Abschnitt.**  
@@ -64,10 +64,10 @@
 * [§ 34 GOG](#-34-gog)  
 * [§ 35 GOG](#-35-gog)  
 * [§ 36 GOG](#-36-gog)  
-* [§ 37 GOG — ](#-37-gog--)  
+* [§ 37 GOG](#-37-gog)  
 * [§ 38 GOG](#-38-gog)  
 * [§ 39 GOG](#-39-gog)  
-* [§ 40 GOG — ](#-40-gog--)  
+* [§ 40 GOG](#-40-gog)  
 * [§ 41 GOG — Oberlandesgerichte](#-41-gog--oberlandesgerichte)  
 * [§ 42 GOG](#-42-gog)  
 * [§ 43 GOG](#-43-gog)  
@@ -80,40 +80,40 @@
 * [§ 47b GOG — Justiz-Servicecenter](#-47b-gog--justiz-servicecenter)
 
 **Organisirungsgesetze.**  
-* [§ 48 GOG — ](#-48-gog--)  
+* [§ 48 GOG](#-48-gog)  
 * [§ 48a GOG](#-48a-gog)  
 * [§ 48b GOG](#-48b-gog)
 
 **Gerichtskanzlei.**  
 * [§ 49 GOG](#-49-gog)  
-* [§ 50 GOG — ](#-50-gog--)  
-* [§ 51 GOG — ](#-51-gog--)  
-* [§ 52 GOG — ](#-52-gog--)  
-* [§ 53 GOG — ](#-53-gog--)  
-* [§ 54 GOG — ](#-54-gog--)  
+* [§ 50 GOG](#-50-gog)  
+* [§ 51 GOG](#-51-gog)  
+* [§ 52 GOG](#-52-gog)  
+* [§ 53 GOG](#-53-gog)  
+* [§ 54 GOG](#-54-gog)  
 * [§ 55 GOG](#-55-gog)  
-* [§ 56 GOG — ](#-56-gog--)  
-* [§ 57 GOG — ](#-57-gog--)  
-* [§ 58 GOG — ](#-58-gog--)  
-* [§ 59 GOG — ](#-59-gog--)  
-* [§ 60 GOG — ](#-60-gog--)  
-* [§ 61 GOG — ](#-61-gog--)
+* [§ 56 GOG](#-56-gog)  
+* [§ 57 GOG](#-57-gog)  
+* [§ 58 GOG](#-58-gog)  
+* [§ 59 GOG](#-59-gog)  
+* [§ 60 GOG](#-60-gog)  
+* [§ 61 GOG](#-61-gog)
 
 **§. 62**  
 * [§ 62 GOG — Gerichtsdiener](#-62-gog--gerichtsdiener)
 
 **Dritter Abschnitt.**  
 **Disciplinargewalt über die nicht richterlichen Beamten und Diener.**  
-* [§ 63 GOG — ](#-63-gog--)
+* [§ 63 GOG](#-63-gog)
 
 **Vierter Abschnitt.**  
 * [§ 73 GOG — Justizverwaltung, Dienstaufsicht und innere Revision](#-73-gog--justizverwaltung-dienstaufsicht-und-innere-revision)  
 * [§ 73a GOG — Vereinigung der österreichischen Richterinnen und Richter](#-73a-gog--vereinigung-der-österreichischen-richterinnen-und-richter)  
-* [§ 74 GOG — ](#-74-gog--)  
-* [§ 75 GOG — ](#-75-gog--)  
-* [§ 76 GOG — ](#-76-gog--)  
-* [§ 77 GOG — ](#-77-gog--)  
-* [§ 78 GOG — ](#-78-gog--)  
+* [§ 74 GOG](#-74-gog)  
+* [§ 75 GOG](#-75-gog)  
+* [§ 76 GOG](#-76-gog)  
+* [§ 77 GOG](#-77-gog)  
+* [§ 78 GOG](#-78-gog)  
 * [§ 78a GOG](#-78a-gog)  
 * [§ 78b GOG](#-78b-gog)  
 * [§ 78c GOG — Dienstweg in Angelegenheiten der Justizverwaltung](#-78c-gog--dienstweg-in-angelegenheiten-der-justizverwaltung)  
@@ -122,12 +122,12 @@
 **Fünfter Abschnitt.**  
 **Behandlung der Geschäfte bei den Gerichten.**  
 **Ausfertigung von Erledigungen**  
-* [§ 79 GOG — ](#-79-gog--)  
+* [§ 79 GOG](#-79-gog)  
 * [§ 79a GOG](#-79a-gog)  
 * [§ 80 GOG — Register und sonstige Geschäftsbehelfe](#-80-gog--register-und-sonstige-geschäftsbehelfe)
 
 **Gerichtsacten.**  
-* [§ 81 GOG — ](#-81-gog--)  
+* [§ 81 GOG](#-81-gog)  
 * [§ 81a GOG — Akten in zivilgerichtlichen Verfahren](#-81a-gog--akten-in-zivilgerichtlichen-verfahren)  
 * [§ 82 GOG — Berichte](#-82-gog--berichte)  
 * [§ 83 GOG — Datenschutz in Angelegenheiten der Gerichtsbarkeit in bürgerlichen Rechtssachen und der weisungsfreien Justizverwaltung](#-83-gog--datenschutz-in-angelegenheiten-der-gerichtsbarkeit-in-bürgerlichen-rechtssachen-und-der-weisungsfreien-justizverwaltung)  
@@ -138,13 +138,13 @@
 * [§ 86 GOG — Auswahl von Sachverständigen, Dolmetscherinnen und Dolmetschern](#-86-gog--auswahl-von-sachverständigen-dolmetscherinnen-und-dolmetschern)
 
 **Ladungen außerhalb des Processes.**  
-* [§ 87 GOG — ](#-87-gog--)
+* [§ 87 GOG](#-87-gog)
 
 **Zustellung.**  
-* [§ 88 GOG — ](#-88-gog--)
+* [§ 88 GOG](#-88-gog)
 
 **Postsendungen, Ablichtungen und telegrafische Eingaben**  
-* [§ 89 GOG — ](#-89-gog--)  
+* [§ 89 GOG](#-89-gog)  
 * [§ 89a GOG — Elektronische Eingaben und Erledigungen (elektronischer Rechtsverkehr)](#-89a-gog--elektronische-eingaben-und-erledigungen-elektronischer-rechtsverkehr)  
 * [§ 89b GOG](#-89b-gog)  
 * [§ 89c GOG](#-89c-gog)  
@@ -164,7 +164,7 @@
 * [§ 89q GOG](#-89q-gog)
 
 **Vertreter für Verfahrenshilfe genießende Parteien**  
-* [§ 90 GOG — ](#-90-gog--)  
+* [§ 90 GOG](#-90-gog)  
 * [§ 90a GOG — Einholung einer Vorabentscheidung des Gerichtshofs der Europäischen Gemeinschaften](#-90a-gog--einholung-einer-vorabentscheidung-des-gerichtshofs-der-europäischen-gemeinschaften)  
 * [§ 91 GOG — Fristsetzungsantrag](#-91-gog--fristsetzungsantrag)
 
@@ -179,10 +179,10 @@
 * [§ 94 GOG](#-94-gog)  
 * [§ 95 GOG](#-95-gog)  
 * [§ 96 GOG](#-96-gog)  
-* [§ 97 GOG — ](#-97-gog--)  
+* [§ 97 GOG](#-97-gog)  
 * [§ 97a GOG](#-97a-gog)  
-* [§ 98 GOG — ](#-98-gog--)  
-* [§ 99 GOG — ](#-99-gog--)
+* [§ 98 GOG](#-98-gog)  
+* [§ 99 GOG](#-99-gog)
 
 ----
 
@@ -556,11 +556,11 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 ## Ernennung der richterlichen und staatsanwaltschaftlichen Beamten.
 
-### § 18 GOG — 
+### § 18 GOG
 
 > Die Bestimmungen über die Ernennung der richterlichen und staatsanwaltschaftlichen Beamten werden durch das gegenwärtige Gesetz nicht berührt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-18-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=18) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.002.md#-18-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-18-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=18) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.002.md#-18-gog) \]
 
 ----
 
@@ -576,7 +576,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 ## Anzeige von Ausschließungs- und Befangenheitsgründen
 
-### § 22 GOG — 
+### § 22 GOG
 
 > `(1)` Ein Richter oder richterlicher Hilfsbeamter, dem ein Verhältnis bekannt wird, das ihn im gegebenen Falle nach dem Gesetze von der Ausübung richterlicher Geschäfte ausschließt, hat dieses dem Vorsteher des Gerichtes \(vorgesetzten Beamten der Staatsanwaltschaft\) unverzüglich anzuzeigen\. Erscheint der Vorsteher eines Gerichtes ausgeschlossen, so hat er davon seinem Stellvertreter, falls es aber an einem Stellvertreter fehlt oder durch das Ausscheiden des Vorstehers das Gericht beschlußunfähig würde, dem Vorsteher des übergeordneten Gerichtes Mittheilung zu machen\.
 
@@ -584,7 +584,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Infolge einer solchen Mittheilung ist eine gerichtliche Entscheidung über das Vorhandensein des Ausschließungs\- oder Befangenheitsgrundes \(§§ 44 und 45 StPO; §§\. 23 bis 25 der Jurisdictionsnorm\) zu erwirken\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-22-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=22) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.002.md#-22-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-22-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=22) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.002.md#-22-gog) \]
 
 ----
 
@@ -843,7 +843,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 ----
 
-### § 37 GOG — 
+### § 37 GOG
 
 > `(1)` Außer den Fällen, welche die Strafprocessordnung und die für die Ausübung der Gerichtsbarkeit in bürgerlichen Rechtsfragen geltenden Gesetze bezeichnen, bedarf bei Gerichtshöfen erster Instanz keiner Beschlussfassung des Senates:
 >
@@ -885,7 +885,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die unter Z 1 bis 11 sowie 13 und 14 aufgezählten Geschäfte werden vom Vorsitzenden oder dem beauftragten Mitglied des Senats als Einzelrichter erledigt, die unter Z 11 genannten Geschäfte jedoch nur dann, wenn nicht auf seinen Antrag der Senat ihre Erledigung übernimmt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-37-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=37) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.003.md#-37-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-37-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=37) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.003.md#-37-gog) \]
 
 ----
 
@@ -909,11 +909,11 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 ----
 
-### § 40 GOG — 
+### § 40 GOG
 
 > Die gerichtliche Beglaubigung ämtlicher Unterschriften zum Zwecke der Legalisirung im diplomatischen Wege erfolgt durch den Präsidenten des Gerichtshofes erster Instanz\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-40-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=40) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_46_TextContainer_46) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.003.md#-40-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-40-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=40) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_46_TextContainer_46) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.003.md#-40-gog) \]
 
 ----
 
@@ -1023,11 +1023,11 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 ## Organisirungsgesetze.
 
-### § 48 GOG — 
+### § 48 GOG
 
 > Soweit im gegenwärtigen Gesetze oder in der Jurisdictionsnorm, der Civilprocessordnung, der Executionsordnung und in den dazu erlassenen Einführungsgesetzen nicht etwas anderen angeordnet ist, bleiben die Vorschriften der mit Ministerialverordnung vom 19\. Jänner 1853, R\. G\. Bl\. Nr\. 10, kundgemachten Allerhöchsten Entschließung vom 14\. September 1852, über die Einrichtung der Gerichtsbehörden, die Vorschriften des Gesetzes vom 26\. April 1873, R\. G\. Bl\. Nr\. 62, betreffend den Vorgang bei Änderungen in den Sprengeln der Gerichtshöfe erster Instanz, und die Bestimmungen des §\. 2 des Gesetzes vom 11\. Juni 1868, R\. G\. Bl\. Nr\. 59, betreffend die Organisirung der Bezirksgerichte, in Wirksamkeit\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-48-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=48) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-48-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-48-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=48) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-48-gog) \]
 
 ----
 
@@ -1073,7 +1073,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 ----
 
-### § 50 GOG — 
+### § 50 GOG
 
 > `(1)` Zum Beamten der Gerichtskanzlei darf nur ernannt werden, wer den Besitz der für sämmtliche Zweige des Kanzleidienstes erforderlichen Kenntnisse und praktischen Gewandtheit durch eine mit gutem Erfolg abgelegte Prüfung nachgewiesen hat\. Der Prüfung muss ein Vorbereitungsdienst vorangehen\. Die Prüfung ist bei dem Oberlandesgerichte abzulegen\. Den Vorsitz in der Prüfungscommission hat ein Rath des Oberlandesgerichtes zu führen; als Commissionsmitglieder sind Räthe des Gerichtshofes erster Instanz am Sitze des Oberlandesgerichtes und Vorsteher oder leitende Beamte der Gerichtskanzlei beizuziehen\. Ist der Vorbereitungsdienst in einem Lande vollstreckt worden, in dem kein Oberlandesgericht besteht, so kann die Prüfung auch bei dem Landesgerichte dieses Landes abgelegt werden\. Die Prüfungskommission ist in diesem Falle aus Richtern und Kanzleibeamten des Gerichtshofes zu bilden\.
 
@@ -1083,11 +1083,11 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Die Erfordernisse für die Ernennung zu Beamten der gerichtlichen Rechnungsdepartments und Depositenämter sind bis zu Erlassung neuer Anordnungen nach den bei Beginn der Wirksamkeit dieses Gesetzes darüber bestehenden Vorschriften zu beurtheilen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-50-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=50) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-50-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-50-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=50) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-50-gog) \]
 
 ----
 
-### § 51 GOG — 
+### § 51 GOG
 
 > `(1)` Zur Besorgung der Kanzleigeschäfte und zur Unterstützung der Beamten der Gerichtskanzlei bei Besorgung ihrer Amtsgeschäfte können Kanzleigehilfen aufgenommen werden\. Die Aufnahme kann gegen festen Gehalt oder gegen Taggeld auf Kündigung erfolgen\.
 
@@ -1097,11 +1097,11 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Die Kanzleigehilfen haben die genaue Erfüllung der ihnen ertheilten Dienstaufträge und die Verschwiegenheit in Sachen des gerichtlichen Dienstes eidlich zu geloben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-51-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=51) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-51-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-51-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=51) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-51-gog) \]
 
 ----
 
-### § 52 GOG — 
+### § 52 GOG
 
 > `(1)` Dem Bedürfnis nach vorübergehender Personalvermehrung, das sich durch die Behinderung eines Kanzleibeamten, stärkeren Geschäftsandrang oder aus anderen Gründen ergibt, kann der Präsident des Oberlandesgerichtes durch einstweilige Zuweisungen aus dem Kanzleipersonale seines Sprengels abhelfen\.
 
@@ -1113,19 +1113,19 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `2.` wegen einer mit Bereicherungsvorsatz begangenen strafbaren Handlung oder wegen einer strafbaren Handlung gegen die sexuelle Integrität und Selbstbestimmung verurteilt worden ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-52-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=52) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-52-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-52-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=52) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-52-gog) \]
 
 ----
 
-### § 53 GOG — 
+### § 53 GOG
 
 > Die Ordnung des Dienstverhältnisses der in der Gerichtskanzlei beschäftigten Personen, einschließlich der Regelung des Ranges und der Bezüge, die Festsetzung der Dienstpflichten und Amtsverrichtungen dieser Personen, die Bestimmungen und Abgrenzung des Wirkungskreises der Vorsteher und leitenden Beamten der Gerichtskanzlei, die Bezeichnung der Geschäfte, die bei Vorhandensein von leitenden Beamten nur von diesen besorgt werden dürfen, die Ordnung der Vertretung von Kanzleibeamten in Verhinderungsfällen, die Feststellung, inwieweit Geschäfte der Gerichtskanzlei auch von anderen, nicht zu den Beamten gehörigen, in der Gerichtskanzlei verwendeten Personen wahrgenommen werden dürfen, und die Regelung der Aufsichtsführung über die Gerichtskanzlei bleiben, soweit nicht das gegenwärtige Gesetz Bestimmungen darüber enthält, den im Verordnungswege zu erlassenden Dienstvorschriften und den zu deren Durchführung vom Justizminister zu erlassenden Anordnungen vorbehalten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-53-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=53) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_64_TextContainer_64) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-53-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-53-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=53) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_64_TextContainer_64) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-53-gog) \]
 
 ----
 
-### § 54 GOG — 
+### § 54 GOG
 
 > `(1)` Die Besorgung der Grundbuchsführung und aller damit zusammenhängenden Geschäfte, die nach den dafür geltenden Vorschriften vom Grundbuchsführer oder vom Grundbuchsamte zu verrichten sind, werden der Gerichtskanzlei zugewiesen\. Wo besondere Grundbuchsämter bestehen, bilden diese eine selbständige Abtheilung der Gerichtskanzlei\.
 
@@ -1133,7 +1133,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Bei Gerichten, für welche keine eigenen Grundbuchsbeamten bestellt oder bei welchen die ernannten Grundbuchsführer verhindert sind, kann die Besorgung der Grundbuchsführung, falls hiefür geprüfte Personen nicht vorhanden sind, ausnahmsweise und vorübergehend auch Beamten der Gerichtskanzlei übertragen werden, welche die Grundbuchsführerprüfung nicht abgelegt haben\. In diesen Fällen hat der Bezirksrichter die Geschäftsführung des Grundbuches besonders zu überwachen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-54-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=54) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_65_TextContainer_65) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-54-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-54-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=54) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_65_TextContainer_65) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-54-gog) \]
 
 ----
 
@@ -1145,7 +1145,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 ----
 
-### § 56 GOG — 
+### § 56 GOG
 
 > `(1)` Anträge, Gesuche und bei Gericht abgegebene Erklärungen, die mündlich vorgebracht werden dürfen und nicht nach gesetzlicher Vorschrift vom Richter selbst entgegenzunehmen sind, können in der Gerichtskanzlei zu Protokoll genommen werden\. Vormünder und Kuratoren können die Angelobung in der Gerichtskanzlei leisten\.
 
@@ -1157,55 +1157,55 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Die in der Gerichtskanzlei verwendeten Personen haben, soweit es ihre Ausbildung und dienstliche Erfahrung gestattet, Schriftführerdienste zu leisten und für die richterliche Erledigung Entwürfe vorzubereiten\. Näheres bestimmt die Geschäftsordnung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-56-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=56) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_67_TextContainer_67) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-56-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-56-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=56) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_67_TextContainer_67) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-56-gog) \]
 
 ----
 
-### § 57 GOG — 
+### § 57 GOG
 
 > Soweit nicht die Strafprocessordnung einzelne dieser Geschäfte dem Richter selbst überträgt, wird die Übernahme der in Strafsachen an das Gericht gelangenden Eingaben und Acten, die Ausfertigung strafgerichtlicher Erkenntnisse und Beschlüsse, die Bewirkung der Zustellungen und Ladungen im Strafverfahren und die Aufbewahrung der strafgerichtlichen Acten der Gerichtskanzlei zugewiesen\.
 >
 > *\(Anm\.: aufgehoben durch Art\. VI Z 5 BG, BGBl\. Nr\. 222/1929\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-57-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=57) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_68_TextContainer_68) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-57-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-57-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=57) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_68_TextContainer_68) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-57-gog) \]
 
 ----
 
-### § 58 GOG — 
+### § 58 GOG
 
 > Die Geschäftseinrichtung der Gerichtskanzlei ist im Verordnungswege zu bestimmen\. Hiebei ist auf thunlichste Vereinfachung der Geschäftsformen, Erleichterung der Kanzleimanipulation und Einschränkung der Schreibgeschäfte Bedacht zu nehmen und der Geschäftsbetrieb so zu gestalten, dass die Gerichtskanzlei in den Stand gesetzt wird, bei Erfüllung ihrer Obliegenheiten in Bezug auf die Schnelligkeit und Verlässlichkeit des gerichtlichen Hilfsdienstes allen Anforderungen des Rechtsverkehres zu genügen\.
 >
 > *\(Anm\.: aufgehoben durch Art\. VI Z 5 BG, BGBl\. Nr\. 222/1929\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-58-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=58) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_69_TextContainer_69) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-58-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-58-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=58) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_69_TextContainer_69) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-58-gog) \]
 
 ----
 
-### § 59 GOG — 
+### § 59 GOG
 
 > Soweit nicht gesetzliche Vorschriften im einzelnen entgegenstehen, können der Gerichtskanzlei auch die in Strafsachen, sowie die in Sachen der streitigen und nicht streitigen Gerichtsbarkeit und namentlich im Insolvenz\- und Executionsverfahren vorgeschriebenen Benachrichtigungen von Verwaltungs\- und anderen Behörden und Organen, sowie andere nicht mit Rechtsanwendung verbundene Expeditionen und die bei Ausübung der Gerichtsbarkeit vorkommenden Acte und Verrichtungen des äußeren Geschäftsganges übertragen werden\.
 >
 > *\(Anm\.: aufgehoben durch Art\. VI Z 5 BG, BGBl\. Nr\. 222/1929\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-59-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=59) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_70_TextContainer_70) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-59-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-59-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=59) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_70_TextContainer_70) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-59-gog) \]
 
 ----
 
-### § 60 GOG — 
+### § 60 GOG
 
 > Bei Bezirksgerichten, die mit mehreren Einzelrichtern besetzt sind, und bei Gerichtshöfen, bei welchen mehrere Senate bestehen oder Gerichtshofsgeschäfte von Mitgliedern des Gerichtshofes als Einzelrichter erledigt werden, können Abtheilungen der Gerichtskanzlei gebildet werden, deren jede nach Maßgabe des Bedarfes für einen bestimmten Einzelrichter oder Senat oder für eine bestimmte Gruppe von Richtern oder Senaten die gesammten Geschäfte der Gerichtskanzlei ausschließlich zu besorgen hat\. Die Vollziehung von Zustellungen und Ladungen und die Vornahme von Executionshandlungen kann hiebei aus den Obliegenheiten dieser Abtheilungen ausgesondert und einer selbständigen Abtheilung der Gerichtskanzlei übertragen werden, welche alle derartigen, bei diesem Gerichte vorkommenden Amtshandlungen zu besorgen hat\.
 >
 > *\(Anm\.: aufgehoben durch Art\. VI Z 5 BG, BGBl\. Nr\. 222/1929\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-60-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=60) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_71_TextContainer_71) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-60-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-60-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=60) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_71_TextContainer_71) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-60-gog) \]
 
 ----
 
-### § 61 GOG — 
+### § 61 GOG
 
 > Die einzelnen Abtheilungen der Gerichtskanzlei haben die dienstlichen Aufträge des Richters, dem sie zugewiesen sind, oder bei Gerichtshöfen des Senatsvorsitzenden zu erfüllen\. Sie haben sich in Beschränkung auf die Angelegenheiten, deren Erledigung diesem Richter oder Senate übertragen ist, allen Verrichtungen zu unterziehen, die im Interesse des Geschäftsbetriebes nothwendig erscheinen und zu den amtlichen Obliegenheiten der Gerichtskanzlei gehören\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-61-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=61) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_72_TextContainer_72) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-61-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-61-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=61) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_72_TextContainer_72) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-61-gog) \]
 
 ----
 
@@ -1227,7 +1227,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 ## Disciplinargewalt über die nicht richterlichen Beamten und Diener.
 
-### § 63 GOG — 
+### § 63 GOG
 
 > `(1)` Die Aufsicht über die bei einem Bezirksgerichte angestellten oder verwendeten, nicht richterlichen Beamten, Kanzleigehilfen und Diener steht dem Bezirksrichter im Einvernehmen mit dem Richter zu, dem die betreffende Person zur Verwendung zugewiesen ist\. Bei Gerichtshöfen wird sie durch den Präsidenten des Gerichtshofes unter Mitwirkung der von ihm damit beauftragten Richter oder richterlichen Hilfsbeamten ausgeübt\.
 
@@ -1235,7 +1235,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Gegen einen Verweis oder gegen die Verhängung einer Geldstrafe kann von dem betheiligten Beamten oder Diener binnen acht Tagen die Beschwerde bei dem Präsidenten des übergeordneten Gerichtshofes, von Beamten und Dienern binnen acht Tagen die Beschwerde bei dem Präsidenten des übergeordneten Gerichtshofes, von Beamten und Dienern des Obersten Gerichts\- und Cassationshofes bei dem Justizminister angebracht werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-63-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=63) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_74_TextContainer_74) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-63-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-63-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=63) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_74_TextContainer_74) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-63-gog) \]
 
 ----
 
@@ -1269,27 +1269,27 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 ----
 
-### § 74 GOG — 
+### § 74 GOG
 
 > Die unmittelbare Dienstaufsicht über die Bezirksgerichte führen die Gerichtshöfe erster Instanz und deren Präsidenten, die unmittelbare Dienstaufsicht über die Gerichtshöfe erster Instanz die Oberlandesgerichte und deren Präsidenten; letztere haben auch die Geschäftsführung bei den Bezirksgerichten ihres Sprengels in ihre Aufsicht einzubeziehen\.
 >
 > Dem Justizminister steht die unmittelbare Dienstaufsicht über die Oberlandesgerichte und zugleich die allgemeine Oberaufsicht über die Ausübung der Rechtspflege bei allen im Geltungsgebiete dieses Gesetzes befindlichen Gerichten zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-74-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=74) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_77_TextContainer_77) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.005.md#-74-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-74-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=74) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_77_TextContainer_77) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.005.md#-74-gog) \]
 
 ----
 
-### § 75 GOG — 
+### § 75 GOG
 
 > `(1)` Die Gerichtshöfe erster und zweiter Instanz sowie deren Vorsteher haben die unmittelbare Dienstaufsicht nach Maßgabe der vom Justizminister zu erlassenden Weisungen zu führen\. Insbesondere haben die Vorsteher der Gerichtshöfe die ihrer Aufsicht unterstehenden Gerichte periodisch eingehend zu untersuchen\. Wo es besondere Vorfälle nöthig machen, können außerordentliche Untersuchungen stattfinden oder vom Präsidenten des Oberlandesgerichtes oder vom Justizminister angeordnet werden\.
 
 > `(2)` Die zur Dienstaufsicht berufenen Gerichtsbehörden oder deren Präsidenten haben auf Grund der Untersuchungsergebnisse die in ihrem Wirkungskreise gelegenen Verfügungen sogleich zu treffen, die sonst erforderlichen Maßregeln aber unter Anschluss des Untersuchungsberichtes bei dem Justizminister in Antrag zu bringen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-75-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=75) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_78_TextContainer_78) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.005.md#-75-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-75-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=75) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_78_TextContainer_78) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.005.md#-75-gog) \]
 
 ----
 
-### § 76 GOG — 
+### § 76 GOG
 
 > `(1)` Im Rechte der Aufsicht liegt die Befugnis, die ordnungsmäßige Ausführung der Geschäfte zu überwachen, die Gerichte und Staatsanwaltschaften zur Erfüllung ihrer Pflichten anzuhalten und wahrgenommene Gebrechen abzustellen oder bei dem zur Anordnung der erforderlichen Vorkehrungen berufenen übergeordneten Gerichte darüber Anzeige zu erstatten\.
 
@@ -1297,19 +1297,19 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die Gerichte und deren Personal haben die Anordnungen der mit der Aufsicht betrauten Behörden und Organe genau zu befolgen und denselben auf Verlangen über alle Amtsgeschäfte Auskunft und Rechenschaft zu geben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-76-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=76) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_79_TextContainer_79) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.005.md#-76-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-76-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=76) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_79_TextContainer_79) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.005.md#-76-gog) \]
 
 ----
 
-### § 77 GOG — 
+### § 77 GOG
 
 > Der Oberste Gerichts\- und Cassationshof ist befugt, anlässlich der Ausübung seines richterlichen Amtes wahrgenommene Gebrechen im Geschäftsgange der Gerichte erster und zweiter Instanz zu rügen und dem Justizminister von den wahrgenommenen Gebrechen und von den zu deren Abstellung dienlichen Anordnungen Mittheilung zu machen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-77-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=77) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_80_TextContainer_80) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.005.md#-77-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-77-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=77) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_80_TextContainer_80) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.005.md#-77-gog) \]
 
 ----
 
-### § 78 GOG — 
+### § 78 GOG
 
 > `(1)` Beschwerden der Beteiligten wegen Verweigerung oder Verzögerung der Rechtspflege können,
 >
@@ -1339,7 +1339,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(6)` Abs\. 5 gilt sinngemäß für im Wesentlichen aus Beschimpfungen bestehende Schriftsätze und Anzeigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-78-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=78) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_81_TextContainer_81) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.005.md#-78-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-78-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=78) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_81_TextContainer_81) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.005.md#-78-gog) \]
 
 ----
 
@@ -1415,7 +1415,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 ## Ausfertigung von Erledigungen
 
-### § 79 GOG — 
+### § 79 GOG
 
 > `(1)` Die schriftlichen Ausfertigungen der Urteile, Beschlüsse, Vergleiche und Bestätigungen der Rechtskraft oder Vollstreckbarkeit werden bei allen Gerichten von der Gerichtskanzlei unter dem Vermerk unterschrieben: „Für die Richtigkeit der Ausfertigung\.“ Ebenso kann in Justizverwaltungssachen auf den Ausfertigungen an die Stelle der Unterschrift dessen, der die Erledigung genehmigt hat, die Beglaubigung durch die Gerichtskanzlei treten\. Ausfertigungen, die mittels automationsunterstützter Datenverarbeitung erstellt werden, bedürfen weder einer Unterschrift noch einer Beglaubigung\. Ausfertigungen in zivilgerichtlichen Verfahren, die elektronisch erstellt und abgefertigt werden, sind mit der elektronischen Signatur der Justiz zu versehen\. Diese muss den Anforderungen der §§ 19 und 20 EGovernment\-Gesetz, BGBl\. I Nr\. 10/2004, entsprechen\. In der Ausfertigung ist auch der Name des Entscheidungsorgans anzuführen\.
 
@@ -1427,7 +1427,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` In den Ausfertigungen der gerichtlichen Beschlüsse in bürgerlichen Rechtssachen der bedingten Zahlungsbefehle und der Zahlungsaufträge im Mandats\- und Wechselverfahren kann die Bezeichnung der Rechtssache, der Parteien, des Streitgegenstandes, der Art und Zeit der Leistung und des Vollzuges durch Bezugnahme auf gleichzeitig mitgeteilte Protokolle, Schriftsätze und Rubriken ersetzt werden\. Die Rechtsbelehrung kann, insofern sie nicht nach gesetzlicher Vorschrift einen Bestandteil der Entscheidung zu bilden hat, bei allen gerichtlichen Entscheidungen der Ausfertigung auf abgesondertem Blatte angeschlossen werden\. Wenn dem Antrag einer Partei durch Versäumnis\- oder Anerkenntnisurteil ohne Änderung stattgegeben wird, ist ihr keine Rechtsbelehrung zuzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-79-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=79) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_86_TextContainer_86) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.005.md#-79-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-79-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=79) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_86_TextContainer_86) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.005.md#-79-gog) \]
 
 ----
 
@@ -1455,7 +1455,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 ## Gerichtsacten.
 
-### § 81 GOG — 
+### § 81 GOG
 
 > `(1)` Die Vorschriften darüber, wie mit den bei Gericht einlangenden Schriften zu verfahren ist, sind, soweit nicht das gegenwärtige Gesetz Besonderes anordnet oder sonst gesetzliche Bestimmungen dafür bestehen, im Verordnungswege zu erlassen\. Hiebei hat der Justizminister zu bestimmen, inwieweit besondere Eingangsbücher zu führen sind, um einen Nachweis zu gewinnen, zu welchen Acten die eingelangten Schriftstücke genommen oder an welche Behörden sie abgegeben wurden; in Grundbuchssachen müssen jedoch alle einzelnen an das Gericht gelangenden Eingaben und Schriften verzeichnet werden\.
 
@@ -1463,7 +1463,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Wie die Akten in Grundbuchssachen zu bilden sind, wird durch Verordnung bestimmt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-81-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=81) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_89_TextContainer_89) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.006.md#-81-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-81-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=81) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_89_TextContainer_89) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.006.md#-81-gog) \]
 
 ----
 
@@ -1575,29 +1575,29 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 ## Ladungen außerhalb des Processes.
 
-### § 87 GOG — 
+### § 87 GOG
 
 > `(1)` Personen, die einer gerichtlichen Ladung nicht Folge leisten, können unter Androhung einer Ordnungsstrafe neuerlich geladen und durch die Verhängung dieser Strafe zum Erscheinen genöthigt werden\. Im Falle fortgesetzten Ausbleibens kann die Ordnungsstrafe innerhalb des gesetzlichen Ausmaßes verdoppelt und in dringenden Fällen die zwangsweise Vorführung durch den Gerichtsdiener angeordnet werden\.
 
 > `(2)` Für die Verhängung und Verwendung der Ordnungsstrafen gelten die Bestimmungen der Civilprocessordnung über Strafen \(§\. 220\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-87-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=87) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_98_TextContainer_98) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.006.md#-87-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-87-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=87) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_98_TextContainer_98) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.006.md#-87-gog) \]
 
 ----
 
 ## Zustellung.
 
-### § 88 GOG — 
+### § 88 GOG
 
 > Zustellungen in Angelegenheiten der Gerichtsbarkeit außer Streitsachen sowie im Insolvenzverfahren sind in gleicher Weise wie die Zustellungen in bürgerlichen Rechtsstreitigkeiten, und zwar von amtswegen zu bewirken\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-88-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=88) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_99_TextContainer_99) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.006.md#-88-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-88-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=88) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_99_TextContainer_99) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.006.md#-88-gog) \]
 
 ----
 
 ## Postsendungen, Ablichtungen und telegrafische Eingaben
 
-### § 89 GOG — 
+### § 89 GOG
 
 > `(1)` Bei gesetzlichen oder richterlichen Fristen, die in bürgerlichen Rechtssachen einer Partei zur Abgabe von Erklärungen, Anbringung von Anträgen, Überreichung von Schriftsätzen oder zur Vornahme anderer, ein gerichtliches Verfahren betreffenden Handlungen offen stehen, werden die Tage des Postenlaufes in die Frist nicht eingerechnet\.
 
@@ -1606,7 +1606,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(3)` Schriftliche Eingaben an das Gericht können auch im telegraphischen Wege erfolgen; insbesondere kann die Erhebung der Berufung, Revision oder des Recurses telegraphisch geschehen\. Die näheren Vorschriften über die geschäftliche Behandlung solcher Depeschen sind im Verordnungswege zu erlassen\.
 > *\(Anm\.: Abs\. 4 aufgehoben durch Art\. 4 Z 8, BGBl\. I Nr\. 61/2022\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-89-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=89) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_100_TextContainer_100) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.007.md#-89-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-89-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=89) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_100_TextContainer_100) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.007.md#-89-gog) \]
 
 ----
 
@@ -1845,13 +1845,13 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 ## Vertreter für Verfahrenshilfe genießende Parteien
 
-### § 90 GOG — 
+### § 90 GOG
 
 > *\(Anm\.: aufgehoben durch Art\. VI Z 7 BG, BGBl\. Nr\. 135/1983\)*
 >
 > Wenn eine Verfahrenshilfe genießende Partei in einem nicht dem Anwaltszwange unterliegenden streitigen oder in einem außerstreitigen Verfahren bei einem Gerichte außerhalb ihres Wohnsitzes oder ständigen Aufenthaltes Anträge zu stellen oder Erklärungen abzugeben hat, sind die Bestimmungen des § 64 Z 4, Z P\. O\. sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-90-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=90) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_118_TextContainer_118) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.007.md#-90-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-90-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=90) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_118_TextContainer_118) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.007.md#-90-gog) \]
 
 ----
 
@@ -1981,11 +1981,11 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 ----
 
-### § 97 GOG — 
+### § 97 GOG
 
 > Auf die Geschäfte der Strafrechtspflege sind die Bestimmungen des gegenwärtigen Gesetzes sofern anzuwenden, als sie sich ihrer Beschaffenheit nach dazu eignen und durch Vorschriften über das strafgerichtliche Verfahren keine besonderen Anordnungen darüber getroffen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-97-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=97) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_129_TextContainer_129) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.008.md#-97-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-97-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=97) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_129_TextContainer_129) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.008.md#-97-gog) \]
 
 ----
 
@@ -2001,7 +2001,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 ----
 
-### § 98 GOG — 
+### § 98 GOG
 
 > `(1)` Die Bestimmungen des gegenwärtigen Gesetzes treten, soweit in demselben nichts anderes angeordnet ist, mit dem Beginne der Wirksamkeit der Civilprocessordnung in Kraft\.
 
@@ -2093,17 +2093,17 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(34)` § 26 Abs\. 6, § 32 Abs\. 5 und § 48a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 157/2024 treten mit 1\. Jänner 2025 in Kraft\. § 48a in der Fassung dieses Bundesgesetzes ist auf Entscheidungen anzuwenden, die nach dem 31\. Dezember 2024 gefasst werden\. Im Falle des § 48a Abs\. 5 sind jene Entscheidungen maßgeblich, in denen auf andere nicht veröffentlichte rechtskräftige Entscheidungen Bezug genommen wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-98-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=98) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_131_TextContainer_131) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.008.md#-98-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-98-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=98) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_131_TextContainer_131) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.008.md#-98-gog) \]
 
 ----
 
-### § 99 GOG — 
+### § 99 GOG
 
 > `(1)` Mit dem Vollzuge dieses Gesetzes ist Mein Justizminister beauftragt\. Derselbe hat alle zu dessen Durchführung erforderlichen Verordnungen und Anordnungen zu erlassen\.
 
 > `(2)` Mit der Vollziehung des § 14 ist die Bundesregierung, hinsichtlich der §§ 4 Abs\. 5, 6 Abs\. 2, §§ 8, 10 Z 2, 11 Abs\. 1 Z 2 und 4, 13 sowie § 15b Abs\. 6 – soweit sie sich auf das Einschreiten von Sicherheitsbehörden beziehen – der Bundesminister für Inneres im Einvernehmen mit dem Bundesminister für Justiz betraut\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-99-gog--) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=99) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_132_TextContainer_132) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.008.md#-99-gog--) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-99-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=99) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_132_TextContainer_132) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.008.md#-99-gog) \]
 
 ----
 

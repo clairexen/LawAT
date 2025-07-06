@@ -19,7 +19,7 @@
 `§ 86a JN.`  
 Die Rechtssubjekte, für welche die Finanzprokuratur einzuschreiten hat, können bei den sachlich zuständigen Gerichten in der Landeshauptstadt des Landes geklagt werden, in dem der Kläger seinen allgemeinen Gerichtsstand hat. Für das Land Vorarlberg tritt an die Stelle der Landeshauptstadt die Stadt Feldkirch. Im Bereiche der Stadt Wien sind solche Klagen bei den für den ersten Bezirk örtlich zuständigen Gerichten einzubringen.
 
-### § 87 JN # Gerichtsstand der Niederlassung # 
+### § 87 JN # Gerichtsstand der Niederlassung
 
 `§ 87 (1) JN.`  
 Personen, die außerhalb des Gerichtssprengels ihres Wohnsitzes oder ihres gewöhnlichen Aufenthalts ein Bergwerk, eine Fabrik, eine Handelsniederlassung oder eine sonstige Betriebsstätte ihres Geschäftes oder ihres Berufes haben, können in streitigen Rechtssachen, die sich auf ihre geschäftliche oder berufliche Tätigkeit beziehen, bei dem Gericht geklagt werden, in dessen Sprengel sich ihre Niederlassung oder Betriebsstätte befindet.
@@ -43,17 +43,17 @@ Klagen auf Feststellung des Bestehens oder Nichtbestehens eines Vertrages, auf E
 `§ 88 (2) JN.`  
 Unter Unternehmern wird der Gerichtsstand des Erfüllungsortes auch durch die Annahme einer zugleich mit der Ware oder schon vor ihrem Einlangen übersendeten Faktura begründet, welche mit dem Vermerke versehen ist, daß die Zahlung an einem bestimmten Orte zu leisten ist und daß an demselben Orte die Klagen aus dem Geschäfte angebracht werden können, es sei denn, daß dieser Vermerk oder die Faktura im allgemeinen als vertragswidrig beanständet oder die Faktura ohne Bemerkung zurückgestellt oder die fakturierte Sendung als nicht bestellt zurückgewiesen wird.
 
-### § 89 JN # 
+### § 89 JN
 
 `§ 89 JN.`  
 Aus einem Wechsel verpflichtete Personen können vom Inhaber des Wechsels bei dem Gerichte des Zahlungsortes belangt werden.
 
-### § 90 JN # 
+### § 90 JN
 
 `§ 90 JN.`  
 Streitigkeiten aus der Schiffsmiete, aus dem Dienstverhältnisse der Schiffsmannschaft und aus Seefrachtgeschäften können auch bei dem Gerichte des Ortes angebracht werden, in welchem sich der Beklagte aufhält, wo die Ware abgeliefert werden soll, wo der Transport des Reisenden zu beendigen ist oder wo die Reise abgebrochen wird.
 
-### § 91 JN # Gerichtsstand der gelegenen Sache # 
+### § 91 JN # Gerichtsstand der gelegenen Sache
 
 `§ 91 (1) JN.`  
 Bei dem nach §. 81 zuständigen Gerichte kann mit der Klage zur Geltendmachung des Pfandrechtes die Klage auf Zahlung der pfandrechtlich versicherten Forderung, mit der Klage auf Aufhebung (Löschung) des Pfandrechtes die Klage auf Feststellung des Nichtbestehens der pfandrechtlich versicherten Forderung verbunden werden, wenn beide Klagen wider denselben Beklagten gerichtet sind.
@@ -64,7 +64,7 @@ Klagen auf die aus einer Reallast rückständigen Leistungen können gegen den B
 `§ 91 (3) JN.`  
 Klagen über Verträge über die Übergabe der im § 560 ZPO angeführten Sachen können – auch wenn sie nicht unter den § 83 fallen – bei dem Gericht erhoben werden, in dessen Sprengel die unbewegliche Sache liegt.
 
-### § 92 JN # Gerichtsstand für Besitzstörungsstreitigkeiten, # 
+### § 92 JN # Gerichtsstand für Besitzstörungsstreitigkeiten,
 
 `§ 92 JN.`  
 Besitzstörungsklagen (§. 49, Z 4 *(Anm.: richtig: § 49 Abs. 2 Z 4)*) können, sofern sie nicht eine unbewegliche Sache betreffen, bei dem Gerichte angebracht werden, in dessen Sprengel die Störung erfolgte.
@@ -84,7 +84,7 @@ Streitigkeiten wegen Verletzung eines Persönlichkeitsrechts in einem elektronis
 `§ 92c JN.`  
 Die im § 51 Abs. 1 Z 6 genannten Streitigkeiten, mit Ausnahme von Klagen gegen Dritte, können bei dem Gericht des Ortes angebracht werden, in dem die Gesellschaft ihren Sitz hat.
 
-### § 93 JN # Gerichtsstand der Streitgenossenschaft # 
+### § 93 JN # Gerichtsstand der Streitgenossenschaft
 
 `§ 93 (1) JN.`  
 Mehrere Personen, welche ihren allgemeinen Gerichtsstand vor verschiedenen Gerichten haben, können als Streitgenossen, sofern nicht für den Rechtsstreit ein gemeinschaftlicher besonderer Gerichtsstand begründet ist, vor jedem inländischen Gerichte geklagt werden, bei welchem einer der Streitgenossen oder, wenn sich unter ihnen Haupt- und Nebenverpflichtete befinden, einer der Hauptverpflichteten seinen allgemeinen Gerichtsstand hat, es sei denn, daß das Gericht auch durch Vereinbarung der Parteien nicht zuständig gemacht werden kann.
@@ -92,7 +92,7 @@ Mehrere Personen, welche ihren allgemeinen Gerichtsstand vor verschiedenen Geric
 `§ 93 (2) JN.`  
 Aus einem Wechsel verpflichtete Personen können als Streitgenossen beim Gerichte des Zahlungsortes geklagt werden.
 
-### § 94 JN # Gerichtsstand des Hauptprocesses # 
+### § 94 JN # Gerichtsstand des Hauptprocesses
 
 `§ 94 (1) JN.`  
 Klagen, womit ein Anspruch auf eine Sache oder ein Recht geltend gemacht wird, über welchen zwischen anderen Personen ein Rechtsstreit anhängig ist (Hauptintervention), können bis zur rechtskräftigen Entscheidung dieses Processes bei demselben Gerichte angebracht werden.
@@ -100,7 +100,7 @@ Klagen, womit ein Anspruch auf eine Sache oder ein Recht geltend gemacht wird, �
 `§ 94 (2) JN.`  
 Klagen der Process- und Zustellungsbevollmächtigten wegen Gebüren und Auslagen können beim Gerichte des Hauptprocesses angebracht werden.
 
-### § 95 JN # 
+### § 95 JN
 
 `§ 95 (1) JN.`  
 Die in den §§. 91 und 94 bezeichneten Klagen können bei den daselbst benannten Gerichten auch dann angebracht werden, wenn diese Gerichte in Gemäßheit der über die sachliche Zuständigkeit geltenden Bestimmungen zur Entscheidung über den mittels Klage geltend gemachten vermögensrechtlichen Anspruch an sich nicht zuständig wären.
@@ -108,7 +108,7 @@ Die in den §§. 91 und 94 bezeichneten Klagen können bei den daselbst benannte
 `§ 95 (2) JN.`  
 Die gemäß § 94 Absatz 1, bei einem Gerichtshof erster Instanz angebrachten Klagen und die im § 94 Absatz 2, bezeichneten Klagen, wofern sie vor rechtskräftiger Beendigung des Hauptprozesses bei einem Gerichtshofe erster Instanz angebracht werden, gehören ohne Rücksicht auf den Wert des Streitgegenstandes vor den Senat oder Einzelrichter (§ 7a) des Gerichtshofes, vor dem der Hauptprozeß geführt wird. Werden jedoch die im § 94 Absatz 2, bezeichneten Klagen erst später bei einem Gerichtshof erster Instanz eingebracht, so bleibt für die Besetzung des Gerichtes der Wert des Streitgegenstandes maßgebend.
 
-### § 96 JN # Gerichtsstand der Widerklage # 
+### § 96 JN # Gerichtsstand der Widerklage
 
 `§ 96 (1) JN.`  
 Bei dem Gerichte der Klage kann eine Widerklage angebracht werden, wenn der mit letzterer geltend gemachte Anspruch mit dem Anspruche der Klage im Zusammenhange steht oder sich sonst zur Compensation eignen würde, ferner wenn die Widerklage auf Feststellung eines im Laufe des Processes streitig gewordenen Rechtsverhältnisses oder Rechtes gerichtet ist, von dessen Bestehen oder Nichtbestehen die Entscheidung über das Klagebegehren ganz oder zum Theile abhängt.
@@ -116,7 +116,7 @@ Bei dem Gerichte der Klage kann eine Widerklage angebracht werden, wenn der mit 
 `§ 96 (2) JN.`  
 Der Gerichtsstand der Widerklage tritt nicht ein, wenn die Zuständigkeit des Gerichtes für den mit der Widerklage geltend gemachten Anspruch oder für eine derartige Feststellungsklage auch durch Vereinbarung der Parteien nicht begründet werden könnte, oder wenn zur Zeit der Anbringung der Widerklage die mündliche Verhandlung über die Klage in erster Instanz bereits geschlossen ist.
 
-### § 97 JN # Gerichtsstand des früheren Wohnsitzes # 
+### § 97 JN # Gerichtsstand des früheren Wohnsitzes
 
 `§ 97 (1) JN.`  
 Handwerker, Kleinverschleißer, Wirte, Schiffer, Fuhrleute und sonstige Gewerbetreibende, ferner Gesellen, Gehilfen, Dienstleute und sonstige Arbeiter um Lohn können wegen ihrer Forderungen für gelieferte Erzeugnisse und Waren, für geleistete Dienste und Arbeiten innerhalb neunzig Tagen von der Zeit der letzten Lieferung oder Leistung bei dem nach dem früheren allgemeinen Gerichtsstand des Abnehmers oder Arbeitgebers zuständigen Gericht klagen, wenn dieser mittlerweile seinen allgemeinen Gerichtsstand in einen anderen Gerichtsbezirk verlegt hat.
@@ -129,7 +129,7 @@ Ein Gleiches steht den Privatlehrern in Betreff ihres Entlohnungsanspruches zu.
 `§ 98 JN.`  
 Gegen Schiffer und Personen der Schiffsmannschaft können Forderungen der in § 97 bezeichneten Art auch dann bei dem nach dem jeweiligen Aufenthalt des Beklagten zuständigen Gericht geltend gemacht werden, wenn dieser an einem anderen Ort seinen allgemeinen Gerichtsstand hat.
 
-### § 99 JN # Gerichtsstand des Vermögens # 
+### § 99 JN # Gerichtsstand des Vermögens
 
 `§ 99 (1) JN.`  
 Gegen Personen, die im Inland keinen allgemeinen Gerichtsstand haben, kann wegen vermögensrechtlicher Ansprüche bei jedem Gericht eine Klage angebracht werden, in dessen Sprengel sich Vermögen dieser Personen oder der mit der Klage in Anspruch genommene Gegenstand selbst befindet. Der Wert des im Inland befindlichen Vermögens darf jedoch nicht unverhältnismäßig geringer sein als der Wert des Streitgegenstandes; für dessen Berechnung gilt der § 55 Abs. 3 nicht.
@@ -160,12 +160,12 @@ Für Klagen über Ansprüche nach der Verordnung (EG) Nr. 261/2004 über eine ge
 
 ## Mehrheit von Gerichtsständen.
 
-### § 102 JN # 
+### § 102 JN
 
 `§ 102 JN.`  
 Unter mehreren zuständigen Gerichten hat der Kläger die Wahl; dieselbe ist mit der Zustellung der Klage an den Beklagten vollzogen.
 
-### § 103 JN # Mehrheit von Bezirksgerichten an einem Orte # 
+### § 103 JN # Mehrheit von Bezirksgerichten an einem Orte
 
 `§ 103 (1) JN.`  
 Ist jemand bei dem Bezirksgericht an einem Ort zu klagen, wo mehrere Bezirksgerichte eingerichtet sind, so ist die Klage bei demjenigen Bezirksgericht anzubringen, in dessen Sprengel der Beklagte seinen Wohnsitz, seinen gewöhnlichen Aufenthalt oder – ist keines der Fall – seinen Aufenthalt hat. Wenn hingegen der Beklagte an diesem Orte sich nicht wirklich aufhält, so hat der Kläger zwischen den mehreren Bezirksgerichten die Wahl (§. 102).
@@ -175,7 +175,7 @@ Bestehen am Sitz einer zur Vertretung eines Minderjährigen berufenen Bezirksver
 
 ## Vereinbarung über die Zuständigkeit der Gerichte.
 
-### § 104 JN # 
+### § 104 JN
 
 `§ 104 (1) JN.`  
 Die Parteien können sich durch ausdrückliche Vereinbarung unterwerfen:  

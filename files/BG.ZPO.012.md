@@ -66,12 +66,12 @@ Stellt der Gegner des Säumigen keinen Antrag auf Erlassung eines Versäumungsur
 `§ 399 ZPO.`  
 Das Fernbleiben einer Partei, welche sich bereits durch mündliches Vorbringen zur Hauptsache in den Streit eingelassen hat, von einer Tagsatzung hindert weder den Fortgang des Verfahrens noch berechtigt es die andere Partei dazu, die Fällung eines Versäumungsurteils zu beantragen.
 
-### § 400 ZPO # 
+### § 400 ZPO
 
 `§ 400 ZPO.`  
 Die Bestimmungen der §§. 396 bis 399 sind auch dann anzuwenden, wenn eine der Parteien wegen unangemessenen Betragens aus dem Gerichtssaale entfernt wird.
 
-### § 401 ZPO # 
+### § 401 ZPO
 
 `§ 401 (1) ZPO.`  
 Der Umstand, dass die Tagsatzung von einer Partei versäumt wird, ändert nichts an der Anwendung der Bestimmungen, welche festsetzen, was das Gericht von amtswegen zu berücksichtigen hat, und enthebt auch den Gegner nicht der Verpflichtung, diejenigen Nachweisungen zu liefern, welche in Betreff der von amtswegen zu berücksichtigenden Umstände erforderlich sind.
@@ -79,7 +79,7 @@ Der Umstand, dass die Tagsatzung von einer Partei versäumt wird, ändert nichts
 `§ 401 (2) ZPO.`  
 Desgleichen steht die Säumnis einer Partei der Aufnahme von Beweisen vor dem erkennenden Gerichte, sowie dem Vortrage der Ergebnisse einer nicht vor dem erkennenden Gerichte erfolgten Beweisaufnahme nicht entgegen.
 
-### § 402 ZPO # 
+### § 402 ZPO
 
 `§ 402 (1) ZPO.`  
 Der Antrag, wegen Säumnis einer Partei das Urtheil zu fällen (§ 396), ist zurückzuweisen:  
@@ -96,14 +96,14 @@ Der Antrag, gegen Streitgenossen wegen Säumnis das Urtheil zu fällen, ist bei 
 `§ 402 (3) ZPO.`  
 Wenn dem Antrage, wegen Säumnis einer Partei das Urtheil zu fällen, nicht stattgegeben wird, ist die Tagsatzung von amtswegen auf angemessene Zeit zu erstrecken und auch die säumige Partei zur neuen Tagsatzung wieder zu laden.
 
-### § 403 ZPO # 
+### § 403 ZPO
 
 `§ 403 ZPO.`  
 Wird der Antrag, wegen Säumnis einer Partei das Urtheil zu fällen, durch Beschluss zurückgewiesen, dieser Beschluss aber infolge Recurses aufgehoben, so kann das Urtheil ohne Anberaumung einer neuen Tagsatzung gefällt werden.
 
 ## Urtheilsinhalt.
 
-### § 404 ZPO # 
+### § 404 ZPO
 
 `§ 404 (1) ZPO.`  
 Das in der Hauptsache gefällte Urtheil hat alle die Hauptsache betreffenden Anträge zu erledigen, sofern nicht über einzelne dieser Anträge bereits früher entschieden wurde oder dieselben einer abgesonderten Erledigung vorbehalten werden.
@@ -111,17 +111,17 @@ Das in der Hauptsache gefällte Urtheil hat alle die Hauptsache betreffenden Ant
 `§ 404 (2) ZPO.`  
 Mehrere Rechtsstreitigkeiten, die nach § 187 zu gemeinsamer Verhandlung verbunden wurden, können durch ein gemeinschaftliches Urteil entschieden werden, wenn die Verbindung der Verhandlung nicht schon vor Fällung des Urteiles aufgehoben oder nicht über einen der verbundenen Prozesse gemäß § 390 durch besonderes Urteil entschieden wurde.
 
-### § 405 ZPO # 
+### § 405 ZPO
 
 `§ 405 ZPO.`  
 Das Gericht ist nicht befugt, einer Partei etwas zuzusprechen, was nicht beantragt ist. Dies gilt insbesondere von Früchten, Zinsen und anderen Nebenforderungen.
 
-### § 406 ZPO # 
+### § 406 ZPO
 
 `§ 406 ZPO.`  
 Die Verurtheilung zu einer Leistung ist nur zulässig, wenn die Fälligkeit zur Zeit der Urtheilsschöpfung bereits eingetreten ist. Bei Ansprüchen auf Alimente kann auch zu Leistungen verurtheilt werden, welche erst nach Erlassung des Urtheiles fällig werden.
 
-### § 407 ZPO # 
+### § 407 ZPO
 
 `§ 407 (1) ZPO.`  
 Bei Verurtheilung zur Entrichtung einer Geldrente wegen Tödtung, Körperverletzung oder Freiheitsentziehung kann das Gericht, wenn eine Sicherstellung der künftigen Zahlungen offenbar nothwendig erscheint, auf Antrag im Urtheile auch auf Sicherheitsleistung erkennen. Wenngleich im Processe ein solcher Antrag nicht gestellt wurde, kann der Berechtigte nachträglich im Wege der Klage Sicherheitsleistung verlangen, falls die Vermögensverhältnisse des Verpflichteten sich inzwischen erheblich verschlechtert haben.
@@ -129,7 +129,7 @@ Bei Verurtheilung zur Entrichtung einer Geldrente wegen Tödtung, Körperverletz
 `§ 407 (2) ZPO.`  
 Unter derselben Voraussetzung kann der Berechtigte eine Erhöhung der im Urtheile bestimmten Sicherheit mittels Klage begehren.
 
-### § 408 ZPO # 
+### § 408 ZPO
 
 `§ 408 (1) ZPO.`  
 Findet das Gericht, dass die unterliegende Partei offenbar muthwillig Process geführt hat, so kann es dieselbe auf Antrag der siegenden Partei zur Leistung eines entsprechenden Entschädigungsbetrages verurtheilen.
@@ -140,7 +140,7 @@ Durch die Verhandlung über diesen Antrag darf die Entscheidung in der Hauptsach
 `§ 408 (3) ZPO.`  
 Dieser Entschädigungsbetrag ist vom Gericht nach freier Überzeugung zu bestimmen.
 
-### § 409 ZPO # 
+### § 409 ZPO
 
 `§ 409 (1) ZPO.`  
 Wenn in einem Urtheile die Verbindlichkeit zu einer Leistung auferlegt wird, ist zugleich auch die Frist für diese Leistung zu bestimmen. Diese Frist beträgt, sofern in diesem Gesetze nicht etwas anderes bestimmt ist, vierzehn Tage.
@@ -151,14 +151,14 @@ Wird jedoch die Pflicht zur Verrichtung einer Arbeit oder eines Geschäftes aufe
 `§ 409 (3) ZPO.`  
 Die Fristen sind, wenn gegen das Urteil innerhalb der Rechtsmittelfrist kein Rechtsmittel eingelegt oder wenn das eingelegte Rechtsmittel vor der Entscheidung der höheren Instanz zurückgenommen (§ 484) wurde, von dem Tage an zu berechnen, mit dem das Urteil gegenüber der zur Leistung verpflichteten Person wirksam geworden ist (§ 416), sonst von dem Tage nach Eintritt der Rechtskraft.
 
-### § 410 ZPO # 
+### § 410 ZPO
 
 `§ 410 ZPO.`  
 Wird in einem Urtheile ein Gegenstand zuerkannt, der nicht in einem Geldbetrage besteht, so ist zugleich auszusprechen, dass sich der Beklagte durch Zahlung des Geldbetrages, welchen der Kläger in der Klage oder während der Verhandlung anstatt dieses Gegenstandes anzunehmen sich bereit erklärt hat, von der Leistung dieses Gegenstandes befreien könne.
 
 ## Rechtskraft des Urtheiles.
 
-### § 411 ZPO # 
+### § 411 ZPO
 
 `§ 411 (1) ZPO.`  
 Durch ein Rechtsmittel nicht mehr anfechtbare Urtheile sind der Rechtskraft insoweit theilhaft, als in dem Urtheile über einen durch Klage oder Widerklage geltend gemachten Anspruch oder über ein im Laufe des Processes streitig gewordenes Rechtsverhältnis oder Recht entschieden ist, hinsichtlich dessen gemäß §§. 236 oder 259 die Feststellung des Bestehens oder Nichtbestehens begehrt wurde. Die Entscheidung über den Bestand oder Nichtbestand einer vom Beklagten zur Compensation geltend gemachten Gegenforderung ist der Rechtskraft nur bis zur Höhe des Betrages theilhaft, mit welchem aufgerechnet werden soll.
@@ -168,7 +168,7 @@ Die Rechtskraft des Urtheiles ist von amtswegen zu berücksichtigen.
 
 ## Urtheilsfällung, Urtheilsverkündung und Zustellung des Urtheiles.
 
-### § 412 ZPO # 
+### § 412 ZPO
 
 `§ 412 (1) ZPO.`  
 Das Urtheil kann nur von denjenigen Richtern gefällt werden, welche an der dem Urtheile zugrunde liegenden mündlichen Verhandlung theilgenommen haben.
@@ -176,12 +176,12 @@ Das Urtheil kann nur von denjenigen Richtern gefällt werden, welche an der dem 
 `§ 412 (2) ZPO.`  
 Muß vor der Urtheilsschöpfung eine Änderung in der Person des Vorsitzenden oder eines der übrigen Senatsmitglieder eintreten, so ist die mündliche Verhandlung vor dem geänderten Senate mit Benützung der Klage, der zu den Acten gebrachten Beweise und des Verhandlungsprotokolles von neuem durchzuführen.
 
-### § 413 ZPO # 
+### § 413 ZPO
 
 `§ 413 ZPO.`  
 Die Berathung und Abstimmung der Richter ist nicht öffentlich. In schwierigeren Fällen kann der Vorsitzende für diese Berathung einen Berichterstatter bestellen.
 
-### § 414 ZPO # 
+### § 414 ZPO
 
 `§ 414 (1) ZPO.`  
 Das Urtheil ist auf Grund der mündlichen Verhandlung, und zwar wenn möglich, sogleich nach Schluss derselben zu fällen und zu verkünden. Mit dem Urtheile sind die Entscheidungsgründe zu verkünden. Die Verkündung des Urtheiles ist von der Anwesenheit beider Parteien unabhängig. Bei Versäumungsurteilen kann die Verkündung durch die Bekanntgabe, daß das Urteil nach dem Antrage gefällt wird, ersetzt werden.
@@ -195,12 +195,12 @@ Der Vorsitzende hat das Urteil in schriftlicher Abfassung binnen vier Wochen nac
 `§ 414 (4) ZPO.`  
 Ist das mit der Abfassung eines in Gegenwart aller Parteien verkündeten Urteils betraute Mitglied eines Senates daran dauernd verhindert, so hat ein anderes Mitglied des Senates das Urteil abzufassen. Sind an der schriftlichen Abfassung alle Mitglieder des Senates dauernd verhindert oder ist ein Einzelrichter an der schriftlichen Abfassung eines in Gegenwart aller Parteien verkündeten Urteils dauernd verhindert, so kann ein solches Urteil von einem anderen Richter auf Grund aller ihm zur Verfügung stehenden Informationen, insbesondere der Beurkundungen in den Protokollen und deren Beilagen, der unzweifelhaft bei der Urteilsverkündung benützten Notizen (Aufschreibungen), der Eintragungen in den Registern oder der Auskünfte der bei der Verkündung anwesenden Personen abgefasst werden, wenn gegen das verkündete Urteil kein Rechtsmittel angemeldet oder die Rechtsmittelanmeldung zurückgezogen oder auf ein Rechtsmittel verzichtet wurde oder das verkündete Urteil ein Versäumungs-, Anerkenntnis- oder Verzichtsurteil ist. In allen anderen Fällen hat das Gericht auszusprechen, dass das verkündete Urteil als nicht gefällt anzusehen ist.
 
-### § 415 ZPO # 
+### § 415 ZPO
 
 `§ 415 ZPO.`  
 Wenn das Urteil nicht sofort nach Schluß der mündlichen Verhandlung gefällt werden kann, ist es binnen vier Wochen nach Schluß der Verhandlung, wenn ein abgelehnter Richter die Verhandlung gemäß § 25 JN bis zur Endentscheidung fortgeführt hat, binnen vier Wochen nach rechtskräftiger Zurückweisung der Ablehnung und im Falle des § 193 Abs. 3 binnen vier Wochen nach dem Einlangen der Akten über die ausständige Beweisaufnahme zu fällen und vom Vorsitzenden in schriftlicher Abfassung samt den vollständigen Entscheidungsgründen zur Ausfertigung abzugeben (§ 416 Abs. 2). Verkündet wird das Urteil in diesen Fällen nicht.
 
-### § 416 ZPO # 
+### § 416 ZPO
 
 `§ 416 (1) ZPO.`  
 Das Urtheil wird den Parteien gegenüber erst mit der Zustellung der schriftlichen Urtheilsausfertigung wirksam.
@@ -213,7 +213,7 @@ Ein in Anwesenheit beider Parteien verkündetes Urteil auf Grund von Verzicht od
 
 ## Schriftliche Ausfertigung.
 
-### § 417 ZPO # 
+### § 417 ZPO
 
 `§ 417 (1) ZPO.`  
 Das Urteil hat in schriftlicher Ausfertigung zu enthalten:  
@@ -244,7 +244,7 @@ Ist ein Urteil in Anwesenheit beider Parteien mündlich verkündet worden (§ 4
 Der Abs. 1 darf nur angewendet werden, wenn der Vorsitzende die gekürzte schriftliche Abfassung des Urteils binnen vierzehn Tagen ab jenem Zeitpunkt zur Ausfertigung abgibt, ab dem für jede Partei die Berufungsanmeldungsfrist (§ 461 Abs. 2) abgelaufen ist.
 *(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 140/1997)*
 
-### § 418 ZPO # 
+### § 418 ZPO
 
 `§ 418 (1) ZPO.`  
 Die für die Gerichtsacten bestimmte schriftliche Abfassung des Urtheiles ist vom Vorsitzenden des Senates zu unterschreiben. Ist der Vorsitzende dauernd verhindert, die Abfassung des Urteiles zu unterschreiben, so unterschreibt für ihn ein anderes Mitglied des Senates mit dem Vermerk: „Unterschrieben durch ... an Stelle des dauernd verhinderten Vorsitzenden ...“. Dem nach § 414 Abs. 4 von einem anderen Richter abgefassten Urteil ist der Vermerk anzufügen: „Abgefasst durch ... an Stelle des dauernd verhinderten Vorsitzenden/Richters ... .“ Wird durch Versäumungsurteil nach dem Begehren des Klägers oder durch Verzicht- oder Anerkenntnisurteil erkannt, so kann die für die Gerichtsakten bestimmte Abfassung des Urteils durch den vom Richter zu unterschreibenden Urteilsvermerk ersetzt werden. Die näheren Vorschriften über den Urteilsvermerk werden durch Verordnung erlassen.
@@ -257,7 +257,7 @@ Vor Zustellung der schriftlichen Urtheilsausfertigungen an die Parteien können 
 
 ## Berichtigung des Urtheiles.
 
-### § 419 ZPO # 
+### § 419 ZPO
 
 `§ 419 (1) ZPO.`  
 Das Gericht, das das Urteil gefällt hat, kann jederzeit Schreib- und Rechnungsfehler oder andere offenbare Unrichtigkeiten in dem Urteil oder in dessen Ausfertigungen oder Abweichungen der Ausfertigung von der gefällten Entscheidung berichtigen und die Angaben, die entgegen der Vorschrift des § 417 Abs. 3, übergangen wurden, einfügen.
@@ -273,7 +273,7 @@ Eine Berichtigung ist der Urschrift des Urteiles beizusetzen. Ist dies unmöglic
 
 ## Ergänzung des Urtheiles.
 
-### § 423 ZPO # 
+### § 423 ZPO
 
 `§ 423 (1) ZPO.`  
 Wenn in dem Urtheile ein Anspruch, über welchen zu entscheiden war, übergangen, oder wenn in einem Urtheile über die von einer Partei begehrte Erstattung der Processkosten nicht oder nur unvollständig erkannt wurde, ist das Urtheil durch eine nachträgliche Entscheidung zu ergänzen (Ergänzungsurtheil).
@@ -284,14 +284,14 @@ Der Antrag auf Ergänzung ist bei dem Prozeßgericht binnen vierzehn Tagen nach 
 `§ 423 (3) ZPO.`  
 Das Gericht entscheidet nach vorhergehender mündlicher Verhandlung, wenn es eine solche für notwendig hält. Diese Verhandlung ist auf den nicht erledigten Theil des Rechtsstreites zu beschränken. Die Abweisung des Antrages auf Ergänzung erfolgt mittels Beschluss.
 
-### § 424 ZPO # 
+### § 424 ZPO
 
 `§ 424 ZPO.`  
 Die Verhandlung über die Ergänzung des Urteiles hat auf den Lauf der Rechtsmittelfristen keinen Einfluß.
 
 ## Zweiter Titel. # Beschlüsse.
 
-### § 425 ZPO # 
+### § 425 ZPO
 
 `§ 425 (1) ZPO.`  
 Sofern nach den Bestimmungen dieses Gesetzes nicht ein Urtheil zu fällen ist, erfolgen die Entscheidungen, Anordnungen und Verfügungen durch Beschluss.
@@ -302,7 +302,7 @@ An seine Beschlüsse ist das Gericht insoweit gebunden, als dieselben nicht blo�
 `§ 425 (3) ZPO.`  
 Die Vorschriften des §. 412 sind auf Beschlüsse des Gerichtes sinngemäß anzuwenden.
 
-### § 426 ZPO # 
+### § 426 ZPO
 
 `§ 426 (1) ZPO.`  
 Alle während der Verhandlung oder Beweisaufnahme vom Senate, von dem Vorsitzenden oder von einem beauftragten oder ersuchten Richter gefassten Beschlüsse sind zu verkünden. Diese Beschlüsse sind den bei der Verkündung anwesenden Parteien in schriftlicher Ausfertigung zuzustellen, wenn der Partei ein Rechtsmittel gegen den Beschluss oder das Recht zur sofortigen Executionsführung auf Grund des Beschlusses zusteht.
@@ -316,7 +316,7 @@ Soweit verkündete Beschlüsse schriftlich abzufassen sind, gilt § 414 Abs. 4
 `§ 426 (3) ZPO.`  
 Wenn die Zustellung einer schriftlichen Ausfertigung nicht zu erfolgen hat, so begründet die mündliche Verkündung die Wirkungen der Zustellung.
 
-### § 427 ZPO # 
+### § 427 ZPO
 
 `§ 427 (1) ZPO.`  
 Außerhalb der Tagsatzungen gefasste Beschlüsse sind den Parteien durch Zustellung einer schriftlichen Ausfertigung (Bescheid) bekannt zu geben.
@@ -324,7 +324,7 @@ Außerhalb der Tagsatzungen gefasste Beschlüsse sind den Parteien durch Zustell
 `§ 427 (2) ZPO.`  
 Ein Bescheid, durch welchen ein Antrag einer Partei ohne vorhergehende Vernehmung des Gegners abgewiesen wird, ist dem Gegner nur auf Ansuchen des Antragstellers zuzustellen.
 
-### § 428 ZPO # 
+### § 428 ZPO
 
 `§ 428 (1) ZPO.`  
 Beschlüsse über widerstreitende Anträge und Beschlüsse, durch welche ein Antrag abgewiesen wird, müssen begründet werden.
@@ -332,7 +332,7 @@ Beschlüsse über widerstreitende Anträge und Beschlüsse, durch welche ein Ant
 `§ 428 (2) ZPO.`  
 Hiebei sind die Anträge, über welche im Beschlusse entschieden wird, und der Sachverhalt, falls nicht beides aus dem gleichzeitig mitgetheilten Schriftsatze oder aus der Protokollsabschrift zu entnehmen ist, in die Begründung insoweit aufzunehmen, als es zum Verständnis des Ausspruches oder der Verfügung erforderlich ist.
 
-### § 429 ZPO # 
+### § 429 ZPO
 
 `§ 429 (1) ZPO.`  
 Die Urschrift des Beschlusses ist, wenn der Beschluss von einem Senate gefasst wurde, von dem Vorsitzenden, außerdem aber von dem Richter zu unterschreiben, welcher den Beschluss gefasst hat.
@@ -340,7 +340,7 @@ Die Urschrift des Beschlusses ist, wenn der Beschluss von einem Senate gefasst w
 `§ 429 (2) ZPO.`  
 Die schriftliche Ausfertigung eines Beschlusses hat auch die in §. 417, Z 1 und 2, bezeichneten Angaben zu enthalten.
 
-### § 430 ZPO # 
+### § 430 ZPO
 
 `§ 430 ZPO.`  
 In Ansehung der Ertheilung von Ausfertigungen und Auszügen, dann der Berichtigung von Beschlüssen und der Ergänzung derselben, wenn über einen Antrag der Partei theilweise nicht erkannt wurde oder wenn der beantragte Ausspruch über die Erstattung der Processkosten fehlt oder unvollständig ist, gelten die Vorschriften der §§. 418, 419, 423 und 424.

@@ -19,7 +19,7 @@
 `§ 470 ZPO.`  
 Nach dem Einlangen der Berufungsakten beim Berufungsgericht hat der mit den Verrichtungen eines Vorsitzenden des Berufungssenates betraute Richter die Berufungsakten zu prüfen.
 
-### § 471 ZPO # 
+### § 471 ZPO
 
 `§ 471 ZPO.`  
 Auf Grund dieser Prüfung ist die Berufung, ohne dass zunächst eine Tagsatzung zur mündlichen Verhandlung anberaumt würde, vor den Berufungssenat zu bringen:  
@@ -38,7 +38,7 @@ wenn der in das Urteil aufgenommene Ausspruch über die Einreden nach § 239 Ab
 `§ 471 Z 7 ZPO.`
 wenn der mit der Prüfung der Berufungsacten betraute Richter der Ansicht ist, dass das Urtheil oder das demselben vorangegangene Verfahren an einer vom Berufungswerber nicht geltend gemachten Nichtigkeit leide.
 
-### § 472 ZPO # 
+### § 472 ZPO
 
 `§ 472 (1) ZPO.`  
 Unzulässig ist die Berufung insbesondere auch dann, wenn sie von einer Person eingebracht wurde, welcher das Rechtsmittel der Berufung nicht zusteht oder welche auf die Berufung giltig Verzicht geleistet hat.
@@ -46,7 +46,7 @@ Unzulässig ist die Berufung insbesondere auch dann, wenn sie von einer Person e
 `§ 472 (2) ZPO.`  
 Die Wirksamkeit eines nach Verkündung oder Zustellung des erstrichterlichen Urtheiles erklärten Verzichtes auf das Recht der Berufung ist nicht davon abhängig, dass der Gegner die Verzichtleistung angenommen hat.
 
-### § 473 ZPO # 
+### § 473 ZPO
 
 `§ 473 (1) ZPO.`  
 Der Berufungssenat entscheidet in den Fällen des §. 471 über die Berufung in nicht öffentlicher Sitzung und ohne vorhergehende mündliche Verhandlung durch Beschluss.
@@ -71,7 +71,7 @@ Hat der Berufungsgegner zuvor schon eine Berufungsbeantwortung überreicht, so i
 `§ 473a (5) ZPO.`  
 Das Berufungsgericht kann auch in nicht öffentlicher Sitzung und ohne vorhergehende mündliche Verhandlung eine Mitteilung an den Berufungsgegner nach Abs. 1 beschließen und die erforderlichen Anordnungen treffen.
 
-### § 474 ZPO # 
+### § 474 ZPO
 
 `§ 474 (1) ZPO.`  
 Beim Vorhandensein des im §. 471, Z 1, bezeichneten Mangels hat das Gericht seine Unzuständigkeit auszusprechen und die Berufung an das für dieselbe zuständige Gericht zu verweisen.
@@ -82,7 +82,7 @@ In den Fällen des §. 471, Z 2 und 3, ist die Berufung zu verwerfen. In den F�
 `§ 474 (3) ZPO.`  
 Wenn die Berufung im Falle des §. 471, Z 4, als begründet befunden wird, ist das Urtheil aufzuheben und die Rechtssache je nach Vollendung der erstrichterlichen Verhandlung bloß zur neuerlichen Urtheilsfällung oder zur Fortsetzung der Verhandlung und Urtheilsfällung an das Processgericht erster Instanz zurückzuverweisen.
 
-### § 475 ZPO # 
+### § 475 ZPO
 
 `§ 475 (1) ZPO.`  
 Hat im Falle des § 471 Z 6 das Gericht erster Instanz mit Unrecht das Fehlen der inländischen Gerichtsbarkeit oder der sachlichen oder örtlichen Zuständigkeit ausgesprochen, die Streitanhängigkeit ohne Grund angenommen, eine Entscheidung über den Klagsanspruch mit Unrecht deshalb abgelehnt, weil über denselben bereits rechtskräftig entschieden sei oder die Unzulässigkeit des Rechtsweges vorliege, so wird dem Gericht erster Instanz vom Berufungsgericht aufgetragen, sich der Urteilsfällung in der Hauptsache oder der Verhandlung und Urteilsfällung zu unterziehen, je nachdem die erstrichterliche Entscheidung nach durchgeführter Verhandlung zur Hauptsache, oder auf Grund abgesonderter Verhandlung über das Fehlen der inländischen Gerichtsbarkeit oder der sachlichen oder örtlichen Zuständigkeit, über die Streitanhängigkeit, die Rechtskraft oder die Unzulässigkeit des Rechtsweges und vor Abschluß der Verhandlung zur Hauptsache erging.
@@ -93,7 +93,7 @@ Wurde jedoch in erster Instanz mit Unrecht die sachliche oder örtliche Zuständ
 `§ 475 (3) ZPO.`  
 Wurde vom Gerichte erster Instanz auf die Streitanhängigkeit mit Unrecht keine Rücksicht genommen oder der Antrag, die Klage ohne Verhandlung zur Hauptsache zurückzuweisen, weil über den Klagsanspruch schon rechtskräftig entschieden sei, unrichtiger Weise verworfen, so ist die Klage unter Aufhebung des ergangenen erstrichterlichen Urtheiles vom Berufungsgerichte zurückzuweisen.
 
-### § 476 ZPO # 
+### § 476 ZPO
 
 `§ 476 (1) ZPO.`  
 Wenn das angefochtene Urtheil wegen Unzuständigkeit des Gerichtes erster Instanz aufgehoben und die Rechtssache zu neuerlicher Verhandlung an das zuständige Gericht verwiesen wird, ist diese neuerliche Verhandlung auf Grund des über die erste Verhandlung aufgenommenen Verhandlungsprotokolles und aller sonstigen an das Berufungsgericht gelangten Processacten durchzuführen. Die neuerliche Verhandlung ist im Sinne des §. 138 einzuleiten.
@@ -101,7 +101,7 @@ Wenn das angefochtene Urtheil wegen Unzuständigkeit des Gerichtes erster Instan
 `§ 476 (2) ZPO.`  
 Alle von den Parteien bei der ersten Verhandlung abgelegten Geständnisse und alle sonstigen Erklärungen der Parteien behalten ihre Wirksamkeit auch für die neuerliche Verhandlung. Die Parteien können jedoch bei derselben auch solche thatsächliche Behauptungen und Beweise, Angriffs- und Vertheidigungsmittel vorbringen, welche von ihnen bei der ersten Verhandlung nicht geltend gemacht wurden; desgleichen können die Parteien die bei der früheren Verhandlung versäumten oder verweigerten Erklärungen über thatsächliche Behauptungen und Beweisanbietungen bei der späteren Verhandlung nachholen.
 
-### § 477 ZPO # 
+### § 477 ZPO
 
 `§ 477 (1) ZPO.`  
 Als nichtig (§. 471, Z 5 und 7) ist das angefochtene Urtheil und, soweit der Grund der Nichtigkeit das vorangegangene Verfahren ergreift, auch dieses aufzuheben:  
@@ -130,7 +130,7 @@ Eine nachträgliche Genehmigung der Processführung (Z 5) liegt insbesondere da
 `§ 477 (3) ZPO.`  
 Die Nichtigkeit nach Abs. 1 Z 2 liegt nicht vor, wenn an Stelle des Einzelrichters ein Senat entschieden hat.
 
-### § 478 ZPO # 
+### § 478 ZPO
 
 `§ 478 (1) ZPO.`  
 Erfolgt die Aufhebung des erstrichterlichen Urtheiles wegen Nichtigkeit, ohne dass hiedurch zur Erledigung der Sache eine weitere Verhandlung nothwendig wird (§. 477, Z 5 und 6), so ist, soweit die Nichtigkeit reicht, die Zurückweisung der Klage auszusprechen.
@@ -141,7 +141,7 @@ Wird durch die gänzliche oder theilweise Aufhebung des erstrichterlichen Urthei
 `§ 478 (3) ZPO.`  
 Wenn das erstrichterliche Urtheil wegen eines der in §. 477, Z 1 und 2, angeführten Nichtigkeitsgründe aufgehoben wird, so kann die Sache zur neuerlichen Verhandlung statt an das Processgericht erster Instanz an ein anderes im Sprengel des Berufungsgerichtes gelegenes Gericht der gleichen Art verwiesen werden.
 
-### § 479 ZPO # 
+### § 479 ZPO
 
 `§ 479 (1) ZPO.`  
 Wenn die Rechtssache gemäß §. 478 an ein Gericht erster Instanz verwiesen wird, so hat dieses die Tagsatzung zur mündlichen Verhandlung von amtswegen anzuberaumen. Mit der Anberaumung der Tagsatzung ist jedoch bis nach Eintritt der Rechtskraft der Entscheidung des Berufungsgerichtes zu warten, wenn letzteres ausgesprochen hat, dass das Verfahren in erster Instanz erst nach eingetretener Rechtskraft der Berufungsentscheidung aufzunehmen oder fortzusetzen sei. Ein solcher Ausspruch kann von amtswegen oder auf Antrag erfolgen; gegen denselben ist ein abgesondertes Rechtsmittel nicht zulässig.
@@ -159,7 +159,7 @@ Der Berufungsenat entscheidet, wie das Berufungsgericht im weiteren Verfahren zu
 
 ## Anberaumung der Berufungsverhandlung.
 
-### § 480 ZPO # 
+### § 480 ZPO
 
 `§ 480 (1) ZPO.`  
 Fehlt es an den Voraussetzungen für die Einholung einer Entscheidung des Berufungssenates oder wurde vom Berufungssenat die Berufungsschrift als zur Bestimmung einer Tagsatzung zur mündlichen Berufungsverhandlung geeignet befunden, so ist eine mündliche Verhandlung über die Berufung anzuberaumen, wenn der Berufungssenat dies im einzelnen Fall, so etwa wegen der Komplexität der zu entscheidenden Rechtssache, für erforderlich hält; sonst erfolgt die Entscheidung über die Berufung in nicht öffentlicher Sitzung ohne vorhergehende mündliche Verhandlung. Die Tagsatzung zur mündlichen Berufungsverhandlung ist vom Vorsitzenden des Berufungssenats so anzuberaumen, dass zwischen der Zustellung der Ladung an die Parteien und der Tagsatzung ungefähr der Zeitraum von 14 Tagen liegt. In dringenden Fällen kann diese Frist auch abgekürzt werden.
@@ -170,14 +170,14 @@ Gleiches gilt, wenn die wegen irriger Annahme einer Versäumung, wegen Unzustän
 `§ 480 (3) ZPO.`  
 Haben die Parteien bereits die im Berufungsverfahren sie vertretenden Rechtsanwälte namhaft gemacht, so ist die Ladung zur mündlichen Verhandlung an letztere zu richten.
 
-### § 481 ZPO # 
+### § 481 ZPO
 
 `§ 481 ZPO.`  
 Zeigt sich schon bei Anberaumung der Tagsatzung die Nothwendigkeit, in der Berufungsverhandlung die Wahrheit einzelner in der Berufungsschrift oder in einem vorbereitenden Schriftsatze angeführter Thatsachen, auf welche die Berufung gegründet wird, festzustellen, schon in erster Instanz vorgebrachte Beweise zu wiederholen, zu ergänzen oder bisher bloß angebotene Beweise aufzunehmen, so hat der Vorsitzende des Berufungssenates die namhaft gemachten Zeugen oder die in erster Instanz einvernommenen Sachverständigen zur Berufungsverhandlung vorzuladen, die Parteien behufs ihrer eidlichen Vernehmung zum Erscheinen aufzufordern und die Herbeischaffung aller sonstigen Beweismittel zu veranlassen.
 
 ## Mündliche Berufungsverhandlung.
 
-### § 482 ZPO # 
+### § 482 ZPO
 
 `§ 482 (1) ZPO.`  
 In der Verhandlung vor dem Berufungsgerichte darf mit Ausnahme des Anspruches auf Erstattung der Kosten des Berufungsverfahrens weder ein neuer Anspruch, noch eine neue Einrede erhoben werden.
@@ -185,7 +185,7 @@ In der Verhandlung vor dem Berufungsgerichte darf mit Ausnahme des Anspruches au
 `§ 482 (2) ZPO.`  
 Thatumstände und Beweise, die nach Inhalt des Urteils und der sonstigen Prozeßakten in erster Instanz nicht vorgekommen sind, dürfen von den Parteien im Berufungsverfahren nur zur Darthuung oder Widerlegung der geltend gemachten Berufungsgründe vorgebracht werden; auf solches neues Vorbringen darf überdies nur dann Rücksicht genommen werden, wenn es vorher im Wege der Berufungsschrift oder der Berufungsbeantwortung (§. 468) dem Gegner mitgetheilt wurde.
 
-### § 483 ZPO # 
+### § 483 ZPO
 
 `§ 483 (1) ZPO.`  
 In der mündlichen Verhandlung dürfen die Berufungsanträge ohne Einwilligung des Gegners weder erweitert, noch durch andere ersetzt werden. Das Gleiche gilt von den in der Berufungsschrift angegebenen Berufungsgründen.
@@ -207,7 +207,7 @@ In Ehesachen (§ 49 Abs. 2 Z 2a JN) gilt § 483 Abs. 3 letzter Satz mit der
 `§ 483a (2) ZPO.`  
 Im Verfahren über die Nichtigerklärung oder die Feststellung des Bestehens oder Nichtbestehens einer Ehe sind die §§ 482 sowie 483 Abs. 1, 2 und 4 nicht anzuwenden.
 
-### § 484 ZPO # 
+### § 484 ZPO
 
 `§ 484 (1) ZPO.`  
 Die Zurücknahme der Berufung ist bis zum Schlusse der mündlichen Berufungsverhandlung zulässig. Sie kann bei der mündlichen Verhandlung erklärt werden oder mittels Überreichung eines Schriftsatzes beim Berufungsgerichte erfolgen. Wird der Schriftsatz noch vor Beginn der mündlichen Berufungsverhandlung überreicht, so kann der Vorsitzende des Senates als Einzelrichter anordnen, daß es von der anberaumten Tagsatzung abzukommen habe.
@@ -218,12 +218,12 @@ Die Zurücknahme hat nebst dem Verluste des Rechtsmittels auch die Verpflichtung
 `§ 484 (3) ZPO.`  
 Über die Verpflichtung zum Kostenersatze ist vom Berufungsgerichte, wenn aber der Vorsitzende des Senates angeordnet hat, daß es von der anberaumten Tagsatzung abzukommen habe (Absatz 1), vom Vorsitzenden als Einzelrichter durch Beschluß zu entscheiden. Im ersten Falle kann die Festsetzung des Kostenbetrages einem Senatsmitgliede übertragen werden. Der Antrag ist bei sonstigem Ausschluß bei der mündlichen Berufungsverhandlung, wenn aber eine solche nicht abgehalten worden ist, binnen einer Notfrist von vier Wochen nach Verständigung des Berufungsgegners von der Zurücknahme der Berufung durch das Gericht zu stellen.
 
-### § 485 ZPO # 
+### § 485 ZPO
 
 `§ 485 ZPO.`  
 Die Verhandlung über die Berufung gegen ein Urtheil, dessen Ergänzung gemäß §. 423 beantragt wurde, kann auf Antrag ausgesetzt werden, bis entweder das Ergänzungsurtheil ohne Berufung in Rechtskraft erwachsen oder auch die Berufung gegen das Ergänzungsurtheil an das Berufungsgericht gelangt ist. Im letzteren Falle ist die Verhandlung über beide Berufungen zu verbinden.
 
-### § 486 ZPO # 
+### § 486 ZPO
 
 `§ 486 (1) ZPO.`  
 Die mündliche Berufungsverhandlung beginnt nach dem Aufrufe der Sache mit dem Vortrage eines Mitgliedes des Berufungssenates als Berichterstatter.
@@ -237,7 +237,7 @@ Sodann sind die Anträge der Parteien und der durch die Berufung getroffene Thei
 `§ 486 (4) ZPO.`  
 Hierauf werden die Parteien mit ihren Vorträgen gehört. Stimmt der Vortrag einer Partei mit dem Inhalte der Processacten nicht überein, so hat der Vorsitzende darauf aufmerksam zu machen.
 
-### § 488 ZPO # 
+### § 488 ZPO
 
 `§ 488 (1) ZPO.`  
 Der Berufungssenat kann nicht bloß die zur Unterstützung oder Bekämpfung der Berufungsgründe dienenden Beweise aufnehmen, sondern, wenn dies behufs Entscheidung über die Berufungsanträge nothwendig erscheint, auch eine bereits in erster Instanz erfolgte Beweisaufnahme wiederholen oder ergänzen, und im erstrichterlichen Verfahren von den Parteien erfolglos angebotene Beweise nachträglich aufnehmen.
@@ -251,7 +251,7 @@ Wurde in erster Instanz ein Sachverständigenbeweis geführt, so kann der Berufu
 `§ 488 (4) ZPO.`  
 Erwägt das Berufungsgericht von den Feststellungen des Erstgerichts abzuweichen, so darf es nur dann von der neuerlichen Aufnahme eines in erster Instanz unmittelbar aufgenommenen Beweises Abstand nehmen und sich mit der Verlesung des Protokolls hierüber begnügen, wenn es vorher den Parteien bekanntgegeben hat, daß es gegen die Würdigung dieses Beweises durch das Erstgericht Bedenken habe, und ihnen Gelegenheit gegeben hat, eine neuerliche Aufnahme dieses Beweises durch das Berufungsgericht zu beantragen.
 
-### § 489 ZPO # 
+### § 489 ZPO
 
 `§ 489 ZPO.`  
 *(Anm.: Abs. 1 aufgehoben durch Art. IV Z 89, BGBl. Nr. 135/1983)*
@@ -262,17 +262,17 @@ Wird vom Berufungssenate die neuerliche eidliche Einvernehmung einer bereits in 
 `§ 489 (3) ZPO.`  
 Das Berufungsgericht kann die eidliche Vernehmung einer Partei, welche in erster Instanz die Vernehmung oder die eidliche Aussage verweigert hat, nur dann anordnen, wenn es die Überzeugung gewonnen hat, dass die Partei genügende Gründe hatte, die Vernehmung zu verweigern, und dass diese Gründe seither weggefallen sind.
 
-### § 490 ZPO # 
+### § 490 ZPO
 
 `§ 490 ZPO.`  
 Das Berufungsgericht hat auf Antrag noch vor Entscheidung über die Berufung durch Beschluss auszusprechen, inwieweit das Urtheil der unteren Instanz als nicht angefochten zur Execution geeignet ist. Gegen diesen Beschluss ist ein abgesondertes Rechtsmittel nicht zulässig.
 
-### § 491 ZPO # 
+### § 491 ZPO
 
 `§ 491 ZPO.`  
 Im Fall des Ausbleibens einer Partei ist über die Berufung dennoch zu verhandeln und mit Berücksichtigung des in der Berufungsschrift und einer etwa erstatteten Berufungsbeantwortung Vorgebrachten zu entscheiden. Ob ein neues Vorbringen (§. 482 Absatz 2) als zugestanden oder als bestritten anzusehen sei, hat das Berufungsgericht unter Berücksichtigung des angefochtenen Urtheiles und aller sonstigen Processacten erster und zweiter Instanz zu entscheiden.
 
-### § 493 ZPO # 
+### § 493 ZPO
 
 `§ 493 (1) ZPO.`  
 In das Protokoll über die mündliche Berufungsverhandlung ist der Inhalt des thatsächlichen Vorbringens und der Beweisanbietungen der Parteien nur insoweit aufzunehmen, als derselbe von den Angaben der erstrichterlichen Processacten über den Verhandlungsinhalt abweicht.

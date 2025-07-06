@@ -73,7 +73,7 @@ Eine Partei, der in einem anderen Mitgliedstaat der Europäischen Union für ein
 `§ 64b ZPO.`  
 Zur außergerichtlichen Streitbeilegung in nachbarrechtlichen Streitigkeiten nach § 364 Abs. 3 ABGB wird Verfahrenshilfe für den Antrag nach § 433 Abs. 1 gewährt. Diese umfasst die Begünstigungen nach § 64 Abs. 1 Z 1 und 5.
 
-### § 65 ZPO # 
+### § 65 ZPO
 
 `§ 65 (1) ZPO.`  
 Die Verfahrenshilfe ist beim Prozeßgericht erster Instanz schriftlich oder zu Protokoll zu beantragen. Hat das Prozessgericht seinen Sitz außerhalb des Bezirksgerichtssprengels, in dem die Partei ihren Aufenthalt hat, so kann sie den Antrag beim Bezirksgericht ihres Aufenthalts zu Protokoll erklären; im Fall des § 64 Abs. 1 Z 4 kann sie gemeinsam mit diesem Antrag die Klage, den Widerspruch gegen ein Versäumungsurteil oder den Einspruch gegen einen Zahlungsbefehl zu Protokoll erklären.

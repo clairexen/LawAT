@@ -14,7 +14,7 @@
 
 ## Übertragung des Vollzuges von Amtshandlungen an andere Gerichte
 
-### § 36 JN # 
+### § 36 JN
 
 `§ 36 (1) JN.`  
 Der Vollzug von Amtshandlungen, die ein Landes-, Handelsgericht oder ein Handels- und Seegericht gemäß § 32 Abs. 1 selbst vorzunehmen hätte, ist einem im Sprengel dieses Gerichtshofes gelegenen Bezirksgerichte zu übertragen, wenn dies entweder durch besondere gesetzliche Vorschriften angeordnet ist, oder wenn dadurch die Behandlung der Sache erleichtert oder unnützer Kostenaufwand vermieden werden kann. Wegen des Vollzuges der außerhalb seines Sprengels vorzunehmenden Amtshandlungen (Rechtshilfe) hat sich das Gericht, bei welchem die Rechtssache anhängig ist, an das Gericht zu wenden, bei welchem oder in dessen Sprengel die Handlung vorzunehmen ist.
@@ -27,7 +27,7 @@ Um die Aufnahme eines Beweises darf ein Landes- oder Handelsgericht ein Bezirksg
 
 ## Rechtshilfe auf Ersuchen inländischer Gerichte.
 
-### § 37 JN # 
+### § 37 JN
 
 `§ 37 (1) JN.`  
 Die im Geltungsgebiete dieses Gesetzes befindlichen Gerichte haben sich gegenseitig Rechtshilfe zu leisten.
@@ -54,7 +54,7 @@ Gerichte sind nur insoweit zur Amtshilfe durch Übermittlung von Gerichtsakten o
 
 ## Rechtshilfe auf Ersuchen ausländischer Gerichte.
 
-### § 38 JN # 
+### § 38 JN
 
 `§ 38 (1) JN.`  
 Die im Geltungsgebiete dieses Gesetzes befindlichen Gerichte haben ausländischen Gerichten über Ersuchen Rechtshilfe zu leisten, sofern nicht besondere hierauf bezügliche Anordnungen (Staatsverträge, Regierungserklärungen, Ministerialverordnungen) etwas anderes festsetzen.
@@ -67,7 +67,7 @@ wenn die von dem ersuchenden Gerichte begehrte Handlung nach den im Inlande hief
 wenn die Vornahme einer Handlung begehrt wird, welche durch die für das inländische Gericht verbindlichen Gesetze verboten ist.  
 *(Anm.: Z 3 aufgehoben durch Art. II Z 10 BGBl. Nr. 135/1983.)*
 
-### § 39 JN # 
+### § 39 JN
 
 `§ 39 (1) JN.`  
 Die begehrte Rechtshilfe ist nach den Vorschriften der für das ersuchte Gericht verbindlichen Gesetze zu gewähren. Soweit es nach diesen Gesetzen zulässig ist, hat das ersuchte Gericht alle zur Erfüllung des Ersuchens erforderlichen Vorkehrungen und Verfügungen von amtswegen zu treffen.
@@ -105,7 +105,7 @@ so hat dieses Gericht die Beweisaufnahme insofern zu untersagen.
 `§ 39a (4) JN.`  
 Das nach § 37 Abs. 2 zuständige Gericht hat auf Ersuchen des ausländischen Gerichtes bei der Durchführung der Beweisaufnahme tatsächliche Unterstützung zu gewähren.
 
-### § 40 JN # 
+### § 40 JN
 
 `§ 40 JN.`  
 Wird die Gewährung der Rechtshilfe von dem ersuchten Gerichte verweigert, oder entstehen aus Anlaß der Gewährung der Rechtshilfe in Bezug auf deren Ausführung oder in anderer Hinsicht Meinungsverschiedenheiten zwischen dem ersuchenden und dem ersuchten Gerichte, so hat auf Begehren des ersuchenden ausländischen Gerichtes oder eines anderen hiezu berufenen ausländischen öffentlichen Organes das dem ersuchten Gerichte vorgesetzte Oberlandesgericht ohne vorhergehende mündliche Verhandlung über die Rechtmäßigkeit der Weigerung oder über den sonstigen Gegenstand der Meinungsverschiedenheit zu entscheiden.
@@ -117,7 +117,7 @@ In welchem Verfahren eine Rechtssache zu behandeln und zu erledigen ist, richtet
 
 ## Prüfung der Zuständigkeit.
 
-### § 41 JN # 
+### § 41 JN
 
 `§ 41 (1) JN.`  
 Sobald eine Rechtssache der streitigen oder freiwilligen Gerichtsbarkeit bei einem Gerichte anhängig wird, hat dasselbe seine Zuständigkeit von amtswegen zu prüfen.
@@ -128,7 +128,7 @@ Diese Prüfung erfolgt in bürgerlichen Streitsachen auf Grund der Angaben des K
 `§ 41 (3) JN.`  
 In nicht streitigen bürgerlichen Rechtssachen jedoch, ferner im Executionsverfahren, sowie bei Erlassung einstweiliger Verfügungen und bei Eröffnung eines Insolvenzverfahrens hat das Gericht, ohne an die Angaben der Parteien gebunden zu sein, die für die Zuständigkeit maßgebenden Verhältnisse von amtswegen zu untersuchen. Es kann zu diesem Zwecke von den Betheiligten alle nöthigen Aufklärungen fordern.
 
-### § 42 JN # 
+### § 42 JN
 
 `§ 42 (1) JN.`  
 Ist die anhängig gewordene Rechtssache der inländischen Gerichtsbarkeit oder doch den ordentlichen Gerichten entzogen, so hat das angerufene Gericht in jeder Lage des Verfahrens seine Unzuständigkeit und die Nichtigkeit des vorangegangenen Verfahrens sofort durch Beschluß auszusprechen; dies gilt nicht, wenn das Fehlen der inländischen Gerichtsbarkeit nach § 104 geheilt ist. Das Gleiche hat seitens der Gerichte höherer Instanz zu geschehen, wenn der Mangel erst hier offenbar wird.
@@ -142,7 +142,7 @@ Ein Ausspruch im Sinne des Absatzes 1 und 2 kann nicht erfolgen, wenn demselben 
 `§ 42 (4) JN.`  
 Die Bestimmungen des Absatzes 1 und 3 haben auch Anwendung zu finden, wenn eine Angelegenheit, welche einen Gegenstand der freiwilligen Gerichtsbarkeit nicht bildet, im Verfahren außer Streitsachen bei Gericht anhängig gemacht wurde.
 
-### § 43 JN # 
+### § 43 JN
 
 `§ 43 (1) JN.`  
 Hält sich das angerufene Gericht aus anderen als den im §. 42 angeführten Gründen für unzuständig (§. 41, Absatz 2), so ist die Klage von amtswegen zurückzuweisen. Sobald jedoch über die Klage die Tagsatzung zur mündlichen Verhandlung bestimmt, die Beantwortung der Klage aufgetragen oder ein bedingter Zahlungsbefehl erlassen worden ist, kann sich das Gericht nur dann für unzuständig erklären, wenn  
@@ -157,7 +157,7 @@ Dieser Ausspruch erfolgt mittels Beschluss.
 `§ 43 (3) JN.`  
 Wenn über die Streitsache der Einzelrichter eines Gerichtshofes zu entscheiden hat (§ 7a), kann die Einrede der Unzuständigkeit nicht darauf gestützt werden, daß für die Streitsache ein anderer Gerichtshof sachlich zuständig ist. Ebenso kann in Streitsachen, die vor ein Bezirksgericht gehören, die Einrede der Unzuständigkeit nicht darauf gestützt werden, daß für die Streitsache ein anderes Bezirksgericht sachlich zuständig ist.
 
-### § 44 JN # 
+### § 44 JN
 
 `§ 44 (1) JN.`  
 Ist für eine zur nichtstreitigen Gerichtsbarkeit gehörige Rechtssache, ferner im Exekutionsverfahren, im Verfahren bei Erlassung einstweiliger Verfügungen sowie im Insolvenzverfahren ein anderes als das angerufene Gericht sachlich oder örtlich zuständig, so hat letzteres seine Unzuständigkeit in jeder Lage des Verfahrens von Amts wegen oder auf Antrag durch Beschluß auszusprechen und, sofern ihm die Bestimmung des zuständigen Gerichts nach den Verhältnissen des einzelnen Falles möglich ist, die Rechtssache an das örtlich oder sachlich zuständige Gericht zu überweisen.
@@ -173,7 +173,7 @@ Das Gericht, welches seine Unzuständigkeit ausgesprochen hat, ohne einen Überw
 `§ 45 JN.`  
 Nach Eintritt der Streitanhängigkeit getroffenen Entscheidungen, mit denen ein Gericht seine sachliche Zuständigkeit bejaht, sind nicht anfechtbar, solche, mit denen es seine sachliche Unzuständigkeit ausspricht, nur dann, wenn das Gericht, das nach dieser Entscheidung sachlich zuständig wäre, seinen Sitz nicht in derselben Gemeinde hat.
 
-### § 46 JN # 
+### § 46 JN
 
 `§ 46 (1) JN.`  
 Ist die Unzuständigkeit eines Gerichtes auf Grund der Bestimmungen über die sachliche Zuständigkeit der Gerichte rechtskräftig ausgesprochen, so ist diese Entscheidung für jedes Gericht bindend, bei welchem die Rechtssache in der Folge anhängig wird.
@@ -186,7 +186,7 @@ Der nämliche Grundsatz hat zur Anwendung zu kommen, wenn die Rechtssache von ei
 
 ## Streitigkeiten über die Zuständigkeit zwischen inländischen Gerichten.
 
-### § 47 JN # 
+### § 47 JN
 
 `§ 47 (1) JN.`  
 Streitigkeiten zwischen verschiedenen Gerichten erster Instanz über die Zuständigkeit für eine bestimmte Rechtssache sind von dem diesen Gerichten zunächst übergeordneten gemeinsamen höheren Gerichte zu entscheiden.
@@ -202,7 +202,7 @@ Das zur Entscheidung berufene höhere Gericht kann alle Verfügungen treffen, we
 
 ## Zweiter Theil. # Von der Gerichtsbarkeit in Streitsachen. # Erster Abschnitt. # Bezirksgerichte.
 
-### § 49 JN # 
+### § 49 JN
 
 `§ 49 (1) JN.`  
 Vor die Bezirksgerichte gehören Streitigkeiten über vermögensrechtliche Ansprüche einschließlich der zum Mandatsverfahren gehörigen Streitigkeiten, wenn der Streitgegenstand an Geld oder Geldeswert den Betrag von 15 000 Euro nicht übersteigt, und diese Streitigkeiten nicht ihrer Beschaffenheit nach ohne Rücksicht auf den Wert des Streitgegenstandes Gerichtshöfen erster Instanz zugewiesen sind.
@@ -243,7 +243,7 @@ Zum Wirkungskreise der Bezirksgerichte gehören auch die Verfügungen über geri
 
 ## Gerichtshöfe erster Instanz.
 
-### § 50 JN # 
+### § 50 JN
 
 `§ 50 JN.`  
 Vor die Gerichtshöfe erster Instanz gehören alle bürgerlichen Rechtsstreitigkeiten, welche nicht den Bezirksgerichten zugewiesen sind.
@@ -285,7 +285,7 @@ Streitigkeiten, die sich auf die Seeschiffe und Seefahrt beziehen, sowie aus all
 `§ 51 (3) JN.`  
 Wo ein selbständiges Handelsgericht nicht besteht, wird die Gerichtsbarkeit in allen vorgenannten Rechtsstreitigkeiten durch die Handelssenate der Landesgerichte ausgeübt.
 
-### § 52 JN # 
+### § 52 JN
 
 `§ 52 (1) JN.`  
 An Orten, an denen ein selbständiges Handelsgericht und Bezirksgerichte für Handelssachen bestehen, gehören die im § 51 Abs. 1 angeführten Streitigkeiten, bei denen der Streitgegenstand an Geld oder Geldeswert die Summe von 15 000 Euro nicht übersteigt, vor die Bezirksgerichte für Handelssachen.
@@ -300,7 +300,7 @@ Für Streitigkeiten über die Verletzung von gewerblichen Schutzrechten ist das 
 
 ## Wert des Streitgegenstandes.
 
-### § 54 JN # 
+### § 54 JN
 
 `§ 54 (1) JN.`  
 Für die Berechnung des für die Zuständigkeit maßgebenden Wertes des Streitgegenstandes ist der Zeitpunkt der Anbringung der Klage entscheidend.
@@ -326,7 +326,7 @@ Wird nur ein Teil einer Kapitalsforderung begehrt, so ist der Gesamtbetrag der n
 `§ 55 (4) JN.`  
 Die Abs. 1 bis 3 sind auch für die Besetzung des Gerichts (§ 7a), die Zulässigkeit von Rechtsmitteln und die Berufungsgründe (§ 501 ZPO) maßgebend.
 
-### § 56 JN # 
+### § 56 JN
 
 `§ 56 (1) JN.`  
 Erbietet sich der Kläger an Stelle der angesprochenen Sache eine bestimmte Geldsumme anzunehmen oder stellt er ein alternatives Begehren auf Zuerkennung einer Geldsumme, so ist die in der Klage angegebene Geldsumme für die Beurtheilung der Zuständigkeit und für die Besetzung des Gerichtes (§ 7a) maßgebend.
@@ -337,12 +337,12 @@ In allen anderen Fällen hat der Kläger den Wert eines nicht in einem Geldbetra
 `§ 56 (3) JN.`  
 Bei der Bewertung des Streitgegenstandes sind die dem Kläger etwa obliegenden Gegenleistungen nicht in Abzug zu bringen.
 
-### § 57 JN # 
+### § 57 JN
 
 `§ 57 JN.`  
 Bei Streitigkeiten, welche nur die Sicherstellung einer Forderung oder ein Pfandrecht zum Gegenstande haben, ist der Betrag der Forderung, oder wenn der Pfandgegenstand einen geringeren Wert hat, dessen Wert für die Bewertung des Streitgegenstandes maßgebend.
 
-### § 58 JN # 
+### § 58 JN
 
 `§ 58 (1) JN.`  
 Als Wert des Rechtes auf den Bezug von Zinsen, Renten, Früchten oder anderen wiederkehrenden Nutzungen und Leistungen ist bei immerwährender Dauer das Zwanzigfache, bei unbestimmter oder auf Lebenszeit beschränkter Dauer das Zehnfache, sofern es sich um Ansprüche auf Unterhalts- oder Versorgungsbeträge und auf Zahlung von Renten wegen Körperbeschädigung oder Tötung eines Menschen handelt, das Dreifache der Jahresleistung, bei bestimmter Dauer aber der Gesamtbetrag der künftigen Bezüge, jedoch in keinem Fall mehr als das Zwanzigfache der Jahresleistung anzunehmen.
@@ -350,7 +350,7 @@ Als Wert des Rechtes auf den Bezug von Zinsen, Renten, Früchten oder anderen wi
 `§ 58 (2) JN.`  
 Ist das Bestehen eines Pacht- oder Mietverhältnisses streitig, so ist der Betrag des auf die gesammte streitige Zeit fallenden Zinses der Bewertung zugrunde zu legen.
 
-### § 59 JN # 
+### § 59 JN
 
 `§ 59 JN.`  
 Bei Klagen auf Vornahme von Arbeiten oder anderen persönlichen Leistungen, auf Duldung oder Unterlassung, auf Abgabe von Willenserklärungen ist die vom Kläger angegebene Höhe seines Interesses als Wert des Streitgegenstandes anzusehen.
@@ -360,7 +360,7 @@ Bei Klagen auf Vornahme von Arbeiten oder anderen persönlichen Leistungen, auf 
 `§ 59a JN.`  
 Bei Klagen auf Unterlassung nach § 549 ZPO gilt der Betrag von 5 000 Euro als Streitwert.
 
-### § 60 JN # 
+### § 60 JN
 
 `§ 60 (1) JN.`  
 Erscheint bei einer Klage, welche bei einem Gerichtshofe erster Instanz angebracht wurde, die vom Kläger angegebene Summe, zu deren Annahme an Stelle der angesprochenen Sache er sich erboten hat (§ 56 Absatz 1), oder die im Sinne des §. 56 Absatz 2 erfolgte Bewertung des Streitgegenstandes übermäßig hoch gegriffen, so kann das Gericht, wenn es zugleich wahrscheinlich ist, dass bei richtigerer Bewertung des Streitgegenstandes dieser die für die Zuständigkeit des Gerichtshofes oder für die Besetzung des Gerichtes (§ 7a) maßgebende Wertgrenze nicht erreichen dürfte, von amtswegen die ihm zur Prüfung der Richtigkeit der Wertangabe nöthig erscheinenden Erhebungen und insbesondere die Einvernehmung der Parteien, die Vornahme eines Augenscheines und, wenn es ohne erheblichen Kostenaufwand und ohne besondere Verzögerung geschehen kann, auch die Begutachtung durch Sachverständige anordnen. Dies kann erforderlichenfalls auch schon vor Anberaumung der mündlichen Verhandlung geschehen.

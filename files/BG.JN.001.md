@@ -16,14 +16,14 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 ## Erster Theil. # Von der Gerichtsbarkeit im allgemeinen. # Erster Abschnitt. # Gerichte und gerichtliche Organe. # Ordentliche Gerichte.
 
-### § 1 JN # 
+### § 1 JN
 
 `§ 1 JN.`  
 Die Gerichtsbarkeit in bürgerlichen Rechtssachen wird, soweit dieselben nicht durch besondere Gesetze vor andere Behörden oder Organe verwiesen sind, durch Bezirksgerichte, Bezirksgerichte für Handelssachen, Landesgerichte, Handelsgerichte, durch Oberlandesgerichte und durch den Obersten Gerichtshof (ordentliche Gerichte) ausgeübt.
 
 ## Instanzenverhältnis der Gerichte.
 
-### § 2 JN # 
+### § 2 JN
 
 `§ 2 (1) JN.`  
 In erster Instanz sind zur Ausübung dieser Gerichtsbarkeit die Bezirksgerichte, die Landesgerichte und die Handelsgerichte berufen.
@@ -31,7 +31,7 @@ In erster Instanz sind zur Ausübung dieser Gerichtsbarkeit die Bezirksgerichte,
 `§ 2 (2) JN.`  
 Besondere Bezirksgerichte für Handelssachen werden zur Ausübung der Gerichtsbarkeit in Handelssachen an allen Orten errichtet, in welchen ein selbständiges Handelsgericht besteht. Durch Verordnung können auch an anderen Orten solche Bezirksgerichte für Handelssachen errichtet werden.
 
-### § 3 JN # 
+### § 3 JN
 
 `§ 3 (1) JN.`  
 Der Rechtszug gegen Urteile und Beschlüsse der Bezirksgerichte (Berufung, Rekurs) geht in zweiter Instanz an die Landesgerichte. Im Sprengel eines selbständigen Handelsgerichtes geht aber der Rechtszug gegen Urteile und Beschlüsse eines besonderen Bezirksgerichtes für Handelssachen und gegen die in Ausübung der Gerichtsbarkeit in Handelssachen gefällten, entsprechend bezeichneten (§ 446 ZPO.) Urteile eines anderen Bezirksgerichtes an das Handelsgericht.
@@ -39,14 +39,14 @@ Der Rechtszug gegen Urteile und Beschlüsse der Bezirksgerichte (Berufung, Rekur
 `§ 3 (2) JN.`  
 In dritter Instanz hat über Rechtsmittel gegen Urtheile und Beschlüsse der Bezirksgerichte (Revision, Recurs) der Oberste Gerichtshof zu entscheiden.
 
-### § 4 JN # 
+### § 4 JN
 
 `§ 4 JN.`  
 Gegen die in erster Instanz von den Landesgerichten, sowie von den Handelsgerichten gefällten Urtheile und Beschlüsse geht der Rechtsgang in zweiter Instanz (Berufung, Recurs) an die Oberlandesgerichte, und in dritter Instanz (Revision, Recurs) an den Obersten Gerichtshof.
 
 ## Ausübung der Gerichtsbarkeit bei den ordentlichen Gerichten
 
-### § 5 JN # 
+### § 5 JN
 
 `§ 5 (1) JN.`  
 Bei den Bezirksgerichten wird die Gerichtsbarkeit durch einen oder mehrere Einzelrichter ausgeübt.
@@ -77,7 +77,7 @@ In Angelegenheiten der außerstreitigen Gerichtsbarkeit, über Anträge auf Erla
 `§ 7a (4) JN.`  
 Besondere Vorschriften, die die Entscheidung des Gerichtshofs erster Instanz durch den Senat vorsehen, bleiben durch die in den Abs. 1 und 2 getroffene Regelung unberührt.
 
-### § 8 JN # 
+### § 8 JN
 
 `§ 8 (1) JN.`  
 Bei den Oberlandesgerichten wird die Gerichtsbarkeit in bürgerlichen Rechtssachen, sofern nicht durch die Vorschriften über die innere Einrichtung und die Geschäftsordnung der Gerichte etwas anderes angeordnet ist, in Senaten von drei Richtern ausgeübt, von denen einer den Vorsitz führt.
@@ -95,7 +95,7 @@ Bei den Landes- und Handelsgerichten sowie den Oberlandesgerichten entscheidet �
 
 ## Berathung und Abstimmung.
 
-### § 9 JN # 
+### § 9 JN
 
 `§ 9 (1) JN.`  
 Bei den vor Gerichtshöfen stattfindenden Verhandlungen in bürgerlichen Rechtssachen und bei allen in solchen Rechtssachen vorkommenden, dem Gerichte vorbehaltenen Entscheidungen darf die Zahl der Stimmführer in den Senaten mit Einschluß des Vorsitzenden nicht kleiner sein, als sie in den §§. 7 und 8 festgesetzt ist.
@@ -103,7 +103,7 @@ Bei den vor Gerichtshöfen stattfindenden Verhandlungen in bürgerlichen Rechtss
 `§ 9 (2) JN.`  
 Zu Verhandlungen von längerer Dauer können vom Vorsitzenden Ergänzungsrichter zugezogen werden, welche an der Verhandlung theilnehmen und im Falle der Verhinderung eines Mitgliedes des Senates einzutreten haben.
 
-### § 10 JN # 
+### § 10 JN
 
 `§ 10 (1) JN.`  
 Der Vorsitzende leitet die Abstimmung, sowie die der Abstimmung etwa vorausgehende Berathung.
@@ -111,7 +111,7 @@ Der Vorsitzende leitet die Abstimmung, sowie die der Abstimmung etwa vorausgehen
 `§ 10 (2) JN.`  
 Der Berichterstatter, wenn ein solcher bestellt ist, gibt seine Stimme zuerst, der Vorsitzende, welcher sich an der Abstimmung gleich jedem anderen Senatsmitgliede zu betheiligen hat, gibt die seine zuletzt ab. Außerdem stimmen die dem Dienstrange nach älteren Richter vor den jüngeren. Der fachkundige Laienrichter hat seine Stimme unmittelbar nach dem Berichterstatter, und wenn kein solcher bestellt ist, vor den übrigen Senatsmitgliedern abzugeben.
 
-### § 11 JN # 
+### § 11 JN
 
 `§ 11 (1) JN.`  
 Kein Richter darf die Abstimmung über eine zur Beschlußfassung gestellte Frage verweigern; dies gilt namentlich auch dann, wenn er bei der Abstimmung über eine Vorfrage in der Minderheit geblieben ist.
@@ -119,7 +119,7 @@ Kein Richter darf die Abstimmung über eine zur Beschlußfassung gestellte Frage
 `§ 11 (2) JN.`  
 Über die Zuständigkeit des Gerichtes, über die Nothwendigkeit von Ergänzungen des Verfahrens und andere Vorfragen muß immer zuerst abgestimmt werden. Ist bei der Entscheidung der Hauptsache über mehrere Ansprüche zu erkennen, so muß über jeden einzelnen Anspruch besonders abgestimmt werden.
 
-### § 12 JN # 
+### § 12 JN
 
 `§ 12 (1) JN.`  
 Zu jedem Beschlusse des Gerichtes wird absolute Stimmenmehrheit, das ist mehr als die Hälfte sämmtlicher Stimmen, erfordert.
@@ -130,12 +130,12 @@ Ergeben sich hiebei Schwierigkeiten, welche durch Theilung der Fragen und Wieder
 `§ 12 (3) JN.`  
 Bilden sich in Beziehung auf Summen, über welche Beschluß zu fassen ist, mehr als zwei Meinungen, deren keine die Mehrheit für sich hat, so werden die für die größte Summe abgegebenen Stimmen den für die zunächst geringere Summe abgegebenen so lange hinzugezählt, bis sich eine absolute Stimmenmehrheit ergibt.
 
-### § 13 JN # 
+### § 13 JN
 
 `§ 13 JN.`  
 Über Meinungsverschiedenheiten, welche über die Richtigkeit des vom Vorsitzenden bekanntgegebenen Ergebnisses einer Abstimmung entstehen, entscheidet der Senat.
 
-### § 14 JN # 
+### § 14 JN
 
 `§ 14 JN.`  
 Die Aufzeichnungen über die Berathung und Abstimmung des Gerichtes sind in ein besonderes Protokoll aufzunehmen. Dessen Führung wird durch die über die innere Einrichtung und Geschäftsordnung der Gerichte erlassenen Vorschriften geregelt.
@@ -224,7 +224,7 @@ Nach Einlangen der Vorschläge der zuständigen Wirtschaftskammer hat der Person
 
 ## Zweiter Abschnitt. # Ablehnung von Richtern und anderen gerichtlichen Organen. # Ablehnung von Richtern.
 
-### § 19 JN # 
+### § 19 JN
 
 `§ 19 JN.`  
 Ein Richter kann in bürgerlichen Rechtssachen abgelehnt werden:  
@@ -233,7 +233,7 @@ weil er im gegebenen Falle nach dem Gesetze von der Ausübung richterlicher Gesc
 `§ 19 Z 2 JN.`
 weil ein zureichender Grund vorliegt, seine Unbefangenheit in Zweifel zu ziehen.
 
-### § 20 JN # 
+### § 20 JN
 
 `§ 20 (1) JN.`  
 Richter sind von der Ausübung des Richteramtes in bürgerlichen Rechtssachen ausgeschlossen:  
@@ -251,7 +251,7 @@ in Sachen, in welchen sie bei einem untergeordneten Gerichte an der Erlassung de
 `§ 20 (2) JN.`  
 Der Richter ist in den unter Abs. 1 Z 2 und 3 angegebenen Fällen mit Rücksicht auf die dort bezeichneten Personen auch dann ausgeschlossen, wenn das Naheverhältnis zu diesen Personen nicht mehr besteht.
 
-### § 21 JN # 
+### § 21 JN
 
 `§ 21 (1) JN.`  
 Das Ablehnungsrecht kann von jeder Partei ausgeübt werden, gleichviel ob nach Beschaffenheit der Verhältnisse die ablehnende Partei oder deren Gegner gefährdet erscheint.
@@ -259,7 +259,7 @@ Das Ablehnungsrecht kann von jeder Partei ausgeübt werden, gleichviel ob nach B
 `§ 21 (2) JN.`  
 Eine Partei kann einen Richter wegen Besorgnis der Befangenheit nicht mehr ablehnen, wenn sie sich bei demselben, ohne den ihr bekannten Ablehnungsgrund geltend zu machen, in eine Verhandlung eingelassen oder Anträge gestellt hat.
 
-### § 22 JN # 
+### § 22 JN
 
 `§ 22 (1) JN.`  
 Die Ablehnung ist bei dem Gerichte, welchem der abzulehnende Richter angehört, mittels Schriftsatzes oder mündlich zu Protokoll zu erklären. Dabei sind zugleich die Umstände genau anzugeben, welche die Ablehnung begründen.
@@ -273,12 +273,12 @@ Die wegen Besorgnis der Befangenheit ablehnende Partei hat die vom Richter bestr
 `§ 22 (4) JN.`  
 Von der Partei behauptete Ausschließungsgründe sind stets von amtswegen festzustellen.
 
-### § 23 JN # 
+### § 23 JN
 
 `§ 23 JN.`  
 Über die Ablehnung entscheidet, falls der abgelehnte Richter einem Bezirksgerichte angehört, der Vorsteher des Bezirksgerichtes und, wenn dieser selbst, allein oder mit andern Richtern des Bezirksgerichtes, abgelehnt wird, das vorgesetzte Landes- oder Handelsgericht, falls der abgelehnte Richter einem Gerichtshofe angehört, dieser Gerichtshof und, wenn dieser durch das Ausscheiden des abgelehnten Richters beschlußunfähig werden sollte, der zunächst übergeordnete Gerichtshof.
 
-### § 24 JN # 
+### § 24 JN
 
 `§ 24 (1) JN.`  
 Über die Ablehnung wird ohne mündliche Verhandlung durch Beschluß entschieden, doch können vor der Beschlußfassung alle zur Aufklärung nötig erscheinenden Erhebungen und Einvernehmungen angeordnet werden.
@@ -286,14 +286,14 @@ Von der Partei behauptete Ausschließungsgründe sind stets von amtswegen festzu
 `§ 24 (2) JN.`  
 Gegen die Stattgebung der Ablehnung findet kein Rechtsmittel, gegen die Zurückweisung der Rekurs an das zunächst übergeordnete Gericht statt.
 
-### § 25 JN # 
+### § 25 JN
 
 `§ 25 JN.`  
 Ein abgelehnter Richter hat bis zur rechtskräftigen Erledigung des Ablehnungsantrages alle Handlungen vorzunehmen, die keinen Aufschub gestatten; er hat ferner, wenn die Ablehnung offenbar unbegründet ist und die Absicht vermuten läßt, den Prozeß zu verschleppen, auch eine begonnene Verhandlung fortzusetzen, darf jedoch die Endentscheidung vor rechtskräftiger Zurückweisung der Ablehnung nicht fällen (§ 415 Z P. O.). Wird der Ablehnung stattgegeben, so sind die vom abgelehnten Richter vorgenommenen Prozeßhandlungen nichtig und, soweit erforderlich, aufzuheben.
 
 ## Ablehnung anderer gerichtlicher Organe.
 
-### § 26 JN # 
+### § 26 JN
 
 `§ 26 (1) JN.`  
 Die Vorschriften über die Ablehnung von Richtern finden auch auf Schriftführer, Angestellte der Gerichtskanzlei und Vollstreckungsbeamte, sofern sie als Zustellungs-, Beurkundungs- oder Vollstreckungsorgane einschreiten, mit der Maßgabe Anwendung, dass zur Entscheidung der Gerichtsvorsteher berufen ist, welchem die Dienstaufsicht über diese Organe zusteht.
@@ -301,7 +301,7 @@ Die Vorschriften über die Ablehnung von Richtern finden auch auf Schriftführer
 `§ 26 (2) JN.`  
 Diese Entscheidung kann durch ein Rechtsmittel nicht angefochten werden.
 
-### § 27 JN # 
+### § 27 JN
 
 `§ 27 (1) JN.`  
 Gerichtliche Organe, auf welche sich die vorstehenden Bestimmungen nicht beziehen, haben, wenn sie sich in einem Verhältnisse befinden, welches einen Richter von der Ausübung des Amtes ausschließen würde, dieses Verhältnis dem Vorsteher des Gerichtes anzuzeigen.
@@ -341,19 +341,19 @@ Die Bestimmung eines zuständigen Gerichts hat in streitigen bürgerlichen Recht
 
 ## Dauer der Zuständigkeit.
 
-### § 29 JN # 
+### § 29 JN
 
 `§ 29 JN.`  
 Jedes Gericht bleibt in Rechtssachen, welche rechtmäßigerweise bei demselben anhängig gemacht wurden, bis zu deren Beendigung zuständig, wenn sich auch die Umstände, welche bei Einleitung des Verfahrens für die Bestimmung der Zuständigkeit maßgebend waren, während des Verfahrens geändert hätten. Dies gilt jedoch nicht von solchen Änderungen, auf Grund derer Personen Immunität genießen oder die Rechtssache dem Wirkungskreis der ordentlichen Gerichte entzogen ist.
 
 ## Delegation.
 
-### § 30 JN # 
+### § 30 JN
 
 `§ 30 JN.`  
 Ist ein Gericht aus einem der im §. 19 vorgesehenen Gründe an der Ausübung der Gerichtsbarkeit gehindert, so hat dasselbe diese Behinderung dem im Instanzenzuge übergeordneten Gerichte anzuzeigen. Dieses hat sodann ein anderes Gericht gleicher Gattung zur Verhandlung und Entscheidung der Rechtssache zu bestimmen.
 
-### § 31 JN # 
+### § 31 JN
 
 `§ 31 (1) JN.`  
 Auch kann aus Gründen der Zweckmäßigkeit auf Antrag einer Partei von dem Oberlandesgerichte, in dessen Sprengel das zuständige Gericht gelegen ist, an Stelle desselben ein anderes im Sprengel dieses Oberlandesgerichtes gelegenes Gericht gleicher Gattung zur Verhandlung und Entscheidung bestimmt werden.
@@ -396,7 +396,7 @@ Ein Gericht darf zur Vornahme der Amtshandlung die Grenzen seines Sprengels übe
 
 ## Übertragung einzelner Geschäfte an den Vorsitzenden oder an einen beauftragten Richter
 
-### § 34 JN # 
+### § 34 JN
 
 `§ 34 (1) JN.`  
 Die Vornahme gerichtlicher Handlungen durch den Präsidenten des Gerichtshofes oder durch den Vorsitzenden des Senates, welchem eine Rechtssache zur Verhandlung oder Entscheidung zugewiesen ist, oder die Übertragung gerichtlicher Handlungen an ein einzelnes Mitglied dieses Senates oder des zuständigen Gerichtshofes (beauftragter Richter) ist nur in den gesetzlich bestimmten und in den durch die Vorschriften über die innere Einrichtung und Geschäftsordnung der Gerichte bezeichneten Fällen zulässig.
@@ -404,7 +404,7 @@ Die Vornahme gerichtlicher Handlungen durch den Präsidenten des Gerichtshofes o
 `§ 34 (2) JN.`  
 Die Übertragung gerichtlicher Handlungen an ein Mitglied des Senates oder des zuständigen Gerichtshofes steht, wenn nicht durch die hierauf bezüglichen Vorschriften etwas anderes angeordnet oder insbesondere der Vorsitzende hiezu ermächtigt ist, nur dem zur Verhandlung und Entscheidung der Rechtssache berufenen Senate zu.
 
-### § 35 JN # 
+### § 35 JN
 
 `§ 35 (1) JN.`  
 Richterliche Amtshandlungen, welche außerhalb einer mündlichen Verhandlung oder außerhalb einer Sitzung vorzunehmen sind, ohne dass die Bedingungen für ein deshalb an ein anderes Gericht zu stellendes Ersuchen vorhanden wären, sind im Verfahren vor Gerichtshöfen einem beauftragten Richter zu übertragen.

@@ -14,7 +14,7 @@
 
 ## Gerichtsacten.
 
-### § 81 GOG # 
+### § 81 GOG
 
 `§ 81 (1) GOG.`  
 Die Vorschriften darüber, wie mit den bei Gericht einlangenden Schriften zu verfahren ist, sind, soweit nicht das gegenwärtige Gesetz Besonderes anordnet oder sonst gesetzliche Bestimmungen dafür bestehen, im Verordnungswege zu erlassen. Hiebei hat der Justizminister zu bestimmen, inwieweit besondere Eingangsbücher zu führen sind, um einen Nachweis zu gewinnen, zu welchen Acten die eingelangten Schriftstücke genommen oder an welche Behörden sie abgegeben wurden; in Grundbuchssachen müssen jedoch alle einzelnen an das Gericht gelangenden Eingaben und Schriften verzeichnet werden.
@@ -124,7 +124,7 @@ Bei den in Abs. 1 genannten Personen genügt der Hinweis auf die aufrechte Zert
 
 ## Ladungen außerhalb des Processes.
 
-### § 87 GOG # 
+### § 87 GOG
 
 `§ 87 (1) GOG.`  
 Personen, die einer gerichtlichen Ladung nicht Folge leisten, können unter Androhung einer Ordnungsstrafe neuerlich geladen und durch die Verhängung dieser Strafe zum Erscheinen genöthigt werden. Im Falle fortgesetzten Ausbleibens kann die Ordnungsstrafe innerhalb des gesetzlichen Ausmaßes verdoppelt und in dringenden Fällen die zwangsweise Vorführung durch den Gerichtsdiener angeordnet werden.
@@ -134,7 +134,7 @@ Für die Verhängung und Verwendung der Ordnungsstrafen gelten die Bestimmungen 
 
 ## Zustellung.
 
-### § 88 GOG # 
+### § 88 GOG
 
 `§ 88 GOG.`  
 Zustellungen in Angelegenheiten der Gerichtsbarkeit außer Streitsachen sowie im Insolvenzverfahren sind in gleicher Weise wie die Zustellungen in bürgerlichen Rechtsstreitigkeiten, und zwar von amtswegen zu bewirken.

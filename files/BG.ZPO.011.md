@@ -25,7 +25,7 @@ Sachverständige, die zum Zeitpunkt der Befassung oder der Bestellung durch das 
 `§ 357 (2) ZPO.`  
 Wird das Gutachten schriftlich erstattet, so sind die Sachverständigen verpflichtet, auf Verlangen über das schriftliche Gutachten mündliche Aufklärungen zu geben oder dieses bei der mündlichen Verhandlung zu erläutern.
 
-### § 358 ZPO # 
+### § 358 ZPO
 
 `§ 358 (1) ZPO.`  
 Jeder Sachverständige hat vor dem Beginne der Beweisaufnahme den Sachverständigeneid zu leisten. Von der Beeidigung des Sachverständigen kann abgesehen werden, wenn beide Parteien auf die Beeidigung verzichten.
@@ -33,7 +33,7 @@ Jeder Sachverständige hat vor dem Beginne der Beweisaufnahme den Sachverständi
 `§ 358 (2) ZPO.`  
 Ist der Sachverständige für die Erstattung von Gutachten der erforderten Art im allgemeinen beeidet, so genügt die Erinnerung und Berufung auf den geleisteten Eid.
 
-### § 359 ZPO # 
+### § 359 ZPO
 
 `§ 359 (1) ZPO.`  
 Den Sachverständigen sind diejenigen bei Gericht befindlichen Gegenstände, Actenstücke und Hilfsmittel mitzutheilen, welche für die Beantwortung der denselben vorgelegten Fragen erforderlich sind.
@@ -41,7 +41,7 @@ Den Sachverständigen sind diejenigen bei Gericht befindlichen Gegenstände, Act
 `§ 359 (2) ZPO.`  
 Benötigt der Sachverständige die Mitwirkung der Parteien oder dritter Personen und wird ihm diese auf seine Aufforderung nicht unverzüglich geleistet, so hat der Sachverständige dies dem Gericht unter genauer Auflistung der erforderlichen Mitwirkungshandlungen und der entgegenstehenden Hindernisse mitzuteilen. Das Gericht hat sodann mit abgesondert nicht anfechtbarem Beschluss den Parteien das Erforderliche aufzutragen und ihnen hiefür eine angemessene Frist zu setzen. Dieser Zeitraum ist in die dem Sachverständigen für die Begutachtung gesetzte Frist nicht einzurechnen. Kommen die Parteien der Aufforderung des Gerichts nicht fristgerecht nach, so hat der Sachverständige sein Gutachten ohne Berücksichtigung des Fehlenden zu erstatten. Werden die fehlenden Informationen noch vor Ausarbeitung des Gutachtens nachgebracht, so hat sie der Sachverständige sogleich zu berücksichtigen, ansonsten hat er ein Ergänzungsgutachen zu erstatten. Die Kosten dieses Gutachtens tragen unabhängig vom Verfahrensausgang die säumigen Parteien zur ungeteilten Hand.
 
-### § 360 ZPO # 
+### § 360 ZPO
 
 `§ 360 (1) ZPO.`  
 Kann eine gründliche und erschöpfende Begutachtung nicht sogleich erfolgen, so hat der die Beweisaufnahme leitende Richter für die Abgabe des Gutachtens eine Frist oder eine besondere Tagsatzung zu bestimmen.
@@ -49,12 +49,12 @@ Kann eine gründliche und erschöpfende Begutachtung nicht sogleich erfolgen, so
 `§ 360 (2) ZPO.`  
 Von dem Einlangen des schriftlichen Gutachtens sind die Parteien in Kenntnis zu setzen (§. 286).
 
-### § 361 ZPO # 
+### § 361 ZPO
 
 `§ 361 ZPO.`  
 Sind zur Abgabe eines Gutachtens mehrere Sachverständige bestellt, so können sie dasselbe gemeinsam erstatten, wenn ihre Ansichten übereinstimmen. Sind sie verschiedener Ansicht, so hat jeder Sachverständige seine Ansicht und die für dieselbe sprechenden Gründe besonders darzulegen.
 
-### § 362 ZPO # 
+### § 362 ZPO
 
 `§ 362 (1) ZPO.`  
 Das Gutachten ist stets zu begründen. Vor Darlegung seiner Ansicht hat der Sachverständige in denjenigen Fällen, in welchen der Abgabe seines Gutachtens die Besichtigung von Personen, Sachen, Örtlichkeiten u. dgl. vorausging und die Kenntnis ihrer Beschaffenheit für das Verständnis und die Würdigung des Gutachtens von Belang ist, eine Beschreibung der besichtigten Gegenstände zu geben (Befund).
@@ -62,7 +62,7 @@ Das Gutachten ist stets zu begründen. Vor Darlegung seiner Ansicht hat der Sach
 `§ 362 (2) ZPO.`  
 Erscheint das abgegebene Gutachten ungenügend oder wurden von den Sachverständigen verschiedene Ansichten ausgesprochen, so kann das Gericht auf Antrag oder von amtswegen anordnen, dass eine neuerliche Begutachtung durch dieselben oder durch andere Sachverständige oder doch mit Zuziehung anderer Sachverständiger stattfinde. Eine solche Anordnung ist insbesondere auch dann zulässig, wenn ein Sachverständiger nach Abgabe des Gutachtens mit Erfolg abgelehnt wurde. Zu diesen Anordnungen ist auch der beauftragte oder ersuchte Richter berechtigt.
 
-### § 363 ZPO # 
+### § 363 ZPO
 
 `§ 363 (1) ZPO.`  
 Die Partei, welche den Beweis durch Sachverständige angeboten hat, kann auf denselben verzichten. Der Gegner kann jedoch verlangen, dass die angeordnete Beweisaufnahme demungeachtet vorgenommen werde, wenn entweder die Beweisaufnahme bereits begonnen hat oder wenigstens die Sachverständigen zum Zwecke der Beweisaufnahme schon bei Gericht erschienen sind.
@@ -84,7 +84,7 @@ Wenn dem Beweisführer nicht die Verfahrenshilfe bewilligt ist, hat der Vorsitze
 
 ## Rechtsmittel.
 
-### § 366 ZPO # 
+### § 366 ZPO
 
 `§ 366 (1) ZPO.`  
 Gegen den Beschluss, durch welchen die Ablehnung eines Sachverständigen verworfen oder eine schriftliche Begutachtung angeordnet wird, findet ein abgesondertes Rechtsmittel nicht statt.
@@ -92,14 +92,14 @@ Gegen den Beschluss, durch welchen die Ablehnung eines Sachverständigen verworf
 `§ 366 (2) ZPO.`  
 Die Entscheidung über die Anzahl der zu bestellenden Sachverständigen, der Beschluss, durch welchen die Bestellung der Sachverständigen dem beauftragten oder ersuchten Richter überlassen (§. 352) oder ein Sachverständiger wegen Ablehnung enthoben wird, die über die Beeidigung eines Sachverständigen gefassten Beschlüsse, endlich die Beschlüsse, durch welche für die Abgabe des Gutachtens gemäß §. 360 eine Tagsatzung anberaumt oder eine Frist bestimmt wird, können durch ein Rechtsmittel nicht angefochten werden.
 
-### § 367 ZPO # 
+### § 367 ZPO
 
 `§ 367 ZPO.`  
 Soweit im Vorstehenden nichts anderes bestimmt ist, finden auf den Beweis durch Sachverständige und insbesondere auch auf deren Vernehmung und die Protokollirung des bei einer Tagsatzung abgegebenen Befundes und Gutachtens die Vorschriften über den Beweis durch Zeugen entsprechend Anwendung.
 
 ## Sechster Titel. # Beweis durch Augenschein.
 
-### § 368 ZPO # 
+### § 368 ZPO
 
 `§ 368 (1) ZPO.`  
 Zur Aufklärung der Sache kann das Gericht auf Antrag oder von amtswegen die Vornahme eines Augenscheines, nöthigenfalls mit Zuziehung eines oder mehrerer Sachverständigen, anordnen.
@@ -110,12 +110,12 @@ Wenn der zu besichtigende Gegenstand nicht vor das erkennende Gericht gebracht w
 `§ 368 (3) ZPO.`  
 Wenn die Vornahme des Augenscheines voraussichtlich einen Kostenaufwand verursachen wird, kann der Vorsitzende oder der beauftragte oder ersuchte Richter anordnen, dass der Beweisführer einen entsprechenden Betrag zur Deckung dieses Aufwandes vorschussweise erlege (§. 332 Absatz 2).
 
-### § 369 ZPO # 
+### § 369 ZPO
 
 `§ 369 ZPO.`  
 Ist eine Sache zu besichtigen, welche sich nach den Angaben des Beweisführers in dem Besitze der Gegenpartei oder in der Verwahrung einer öffentlichen Behörde oder eines Notars befindet, so sind die Bestimmungen der §§. 301 und 303 bis 307 mit der Maßgabe anzuwenden, dass die Beurtheilung, welchen Einfluss die Verweigerung der Vorzeigung und Herausgabe der Sache seitens des Gegners, die absichtliche oder doch durch den Gegner veranlasste Beseitigung oder Beschädigung der Sache oder die Verweigerung einer Aussage darüber habe, dem durch sorgfältige Würdigung aller Umstände geleiteten richterlichen Ermessen überlassen bleibt.
 
-### § 370 ZPO # 
+### § 370 ZPO
 
 `§ 370 (1) ZPO.`  
 Gegen Beschlüsse und Verfügungen bei der Vornahme des Augenscheines findet ein abgesondertes Rechtsmittel nicht statt. Dies gilt auch von dem Beschlusse, durch welchen ein Antrag auf Zuziehung von Sachverständigen verworfen wurde.
@@ -133,12 +133,12 @@ In dem Protokolle ist zu bemerken, ob die Parteien und welche derselben bei Vorn
 `§ 371 ZPO.`  
 Der Beweis über streitige, für die Entscheidung erhebliche Tatsachen kann auch durch die Vernehmung der Parteien geführt werden; die Anordnung dieser Beweisführung kann auf Antrag oder von Amts wegen erfolgen.
 
-### § 372 ZPO # 
+### § 372 ZPO
 
 `§ 372 ZPO.`  
 Parteien, in Ansehung deren Vernehmung oder Beeidigung einer der Ausschließungsgründe des § 320 vorliegt, dürfen nicht zum Zwecke der Beweisführung abgehört werden.
 
-### § 373 ZPO # 
+### § 373 ZPO
 
 `§ 373 (1) ZPO.`  
 Wird der Rechtsstreit von dem gesetzlichen Vertreter einer schutzberechtigen Person geführt, so bleibt es dem Ermessen des Gerichtes überlassen, die Vernehmung des gesetzlichen Vertreters oder, sofern dies nach §. 372 statthaft erscheint, der schutzberechtigten Person oder beider zu verfügen.
@@ -152,12 +152,12 @@ In Rechtsstreitigkeiten einer offene Gesellschaft sind alle Gesellschafter, in R
 `§ 373 (4) ZPO.`  
 Können hienach oder, weil auf Seiten einer Partei Streitgenossen auftreten, mehrere Personen vernommen werden, so hat das Gericht zu bestimmen, ob alle oder welche unter diesen Personen abzuhören sind.
 
-### § 374 ZPO # 
+### § 374 ZPO
 
 `§ 374 ZPO.`  
 Das Gericht hat unter sorgfältiger Würdigung aller Umstände zu beurtheilen, ob die Beweisführung durch Vernehmung der Parteien ganz zu entfallen habe, wenn es die Überzeugung gewonnen hat, dass die Partei, welcher der Beweis der streitigen Thatsache obliegt, von derselben keine Kenntnis hat, oder wenn die Abhörung dieser Partei nach den Bestimmungen des §. 372 unstatthaft ist.
 
-### § 375 ZPO # 
+### § 375 ZPO
 
 `§ 375 (1) ZPO.`  
 Die Beweisführung durch Vernehmung der Partei wird durch Beschluss angeordnet. Gegen diesen Beschluss ist ein abgesondertes Rechtsmittel nicht zulässig. Die Beweisführung geschieht dadurch, dass das Gericht an die zu vernehmende Partei über die Thatsachen, deren Beweis durch die Vernehmung hergestellt werden soll, die geeigneten Fragen stellt. Für diese Befragung der Partei haben die Vorschriften der §§. 340 bis 343 sinngemäß zu gelten.
@@ -165,7 +165,7 @@ Die Beweisführung durch Vernehmung der Partei wird durch Beschluss angeordnet. 
 `§ 375 (2) ZPO.`  
 Diese Befragung hat vor dem erkennenden Gerichte zu geschehen. Die Beweisaufnahme durch einen ersuchten Richter ist nur zulässig, wenn dem persönlichen Erscheinen der Partei unübersteigliche Hindernisse entgegenstehen, oder dasselbe unverhältnismäßige Kosten verursachen würde.
 
-### § 376 ZPO # 
+### § 376 ZPO
 
 `§ 376 (1) ZPO.`  
 Die Parteien sind zuerst ohne Beeidigung zu befragen; der unbeeideten Vernehmung kann die Abhörung unter Eid folgen.
@@ -173,7 +173,7 @@ Die Parteien sind zuerst ohne Beeidigung zu befragen; der unbeeideten Vernehmung
 `§ 376 (2) ZPO.`  
 Bei der unbeeideten Vernehmung sind, wenn beide Parteien erschienen sind, in der Regel beide über die zu beweisenden Thatsachen zu befragen. Vor der unbeeideten Vernehmung hat das Gericht die Parteien aufmerksam zu machen, dass sie unter Umständen verhalten werden können, über ihre Aussagen einen Eid abzulegen.
 
-### § 377 ZPO # 
+### § 377 ZPO
 
 `§ 377 (1) ZPO.`  
 Wenn das Ergebnis der unbeeideten Befragung nicht ausreicht, um das Gericht von der Wahrheit oder Unwahrheit der zu beweisenden Thatsachen zu überzeugen, so kann das Gericht die eidliche Vernehmung anordnen. Parteien, bei denen die Ausschließungsgründe des § 336 Abs. 1 zutreffen, dürfen nicht beeidet werden.
@@ -184,12 +184,12 @@ Hiebei kann das Gericht aus der unbeeideten Aussage einzelne Behauptungen hervor
 `§ 377 (3) ZPO.`  
 Die Partei ist vor ihrer eidlichen Abhörung an die Pflicht zur Angabe der Wahrheit, an die Heiligkeit und Bedeutung des Eides, sowie an die strafrechtlichen Folgen eines falschen Eides zu erinnern. Die erfolgte Eideserinnerung ist im Protokolle festzustellen.
 
-### § 379 ZPO # 
+### § 379 ZPO
 
 `§ 379 ZPO.`  
 Das Gericht kann die Verhandlung zum Zwecke der eidlichen Befragung einer Partei vertagen, wenn es angemessen erscheint, der zu vernehmenden Partei eine Überlegungsfrist zu gewähren.
 
-### § 380 ZPO # 
+### § 380 ZPO
 
 `§ 380 (1) ZPO.`  
 Die Bestimmungen über den Beweis durch Zeugen finden auch auf die Vernehmung der Parteien zum Zwecke der Beweisführung Anwendung, soweit in diesem Abschnitte nicht abweichende Anordnungen enthalten sind. Durch den im §. 321, Z 2, bezeichneten Grund wird jedoch die Verweigerung der Aussage von Seite einer abzuhörenden Partei nicht gerechtfertigt.
@@ -200,12 +200,12 @@ Durch das Nichterscheinen einer der Parteien bei der zur Vernehmung nach §. 375
 `§ 380 (3) ZPO.`  
 Die Anwendung von Zwangsmaßregeln, um eine Partei, die zum Zwecke der Beweisführung ohne Beeidigung oder beeidet befragt werden soll, zum Erscheinen vor Gericht oder zur Aussage zu verhalten, ist unstatthaft.
 
-### § 381 ZPO # 
+### § 381 ZPO
 
 `§ 381 ZPO.`  
 Welchen Einfluss es auf die Herstellung des Beweises habe, wenn die Partei ohne genügende Gründe die Aussage oder die Beantwortung einzelner Fragen ablehnt, wenn die zum Zwecke der unbeeideten oder beeideten Vernehmung geladene Partei nicht erscheint, oder wenn die eidliche Aussage einer Partei von den bei ihrer vorausgegangenen unbeeideten Vernehmung abgegebenen Erklärungen in erheblichen Punkten abweicht, hat das Gericht unter sorgfältiger Würdigung aller Umstände zu beurtheilen.
 
-### § 382 ZPO # 
+### § 382 ZPO
 
 `§ 382 ZPO.`  
 *(Anm.: Abs. 1 aufgehoben durch BGBl. Nr. 2/1958)*
@@ -213,14 +213,14 @@ Welchen Einfluss es auf die Herstellung des Beweises habe, wenn die Partei ohne 
 `§ 382 (2) ZPO.`  
 Die Vorschriften der §§. 372 bis 381 gelten sinngemäß auch für die wegen Vorlage einer Beweisurkunde, einer Auskunftssache oder eines Augenscheinsgegenstandes angeordnete Vernehmung und eidliche Abhörung einer Partei.
 
-### § 383 ZPO # 
+### § 383 ZPO
 
 `§ 383 ZPO.`  
 Wenn eine Partei eine Erklärung abgegeben hat, in welcher sie sich erbietet, die zu beweisenden Umstände im Processe eidlich zu bestätigen, die eidliche Abhörung dieser Partei jedoch wegen ihres früheren Todes nicht stattfinden kann, so hat das Gericht die Erklärung nach §. 272 zu würdigen.
 
 ## Achter Titel. # Sicherung von Beweisen.
 
-### § 384 ZPO # 
+### § 384 ZPO
 
 `§ 384 (1) ZPO.`  
 Die Vornahme eines Augenscheines oder die Vernehmung von Zeugen und Sachverständigen kann zur Sicherung einer Beweisführung in jeder Lage des Rechtsstreites und selbst noch vor Beginn desselben beantragt werden, wenn zu besorgen ist, dass das Beweismittel sonst verloren oder die Benützung desselben erschwert werde.
@@ -231,7 +231,7 @@ Diese Beweisaufnahmen können auch, ohne daß die Voraussetzungen des Abs. 1 vo
 `§ 384 (3) ZPO.`  
 Der Antrag ist bei dem Processgerichte, in dringenden Fällen aber sowie wenn ein Rechtsstreit noch nicht anhängig ist, bei dem Bezirksgerichte anzubringen, in dessen Sprengel die Sachen, welche in Augenschein zu nehmen sind oder die Grundlage des Sachverständigenbeweises zu bilden haben, oder die zu vernehmenden Personen sich befinden. Der Antrag kann zu gerichtlichem Protokoll angebracht werden.
 
-### § 385 ZPO # 
+### § 385 ZPO
 
 `§ 385 (1) ZPO.`  
 Die antragstellende Partei hat die Thatsachen, über welche die Beweisaufnahme erfolgen soll, sowie die Beweismittel unter Benennung der zu vernehmenden Zeugen und der allenfalls vorgeschlagenen Sachverständigen anzugeben. Die Gründe, die den Antrag nach § 384 Abs. 1 oder 2 rechtfertigen, sind von der antragstellenden Partei darzulegen.
@@ -239,7 +239,7 @@ Die antragstellende Partei hat die Thatsachen, über welche die Beweisaufnahme e
 `§ 385 (2) ZPO.`  
 Die antragstellende Partei hat ferner den Gegner zu benennen. Hievon kann nur dann abgesehen werden, wenn sich aus den von der Partei dargelegten Umständen ergibt, dass sie nach Lage der Sache außerstande ist, den Gegner zu bezeichnen.
 
-### § 386 ZPO # 
+### § 386 ZPO
 
 `§ 386 (1) ZPO.`  
 Über den Antrag ist ohne vorhergehende mündliche Verhandlung durch Beschluss zu entscheiden. Vor der Entscheidung ist jedoch, sofern nicht Gefahr am Verzuge ist, der Gegner zu vernehmen, falls derselbe bekannt und seine Zustimmung nicht bereits nachgewiesen ist. Der antragstellenden Partei kann vor der Entscheidung aufgetragen werden, die Umstände glaubhaft zu machen, welche die Sicherung des Beweises nothwendig machen.
@@ -253,7 +253,7 @@ In dem dem Antrage stattgebenden Beschlusse hat das Gericht die Thatsachen, übe
 `§ 386 (4) ZPO.`  
 Der Beschluss, welcher dem Antrage stattgibt, kann durch ein Rechtsmittel nicht angefochten werden.
 
-### § 387 ZPO # 
+### § 387 ZPO
 
 `§ 387 (1) ZPO.`  
 Der Gegner ist unter Zustellung des Beschlusses und, falls er über den Antrag nicht früher gehört wurde, auch eines Exemplars des von der antragstellenden Partei überreichten Schriftsatzes oder einer Abschrift des über ihren Antrag aufgenommenen Protokolles zu der für die Beweisaufnahme bestimmten Tagsatzung zu laden.
@@ -261,7 +261,7 @@ Der Gegner ist unter Zustellung des Beschlusses und, falls er über den Antrag n
 `§ 387 (2) ZPO.`  
 In dringenden Fällen kann jedoch noch vor Zustellung des Beschlusses an den bekannten Gegner mit der Beweisaufnahme begonnen werden. Die Bewilligung hiezu kann auf Antrag gleichzeitig mit der Entscheidung über den Antrag auf Zulassung der Beweisaufnahme ertheilt werden. Gegen die Gewährung oder Verweigerung dieser Bewilligung ist ein Rechtsmittel unzulässig.
 
-### § 388 ZPO # 
+### § 388 ZPO
 
 `§ 388 (1) ZPO.`  
 Die Beweisaufnahme erfolgt nach den Vorschriften des zweiten, vierten, fünften und sechsten Titels dieses Abschnittes.
@@ -272,7 +272,7 @@ Das die Beweisaufnahme betreffende Protokoll wird bei dem Gerichte verwahrt, wel
 `§ 388 (3) ZPO.`  
 Die Kosten der Beweisaufnahme werden von der antragstellenden Partei bestritten, unbeschadet eines ihr zustehenden Ersatzanspruches. Dem Gegner sind die nothwendigen Kosten für seine Betheiligung bei der Beweisaufnahme unbeschadet der Entscheidung in der Hauptsache zu ersetzen.
 
-### § 389 ZPO # 
+### § 389 ZPO
 
 `§ 389 (1) ZPO.`  
 Jede Partei kann im Verlaufe des Rechtsstreites die zur Sicherung eines Beweises erfolgte Beweisaufnahme benützen.
@@ -285,7 +285,7 @@ Im Verlaufe des Rechtsstreites kann eine Ergänzung oder Wiederholung der Beweis
 
 ## Zweiter Abschnitt. # Urtheile und Beschlüsse. # Erster Titel. # Urtheile. # Endurtheil.
 
-### § 390 ZPO # 
+### § 390 ZPO
 
 `§ 390 (1) ZPO.`  
 Wenn der Rechtsstreit nach den Ergebnissen der durchgeführten Verhandlung und der stattgefundenen Beweisaufnahme zur Endentscheidung reif ist, hat das Gericht diese Entscheidung durch Urtheil zu fällen (Endurtheil).
@@ -295,7 +295,7 @@ Dasselbe gilt, wenn von mehreren zum Zwecke gleichzeitiger Verhandlung verbunden
 
 ## Theilurtheil.
 
-### § 391 ZPO # 
+### § 391 ZPO
 
 `§ 391 (1) ZPO.`  
 Sind einzelne von mehreren in derselben Klage geltend gemachten Ansprüchen oder ist ein Teil eines Anspruches durch ausdrückliche Anerkennung von Seiten des Beklagten außer Streit gestellt oder zur Endentscheidung reif, so kann das Gericht in Ansehung dieses Anspruches oder des Teiles sofort zum Schluß der Verhandlung und zur Urteilsfällung schreiten (Teilurteil).
@@ -306,7 +306,7 @@ Ein Theilurteil kann auch erlassen werden, wenn bei erhobener Widerklage nur die
 `§ 391 (3) ZPO.`  
 Hat der Beklagte mittels Einrede eine Gegenforderung geltend gemacht, welche mit der in der Klage geltend gemachten Forderung nicht im rechtlichen Zusammenhange steht, so kann, wenn nur die Verhandlung über den Klagsanspruch zur Entscheidung reif ist, über denselben durch Theilurtheil erkannt werden. Die Verhandlung über die Gegenforderung ist ohne Unterbrechung fortzusetzen.
 
-### § 392 ZPO # 
+### § 392 ZPO
 
 `§ 392 (1) ZPO.`  
 Jedes Theilurtheil ist in Betreff der Rechtsmittel und der Execution als ein selbständiges Urtheil zu betrachten.
@@ -316,7 +316,7 @@ Die Bestimmungen des §. 52, Absatz 2 gelten auch in Ansehung der Nebengebüren 
 
 ## Zwischenurtheil.
 
-### § 393 ZPO # 
+### § 393 ZPO
 
 `§ 393 (1) ZPO.`  
 Wenn in einem Rechtsstreite ein Anspruch nach Grund und Betrag streitig und die Verhandlung zunächst bloß in Ansehung des Grundes zur Entscheidung reif ist, kann das Gericht vorab über den Grund des Anspruches durch Urtheil entscheiden (Zwischenurtheil), auch wenn noch strittig ist, ob der Anspruch überhaupt mit irgendeinem Betrag zu Recht besteht.
@@ -337,7 +337,7 @@ Wenn in einem Rechtsstreit der Einwand der Verjährung des geltend gemachten Ans
 
 ## Urtheil auf Grund von Verzicht.
 
-### § 394 ZPO # 
+### § 394 ZPO
 
 `§ 394 (1) ZPO.`  
 Verzichtet der Kläger bei bei der mündlichen Streitverhandlung auf den geltend gemachten Anspruch, so ist die Klage auf Antrag des Beklagten auf Grund des Verzichtes durch Urtheil abzuweisen.
@@ -347,7 +347,7 @@ Bezieht sich der Verzicht nur auf einen von mehreren in der Klage geltend gemach
 
 ## Urtheil auf Grund von Anerkenntnis.
 
-### § 395 ZPO # 
+### § 395 ZPO
 
 `§ 395 ZPO.`  
 Wenn der Beklagte den gegen ihn erhobenen Anspruch bei der mündlichen Streitverhandlung ganz oder zum Theile anerkennt, so ist auf Antrag des Klägers dem Anerkenntnis gemäß durch Urtheil zu entscheiden.

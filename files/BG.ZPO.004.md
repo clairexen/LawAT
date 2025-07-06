@@ -14,12 +14,12 @@
 
 ## Zweiter Abschnitt. # Verfahren. # Erster Titel. # Schriftsätze.
 
-### § 74 ZPO # 
+### § 74 ZPO
 
 `§ 74 ZPO.`  
 Die eine Streitsache betreffenden, außerhalb der mündlichen Verhandlung vorzubringenden Anträge, Gesuche oder Mittheilungen erfolgen, soweit das Gesetz nicht ein Anbringen zu Protokoll gestattet, mittels Schriftsätzen.
 
-### § 75 ZPO # 
+### § 75 ZPO
 
 `§ 75 ZPO.`  
 Jeder Schriftsatz hat zu enthalten:  
@@ -44,7 +44,7 @@ Das Gericht hat der gegnerischen Partei auf deren Antrag die unter Verschluss ge
 `§ 75a (4) ZPO.`  
 Das Gericht hat über die Anträge nach Abs. 1 und 3 mit unanfechtbarem Beschluss zu entscheiden.
 
-### § 76 ZPO # 
+### § 76 ZPO
 
 `§ 76 (1) ZPO.`  
 In jedem Schriftsatze sind ferner die thatsächlichen Verhältnisse, durch welche die im Schriftsatze gestellten Anträge begründet werden, in knapper, übersichtlicher Fassung gedrängt darzustellen und, wenn es eines Beweises oder einer Glaubhaftmachung dieser Anführungen bedarf, auch die Beweismittel im Einzelnen zu bezeichnen, deren man sich behufs Erbringung dieses Nachweises oder behufs Glaubhaftmachung bedienen will.
@@ -52,7 +52,7 @@ In jedem Schriftsatze sind ferner die thatsächlichen Verhältnisse, durch welch
 `§ 76 (2) ZPO.`  
 Der Beweisführer kann von der Angabe des Wohnortes eines Zeugen absehen, soweit er ein schutzwürdiges Geheimhaltungsinteresse des Zeugen dartut; der Wohnort ist dem Gericht in einem gesonderten Schriftsatz bekannt zu geben. § 75a Abs. 2 bis 4 ist sinngemäß anzuwenden.
 
-### § 77 ZPO # 
+### § 77 ZPO
 
 `§ 77 (1) ZPO.`  
 Wenn über den im Schriftsatze gestellten Antrag mündlich verhandelt werden soll, sind dem Schriftsatze nur Abschriften der Urkunden beizulegen, auf welche im Schriftsatze Bezug genommen wird; falls nur einzelne Theile einer Urkunde in Betracht kommen, genügt die Beifügung eines Auszuges, welcher den Eingang, die zur Sache gehörende Stelle, den Schluss, das Datum und die Unterschriften enthält.
@@ -63,7 +63,7 @@ Sind die Urkunden dem Gegner bereits bekannt oder von bedeutendem Umfange, so is
 `§ 77 (3) ZPO.`  
 Befinden sich die Urkunden nicht in den Händen der Partei, so hat sie anzugeben, auf welche Weise die Herbeischaffung dieser Urkunden zu veranlassen sei.
 
-### § 78 ZPO # 
+### § 78 ZPO
 
 `§ 78 (1) ZPO.`  
 Schriftsätze, die zur Vorbereitung einer mündlichen Verhandlung bestimmt sind (vorbereitende Schriftsätze), haben nebst den sonstigen Erfordernissen eines Schriftsatzes zu enthalten:  
@@ -80,12 +80,12 @@ Darlegungen über die Wahrscheinlichkeit oder Glaubwürdigkeit einzelner tatsäc
 `§ 78 (3) ZPO.`  
 Schriftsätze, die nur Rechtsausführungen enthalten, sind unzulässig.
 
-### § 79 ZPO # 
+### § 79 ZPO
 
 `§ 79 ZPO.`  
 Ein die Stelle des Schriftsatzes versehendes protokollarisches Anbringen ist nach den Bestimmungen über die Schriftsätze einzurichten.
 
-### § 81 ZPO # 
+### § 81 ZPO
 
 `§ 81 (1) ZPO.`  
 Sofern nach den Bestimmungen dieses Gesetzes ein Exemplar des überreichten Schriftsatzes dem Gegner zuzustellen ist, sind demselben auch Abschriften der Beilagen des Schriftsatzes anzuschließen.
@@ -93,7 +93,7 @@ Sofern nach den Bestimmungen dieses Gesetzes ein Exemplar des überreichten Schr
 `§ 81 (2) ZPO.`  
 Die bei dem Gerichte zurückbehaltenen Urschriften von Beilagen sind dem Gegner auf sein Verlangen jederzeit zur Einsichtnahme vorzulegen.
 
-### § 82 ZPO # 
+### § 82 ZPO
 
 `§ 82 (1) ZPO.`  
 Wenn eine Partei in einem Schriftsatz auf in ihren Händen befindliche Urkunden Bezug genommen hat, ist sie auf Verlangen des Gegners verpflichtet, ihm diese Urkunden in Abschrift innerhalb von drei Tagen zu übersenden und das Gericht hievon zu benachrichtigen oder, wenn die Herstellung von Abschriften nicht zumutbar ist oder der Gegner die Vorlage in Urschrift verlangt, die Urkunden in Urschrift bei Gericht innerhalb von drei Tagen zu hinterlegen und den Gegner hievon zu benachrichtigen. Der Gegner kann sodann die Urkunden innerhalb von drei Tagen nach empfangener Benachrichtigung einsehen und davon Abschriften herstellen.
@@ -101,7 +101,7 @@ Wenn eine Partei in einem Schriftsatz auf in ihren Händen befindliche Urkunden 
 `§ 82 (2) ZPO.`  
 Die Frist zur Einsichtnahme kann, wenn die Partei die Urkunde erweislich dringend benöthigt, vom Gerichte und im Verfahren vor Gerichtshöfen vom Vorsitzenden des Senates, dem die Rechtssache zugewiesen ist, auf Antrag entsprechend abgekürzt werden. Gegen den über einen solchen Antrag ergehenden Beschluss findet ein Rechtsmittel nicht statt.
 
-### § 83 ZPO # 
+### § 83 ZPO
 
 `§ 83 (1) ZPO.`  
 Rechtsanwälten steht es frei, die Mittheilung der Urschriften von Urkunden von Hand zu Hand gegen Empfangsbescheinigung vorzunehmen.
@@ -109,7 +109,7 @@ Rechtsanwälten steht es frei, die Mittheilung der Urschriften von Urkunden von 
 `§ 83 (2) ZPO.`  
 Gibt ein Rechtsanwalt die ihm eingehändigte Urkunde nicht binnen der vereinbarten Frist und mangels einer Vereinbarung binnen drei Tagen nach Empfang zurück, so ist er auf Antrag nach vorgängiger mündlicher oder schriftlicher Einvernehmung durch Beschluss zu unverzüglicher Zurückgabe zu verhalten. In Bezug auf diesen Beschluss haben die Bestimmungen des §. 82, Absatz 2, zu gelten. Der Beschluss ist sofort vollstreckbar.
 
-### § 84 ZPO # 
+### § 84 ZPO
 
 `§ 84 (1) ZPO.`  
 Soweit in diesem Gesetze nichts anderes angeordnet ist, hat das Gericht die Beseitigung von Formgebrechen, welche die ordnungsmäßige geschäftliche Behandlung eines überreichten Schriftsatzes zu hindern geeignet sind, von amtswegen anzuordnen. Ein solcher Beschluss kann durch ein abgesondertes Rechtsmittel nicht angefochten werden.
@@ -126,7 +126,7 @@ War bei der Überreichung des Schriftsatzes eine Frist einzuhalten, so ist nach 
 `§ 84 (4) ZPO.`  
 Im Verfahren vor Gerichtshöfen steht die Erlassung dieser Anordnungen dem Vorsitzenden des Senates zu, dem die Rechtssache zugewiesen ist.
 
-### § 85 ZPO # 
+### § 85 ZPO
 
 `§ 85 (1) ZPO.`  
 Zum Zwecke der Beseitigung von Formgebrechen kann die Partei vorgeladen oder ihr der Auftrag zur Behebung der gleichzeitig zu bezeichnenden Formgebrechen erteilt werden.
@@ -137,7 +137,7 @@ War bei Überreichung des Schriftsatzes eine Frist einzuhalten, so ist für die 
 `§ 85 (3) ZPO.`  
 Gegen die auf Grund vorstehender Bestimmungen ergehenden Beschlüsse ist ein abgesondertes Rechtsmittel nicht statthaft; inwiefern deshalb das Aufsichtsrecht der übergeordneten Gerichtsbehörden angerufen werden kann, ist nach den über die innere Einrichtung und Geschäftsordnung der Gerichte erlassenen Vorschriften zu beurtheilen.
 
-### § 86 ZPO # 
+### § 86 ZPO
 
 `§ 86 ZPO.`  
 Gegen eine Partei, welche die dem Gerichte schuldige Achtung in einem Schriftsatze durch beleidigende Ausfälle verletzt oder welche in einem Schriftsatze den Gegner, einen Vertreter, Bevollmächtigten, Zeugen oder Sachverständigen beleidigt, kann unbeschadet der deshalb etwa eintretenden strafgerichtlichen Verfolgung vom Gerichte eine Ordnungsstrafe verhängt werden.
@@ -185,12 +185,12 @@ wenn das Schriftstück in der Umgebung des Gerichtsgebäudes oder im Verkehr mit
 `§ 88 (2) ZPO.`  
 Gerichtsbedienstete dürfen Zustellungen nur innerhalb des Sprengels des Gerichtes, dem sie angehören, Gemeindebedienstete nur innerhalb des Gemeindegebietes durchführen.
 
-### § 89 ZPO # 
+### § 89 ZPO
 
 `§ 89 ZPO.`  
 Die Bestimmung der Zustellungsart obliegt dem Gerichte, dessen Urtheile, Beschlüsse oder Ladungen zugestellt werden sollen oder bei welchem der zuzustellende Schriftsatz überreicht oder das Protokoll aufgenommen worden ist. Dieses Gericht hat auch die wegen der Zustellung nöthigen Verfügungen zu treffen.
 
-### § 91 ZPO # 
+### § 91 ZPO
 
 `§ 91 ZPO.`  
 Wenn das Verhalten einer der mit der Ausführung der Zustellung beauftragten Personen (Zustellungsorgane) zur Beschwerde Anlass gibt, so hat der Vorsitzende des Senates, der mit der Aufsicht über die Gerichtskanzlei betraute Richter oder der Gerichtsvorsteher, sobald er hievon Kenntnis erlangt, das Geeignete zu veranlassen, um Abhilfe zu gewähren. Der Beschwerdegrund kann mündlich angezeigt werden.
@@ -203,7 +203,7 @@ Kann die Zustellung der Klage an eine im Firmenbuch eingetragene juristische Per
 `§ 92 (2) ZPO.`  
 Bis dem Gericht eine Abgabestelle bekannt gegeben wird, sind alle weiteren zuzustellenden Schriftstücke bei Gericht zu hinterlegen.
 
-### § 93 ZPO # 
+### § 93 ZPO
 
 `§ 93 (1) ZPO.`  
 Hat eine Partei für einen Rechtsstreit Processvollmacht ertheilt, so haben bis zur Aufhebung der Processvollmacht (§. 36) alle diesen Rechtsstreit betreffenden Zustellungen an den namhaft gemachten Bevollmächtigten zu geschehen. Dies umfasst auch Ladungen der Partei zu ihrer Einvernahme.
@@ -243,7 +243,7 @@ Für den Zustellungsbevollmächtigen gilt § 97 Abs. 5.
 `§ 99 ZPO.`  
 Der für eine einzelne Person bestellte Zustellungsbevollmächtigte hat dieser die für sie bestimmten, ihm zugestellten Schriftstücke jeweils ohne Aufschub zu übersenden. Der gemeinschaftliche Zustellungsbevollmächtigte hat, wenn nicht durch Vereinbarung etwas anderes bestimmt ist, unverzüglich den Personen, für welche er die Zustellung übernommen hat, Einsicht in die empfangenen Schriftstücke zu gewähren und die Herstellung von Abschriften davon zu ermöglichen.
 
-### § 100 ZPO # 
+### § 100 ZPO
 
 `§ 100 (1) ZPO.`  
 An Samstagen, Sonntagen und gesetzlichen Feiertagen darf eine Zustellung, sofern sie nicht durch die Post vollzogen wird, nur mit Erlaubnis des Gerichtes erfolgen, das die Zustellung veranlaßt. Die Erlaubnis ist nur zu erteilen, wenn die Zustellung wegen der Gefahr des Ablaufes einer Frist oder des Verlustes eines Rechtes oder aus einem ähnlich wichtigen Grund dringlich ist. Sie ist auf dem zuzustellenden Schriftstück ersichtlich zu machen.
@@ -285,12 +285,12 @@ Durch öffentliche Bekanntmachung (§ 25 des Zustellgesetzes) ist zuzustellen, 
 
 ## Zustellung an den Curator.
 
-### § 116 ZPO # 
+### § 116 ZPO
 
 `§ 116 ZPO.`  
 Für Personen, an welche die Zustellung wegen Unbekanntheit des Aufenthaltes nur durch öffentliche Bekanntmachung geschehen könnte, hat das Gericht auf Antrag oder von amtswegen einen Curator zu bestellen (§. 9), wenn diese Personen infolge der an sie zu bewirkenden Zustellung zur Wahrung ihrer Rechte eine Processhandlung vorzunehmen hätten und insbesondere, wenn das zuzustellende Schriftstück eine Ladung derselben enthält.
 
-### § 117 ZPO # 
+### § 117 ZPO
 
 `§ 117 (1) ZPO.`  
 Die Bestellung des Curators, dessen Name und Wohnort und eine kurze Angabe des Inhaltes des zuzustellenden Schriftstückes sind nebst der Bezeichnung des Processgerichtes und der Streitsache durch Edict bekannt zu machen. Das Edict hat die Bemerkung zu enthalten, dass die Person, für welche der Curator bestellt wurde, bis zu ihrem eigenen Auftreten oder der Namhaftmachung eines Bevollmächtigten auf ihre Gefahr und Kosten durch den Curator vertreten werde.
@@ -299,7 +299,7 @@ Die Bestellung des Curators, dessen Name und Wohnort und eine kurze Angabe des I
 Der Inhalt des Edikts ist in die Ediktsdatei aufzunehmen. Wenn dies im einzelnen Fall zweckmäßig erscheint und nicht mit einem im Vergleich zum Streitgegenstand zu großen Kostenaufwand verbunden ist, kann auf Antrag oder von Amts wegen angeordnet werden, dass das Edikt auch in Zeitungen eingeschaltet wird. Gegen diese Anordnung ist ein Rechtsmittel nicht zulässig. Im Verfahren vor Gerichtshöfen steht diese Anordnung dem Vorsitzenden des Senates zu, dem die Rechtssache zugewiesen ist. Die Bekanntmachung des Edikts ist von Amts wegen zu bewirken.
 *(Anm.: Abs. 3 aufgehoben durch BGBl. Nr. 135/1983)*
 
-### § 118 ZPO # 
+### § 118 ZPO
 
 `§ 118 (1) ZPO.`  
 Die Zustellung gilt mit Aufnahme des Inhalts des Ediktes in die Ediktsdatei und der nachfolgenden Übergabe des zuzustellenden Schriftstücks an den Kurator als vollzogen.
@@ -330,17 +330,17 @@ Die Vorschriften der Verordnung (EG) Nr. 1393/2007 über die Zustellung gericht
 
 ## Dritter Titel. # Fristen und Tagsatzungen. # Fristen.
 
-### § 123 ZPO # 
+### § 123 ZPO
 
 `§ 123 ZPO.`  
 Soweit die Dauer der Fristen zur Vornahme von Processhandlungen nicht unmittelbar durch das Gesetz bestimmt wird (gesetzliche Fristen), hat sie der Richter mit Rücksicht auf die Erfordernisse und die Beschaffenheit des einzelnen Falles festzusetzen (richterliche Fristen).
 
-### § 124 ZPO # 
+### § 124 ZPO
 
 `§ 124 ZPO.`  
 Der Lauf einer richterlichen Frist beginnt, sofern nicht bei Festsetzung derselben etwas anderes bestimmt wurde, mit Zustellung des die Frist anordnenden Beschlusses an die Partei, welcher die Frist zugute kommt; wenn es aber einer Zustellung des Beschlusses nicht bedarf, mit der Verkündung des Beschlusses.
 
-### § 125 ZPO # 
+### § 125 ZPO
 
 `§ 125 (1) ZPO.`  
 Bei Berechnung einer Frist, welche nach Tagen bestimmt ist, wird der Tag nicht mitgerechnet, in welchen der Zeitpunkt oder die Ereignung fällt, nach der sich der Anfang der Frist richten soll.
@@ -359,7 +359,7 @@ Der Beginn und Lauf von gesetzlichen und richterlichen Fristen werden durch Sams
 `§ 126 (2) ZPO.`  
 Fällt das Ende einer Frist auf einen Samstag, Sonntag, Feiertag oder Karfreitag, so ist der nächste Tag, der nicht einer der vorgenannten Tage ist, als letzter Tag der Frist anzusehen.
 
-### § 128 ZPO # 
+### § 128 ZPO
 
 `§ 128 (1) ZPO.`  
 Gesetzliche Fristen, mit Ausnahme derjenigen, deren Verlängerung das Gesetz ausdrücklich untersagt (Nothfristen), sowie die richterlichen Fristen, hinsichtlich welcher in diesem Gesetze nichts anderes bestimmt ist, können vom Gerichte verlängert werden. Eine Verlängerung von Fristen durch Übereinkommen der Parteien ist unzulässig.
@@ -376,7 +376,7 @@ Die zur Rechtfertigung des Antrages angeführten Umstände sind dem Gerichte auf
 `§ 128 (5) ZPO.`  
 Bei Verlängerung der Frist ist stets zugleich der Tag zu bestimmen, an welchem die verlängerte Frist endet.
 
-### § 129 ZPO # 
+### § 129 ZPO
 
 `§ 129 (1) ZPO.`  
 Alle Fristen können durch Vereinbarung der Parteien abgekürzt werden. Die Vereinbarung muss, um für das Gericht wirksam zu sein, urkundlich nachgewiesen werden.

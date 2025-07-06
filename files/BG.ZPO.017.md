@@ -123,7 +123,7 @@ Bestandverträge können sowohl vom Bestandgeber als auch vom Bestandnehmer auch
 `§ 561 (2) ZPO.`  
 Die von einer Partei wirksam vorgenommene gerichtliche Aufkündigung kann gegen dieselbe von der anderen Partei in Vollzug gesetzt werden.
 
-### § 562 ZPO # 
+### § 562 ZPO
 
 `§ 562 (1) ZPO.`  
 Die gerichtliche Aufkündigung kann mittels Schriftsatz oder mündlich angebracht werden. Der Schriftsatz oder das über die Aufkündigung aufgenommene Protokoll hat insbesondere die Bezeichnung des Bestandgegenstandes, die Angabe des Zeitpunktes, in welchem der Bestandvertrag endigen soll, und endlich den Antrag zu enthalten, dem Gegner aufzutragen, entweder den Bestandgegenstand zur bestimmten Zeit bei sonstiger Execution zu übergeben oder zu übernehmen, oder gegen die Aufkündigung seine Einwendungen bei Gericht anzubringen. Zur Anbringung der Einwendungen ist eine Frist von vier Wochen zu bestimmen.
@@ -139,14 +139,14 @@ Eine gerichtliche Aufkündigung muss vor Beginn der für den darin genannten Kü
 `§ 563 (2) ZPO.`  
 Eine gerichtliche Aufkündigung ist für den darin genannten Kündigungstermin wirksam, wenn sie dem Gegner vor Beginn der für diesen Kündigungstermin gemäß § 560 Abs. 1 Z 1 und 2 einzuhaltenden Kündigungsfrist zugestellt wird oder wenn der Gegner bei verspäteter Zustellung gegen sie keine Einwendungen erhebt oder die Verspätung nicht rügt. Wenn der Gegner die Verspätung aber rügt, ist die Aufkündigung für den ersten späteren Kündigungstermin wirksam, für den die Frist zum Zeitpunkt ihrer Zustellung noch offen war.
 
-### § 564 ZPO # 
+### § 564 ZPO
 
 `§ 564 ZPO.`  
 Der über die Aufkündigung vom Gerichte an den Gegner der aufkündigenden Partei gemäß §. 562 erlassene Auftrag ist dem Gegner unter Mittheilung eines Exemplares des Schriftsatzes oder einer Protokollsabschrift nach den für die Zustellung von Klagen maßgebenden Vorschriften unverzüglich zuzustellen.
 
 ## Auftrag zur Übergabe oder Übernahme des Bestandgegenstandes.
 
-### § 567 ZPO # 
+### § 567 ZPO
 
 `§ 567 (1) ZPO.`  
 Bei Bestandverträgen, welche ohne vorhergegangene Aufkündigung nach Ablauf einer bestimmten Zeit erlöschen, kann jede Partei noch vor Ablauf der Bestandzeit eine gerichtliche Verfügung beantragen, mittels welcher dem Gegner aufgetragen wird, den Bestandgegenstand zur bestimmten Zeit bei sonstiger Execution zu übergeben oder zu übernehmen, oder gegen diesen Auftrag binnen vier Wochen Einwendungen bei Gericht anzubringen.
@@ -160,28 +160,28 @@ Die Bestimmung des §. 564 ist auch auf die Zustellung solcher Anträge anzuwend
 
 ## Verhältnis zum Afterbestandnehmer.
 
-### § 568 ZPO # 
+### § 568 ZPO
 
 `§ 568 ZPO.`  
 Alle gegen den Bestandnehmer erwirkten Aufkündigungen, Aufträge, Entscheidungen und Verfügungen, welche das Bestehen oder die Auflösung eines Bestandvertrages über einen der im §. 560 bezeichneten Gegenstände betreffen, sind auch gegen den Afterbestandnehmer wirksam und vollstreckbar, sofern nicht ein zwischen dem Afterbestandnehmer und dem Bestandgeber bestehendes Rechtsverhältnis entgegensteht.
 
 ## Stillschweigende Erneuerung des Bestandvertrages.
 
-### § 569 ZPO # 
+### § 569 ZPO
 
 `§ 569 ZPO.`  
 Bestandverträge, welche durch den Ablauf der Zeit erlöschen, ohne dass es behufs Auflösung des Vertrages oder Verhinderung seiner stillschweigenden Erneuerung einer Aufkündigung bedarf, sind dadurch, daß der Bestandnehmer fortfährt, den Bestandgegenstand zu gebrauchen oder zu benützen, und der Bestandgeber es dabei bewenden lässt, nur dann als stillschweigend erneuert anzusehen, wenn binnen vierzehn Tagen nach Ablauf der Bestandzeit, oder bei Verträgen, welche ursprünglich auf kürzere Zeit als auf einen Monat geschlossen wurden, binnen einer der Hälfte der ursprünglich bedungenen Zeit gleichkommenden Frist nach Ablauf des Vertrages weder von dem Bestandgeber eine Klage auf Zurückstellung, noch von dem Bestandnehmer auf Zurücknahme des Bestandgegenstandes erhoben wird.
 
 ## Fristen in Bestandsachen.
 
-### § 570 ZPO # 
+### § 570 ZPO
 
 `§ 570 ZPO.`  
 Die in den §§. 560 bis 569 festgesetzten Fristen können nicht verlängert werden.
 
 ## Verfahren.
 
-### § 571 ZPO # 
+### § 571 ZPO
 
 `§ 571 (1) ZPO.`  
 Über rechtzeitig erhobene Einwendungen ist eine vorbereitende Tagsatzung anzuberaumen. Bei der Anberaumung der ersten und der etwa folgenden Tagsatzungen, sowie bei der Bestimmung von Fristen ist auf die Dringlichkeit der Bestandsachen besonders Bedacht zu nehmen.
@@ -195,7 +195,7 @@ Verspätet angebrachte Einwendungen wider die Aufkündigung eines Bestandvertrag
 `§ 571 (4) ZPO.`  
 Bleibt eine der Parteien nach rechtzeitig erhobenen Einwendungen von einer Tagsatzung aus, bevor sie sich durch mündliches Vorbringen zur Hauptsache in den Streit eingelassen hat, so ist auf Antrag der erschienenen Partei ein Versäumungsurteil nach § 396 zu fällen.
 
-### § 572 ZPO # 
+### § 572 ZPO
 
 `§ 572 ZPO.`  
 In dem das Verfahren über Einwendungen erledigenden Urtheile ist auszusprechen, ob und inwieweit und – bei Behauptung verspäteter Zustellung – zu welchem Termin die Aufkündigung oder der nach §. 567 erlassene Auftrag als wirksam erkannt oder aufgehoben wird, sowie ob und wann der Beklagte verpflichtet ist, den Bestandgegenstand zu übergeben oder zu übernehmen.
@@ -211,12 +211,12 @@ Ist die Bestandzeit noch nicht verstrichen, so ist anzuordnen, daß der Bestandg
 `§ 573 (3) ZPO.`  
 Die Exekution kann auf Grund rechtskräftig gewordener Urteile, Aufkündigungen und gerichtlicher Aufträge zur Übergabe oder Übernahme des Bestandgegenstandes bewilligt werden, sobald die Frist verstrichen ist, innerhalb deren nach den vorangehenden Absätzen der Bestandgegenstand zu übergeben war.
 
-### § 574 ZPO # 
+### § 574 ZPO
 
 `§ 574 ZPO.`  
 Die Bestimmungen des §. 573 sind auch dann anzuwenden, wenn ein Bestandvertrag ohne vorausgegangene gerichtliche oder außergerichtliche Aufkündigung infolge einer Klage durch Urtheil für aufgehoben oder erloschen erklärt wird.
 
-### § 575 ZPO # 
+### § 575 ZPO
 
 `§ 575 ZPO.`  
 *(Anm.: Abs. 1 aufgehoben durch Art. III Z 28, BGBl. Nr. 282/1955)*
@@ -229,7 +229,7 @@ Eine gerichtliche Kündigung oder ein Auftrag zur Übergabe oder Übernahme des 
 
 ## Verträge gegen Entrichtung eines Zinses in Früchten.
 
-### § 576 ZPO # 
+### § 576 ZPO
 
 `§ 576 ZPO.`  
 Die Bestimmungen dieses Abschnittes finden auch auf die im §. 1103 a. b. G. B. bezeichneten Verträge Anwendung. Solche Verträge sind im Sinne dieses Gesetzes als Pachtverträge anzusehen.

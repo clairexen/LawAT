@@ -86,7 +86,7 @@ Vermögen im Inland hat, soweit es um dieses Vermögen betreffende Maßnahmen ge
 `§ 110 (2) JN.`  
 Hat der österreichische Minderjährige oder die sonstige schutzberechtigte Person den gewöhnlichen Aufenthalt oder Vermögen im Ausland oder handelt es sich um einen ausländischen Minderjährigen oder eine ausländische sonstige schutzberechtigte Person, so kann das Gericht von der Einleitung oder Fortsetzung des Verfahrens absehen, soweit und solange durch die im Ausland getroffenen oder zu erwartenden Maßnahmen die Rechte und Interessen des Minderjährigen oder der sonstigen schutzberechtigten Person ausreichend gewahrt werden. Im Falle eines österreichischen Minderjährigen ist vor der Entscheidung die Bezirksverwaltungsbehörde zu hören, in deren Sprengel das Gericht seinen Sitz hat.
 
-### § 111 JN # 
+### § 111 JN
 
 `§ 111 (1) JN.`  
 Wenn dies im Interesse eines Minderjährigen oder einer sonst schutzberechtigten Person gelegen erscheint, insbesondere wenn dadurch die wirksame Handhabung des pflegschaftsgerichtlichen Schutzes voraussichtlich gefördert wird, kann das zur Besorgung der pflegschaftsgerichtlichen Geschäfte zuständige Gericht von Amts wegen oder auf Antrag seine Zuständigkeit ganz oder zum Teil einem anderen Gericht übertragen.
@@ -94,7 +94,7 @@ Wenn dies im Interesse eines Minderjährigen oder einer sonst schutzberechtigten
 `§ 111 (2) JN.`  
 Die Übertragung wird wirksam, wenn das andere Gericht die Zuständigkeit oder die ihm übertragenen Geschäfte übernimmt. Im Falle der Weigerung des anderen Gerichtes bedarf die Übertragung zu ihrer Wirksamkeit der Genehmigung des den beiden Gerichten zunächst übergeordneten gemeinsamen höheren Gerichtes.
 
-### § 112 JN # 
+### § 112 JN
 
 `§ 112 (1) JN.`  
 Welche Gerichte zur Bestellung eines Curators für einzelne Streitsachen oder Geschäfte berufen sind, ist nach den für einzelne Fälle von Curatelen erlassenen besonderen Vorschriften, nach den Bestimmungen des bürgerlichen Rechtes und endlich nach den für das gerichtliche Verfahren geltenden Bestimmungen zu beurtheilen.
@@ -159,7 +159,7 @@ Der Abs. 2 gilt sinngemäß für ein Gericht, bei dem eine im § 76 Abs. 1 ge
 `§ 114a (4) JN.`  
 Die inländische Gerichtsbarkeit in Eheangelegenheiten und Angelegenheiten eingetragener Partnerschaften ist gegeben, wenn eine der Parteien die österreichische Staatsbürgerschaft hat oder ihren gewöhnlichen Aufenthalt im Inland hat. Für die Anerkennung einer ausländischen Entscheidung über den Bestand einer Ehe oder eingetragenen Partnerschaft ist die inländische Gerichtsbarkeit auch dann gegeben, wenn eine örtliche Zuständigkeit hiefür besteht. Die inländische Gerichtsbarkeit in Angelegenheiten der Auflösung einer eingetragenen Partnerschaft ist für in Österreich eingetragene Partnerschaften jedenfalls gegeben.
 
-### § 115 JN # Amortisirung von Urkunden # 
+### § 115 JN # Amortisirung von Urkunden
 
 `§ 115 (1) JN.`  
 Aufforderungen zum Zwecke der Amortisirung von Staatsobligationen und der denselben gleichgeachteten Creditpapiere sind bei demjenigen Gerichtshofe erster Instanz zu beantragen, an dessen Amtssitze die bezüglichen Creditbücher geführt werden.
@@ -179,7 +179,7 @@ Der Gerichtsstand zur Einleitung und Bewilligung der Amortisirung aller anderen 
 `§ 115 (4) JN.`  
 In Ermangelung einer anderweitigen Vorschrift ist für das Amortisirungsverfahren und die Bewilligung der Amortisirung das Bezirksgericht zuständig, bei welchem die um Amortisirung ansuchende Partei zur Zeit des Ansuchens ihren allgemeinen Gerichtsstand in Streitsachen hat.
 
-### § 116 JN # Fideicommiss-Angelegenheiten # 
+### § 116 JN # Fideicommiss-Angelegenheiten
 
 `§ 116 (1) JN.`  
 Bei Verhandlungen in nichtstreitigen Fideicommiss-Angelegenheiten einschließlich der Abhandlung des Fideicommissvermögens bei Todesfällen der Besitzer, der Erklärung über die erfolgte Löschung des Fideicommisses und der Bewilligung zu dessen Auflösung hat, soferne nicht in den genehmigten Fideicommissstatuten bezüglich der einzelnen Fideicommisse eine andere Fideicommissinstanz bestimmt ist, dasjenige Landesgericht einzuschreiten, vor welchem der Stifter des Fideicommisses zur Zeit seines Todes seinen allgemeinen Gerichtsstand hatte. Dagegen hat in Bezug auf Fideicommisse, welche schon vor Beginn der Wirksamkeit dieses Gesetzes errichtet wurden, derjenige Gerichtshof einzuschreiten, welcher bisher zur Ausübung der Gerichtsbarkeit in nichtstreitigen Fideicommissangelegenheiten zuständig war.
@@ -187,7 +187,7 @@ Bei Verhandlungen in nichtstreitigen Fideicommiss-Angelegenheiten einschließlic
 `§ 116 (2) JN.`  
 Wenn das Fideicommiss durch den Tod des letzten Besitzers erlischt, hat zwar die Verlassenschaftsbehörde des Verstorbenen die Abhandlung zu pflegen, die auf das Fideicommissband bezügliche Erklärung aber, dass das Fideicommiss erloschen sei, steht auch in dem Falle, als das Fideicommissgericht nicht zugleich Abhandlungsbehörde ist, dem Fideicommissgerichte zu.
 
-### § 117 JN # Realangelegenheiten # 
+### § 117 JN # Realangelegenheiten
 
 `§ 117 JN.`  
 Die Vornahme aller Realakte, als insbesondere eines Augenscheines und Sachverständigenbefundes, einer Inventur, Schätzung, Feilbietung, Einführung eines Verwalters kommt, soferne nicht bezüglich einzelner Akte oder bestimmter Verfahren etwas anderes angeordnet ist, dem Bezirksgerichte zu, in dessen Sprengel sich die Sache befindet.
@@ -220,7 +220,7 @@ das Bezirksgericht am Sitze des Gerichtshofes, der nach den besonderen Vorschrif
 bei anderen unbeweglichen Sachen  
 das Bezirksgericht, in dessen Sprengel die unbeweglichen Sachen ganz oder mit ihren Hauptbestandteilen liegen.
 
-### § 119 JN # Aufkündigung von Hypothekarforderungen # 
+### § 119 JN # Aufkündigung von Hypothekarforderungen
 
 `§ 119 JN.`  
 Die gerichtliche Aufkündigung einer Hypothekarforderung (§. 59 allgemeines Grundbuchsgesetz) hat stets bei dem Grundbuchsgerichte zu erfolgen.
@@ -269,12 +269,12 @@ Entsteht eine neue Gesellschaft durch Spaltung nach dem SpaltG, so ist für ihre
 `§ 120 (7) JN.`  
 Werden Gesellschaften verschmolzen, so ist sowohl für die Eintragung bei der übernehmenden Gesellschaft als auch bei der übertragenden Gesellschaft das Gericht zuständig, in dessen Sprengel die übernehmende Gesellschaft ihren Sitz hat. Wird eine Gesellschaft zur Aufnahme gespalten, so ist sowohl für die Eintragung bei der übertragenden Gesellschaft als auch bei der übernehmenden Gesellschaft das Gericht zuständig, in dessen Sprengel die übertragende Gesellschaft ihren Sitz hat.
 
-### § 120a JN # Bestätigungen über die Führung der Handelsbücher # 
+### § 120a JN # Bestätigungen über die Führung der Handelsbücher
 
 `§ 120a JN.`  
 Zur Ertheilung von Bestätigungen über die gesetzmäßige Beschaffenheit der Handelsbücher ist, wenn die Bücher an einem Orte geführt werden, an welchem ein Handelsgericht oder ein Landesgericht seinen Sitz hat, dieser Gerichtshof, sonst aber das Bezirksgericht zuständig, in dessen Sprengel die Handelsbücher geführt werden.
 
-### § 121 JN # Beglaubigung von Unterschriften und Abschriften, und Aufnahme letztwilliger Anordnungen # 
+### § 121 JN # Beglaubigung von Unterschriften und Abschriften, und Aufnahme letztwilliger Anordnungen
 
 `§ 121 JN.`  
 Die Beglaubigung von Unterschriften, die Vidimirung von Abschriften und die gerichtliche Aufnahme letztwilliger Anordnungen können von jedem Bezirksgerichte vorgenommen werden.

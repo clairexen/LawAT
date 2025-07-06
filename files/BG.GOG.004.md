@@ -14,7 +14,7 @@
 
 ## Organisirungsgesetze.
 
-### § 48 GOG # 
+### § 48 GOG
 
 `§ 48 GOG.`  
 Soweit im gegenwärtigen Gesetze oder in der Jurisdictionsnorm, der Civilprocessordnung, der Executionsordnung und in den dazu erlassenen Einführungsgesetzen nicht etwas anderen angeordnet ist, bleiben die Vorschriften der mit Ministerialverordnung vom 19. Jänner 1853, R. G. Bl. Nr. 10, kundgemachten Allerhöchsten Entschließung vom 14. September 1852, über die Einrichtung der Gerichtsbehörden, die Vorschriften des Gesetzes vom 26. April 1873, R. G. Bl. Nr. 62, betreffend den Vorgang bei Änderungen in den Sprengeln der Gerichtshöfe erster Instanz, und die Bestimmungen des §. 2 des Gesetzes vom 11. Juni 1868, R. G. Bl. Nr. 59, betreffend die Organisirung der Bezirksgerichte, in Wirksamkeit.
@@ -58,7 +58,7 @@ Bei jedem Gericht besteht eine Geschäftsstelle (Gerichtskanzlei). Dieser oblieg
 `§ 49 (2) GOG.`  
 Die näheren Regelungen über die Organisation der Geschäftsstelle und die dort verwendeten Personen sind durch Verordnung zu treffen. In dieser ist insbesondere auch festzustellen, wie weit bei Gerichten für die Erledigung von Rechnungsarbeiten durch die Bestellung von Bediensteten der Geschäftsstelle Vorsorge zu treffen ist, die zum Rechnungsdienst befähigt oder sonst rechnungsverständig sind.
 
-### § 50 GOG # 
+### § 50 GOG
 
 `§ 50 (1) GOG.`  
 Zum Beamten der Gerichtskanzlei darf nur ernannt werden, wer den Besitz der für sämmtliche Zweige des Kanzleidienstes erforderlichen Kenntnisse und praktischen Gewandtheit durch eine mit gutem Erfolg abgelegte Prüfung nachgewiesen hat. Der Prüfung muss ein Vorbereitungsdienst vorangehen. Die Prüfung ist bei dem Oberlandesgerichte abzulegen. Den Vorsitz in der Prüfungscommission hat ein Rath des Oberlandesgerichtes zu führen; als Commissionsmitglieder sind Räthe des Gerichtshofes erster Instanz am Sitze des Oberlandesgerichtes und Vorsteher oder leitende Beamte der Gerichtskanzlei beizuziehen. Ist der Vorbereitungsdienst in einem Lande vollstreckt worden, in dem kein Oberlandesgericht besteht, so kann die Prüfung auch bei dem Landesgerichte dieses Landes abgelegt werden. Die Prüfungskommission ist in diesem Falle aus Richtern und Kanzleibeamten des Gerichtshofes zu bilden.
@@ -72,7 +72,7 @@ Die nähere Bestimmung der Erfordernisse für die Anstellung als Beamter der Ger
 `§ 50 (4) GOG.`  
 Die Erfordernisse für die Ernennung zu Beamten der gerichtlichen Rechnungsdepartments und Depositenämter sind bis zu Erlassung neuer Anordnungen nach den bei Beginn der Wirksamkeit dieses Gesetzes darüber bestehenden Vorschriften zu beurtheilen.
 
-### § 51 GOG # 
+### § 51 GOG
 
 `§ 51 (1) GOG.`  
 Zur Besorgung der Kanzleigeschäfte und zur Unterstützung der Beamten der Gerichtskanzlei bei Besorgung ihrer Amtsgeschäfte können Kanzleigehilfen aufgenommen werden. Die Aufnahme kann gegen festen Gehalt oder gegen Taggeld auf Kündigung erfolgen.
@@ -86,7 +86,7 @@ Die näheren Vorschriften über diese Prüfung und die sonstigen Bestimmungen ü
 `§ 51 (4) GOG.`  
 Die Kanzleigehilfen haben die genaue Erfüllung der ihnen ertheilten Dienstaufträge und die Verschwiegenheit in Sachen des gerichtlichen Dienstes eidlich zu geloben.
 
-### § 52 GOG # 
+### § 52 GOG
 
 `§ 52 (1) GOG.`  
 Dem Bedürfnis nach vorübergehender Personalvermehrung, das sich durch die Behinderung eines Kanzleibeamten, stärkeren Geschäftsandrang oder aus anderen Gründen ergibt, kann der Präsident des Oberlandesgerichtes durch einstweilige Zuweisungen aus dem Kanzleipersonale seines Sprengels abhelfen.
@@ -101,12 +101,12 @@ wegen einer oder mehrerer mit Vorsatz begangenen strafbaren Handlungen zu einer 
 `§ 52 (3) Z 2 GOG.`
 wegen einer mit Bereicherungsvorsatz begangenen strafbaren Handlung oder wegen einer strafbaren Handlung gegen die sexuelle Integrität und Selbstbestimmung verurteilt worden ist.
 
-### § 53 GOG # 
+### § 53 GOG
 
 `§ 53 GOG.`  
 Die Ordnung des Dienstverhältnisses der in der Gerichtskanzlei beschäftigten Personen, einschließlich der Regelung des Ranges und der Bezüge, die Festsetzung der Dienstpflichten und Amtsverrichtungen dieser Personen, die Bestimmungen und Abgrenzung des Wirkungskreises der Vorsteher und leitenden Beamten der Gerichtskanzlei, die Bezeichnung der Geschäfte, die bei Vorhandensein von leitenden Beamten nur von diesen besorgt werden dürfen, die Ordnung der Vertretung von Kanzleibeamten in Verhinderungsfällen, die Feststellung, inwieweit Geschäfte der Gerichtskanzlei auch von anderen, nicht zu den Beamten gehörigen, in der Gerichtskanzlei verwendeten Personen wahrgenommen werden dürfen, und die Regelung der Aufsichtsführung über die Gerichtskanzlei bleiben, soweit nicht das gegenwärtige Gesetz Bestimmungen darüber enthält, den im Verordnungswege zu erlassenden Dienstvorschriften und den zu deren Durchführung vom Justizminister zu erlassenden Anordnungen vorbehalten.
 
-### § 54 GOG # 
+### § 54 GOG
 
 `§ 54 (1) GOG.`  
 Die Besorgung der Grundbuchsführung und aller damit zusammenhängenden Geschäfte, die nach den dafür geltenden Vorschriften vom Grundbuchsführer oder vom Grundbuchsamte zu verrichten sind, werden der Gerichtskanzlei zugewiesen. Wo besondere Grundbuchsämter bestehen, bilden diese eine selbständige Abtheilung der Gerichtskanzlei.
@@ -122,7 +122,7 @@ Bei Gerichten, für welche keine eigenen Grundbuchsbeamten bestellt oder bei wel
 `§ 55 GOG.`  
 Die Vornahme der verfügten Eintragungen in das Firmenbuch, die Anordnung, welche Unterlagen in die Urkundensammlung aufzunehmen sind, sowie die Überwachung und Feststellung der gehörigen Veröffentlichungen von Firmenbucheintragungen sind Aufgaben des Rechtspflegers. Soweit der Richter als Rechtsprechungsorgan einschreitet oder die Entscheidung an sich zieht, stehen ihm auch die vorstehend angeführten Aufgaben zu. Die Führung der Register und die Besorgung aller anderen mit der Führung des Firmenbuchs zusammenhängenden Kanzleigeschäfte sind jedenfalls Aufgaben der Geschäftsstelle.
 
-### § 56 GOG # 
+### § 56 GOG
 
 `§ 56 (1) GOG.`  
 Anträge, Gesuche und bei Gericht abgegebene Erklärungen, die mündlich vorgebracht werden dürfen und nicht nach gesetzlicher Vorschrift vom Richter selbst entgegenzunehmen sind, können in der Gerichtskanzlei zu Protokoll genommen werden. Vormünder und Kuratoren können die Angelobung in der Gerichtskanzlei leisten.
@@ -139,35 +139,35 @@ Die Gerichtskanzlei erteilt den Parteien die nach Zulaß des Gesetzes begehrten 
 `§ 56 (5) GOG.`  
 Die in der Gerichtskanzlei verwendeten Personen haben, soweit es ihre Ausbildung und dienstliche Erfahrung gestattet, Schriftführerdienste zu leisten und für die richterliche Erledigung Entwürfe vorzubereiten. Näheres bestimmt die Geschäftsordnung.
 
-### § 57 GOG # 
+### § 57 GOG
 
 `§ 57 GOG.`  
 Soweit nicht die Strafprocessordnung einzelne dieser Geschäfte dem Richter selbst überträgt, wird die Übernahme der in Strafsachen an das Gericht gelangenden Eingaben und Acten, die Ausfertigung strafgerichtlicher Erkenntnisse und Beschlüsse, die Bewirkung der Zustellungen und Ladungen im Strafverfahren und die Aufbewahrung der strafgerichtlichen Acten der Gerichtskanzlei zugewiesen.
 
 *(Anm.: aufgehoben durch Art. VI Z 5 BG, BGBl. Nr. 222/1929)*
 
-### § 58 GOG # 
+### § 58 GOG
 
 `§ 58 GOG.`  
 Die Geschäftseinrichtung der Gerichtskanzlei ist im Verordnungswege zu bestimmen. Hiebei ist auf thunlichste Vereinfachung der Geschäftsformen, Erleichterung der Kanzleimanipulation und Einschränkung der Schreibgeschäfte Bedacht zu nehmen und der Geschäftsbetrieb so zu gestalten, dass die Gerichtskanzlei in den Stand gesetzt wird, bei Erfüllung ihrer Obliegenheiten in Bezug auf die Schnelligkeit und Verlässlichkeit des gerichtlichen Hilfsdienstes allen Anforderungen des Rechtsverkehres zu genügen.
 
 *(Anm.: aufgehoben durch Art. VI Z 5 BG, BGBl. Nr. 222/1929)*
 
-### § 59 GOG # 
+### § 59 GOG
 
 `§ 59 GOG.`  
 Soweit nicht gesetzliche Vorschriften im einzelnen entgegenstehen, können der Gerichtskanzlei auch die in Strafsachen, sowie die in Sachen der streitigen und nicht streitigen Gerichtsbarkeit und namentlich im Insolvenz- und Executionsverfahren vorgeschriebenen Benachrichtigungen von Verwaltungs- und anderen Behörden und Organen, sowie andere nicht mit Rechtsanwendung verbundene Expeditionen und die bei Ausübung der Gerichtsbarkeit vorkommenden Acte und Verrichtungen des äußeren Geschäftsganges übertragen werden.
 
 *(Anm.: aufgehoben durch Art. VI Z 5 BG, BGBl. Nr. 222/1929)*
 
-### § 60 GOG # 
+### § 60 GOG
 
 `§ 60 GOG.`  
 Bei Bezirksgerichten, die mit mehreren Einzelrichtern besetzt sind, und bei Gerichtshöfen, bei welchen mehrere Senate bestehen oder Gerichtshofsgeschäfte von Mitgliedern des Gerichtshofes als Einzelrichter erledigt werden, können Abtheilungen der Gerichtskanzlei gebildet werden, deren jede nach Maßgabe des Bedarfes für einen bestimmten Einzelrichter oder Senat oder für eine bestimmte Gruppe von Richtern oder Senaten die gesammten Geschäfte der Gerichtskanzlei ausschließlich zu besorgen hat. Die Vollziehung von Zustellungen und Ladungen und die Vornahme von Executionshandlungen kann hiebei aus den Obliegenheiten dieser Abtheilungen ausgesondert und einer selbständigen Abtheilung der Gerichtskanzlei übertragen werden, welche alle derartigen, bei diesem Gerichte vorkommenden Amtshandlungen zu besorgen hat.
 
 *(Anm.: aufgehoben durch Art. VI Z 5 BG, BGBl. Nr. 222/1929)*
 
-### § 61 GOG # 
+### § 61 GOG
 
 `§ 61 GOG.`  
 Die einzelnen Abtheilungen der Gerichtskanzlei haben die dienstlichen Aufträge des Richters, dem sie zugewiesen sind, oder bei Gerichtshöfen des Senatsvorsitzenden zu erfüllen. Sie haben sich in Beschränkung auf die Angelegenheiten, deren Erledigung diesem Richter oder Senate übertragen ist, allen Verrichtungen zu unterziehen, die im Interesse des Geschäftsbetriebes nothwendig erscheinen und zu den amtlichen Obliegenheiten der Gerichtskanzlei gehören.
@@ -187,7 +187,7 @@ Die Dienstverhältnisse der Diener, Aushilfsdiener und Gefangenaufseher, sowie d
 
 ## Dritter Abschnitt. # Disciplinargewalt über die nicht richterlichen Beamten und Diener.
 
-### § 63 GOG # 
+### § 63 GOG
 
 `§ 63 (1) GOG.`  
 Die Aufsicht über die bei einem Bezirksgerichte angestellten oder verwendeten, nicht richterlichen Beamten, Kanzleigehilfen und Diener steht dem Bezirksrichter im Einvernehmen mit dem Richter zu, dem die betreffende Person zur Verwendung zugewiesen ist. Bei Gerichtshöfen wird sie durch den Präsidenten des Gerichtshofes unter Mitwirkung der von ihm damit beauftragten Richter oder richterlichen Hilfsbeamten ausgeübt.

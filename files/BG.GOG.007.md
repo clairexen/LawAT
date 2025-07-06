@@ -14,7 +14,7 @@
 
 ## Postsendungen, Ablichtungen und telegrafische Eingaben
 
-### § 89 GOG # 
+### § 89 GOG
 
 `§ 89 (1) GOG.`  
 Bei gesetzlichen oder richterlichen Fristen, die in bürgerlichen Rechtssachen einer Partei zur Abgabe von Erklärungen, Anbringung von Anträgen, Überreichung von Schriftsätzen oder zur Vornahme anderer, ein gerichtliches Verfahren betreffenden Handlungen offen stehen, werden die Tage des Postenlaufes in die Frist nicht eingerechnet.
@@ -236,7 +236,7 @@ Soweit den Verantwortlichen Rechte und Pflichten nach der StPO treffen, sind die
 
 ## Vertreter für Verfahrenshilfe genießende Parteien
 
-### § 90 GOG # 
+### § 90 GOG
 
 `§ 90 GOG.`  
 *(Anm.: aufgehoben durch Art. VI Z 7 BG, BGBl. Nr. 135/1983)*

@@ -102,12 +102,12 @@ Der Inhalt des Verhandlungsprotokolls, des im Laufe eines Rechtsstreites durch e
 
 ## Sechster Titel. # Acten.
 
-### § 218 ZPO # 
+### § 218 ZPO
 
 `§ 218 ZPO.`  
 Jede Partei kann zur Begründung ihrer Anträge auch auf die ihr auf Veranlassung des Gegners zugestellten Schriftstücke Bezug nehmen. Sie kann, wenn diese Schriftstücke in Verlust gerathen sind, und sich auch kein Exemplar derselben bei Gericht befindet, verlangen, dass ihr der Gegner gestatte, auf ihre Kosten von den in seinen Händen befindlichen bezüglichen Schriftstücken Abschriften zu nehmen.
 
-### § 219 ZPO # 
+### § 219 ZPO
 
 `§ 219 (1) ZPO.`  
 Die Parteien können in sämtliche ihre Rechtssache betreffenden, bei Gericht befindlichen Akten (Prozessakten), mit Ausnahme der Entwürfe zu Urteilen und Beschlüssen, der Protokolle über Beratungen und Abstimmungen des Gerichtes und solcher Schriftstücke, welche Disziplinarverfügungen enthalten, sowie anderer kraft ausdrücklicher Anordnung der Akteneinsicht entzogener Aktenstücke, Einsicht nehmen und sich davon auf ihre Kosten Abschriften (Kopien) und Auszüge (Ausdrucke) erteilen lassen.
@@ -121,7 +121,7 @@ Zum Zweck der nicht personenbezogenen Auswertung für die Statistik, für wissen
 
 ## Siebenter Titel. # Strafen.
 
-### § 220 ZPO # 
+### § 220 ZPO
 
 `§ 220 (1) ZPO.`  
 Eine Ordnungsstrafe darf den Betrag von 2 000 Euro, eine Mutwillensstrafe den Betrag von 4 000 Euro nicht übersteigen.
@@ -135,7 +135,7 @@ Strafverfügungen sind von amtswegen zu vollziehen.
 
 ## Achter Titel. # Sonn- und Feiertagsruhe, Fristenhemmung
 
-### § 221 ZPO # 
+### § 221 ZPO
 
 `§ 221 (1) ZPO.`  
 An Samstagen, Sonntagen und gesetzlichen Feiertagen dürfen Tagsatzungen nicht abgehalten werden.
@@ -176,7 +176,7 @@ Für Tagsatzungen, die in den Zeitraum nach Abs. 1 fallen, ist der Erstreckungs
 
 ## Zweiter Theil. # Verfahren vor den Gerichtshöfen erster Instanz. # Erster Abschnitt. # Verfahren bis zum Urtheile. # Erster Titel. # Klage, Klagebeantwortung, vorbereitendes Verfahren und Streitverhandlung. # Klage.
 
-### § 226 ZPO # 
+### § 226 ZPO
 
 `§ 226 (1) ZPO.`  
 Die mittels vorbereitenden Schriftsatzes anzubringende Klage hat ein bestimmte Begehren zu enthalten, die Thatsachen, auf welche sich der Anspruch des Klägers in Haupt- und Nebensachen gründet, im einzelnen kurz und vollständig anzugeben, und ebenso die Beweismittel im einzelnen genau zu bezeichnen, deren sich der Kläger zum Nachweise seiner thatsächlichen Behauptung bei der Verhandlung zu bedienen beabsichtigt.
@@ -187,7 +187,7 @@ Wenn die Zuständigkeit oder die Besetzung (§ 7a der Jurisdiktionsnorm) des an
 `§ 226 (3) ZPO.`  
 Im übrigen sind auf die Klageschrift die allgemeinen Vorschriften über vorbereitende Schriftsätze anzuwenden.
 
-### § 227 ZPO # 
+### § 227 ZPO
 
 `§ 227 (1) ZPO.`  
 Mehrere Ansprüche des Klägers gegen denselben Beklagten können, auch wenn sie nicht zusammenzurechnen sind (§ 55 JN), in derselben Klage geltend gemacht werden, wenn für sämtliche Ansprüche  
@@ -199,12 +199,12 @@ dieselbe Art des Verfahrens zulässig ist.
 `§ 227 (2) ZPO.`  
 Jedoch können Ansprüche, die den im § 49 Abs. 1 JN bezeichneten Betrag nicht übersteigen, mit solchen Ansprüchen verbunden werden, die ihn übersteigen, ferner Ansprüche, die vor den Einzelrichter gehören, mit solchen, die vor den Senat gehören. Im ersten Fall richtet sich die Zuständigkeit nach dem höheren Betrag; im zweiten Fall ist der Senat zur Entscheidung über sämtliche Ansprüche berufen.
 
-### § 228 ZPO # 
+### § 228 ZPO
 
 `§ 228 ZPO.`  
 Es kann auf Feststellung des Bestehens oder Nichtbestehens eines Rechtsverhältnisses oder Rechtes, auf Anerkennung der Echtheit einer Urkunde oder Feststellung der Unechtheit derselben Klage erhoben werden, wenn der Kläger ein rechtliches Interesse daran hat, dass jenes Rechtsverhältnis oder Recht oder die Urkundenechtheit durch eine gerichtliche Entscheidung alsbald festgestellt werde.
 
-### § 229 ZPO # 
+### § 229 ZPO
 
 `§ 229 (1) ZPO.`  
 Schon in der Klage kann der Antrag gestellt werden:  
@@ -219,7 +219,7 @@ dass die zur Bewahrheitung thatsächlicher Behauptungen in der Klage namhaft gem
 Dem unter Z 2 erwähnten Antrage ist nur dann stattzugeben, wenn sich die Partei die betreffenden Urkunden, Auskunftssachen oder Augenscheinsgegenstände nach den bestehenden gesetzlichen Vorschriften ohne Mitwirkung des Gerichtes nicht zu verschaffen vermag, oder wenn ihr deren Ausfolgung von der Behörde oder dem Notar in ungerechtfertigter Weise verweigert wurde.
 *(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 76/2002)*
 
-### § 230 ZPO # 
+### § 230 ZPO
 
 `§ 230 (1) ZPO.`  
 Ist kein Zahlungsbefehl zu erlassen, so hat der Vorsitzende des Senates, welchem die Rechtssache zugewiesen ist, dem Beklagten die Beantwortung der Klage mit Beschluss aufzutragen. Die Frist für die Beantwortung der Klage beträgt vier Wochen. Dieser Beschluss kann nicht durch ein Rechtsmittel angefochten werden.
@@ -237,7 +237,7 @@ Wird die sachliche oder örtliche Unzuständigkeit des angerufenen Gerichts ausg
 
 ## Streitanhängigkeit.
 
-### § 232 ZPO # 
+### § 232 ZPO
 
 `§ 232 (1) ZPO.`  
 Die Rechtshängigkeit der Streitsache (Streitanhängigkeit) wird durch die Zustellung der Klageschrift an den Beklagten begründet. Zur Wahrung einer Frist sowie zur Unterbrechung des Ablaufes einer Frist genügt, wenn nichts anderes vorgeschrieben ist, die Überreichung der Klage bei Gericht.
@@ -245,7 +245,7 @@ Die Rechtshängigkeit der Streitsache (Streitanhängigkeit) wird durch die Zuste
 `§ 232 (2) ZPO.`  
 Wird von einer Partei erst im Laufe des Processes ein Anspruch erhoben, so tritt die Streitanhängigkeit in Ansehung dieses Anspruches mit dem Zeitpunkte ein, in welchem derselbe bei der mündlichen Verhandlung geltend gemacht wurde.
 
-### § 233 ZPO # 
+### § 233 ZPO
 
 `§ 233 (1) ZPO.`  
 Die Streitanhängigkeit hat die Wirkung, dass während ihrer Dauer über den geltend gemachten Anspruch weder bei demselben noch bei einem anderen Gerichte ein Rechtsstreit durchgeführt werden darf. Eine während der Streitanhängigkeit wegen des nämlichen Anspruches angebrachte Klage ist auf Antrag oder von amtswegen zurückzuweisen.
@@ -253,14 +253,14 @@ Die Streitanhängigkeit hat die Wirkung, dass während ihrer Dauer über den gel
 `§ 233 (2) ZPO.`  
 Nach dem Eintritte der Streitanhängigkeit kann der Beklagte, wenn die sonstigen gesetzlichen Bedingungen des Gerichtsstandes der Widerklage vorhanden sind, bei dem Gerichte der Klage insolange eine Widerklage anbringen, als nicht die mündliche Verhandlung in erster Instanz geschlossen ist.
 
-### § 234 ZPO # 
+### § 234 ZPO
 
 `§ 234 ZPO.`  
 Die Veräußerung einer in Streit verfangenen Sache oder Forderung hat auf den Process keinen Einfluss. Der Erwerber ist nicht berechtigt, ohne Zustimmung des Gegners als Hauptpartei in den Process einzutreten.
 
 ## Klagsänderung.
 
-### § 235 ZPO # 
+### § 235 ZPO
 
 `§ 235 (1) ZPO.`  
 Zu einer Änderung der bei Gericht überreichten Klage, und namentlich zu einer Erweiterung des Klagebegehrens, durch welche die Zuständigkeit des Processgerichtes nicht ausgeschlossen wird, ist der Kläger vor Eintritt der Streitanhängigkeit stets berechtigt.
@@ -279,7 +279,7 @@ Es ist weder eine Änderung der Klage noch eine Änderung der Partei, wenn die P
 
 ## Zwischenantrag auf Feststellung.
 
-### § 236 ZPO # 
+### § 236 ZPO
 
 `§ 236 (1) ZPO.`  
 Der Kläger kann ohne Zustimmung des Beklagten bis zum Schlusse der mündlichen Verhandlung, über welche das Urtheil ergeht, den Antrag stellen, dass ein im Laufe des Processes streitig gewordenes Rechtsverhältnis oder Recht, von dessen Bestehen oder Nichtbestehen die Entscheidung über das Klagebegehren ganz oder zum Theile abhängt, in dem über die Klage ergehenden oder in einem demselben vorausgehenden Urtheile festgestellt werde.
@@ -292,7 +292,7 @@ Ein neuer Antrag kann auch eine Anerkennung von Akten oder Urkunden, die im Ausl
 
 ## Zurücknahme der Klage.
 
-### § 237 ZPO # 
+### § 237 ZPO
 
 `§ 237 (1) ZPO.`  
 Die Klage kann ohne Zustimmung des Beklagten nur bis zum Einlangen der Klagebeantwortung oder des Einspruchs gegen den Zahlungsbefehl zurückgenommen werden. Wenn gleichzeitig auf den Anspruch verzichtet wird, kann die Klage ohne Zustimmung des Beklagten bis zum Schlusse der mündlichen Streitverhandlung zurückgenommen werden.
@@ -306,7 +306,7 @@ Die Zurücknahme der Klage hat zur Folge, daß die Klage als nicht angebracht an
 `§ 237 (4) ZPO.`  
 Die zurückgenommene Klage kann neuerlich angebracht werden, wenn nicht bei deren Zurücknahme auf den geltend gemachten Anspruch verzichtet wurde.
 
-### § 238 ZPO # 
+### § 238 ZPO
 
 `§ 238 ZPO.`  
 Die in §. 237 bezeichneten Rechtsfolgen treten auch dann ein, wenn eine Klage in Gemäßheit der Bestimmungen dieses Gesetzes als zurückgenommen zu gelten hat.

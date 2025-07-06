@@ -39,14 +39,14 @@ Die Bundesministerin oder der Bundesminister für Justiz informiert die Vereinig
 `§ 73a (2) GOG.`  
 Jedenfalls anzuhören ist die Vereinigung der österreichischen Richterinnen und Richter vor Erlassung der näheren Vorschriften zu den §§ 78a und 78b und bei der inhaltlichen Gestaltung des Auswahlverfahrens sowie des richterlichen Vorbereitungsdienstes. Weiters ist sie in den einzelnen Verfahren zur Aufnahme in den richterlichen Vorbereitungsdienst über die Ergebnisse der von der Präsidentin oder dem Präsidenten vorzunehmenden Prüfung der Aufnahmeerfordernisse zu informieren und ihr Gelegenheit zur Stellungnahme zu geben.
 
-### § 74 GOG # 
+### § 74 GOG
 
 `§ 74 GOG.`  
 Die unmittelbare Dienstaufsicht über die Bezirksgerichte führen die Gerichtshöfe erster Instanz und deren Präsidenten, die unmittelbare Dienstaufsicht über die Gerichtshöfe erster Instanz die Oberlandesgerichte und deren Präsidenten; letztere haben auch die Geschäftsführung bei den Bezirksgerichten ihres Sprengels in ihre Aufsicht einzubeziehen.
 
 Dem Justizminister steht die unmittelbare Dienstaufsicht über die Oberlandesgerichte und zugleich die allgemeine Oberaufsicht über die Ausübung der Rechtspflege bei allen im Geltungsgebiete dieses Gesetzes befindlichen Gerichten zu.
 
-### § 75 GOG # 
+### § 75 GOG
 
 `§ 75 (1) GOG.`  
 Die Gerichtshöfe erster und zweiter Instanz sowie deren Vorsteher haben die unmittelbare Dienstaufsicht nach Maßgabe der vom Justizminister zu erlassenden Weisungen zu führen. Insbesondere haben die Vorsteher der Gerichtshöfe die ihrer Aufsicht unterstehenden Gerichte periodisch eingehend zu untersuchen. Wo es besondere Vorfälle nöthig machen, können außerordentliche Untersuchungen stattfinden oder vom Präsidenten des Oberlandesgerichtes oder vom Justizminister angeordnet werden.
@@ -54,7 +54,7 @@ Die Gerichtshöfe erster und zweiter Instanz sowie deren Vorsteher haben die unm
 `§ 75 (2) GOG.`  
 Die zur Dienstaufsicht berufenen Gerichtsbehörden oder deren Präsidenten haben auf Grund der Untersuchungsergebnisse die in ihrem Wirkungskreise gelegenen Verfügungen sogleich zu treffen, die sonst erforderlichen Maßregeln aber unter Anschluss des Untersuchungsberichtes bei dem Justizminister in Antrag zu bringen.
 
-### § 76 GOG # 
+### § 76 GOG
 
 `§ 76 (1) GOG.`  
 Im Rechte der Aufsicht liegt die Befugnis, die ordnungsmäßige Ausführung der Geschäfte zu überwachen, die Gerichte und Staatsanwaltschaften zur Erfüllung ihrer Pflichten anzuhalten und wahrgenommene Gebrechen abzustellen oder bei dem zur Anordnung der erforderlichen Vorkehrungen berufenen übergeordneten Gerichte darüber Anzeige zu erstatten.
@@ -65,12 +65,12 @@ Das Recht der Aufsicht erstreckt sich auf alle Personen, die bei den der Aufsich
 `§ 76 (3) GOG.`  
 Die Gerichte und deren Personal haben die Anordnungen der mit der Aufsicht betrauten Behörden und Organe genau zu befolgen und denselben auf Verlangen über alle Amtsgeschäfte Auskunft und Rechenschaft zu geben.
 
-### § 77 GOG # 
+### § 77 GOG
 
 `§ 77 GOG.`  
 Der Oberste Gerichts- und Cassationshof ist befugt, anlässlich der Ausübung seines richterlichen Amtes wahrgenommene Gebrechen im Geschäftsgange der Gerichte erster und zweiter Instanz zu rügen und dem Justizminister von den wahrgenommenen Gebrechen und von den zu deren Abstellung dienlichen Anordnungen Mittheilung zu machen.
 
-### § 78 GOG # 
+### § 78 GOG
 
 `§ 78 (1) GOG.`  
 Beschwerden der Beteiligten wegen Verweigerung oder Verzögerung der Rechtspflege können,  
@@ -173,7 +173,7 @@ In gleicher Weise wird Anordnungen, wonach Geschäftsverteilungen, Geschäftsein
 
 ## Fünfter Abschnitt. # Behandlung der Geschäfte bei den Gerichten. # Ausfertigung von Erledigungen
 
-### § 79 GOG # 
+### § 79 GOG
 
 `§ 79 (1) GOG.`  
 Die schriftlichen Ausfertigungen der Urteile, Beschlüsse, Vergleiche und Bestätigungen der Rechtskraft oder Vollstreckbarkeit werden bei allen Gerichten von der Gerichtskanzlei unter dem Vermerk unterschrieben: „Für die Richtigkeit der Ausfertigung.“ Ebenso kann in Justizverwaltungssachen auf den Ausfertigungen an die Stelle der Unterschrift dessen, der die Erledigung genehmigt hat, die Beglaubigung durch die Gerichtskanzlei treten. Ausfertigungen, die mittels automationsunterstützter Datenverarbeitung erstellt werden, bedürfen weder einer Unterschrift noch einer Beglaubigung. Ausfertigungen in zivilgerichtlichen Verfahren, die elektronisch erstellt und abgefertigt werden, sind mit der elektronischen Signatur der Justiz zu versehen. Diese muss den Anforderungen der §§ 19 und 20 EGovernment-Gesetz, BGBl. I Nr. 10/2004, entsprechen. In der Ausfertigung ist auch der Name des Entscheidungsorgans anzuführen.

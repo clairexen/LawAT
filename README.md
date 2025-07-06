@@ -4,7 +4,7 @@ Dieser Datensatz ist keine weitere "Online Rechtsdatenbank", sondern eine Sammlu
 
 * **[Zu der Liste der aktuell inkludierten Normen](https://github.com/clairexen/RisEx/blob/main/files/index.md)**
 
-Dataset Downloads:
+LawAT Data-Set Download Links:
 * **[LawAT_DataSet.zip](https://clairexen.github.io/LawAT/LawAT_DataSet.zip)** (incl. binary objects)
 * **[LawAT_DataSet.json](https://clairexen.github.io/LawAT/LawAT_DataSet.json)** (not incl. binary objects)
 

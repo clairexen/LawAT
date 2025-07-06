@@ -14,7 +14,7 @@
 
 ## Berufungsentscheidung.
 
-### § 494 ZPO # 
+### § 494 ZPO
 
 `§ 494 ZPO.`  
 Überzeugt sich das Gericht aus Anlass einer Berufungsverhandlung, dass das angefochtene Urtheil oder das Verfahren in erster Instanz an einer bisher unbeachtet gebliebenen Nichtigkeit leide, so ist, sofern nicht ein durch ausdrückliche oder stillschweigende Genehmigung beseitigter Mangel der Vertretung (§. 477, Z 5) vorliegt, im Sinne der §§. 477 und 478 vorzugehen, wenn auch die Nichtigkeit von keiner der Parteien geltend gemacht wurde.
@@ -24,7 +24,7 @@
 `§ 495 ZPO.`  
 Werden die im § 471 Z 2 und 3 bezeichneten Mängel erst bei der mündlichen Verhandlung wahrgenommen, so ist die Berufung durch Beschluß zurückzuweisen; im Fall des § 471 Z 3 jedoch nur, wenn der anwesende Berufungswerber die Berufungsschrift trotz Aufforderung nicht verbessert.
 
-### § 496 ZPO # 
+### § 496 ZPO
 
 `§ 496 (1) ZPO.`  
 Die Sache ist vom Berufungsgerichte an das Processgericht erster Instanz zur Verhandlung und Urtheilsfällung zurückzuweisen, wenn, ohne dass dadurch eine Nichtigkeit begründet wäre:  
@@ -41,7 +41,7 @@ Das Verfahren vor dem Processgerichte hat sich im Falle der Z 1 auf die unerled
 `§ 496 (3) ZPO.`  
 Statt der Zurückweisung hat das Berufungsgericht die in erster Instanz gepflogene Verhandlung, soweit erforderlich, zu ergänzen und durch Urteil in der Sache selbst zu erkennen, wenn nicht anzunehmen ist, daß dadurch im Vergleich zur Zurückweisung die Erledigung verzögert oder ein erheblicher Mehraufwand an Kosten verursacht würde.
 
-### § 497 ZPO # 
+### § 497 ZPO
 
 `§ 497 (1) ZPO.`  
 Sofern nicht die Bestimmungen der §§. 494, 495 und 496 zur Anwendung kommen, erkennt das Berufungsgericht durch Urtheil in der Sache selbst.
@@ -52,7 +52,7 @@ Seine Entscheidung hat alle einen zuerkannten oder aberkannten Anspruch betreffe
 `§ 497 (3) ZPO.`  
 Das erstrichterliche Urtheil darf nur soweit abgeändert werden, als eine Abänderung beantragt ist.
 
-### § 498 ZPO # 
+### § 498 ZPO
 
 `§ 498 (1) ZPO.`  
 Das Berufungsgericht hat seiner Entscheidung die in den erstrichterlichen Processacten und im Urtheile der ersten Instanz festgestellten, durch die geltend gemachten Berufungsgründe nicht berührten Ergebnisse der Verhandlung und Beweisführung zugrunde zu legen, soweit dieselben nicht durch die Berufungsverhandlung selbst eine Berichtigung erfahren haben.
@@ -60,7 +60,7 @@ Das Berufungsgericht hat seiner Entscheidung die in den erstrichterlichen Proces
 `§ 498 (2) ZPO.`  
 Welche Bedeutung dem Widerspruche beizumessen ist, der gegen einzelne Feststellungen eines Protokolles erster Instanz rechtzeitig erhoben wurde, hat das Berufungsgericht, nöthigenfalls nach mündlicher Verhandlung über die vom Widerspruche betroffenen Feststellungen und Angaben (§. 488), unter sorgfältiger Würdigung der Ergebnisse des Berufungsverfahrens und aller sonstigen Umstände zu beurtheilen.
 
-### § 499 ZPO # 
+### § 499 ZPO
 
 `§ 499 (1) ZPO.`  
 Die Zurückverweisung der Rechtssache an das Processgericht erster Instanz geschieht in den Fällen der §§. 494 und 496 mittels Beschlusses.
@@ -143,7 +143,7 @@ für Streitigkeiten nach § 549;
 `§ 502 (5) Z 6 ZPO.`
 für Streitigkeiten nach dem Bundes-Behindertengleichstellungsgesetz.
 
-### § 503 ZPO # 
+### § 503 ZPO
 
 `§ 503 ZPO.`  
 Die Revision kann nur aus einem der folgenden Gründe begehrt werden:  
@@ -156,7 +156,7 @@ weil dem Urtheile des Berufungsgerichtes in einem wesentlichen Punkte eine thats
 `§ 503 Z 4 ZPO.`
 weil das Urtheil des Berufungsgerichtes auf einer unrichtigen rechtlichen Beurtheilung der Sache beruht.
 
-### § 504 ZPO # 
+### § 504 ZPO
 
 `§ 504 (1) ZPO.`  
 Das Revisionsgericht überprüft das Urtheil des Berufungsgerichtes innerhalb der Grenzen der im Revisionsverfahren gestellten Anträge.
@@ -166,7 +166,7 @@ Neue thatsächliche Behauptungen oder Beweise können in der Revisionsinstanz nu
 
 ## Erhebung der Revision.
 
-### § 505 ZPO # 
+### § 505 ZPO
 
 `§ 505 (1) ZPO.`  
 Die Revision wird durch Überreichung eines Schriftsatzes (Revisionsschrift) bei dem Processgerichte erster Instanz erhoben. Einer Anmeldung der Revision bedarf es nicht.
@@ -180,7 +180,7 @@ Durch die rechtzeitige Erhebung einer ordentlichen Revision oder eines Antrags n
 `§ 505 (4) ZPO.`  
 Hat das Berufungsgericht im Berufungsurteil nach § 500 Abs. 2 Z 3 ausgesprochen, daß die ordentliche Revision nicht nach § 502 Abs. 1 zulässig ist, so kann nur in Streitigkeiten nach § 502 Abs. 5 und in solchen, in denen der Entscheidungsgegenstand insgesamt 30 000 Euro übersteigt, dennoch eine Revision erhoben werden (außerordentliche Revision). Die Erhebung einer außerordentlichen Revision hemmt nicht den Eintritt der Vollstreckbarkeit, sondern nur den der Rechtskraft.
 
-### § 506 ZPO # 
+### § 506 ZPO
 
 `§ 506 (1) ZPO.`  
 Die Revisionsschrift muss nebst den allgemeinen Erfordernissen eines Schriftsatzes enthalten:  
@@ -198,7 +198,7 @@ bei einer außerordentlichen Revision (§ 505 Abs. 4) gesondert die Gründe, w
 `§ 506 (2) ZPO.`  
 Insoweit die Revision auf den im § 503 Z 4 angegebenen Revisionsgrund gestützt wird, ist in der Revisionsschrift ohne Weitläufigkeiten darzulegen, aus welchen Gründen die rechtliche Beurtheilung der Sache unrichtig erscheint.
 
-### § 507 ZPO # 
+### § 507 ZPO
 
 `§ 507 (1) ZPO.`  
 Das Prozeßgericht erster Instanz hat Revisionen zurückzuweisen, die verspätet oder aus einem anderen Grund als dem nach § 502 Abs. 1 unzulässig sind; dies gilt auch für Anträge nach § 508 Abs. 1, die mit einer ordentlichen Revision verbunden sind.
@@ -294,7 +294,7 @@ Findet das Revisionsgericht nicht schon bei der ersten Prüfung, daß eine auße
 `§ 508a (3) ZPO.`  
 Von einer Mitteilung nach Abs. 2 sind auch das Prozeßgericht erster Instanz, das Berufungsgericht und der Revisionswerber zu verständigen. Das Berufungsgericht hat nach dem Einlangen dieser Verständigung dem Revisionsgericht die diesen Rechtsstreit betreffenden berufungsgerichtlichen Akten vorzulegen.
 
-### § 509 ZPO # 
+### § 509 ZPO
 
 `§ 509 (1) ZPO.`  
 Das Revisionsgericht entscheidet über die Revision in nicht öffentlicher Sitzung ohne vorhergehende mündliche Verhandlung.
@@ -305,7 +305,7 @@ Es kann jedoch, wenn dies im einzelnen Falle dem Revisionsgerichte behufs Entsch
 `§ 509 (3) ZPO.`  
 Erhebungen oder Beweisaufnahmen, welche zur Feststellung der im §. 503, Z 1 und 2, angeführten Revisionsgründe nothwendig sind, haben durch einen ersuchten Richter zu erfolgen, welcher die Acten über die stattgefundenen Erhebungen oder Beweisaufnahmen unmittelbar dem Revisionsgerichte vorzulegen hat. Diesen Erhebungen und Beweisaufnahmen sind stets die Parteien zuzuziehen.
 
-### § 510 ZPO # 
+### § 510 ZPO
 
 `§ 510 (1) ZPO.`  
 Das Revisionsgericht hat in der Regel in der Sache selbst zu entscheiden. Wenn es jedoch das Urtheil des Berufungsgerichtes nach §. 477, Z 4 und 5, als nichtig zu erklären oder aus dem im §. 503 Z 2 bezeichneten Grunde aufzuheben findet und infolge dessen eine neue Verhandlung zur Erledigung der Sache nothwendig erachtet, hat es die Streitsache zu diesem Zwecke an das Berufungsgericht zurückzuverweisen. Wenn das Urteil des Berufungsgerichtes aus dem im § 503 Z 2, bezeichneten Grunde aufzuheben ist und es offenbar einer Verhandlung in erster Instanz bedarf, um die Sache spruchreif zu machen, ist auch das Urteil der ersten Instanz innerhalb der Grenzen der Revisionsanträge aufzuheben und die Streitsache an die erste Instanz zurückzuverweisen. Das Revisionsgericht kann das Urteil des Berufungsgerichts überdies dann aufheben und die Sache zur neuerlichen Entscheidung an dieses zurückverweisen, wenn sich bei einer Revision aus der Lösung einer erheblichen Rechtsfrage (§ 502 Abs. 1) zur abschließenden Entscheidung über den strittigen Anspruch die Notwendigkeit einer näheren Prüfung einzelner Anspruchsgrundlagen oder eingehender Berechnungen ergibt.
@@ -316,7 +316,7 @@ Findet das Revisionsgericht das Urtheil oder Verfahren wegen einer schon in erst
 `§ 510 (3) ZPO.`  
 In der Ausfertigung seiner Entscheidung kann das Revisionsgericht die Wiedergabe des Parteivorbringens und der tatsächlichen Entscheidungsgrundlagen auf das beschränken, was zum Verständnis seiner Rechtsausführungen erforderlich ist. Bestätigt der Oberste Gerichtshof das Urteil des Berufungsgerichts und erachtet er dessen Begründung für zutreffend, so reicht es aus, wenn er auf deren Richtigkeit hinweist. Die Beurteilung, daß eine geltend gemachte Mangelhaftigkeit oder Aktenwidrigkeit (§ 503 Z 2 und 3) nicht vorliegen, sowie die Zurückweisung einer außerordentlichen Revision (§ 505 Abs. 4) bedürfen keiner Begründung. Die Zurückweisung einer ordentlichen Revision wegen Fehlens einer erheblichen Rechtsfrage (§ 502 Abs. 1) kann sich auf die Ausführung der Zurückweisungsgründe beschränken.
 
-### § 511 ZPO # 
+### § 511 ZPO
 
 `§ 511 (1) ZPO.`  
 Das Gericht, an welches die Sache zurückverwiesen wurde, ist bei der weiteren Verhandlung und Entscheidung an die rechtliche Beurtheilung gebunden, welche das Revisionsgericht seinem aufhebenden Beschlusse zugrunde gelegt hat.
@@ -324,19 +324,19 @@ Das Gericht, an welches die Sache zurückverwiesen wurde, ist bei der weiteren V
 `§ 511 (2) ZPO.`  
 Zum Zwecke der Aufnahme des Verfahrens beim Berufungsgerichte oder beim Gerichte erster Instanz haben diese die Tagsatzung zur mündlichen Verhandlung von amtswegen anzuberaumen.
 
-### § 512 ZPO # 
+### § 512 ZPO
 
 `§ 512 ZPO.`  
 Findet das Revisionsgericht, dass die Revision muthwillig oder nur zur Verzögerung der Sache angebracht wurde, so ist gegen den Revisionswerber auf eine Muthwillensstrafe zu erkennen.
 
-### § 513 ZPO # 
+### § 513 ZPO
 
 `§ 513 ZPO.`  
 Soweit sich nicht aus den Bestimmungen dieses Abschnittes Abweichungen ergeben, sind die Vorschriften über die Berufung auch auf die Revision anzuwenden.
 
 ## Dritter Abschnitt. # Recurs. # Zulässigkeit.
 
-### § 514 ZPO # 
+### § 514 ZPO
 
 `§ 514 (1) ZPO.`  
 Gegen Beschlüsse (Bescheide) ist, sofern das gegenwärtige Gesetz die Anfechtung derselben nicht ausschließt, der Recurs zulässig.
@@ -344,12 +344,12 @@ Gegen Beschlüsse (Bescheide) ist, sofern das gegenwärtige Gesetz die Anfechtun
 `§ 514 (2) ZPO.`  
 Mittels Recurses können Beschlüsse insbesondere auch aus den im §. 477 angegebenen Gründen aufgehoben werden.
 
-### § 515 ZPO # 
+### § 515 ZPO
 
 `§ 515 ZPO.`  
 In den Fällen, in welchen nach den Bestimmungen dieses Gesetzes gegen einen Beschluss ein abgesondertes Rechtsmittel versagt ist, können die Parteien ihre Beschwerden gegen diesen Beschluss mit dem gegen die nächstfolgende anfechtbare Entscheidung eingebrachten Rechtsmittel zur Geltung bringen.
 
-### § 517 ZPO # 
+### § 517 ZPO
 
 `§ 517 (1) ZPO.`  
 Übersteigt der Streitgegenstand an Geld oder Geldeswert nicht den Betrag von 2 700 Euro, so kann nur gegen die folgenden Beschlüsse erster Instanz Rekurs ergriffen werden:  
@@ -372,7 +372,7 @@ Abs. 1 gilt nicht für die im § 502 Abs. 5 Z 3 bezeichneten Streitigkeiten.
 `§ 517 (3) ZPO.`  
 Ein Kostenrekurs ist jedenfalls unzulässig, wenn der Betrag, dessen Zuspruch oder Aberkennung beantragt wird, 50 Euro nicht übersteigt.
 
-### § 518 ZPO # 
+### § 518 ZPO
 
 `§ 518 (1) ZPO.`  
 Im Verfahren über Klagen wegen Störung des Besitzstandes (§. 454) kann nur gegen Beschlüsse, durch welche die Einleitung oder Fortsetzung des Verfahrens über die Klage verweigert wird, und gegen den Endbeschluss Recurs ergriffen werden. Der § 461 Abs. 2 gilt sinngemäß.

@@ -14,7 +14,7 @@
 
 ## Dritter Theil. # Verfahren vor den Bezirksgerichten.
 
-### § 431 ZPO # 
+### § 431 ZPO
 
 `§ 431 (1) ZPO.`  
 Auf das Verfahren vor den Bezirksgerichten finden, sofern nichts anderes bestimmt ist, die Vorschriften über das Verfahren vor den Gerichtshöfen erster Instanz Anwendung.
@@ -22,7 +22,7 @@ Auf das Verfahren vor den Bezirksgerichten finden, sofern nichts anderes bestimm
 `§ 431 (2) ZPO.`  
 Die durch die Vorschriften des zweiten Theiles für den Senat oder dessen Vorsitzenden begründeten Befugnisse und Obliegenheiten sind im Verfahren vor Bezirksgerichten durch den Einzelrichter auszuüben.
 
-### § 432 ZPO # 
+### § 432 ZPO
 
 `§ 432 (1) ZPO.`  
 Der Richter hat Parteien, welche rechtsunkundig und nicht durch Rechtsanwälte vertreten sind, erforderlichenfalls die zur Vornahme ihrer Processhandlungen nöthige Anleitung zu geben und dieselben über die mit ihren Handlungen oder Unterlassungen verbundenen Rechtsfolgen zu belehren.
@@ -33,7 +33,7 @@ Insbesondere hat der Richter solche Parteien bei Verkündung seiner Entscheidung
 `§ 432 (3) ZPO.`  
 Einer Partei, die sich in einem Schriftsatz nicht verständlich auszudrücken vermag, ist unter Setzung einer angemessenen Frist der Auftrag zu erteilen, den Schriftsatz nach Bestellung eines geeigneten Bevollmächtigten, erforderlichenfalls eines Rechtsanwalts, neuerlich einzubringen, andernfalls der Schriftsatz als nicht eingebracht anzusehen ist. § 84 Abs. 3 gilt sinngemäß.
 
-### § 433 ZPO # 
+### § 433 ZPO
 
 `§ 433 (1) ZPO.`  
 Wer eine Klage zu erheben beabsichtigt, ist berechtigt, vor deren Einbringung bei dem Bezirksgerichte des Wohnsitzes des Gegners dessen Ladung zum Zwecke des Vergleichsversuches zu beantragen. An Orten, an welchen mehrere Bezirksgerichte bestehen, kann eine solche Ladung außerdem an alle Personen ergehen, die an diesem Orte, wenngleich außerhalb des Sprengels des zuständigen Bezirksgerichtes, ihren Wohnsitz haben.
@@ -46,7 +46,7 @@ Gegen die Entscheidung über einen solchen Antrag ist ein Rechtsmittel nicht zul
 `§ 433a ZPO.`  
 Über den Inhalt der in einem Mediationsverfahren oder in einem Schlichtungsverfahren über Verbraucherstreitigkeiten nach dem Alternative-Streitbeilegung-Gesetz, BGBl. I Nr. 105/2015, über eine Zivilsache erzielten schriftlichen Vereinbarung kann vor jedem Bezirksgericht ein gerichtlicher Vergleich geschlossen werden.
 
-### § 434 ZPO # 
+### § 434 ZPO
 
 `§ 434 (1) ZPO.`  
 Die Klage, sowie alle außerhalb der mündlichen Verhandlung vorzubringenden Gesuche, Anträge und Mittheilungen können die Parteien, wenn sie nicht durch Rechtsanwalt vertreten sind, zu Protokoll anbringen.
@@ -54,7 +54,7 @@ Die Klage, sowie alle außerhalb der mündlichen Verhandlung vorzubringenden Ges
 `§ 434 (2) ZPO.`  
 Klagen und Widersprüche gegen ein Versäumungsurteil können von einer Partei auch beim Bezirksgericht ihres Aufenthalts mündlich zu Protokoll erklärt werden; dieses Bezirksgericht hat das Protokoll dem Prozeßgericht unverzüglich zu übersenden.
 
-### § 435 ZPO # 
+### § 435 ZPO
 
 `§ 435 (1) ZPO.`  
 Wenn die schriftlich überreichte Klage nach Ansicht des Richters in irgend einem Punkte einer Ergänzung oder Aufklärung bedarf, oder wenn sich gegen die Einleitung des Verfahrens Bedenken ergeben, hat der Richter dem Kläger, wenn derselbe nicht durch einen Rechtsanwalt vertreten ist, vor Erledigung der Klage, zu den entsprechenden Vervollständigungen oder Richtigstellungen die nöthige Anleitung zu geben.
@@ -62,22 +62,22 @@ Wenn die schriftlich überreichte Klage nach Ansicht des Richters in irgend eine
 `§ 435 (2) ZPO.`  
 Erscheint die mündlich zu Protokoll gegebene Klage wegen Unzulässigkeit des Rechtsweges, Unzuständigkeit des Gerichtes, wegen Mangels der persönlichen Befugnis zur Klage oder wegen mangelnder Processfähigkeit des Beklagten unzulässig, so ist hierüber dem Kläger mündlich oder auf Verlangen schriftlich Belehrung zu ertheilen. Ebenso ist, wenn die Klage offenbar unbegründet erscheint, dem Kläger mündlich eine angemessene Belehrung zu ertheilen. Die Aufnahme der Klage darf jedoch nicht verweigert werden, wenn der Kläger trotz der Belehrung auf der Protokollirung besteht.
 
-### § 436 ZPO # 
+### § 436 ZPO
 
 `§ 436 ZPO.`  
 Die Tagsatzung zur mündlichen Verhandlung über die Klage kann in dringenden Fällen und insbesondere bei Klagen wegen Besitzstörung auf den nämlichen Tag anberaumt werden, an welchem die Klage bei Gericht angebracht wurde.
 
-### § 437 ZPO # 
+### § 437 ZPO
 
 `§ 437 ZPO.`  
 Der Kläger ist durch Zustellung einer Ausfertigung des über die Klage ergehenden Beschlusses mit der Aufforderung zur mündlichen Verhandlung zu laden, die während der Verhandlung in Augenschein zu nehmenden Gegenstände und die sich auf den Rechtsstreit beziehenden, dem Gerichte noch nicht vorliegenden Urkunden zur Tagsatzung mitzubringen. In der Ladung ist dem Kläger bekannt zu geben, welche Nachtheile das Gesetz mit dem Versäumen der Tagsatzung verbindet.
 
-### § 438 ZPO # 
+### § 438 ZPO
 
 `§ 438 ZPO.`  
 Die Ladung des Beklagten geschieht durch Zustellung einer schriftlichen Ausfertigung des über die Klage ergehenden Beschlusses unter gleichzeitiger Mittheilung eines Exemplares der schriftlichen Klage oder einer Abschrift des über die Klage aufgenommenen Protokolles. Bei protokollarischer Ergänzung oder Richtigstellung der schriftlichen Klage ist dem Beklagten auch eine Abschrift dieses Protokolles zuzustellen. Der Beklagte ist zugleich aufzufordern, die sich auf den Rechtsstreit beziehenden Augenscheinsgegenstände und Urkunden zur Tagsatzung mitzubringen und wegen der Vorlage der im Besitze des Gegners oder in Verwahrung einer öffentlichen Behörde oder eines Notars befindlichen Beweisurkunden und Augenscheinsgegenstände, sowie wegen etwaiger gerichtlicher Vorladung von Zeugen noch vor der für die mündliche Verhandlung anberaumten Tagsatzung seine Anträge zu stellen. In der Ladung ist dem Beklagten bekannt zu geben, welche Nachtheile das Gesetz mit dem Versäumen der Tagsatzung verbindet.
 
-### § 439 ZPO # 
+### § 439 ZPO
 
 `§ 439 (1) ZPO.`  
 An bestimmten Gerichtstagen, welche im voraus festzusetzen und durch Anschlag am Gerichtshause bekannt zu machen sind, kann der Kläger mit der Gegenpartei auch ohne Vorladung vor Gericht erscheinen, um einen Rechtsstreit anhängig zu machen und darüber zu verhandeln.
@@ -85,7 +85,7 @@ An bestimmten Gerichtstagen, welche im voraus festzusetzen und durch Anschlag am
 `§ 439 (2) ZPO.`  
 In diesem Falle ist das Klagebegehren in dem Verhandlungsprotokolle aufzuzeichnen.
 
-### § 440 ZPO # 
+### § 440 ZPO
 
 `§ 440 (1) ZPO.`  
 Im bezirksgerichtlichen Verfahren soll tunlichst schon in der vorbereitenden Tagsatzung das Beweisverfahren durchgeführt werden. Ist aber insbesondere nach dem Inhalt der Klage anzunehmen, dass sich der Beklagte nicht in den Streit einlassen werde, so kann die vorbereitende Tagsatzung auf die in § 258 Abs. 1 Z 1 und 2 genannten Punkte beschränkt werden; § 258 Abs. 2 ist in diesem Fall nicht anzuwenden.
@@ -121,17 +121,17 @@ Gegen ein Versäumungsurteil kann Widerspruch nach § 397a erhoben werden, es s
 `§ 442a (2) ZPO.`  
 Der Beklagte hat Anspruch auf Ersatz der Kosten eines von ihm erhobenen Widerspruchs (§ 397a Abs. 4) nur, wenn ihm das Gericht nach § 440 Abs. 3 aufgetragen hatte, das darin Enthaltene in einem Schriftsatz vorzubringen.
 
-### § 443 ZPO # 
+### § 443 ZPO
 
 `§ 443 ZPO.`  
 Die Protokollirung des thatsächlichen und Beweisvorbringens der Parteien hat, falls nicht vorbereitende Schriftsätze vorliegen (§. 210 Absatz 1), in der Regel auf die in §. 211 bezeichnete Art zu geschehen.
 
-### § 446 ZPO # 
+### § 446 ZPO
 
 `§ 446 ZPO.`  
 Wenn ein nicht ausschließlich zur Ausübung der Gerichtsbarkeit in Handelssachen berufenes Bezirksgericht ein Urteil der Gerichtsbarkeit in Handelsrechtssachen oder ein besonderes Bezirksgericht für Handelssachen ein Urteil der allgemeinen Gerichtsbarkeit fällt, hat es dies auf Antrag (§ 258 Absatz 3) im Urteil anzuführen.
 
-### § 447 ZPO # 
+### § 447 ZPO
 
 `§ 447 ZPO.`  
 In den Ausfertigungen der Urtheile ist insbesondere hervorzuheben, dass für die Ergreifung eines Rechtsmittels gegen das Urtheil, sowie für das Rechtsmittelverfahren überhaupt die Vertretung durch einen Rechtsanwalt erforderlich ist.
@@ -151,7 +151,7 @@ Ist ordnungsgemäß Einspruch erhoben worden, so hat das Gericht nach den §§ 
 
 ## Besondere Bestimmungen für das Verfahren über Besitzstörungsklagen.
 
-### § 454 ZPO # 
+### § 454 ZPO
 
 `§ 454 (1) ZPO.`  
 Im Verfahren über Klagen wegen Störung des Besitzstandes bei Sachen und bei Rechten, in welchen das Klagebegehren nur auf den Schutz und die Wiederherstellung des letzten Besitzstandes gerichtet ist und welche innerhalb dreißig Tagen anhängig zu machen sind, nachdem der Kläger von der Störung Kenntnis erlangte, haben die nachfolgenden besonderen Bestimmungen (§§. 455 bis 460) zu gelten.
@@ -159,28 +159,28 @@ Im Verfahren über Klagen wegen Störung des Besitzstandes bei Sachen und bei Re
 `§ 454 (2) ZPO.`  
 Schriftlich überreichte Klagen sind von außen als Besitzstörungsklagen zu bezeichnen.
 
-### § 455 ZPO # 
+### § 455 ZPO
 
 `§ 455 ZPO.`  
 Bei der Anberaumung der Tagsatzungen und Fristen ist stets auf die Dringlichkeit der Erledigung besonderer Bedacht zu nehmen.
 
-### § 456 ZPO # 
+### § 456 ZPO
 
 `§ 456 ZPO.`  
 Auf Grund des in der Klage gestellten Begehrens, im Sinne der §§. 340 bis 342 a. b. G. B. ein Verbot zu erlassen, hat der Richter sogleich bei Erledigung der Klage ohne Einvernehmung des Gegners das Erforderliche zu verfügen.
 
-### § 457 ZPO # 
+### § 457 ZPO
 
 `§ 457 (1) ZPO.`  
 Die Verhandlung ist auf die Erörterung und den Beweis der Thatsache des letzten Besitzstandes und der erfolgten Störung zu beschränken, und es sind alle Erörterungen über das Recht zum Besitze, über Titel, Redlichkeit und Unredlichkeit des Besitzes oder über etwaige Entschädigungsansprüche auszuschließen.
 *(Anm.: Abs. 2 aufgehoben durch Art. IV Z 76, BGBl. Nr. 135/1986)*
 
-### § 458 ZPO # 
+### § 458 ZPO
 
 `§ 458 ZPO.`  
 Der Richter kann während der Verhandlung die Anwendung einer oder mehrerer der im Gesetze über das Executions- und Sicherungsverfahren zugelassenen einstweiligen Vorkehrungen anordnen, sofern dies zur Abwendung der dringenden Gefahr widerrechtlicher Beschädigung, zur Verhütung von Gewaltthätigkeiten oder zur Hintanhaltung eines unwiederbringlichen Schadens nöthig erscheint. Die Erlassung einer derartigen Verfügung kann von der Leistung einer angemessenen Sicherstellung abhängig gemacht werden.
 
-### § 459 ZPO # 
+### § 459 ZPO
 
 `§ 459 ZPO.`  
 Die Entscheidung hat sogleich nach geschlossener Verhandlung mittels Beschlusses (Endbeschluss) zu erfolgen und sich darauf zu beschränken, eine einstweilige Norm für den thatsächlichen Besitzstand aufzustellen oder provisorisch nach dem Gesetze (§§. 340 bis 343a. b. G. B.) eine Untersagung oder Sicherstellung auszusprechen. Die spätere gerichtliche Geltendmachung des Rechtes zum Besitze und der davon abhängigen Ansprüche wird dadurch nicht gehindert. In der Begründung des Beschlusses ist auch eine gedrängte Darstellung des Sachverhaltes zu geben. Die Frist zur Erfüllung der dem Verurtheilten auferlegten Verbindlichkeit hat der Richter nach den Umständen des einzelnen Falles zu bestimmen. Der § 417 a gilt sinngemäß.
@@ -226,7 +226,7 @@ Verliert ein Ehegatte durch eine Entscheidung über die Auflösung der Ehe offen
 
 ## Vierter Theil. # Rechtsmittel. # Erster Abschnitt. # Berufung. # Zulässigkeit.
 
-### § 461 ZPO # 
+### § 461 ZPO
 
 `§ 461 (1) ZPO.`  
 Gegen die in erster Instanz gefällten Urtheile findet die Berufung statt.
@@ -234,7 +234,7 @@ Gegen die in erster Instanz gefällten Urtheile findet die Berufung statt.
 `§ 461 (2) ZPO.`  
 Gegen ein in Anwesenheit beider Parteien mündlich verkündetes Urteil (§ 414) kann Berufung von einer Partei nur erhoben werden, die diese sofort nach der Verkündung des Urteils mündlich oder binnen vierzehn Tagen ab der Zustellung der Protokollsabschrift über jene Tagsatzung zur mündlichen Verhandlung, in der das Urteil verkündet worden ist, in einem bei dem Prozeßgericht erster Instanz überreichten Schriftsatz angemeldet hat. Wird in dieser Frist ein Antrag im Sinn des § 464 Abs. 3 gestellt, so gilt er als Anmeldung der Berufung.
 
-### § 462 ZPO # 
+### § 462 ZPO
 
 `§ 462 (1) ZPO.`  
 Das Berufungsgericht überprüft die Entscheidung des Gerichtes erster Instanz innerhalb der Grenzen der Berufungsanträge.
@@ -244,7 +244,7 @@ Der Beurtheilung des Berufungsgerichtes unterliegen jedoch gleichzeitig auch die
 
 ## Allgemeine Bestimmungen über das Berufungsverfahren.
 
-### § 463 ZPO # 
+### § 463 ZPO
 
 `§ 463 (1) ZPO.`  
 Auf das Berufungsverfahren sind die Vorschriften über das Verfahren vor Gerichtshöfen erster Instanz insoweit anzuwenden, als sich nicht aus den nachfolgenden Bestimmungen Abweichungen ergeben.
@@ -254,7 +254,7 @@ Im Berufungsverfahren müssen die Parteien durch Rechtsanwälte vertreten sein.
 
 ## Berufungsfrist.
 
-### § 464 ZPO # 
+### § 464 ZPO
 
 `§ 464 (1) ZPO.`  
 Die Berufungsfrist beträgt vier Wochen, sie kann nicht verlängert werden.
@@ -267,17 +267,17 @@ Hat eine die Verfahrenshilfe genießende oder beantragende Partei innerhalb dies
 
 ## Erhebung der Berufung.
 
-### § 465 ZPO # 
+### § 465 ZPO
 
 `§ 465 ZPO.`  
 Die Berufung wird durch Überreichung eines vorbereitenden Schriftsatzes (Berufungsschrift) bei dem Processgerichte erster Instanz erhoben.
 
-### § 466 ZPO # 
+### § 466 ZPO
 
 `§ 466 ZPO.`  
 Durch die rechtzeitige Erhebung der Berufung wird der Eintritt der Rechtskraft und Vollstreckbarkeit des angefochtenen Urtheiles im Umfange der Berufungsanträge bis zur Erledigung des Rechtsmittels gehemmt.
 
-### § 467 ZPO # 
+### § 467 ZPO
 
 `§ 467 ZPO.`  
 Die Berufungsschrift muss nebst den allgemeinen Erfordernissen eines vorbereitenden Schriftsatzes enthalten:  
@@ -292,7 +292,7 @@ das thatsächliche Vorbringen und die Beweismittel, durch welche die Wahrheit de
 `§ 467 Z 5 ZPO.`
 die Unterschrift eines Rechtsanwalts.
 
-### § 468 ZPO # 
+### § 468 ZPO
 
 `§ 468 (1) ZPO.`  
 Im Falle rechtzeitiger Erhebung der Berufung wird die Berufungsschrift dem Gegner des Berufungswerbers unter Bekanntgabe des Berufungsgerichtes zugestellt. Verspätet erhobene Berufungen oder mangels rechtzeitiger Anmeldung der Berufung (§ 461 Abs. 2) unzulässige Berufungen sind vom Prozeßgericht erster Instanz zurückzuweisen.
@@ -306,7 +306,7 @@ Auf die Berufungsbeantwortung sind der § 464 Abs. 3 sowie der § 467 Z 4 un
 `§ 468 (4) ZPO.`  
 Von der Einbringung der Berufungsbeantwortung ist der Berufungswerber durch Übersendung einer Ausfertigung derselben zu verständigen.
 
-### § 469 ZPO # 
+### § 469 ZPO
 
 `§ 469 (1) ZPO.`  
 Nach rechtzeitigem Einlangen der Berufungsbeantwortung oder nach fruchtlosem Ablauf der hiefür offenstehenden Frist hat das Prozeßgericht erster Instanz dem Berufungsgericht die Berufungsschrift und die etwa eingelangte Berufungsbeantwortung mit allen den Rechtsstreit betreffenden Prozeßakten und besonders mit den Ausweisen über die Zustellung des Urteils und der Berufungsschrift vorzulegen. Gibt der Inhalt der Berufungsschrift oder der Berufungsbeantwortung zu einer Erledigung des Prozeßgerichtes erster Instanz Anlaß, so ist diese vorher zu treffen; werden Zustellmängel behauptet, so sind vorher die notwendigen Erhebungen durchzuführen.

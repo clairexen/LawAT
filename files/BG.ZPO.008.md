@@ -173,7 +173,7 @@ Die Parteien und ihre Vertreter haben dafür zu sorgen, dass in der vorbereitend
 
 ## Fortsetzung der Streitverhandlung
 
-### § 259 ZPO # 
+### § 259 ZPO
 
 `§ 259 (1) ZPO.`  
 Die Streitverhandlung erfolgt nach den allgemeinen Vorschriften über die mündliche Verhandlung; sie umfasst auch die Erörterung des Sach- und Rechtsvorbringens, die Beweisaufnahme und die Erörterung ihrer Ergebnisse.
@@ -184,7 +184,7 @@ Während der mündlichen Streitverhandlung kann der Beklagte, ohne der Zustimmun
 `§ 259 (3) ZPO.`  
 In der Verhandlung vor dem Einzelrichter eines Landesgerichtes kann der Antrag gestellt werden, in das Urteil einen Beisatz aufzunehmen, daß es in Ausübung der besonderen Gerichtsbarkeit in Handelsrechtssachen in der Verhandlung vor dem Einzelrichter eines selbständigen Handelsgerichtes, daß es in Ausübung der allgemeinen Gerichtsbarkeit gefällt wird. Der beantragte Beisatz ist in das Urteil aufzunehmen, wenn ihn der Richter für zutreffend erachtet.
 
-### § 260 ZPO # 
+### § 260 ZPO
 
 `§ 260 (1) ZPO.`  
 Die Partei, welche eine der in Abs. 2 oder in § 239 Abs. 3 Z 1 bezeichneten Einreden erhebt, ist nicht berechtigt, deshalb die Einlassung in die Verhandlung zur Hauptsache oder, wenn die Einreden erst während der mündlichen Streitverhandlung geltend gemacht werden, die weitere Teilnahme an der Verhandlung zur Hauptsache zu verweigern.
@@ -214,7 +214,7 @@ Wenn der Beklagte das Fehlen der sachlichen oder örtlichen Zuständigkeit einwe
 
 ## Feststellungen zu Protokoll.
 
-### § 265 ZPO # 
+### § 265 ZPO
 
 `§ 265 (1) ZPO.`  
 Der Vorsitzende kann anordnen, dass Anträge und Erklärungen, die zufolge §§. 208 und 209 in das Verhandlungsprotokoll aufzunehmen sind, von der Partei, welche den Antrag gestellt oder die Erklärung abgegeben hat, niedergeschrieben und dem Vorsitzenden übergeben werden. Den Parteien kann auch dann, wenn die Vorlage einer Niederschrift vom Vorsitzenden nicht angeordnet wurde, auf Antrag gestattet werden, die oben bezeichneten Anträge und Erklärungen durch die Überreichung kurzer Niederschriften festzustellen.
@@ -230,7 +230,7 @@ Der Beschluss, durch welchen solche schriftliche Feststellung angeordnet oder zu
 
 ## Zweiter Titel. # Allgemeine Bestimmungen über den Beweis und die Beweisaufnahme. # Beweis.
 
-### § 266 ZPO # 
+### § 266 ZPO
 
 `§ 266 (1) ZPO.`  
 Die von einer Partei behaupteten Thatsachen bedürfen insoweit keines Beweises, als sie vom Gegner in einem vorbereitenden Schriftsatze, im Laufe des Rechtsstreites bei einer mündlichen Verhandlung oder im Protokolle eines beauftragten oder ersuchten Richters ausdrücklich zugestanden werden. Zur Wirksamkeit eines gerichtlichen Thatsachengeständnisses ist dessen Annahme seitens des Gegners nicht erforderlich.
@@ -241,7 +241,7 @@ Inwieferne ein solches Geständnis durch demselben von der Partei beigefügte Zu
 `§ 266 (3) ZPO.`  
 In gleicher Weise hat das Gericht zu beurtheilen, inwieferne zufolge eines außergerichtlichen Geständnisses die Nothwendigkeit des Beweises entfalle.
 
-### § 267 ZPO # 
+### § 267 ZPO
 
 `§ 267 (1) ZPO.`  
 Ob thatsächliche Behauptungen einer Partei mangels eines ausdrücklichen Geständnisses des Gegners als zugestanden anzusehen seien, hat das Gericht unter sorgfältiger Berücksichtigung des gesammten Inhaltes des gegnerischen Vorbringens zu beurtheilen.
@@ -249,17 +249,17 @@ Ob thatsächliche Behauptungen einer Partei mangels eines ausdrücklichen Gestä
 `§ 267 (2) ZPO.`  
 In gleicher Weise hat das Gericht insbesondere auch zu beurtheilen, ob die Erklärung mit Nichtwissen oder Nichterinnern als eine die Annahme eines Zugeständnisses ausschließende oder aber ein Zugeständnis in sich schließende Erklärung anzusehen sei.
 
-### § 269 ZPO # 
+### § 269 ZPO
 
 `§ 269 ZPO.`  
 Thatsachen, welche bei dem Gerichte offenkundig sind, bedürfen keines Beweises.
 
-### § 270 ZPO # 
+### § 270 ZPO
 
 `§ 270 ZPO.`  
 Thatsachen, für deren Vorhandensein das Gesetz eine Vermuthung aufstellt, bedürfen keines Beweises. Der Beweis des Gegentheiles ist zulässig, sofern das Gesetz denselben nicht ausschließt. Dieser Gegenbeweis kann auch durch Vernehmung der Parteien gemäß §§. 371 ff. geführt werden.
 
-### § 271 ZPO # 
+### § 271 ZPO
 
 `§ 271 (1) ZPO.`  
 Das in einem anderen Staatsgebiete geltende Recht, Gewohnheitsrechte, Privilegien und Statuten bedürfen des Beweises nur insofern, als sie dem Gerichte unbekannt sind.
@@ -267,7 +267,7 @@ Das in einem anderen Staatsgebiete geltende Recht, Gewohnheitsrechte, Privilegie
 `§ 271 (2) ZPO.`  
 Bei Ermittlung dieser Rechtsnormen ist das Gericht auf die von den Parteien angebotenen Beweise nicht beschränkt; es kann alle zu diesem Zwecke ihm nöthig scheinenden Erhebungen von amtswegen einleiten und insbesondere, soweit erforderlich, das Einschreiten des Justizministers in Anspruch nehmen.
 
-### § 272 ZPO # 
+### § 272 ZPO
 
 `§ 272 (1) ZPO.`  
 Das Gericht hat, soferne in diesem Gesetze nicht etwas anderes bestimmt ist, unter sorgfältiger Berücksichtigung der Ergebnisse der gesammten Verhandlung und Beweisführung nach freier Überzeugung zu beurtheilen, ob eine thatsächliche Angabe für wahr zu halten sei oder nicht.
@@ -278,7 +278,7 @@ Es hat insbesondere in gleicher Weise zu entscheiden, welchen Einfluss es auf di
 `§ 272 (3) ZPO.`  
 Die Umstände und Erwägungen, welche für die Überzeugung des Gerichtes maßgebend waren, sind in der Begründung der Entscheidung anzugeben.
 
-### § 273 ZPO # 
+### § 273 ZPO
 
 `§ 273 (1) ZPO.`  
 Wenn feststeht, dass einer Partei der Ersatz eines Schadens oder des Interesses gebürt oder dass sie sonst eine Forderung zu stellen hat, der Beweis über den streitigen Betrag des zu ersetzenden Schadens oder Interesses oder der Forderung aber gar nicht oder nur mit unverhältnismäßigen Schwierigkeiten zu erbringen ist, so kann das Gericht auf Antrag oder von amtswegen selbst mit Übergehung eines von der Partei angebotenen Beweises diesen Betrag nach freier Überzeugung festsetzen. Der Festsetzung des Betrages kann auch die eidliche Vernehmung einer der Parteien über die für die Bestimmung des Betrages maßgebenden Umstände vorausgehen.
@@ -288,7 +288,7 @@ Sind von mehreren in derselben Klage geltend gemachten Ansprüchen einzelne, im 
 
 ## Glaubhaftmachung (Bescheinigung).
 
-### § 274 ZPO # 
+### § 274 ZPO
 
 `§ 274 (1) ZPO.`  
 Wer eine thatsächliche Behauptung glaubhaft zu machen hat (Bescheinigung), kann sich hiezu aller Beweismittel mit Ausnahme der eidlichen Vernehmung der Parteien bedienen. Eine Beweisaufnahme, die sich nicht sofort ausführen lässt, eignet sich nicht zum Zwecke der Glaubhaftmachung.
@@ -298,7 +298,7 @@ Eine behufs Glaubhaftmachung eines Umstandes erfolgende Beweisaufnahme ist an di
 
 ## Beweisaufnahme.
 
-### § 275 ZPO # 
+### § 275 ZPO
 
 `§ 275 (1) ZPO.`  
 Von den Parteien angebotene, jedoch dem Gerichte unerheblich scheinende Beweise sind ausdrücklich zurückzuweisen.
@@ -306,7 +306,7 @@ Von den Parteien angebotene, jedoch dem Gerichte unerheblich scheinende Beweise 
 `§ 275 (2) ZPO.`  
 Die Aufnahme angebotener Beweise kann vom Gericht auf Antrag oder von Amts wegen verweigert werden, wenn bei sorgfältiger Berücksichtigung aller Umstände kein vernünftiger Zweifel darüber besteht, daß durch das Beweisanbot der Prozeß verschleppt werden soll, und die Aufnahme der Beweise die Erledigung des Prozesses erheblich verzögern würde.
 
-### § 276 ZPO # 
+### § 276 ZPO
 
 `§ 276 (1) ZPO.`  
 Die Beweise, die das Gericht für erheblich hält, sind im Lauf der Verhandlung vor dem erkennenden Gericht aufzunehmen, sofern nicht das Gericht gemäß den Bestimmungen dieses Gesetzes eine Beweisaufnahme außerhalb der Verhandlungstagsatzung anordnet.
@@ -319,7 +319,7 @@ Wird die Aufnahme eines Beweises außerhalb der Verhandlungstagsatzung durch ein
 `§ 277 ZPO.`  
 Das Gericht hat nach Maßgabe der technischen Möglichkeiten statt der Einvernahme durch einen ersuchten Richter eine unmittelbare Beweisaufnahme unter Verwendung technischer Einrichtungen zur Wort- und Bildübertragung durchzuführen, es sei denn, die Einvernahme durch einen beauftragten oder ersuchten Richter ist unter Berücksichtigung der Verfahrensökonomie zweckmäßiger oder aus besonderen Gründen erforderlich.
 
-### § 278 ZPO # 
+### § 278 ZPO
 
 `§ 278 (1) ZPO.`  
 Alle nicht sogleich bei der Verhandlung selbst ausführbaren und insbesondere die außerhalb der Verhandlungstagsatzung durch einen beauftragten oder ersuchten Richter vorzunehmenden Beweisaufnahmen sind, sofern nicht die Umstände einen anderen Vorgang nothwendig machen oder dem Gerichte zweckmäßig erscheinen lassen, erst nach vollständiger Erörterung des Sachverhaltes anzuordnen.
@@ -327,7 +327,7 @@ Alle nicht sogleich bei der Verhandlung selbst ausführbaren und insbesondere di
 `§ 278 (2) ZPO.`  
 Behufs Erörterung der Ergebnisse solcher Beweisaufnahmen ist nach deren Vollendung, wenn nicht die Voraussetzungen des §. 193 Absatz 3, vorliegen, die Verhandlung vor dem erkennenden Gerichte von amtswegen wieder aufzunehmen.
 
-### § 279 ZPO # 
+### § 279 ZPO
 
 `§ 279 (1) ZPO.`  
 Steht der Aufnahme des Beweises ein Hindernis von ungewisser Dauer entgegen, ist die Ausführbarkeit einer Beweisaufnahme zweifelhaft, oder soll die Beweisaufnahme außerhalb des Geltungsgebietes dieses Gesetzes erfolgen, so hat das Gericht auf Antrag eine Frist zu bestimmen, nach deren fruchtlosem Ablauf die Verhandlung auf Begehren einer der Parteien ohne Rücksicht auf die ausstehende Beweisaufnahme fortgesetzt wird.
@@ -335,7 +335,7 @@ Steht der Aufnahme des Beweises ein Hindernis von ungewisser Dauer entgegen, ist
 `§ 279 (2) ZPO.`  
 Bei der fortgesetzten mündlichen Verhandlung kann dann dieser Beweis nur benützt werden, wenn dadurch das Verfahren nicht verzögert wird.
 
-### § 280 ZPO # 
+### § 280 ZPO
 
 `§ 280 (1) ZPO.`  
 Das Processgericht kann auf Antrag gestatten, dass die Beweisaufnahme von einem oder mehreren beeideten Stenographen aufgezeichnet werde. Ein Stenograph, welcher nicht im allgemeinen für diese Aufgabe beeidet ist, hat einen Eid dahin zu leisten, dass er das mündlich Vorgebrachte treu aufzeichnen und das Aufgezeichnete richtig übertragen werde. Die Beeidigung entfällt, wenn ein gerichtlicher Beamter als Stenograph bestellt wird.
@@ -349,7 +349,7 @@ Die Übertragung der stenographischen Aufzeichnung in gewöhnliche Schrift ist b
 `§ 280 (4) ZPO.`  
 Sofern die stenographische Aufzeichnung nicht von beiden Parteien übereinstimmend beantragt wird, hat die antragstellende Partei sämmtliche dadurch verursachten Kosten zu bestreiten, ohne selbst für den Fall ihres Sieges Anspruch auf Erstattung dieser Kosten erheben zu können.
 
-### § 281 ZPO # 
+### § 281 ZPO
 
 `§ 281 (1) ZPO.`  
 Wenn zum Zwecke einer vor dem erkennenden Gerichte erfolgenden Beweisaufnahme eine Tagsatzung erstreckt werden muss, ist die Tagsatzung, in welcher die Beweisaufnahme stattfinden soll, zugleich zur Fortsetzung der mündlichen Verhandlung zu bestimmen.
