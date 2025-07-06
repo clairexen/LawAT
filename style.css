@@ -28,7 +28,7 @@ body {
   box-shadow: 0 0.2em 0.5em rgba(0, 0, 0, 0.1);
 }
 
-.LawPart {
+.PartBody {
   background-color: #f2f2f2; /* light gray */
   border-radius: 1em;
   padding: 1em;
