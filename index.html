@@ -107,7 +107,7 @@
 
         window.addEventListener("popstate", (event) => {
 	  targetId = window.location.hash.slice(1);
-	  withNoPushHistory(() => scrollTo(targetId));
+	  withNoPushHistory(() => targetId != "" ? scrollTo(targetId) : selIndex(false));
         });
       });
     });
