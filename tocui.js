@@ -2,7 +2,12 @@
  * tocui – lightweight always-visible TOC widget (classic scroll).
  *
  * API
- *   tocui.append(label [, targetId])
+ *   tocui.append(label [, targetId [, callback]])
+ *       – label (string|Node)  : visible text or DOM node
+ *       – targetId (string|undef): element id for link; omit → header
+ *       – callback (Function|undef): click handler; default navigation is
+ *         suppressed for plain left-clicks (the handler can re‑enable via
+ *         location.href if desired).
  *   tocui.reset()
  *   tocui.addDoc(title [, callback])
  *   tocui.setDoc(title)
@@ -47,7 +52,7 @@ const tocui = (() => {
     window.scrollTo({ top: 0, left: 0, behavior: 'auto' });
   }
 
-  function append(domOrHtml, targetId) {
+  function append(domOrHtml, targetId, clickCb) {
     ensureRoot();
 
     const entry = document.createElement('div');
@@ -61,20 +66,20 @@ const tocui = (() => {
       else link.appendChild(domOrHtml);
 
       link.addEventListener('click', e => {
-        if (
-          e.defaultPrevented ||
-          e.button !== 0 ||
-          e.ctrlKey ||
-          e.metaKey ||
-          e.shiftKey ||
-          e.altKey
-        )
-          return;
+        // Call user handler first so it can optionally preventDefault.
+        if (typeof clickCb === 'function') clickCb(e);
 
-        const target = document.getElementById(targetId);
-        if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        history.pushState(null, '', `#${targetId}`);
-        e.preventDefault();
+        // Suppress default nav for plain left-clicks unless handler already did.
+        if (
+          !e.defaultPrevented &&
+          e.button === 0 &&
+          !e.ctrlKey &&
+          !e.metaKey &&
+          !e.shiftKey &&
+          !e.altKey
+        ) {
+          e.preventDefault();
+        }
       });
 
       entry.appendChild(link);
