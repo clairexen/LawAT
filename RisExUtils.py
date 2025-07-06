@@ -1174,7 +1174,7 @@ def cli_mkjson():
         else:
             data[fn.removeprefix(f"{flags.filesdir}/")] = open(fn).read().split("\n")
 
-    with open("RisExData.json", "w") as f:
+    with open("LawAT_DataSet.json", "w") as f:
         json.dump(data, f)
 
 def cli_mkwebapp():

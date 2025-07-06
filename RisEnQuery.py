@@ -15,10 +15,10 @@ Run `intro()` for an introduction
 """)
 
 _rex_src, _rex_repcnt = None, 0
-#/#_rex_src, _rex_repcnt = "RisExFiles.zip", 1 # replace(count=1)
-#/#_rex_src, _rex_repcnt = "RisExData.json", 2 # replace(count=2)
-#/#_rex_src, _rex_repcnt = "/mnd/data/RisExFiles.zip", 3 # replace(count=3)
-#/#_rex_src, _rex_repcnt = "/mnd/data/RisExData.json", 4 # replace(count=4)
+#/#_rex_src, _rex_repcnt = "LawAT_DataSet.zip", 1 # replace(count=1)
+#/#_rex_src, _rex_repcnt = "LawAT_DataSet.json", 2 # replace(count=2)
+#/#_rex_src, _rex_repcnt = "/mnd/data/LawAT_DataSet.zip", 3 # replace(count=3)
+#/#_rex_src, _rex_repcnt = "/mnd/data/LawAT_DataSet.json", 4 # replace(count=4)
 
 def intro():
     """
@@ -27,15 +27,15 @@ def intro():
     V(_rex_intro_message)
 
 _rex_intro_message = r"""
-Utility library for accessing and searching RisExFiles.zip.
+Utility library for accessing and searching LawAT_DataSet.zip.
 
 Import as follows in Chat-GPT(-like) script environments:
 ```
-exec(open("/mnt/data/RisEnQuery.py").read().replace("#/#", "", count=3))  # Use /mnd/data/RisExFiles.zip
-exec(open("/mnt/data/RisEnQuery.py").read().replace("#/#", "", count=4))  # Use /mnd/data/RisExFiles.json
+exec(open("/mnt/data/RisEnQuery.py").read().replace("#/#", "", count=3))  # Use /mnd/data/LawAT_DataSet.zip
+exec(open("/mnt/data/RisEnQuery.py").read().replace("#/#", "", count=4))  # Use /mnd/data/LawAT_DataSet.json
 ```
 
-Formatbeschreibung (zipped) Markdown+JSON-Datensätze in RisExFiles.zip
+Formatbeschreibung (zipped) Markdown+JSON-Datensätze in LawAT_DataSet.zip
 ======================================================================
 
 - Längere Normen sind in Blöcke zu je ca. 20 kB zerteilt
@@ -169,7 +169,7 @@ eine falsche oder verfälschte Urkunde, ein falsches, verfälschtes oder entfrem
 
 Zweck:
 ------
-RisEnQuery.py ermöglicht den Zugriff auf Gesetzesdateien im ZIP-Archiv "RisExFiles.zip". Es erlaubt strukturierte Suchen in Inhaltsverzeichnissen (.index.json) und den Abruf von Gesetzestexten (.md).
+RisEnQuery.py ermöglicht den Zugriff auf Gesetzesdateien im ZIP-Archiv "LawAT_DataSet.zip". Es erlaubt strukturierte Suchen in Inhaltsverzeichnissen (.index.json) und den Abruf von Gesetzestexten (.md).
 
 Die Wichtigsten Funktionen:
 ---------------------------
@@ -222,7 +222,7 @@ Die Wichtigsten Funktionen:
 WICHTIG:
 --------
 Speziell an AI-Agents: Immer zuerst die Datenbank (RisEnQuery.py und
-RisExFiles.zip) befragen, bevor internes Wissen verwendet wird!  Normbegriffe
+LawAT_DataSet.zip) befragen, bevor internes Wissen verwendet wird!  Normbegriffe
 können ähnlich, aber unterschiedlich zwischen Ländern oder Paragrafen sein.
 Nur durch die Datenbank kann sichergestellt werden, dass nach österreichischem
 Recht korrekt zitiert wird.
@@ -348,7 +348,7 @@ def ls(p: str = None):
 
 def fetch(key: str):
     """
-        Fetch a file (by file name) from RisExFiles.zip.
+        Fetch a file (by file name) from LawAT_DataSet.zip.
 
         If fn ends with .json, the parsed JSON data
         structure is returned.

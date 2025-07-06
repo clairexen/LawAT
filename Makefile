@@ -5,8 +5,8 @@ help:
 	@echo ""
 	@echo "Usage:"
 	@echo "  make venv ........ create Python .venv/"
-	@echo "  make zip ......... (re-)create RisExFiles.zip"
-	@echo "  make json ........ (re-)create RisExData.json"
+	@echo "  make zip ......... (re-)create LawAT_DataSet.zip"
+	@echo "  make json ........ (re-)create LawAT_DataSet.json"
 	@echo "  make purge ....... remove these (re-)created output files"
 	@echo ""
 
@@ -21,13 +21,13 @@ venv: .venv/bin/activate
 	.venv/bin/pip install playwright
 	.venv/bin/playwright install
 
-zip: RisExFiles.zip
-RisExFiles.zip: normlist.json files/*
-	rm -vf RisExFiles.zip
-	zip -vXj RisExFiles.zip -r files normlist.json
+zip: LawAT_DataSet.zip
+LawAT_DataSet.zip: normlist.json files/*
+	rm -vf LawAT_DataSet.zip
+	zip -vXj LawAT_DataSet.zip -r files normlist.json
 
-json: RisExData.json
-RisExData.json: venv normlist.json files/*
+json: LawAT_DataSet.json
+LawAT_DataSet.json: venv normlist.json files/*
 	.venv/bin/python3 RisExUtils.py mkjson
 	.venv/bin/python3 RisExUtils.py mkwebapp
 
@@ -55,7 +55,7 @@ deploy:
 	.venv/bin/python3 RisExUtils.py mkwebapp
 	[ -d __ghpages__ ] || git clone -b gh-pages git@github.com:clairexen/LawAT.git __ghpages__
 	-cd __ghpages__ && git rm -rf .
-	cp -vt __ghpages__/ RisExData.json RisExFiles.zip webapp/lawdoc.json
+	cp -vt __ghpages__/ LawAT_DataSet.json LawAT_DataSet.zip webapp/lawdoc.json
 	cp -vt __ghpages__/ webapp/index.html webapp/style.css
 	cp -vt __ghpages__/ webapp/lawdoc.js webapp/lawdoc.css
 	cp -vt __ghpages__/ webapp/tocui.js webapp/tocui.css
@@ -63,6 +63,6 @@ deploy:
 
 purge:
 	rm -rf .venv __pycache__/ __ghpages__/ __rismarkup__/ __webcache__/
-	rm -rf RisExData.json RisExFiles.zip webapp/lawdoc.json
+	rm -rf LawAT_DataSet.json LawAT_DataSet.zip webapp/lawdoc.json
 
 .PHONY: help venv zip json update check-markup mitmp webapp deploy purge
