@@ -171,6 +171,13 @@
 		"caption": "Telekommunikationsgesetz 2021 (TKG)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20011678"
 	},
+	"BG.GOG": {
+		"type": "BG",
+		"title": "GOG",
+		"stop": "§ 99",
+		"caption": "Gerichtsorganisationsgesetz (GOG)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009"
+	},
 	"BV.RPV": {
 		"type": "BV",
 		"title": "RPV",

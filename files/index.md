@@ -8,6 +8,7 @@
 * [Beamten-Dienstrechtsgesetz (BDG)](BG.BDG.md)
 * [Datenschutzgesetz (DSG)](BG.DSG.md)
 * [Exekutionsordnung (EO)](BG.EO.md)
+* [Gerichtsorganisationsgesetz (GOG)](BG.GOG.md)
 * [Jurisdiktionsnorm (JN)](BG.JN.md)
 * [Konsumentenschutzgesetz (KSchG)](BG.KSchG.md)
 * [Rezeptpflichtgesetz (RezeptPG)](BG.RezeptPG.md)
