@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** AußStrG  
 **Langtitel:** Bundesgesetz über das gerichtliche Verfahren in Rechtsangelegenheiten außer Streitsachen (Außerstreitgesetz – AußStrG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 05.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047  
 **Letzte Änderung im RIS:** BGBl. I Nr. 25/2025 (NR: GP XXVIII RV 69 und Zu 69 AB 100 S. 30. BR: 11643 AB 11645 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.006.md  

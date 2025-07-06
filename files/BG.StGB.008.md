@@ -2,11 +2,11 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** StGB  
 **Langtitel:** Bundesgesetz vom 23. Jänner 1974 über die mit gerichtlicher Strafe bedrohten Handlungen (Strafgesetzbuch – StGB)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 05.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296  
 **Letzte Änderung im RIS:** BGBl. I Nr. 25/2025 (NR: GP XXVIII RV 69 und Zu 69 AB 100 S. 30. BR: 11643 AB 11645 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.008.md  
-**LawAT Änderungen im Markup:** [BG.StGB.p100-par57-abslist](../patches/BG.StGB.p100-par57-abslist.diff)  
+**LawAT Änderungen im Markup:** [BG.StGB.c100-p57-abslist](../patches/BG.StGB.c100-p57-abslist.diff)  
 *Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *Das ist die "AI-Friendly" multi-part Variante dieser Rechtsvorschrift mit kompakter Formatierung. Siehe [BG.StGB.md](BG.StGB.md) für die "Human-Friendly" single-page Variante dieser Norm mit hübscherer Formatierung.*

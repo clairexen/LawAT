@@ -2,11 +2,11 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** UrhG  
 **Langtitel:** Bundesgesetz über das Urheberrecht an Werken der Literatur und der Kunst und über verwandte Schutzrechte (Urheberrechtsgesetz).  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 05.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848  
 **Letzte Änderung im RIS:** BGBl. I Nr. 182/2023 (NR: GP XXVII RV 2309 AB 2344 S. 247. BR: 11366 AB 11400 S. 961.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.004.md  
-**LawAT Änderungen im Markup:** [BG.UrhG.p100-par17-abs2](../patches/BG.UrhG.p100-par17-abs2.diff)  
+**LawAT Änderungen im Markup:** [BG.UrhG.c100-p17-abs2](../patches/BG.UrhG.c100-p17-abs2.diff)  
 *Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *Das ist die "AI-Friendly" multi-part Variante dieser Rechtsvorschrift mit kompakter Formatierung. Siehe [BG.UrhG.md](BG.UrhG.md) für die "Human-Friendly" single-page Variante dieser Norm mit hübscherer Formatierung.*

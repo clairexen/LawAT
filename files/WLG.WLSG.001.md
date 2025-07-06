@@ -2,7 +2,7 @@
 **Typ:** Wiener Landesgesetz  
 **Kurztitel:** WLSG  
 **Langtitel:** Gesetz, mit dem Bestimmungen zum Schutz vor Beeinträchtigungen des örtlichen Gemeinschaftslebens erlassen werden und das Gesetz, mit dem der Landespolizeidirektion Wien die Mitwirkung an der Vollziehung bestimmter ortspolizeilicher Verordnungen übertragen wird, geändert wird (Wiener Landes-Sicherheitsgesetz – WLSG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 05.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrW&Gesetzesnummer=20000160  
 **Letzte Änderung im RIS:** LGBl. Nr. 71/2018  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/WLG.WLSG.001.md  

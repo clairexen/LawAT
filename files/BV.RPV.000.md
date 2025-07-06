@@ -2,7 +2,7 @@
 **Typ:** Verordnung eines Bundesministeriums  
 **Kurztitel:** RPV  
 **Langtitel:** Verordnung des Bundesministers für Gesundheit und Umweltschutz vom 30. August 1973 über rezeptpflichtige Arzneimittel (Rezeptpflichtverordnung)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 05.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010358  
 **Letzte Änderung im RIS:** BGBl. II Nr. 261/2024  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BV.RPV.000.md  
