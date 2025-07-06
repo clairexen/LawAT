@@ -4,23 +4,29 @@ Dieser Datensatz ist keine weitere "Online Rechtsdatenbank", sondern eine Sammlu
 
 * **[Zu der Liste der aktuell inkludierten Normen](https://github.com/clairexen/RisEx/blob/main/files/index.md)**
 
+Dataset Downloads:
+* **[LawAT_DataSet.zip](https://clairexen.github.io/LawAT/LawAT_DataSet.zip)** (incl. binary objects)
+* **[LawAT_DataSet.json](https://clairexen.github.io/LawAT/LawAT_DataSet.json)** (not incl. binary objects)
+
 Bitte konkrete Wünsche, welche Normen noch hinzugefügt werden sollen, einfach als [Neues Issue](https://github.com/clairexen/LawAT/issues/new) hinterlegen. Am besten gleich mit dem RIS Link zur gesamten geltenden Fassung.
 
 ### RisEx - Von RIS HTML zu Mensch- und Maschinenfreundlichem Markup und MarkDown
 
-TBD
+..TBD..
 
-### RisEn - AI-Freundliche Python Library zum Zugriff auf den mit RisEx erzeugtem Datensatz
+### RisEn - AI-Freundliche Python Library zum Zugriff auf den LawAT Datensatz
 
-TBD
+..TBD..
 
-### RisEn-GPT - Chatbot mit integriertem Rechtsdatensatz
+### RisEn-GPT - Chatbot mit integriertem Zugriff auf den Datensatz via RisEn
 
-TBD
+..TBD..
 
-### LawAT - WebApp (incl. advanced search and RisEn via Micropython)
+### "LawAT Browser" Client-Side WebApp (incl. advanced search via RisEn and Micropython)
 
-TBD
+In Alpha Testing Now: https://clairexen.github.io/LawAT/
+
+..TBD..
 
 ### Rechtliches
 
