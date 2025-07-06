@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8" />
     <title>tocui – classic mode</title>
-    <link rel="stylesheet" href="tocui.css">
+    <link rel="stylesheet" href="tocui.css" />
     <script src="tocui.js"></script>
   </head>
   <body>
     <script>
       window.addEventListener('DOMContentLoaded', () => {
-        /* Register documents ------------------------------------------------*/
+        /* Register documents --------------------------------------------*/
         tocui.addDoc('ABGB', () => {
           fetch('RisExData.json')
             .then(r => r.json())
@@ -18,17 +18,16 @@
               const toc = data['BG.ABGB.index.json'].toc;
               for (const item of toc) {
                 const label = typeof item === 'string' ? item : item[3];
-                tocui.append(label); // pass id as 2nd arg if available
+                tocui.append(label);
               }
               tocui.setDoc('ABGB');
-              tocui.show();
             });
         });
 
-        tocui.addDoc('Weitere Dokumente'); // header in drop‑down
+        tocui.addDoc('Weitere Dokumente');
         tocui.addDoc('ZPO', () => console.log('Lade ZPO …'));
 
-        /* Load default ------------------------------------------------------*/
+        /* Load default --------------------------------------------------*/
         tocui.setDoc('ABGB');
       });
     </script>
