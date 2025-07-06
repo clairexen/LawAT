@@ -254,6 +254,7 @@ def markdownEscape(text):
 def docTypeToLongName(typ):
     match typ:
         case "BG": return "Bundesgesetz"
+        case "BVG": return "Bundesverfassungsgesetz"
         case "BV": return "Verordnung eines Bundesministeriums"
         case "WLG": return "Wiener Landesgesetz"
     assert False, "Unrecognized doc type: {typ}"
@@ -638,8 +639,8 @@ class LawDocMarkdownEngine:
         for item in parDoc[1:]:
             if type(item[0]) is dict:
                 if self.strict_mode:
-                    assert False, f"Unknown Tag in genPart(): {tag}"
-                print(f"Unknown Tag in genPart(): {tag}")
+                    assert False, f"Unknown Tag in genPart(): {item[0]}"
+                print(f"Unknown Tag in genPart(): {item[0]}")
                 continue
 
             head, *tail = item
@@ -913,6 +914,17 @@ class LawDocMarkdownEngine:
 ###############
 
 def cli_update(*args):
+    addFlag("new", False)
+    args = updateFlags(*args)
+
+    if flags.new and not args:
+        for arg in normindex.keys():
+            if not os.access(f"files/{arg}.index.json", os.F_OK):
+                args.append(arg)
+        if not args:
+            print("Nothing new.")
+            return
+
     cli_fetch(*args)
     cli_render("--index", "--down", *args)
 
@@ -1081,6 +1093,7 @@ def cli_index():
             f_json.write(f"[")
             json_sep = "\n  "
             for pf, header in (
+                        ("BVG.", "Bundesverfassungsgesetze"),
                         ("BG.", "Bundesgesetze"),
                         ("BV.", "Verordnungen der Bundesminister(ien)"),
                         ("WLG.", "Wiener Landesgesetze"),
