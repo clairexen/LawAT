@@ -157,7 +157,7 @@ const lawdoc = (() => {
 					c = worker(item);
 					if (item[0] == 'Rem') {
 						let dt = genElement('DT');
-						dt.innerHTML = "&nbsp;";
+						dt.innerHTML = "—";
 						el.appendChild(dt);
 						let dd = genElement('DD');
 						dd.appendChild(c);
