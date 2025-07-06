@@ -12,3 +12,20 @@
   padding: 5px;
   border: 2px solid #333;
 }
+
+body {
+  background-color: #ffe6f0; /* soft rose/pink */
+  font-family: sans-serif;
+  margin: 0;
+  padding: 1em;
+}
+
+.LawPart {
+  background-color: #f2f2f2; /* light gray */
+  border-radius: 1em;
+  padding: 1em;
+  margin-bottom: 1em;
+  box-shadow: 0 0.2em 0.5em rgba(0, 0, 0, 0.1);
+}
+
+
