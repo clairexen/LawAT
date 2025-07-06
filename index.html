@@ -59,7 +59,8 @@
             if (typeof item === 'string') {
               tocui.append(item);
             } else {
-              const ref = item[0], label = item[3], refId = lawdoc.getIdForPartRef(ref);
+              const ref = item[0], refId = lawdoc.getIdForPartRef(ref);
+              const label = item[3].replace(` ${strippedNorm} #`, " —");
               tocui.append(label, refId, () => scrollTo(refId));
             }
           }
