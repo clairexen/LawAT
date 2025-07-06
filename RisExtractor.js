@@ -458,7 +458,7 @@ class RisExAST {
 				tag = "Part " + partName;
 			}
 
-			if (this.typeIn("Title") && this.text.length) {
+			if (this.typeIn("Title") && this.text.length && typeof this.text[0] === "string") {
 				const regex = new RegExp((partName + " ").replaceAll(" ", "\\.?\\s*"));
 				this.text[0] = this.text[0].replace(regex, "");
 				if (this.text.length == 1 && this.text[0] == "") return null;
