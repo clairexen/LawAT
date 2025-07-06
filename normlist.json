@@ -184,6 +184,18 @@
 		"caption": "BMSGPK: Rezeptpflichtverordnung (RPV)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010358"
 	},
+	"BV.SV": {
+		"type": "BV",
+		"title": "SV",
+		"caption": "BMSGPK: Suchtgiftverordnung (SV)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011053"
+	},
+	"BV.SGV": {
+		"type": "BV",
+		"title": "RPV",
+		"caption": "BMSGPK: Suchtgift-Grenzmengenverordnung (SGV)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011056"
+	},
 	"BV.DV-StAG": {
 		"type": "BV",
 		"title": "DV-StAG",
@@ -219,5 +231,30 @@
 		"title": "WrAuskPG",
 		"caption": "Wiener Auskunftspflichtgesetz (WrAuskPG)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrW&Gesetzesnummer=20000332"
+	},
+	"BG.SMG": {
+		"type": "BG",
+		"title": "SMG",
+		"stop": "§ 50",
+		"caption": "Suchtmittelgesetz (SMG)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011040"
+	},
+	"BG.NPSG": {
+		"type": "BG",
+		"title": "NPSG",
+		"caption": "Neue-Psychoaktive-Substanzen-Gesetz (NPSG)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007605"
+	},
+	"BVG.StGG": {
+		"type": "BVG",
+		"title": "StGG",
+		"caption": "Staatsgrundgesetz von 1867, über die allgemeinen Rechte der Staatsbürger (StGG)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000006"
+	},
+	"BVG.B-VG": {
+		"type": "BVG",
+		"title": "B-VG",
+		"caption": "Bundes-Verfassungsgesetz (B-VG)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000138"
 	}
 }

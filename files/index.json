@@ -1,4 +1,7 @@
 [
+  "Bundesverfassungsgesetze",
+    ["Bundes-Verfassungsgesetz (B-VG)","BVG.B-VG"],
+    ["Staatsgrundgesetz von 1867, über die allgemeinen Rechte der Staatsbürger (StGG)","BVG.StGG"],
   "Bundesgesetze",
     ["Allgemeines Verwaltungsverfahrensgesetz (AVG)","BG.AVG"],
     ["Allgemeines bürgerliches Gesetzbuch (ABGB)","BG.ABGB"],
@@ -10,6 +13,7 @@
     ["Gerichtsorganisationsgesetz (GOG)","BG.GOG"],
     ["Jurisdiktionsnorm (JN)","BG.JN"],
     ["Konsumentenschutzgesetz (KSchG)","BG.KSchG"],
+    ["Neue-Psychoaktive-Substanzen-Gesetz (NPSG)","BG.NPSG"],
     ["Rezeptpflichtgesetz (RezeptPG)","BG.RezeptPG"],
     ["Schulunterrichtsgesetz (SchUG)","BG.SchUG"],
     ["Sicherheitspolizeigesetz (SPG)","BG.SPG"],
@@ -17,6 +21,7 @@
     ["Strafgesetzbuch (StGB)","BG.StGB"],
     ["Strafprozeßordnung (StPO)","BG.StPO"],
     ["Straßenverkehrsordnung (StVO)","BG.StVO"],
+    ["Suchtmittelgesetz (SMG)","BG.SMG"],
     ["Telekommunikationsgesetz 2021 (TKG)","BG.TKG"],
     ["Urheberrechtsgesetz (UrhG)","BG.UrhG"],
     ["Vereinsgesetz (VerG)","BG.VerG"],
@@ -30,6 +35,8 @@
     ["BMIMI: Frequenznutzungsverordnung 2013 (FNV)","BV.FNV"],
     ["BMJ: DV zum Staatsanwaltschaftsgesetz (DV-StAG)","BV.DV-StAG"],
     ["BMSGPK: Rezeptpflichtverordnung (RPV)","BV.RPV"],
+    ["BMSGPK: Suchtgift-Grenzmengenverordnung (SGV)","BV.SGV"],
+    ["BMSGPK: Suchtgiftverordnung (SV)","BV.SV"],
   "Wiener Landesgesetze",
     ["Wiener Auskunftspflichtgesetz (WrAuskPG)","WLG.WrAuskPG"],
     ["Wiener Landes-Sicherheitsgesetz (WLSG)","WLG.WLSG"]

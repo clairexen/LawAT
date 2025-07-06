@@ -1,0 +1,11 @@
+--- BV.SV.markup.json
++++ BV.SV.markup.json
+@@ -2905,7 +2905,7 @@ ["Part Anl. 2",
+         "einem oder mehreren den Suchtgiftbestimmungen unterliegenden Stoffen jeweils den ",
+         "Prozentsatz von 0,001 nicht übersteigt"]],
+ ["Part Anl. 3",
+-    [{"type":"Unknown","path":"div#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_51_TextContainer_51 > div > div > p:nth-of-type(1)","tag":"P","class":"TabTextRechtsb AlignRight"},
++    ["Head",
+         "Anhang III"],
+     ["SubHdr Erl",
+         "III.1. Pharmazeutische Zubereitungen, die folgende Suchtgifte des Anhanges II enthalten:"],

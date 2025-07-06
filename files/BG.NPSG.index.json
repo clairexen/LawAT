@@ -1,0 +1,28 @@
+{
+  "toc": [
+    ["§ 1 NPSG", "BG.NPSG:29-39", "BG.NPSG.001:17-28", "§ 1 NPSG # Begriffsbestimmungen"],
+    ["§ 2 NPSG", "BG.NPSG:45-49", "BG.NPSG.001:30-36", "§ 2 NPSG # Anwendungsbereich"],
+    ["§ 3 NPSG", "BG.NPSG:55-69", "BG.NPSG.001:38-55", "§ 3 NPSG # Verordnung"],
+    ["§ 4 NPSG", "BG.NPSG:75-79", "BG.NPSG.001:57-63", "§ 4 NPSG # Gerichtliche Strafbestimmungen"],
+    ["§ 5 NPSG", "BG.NPSG:85-89", "BG.NPSG.001:65-71", "§ 5 NPSG # Einziehung"],
+    ["§ 6 NPSG", "BG.NPSG:95-97", "BG.NPSG.001:73-76", "§ 6 NPSG # Verdacht auf arzneimittelrechtliche Verstöße"],
+    ["§ 7 NPSG", "BG.NPSG:103-107", "BG.NPSG.001:78-84", "§ 7 NPSG # Sicherstellungsbefugnis und Informationspflichten der Zollbehörden"],
+    ["§ 8 NPSG", "BG.NPSG:113-123", "BG.NPSG.001:86-98", "§ 8 NPSG # Monitoring"],
+    ["§ 9 NPSG", "BG.NPSG:129-141", "BG.NPSG.001:100-112", "§ 9 NPSG # Vollziehung"],
+    ["§ 10 NPSG", "BG.NPSG:147-151", "BG.NPSG.001:114-120", "§ 10 NPSG # Schlussbestimmungen"],
+    ["§ 11 NPSG", "BG.NPSG:157-161", "BG.NPSG.001:122-128", "§ 11 NPSG # Inkrafttreten"]
+  ],
+  "index": {
+    "§ 1 NPSG": 0,
+    "§ 2 NPSG": 1,
+    "§ 3 NPSG": 2,
+    "§ 4 NPSG": 3,
+    "§ 5 NPSG": 4,
+    "§ 6 NPSG": 5,
+    "§ 7 NPSG": 6,
+    "§ 8 NPSG": 7,
+    "§ 9 NPSG": 8,
+    "§ 10 NPSG": 9,
+    "§ 11 NPSG": 10
+  }
+}

@@ -1,5 +1,9 @@
 # LawAT Rechtsdatensatz — Index der Normen
 
+## Bundesverfassungsgesetze
+* [Bundes-Verfassungsgesetz (B-VG)](BVG.B-VG.md)
+* [Staatsgrundgesetz von 1867, über die allgemeinen Rechte der Staatsbürger (StGG)](BVG.StGG.md)
+
 ## Bundesgesetze
 * [Allgemeines Verwaltungsverfahrensgesetz (AVG)](BG.AVG.md)
 * [Allgemeines bürgerliches Gesetzbuch (ABGB)](BG.ABGB.md)
@@ -11,6 +15,7 @@
 * [Gerichtsorganisationsgesetz (GOG)](BG.GOG.md)
 * [Jurisdiktionsnorm (JN)](BG.JN.md)
 * [Konsumentenschutzgesetz (KSchG)](BG.KSchG.md)
+* [Neue-Psychoaktive-Substanzen-Gesetz (NPSG)](BG.NPSG.md)
 * [Rezeptpflichtgesetz (RezeptPG)](BG.RezeptPG.md)
 * [Schulunterrichtsgesetz (SchUG)](BG.SchUG.md)
 * [Sicherheitspolizeigesetz (SPG)](BG.SPG.md)
@@ -18,6 +23,7 @@
 * [Strafgesetzbuch (StGB)](BG.StGB.md)
 * [Strafprozeßordnung (StPO)](BG.StPO.md)
 * [Straßenverkehrsordnung (StVO)](BG.StVO.md)
+* [Suchtmittelgesetz (SMG)](BG.SMG.md)
 * [Telekommunikationsgesetz 2021 (TKG)](BG.TKG.md)
 * [Urheberrechtsgesetz (UrhG)](BG.UrhG.md)
 * [Vereinsgesetz (VerG)](BG.VerG.md)
@@ -32,6 +38,8 @@
 * [BMIMI: Frequenznutzungsverordnung 2013 (FNV)](BV.FNV.md)
 * [BMJ: DV zum Staatsanwaltschaftsgesetz (DV-StAG)](BV.DV-StAG.md)
 * [BMSGPK: Rezeptpflichtverordnung (RPV)](BV.RPV.md)
+* [BMSGPK: Suchtgift-Grenzmengenverordnung (SGV)](BV.SGV.md)
+* [BMSGPK: Suchtgiftverordnung (SV)](BV.SV.md)
 
 ## Wiener Landesgesetze
 * [Wiener Auskunftspflichtgesetz (WrAuskPG)](WLG.WrAuskPG.md)

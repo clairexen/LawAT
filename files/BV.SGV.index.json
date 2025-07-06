@@ -1,0 +1,15 @@
+{
+  "toc": [
+    ["§ 1 RPV", "BV.SGV:24-26", "BV.SGV.001:17-20", "§ 1 RPV"],
+    ["§ 2 RPV", "BV.SGV:32-34", "BV.SGV.001:22-25", "§ 2 RPV"],
+    ["§ 3 RPV", "BV.SGV:40-50", "BV.SGV.001:27-42", "§ 3 RPV"],
+    "Anhang",
+    ["Anl. 1 RPV", "BV.SGV:56-321", "BV.SGV.002:15-280", "Anl. 1 RPV"]
+  ],
+  "index": {
+    "§ 1 RPV": 0,
+    "§ 2 RPV": 1,
+    "§ 3 RPV": 2,
+    "Anl. 1 RPV": 4
+  }
+}
