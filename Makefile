@@ -29,6 +29,7 @@ RisExFiles.zip: normlist.json files/*
 json: RisExData.json
 RisExData.json: venv normlist.json files/*
 	.venv/bin/python3 RisExUtils.py mkjson
+	.venv/bin/python3 RisExUtils.py mkwebapp
 
 update:
 	rm -rf files __rismarkup__ __webcache__
@@ -51,6 +52,7 @@ webapp:
 	cd webapp && ../.venv/bin/python3 -m http.server
 
 deploy:
+	.venv/bin/python3 RisExUtils.py mkwebapp
 	[ -d __ghpages__ ] || git clone -b gh-pages git@github.com:clairexen/LawAT.git __ghpages__
 	-cd __ghpages__ && git rm -rf .
 	cp -vt __ghpages__/ RisExData.json RisExFiles.zip webapp/lawdoc.json
