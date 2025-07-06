@@ -15,8 +15,9 @@ files=()
 #files+=(lawdoc.{html,css,js})
 files+=(tocui.{html,css,js})
 
-# canvas starts with a space so this doesn't clog up the shell history
-{ echo " #!/bin/bash"; for file in "${files[@]}"; do
+{ echo "  #!/bin/bash";
+  echo "#^ canvas starts with spaces so this doesn't clog up the shell history";
+  for file in "${files[@]}"; do
 	eoftag=`echo -n "$file-EOF" | tr a-z A-Z | tr -c A-Z - | tr -s -`
 	echo -e "\ncat>'$file'<<'$eoftag'"; cat < "$file"; echo $eoftag
 done; } | xclip -selection clipboard -i
