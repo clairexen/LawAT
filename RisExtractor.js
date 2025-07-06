@@ -449,12 +449,20 @@ class RisExAST {
 				this.visitElement(item));
 	}
 
-	getJSON(verbose=false, annotate=false) {
+	getJSON(verbose=false, annotate=false, partName=null) {
 		let tag = this.properties, color = "blue", s = [];
 
 		if (!verbose) {
-			if (this.typeIn("Par"))
-				tag = "Part " + this.get("par");
+			if (this.typeIn("Par")) {
+				partName = this.get("par");
+				tag = "Part " + partName;
+			}
+
+			if (this.typeIn("Title") && this.text.length) {
+				const regex = new RegExp((partName + " ").replaceAll(" ", "\\.?\\s*"));
+				this.text[0] = this.text[0].replace(regex, "");
+				if (this.text.length == 1 && this.text[0] == "") return null;
+			}
 
 			if (this.typeIn("Head", "Title", "Text")) {
 				let inParPretext = true;
@@ -534,7 +542,7 @@ class RisExAST {
 			s.push(item);
 
 		for (let child of this.children) {
-			let c = child.getJSON(verbose, annotate);
+			let c = child.getJSON(verbose, annotate, partName);
 			if (c !== null) s.push(c);
 		}
 
