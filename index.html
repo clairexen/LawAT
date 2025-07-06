@@ -11,10 +11,28 @@
 </head>
 <body>
   <div id="main"></div>
+  <div id="infomsg">
+    <img src="logo.png" style="float:right; height:200px; padding-left:1em;"/>
+    <div style="padding-left:50px"><b>+++ Early Alpha Test Version +++</b></div>
+    <p/>
+    <u><big>LawAT Data-Set Browser</big></u>
+    <p/>
+    Dies ist ein Client-Side Javascript-based Viewer/Browser für den <i>LawAT Rechtsdatensatz</i>.
+    <p/>
+    Mehr Informetaionen zum <i>LawAT Rechtsdatensatz</i> gibt es <b><a href="https://github.com/clairexen/LawAT/blob/main/README.md" target="_blank">im LawAT README auf GitHub</a></b>.
+    <p/>
+    Die ursprüngliche Quelle der Daten ist natürlich das <b><a href="https://www.ris.bka.gv.at/" target="_blank">Rechtsinformationssystem des Bundes (RIS)</a></b>.
+    <p/>
+    Da diese App den ganzen <i>LawAT Rechtsdatensatz</i> gleich beim Starten runterläd, werden dadurch komplexe lokale Suchen
+    im Volltext der Normen möglich. Diese geplanten Features sind aber noch nicht implementiert. Stay tuned...
+    <p/>
+    <u><b>Impressum:</b></u> Siehe <b><a href="https://www.clairexen.net/" target="_blank">https://www.clairexen.net/</a></b>.
+  </div>
   <div id="loading">Loading Dataset...<br/>Please wait a moment.</div>
   <script>//<!--
     window.addEventListener("DOMContentLoaded", () => {
       const mainDiv = document.getElementById("main");
+      const infomsgDiv = document.getElementById("infomsg");
       const locTarget = window.location.hash.slice(1);
 
       if ("scrollRestoration" in history) {
@@ -33,6 +51,7 @@
         if (!noPushHistory)
           history.pushState(null, '', "#");
         currentNorm = null;
+	infomsgDiv.style.display = "block";
       }
 
       tocui.addDoc("Index der Normen", () => selIndex());
@@ -68,6 +87,7 @@
           if (!noPushHistory)
             history.pushState(null, '', `#${strippedNorm}`);
           currentNorm = strippedNorm;
+	  infomsgDiv.style.display = "none";
         }
 
         function scrollTo(targetId) {
