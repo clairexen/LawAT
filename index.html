@@ -54,7 +54,6 @@
         } else {
           const caption = item[0], norm = item[1];
 	  const strippedNorm = norm.split(".")[1];
-	  console.log(norm, strippedNorm);
 	  if (locNorm == strippedNorm)
             selInitial = () => selDoc(caption, norm, strippedNorm, false);
           tocui.addDoc(caption, () => selDoc(caption, norm, strippedNorm, true));
@@ -64,7 +63,22 @@
       selInitial();
 
       const target = document.getElementById(locTarget);
-      if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      if (target) {
+        const doScroll = () => target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        // Run now if page is already visible
+        if (document.visibilityState === "visible") {
+          doScroll();
+        } else {
+          // Otherwise wait until it's visible
+          const onVisible = () => {
+            if (document.visibilityState === "visible") {
+              document.removeEventListener("visibilitychange", onVisible);
+              doScroll();
+            }
+          };
+          document.addEventListener("visibilitychange", onVisible);
+        }
+      }
     }));
   //--></script>
 </body>
