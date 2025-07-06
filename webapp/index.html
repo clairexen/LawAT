@@ -21,9 +21,10 @@
         tocui.reset();
         tocui.append("Selektiere eine Norm ☝️");
         tocui.show();
+        history.pushState(null, '', "#");
       }
 
-      function selDoc(caption, norm) {
+      function selDoc(caption, norm, strippedNorm, pushHistory) {
         mainDiv.innerHTML = "";
         mainDiv.appendChild(lawdoc.render(lawdoc.zip[norm + '.markup.json']['document']));
         tocui.reset();
@@ -38,7 +39,13 @@
         }
         tocui.setDoc(caption);
         tocui.show();
+	if (pushHistory)
+		history.pushState(null, '', `#${strippedNorm}`);
       }
+
+      const locTarget = window.location.hash.slice(1);
+      const locNorm = locTarget.split(".")[0];
+      let selInitial = () => selIndex();
 
       tocui.addDoc("Index der Normen", () => selIndex());
       for (const item of lawdoc.zip['index.json']) {
@@ -46,11 +53,18 @@
           tocui.addDoc(item);
         } else {
           const caption = item[0], norm = item[1];
-          tocui.addDoc(caption, () => selDoc(caption, norm));
+	  const strippedNorm = norm.split(".")[1];
+	  console.log(norm, strippedNorm);
+	  if (locNorm == strippedNorm)
+            selInitial = () => selDoc(caption, norm, strippedNorm, false);
+          tocui.addDoc(caption, () => selDoc(caption, norm, strippedNorm, true));
         }
       }
 
-      selIndex();
+      selInitial();
+
+      const target = document.getElementById(locTarget);
+      if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }));
   //--></script>
 </body>
