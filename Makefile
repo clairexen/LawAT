@@ -59,6 +59,7 @@ deploy:
 	cp -vt __ghpages__/ webapp/index.html webapp/style.css
 	cp -vt __ghpages__/ webapp/lawdoc.js webapp/lawdoc.css
 	cp -vt __ghpages__/ webapp/tocui.js webapp/tocui.css
+	cp -vt __ghpages__/ webapp/logo.png webapp/favicon.ico
 	cd __ghpages__ && git add . && git commit -m deploy && git push
 
 purge:
