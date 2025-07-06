@@ -45,7 +45,8 @@ const lawdoc = (() => {
 			function genElement(htmlTag, lawDocTag=null) {
 				if (lawDocTag === null) lawDocTag = tag;
 				let el = document.createElement(htmlTag);
-				if (lawDocTag == "LawDoc" || lawDocTag == "PartName")
+				if (lawDocTag == "LawDoc" || lawDocTag == "PartName" ||
+						lawDocTag == "PartBody")
 					el.classList.add(lawDocTag);
 				else if (lawDocTag == "Part" || lawDocTag == "Text" ||
 						lawDocTag == "Err" || lawDocTag == "Src")
@@ -107,35 +108,42 @@ const lawdoc = (() => {
 				return el;
 			}
 
-			if (tag == "Part" || tag == "Item") {
-				let el = genElement(tag == "Item" ? 'DD' : 'DIV'), sp;
-				if (tag == "Item") {
-					dt = genElement('DT', tag + 'Name');
-					dt.innerText = infoStr;
-					el.appendChild(dt);
-				} else {
-					sp = genElement('SPAN', tag + 'Name');
-					if (tag == "Part")
-						sp.setAttribute('id', getIdForPartRef(infoStr + refSuffix) + "_");
-					sp.innerText = infoStr;
-					el.appendChild(sp);
-				}
+			if (tag == "Part") {
+				let el = genElement('DIV'), body = el;
+				let sp = genElement('SPAN', tag + 'Name');
+				sp.setAttribute('id', getIdForPartRef(infoStr + refSuffix) + "_");
+				sp.innerText = infoStr;
+				tail.forEach(item => {
+					if (body.children.length)
+						body.appendChild(document.createTextNode("\n"));
+					c = worker(item);
+					if (c.tagName != 'H2' && sp) {
+						body = genElement('DIV', 'PartBody');
+						el.appendChild(body);
+						if (c.tagName == 'H3' && sp) {
+							c.prepend(document.createTextNode(" "));
+							c.prepend(sp);
+						} else {
+							let h3 = genElement('H3', tag + 'Title');
+							h3.appendChild(sp);
+							body.appendChild(h3);
+						}
+						sp = null;
+					}
+					body.appendChild(c);
+				});
+				return el;
+			}
+
+			if (tag == "Item") {
+				let el = genElement('DD');
+				let dt = genElement('DT', tag + 'Name');
+				dt.innerText = infoStr;
+				el.appendChild(dt);
 				tail.forEach(item => {
 					if (el.children.length)
 						el.appendChild(document.createTextNode("\n"));
-					c = worker(item);
-					if (c.tagName == 'H3' && sp) {
-						c.prepend(document.createTextNode(" "));
-						c.prepend(sp);
-						sp = null;
-					} else
-					if (c.tagName != 'H2' && sp) {
-						let h3 = genElement('H3', tag + 'Title');
-						h3.appendChild(sp);
-						el.appendChild(h3);
-						sp = null;
-					}
-					el.appendChild(c);
+					el.appendChild(worker(item));
 				});
 				return el;
 			}
