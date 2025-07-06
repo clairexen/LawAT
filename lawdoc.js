@@ -116,7 +116,7 @@ const lawdoc = (() => {
 				} else {
 					sp = genElement('SPAN', tag + 'Name');
 					if (tag == "Part")
-						sp.setAttribute('id', getIdForPartRef(infoStr + refSuffix));
+						sp.setAttribute('id', getIdForPartRef(infoStr + refSuffix) + "_");
 					sp.innerText = infoStr;
 					el.appendChild(sp);
 				}
