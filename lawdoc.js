@@ -12,124 +12,163 @@ const lawdoc = (() => {
 		zipPromise.then(callback);
 	}
 
-	function render(markup, refSuffix="") {
-		// -----------------------------------------------------------------------
-		// content handling
+	function render(markup) {
+		let refSuffix = "";
+		let metaData = {};
 
-		if (typeof markup === "string") {
-			let el = document.createElement('SPAN');
-			el.classList.add('LawSpan');
-			el.innerText = markup;
-			return el;
-		}
+		function worker(markup) {
+			// -----------------------------------------------------------------------
+			// content handling
 
-		const head = markup[0].trim().split(/\s+/), tail = markup.slice(1),
-				infoStr = markup[0].replace(/^\s*\S+\s*/, ''),
-				tag = head[0], info = head.slice(1);
-
-		if (tag == "Meta") {
-			if (markup[0] == "Meta PartAnchors")
-				markup = [markup[0] + " ..."];
-			return document.createComment('LawDoc'+markup.join('\n')+' ');
-		}
-
-		function removePrefix(str, prefix) {
-			return str.startsWith(prefix) ? str.slice(prefix.length) : str;
-		}
-
-		function genElement(htmlTag, lawDocTag=null) {
-			let el = document.createElement(htmlTag);
-			el.classList.add('Law' + removePrefix(lawDocTag === null ? tag : lawDocTag, "Law"));
-			return el;
-		}
-
-		if (tag == "Rem") {
-			let el = genElement('I');
-			tail.forEach(item => { el.appendChild(render(item, refSuffix)); });
-			return el;
-		}
-
-		if (tag == "Head" || tag == "Title" || tag == "Text") {
-			let el = genElement(tag == "Head" ? 'H2' : tag == "Title" ? 'H3' : 'DIV');
-			info.forEach(item => { el.classList.add('Law' + item); });
-			tail.forEach(item => { el.appendChild(render(item, refSuffix)); });
-			return el;
-		}
-
-		if (tag == "Break") {
-			return genElement('P');
-		}
-
-		// -----------------------------------------------------------------------
-		// structure handling
-
-		if (tag == "LawDoc" || tag == "Part" || tag == "Item") {
-			let el = genElement(tag == "Item" ? 'DD' : 'DIV'), sp;
-			if (tag == "Item") {
-				dt = genElement('DT', tag + 'Name');
-				dt.innerText = infoStr;
-				el.appendChild(dt);
-			} else {
-				sp = genElement('SPAN', tag + 'Name');
-				if (tag == "Part")
-					sp.setAttribute('id', getIdForPartRef(infoStr + refSuffix));
-				sp.innerText = infoStr;
-				el.appendChild(sp);
+			if (typeof markup === "string") {
+				// let el = document.createElement('SPAN');
+				// el.innerText = markup;
+				let el = document.createTextNode(markup);
+				return el;
 			}
+
+			const head = markup[0].trim().split(/\s+/), tail = markup.slice(1),
+					infoStr = markup[0].replace(/^\s*\S+\s*/, ''),
+					tag = head[0], info = head.slice(1);
+
+			if (tag == "Meta") {
+				metaData[markup[0].replace(/^Meta /, '')] = markup.slice(1);
+				if (markup[0] == "Meta PartAnchors")
+					markup = [markup[0] + " ..."];
+				return document.createComment('LawDoc'+markup.join('\n')+' ');
+			}
+
+			function removePrefix(str, prefix) {
+				return str.startsWith(prefix) ? str.slice(prefix.length) : str;
+			}
+
+			function genElement(htmlTag, lawDocTag=null) {
+				if (lawDocTag === null) lawDocTag = tag;
+				let el = document.createElement(htmlTag);
+				if (lawDocTag == "LawDoc" || lawDocTag == "PartName")
+					el.classList.add(lawDocTag);
+				else if (lawDocTag == "Part" || lawDocTag == "Text" ||
+						lawDocTag == "Err" || lawDocTag == "Src")
+					el.classList.add("Law" + lawDocTag);
+				// el.classList.add("_" + lawDocTag);
+				return el;
+			}
+
+			if (tag == "Rem") {
+				let el = genElement('I');
+				tail.forEach(item => { el.appendChild(worker(item)); });
+				return el;
+			}
+
+			if (tag == "Head" || tag == "Title" || tag == "Text") {
+				let el = genElement(tag == "Head" ? 'H2' : tag == "Title" ? 'H3' : 'DIV');
+				info.forEach(item => { el.classList.add(item); });
+				tail.forEach(item => { el.appendChild(worker(item)); });
+				return el;
+			}
+
+			if (tag == "Break") {
+				return genElement('P');
+			}
+
+			// -----------------------------------------------------------------------
+			// structure handling
+
 			if (tag == "LawDoc") {
+				let el = genElement('DIV');
+
+				tail.forEach(item => {
+					if (/^Meta /.test(item[0]))
+						el.appendChild(worker(item));
+				});
+
 				refSuffix = " " + infoStr.replace(/^[A-Z]+\./, '')
 				let h1 = genElement('H1', tag + 'Title');
-				h1.appendChild(sp);
-				h1.appendChild(document.createTextNode(": " + markup[1][1]));
+				h1.appendChild(document.createTextNode(metaData["Langtitel"][0] +
+						"; i.d.F.v. " + metaData["FassungVom"][0]));
 				el.appendChild(h1);
-				sp = null;
+
+				let risLink = metaData["RisSrcLink"];
+				let mdLink = `https://github.com/clairexen/LawAT/blob/main/files/${infoStr}.md`;
+				let muLink = `https://github.com/clairexen/LawAT/blob/main/files/${infoStr}.markup.json`;
+
+				let srcDiv = genElement('DIV', 'Src');
+				srcDiv.innerHTML += `<b>LawAT GitHub Markdown:</b> <a href="${mdLink}" target="_blank">${mdLink}</a><br/>`;
+				srcDiv.innerHTML += `<b>LawAT "LawDoc" Markup:</b> <a href="${muLink}" target="_blank">${muLink}</a><br/>`;
+				srcDiv.innerHTML += `<b>RIS Quell-Dokument:</b> <a href="${risLink}" target="_blank">${risLink}</a>`;
+				el.appendChild(srcDiv);
+
+				tail.forEach(item => {
+					if (/^Meta /.test(item[0]))
+						return;
+					el.appendChild(worker(item));
+				});
+
+				return el;
 			}
-			tail.forEach(item => {
-				if (el.children.length)
-					el.appendChild(document.createTextNode("\n"));
-				c = render(item, refSuffix);
-				if (c.tagName == 'H3' && sp) {
-					c.prepend(document.createTextNode(" "));
-					c.prepend(sp);
-					sp = null;
-				} else
-				if (c.tagName != 'H2' && sp) {
-					let h3 = genElement('H3', tag + 'Title');
-					h3.appendChild(sp);
-					el.appendChild(h3);
-					sp = null;
-				}
-				el.appendChild(c);
-			});
-			return el;
-		}
 
-		if (tag == "List") {
-			let el = genElement('DL');
-			info.forEach(item => { el.classList.add('Law' + item); });
-			tail.forEach(item => {
-				if (el.children.length)
-					el.appendChild(document.createTextNode("\n"));
-				c = render(item, refSuffix);
-				if (item[0] == 'Rem') {
-					let dt = genElement('DT');
-					dt.innerHTML = "&nbsp;";
+			if (tag == "Part" || tag == "Item") {
+				let el = genElement(tag == "Item" ? 'DD' : 'DIV'), sp;
+				if (tag == "Item") {
+					dt = genElement('DT', tag + 'Name');
+					dt.innerText = infoStr;
 					el.appendChild(dt);
-					let dd = genElement('DD');
-					dd.appendChild(c);
-					el.appendChild(dd);
 				} else {
-					if (c.firstElementChild.tagName == 'DT')
-						el.appendChild(c.firstElementChild);
-					el.appendChild(c);
+					sp = genElement('SPAN', tag + 'Name');
+					if (tag == "Part")
+						sp.setAttribute('id', getIdForPartRef(infoStr + refSuffix));
+					sp.innerText = infoStr;
+					el.appendChild(sp);
 				}
-			});
+				tail.forEach(item => {
+					if (el.children.length)
+						el.appendChild(document.createTextNode("\n"));
+					c = worker(item);
+					if (c.tagName == 'H3' && sp) {
+						c.prepend(document.createTextNode(" "));
+						c.prepend(sp);
+						sp = null;
+					} else
+					if (c.tagName != 'H2' && sp) {
+						let h3 = genElement('H3', tag + 'Title');
+						h3.appendChild(sp);
+						el.appendChild(h3);
+						sp = null;
+					}
+					el.appendChild(c);
+				});
+				return el;
+			}
+
+			if (tag == "List") {
+				let el = genElement('DL');
+				info.forEach(item => { el.classList.add(item); });
+				tail.forEach(item => {
+					if (el.children.length)
+						el.appendChild(document.createTextNode("\n"));
+					c = worker(item);
+					if (item[0] == 'Rem') {
+						let dt = genElement('DT');
+						dt.innerHTML = "&nbsp;";
+						el.appendChild(dt);
+						let dd = genElement('DD');
+						dd.appendChild(c);
+						el.appendChild(dd);
+					} else {
+						if (c.firstElementChild.tagName == 'DT')
+							el.appendChild(c.firstElementChild);
+						el.appendChild(c);
+					}
+				});
+				return el;
+			}
+
+			let el = genElement('TT', 'Err');
+			el.innerText = JSON.stringify(markup);
 			return el;
 		}
 
-		let el = genElement('TT', 'Err');
-		el.innerText = JSON.stringify(markup);
-		return el;
+		return worker(markup);
 	}
 
 	function getIdForPartRef(ref) {
