@@ -6,6 +6,7 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000842  
 **Letzte Änderung im RIS:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.StAG.md  
+**LawAT Änderungen im Markup:** [BG.StAG.c100-p9-abs1](../patches/BG.StAG.c100-p9-abs1.diff)  
 *Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 ## Inhaltsverzeichnis
@@ -254,14 +255,14 @@ Der Nationalrat hat beschlossen:
 ### § 10 StAG — Monats- und Jahresberichte
 
 > *\(Anm\.: Abs\. 1 aufgehoben durch BGBl\. I Nr\. 112/2007\)*
->
->> `(2)` Alljährlich haben die Staatsanwaltschaften der Oberstaatsanwaltschaft über die auf Grund öffentlicher Anklage geführten Strafverfahren einen Geschäftsausweis vorzulegen und die Entwicklung des Geschäftsanfalles zu erläutern\. Die Oberstaatsanwaltschaften haben diese Geschäftsausweise zu prüfen, sie gegebenenfalls richtigstellen zu lassen oder sonst erforderliche Verfügungen zu treffen\. Sie haben eine Gesamtübersicht zusammenzustellen, der die Ausweiszahlen der ihnen unterstellten Staatsanwaltschaften zu entnehmen sind\.
->
->> `(3)` Die Oberstaatsanwaltschaften haben dem Bundesministerium für Justiz Übersichten über die Disziplinarsachen der Richter und der Notare vorzulegen\.
->
->> `(4)` Alljährlich haben die Staatsanwaltschaften den Oberstaatsanwaltschaften und diese sowie die Generalprokuratur dem Bundesministerium für Justiz ihre Wahrnehmungen über Zustand und Gang der Rechtspflege sowie über Mängel der Gesetzgebung oder des Geschäftsganges zu berichten und gegebenenfalls geeignete Änderungsvorschläge zu unterbreiten\.
->
->> `(5)` Die Staatsanwaltschaften und die Oberstaatsanwaltschaften haben unbeschadet der Verpflichtung nach Abs\. 2 an Statistiken und automationsunterstützten Informationssystemen im Justizbereich durch Beistellung von Daten und Unterlagen mitzuwirken\. Auch die Generalprokuratur hat gegebenenfalls einen Beitrag zu Statistiken und Informationssystemen zu leisten\.
+
+> `(2)` Alljährlich haben die Staatsanwaltschaften der Oberstaatsanwaltschaft über die auf Grund öffentlicher Anklage geführten Strafverfahren einen Geschäftsausweis vorzulegen und die Entwicklung des Geschäftsanfalles zu erläutern\. Die Oberstaatsanwaltschaften haben diese Geschäftsausweise zu prüfen, sie gegebenenfalls richtigstellen zu lassen oder sonst erforderliche Verfügungen zu treffen\. Sie haben eine Gesamtübersicht zusammenzustellen, der die Ausweiszahlen der ihnen unterstellten Staatsanwaltschaften zu entnehmen sind\.
+
+> `(3)` Die Oberstaatsanwaltschaften haben dem Bundesministerium für Justiz Übersichten über die Disziplinarsachen der Richter und der Notare vorzulegen\.
+
+> `(4)` Alljährlich haben die Staatsanwaltschaften den Oberstaatsanwaltschaften und diese sowie die Generalprokuratur dem Bundesministerium für Justiz ihre Wahrnehmungen über Zustand und Gang der Rechtspflege sowie über Mängel der Gesetzgebung oder des Geschäftsganges zu berichten und gegebenenfalls geeignete Änderungsvorschläge zu unterbreiten\.
+
+> `(5)` Die Staatsanwaltschaften und die Oberstaatsanwaltschaften haben unbeschadet der Verpflichtung nach Abs\. 2 an Statistiken und automationsunterstützten Informationssystemen im Justizbereich durch Beistellung von Daten und Unterlagen mitzuwirken\. Auch die Generalprokuratur hat gegebenenfalls einen Beitrag zu Statistiken und Informationssystemen zu leisten\.
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StAG.md#-10-stag--monats--und-jahresberichte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000842&Paragraf=10) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000842#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StAG.001.md#-10-stag--monats--und-jahresberichte) \]
 

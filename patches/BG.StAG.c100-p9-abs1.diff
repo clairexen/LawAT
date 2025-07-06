@@ -1,0 +1,15 @@
+--- BG.StAG.markup.json
++++ BG.StAG.markup.json
+@@ -417,10 +417,8 @@ ["Part § 9",
+ ["Part § 10",
+     ["Title",
+         "Monats- und Jahresberichte"],
+-    ["Text",
+-        "",
+-        ["Rem","(Anm.: Abs. 1 aufgehoben durch BGBl. I Nr. 112/2007)"]],
+-    ["List",
++    ["List Abs",
++        ["Rem","(Anm.: Abs. 1 aufgehoben durch BGBl. I Nr. 112/2007)"],
+         ["Item (2)",
+             ["Text",
+                 "Alljährlich haben die Staatsanwaltschaften der Oberstaatsanwaltschaft über die ",
