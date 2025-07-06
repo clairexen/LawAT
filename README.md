@@ -22,7 +22,7 @@ Bitte konkrete Wünsche, welche Normen noch hinzugefügt werden sollen, einfach 
 
 ..TBD..
 
-### "LawAT Browser" Client-Side WebApp (incl. advanced search via RisEn and Micropython)
+### Die "LawAT Browser" Client-Side WebApp (incl. advanced search via RisEn and Micropython)
 
 In Alpha Testing Now: https://clairexen.github.io/LawAT/
 
