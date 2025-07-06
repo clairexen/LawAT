@@ -111,9 +111,18 @@ const lawdoc = (() => {
 				if (el.children.length)
 					el.appendChild(document.createTextNode("\n"));
 				c = render(item, refSuffix);
-				if (c.firstElementChild.tagName == 'DT')
-					el.appendChild(c.firstElementChild);
-				el.appendChild(c);
+				if (item[0] == 'Rem') {
+					let dt = genElement('DT');
+					dt.innerHTML = "&nbsp;";
+					el.appendChild(dt);
+					let dd = genElement('DD');
+					dd.appendChild(c);
+					el.appendChild(dd);
+				} else {
+					if (c.firstElementChild.tagName == 'DT')
+						el.appendChild(c.firstElementChild);
+					el.appendChild(c);
+				}
 			});
 			return el;
 		}
