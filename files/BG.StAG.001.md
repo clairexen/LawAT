@@ -6,7 +6,7 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000842  
 **Letzte Änderung im RIS:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.StAG.001.md  
-**LawAT Änderungen im Markup:** [BG.StAG.c100-p9-abs1](../patches/BG.StAG.c100-p9-abs1.diff)  
+**LawAT Änderungen im Markup:** [BG.StAG.c100-p10-abs1](../patches/BG.StAG.c100-p10-abs1.diff)  
 *Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *Das ist die "AI-Friendly" multi-part Variante dieser Rechtsvorschrift mit kompakter Formatierung. Siehe [BG.StAG.md](BG.StAG.md) für die "Human-Friendly" single-page Variante dieser Norm mit hübscherer Formatierung.*
