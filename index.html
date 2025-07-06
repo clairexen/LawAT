@@ -11,75 +11,79 @@
 </head>
 <body>
   <div id="main"></div>
+  <div id="loading">Loading Dataset...<br/>Please wait a moment.</div>
   <script>//<!--
-    window.addEventListener("DOMContentLoaded", () => lawdoc.onLoad(() => {
+    window.addEventListener("DOMContentLoaded", () => {
       const mainDiv = document.getElementById("main");
 
-      function selIndex() {
+      const locTarget = window.location.hash.slice(1);
+      const locNorm = locTarget.split(".")[0];
+
+      function selIndex(pushHistory) {
         tocui.setDoc("Index der Normen");
         mainDiv.innerHTML = "";
         tocui.reset();
         tocui.append("Selektiere eine Norm ☝️");
-        tocui.show();
-        history.pushState(null, '', "#");
+        if (pushHistory)
+          history.pushState(null, '', "#");
       }
 
-      function selDoc(caption, norm, strippedNorm, pushHistory) {
-        mainDiv.innerHTML = "";
-        mainDiv.appendChild(lawdoc.render(lawdoc.zip[norm + '.markup.json']['document']));
-        tocui.reset();
-        const toc = lawdoc.zip[norm + '.index.json']['toc'];
-        for (const item of toc) {
+      tocui.addDoc("Index der Normen", () => selIndex(true));
+      selIndex(false);
+
+      lawdoc.onLoad(() => {
+        const loadingDiv = document.getElementById("loading");
+        if (loadingDiv) loadingDiv.remove();
+
+        function selDoc(caption, norm, strippedNorm, pushHistory) {
+          mainDiv.innerHTML = "";
+          mainDiv.appendChild(lawdoc.render(lawdoc.zip[norm + '.markup.json']['document']));
+          tocui.reset();
+          const toc = lawdoc.zip[norm + '.index.json']['toc'];
+          for (const item of toc) {
+            if (typeof item === 'string') {
+              tocui.append(item);
+            } else {
+              const ref = item[0], label = item[3];
+              tocui.append(label, lawdoc.getIdForPartRef(ref));
+            }
+          }
+          tocui.setDoc(caption);
+          if (pushHistory)
+            history.pushState(null, '', `#${strippedNorm}`);
+        }
+
+        for (const item of lawdoc.zip['index.json']) {
           if (typeof item === 'string') {
-            tocui.append(item);
+            tocui.addDoc(item);
           } else {
-            const ref = item[0], label = item[3];
-            tocui.append(label, lawdoc.getIdForPartRef(ref));
+            const caption = item[0], norm = item[1];
+            const strippedNorm = norm.split(".")[1];
+            tocui.addDoc(caption, () => selDoc(caption, norm, strippedNorm, true));
+            if (locNorm == strippedNorm)
+              selDoc(caption, norm, strippedNorm, false);
           }
         }
-        tocui.setDoc(caption);
-        tocui.show();
-	if (pushHistory)
-		history.pushState(null, '', `#${strippedNorm}`);
-      }
 
-      const locTarget = window.location.hash.slice(1);
-      const locNorm = locTarget.split(".")[0];
-      let selInitial = () => selIndex();
-
-      tocui.addDoc("Index der Normen", () => selIndex());
-      for (const item of lawdoc.zip['index.json']) {
-        if (typeof item === 'string') {
-          tocui.addDoc(item);
-        } else {
-          const caption = item[0], norm = item[1];
-	  const strippedNorm = norm.split(".")[1];
-	  if (locNorm == strippedNorm)
-            selInitial = () => selDoc(caption, norm, strippedNorm, false);
-          tocui.addDoc(caption, () => selDoc(caption, norm, strippedNorm, true));
+        const target = document.getElementById(locTarget);
+        if (target) {
+          const doScroll = () => target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          // Run now if page is already visible
+          if (document.visibilityState === "visible") {
+            doScroll();
+          } else {
+            // Otherwise wait until it's visible
+            const onVisible = () => {
+              if (document.visibilityState === "visible") {
+                document.removeEventListener("visibilitychange", onVisible);
+                doScroll();
+              }
+            };
+            document.addEventListener("visibilitychange", onVisible);
+          }
         }
-      }
-
-      selInitial();
-
-      const target = document.getElementById(locTarget);
-      if (target) {
-        const doScroll = () => target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-        // Run now if page is already visible
-        if (document.visibilityState === "visible") {
-          doScroll();
-        } else {
-          // Otherwise wait until it's visible
-          const onVisible = () => {
-            if (document.visibilityState === "visible") {
-              document.removeEventListener("visibilitychange", onVisible);
-              doScroll();
-            }
-          };
-          document.addEventListener("visibilitychange", onVisible);
-        }
-      }
-    }));
+      });
+    });
   //--></script>
 </body>
 </html>
