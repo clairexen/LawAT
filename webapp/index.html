@@ -15,9 +15,7 @@
   <script>//<!--
     window.addEventListener("DOMContentLoaded", () => {
       const mainDiv = document.getElementById("main");
-
       const locTarget = window.location.hash.slice(1);
-      const locNorm = locTarget.split(".")[0];
 
       function selIndex(pushHistory) {
         tocui.setDoc("Index der Normen");
@@ -35,7 +33,19 @@
         const loadingDiv = document.getElementById("loading");
         if (loadingDiv) loadingDiv.remove();
 
-        function selDoc(caption, norm, strippedNorm, pushHistory) {
+        let noPushHistory = true;
+        let currentNorm = null;
+        let selNorm = {};
+
+	function withNoPushHistory(action) {
+          const old_noPushHistory = noPushHistory;
+          noPushHistory = true;
+          action();
+          noPushHistory = old_noPushHistory;
+	}
+
+        function selDoc(caption, norm, strippedNorm) {
+	  if (currentNorm == strippedNorm) return;
           mainDiv.innerHTML = "";
           mainDiv.appendChild(lawdoc.render(lawdoc.zip[norm + '.markup.json']['document']));
           tocui.reset();
@@ -44,13 +54,41 @@
             if (typeof item === 'string') {
               tocui.append(item);
             } else {
-              const ref = item[0], label = item[3];
-              tocui.append(label, lawdoc.getIdForPartRef(ref));
+              const ref = item[0], label = item[3], refId = lawdoc.getIdForPartRef(ref);
+              tocui.append(label, refId, () => scrollTo(refId));
             }
           }
           tocui.setDoc(caption);
-          if (pushHistory)
+          if (!noPushHistory)
             history.pushState(null, '', `#${strippedNorm}`);
+          currentNorm = strippedNorm;
+        }
+
+        function scrollTo(targetId) {
+          const targetNorm = targetId.split(".")[0];
+          if (targetNorm != currentNorm && selNorm[targetNorm]) {
+	    withNoPushHistory(() => selNorm[targetNorm]());
+          }
+          if (!noPushHistory)
+            history.pushState(null, '', `#${targetId}`);
+          const target = document.getElementById(targetId);
+
+          if (target) {
+            // scroll now to the target position, if we are visible. Otherwise wait until we are,
+            // because if we don't we end up scrolling to the wrong position, in at least some browsers.
+            const doScroll = () => target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            if (document.visibilityState === "visible") {
+	      window.setTimeout(() => doScroll(), 50);
+            } else {
+              const onVisible = () => {
+                if (document.visibilityState === "visible") {
+                  document.removeEventListener("visibilitychange", onVisible);
+                  doScroll();
+		}
+              };
+              document.addEventListener("visibilitychange", onVisible);
+            }
+          }
         }
 
         for (const item of lawdoc.zip['index.json']) {
@@ -59,29 +97,18 @@
           } else {
             const caption = item[0], norm = item[1];
             const strippedNorm = norm.split(".")[1];
-            tocui.addDoc(caption, () => selDoc(caption, norm, strippedNorm, true));
-            if (locNorm == strippedNorm)
-              selDoc(caption, norm, strippedNorm, false);
+            selNorm[strippedNorm] = () => selDoc(caption, norm, strippedNorm);
+            tocui.addDoc(caption, selNorm[strippedNorm]);
           }
         }
 
-        const target = document.getElementById(locTarget);
-        if (target) {
-          const doScroll = () => target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-          // Run now if page is already visible
-          if (document.visibilityState === "visible") {
-            doScroll();
-          } else {
-            // Otherwise wait until it's visible
-            const onVisible = () => {
-              if (document.visibilityState === "visible") {
-                document.removeEventListener("visibilitychange", onVisible);
-                doScroll();
-              }
-            };
-            document.addEventListener("visibilitychange", onVisible);
-          }
-        }
+        scrollTo(locTarget);
+        noPushHistory = false;
+
+        window.addEventListener("popstate", (event) => {
+	  targetId = window.location.hash.slice(1);
+	  withNoPushHistory(() => scrollTo(targetId));
+        });
       });
     });
   //--></script>

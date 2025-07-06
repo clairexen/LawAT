@@ -9,16 +9,45 @@
   <body>
     <script>
       window.addEventListener('DOMContentLoaded', () => {
+        /* Utility: smooth-scroll + history push – reused for every TOC entry */
+        function makeScrollCallback(targetId) {
+          return e => {
+            if (
+              e.defaultPrevented ||
+              e.button !== 0 ||
+              e.ctrlKey ||
+              e.metaKey ||
+              e.shiftKey ||
+              e.altKey
+            ) {
+              return; // allow modified clicks / context menu etc.
+            }
+            const target = document.getElementById(targetId);
+            if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            history.pushState(null, '', `#${targetId}`);
+            e.preventDefault();
+          };
+        }
+
         /* Register documents --------------------------------------------*/
         tocui.addDoc('ABGB', () => {
-          fetch('LawAT_DataSet.json')
+          fetch('RisExData.json')
             .then(r => r.json())
             .then(data => {
               tocui.reset();
               const toc = data['BG.ABGB.index.json'].toc;
               for (const item of toc) {
-                const label = typeof item === 'string' ? item : item[3];
-                tocui.append(label);
+                if (typeof item === 'string') {
+                  tocui.append(item); // header
+                } else {
+                  const label = item[3]; // display text
+                  const id = item[0] || null; // assume element id in first slot
+                  if (id) {
+                    tocui.append(label, id, makeScrollCallback(id));
+                  } else {
+                    tocui.append(label); // fallback header if id missing
+                  }
+                }
               }
               tocui.setDoc('ABGB');
             });
