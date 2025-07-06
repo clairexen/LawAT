@@ -20,6 +20,14 @@ body {
   padding: 1em;
 }
 
+.LawSrc {
+  background-color: #f2f2f2; /* light gray */
+  padding: 1em;
+  margin-bottom: 1em;
+  border: 2px solid #333;
+  box-shadow: 0 0.2em 0.5em rgba(0, 0, 0, 0.1);
+}
+
 .LawPart {
   background-color: #f2f2f2; /* light gray */
   border-radius: 1em;

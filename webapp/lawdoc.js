@@ -32,7 +32,7 @@ const lawdoc = (() => {
 					tag = head[0], info = head.slice(1);
 
 			if (tag == "Meta") {
-				metaData[markup[0]] = markup.slice(1);
+				metaData[markup[0].replace(/^Meta /, '')] = markup.slice(1);
 				if (markup[0] == "Meta PartAnchors")
 					markup = [markup[0] + " ..."];
 				return document.createComment('LawDoc'+markup.join('\n')+' ');
@@ -47,7 +47,8 @@ const lawdoc = (() => {
 				let el = document.createElement(htmlTag);
 				if (lawDocTag == "LawDoc" || lawDocTag == "PartName")
 					el.classList.add(lawDocTag);
-				else if (lawDocTag == "Part" || lawDocTag == "Text" || lawDocTag == "Err")
+				else if (lawDocTag == "Part" || lawDocTag == "Text" ||
+						lawDocTag == "Err" || lawDocTag == "Src")
 					el.classList.add("Law" + lawDocTag);
 				// el.classList.add("_" + lawDocTag);
 				return el;
@@ -73,19 +74,45 @@ const lawdoc = (() => {
 			// -----------------------------------------------------------------------
 			// structure handling
 
-			if (tag == "LawDoc" || tag == "Part" || tag == "Item") {
+			if (tag == "LawDoc") {
+				let el = genElement('DIV');
+
+				tail.forEach(item => {
+					if (/^Meta /.test(item[0]))
+						el.appendChild(worker(item));
+				});
+
+				refSuffix = " " + infoStr.replace(/^[A-Z]+\./, '')
+				let h1 = genElement('H1', tag + 'Title');
+				h1.appendChild(document.createTextNode(metaData["Langtitel"][0] +
+						"; i.d.F.v. " + metaData["FassungVom"][0]));
+				el.appendChild(h1);
+
+				let risLink = metaData["RisSrcLink"];
+				let mdLink = `https://github.com/clairexen/LawAT/blob/main/files/${infoStr}.md`;
+				let muLink = `https://github.com/clairexen/LawAT/blob/main/files/${infoStr}.markup.json`;
+
+				let srcDiv = genElement('DIV', 'Src');
+				srcDiv.innerHTML += `<b>LawAT GitHub Markdown:</b> <a href="${mdLink}" target="_blank">${mdLink}</a><br/>`;
+				srcDiv.innerHTML += `<b>LawAT "LawDoc" Markup:</b> <a href="${muLink}" target="_blank">${muLink}</a><br/>`;
+				srcDiv.innerHTML += `<b>RIS Quell-Dokument:</b> <a href="${risLink}" target="_blank">${risLink}</a>`;
+				el.appendChild(srcDiv);
+
+				tail.forEach(item => {
+					if (/^Meta /.test(item[0]))
+						return;
+					el.appendChild(worker(item));
+				});
+
+				return el;
+			}
+
+			if (tag == "Part" || tag == "Item") {
 				let el = genElement(tag == "Item" ? 'DD' : 'DIV'), sp;
 				if (tag == "Item") {
 					dt = genElement('DT', tag + 'Name');
 					dt.innerText = infoStr;
 					el.appendChild(dt);
-				} else
-				if (tag == "LawDoc") {
-					refSuffix = " " + infoStr.replace(/^[A-Z]+\./, '')
-					let h1 = genElement('H1', tag + 'Title');
-					h1.appendChild(document.createTextNode(markup[1][1]));
-					el.appendChild(h1);
-					sp = null;
 				} else {
 					sp = genElement('SPAN', tag + 'Name');
 					if (tag == "Part")
