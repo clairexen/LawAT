@@ -48,10 +48,10 @@
 * [BMIMI: Frequenznutzungsverordnung 2013 (FNV)](BV.FNV.md)
 * [BMIMI: Straßenverkehrszeichenverordnung (StVZVO)](BV.StVZVO.md)
 * [BMJ: DV zum Staatsanwaltschaftsgesetz (DV-StAG)](BV.DV-StAG.md)
+* [BMSGPK: Neue-Psychoaktive-Substanzen-Verordnung (NPSV)](BV.NPSV.md)
 * [BMSGPK: Rezeptpflichtverordnung (RPV)](BV.RPV.md)
 * [BMSGPK: Suchtgift-Grenzmengenverordnung (SGV)](BV.SGV.md)
 * [BMSGPK: Suchtgiftverordnung (SV)](BV.SV.md)
-* [Neue-Psychoaktive-Substanzen-Verordnung (NPSV)](BV.NPSV.md)
 
 ## Wiener Landesgesetze
 * [Wiener Auskunftspflichtgesetz (WrAuskPG)](WLG.WrAuskPG.md)
