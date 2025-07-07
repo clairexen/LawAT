@@ -317,6 +317,13 @@
 		"caption": "GmbH-Gesetz (GmbHG)",
 		"docurl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720"
 	},
+	"BG.ASVG": {
+		"type": "BG",
+		"title": "ASVG",
+		"stop": "Anl. 14",
+		"caption": "Allgemeines Sozialversicherungsgesetz (ASVG)",
+		"docurl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147"
+	},
 	"BG.TSchG": {
 		"type": "BG",
 		"title": "TSchG",

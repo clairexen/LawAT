@@ -558,7 +558,7 @@ class LawDocMarkdownEngine:
         tag = head.split()
 
         self.largeBreak()
-        self.push(f'<table id="{tag[1]}"><tbody>')
+        self.push(f'<table><tbody>')
         for tline in tail:
             assert tline[0] == "TabLine"
             self.push(f'<tr>')
