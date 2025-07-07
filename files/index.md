@@ -15,6 +15,7 @@
 * [Gerichtsorganisationsgesetz (GOG)](BG.GOG.md)
 * [Jurisdiktionsnorm (JN)](BG.JN.md)
 * [Konsumentenschutzgesetz (KSchG)](BG.KSchG.md)
+* [Mediengesetz (MedienG)](BG.MedienG.md)
 * [Neue-Psychoaktive-Substanzen-Gesetz (NPSG)](BG.NPSG.md)
 * [Rezeptpflichtgesetz (RezeptPG)](BG.RezeptPG.md)
 * [Schulunterrichtsgesetz (SchUG)](BG.SchUG.md)

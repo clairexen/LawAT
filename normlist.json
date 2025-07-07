@@ -269,5 +269,11 @@
 		"title": "VVG",
 		"caption": "Verwaltungsvollstreckungsgesetz (VVG)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005772"
+	},
+	"BG.MedienG": {
+		"type": "BG",
+		"title": "MedienG",
+		"caption": "Mediengesetz (MedienG)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000719"
 	}
 }
