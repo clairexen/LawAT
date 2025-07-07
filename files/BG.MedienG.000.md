@@ -107,22 +107,4 @@
 * [§ 57 MedienG # Umsetzung von Richtlinien der Europäischen Union](BG.MedienG.006.md#-57-medieng--umsetzung-von-richtlinien-der-europäischen-union)  
 * [§ 58 MedienG # Vollziehung](BG.MedienG.006.md#-58-medieng--vollziehung)
 
-**Artikel XII**  
-* [Art. 12 MedienG # Übergangsbestimmung # (Anm.: aus BGBl. I Nr. 130/2001, zu den §§ 6, 7 - 7c, 18 und 20, BGBl. Nr. 314/1981)](BG.MedienG.006.md#art-12-medieng--übergangsbestimmung--anm-aus-bgbl-i-nr-1302001-zu-den--6-7---7c-18-und-20-bgbl-nr-3141981)
-
-**Artikel III**  
-* [Art. 3 MedienG # Inkrafttreten und Übergangsbestimmungen # (Anm.: aus BGBl. Nr. 20/1993, zu den §§ 6-9, 11, 13-20, 22, 27, 33-35, 37, 39, 41, 44, 45, 46 und 49, BGBl. Nr. 314/1981)](BG.MedienG.006.md#art-3-medieng--inkrafttreten-und-übergangsbestimmungen--anm-aus-bgbl-nr-201993-zu-den--6-9-11-13-20-22-27-33-35-37-39-41-44-45-46-und-49-bgbl-nr-3141981)
-
-**Artikel VII**  
-* [Art. 7 MedienG # (Anm.: aus BGBl. I Nr. 105/1997, zu den §§ 8, 8a und 31, BGBl. Nr. 314/1981)](BG.MedienG.006.md#art-7-medieng--anm-aus-bgbl-i-nr-1051997-zu-den--8-8a-und-31-bgbl-nr-3141981)  
-* [Art. 8 § 2 MedienG # Übergangsbestimmungen # (Anm.: aus BGBl. Nr. 233/1988, zu § 41 Abs. 2, BGBl. Nr. 314/1981)](BG.MedienG.006.md#art-8--2-medieng--übergangsbestimmungen--anm-aus-bgbl-nr-2331988-zu--41-abs-2-bgbl-nr-3141981)  
-* [Art. 8 § 3 MedienG # Verwaltungsmaßnahmen # (Anm.: aus BGBl. Nr. 233/1988, zu § 41 Abs. 2, BGBl. Nr. 314/1981)](BG.MedienG.006.md#art-8--3-medieng--verwaltungsmaßnahmen--anm-aus-bgbl-nr-2331988-zu--41-abs-2-bgbl-nr-3141981)  
-* [Art. 11 § 2 MedienG # Anhängige Verfahren # (Anm.: aus BGBl. Nr. 31/1993, zu § 41, BGBl. Nr. 314/1981)](BG.MedienG.006.md#art-11--2-medieng--anhängige-verfahren--anm-aus-bgbl-nr-311993-zu--41-bgbl-nr-3141981)
-
-**Artikel XII**  
-* [Art. 12 MedienG # Übergangsbestimmung # (Anm.: aus BGBl. I Nr. 130/2001, zu den §§ 6, 7 - 7c, 18 und 20, BGBl. Nr. 314/1981)](BG.MedienG.006.md#art-12-medieng--übergangsbestimmung--anm-aus-bgbl-i-nr-1302001-zu-den--6-7---7c-18-und-20-bgbl-nr-3141981)
-
-**Artikel XXIV**  
-* [Art. 24 MedienG # Übergangsbestimmung # (Anm.: aus BGBl. I Nr. 112/2007, zu den §§ 7c, 8, 8a, 10, 14, 15, 18, 20, 23, 29, 31, 34, 36, 36a, 38a, 40, 41, und 42, BGBl. Nr. 314/1981)](BG.MedienG.006.md#art-24-medieng--übergangsbestimmung--anm-aus-bgbl-i-nr-1122007-zu-den--7c-8-8a-10-14-15-18-20-23-29-31-34-36-36a-38a-40-41-und-42-bgbl-nr-3141981)
-
 `END-OF-DATA-FILE` *(fortges. in [BG.MedienG.001](BG.MedienG.001.md))*

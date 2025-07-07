@@ -273,6 +273,7 @@
 	"BG.MedienG": {
 		"type": "BG",
 		"title": "MedienG",
+		"stop": "§ 58",
 		"caption": "Mediengesetz (MedienG)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000719"
 	}
