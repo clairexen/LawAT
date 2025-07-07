@@ -5,8 +5,8 @@
 #
 source .venv/bin/activate
 eval "$(declare -f deactivate | sed 's/^deactivate/_rex_venv_deactivate/')"
-rex() { ( cd "${VIRTUAL_ENV}/.." && .venv/bin/python3 -m RisExUtils "$@"; ); }
-risen() { ( cd "${VIRTUAL_ENV}/.." && .venv/bin/python3 RisEnQuery.py "${@:-shell}"; ); }
+rex() { ( cd "${VIRTUAL_ENV}/.." && .venv/bin/python3 code/RisExUtils.py "$@"; ); }
+risen() { ( cd "${VIRTUAL_ENV}/.." && .venv/bin/python3 code/RisEnQuery.py "${@:-shell}"; ); }
 deactivate() {
 	unset -f rex
 	unset -f risen

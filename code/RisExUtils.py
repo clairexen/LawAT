@@ -1222,7 +1222,7 @@ def cli_mkwebapp():
                      glob.glob(f"{flags.filesdir}/*.index.json") +
                      glob.glob(f"{flags.filesdir}/*.markup.json")):
         data[fn.removeprefix(f"{flags.filesdir}/")] = json.load(open(fn))
-    with open("webapp/lawdoc.json", "w") as f:
+    with open("lawdoc.json", "w") as f:
         json.dump(data, f)
 
 def cli_shell():

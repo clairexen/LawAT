@@ -29,13 +29,13 @@ LawAT_DataSet.zip: normlist.json files/*
 
 json: LawAT_DataSet.json
 LawAT_DataSet.json: venv normlist.json files/*
-	.venv/bin/python3 RisExUtils.py mkjson
-	.venv/bin/python3 RisExUtils.py mkwebapp
+	.venv/bin/python3 code/RisExUtils.py mkjson
+	.venv/bin/python3 code/RisExUtils.py mkwebapp
 
 update:
 	rm -rf files __rismarkup__ __webcache__
-	.venv/bin/python3 RisExUtils.py fetch
-	.venv/bin/python3 RisExUtils.py render --down --index
+	.venv/bin/python3 code/RisExUtils.py fetch
+	.venv/bin/python3 code/RisExUtils.py render --down --index
 	$(MAKE) zip json
 
 check-markup: JSON_SCHEMA ?= docs/lawdoc.json
@@ -45,29 +45,28 @@ check-markup:
 	grep -h '^ *\[' files/*.markup.json | sed -re 's/^ *//; s/\]*[\}?,].*//; /\["(Part|Item|Meta|Table|TabCell) / s/ .*/ ..."/' | sort | uniq -c
 
 mitmp:
-	mitmdump -s mitmp.py
+	mitmdump -s code/mitmp.py
 
 webapp:
-	.venv/bin/python3 RisExUtils.py mkwebapp
-	ln -sft webapp ../RisEnQuery.py ../LawAT_DataSet.json
+	.venv/bin/python3 code/RisExUtils.py mkwebapp
 	( sleep 1; xdg-open http://0.0.0.0:8000/; ) &
-	cd webapp && ../.venv/bin/python3 -m http.server
+	.venv/bin/python3 code/httpsrv.py
 
 deploy:
-	.venv/bin/python3 RisExUtils.py mkwebapp
+	.venv/bin/python3 code/RisExUtils.py mkwebapp
 	[ -d __ghpages__ ] || git clone -b gh-pages git@github.com:clairexen/LawAT.git __ghpages__
 	-cd __ghpages__ && git rm -rf .
-	cp -vt __ghpages__/ LawAT_DataSet.json LawAT_DataSet.zip webapp/lawdoc.json
-	cp -vt __ghpages__/ RisEnQuery.py webapp/risen.js
-	cp -vt __ghpages__/ webapp/index.html webapp/style.css
-	cp -vt __ghpages__/ webapp/lawdoc.js webapp/lawdoc.css
-	cp -vt __ghpages__/ webapp/tocui.js webapp/tocui.css
-	cp -vt __ghpages__/ webapp/logo.png webapp/favicon.ico
+	cp -vt __ghpages__/ LawAT_DataSet.json LawAT_DataSet.zip lawdoc.json
+	cp -vt __ghpages__/ RisEnQuery.py code/risen.js
+	cp -vt __ghpages__/ code/index.html code/style.css
+	cp -vt __ghpages__/ code/lawdoc.js code/lawdoc.css
+	cp -vt __ghpages__/ code/tocui.js code/tocui.css
+	cp -vt __ghpages__/ code/logo.png code/favicon.ico
 	cd __ghpages__ && git add . && git commit -m deploy && git push
 
 purge:
 	rm -rf .venv __pycache__/ __ghpages__/ __rismarkup__/ __webcache__/
-	rm -rf webapp/lawdoc.json webapp/RisEnQuery.py webapp/LawAT_DataSet.json
+	rm -rf code/lawdoc.json code/RisEnQuery.py code/LawAT_DataSet.json
 	rm -rf LawAT_DataSet.json LawAT_DataSet.zip
 
 .PHONY: help venv zip json update check-markup mitmp webapp deploy purge

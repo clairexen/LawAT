@@ -36,7 +36,7 @@ Die JSON und ZIP LawAT Datensatz-Files zum download beinhalten lediglich die sel
 
 Die RisEx und RisEn Projekte sind unabhänig vom RIS und in keiner Weise affiliiert mit dem RIS. Die Verwendung von "RIS" in den Projektbezeichnungen soll lediglich darauf hinweisen, dass die Texte der Normen (sowie die Abbildungen und Kommentare) aus dem RIS stammen.
 
-Die RisEx und RisEn Software sowie die restliche LawAT Software selbst, d.h. die Files und Scripts in diesem Verzeichnis, und nicht in den `files/` und `patches/` Ordnern, sind Freie Software unter der ISC Lizenz:
+Die RisEx und RisEn Software sowie die restliche LawAT Software selbst, d.h. die Files und Scripts in `code/`, und nicht in den `files/` und `patches/` Ordnern, sind Freie Software unter der ISC Lizenz:
 
 ```
 ISC License
