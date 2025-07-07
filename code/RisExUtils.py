@@ -942,7 +942,7 @@ def cli_fetch(*args):
 
         print(f"Loading {normkey} from {normdata['docurl']}")
         page.goto(normdata["docurl"])
-        page.add_script_tag(path="RisExtractor.js")
+        page.add_script_tag(path="code/RisExtractor.js")
 
         if 'promulgationsklausel' in normdata:
             t = normdata['promulgationsklausel'].\

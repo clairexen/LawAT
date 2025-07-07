@@ -342,5 +342,11 @@
 		"stop": "§ 41",
 		"caption": "Zustellgesetz (ZustG)",
 		"docurl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522"
+	},
+	"BG.IFG": {
+		"type": "BG",
+		"title": "IFG",
+		"caption": "Informationsfreiheitsgesetz (IFG)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2025-09-01"
 	}
 }

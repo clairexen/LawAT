@@ -7,6 +7,7 @@
 
 ## Bundesgesetze
 * [Aktiengesetz (AktG)](BG.AktG.md)
+* [Allgemeines Sozialversicherungsgesetz (ASVG)](BG.ASVG.md)
 * [Allgemeines Verwaltungsverfahrensgesetz (AVG)](BG.AVG.md)
 * [Allgemeines bürgerliches Gesetzbuch (ABGB)](BG.ABGB.md)
 * [Auskunftspflichtgesetz (AuskPG)](BG.AuskPG.md)
@@ -17,6 +18,7 @@
 * [Gerichtsorganisationsgesetz (GOG)](BG.GOG.md)
 * [Gewerbeordnung (GewO)](BG.GewO.md)
 * [GmbH-Gesetz (GmbHG)](BG.GmbHG.md)
+* [Informationsfreiheitsgesetz (IFG)](BG.IFG.md)
 * [Jurisdiktionsnorm (JN)](BG.JN.md)
 * [Konsumentenschutzgesetz (KSchG)](BG.KSchG.md)
 * [Mediengesetz (MedienG)](BG.MedienG.md)

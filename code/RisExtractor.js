@@ -570,7 +570,7 @@ function getMetaFassungVom() {
 }
 
 function getMetaLastChange() {
-	let lastChange;
+	let lastChange = "";
 	document.querySelectorAll("div#content > div.document > div.documentContent:first-child h3").
 			forEach(el => { if (el.textContent == "Änderung") lastChange = el.nextElementSibling.
 			firstElementChild.lastElementChild.textContent; })
