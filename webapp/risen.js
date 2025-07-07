@@ -41,11 +41,56 @@
     return pyLoading;
   }
 
+  function injectHtml() {
+    let el = document.createElement("DIV");
+    document.body.appendChild(el);
+    el.innerHTML = `
+  <!-- ────────────────────────────────────────────────────────────── -->
+  <!--  Pre‑built shell window (hidden at load, revealed by risen.js) -->
+  <!-- ────────────────────────────────────────────────────────────── -->
+  <div id="risen-shell-wrapper" style="display:none;">
+    <div class="risen-header">MicroPython Shell</div>
+    <div class="risen-body">
+      <div id="risen-terminal-container">
+        <script id="python-terminal" type="mpy" terminal config='{"packages":[],"files":{"RisEnQuery.py":"/RisEnQuery.py","LawAT_DataSet.json":"/LawAT_DataSet.json"}}'>
+# -*- coding: utf-8 -*-
+print("Loading support files …")
+try:
+    exec(open("RisEnQuery.py").read().replace("#/#", "", 2))
+    print("RisEnQuery.py loaded ✔︎")
+except OSError as e:
+    print("⚠️  RisEnQuery.py not found:", e)
+
+print('# Usage Example: Liste der StGB §§ mit \\'verfälscht\\' und "Urkund" im Text')
+print('with sel("BG.StGB"): utoc(find("+verfälscht") & find("+Urkund"))')
+print('Run tx(intro()) for a longer introduction.\\n')
+
+import sys
+try:
+    import code
+    code.interact()
+except ImportError:
+    while True:
+        try:
+            line = input('>>> ')
+            exec(line, globals())
+        except (SystemExit, KeyboardInterrupt):
+            raise
+        except Exception as exc:
+            sys.print_exception(exc)
+        </script>
+      </div>
+    </div>
+  </div>
+  <!-- ────────────────────────────────────────────────────────────── -->
+`;
+  }
+
   // --- styling & dragging ---
   function injectShellStyles() {
     if (document.getElementById('risen-style')) return;
     const css = `
-#risen-shell-wrapper{position:fixed;top:10vh;left:10vw;width:600px;height:400px;border:1px solid #555;background:#111;color:#eee;display:none;resize:both;overflow:hidden;z-index:9999;box-shadow:0 0 10px rgba(0,0,0,.6);border-radius:.5rem}
+#risen-shell-wrapper{position:fixed;top:50px;right:50px;width:800px;height:550px;border:1px solid #555;background:#111;color:#eee;display:none;resize:both;overflow:hidden;z-index:9999;box-shadow:0 0 10px rgba(0,0,0,.6);border-radius:.5rem}
 #risen-shell-wrapper .risen-header{background:#222;user-select:none;cursor:move;padding:.25rem .5rem;font-family:sans-serif;font-size:.9rem}
 #risen-shell-wrapper .risen-body{width:100%;height:calc(100% - 1.5rem);overflow:auto}
 `;
@@ -65,6 +110,7 @@
   // --- init once ---
   function initShell() {
     if (initialized) return;
+    injectHtml();
     injectShellStyles();
     const wrapper = document.getElementById('risen-shell-wrapper');
     makeDraggable(wrapper, wrapper.querySelector('.risen-header'));
