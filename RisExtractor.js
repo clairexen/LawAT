@@ -233,13 +233,13 @@ class RisExAST {
 				     "UeberschrG2","UeberschrG1-AfterG2" ]
 			},
 			"Title": {
-				"": ["UeberschrPara"]
+				"": ["UeberschrPara", "InhaltUeberschrift"]
 			},
 			"Text": {
 				"Aufz": ["AufzaehlungE0", "AufzaehlungE1", "AufzaehlungE2",
 				         "AufzaehlungE3", "AufzaehlungE4"],
 				"End": ["SchlussteilE0", "SchlussteilE1", "SchlussteilE2",
-					"SchlussteilE0_5", "SatznachNovao"],
+					"SchlussteilE3", "SchlussteilE0_5", "SatznachNovao"],
 				"Erl": ["ErlText"],
 				"Prom": ["PromKlEinlSatz"],
 				"": ["Abs", "Abs_small_indent"]
@@ -297,6 +297,9 @@ class RisExAST {
 
 		let ast = new RisExAST(this, el);
 
+		if (el.tagName == "P" && inCls(el, "InhaltUeberschrift")) {
+			return ast.parseTitle();
+		}
 		if (el.tagName == "H4" || inCls(el, "UeberschrG2")) {
 			if (inCls(el, "UeberschrPara"))
 				return ast.parseTitle();
@@ -310,7 +313,7 @@ class RisExAST {
 					"AufzaehlungE0", "AufzaehlungE1", "AufzaehlungE2",
 					"AufzaehlungE3", "AufzaehlungE4",
 					"SchlussteilE0", "SchlussteilE1", "SchlussteilE2",
-					"SchlussteilE0_5", "PromKlEinlSatz"))
+					"SchlussteilE3", "SchlussteilE0_5", "PromKlEinlSatz"))
 				return ast.parseText();
 			if (inCls(el, "AbbildungoderObjekt"))
 				return ast.parseMedia();

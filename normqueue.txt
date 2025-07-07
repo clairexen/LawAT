@@ -1,0 +1,8 @@
+	"BG.ASVG": {
+		"type": "BG",
+		"title": "ASVG",
+		"stop": "Anl. 14",
+		"caption": "Allgemeines Sozialversicherungsgesetz (ASVG)",
+		"docurl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147"
+	},
+

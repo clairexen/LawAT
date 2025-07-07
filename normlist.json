@@ -282,5 +282,52 @@
 		"stop": "§ 58",
 		"caption": "Mediengesetz (MedienG)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000719"
+	},
+	"BG.AktG": {
+		"type": "BG",
+		"title": "AktG",
+		"stop": "Anl. 1",
+		"caption": "Aktiengesetz (AktG)",
+		"docurl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070"
+	},
+	"BVG.EMRK": {
+		"type": "BG",
+		"title": "EMRK",
+		"stop": "Art. 59",
+		"caption": "Europäische Menschenrechtskonvention (EMRK)",
+		"docurl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308"
+	},
+	"BG.GewO": {
+		"type": "BG",
+		"title": "GewO",
+		"stop": "Anl. 9",
+		"caption": "Gewerbeordnung (GewO)",
+		"docurl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517"
+	},
+	"BG.GmbHG": {
+		"type": "BG",
+		"title": "GmbHG",
+		"stop": "§ 127",
+		"caption": "GmbH-Gesetz (GmbHG)",
+		"docurl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720"
+	},
+	"BG.TSchG": {
+		"type": "BG",
+		"title": "TSchG",
+		"caption": "Tierschutzgesetz (TSchG)",
+		"docurl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541"
+	},
+	"BG.UG": {
+		"type": "BG",
+		"title": "UG",
+		"caption": "Universitätsgesetz (UG)",
+		"docurl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128"
+	},
+	"BG.ZustG": {
+		"type": "BG",
+		"title": "ZustG",
+		"stop": "§ 41",
+		"caption": "Zustellgesetz (ZustG)",
+		"docurl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522"
 	}
 }
