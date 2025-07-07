@@ -1,0 +1,19 @@
+{
+  "toc": [
+    ["§ 1 NPSV", "BV.NPSV:29-39", "BV.NPSV.001:17-30", "§ 1 NPSV"],
+    ["§ 2 NPSV", "BV.NPSV:45-55", "BV.NPSV.001:32-47", "§ 2 NPSV"],
+    "Anlage I",
+    ["Anl. 1 NPSV", "BV.NPSV:61-75", "BV.NPSV.001:49-63", "Anl. 1 NPSV"],
+    "Anlage II",
+    ["Anl. 2 NPSV", "BV.NPSV:81-85", "BV.NPSV.001:65-70", "Anl. 2 NPSV"],
+    "Anlage III Strukturformeln – Beispiele zu Anlage II",
+    ["Anl. 3 NPSV", "BV.NPSV:91-95", "BV.NPSV.001:72-76", "Anl. 3 NPSV"]
+  ],
+  "index": {
+    "§ 1 NPSV": 0,
+    "§ 2 NPSV": 1,
+    "Anl. 1 NPSV": 3,
+    "Anl. 2 NPSV": 5,
+    "Anl. 3 NPSV": 7
+  }
+}

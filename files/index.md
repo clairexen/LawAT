@@ -2,9 +2,11 @@
 
 ## Bundesverfassungsgesetze
 * [Bundes-Verfassungsgesetz (B-VG)](BVG.B-VG.md)
+* [Europäische Menschenrechtskonvention (EMRK)](BVG.EMRK.md)
 * [Staatsgrundgesetz von 1867, über die allgemeinen Rechte der Staatsbürger (StGG)](BVG.StGG.md)
 
 ## Bundesgesetze
+* [Aktiengesetz (AktG)](BG.AktG.md)
 * [Allgemeines Verwaltungsverfahrensgesetz (AVG)](BG.AVG.md)
 * [Allgemeines bürgerliches Gesetzbuch (ABGB)](BG.ABGB.md)
 * [Auskunftspflichtgesetz (AuskPG)](BG.AuskPG.md)
@@ -13,6 +15,8 @@
 * [Datenschutzgesetz (DSG)](BG.DSG.md)
 * [Exekutionsordnung (EO)](BG.EO.md)
 * [Gerichtsorganisationsgesetz (GOG)](BG.GOG.md)
+* [Gewerbeordnung (GewO)](BG.GewO.md)
+* [GmbH-Gesetz (GmbHG)](BG.GmbHG.md)
 * [Jurisdiktionsnorm (JN)](BG.JN.md)
 * [Konsumentenschutzgesetz (KSchG)](BG.KSchG.md)
 * [Mediengesetz (MedienG)](BG.MedienG.md)
@@ -27,6 +31,8 @@
 * [Straßenverkehrsordnung (StVO)](BG.StVO.md)
 * [Suchtmittelgesetz (SMG)](BG.SMG.md)
 * [Telekommunikationsgesetz 2021 (TKG)](BG.TKG.md)
+* [Tierschutzgesetz (TSchG)](BG.TSchG.md)
+* [Universitätsgesetz (UG)](BG.UG.md)
 * [Urheberrechtsgesetz (UrhG)](BG.UrhG.md)
 * [Vereinsgesetz (VerG)](BG.VerG.md)
 * [Verwaltungsgerichtsverfahrensgesetz (VwGVG)](BG.VwGVG.md)
@@ -34,6 +40,7 @@
 * [Verwaltungsvollstreckungsgesetz (VVG)](BG.VVG.md)
 * [Wechselgesetz (WechselG)](BG.WechselG.md)
 * [Zivilprozessordnung (ZPO)](BG.ZPO.md)
+* [Zustellgesetz (ZustG)](BG.ZustG.md)
 
 ## Verordnungen der Bundesminister(ien)
 * [BMI: Richtlinien-Verordnung (RLV)](BV.RLV.md)
@@ -44,6 +51,7 @@
 * [BMSGPK: Rezeptpflichtverordnung (RPV)](BV.RPV.md)
 * [BMSGPK: Suchtgift-Grenzmengenverordnung (SGV)](BV.SGV.md)
 * [BMSGPK: Suchtgiftverordnung (SV)](BV.SV.md)
+* [Neue-Psychoaktive-Substanzen-Verordnung (NPSV)](BV.NPSV.md)
 
 ## Wiener Landesgesetze
 * [Wiener Auskunftspflichtgesetz (WrAuskPG)](WLG.WrAuskPG.md)

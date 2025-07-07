@@ -123,6 +123,12 @@
 		"caption": "Rezeptpflichtgesetz (RezeptPG)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010351"
 	},
+	"BV.RPV": {
+		"type": "BV",
+		"title": "RPV",
+		"caption": "BMSGPK: Rezeptpflichtverordnung (RPV)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010358"
+	},
 	"BG.BDG": {
 		"type": "BG",
 		"title": "BDG",
@@ -184,24 +190,6 @@
 		"caption": "Gerichtsorganisationsgesetz (GOG)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009"
 	},
-	"BV.RPV": {
-		"type": "BV",
-		"title": "RPV",
-		"caption": "BMSGPK: Rezeptpflichtverordnung (RPV)",
-		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010358"
-	},
-	"BV.SV": {
-		"type": "BV",
-		"title": "SV",
-		"caption": "BMSGPK: Suchtgiftverordnung (SV)",
-		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011053"
-	},
-	"BV.SGV": {
-		"type": "BV",
-		"title": "RPV",
-		"caption": "BMSGPK: Suchtgift-Grenzmengenverordnung (SGV)",
-		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011056"
-	},
 	"BV.DV-StAG": {
 		"type": "BV",
 		"title": "DV-StAG",
@@ -245,11 +233,29 @@
 		"caption": "Suchtmittelgesetz (SMG)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011040"
 	},
+	"BV.SV": {
+		"type": "BV",
+		"title": "SV",
+		"caption": "BMSGPK: Suchtgiftverordnung (SV)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011053"
+	},
+	"BV.SGV": {
+		"type": "BV",
+		"title": "RPV",
+		"caption": "BMSGPK: Suchtgift-Grenzmengenverordnung (SGV)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011056"
+	},
 	"BG.NPSG": {
 		"type": "BG",
 		"title": "NPSG",
 		"caption": "Neue-Psychoaktive-Substanzen-Gesetz (NPSG)",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007605"
+	},
+	"BV.NPSV": {
+		"type": "BV",
+		"title": "NPSV",
+		"caption": "Neue-Psychoaktive-Substanzen-Verordnung (NPSV)",
+		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007642"
 	},
 	"BVG.StGG": {
 		"type": "BVG",
