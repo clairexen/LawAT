@@ -237,9 +237,22 @@ Cite = namedtuple("Cite", "norm par vref pref title")
 if hasattr(Cite, "__str__"):
     Cite.__str__ = lambda self: f"<{self.title.strip('# ').replace(' # ', ' — ')}>"
 
+# various hacks for micropython compatibility
+_rex_re_Pattern = re.pattern if hasattr(re, 'Pattern') else type(re.compile("."))
+
+def str_removeprefix(s, pf):
+    if s.startswith(pf):
+        return s[len(pf):]
+    return s
+
+def str_removesuffix(s, pf):
+    if s.endswith(pf):
+        return s[:-len(pf)]
+    return s
+
 if _rex_src is None:
     import glob
-    _rex_dir = {"normlist.json"} | {fn.removeprefix("files/") for fn in glob.glob("files/*")}
+    _rex_dir = {"normlist.json"} | {str_removeprefix(fn, "files/") for fn in glob.glob("files/*")}
     _rex_rd_text = lambda fn: open(fn if fn == "normlist.json" else f"files/{fn}").read()
     _rex_rd_json = lambda fn: json.load(open(fn if fn == "normlist.json" else f"files/{fn}"))
 
@@ -286,7 +299,7 @@ def _rex_capture(fun):
 
 def _rex_rerun_intro_examples(cmds = None):
     if cmds is None:
-        cmds = [line.removeprefix(">>> ") for line in re.sub(r"^.*?\n````\n|\n````.*?$", "",
+        cmds = [str_removeprefix(line, ">>> ") for line in re.sub(r"^.*?\n````\n|\n````.*?$", "",
                 "\n".join(_rex_intro_message), 0, re.S).split("\n") if line.startswith(">>> ")]
     output_buffer = []
     local_vars = dict()
@@ -388,7 +401,7 @@ def fetch(key: str):
 
     return _rex_fetch_cache[key]
 
-def pat(s: str) -> re.Pattern:
+def pat(s: str) -> _rex_re_Pattern:
     """
         Compile the given shell pattern or regex into
         a re.Pattern object and return it.
@@ -414,7 +427,7 @@ def pat(s: str) -> re.Pattern:
         in the specified range.
     """
 
-    if type(s) is re.Pattern:
+    if type(s) is _rex_re_Pattern:
         return s
 
     def handleRangePatterns(s: str) -> str:
@@ -426,7 +439,7 @@ def pat(s: str) -> re.Pattern:
         return re.sub(r"<(\d+)\\?-(\d+)>", replacer, s)
 
     matchFullTextTag = "(?#MatchFullTextTag)" if s.startswith("+") else ""
-    s = s.removeprefix("+")
+    s = str_removeprefix(s, "+")
 
     if s.startswith("/"):
         return re.compile(matchFullTextTag + handleRangePatterns(s[1:]))

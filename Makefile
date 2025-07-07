@@ -49,7 +49,7 @@ mitmp:
 
 webapp:
 	.venv/bin/python3 RisExUtils.py mkwebapp
-	cp -vt webapp/ RisEnQuery.py LawAT_DataSet.json
+	ln -sft webapp ../RisEnQuery.py ../LawAT_DataSet.json
 	( sleep 1; xdg-open http://0.0.0.0:8000/; ) &
 	cd webapp && ../.venv/bin/python3 -m http.server
 
