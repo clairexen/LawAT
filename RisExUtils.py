@@ -2,8 +2,8 @@
 # RIS Extractor -- Copyright (C) 2025  Claire Xenia Wolf <claire@clairexen.net>
 # Shared freely under ISC license (https://en.wikipedia.org/wiki/ISC_license)
 
-import re, glob, fnmatch, requests
 import ptpython, inspect, traceback
+import re, pcre2, glob, fnmatch, requests
 import time, sys, json, os, tempfile, shutil
 import unicodedata, urllib3, types, pprint
 from types import SimpleNamespace
@@ -1145,6 +1145,8 @@ def cli_markup(*args):
     addFlag("fmt", False)
     addFlag("upd", False)
     addFlag("diff", False)
+    addFlag("check", False)
+    args = updateFlags(*args)
 
     def handleArg(arg):
         if (a := arg) != "-" and not os.access(arg, os.F_OK) and \
@@ -1152,7 +1154,32 @@ def cli_markup(*args):
 
         print(f"Processing {a} LawDoc from {arg}", file=sys.stderr)
 
+        if flags.check:
+            rc = os.system(f"set -ex; .venv/bin/check-jsonschema -v --schemafile docs/lawdoc.json '{arg}'")
+            assert rc == 0
+
         txt = (open(arg) if arg != "-" else sys.stdin).read()
+
+        if flags.check:
+            regex = pcre2.compile(open("docs/lawdoc.pcre").read())
+            if not (m := regex.match(txt)):
+                print(f"Matching docs/lawdoc.pcre against '{arg}' failed.")
+                print(f"Markup FAILED pcre regex verification!")
+                sys.exit(1)
+            else:
+                mlines = [t.removesuffix("\n").count("\n") + bool(t)
+                          for t in [m.group(1), m.group(2), m.group(3)]]
+                if mlines[1] == 0 and m.group(3).strip() == "]}":
+                    print(f"Markup passed pcre regex verification. Woohoo!")
+                else:
+                    print(f"Matching (valid) initial number of lines: {mlines[0]}")
+                    if mlines[1]:
+                        print(f"First non-matching (invalid) document part:\n{m.group(2)}")
+                    else:
+                        print(f"First lines of non-matching document part:\n{'\n'.join(m.group(3).split('\n')[:10])}")
+                    print(f"Markup FAILED pcre regex verification!")
+                    sys.exit(1)
+            return
 
         if flags.fix:
             txt = fixPrettyJSON(txt)
@@ -1169,7 +1196,6 @@ def cli_markup(*args):
         if flags.upd or not flags.diff:
             (open(arg, "w") if flags.upd and arg != "-" else sys.stdout).write(txt)
 
-    args = updateFlags(*args)
 
     if not args:
         args = (*normindex.keys(),)

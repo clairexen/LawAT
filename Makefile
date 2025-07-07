@@ -19,6 +19,7 @@ venv: .venv/bin/activate
 	.venv/bin/pip install rich
 	.venv/bin/pip install check-jsonschema
 	.venv/bin/pip install playwright
+	.venv/bin/pip install pcre2
 	.venv/bin/playwright install
 
 zip: LawAT_DataSet.zip

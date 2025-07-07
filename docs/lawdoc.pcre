@@ -1,4 +1,5 @@
 (?x)  # Extended mode
+(?s)  # Dotall mode
 #
 # This is a PCRE2 RegEx version of the JSON schmema in lawdoc.schema. The main
 # advantage of this version of the schema is, that it can also check if the
@@ -10,63 +11,68 @@
 #
 # (.. still under constructions)
 
-\A
-  \s*\{
-    \s*"\$schema"\s*:\s*"https://raw\.githubusercontent\.com/clairexen/LawAT/refs/heads/main/docs/lawdoc\.json"\s*,
-    \s*"document"\s*: (?&LawDoc)
-  \s*\}\s*
-\z
+# $1 = capture the initial matching (valid) portion of the file
+(\A\s*\{
+  \s*"\$schema"\s*:\s*"https://raw\.githubusercontent\.com/clairexen/LawAT/refs/heads/main/docs/lawdoc\.json"\s*,
+  \s*"document"\s*: (?&LawDoc)
+# \s*\}\s*\z # do not match the closing } so we match the valid
+)            # parts until the part containing the invalid code
+
+# $2 = capture the first non-valid entity (Part or Meta), if we can
+( (?&Any)? )
+
+# $3 = capture the rest of the subject string
+( .+? ) \z
 
 (?(DEFINE)
 
 (?<LawDoc>
   \s*\[
-    \s*"LawDoc [^"]*"\s*,?
+    \s*"LawDoc (?&StrTail)
     (?: (?&Meta) | (?&Part) )+
-  \s*\]\s*,?
-)
+# \s*\]\s*,? # do not match the closing ] so we match the valid
+)            # parts until the part containing the invalid code
 
 (?<Meta>
   \s*\[
-    \s*"Meta [^"]*"\s*,?
-    (?: \s*"[^"]*"\s*,? )*
+    \s*"Meta (?&StrTail) (?&Str)*
   \s*\]\s*,?
 )
 
 (?<Part>
   \s*\[
-    \s*"Part [^"]*"\s*,?
-    (?&PartContent)*
+    \s*"Part (?&StrTail) (?&PartContent)
   \s*\]\s*,?
 )
 
 (?<PartContent>
-  (?&Head) | (?&Title) | (?&SubHdr) | (?&Content)
+  (?&Head)*
+  (?&Title)?
+  (?&Content)
+  (?: (?&SubHdr)* (?&Content) )*
+)
+
+(?<Content>
+  (?&Text) | (?&List) | (?&Table) | (?&Media)
+  (?: (?&Break)? (?: (?&Text) | (?&List) | (?&Table) | (?&Media) ) )*
 )
 
 (?<Head>
   \s*\[
-    \s*"Head(?: [^"]+|)"\s*,?
-    (?: \s*"[^"]*"\s*,? | (?&Rem) )+
+    \s*"Head(?&OptStrTail) (?&TextContent)
   \s*\]\s*,?
 )
 
 (?<Title>
   \s*\[
-    \s*"Title(?: [^"]+|)"\s*,?
-    (?: \s*"[^"]*"\s*,? | (?&Rem) )+
+    \s*"Title(?&OptStrTail) (?&TextContent)
   \s*\]\s*,?
 )
 
 (?<SubHdr>
   \s*\[
-    \s*"SubHdr(?: [^"]+|)"\s*,?
-    (?: \s*"[^"]*"\s*,? | (?&Rem) )+
+    \s*"SubHdr(?&OptStrTail) (?&TextContent)
   \s*\]\s*,?
-)
-
-(?<Content>
-  (?&Break) | (?&Text) | (?&List) # | (?&Table) | (?&Media)
 )
 
 (?<Break>
@@ -77,30 +83,46 @@
 
 (?<Text>
   \s*\[
-    \s*"Text(?: [^"]+|)"\s*,?
-    (?: \s*"[^"]*"\s,? | (?&Rem) )+
+    \s*"Text(?&OptStrTail) (?&TextContent)
   \s*\]\s*,?
 )
 
 (?<Rem>
   \s*\[
-    \s*"Rem"\s*,?
-    (?: \s*"[^"]*"\s*,? )+
+    \s*"Rem"\s*,? (?&Str)+
   \s*\]\s*,?
 )
 
 (?<List>
   \s*\[
-    \s*"List(?: [^"]+|)"\s*,?
-    (?: (?&Item) | (?&Rem) )*
+    \s*"List(?&OptStrTail) (?: (?&Item) | (?&Rem) )+
   \s*\]\s*,?
 )
 
 (?<Item>
   \s*\[
-    \s*"Item(?: [^"]+|)"\s*,?
-    (?&Content)+
+    \s*"Item(?&OptStrTail) (?&Content)+
   \s*\]\s*,?
 )
+
+(?<Table>
+  FIXME
+)
+
+(?<Media>
+  FIXME
+)
+
+(?<TextContent> (?: (?&Str) | (?&Rem) )+ )
+
+(?<OptTextContent> (?: (?&Str) | (?&Rem) )* )
+
+(?<Str> \s*"(?: \\. | [^\\"])*"\s*,? )
+
+(?<StrTail> (?: \\. | [^\\"])*"\s*,? )
+
+(?<OptStrTail> (?: \s+(?: \\. | [^\\"])*|)"\s*,? )
+
+(?<Any> \s*\[(?&Any)*\s*]\s*,? | (?&Str) )
 
 ) # end DEFINE
