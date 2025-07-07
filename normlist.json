@@ -38,6 +38,12 @@
 		"promulgationsklausel": "Der Nationalrat hat beschlossen:",
 		"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917"
 	},
+	"BV.StVZVO": {
+		"type": "BV",
+		"title": "StVZVO",
+		"caption": "BMIMI: Straßenverkehrszeichenverordnung (StVZVO)",
+		"docurl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793"
+	},
 	"BG.StVO": {
 		"type": "BG",
 		"title": "StVO",

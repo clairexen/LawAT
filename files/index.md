@@ -39,6 +39,7 @@
 * [BMI: Richtlinien-Verordnung (RLV)](BV.RLV.md)
 * [BMIMI: Amateurfunkverordnung (AFV)](BV.AFV.md)
 * [BMIMI: Frequenznutzungsverordnung 2013 (FNV)](BV.FNV.md)
+* [BMIMI: Straßenverkehrszeichenverordnung (StVZVO)](BV.StVZVO.md)
 * [BMJ: DV zum Staatsanwaltschaftsgesetz (DV-StAG)](BV.DV-StAG.md)
 * [BMSGPK: Rezeptpflichtverordnung (RPV)](BV.RPV.md)
 * [BMSGPK: Suchtgift-Grenzmengenverordnung (SGV)](BV.SGV.md)

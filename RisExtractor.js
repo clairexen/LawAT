@@ -333,14 +333,16 @@ class RisExAST {
 	}
 
 	parseHeading() {
-		let s = getVisibleTextTree(this.baseElement)[0].split("\n");
 		this.set("type", "Head");
-		this.text = [s[0]];
-
-		for (let i = 1; i < s.length; i++) {
-			let ast = new RisExAST(this.parentObj, this.baseElement);
-			ast.set("type", "Head");
-			ast.text = [s[i]];
+		this.text = getVisibleTextTree(this.baseElement)
+		if (typeof this.text[0] === 'string') {
+			const s = this.text[0].split("\n");
+			this.text = [s[0]];
+			for (let i = 1; i < s.length; i++) {
+				let ast = new RisExAST(this.parentObj, this.baseElement);
+				ast.set("type", "Head");
+				ast.text = [s[i]];
+			}
 		}
 	}
 
