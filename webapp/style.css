@@ -4,7 +4,7 @@
 
 #loading {
   position: fixed;
-  z-index: 10000;
+  z-index: 2000;
   top: 10px;
   left: 10px;
   width: 270px;
@@ -15,7 +15,7 @@
 
 #infomsg {
   position: absolute;
-  z-index: 10000;
+  z-index: 2000;
   top: 100px;
   left: 250px;
   right: 250px;
