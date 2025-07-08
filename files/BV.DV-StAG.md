@@ -2,7 +2,7 @@
 **Typ:** Verordnung eines Bundesministeriums  
 **Kurztitel:** DV-StAG  
 **Langtitel:** Verordnung des Bundesministers für Justiz vom 16. Juni 1986 zur Durchführung des Staatsanwaltschaftsgesetzes (DV-StAG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000872  
 **Letzte Änderung im RIS:** BGBl. II Nr. 14/2022  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BV.DV-StAG.md  
@@ -797,7 +797,7 @@
 
 > Alle schriftlichen Erledigungen des Bezirksanwaltes, ausgenommen der Schriftverkehr mit dem Aufsichtsstaatsanwalt, haben im Kopf der Erledigung die Adresse der Staatsanwaltschaft zu enthalten und sind mit einer Unterfertigungsstampiglie folgenden Wortlautes zu versehen:
 >
-> <table id="Tabelle1"><tbody>
+> <table><tbody>
 > <tr><td style="vertical-align:top;text-align:center">„Staatsanwaltschaft ….</td></tr>
 > <tr><td style="vertical-align:top;text-align:center">Geschäftsabteilung [Nr.].</td></tr>
 > <tr><td style="vertical-align:top;text-align:center">Vor- und Familien-/Nachname</td></tr>

@@ -2,7 +2,7 @@
 **Typ:** Verordnung eines Bundesministeriums  
 **Kurztitel:** StVZVO  
 **Langtitel:** Verordnung des Bundesministers für Wissenschaft und Verkehr über Straßenverkehrszeichen (Straßenverkehrszeichenverordnung 1998 – StVZVO 1998)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 07.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793  
 **Letzte Änderung im RIS:** BGBl. II Nr. 292/2013  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md  
@@ -107,7 +107,7 @@ Auf Grund des § 34 Abs. 1 Straßenverkehrsordnung 1960, BGBl. Nr. 159, zule
 
 > `(1)` Als beleuchtete Straßenverkehrszeichen gelten angeleuchtete \(außen beleuchtete\) oder innen beleuchtete Verkehrszeichen\. Die mittlere Leuchtdichte von beleuchteten oder als optische oder elektronische Anzeigevorrichtungen ausgeführten Straßenverkehrszeichen hat mindestens den in der Tabelle angeführten Werten zu entsprechen\.
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="text-align:left">Farbe</td><td style="text-align:center">mittlere Leuchtdichte L m in cd/m2</td></tr>
 <tr><td style="vertical-align:top;text-align:left">Rot</td><td style="vertical-align:top;text-align:center">20</td></tr>
 <tr><td style="vertical-align:top;text-align:left">Gelb</td><td style="vertical-align:top;text-align:center">150</td></tr>
@@ -185,7 +185,7 @@ Auf Grund des § 34 Abs. 1 Straßenverkehrsordnung 1960, BGBl. Nr. 159, zule
 
 > ![BV.StVZVO.obj.BN.NOR40156584.image001.jpg](BV.StVZVO.obj.BN.NOR40156584.image001.jpg "~/Dokumente/Bundesnormen/NOR40156584/image001.jpg")
 >
-> <table id="Tabelle1"><tbody>
+> <table><tbody>
 > <tr><td colspan=14 style="vertical-align:bottom;text-align:center">Tabelle 1</td></tr>
 > <tr><td colspan=14 style="vertical-align:bottom;text-align:center">Farbbereiche und Leuchtdichtefaktoren für den Gebrauchszustand</td></tr>
 > <tr><td style="vertical-align:bottom;text-align:center">Farbe</td><td style="vertical-align:bottom;text-align:center">Typ</td><td colspan=2 style="vertical-align:bottom;text-align:center">1</td><td colspan=2 style="vertical-align:bottom;text-align:center">2</td><td colspan=2 style="vertical-align:bottom;text-align:center">3</td><td colspan=2 style="vertical-align:bottom;text-align:center">4</td><td colspan=4 style="vertical-align:bottom;text-align:center">Leuchtdichtefaktoren</td></tr>
@@ -203,7 +203,7 @@ Auf Grund des § 34 Abs. 1 Straßenverkehrsordnung 1960, BGBl. Nr. 159, zule
 > <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 > </tbody></table>
 >
-> <table id="Tabelle2"><tbody>
+> <table><tbody>
 > <tr><td colspan=14 style="vertical-align:bottom;text-align:center">Tabelle 2</td></tr>
 > <tr><td colspan=14 style="vertical-align:bottom;text-align:center">Farbbereiche und Leuchtdichtefaktoren für den Neuzustand</td></tr>
 > <tr><td style="vertical-align:bottom;text-align:center">Farbe</td><td style="vertical-align:bottom;text-align:center">Typ</td><td colspan=2 style="vertical-align:bottom;text-align:center">1</td><td colspan=2 style="vertical-align:bottom;text-align:center">2</td><td colspan=2 style="vertical-align:bottom;text-align:center">3</td><td colspan=2 style="vertical-align:bottom;text-align:center">4</td><td colspan=4 style="vertical-align:bottom;text-align:center">Leuchtdichtefaktoren</td></tr>
@@ -227,7 +227,7 @@ Auf Grund des § 34 Abs. 1 Straßenverkehrsordnung 1960, BGBl. Nr. 159, zule
 
 ### Anl. 2 StVZVO
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td colspan=7 style="vertical-align:bottom;text-align:left">Mindestrückstrahlwerte R' in cd lx-1 m-2</td><td colspan=13 style="vertical-align:bottom"></td></tr>
 <tr><td colspan=2 style="vertical-align:bottom;text-align:center">Aufsichtsfarbe</td><td colspan=3 style="vertical-align:bottom;text-align:center">α=0,2°</td><td colspan=4 style="vertical-align:bottom;text-align:center">0,33°</td><td colspan=4 style="vertical-align:bottom;text-align:center">1°</td><td colspan=4 style="vertical-align:bottom;text-align:center">1,5°</td><td colspan=3 style="vertical-align:bottom;text-align:center">2°</td></tr>
 <tr><td style="vertical-align:bottom"> </td><td style="vertical-align:bottom"> </td><td style="vertical-align:bottom;text-align:center">β=5°</td><td style="vertical-align:bottom;text-align:center">30°</td><td style="vertical-align:bottom;text-align:center">40°</td><td style="vertical-align:bottom;text-align:center">5°</td><td style="vertical-align:bottom;text-align:center">20°</td><td style="vertical-align:bottom;text-align:center">30°</td><td style="vertical-align:bottom;text-align:center">40°</td><td style="vertical-align:bottom;text-align:center">5°</td><td style="vertical-align:bottom;text-align:center">20°</td><td style="vertical-align:bottom;text-align:center">30°</td><td style="vertical-align:bottom;text-align:center">40°</td><td style="vertical-align:bottom;text-align:center">5°</td><td style="vertical-align:bottom;text-align:center">20°</td><td style="vertical-align:bottom;text-align:center">30°</td><td style="vertical-align:bottom;text-align:center">40°</td><td style="vertical-align:bottom;text-align:center">5°</td><td style="vertical-align:bottom;text-align:center">30°</td><td style="vertical-align:bottom;text-align:center">40°</td></tr>
@@ -264,7 +264,7 @@ Auf Grund des § 34 Abs. 1 Straßenverkehrsordnung 1960, BGBl. Nr. 159, zule
 
 ### Anl. 3 StVZVO
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td colspan=17 style="vertical-align:top"></td></tr>
 <tr><td colspan=17 style="vertical-align:top"></td></tr>
 <tr><td colspan=17 style="text-align:center">(Die Ziffern entsprechen den Abbildungen in Anlage 4, 5, 6 und 7)</td></tr>

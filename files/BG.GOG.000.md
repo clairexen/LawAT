@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** GOG  
 **Langtitel:** Gesetz vom 27. November 1896, womit Vorschriften über die Besetzung, innere Einrichtung und Geschäftsordnung der Gerichte erlassen werden (Gerichtsorganisationsgesetz – GOG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009  
 **Letzte Änderung im RIS:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.000.md  

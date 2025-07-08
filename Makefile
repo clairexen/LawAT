@@ -57,7 +57,7 @@ deploy:
 	[ -d __ghpages__ ] || git clone -b gh-pages git@github.com:clairexen/LawAT.git __ghpages__
 	-cd __ghpages__ && git rm -rf .
 	cp -vt __ghpages__/ LawAT_DataSet.json LawAT_DataSet.zip lawdoc.json
-	cp -vt __ghpages__/ RisEnQuery.py code/risen.js
+	cp -vt __ghpages__/ code/RisEnQuery.py code/risen.js
 	cp -vt __ghpages__/ code/index.html code/style.css
 	cp -vt __ghpages__/ code/lawdoc.js code/lawdoc.css
 	cp -vt __ghpages__/ code/tocui.js code/tocui.css

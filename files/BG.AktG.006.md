@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** AktG  
 **Langtitel:** Bundesgesetz über Aktiengesellschaften (Aktiengesetz – AktG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 07.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070  
 **Letzte Änderung im RIS:** [CELEX-Nr.:  32017L1132, 32019L1151]  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md  

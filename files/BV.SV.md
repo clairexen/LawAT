@@ -2,7 +2,7 @@
 **Typ:** Verordnung eines Bundesministeriums  
 **Kurztitel:** SV  
 **Langtitel:** Verordnung der Bundesministerin für Arbeit, Gesundheit und Soziales über den Verkehr und die Gebarung mit Suchtgiften (Suchtgiftverordnung – SV)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011053  
 **Letzte Änderung im RIS:** BGBl. II Nr. 10/2025  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BV.SV.md  
@@ -869,7 +869,7 @@ Auf Grund der §§ 2, 6 und 10 Suchtmittelgesetz (SMG), BGBl. I Nr. 112/1997,
 
 > `(4)` Der maximale Suchtgiftgehalt \(Suchtgift in Reinsubstanz\) beträgt in Arzneimitteln gemäß Abs\. 3 Z 1 für
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:left">Buprenorphin ……………………………………………………………….....</td><td style="vertical-align:top;text-align:right">300 mg,</td></tr>
 <tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:left">Codein ……………………………………………………………………........</td><td style="vertical-align:top;text-align:right">12000 mg,</td></tr>
 <tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:left">Dextropropoxyphen ……………..……………………………….…………....</td><td style="vertical-align:top;text-align:right">6000 mg,</td></tr>

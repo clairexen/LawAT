@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** BDG  
 **Langtitel:** Bundesgesetz vom 27. Juni 1979 über das Dienstrecht der Beamten (Beamten-Dienstrechtsgesetz 1979 – BDG 1979)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008470  
 **Letzte Änderung im RIS:** BGBl. I Nr. 25/2025 (NR: GP XXVIII RV 69 und Zu 69 AB 100 S. 30. BR: 11643 AB 11645 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.BDG.024.md  
@@ -108,7 +108,7 @@ Beamte mit Hochschulbildung im Sinne der Anlage 1 Z 1.12 sind während ihres pr
 `§ 230 (1) BDG.`  
 Für die Beamtinnen und Beamten des Post- und Fernmeldewesens sind folgende Amtstitel vorgesehen:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="text-align:center">in der Verwendungsgruppe</td><td style="text-align:center">erforderliches Besoldungsdienstalter</td><td style="text-align:center">Amtstitel</td></tr>
 <tr><td rowspan=3 style="text-align:center">PT 1</td><td style="text-align:center">keines</td><td style="text-align:center">Kommissärin oder Kommissär</td></tr>
 <tr><td style="text-align:center">13 Jahre und sechs Monate</td><td style="text-align:center">Rätin oder Rat</td></tr>
@@ -143,7 +143,7 @@ Für die Beamtinnen und Beamten des Post- und Fernmeldewesens sind folgende Amts
 `§ 230 (2) BDG.`  
 Abweichend von Abs. 1 sind folgende Amtstitel vorgesehen:
 
-<table id="Tabelle2"><tbody>
+<table><tbody>
 <tr><td colspan=2 style="text-align:center">für</td><td style="text-align:center">Amtstitel</td></tr>
 <tr><td colspan=2 style="text-align:left">Leiterin oder Leiter einer Direktion der PTA</td><td style="text-align:center">Präsidentin oder Präsident d. (Bezeichnung der Direktion)</td></tr>
 <tr><td colspan=2>Beamtin oder Beamter der Verwendungsgruppe PT 1 in der Generaldirektion der PTA ab einem Besoldungsdienstalter von 21 Jahren und sechs Monaten</td><td style="text-align:center">Ministerialrätin oder Ministerialrat</td></tr>
@@ -162,7 +162,7 @@ Abweichend von Abs. 1 sind folgende Amtstitel vorgesehen:
 `§ 230 (3) BDG.`  
 Beamtinnen und Beamte des Post- und Fernmeldewesens haben in den nachstehenden Verwendungen anstelle des Amtstitels folgende Verwendungsbezeichnungen zu führen:
 
-<table id="Tabelle3"><tbody>
+<table><tbody>
 <tr><td colspan=2 style="vertical-align:top;text-align:center">bei Verwendung als</td><td style="vertical-align:top;text-align:center">Verwendungsbezeichnung</td></tr>
 <tr><td colspan=2>Leiterin oder Leiter eines Amtes in den Verwendungsgruppen PT 2 (ohne Hochschulbildung) und PT 3</td><td> </td></tr>
 <tr><td> </td><td style="text-align:left">bis zu einem Besoldungsdienstalter von 18 Jahren und sechs Monaten</td><td style="text-align:center">Amtsverwalterin oder Amtsverwalter</td></tr>
@@ -288,7 +288,7 @@ Ein Zeugnis über eine Weiterbildung nach § 64 GuKG ist einem Zeugnis über ei
 `§ 231c (1) BDG.`  
 Für die Beamtinnen und Beamten des Krankenpflegedienstes sind folgende Amtstitel vorgesehen:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top;text-align:center">in der Verwendungsgruppe</td><td style="vertical-align:top;text-align:center">erforderliches Besoldungsdienstalter</td><td style="vertical-align:top;text-align:center">Amtstitel</td></tr>
 <tr><td rowspan=4 style="text-align:center">K 1, K 2</td><td style="vertical-align:top;text-align:left">bis zu einem Besoldungsdienstalter von neun Jahren und sechs Monaten</td><td style="vertical-align:top;text-align:center">Revidentin oder Revident</td></tr>
 <tr><td style="vertical-align:top;text-align:left">ab einem Besoldungsdienstalter von neun Jahren und sechs Monaten</td><td style="vertical-align:top;text-align:center">Oberrevidentin oder Oberrevident</td></tr>

@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** GewO  
 **Langtitel:** Gewerbeordnung 1994 – GewO 1994  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 07.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517  
 **Letzte Änderung im RIS:** BGBl. I Nr. 150/2024 (NR: GP XXVIII IA 3/A AB 7 S. 3. BR: AB 11609 S. 972.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.025.md  
@@ -27,7 +27,7 @@ Sofern ein gefährlicher Stoff unter Teil 1 dieser Anlage fällt und ebenfalls 
 
 Dieser Teil umfasst alle gefährlichen Stoffe, die unter die Gefahrenkategorien in Spalte 1 fallen:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top;text-align:left">Spalte 1</td><td style="vertical-align:top;text-align:left">Spalte 2</td><td style="vertical-align:top;text-align:left">Spalte 3</td></tr>
 <tr><td rowspan=2 style="text-align:left">Gefahrenkategorien von Stoffen und Gemischen</td><td colspan=2 style="vertical-align:top;text-align:left">Mengenschwelle in Tonnen für die Erfüllung der Anforderungen an Betriebe der</td></tr>
 <tr><td style="vertical-align:top;text-align:left">unteren</td><td style="vertical-align:top;text-align:left">oberen</td></tr>
@@ -62,7 +62,7 @@ Dieser Teil umfasst alle gefährlichen Stoffe, die unter die Gefahrenkategorien 
 
 #### Namentlich angeführte Stoffe
 
-<table id="Tabelle2"><tbody>
+<table><tbody>
 <tr><td rowspan=3 style="vertical-align:top;text-align:left">Spalte 1</td><td style="vertical-align:top;text-align:left">Spalte 2</td><td style="vertical-align:top;text-align:left">Spalte 3</td></tr>
 <tr><td colspan=2 style="vertical-align:top;text-align:left">Mengenschwelle in Tonnen für die Erfüllung der Anforderungen an Betriebe der</td></tr>
 <tr><td style="vertical-align:top;text-align:left">unteren Klasse</td><td style="vertical-align:top;text-align:left">oberen</td></tr>
@@ -207,7 +207,7 @@ Düngemittel gemäß der Anmerkung 13 erster Gedankenstrich und der Anmerkung 
 
 20. Polychlordibenzofurane und Polychlordibenzodioxine: Die Berechnung der Mengen von Polychlordibenzofuranen und Polychlordibenzodioxinen erfolgt anhand der nachstehend angeführten Äquivalenzfaktoren:
 
-<table id="Tabelle3"><tbody>
+<table><tbody>
 <tr><td colspan=4 style="vertical-align:top;text-align:left">WHO-Toxizitätsäquivalenzfaktor (TEF) 2005</td></tr>
 <tr><td style="vertical-align:top;text-align:left">2,3,7,8-TCDD</td><td style="vertical-align:top;text-align:left">1</td><td style="vertical-align:top;text-align:left">2,3,7,8-TCDF</td><td style="vertical-align:top;text-align:left">0,1</td></tr>
 <tr><td style="vertical-align:top;text-align:left">1,2,3,7,8-PeCDD</td><td style="vertical-align:top;text-align:left">1</td><td style="vertical-align:top;text-align:left">2,3,4,7,8-PeCDF</td><td style="vertical-align:top;text-align:left">0,3</td></tr>

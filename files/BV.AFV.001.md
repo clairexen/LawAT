@@ -2,7 +2,7 @@
 **Typ:** Verordnung eines Bundesministeriums  
 **Kurztitel:** AFV  
 **Langtitel:** Verordnung des Bundesministers für Wissenschaft und Verkehr zur Durchführung des Amateurfunkgesetzes (Amateurfunkverordnung – AFV)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012930  
 **Letzte Änderung im RIS:** BGBl. II Nr. 61/2023  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BV.AFV.001.md  
@@ -71,7 +71,7 @@ Das vom Fernmeldebüro zugeteilte Rufzeichen besteht aus den Buchstaben „OE“
 `§ 5 (2) AFV.`  
 Die Ziffern sind den Bundesländern wie folgt zugeordnet:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:left">1 – Wien</td><td style="vertical-align:top;text-align:left">6 – Steiermark</td></tr>
 <tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:left">2 – Salzburg</td><td style="vertical-align:top;text-align:left">7 – Tirol</td></tr>
 <tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:left">3 – Niederösterreich</td><td style="vertical-align:top;text-align:left">8 – Kärnten</td></tr>
@@ -124,7 +124,7 @@ Der Inhaber einer Amateurfunkbewilligung der Bewilligungsklasse 4 darf nur die i
 `§ 9 (1) AFV.`  
 Für den Amateurfunkdienst werden folgende Leistungsstufen festgesetzt:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:left">Leistungsstufe A</td><td style="vertical-align:top;text-align:left">maximal</td><td style="vertical-align:top;text-align:right">100 Watt</td><td style="vertical-align:top;text-align:left">(Spitzenleistung)</td></tr>
 <tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:left">Leistungsstufe B</td><td style="vertical-align:top;text-align:left">maximal</td><td style="vertical-align:top;text-align:right">200 Watt</td><td style="vertical-align:top;text-align:left">(Spitzenleistung)</td></tr>
 <tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:left">Leistungsstufe C</td><td style="vertical-align:top;text-align:left">maximal</td><td style="vertical-align:top;text-align:right">400 Watt</td><td style="vertical-align:top;text-align:left">(Spitzenleistung)</td></tr>
@@ -149,7 +149,7 @@ Die belegte Bandbreite ist entsprechend dem Stand der Technik auf das für die v
 `§ 10 (2) AFV.`  
 Im Amateurfunkdienst darf die belegte Bandbreite folgende Werte nicht überschreiten:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td colspan=3 style="vertical-align:top;text-align:center">Frequenzbereich</td><td colspan=2 style="vertical-align:top;text-align:center">Belegte Bandbreite</td><td style="vertical-align:top;text-align:center">Belegte Bandbreite für Fernsehen und digitale Übertragungstechniken unterschiedlicher Inhalte</td></tr>
 <tr><td colspan=3 style="vertical-align:top"> </td><td colspan=2 style="vertical-align:top"> </td><td style="vertical-align:top"> </td></tr>
 <tr><td style="vertical-align:top;text-align:center">Bis</td><td colspan=2 style="vertical-align:top;text-align:right">1,5 MHz</td><td colspan=2 style="vertical-align:top;text-align:center">Gemäß Absatz 3</td><td style="vertical-align:top;text-align:left">Nicht anwendbar (Fernsehen nicht zulässig)</td></tr>
@@ -171,7 +171,7 @@ Die belegte Bandbreite der Aussendung muss innerhalb des für die jeweilige Send
 `§ 11 (1) AFV.`  
 In Anlage 2 ist der Status des Amateurfunkdienstes mit Pex, P und S ausgewiesen; diese Bezeichnungen bedeuten:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top;text-align:left">1. Pex</td><td style="vertical-align:top;text-align:left">=</td><td style="vertical-align:top;text-align:left">primärer Funkdienst (exklusiver Bereich für den Amateurfunkdienst)</td></tr>
 <tr><td style="vertical-align:top;text-align:left">2. P</td><td style="vertical-align:top;text-align:left">=</td><td style="vertical-align:top;text-align:left">primärer Funkdienst (Bereich wird von anderen Funkdiensten mit gleichen oder geringeren Rechten mitbenutzt)</td></tr>
 <tr><td style="vertical-align:top;text-align:left">3. S</td><td style="vertical-align:top;text-align:left">=</td><td style="vertical-align:top;text-align:left">sekundärer Funkdienst</td></tr>
@@ -242,7 +242,7 @@ Unerwünschte Aussendungen sind auf das geringstmögliche Maß zu beschränken.
 `§ 17 (2) AFV.`  
 Für unerwünschte Aussendungen gelten nachstehende Grenzwerte:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="text-align:center">Frequenzbereich</td><td>Erforderliche Dämpfung unerwünschter Aussendungen gegenüber der Maximalen PEP des Senders 1)</td><td>Alternative maximale Leistung unerwünschter Aussendungen eines Senders 1)</td></tr>
 <tr><td>1</td><td>2</td><td>3</td></tr>
 <tr><td>0,15 MHz – 1,7 MHz</td><td>60 dB</td><td rowspan=4 style="text-align:center">0,25 μW (-36 dBm)</td></tr>
@@ -310,7 +310,7 @@ Die Verwendung von Einrichtungen, die die Verständlichkeit der Nachricht einsch
 `§ 21 (1) AFV.`  
 Katastrophenfunkverkehr darf auf folgenden Frequenzen aus den dem Amateurfunkdienst zugewiesenen Frequenzbereichen durchgeführt werden:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:right">3,5 MHz</td><td style="vertical-align:top;text-align:right">7,0 MHz</td><td style="vertical-align:top;text-align:right">10,1 MHz</td><td style="vertical-align:top;text-align:right">14,0 MHz</td></tr>
 <tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:right">18,068 MHz</td><td style="vertical-align:top;text-align:right">21,0 MHz</td><td style="vertical-align:top;text-align:right">24,89 MHz</td><td style="vertical-align:top;text-align:right">144,0 MHz</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td></tr>

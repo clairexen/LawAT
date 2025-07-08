@@ -2,7 +2,7 @@
 **Typ:** Verordnung eines Bundesministeriums  
 **Kurztitel:** RPV  
 **Langtitel:** Verordnung des Bundesministers für Gesundheit und Umweltschutz vom 30. August 1973 über rezeptpflichtige Arzneimittel (Rezeptpflichtverordnung)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010358  
 **Letzte Änderung im RIS:** BGBl. II Nr. 261/2024  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BV.RPV.md  
@@ -51,7 +51,7 @@
 
 > Die folgenden Listen für Humanarzneimittel und Veterinärarzneimittel enthalten unter Angabe des Rezeptpflichtstatus
 >
-> <table id="Tabelle1"><tbody>
+> <table><tbody>
 > <tr><td style="vertical-align:top;text-align:left">Teil 1</td><td style="vertical-align:top;text-align:left">Sammelbezeichnungen: nach fachlichen Gesichtspunkten stofflicher Art, therapeutischer Anwendung oder Arzneiform.</td></tr>
 > <tr><td style="vertical-align:top;text-align:left">Teil 2:</td><td style="vertical-align:top;text-align:left">Wirkstoffe definierter chemischer Zusammensetzung. INN-Bezeichnungen erfolgen in Blockschrift. Die Rezeptpflicht gilt, sofern nicht ausdrücklich etwas anderes vermerkt ist, auch für Salze, Ester, Salze von Estern.</td></tr>
 > <tr><td style="vertical-align:top;text-align:left">Teil 3:</td><td style="vertical-align:top;text-align:left">Pflanzen und Pflanzenteile; Pflanzenbestandteile wie ätherische Öle, Harze u. dgl.; Tiere und deren Bestandteile.</td></tr>
@@ -76,7 +76,7 @@
 >
 > Zeichenerklärung:
 >
-> <table id="Tabelle2"><tbody>
+> <table><tbody>
 > <tr><td style="vertical-align:top;text-align:left">RP:</td><td style="vertical-align:top;text-align:left">Rezeptpflichtig</td></tr>
 > <tr><td style="vertical-align:top;text-align:left">NR:</td><td style="vertical-align:top;text-align:left">Rezeptpflichtig, wiederholte Abgabe verboten</td></tr>
 > <tr><td style="vertical-align:top;text-align:left">RPF:</td><td style="vertical-align:top;text-align:left">Rezeptfrei</td></tr>
@@ -91,7 +91,7 @@
 
 > Zeichenerklärung:
 >
-> <table id="Tabelle3"><tbody>
+> <table><tbody>
 > <tr><td style="vertical-align:top;text-align:left">RP:</td><td style="vertical-align:top;text-align:left">Rezeptpflichtig</td></tr>
 > <tr><td style="vertical-align:top;text-align:left">NR:</td><td style="vertical-align:top;text-align:left">Rezeptpflichtig, wiederholte Abgabe verboten</td></tr>
 > <tr><td style="vertical-align:top;text-align:left">RPF:</td><td style="vertical-align:top;text-align:left">Rezeptfrei</td></tr>
@@ -106,7 +106,7 @@
 
 #### human
 
-<table id="Tabelle4"><tbody>
+<table><tbody>
 <tr><td colspan=2 style="vertical-align:top;text-align:left">Allergenzubereitungen</td><td style="vertical-align:top;text-align:left">RP</td></tr>
 <tr><td colspan=2 style="vertical-align:top;text-align:left">Antibiotika</td><td style="vertical-align:top;text-align:left">NR</td></tr>
 <tr><td colspan=2 style="vertical-align:top;text-align:left">Arzneimittel für neuartige Therapien</td><td style="vertical-align:top;text-align:left">NR</td></tr>
@@ -161,7 +161,7 @@
 
 #### human
 
-<table id="Tabelle5"><tbody>
+<table><tbody>
 <tr><td colspan=2 style="vertical-align:top;text-align:left">ABACAVIR</td><td style="vertical-align:top;text-align:left">NR</td></tr>
 <tr><td colspan=2 style="vertical-align:top;text-align:left">ABALOPARATID</td><td style="vertical-align:top;text-align:left">NR</td></tr>
 <tr><td colspan=2 style="vertical-align:top;text-align:left">ABARELIX</td><td style="vertical-align:top;text-align:left">NR</td></tr>
@@ -2155,7 +2155,7 @@ CLOSTRIDIUM HISTOLYTICUM</td><td style="vertical-align:top;text-align:left">NR</
 
 #### human
 
-<table id="Tabelle6"><tbody>
+<table><tbody>
 <tr><td colspan=2 style="vertical-align:top;text-align:left">Aconitum napellus</td><td style="vertical-align:top;text-align:left">NR</td></tr>
 <tr><td colspan=2 style="vertical-align:top;text-align:left">Adhatoda vasica</td><td style="vertical-align:top;text-align:left">RP</td></tr>
 <tr><td colspan=2 style="vertical-align:top;text-align:left">Adonis vernalis</td><td style="vertical-align:top;text-align:left">RP</td></tr>
@@ -2222,7 +2222,7 @@ CLOSTRIDIUM HISTOLYTICUM</td><td style="vertical-align:top;text-align:left">NR</
 
 #### Ausnahmen
 
-<table id="Tabelle7"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top;text-align:left">R 1</td><td style="vertical-align:top;text-align:left">ausgenommen in Roborantien und Tonicis</td></tr>
 <tr><td style="vertical-align:top;text-align:left">R 4</td><td style="vertical-align:top;text-align:left">ausgenommen zur Behandlung der Nasenschleimhaut</td></tr>
 <tr><td style="vertical-align:top;text-align:left">R 5</td><td style="vertical-align:top;text-align:left">ausgenommen bis 0,003 mg pro Dosis</td></tr>
@@ -2323,7 +2323,7 @@ CLOSTRIDIUM HISTOLYTICUM</td><td style="vertical-align:top;text-align:left">NR</
 
 #### Warnhinweise
 
-<table id="Tabelle8"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top;text-align:left">W 1</td><td style="vertical-align:top;text-align:left">Darf Kindern unter sechs Jahren nur über ärztliche Anordnung gegeben werden.</td></tr>
 <tr><td style="vertical-align:top;text-align:left">W 2</td><td style="vertical-align:top;text-align:left">Ohne ärztliche Anordnung nicht länger als zehn Tage hintereinander anwenden. Bei längerem Gebrauch oder überhöhter Dosierung (mehr als 2,0 g pro Tag) sind Leber- und Nierenschädigungen nicht auszuschließen. Darf Kindern unter drei Jahren nur über ärztliche Anordnung gegeben werden.</td></tr>
 <tr><td style="vertical-align:top;text-align:left">W 6</td><td style="vertical-align:top;text-align:left">Nicht größere Flächen als zwei Handteller groß pro Tag behandeln.</td></tr>
@@ -2347,7 +2347,7 @@ CLOSTRIDIUM HISTOLYTICUM</td><td style="vertical-align:top;text-align:left">NR</
 
 #### veterinär
 
-<table id="Tabelle9"><tbody>
+<table><tbody>
 <tr><td colspan=2 style="vertical-align:top;text-align:left">Allergenzubereitungen</td><td style="vertical-align:top;text-align:left">RP</td></tr>
 <tr><td colspan=2 style="vertical-align:top;text-align:left">Antibiotika</td><td style="vertical-align:top;text-align:left">NR</td></tr>
 <tr><td colspan=2 style="vertical-align:top;text-align:left">Bakterien und deren Auszüge und Produkte</td><td style="vertical-align:top;text-align:left">RP</td></tr>
@@ -2394,7 +2394,7 @@ CLOSTRIDIUM HISTOLYTICUM</td><td style="vertical-align:top;text-align:left">NR</
 
 #### veterinär
 
-<table id="Tabelle10"><tbody>
+<table><tbody>
 <tr><td colspan=2 style="vertical-align:top;text-align:left">ACEPROMAZIN</td><td style="vertical-align:top;text-align:left">RP</td></tr>
 <tr><td colspan=2 style="vertical-align:top;text-align:left">ACETYLISOVALERYLTYLOSIN</td><td style="vertical-align:top;text-align:left">NR</td></tr>
 <tr><td colspan=2 style="vertical-align:top;text-align:left">Adenosintriphosphat</td><td style="vertical-align:top;text-align:left">RP</td></tr>
@@ -2800,7 +2800,7 @@ CLOSTRIDIUM HISTOLYTICUM</td><td style="vertical-align:top;text-align:left">NR</
 
 #### veterinär
 
-<table id="Tabelle11"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top;text-align:left">Aconitum napellus</td><td style="vertical-align:top;text-align:left">NR</td></tr>
 <tr><td style="vertical-align:top;text-align:left">Adonis vernalis</td><td style="vertical-align:top;text-align:left">RP</td></tr>
 <tr><td style="vertical-align:top;text-align:left">Aristolochia clematitis</td><td style="vertical-align:top;text-align:left">RP</td></tr>

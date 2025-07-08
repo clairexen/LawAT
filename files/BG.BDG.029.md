@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** BDG  
 **Langtitel:** Bundesgesetz vom 27. Juni 1979 über das Dienstrecht der Beamten (Beamten-Dienstrechtsgesetz 1979 – BDG 1979)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008470  
 **Letzte Änderung im RIS:** BGBl. I Nr. 25/2025 (NR: GP XXVIII RV 69 und Zu 69 AB 100 S. 30. BR: 11643 AB 11645 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.BDG.029.md  
@@ -65,7 +65,7 @@ Der erfolgreiche Abschluß einer Grundausbildung und der Abschluß einer bestimm
 `§ 262 (10) BDG.`  
 Ist ein Beamter des Exekutivdienstes im Zeitpunkt der Überleitung dauernd mit einem Arbeitsplatz einer höheren Verwendungsgruppe betraut, so ist für ihn vorgesehen:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td colspan=2 style="text-align:center">bei einer Zuordnung des</td><td rowspan=2 style="text-align:center">bei Einstufung des Beamten des Exekutivdienstes in die Verwendungsgruppe</td><td rowspan=2 style="text-align:center">die Funktionsgruppe</td></tr>
 <tr><td style="vertical-align:top;text-align:center">Verwendungs-</td><td style="vertical-align:top;text-align:center">Funktions-</td></tr>
 <tr><td style="vertical-align:top;text-align:center">E 1</td><td style="vertical-align:top;text-align:center">3 bis 11</td><td style="vertical-align:top;text-align:center">E 2a</td><td style="vertical-align:top;text-align:center">7</td></tr>
@@ -170,7 +170,7 @@ Der erfolgreiche Abschluß einer Grundausbildung und der Abschluß einer bestimm
 `§ 269 (11) BDG.`  
 Ist eine Militärperson im Zeitpunkt der Überleitung dauernd mit einem Arbeitsplatz einer höheren Verwendungsgruppe betraut, so ist für sie vorgesehen:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td colspan=2 style="text-align:center">bei einer Zuordnung des</td><td rowspan=2 style="text-align:center">bei Einstufung der Militärperson in die Verwendungsgruppe</td><td rowspan=2 style="text-align:center">die Funktionsgruppe</td></tr>
 <tr><td style="vertical-align:top;text-align:center">Verwendungs-</td><td style="vertical-align:top;text-align:center">Funktions-</td></tr>
 <tr><td rowspan=2 style="vertical-align:top;text-align:center">M BO 1</td><td style="vertical-align:top;text-align:center">5 bis 9</td><td style="vertical-align:top;text-align:center">M BO 2</td><td style="vertical-align:top;text-align:center">9</td></tr>

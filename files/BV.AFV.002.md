@@ -2,7 +2,7 @@
 **Typ:** Verordnung eines Bundesministeriums  
 **Kurztitel:** AFV  
 **Langtitel:** Verordnung des Bundesministers für Wissenschaft und Verkehr zur Durchführung des Amateurfunkgesetzes (Amateurfunkverordnung – AFV)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012930  
 **Letzte Änderung im RIS:** BGBl. II Nr. 61/2023  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BV.AFV.002.md  
@@ -172,7 +172,7 @@ Die Frequenztoleranz beträgt 1 x 10-6 der zugeteilten Frequenz.
 `§ 33a AFV.`  
 Die maximal zulässige äquivalente Strahlungsleistung beträgt:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td colspan=3 style="vertical-align:top;text-align:center">im Frequenzbereich</td><td style="vertical-align:top;text-align:right">ERP</td><td style="vertical-align:top"> </td></tr>
 <tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:right">3 – 30</td><td style="vertical-align:top;text-align:left">MHz</td><td style="vertical-align:top;text-align:right">100</td><td style="vertical-align:top;text-align:left">Watt</td></tr>
 <tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:right">50 – 52</td><td style="vertical-align:top;text-align:left">MHz</td><td style="vertical-align:top;text-align:right">10</td><td style="vertical-align:top;text-align:left">Watt</td></tr>
@@ -248,7 +248,7 @@ Zur Überprüfung der zulässigen Sendeleistung ist der Senderausgang mit einer 
 `§ 41 AFV.`  
 Die maximal zulässige äquivalente Strahlungsleistung beträgt:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td colspan=2 style="vertical-align:top;text-align:center">im Frequenzbereich</td><td style="vertical-align:top;text-align:right">ERP</td><td style="vertical-align:top"> </td></tr>
 <tr><td style="vertical-align:top;text-align:right">3 – 30</td><td style="vertical-align:top;text-align:left">MHz</td><td style="vertical-align:top;text-align:right">100</td><td style="vertical-align:top;text-align:left">Watt</td></tr>
 <tr><td style="vertical-align:top;text-align:right">50 – 52</td><td style="vertical-align:top;text-align:left">MHz</td><td style="vertical-align:top;text-align:right">10</td><td style="vertical-align:top;text-align:left">Watt</td></tr>

@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** EMRK  
 **Langtitel:** (Übersetzung)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 07.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308  
 **Letzte Änderung im RIS:** BGBl. III Nr. 171/2023 (K – Geltungsbereich P13)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.000.md  

@@ -2,7 +2,7 @@
 **Typ:** Verordnung eines Bundesministeriums  
 **Kurztitel:** RPV  
 **Langtitel:** Verordnung des Bundesministers für Gesundheit über die Grenzmengen der Suchtgifte (Suchtgift-Grenzmengenverordnung – SGV)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011056  
 **Letzte Änderung im RIS:** BGBl. II Nr. 233/2024  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BV.SGV.md  
@@ -57,7 +57,7 @@ Auf Grund des § 28b des Suchtmittelgesetzes (SMG), BGBl. I Nr. 112/1997, zul
 
 ### Anl. 1 RPV
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td colspan=2 style="vertical-align:top">1. Suchtgifte gemäß Anhang I der Suchtgiftverordnung, BGBl. II Nr. 374/1997:</td></tr>
 <tr><td style="vertical-align:bottom;text-align:left">Substanz:</td><td style="vertical-align:bottom;text-align:center">Mengen in Gramm:</td></tr>
 <tr><td style="vertical-align:top;text-align:left">Acetorphin</td><td style="vertical-align:top;text-align:center">20,0</td></tr>

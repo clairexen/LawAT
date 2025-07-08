@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** UG  
 **Langtitel:** Bundesgesetz über die Organisation der Universitäten und ihre Studien (Universitätsgesetz 2002 – UG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 07.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128  
 **Letzte Änderung im RIS:** BGBl. I Nr. 28/2025 (NR: GP XXVIII RV 96 AB 103 S. 30. BR: AB 11648 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.UG.003.md  

@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** GewO  
 **Langtitel:** Gewerbeordnung 1994 – GewO 1994  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 07.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517  
 **Letzte Änderung im RIS:** BGBl. I Nr. 150/2024 (NR: GP XXVIII IA 3/A AB 7 S. 3. BR: AB 11609 S. 972.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.026.md  

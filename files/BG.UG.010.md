@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** UG  
 **Langtitel:** Bundesgesetz über die Organisation der Universitäten und ihre Studien (Universitätsgesetz 2002 – UG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 07.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128  
 **Letzte Änderung im RIS:** BGBl. I Nr. 28/2025 (NR: GP XXVIII RV 96 AB 103 S. 30. BR: AB 11648 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.UG.010.md  
@@ -24,7 +24,7 @@ Im Zuge der Implementierung einer kapazitätsorientierten, studierendenbezogenen
 `§ 71b (1) UG.`  
 In den österreichweit besonders stark nachgefragten Studienfeldern bzw. Studien wird die österreichweit anzubietende Mindestanzahl an Studienplätzen für Studienanfängerinnen und –anfänger pro Studienjahr und Studienfeld bzw. Studium wie folgt festgelegt:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="text-align:center">Studienfeld/Studium</td><td style="text-align:center">Mindestanzahl</td></tr>
 <tr><td style="text-align:left">Architektur und Städteplanung*</td><td style="text-align:right">2.020</td></tr>
 <tr><td style="text-align:left">Biologie und Biochemie**</td><td style="text-align:right">3.700</td></tr>
@@ -85,7 +85,7 @@ Das Rektorat kann in den Bachelor-, Master-, Diplom- und Doktoratsstudien, die v
 `§ 71c (2) UG.`  
 In den Studien Human- und Zahnmedizin, Psychologie sowie Veterinärmedizin muss im Sinne einer bedarfsgerechten Studienplatzentwicklung folgende Anzahl an Studienplätzen für Studienanfängerinnen und -anfänger pro Studienjahr und Studium österreichweit ansteigend zur Verfügung gestellt werden:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top;text-align:center">Studium</td><td style="vertical-align:top;text-align:center">Gesamt</td></tr>
 <tr><td style="vertical-align:top;text-align:left">Human- und Zahnmedizin</td><td style="vertical-align:top;text-align:right">bis zu 2.000</td></tr>
 <tr><td style="vertical-align:top;text-align:left">Psychologie</td><td style="vertical-align:top;text-align:right">1.300</td></tr>

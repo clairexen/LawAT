@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** JN  
 **Langtitel:** Gesetz vom 1. August 1895, über die Ausübung der Gerichtsbarkeit und die Zuständigkeit der ordentlichen Gerichte in bürgerlichen Rechtssachen (Jurisdiktionsnorm – JN).  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697  
 **Letzte Änderung im RIS:** BGBl. I Nr. 61/2022 (NR: GP XXVII RV 1291 AB 1400 S. 147. BR: AB 10924 S. 939.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.JN.001.md  

@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** WechselG  
 **Langtitel:** Bundesgesetz vom 16. Feber 1955, betreffend das Wechselrecht (Wechselgesetz 1955).  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001934  
 **Letzte Änderung im RIS:** BGBl. I Nr. 58/2010 (NR: GP XXIV RV 771 AB 840 S. 74. BR: 8354 AB 8380 S. 787.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.WechselG.003.md  

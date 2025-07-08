@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** BDG  
 **Langtitel:** Bundesgesetz vom 27. Juni 1979 über das Dienstrecht der Beamten (Beamten-Dienstrechtsgesetz 1979 – BDG 1979)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008470  
 **Letzte Änderung im RIS:** BGBl. I Nr. 25/2025 (NR: GP XXVIII RV 69 und Zu 69 AB 100 S. 30. BR: 11643 AB 11645 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.BDG.md  
@@ -961,7 +961,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Das provisorische Dienstverhältnis kann mit Bescheid gekündigt werden\. Die Kündigungsfrist beträgt
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top;text-align:left">während der ersten sechs Monate des Dienstverhältnisses (Probezeit) ……………………………………………………….</td><td style="vertical-align:bottom;text-align:left">1 Kalendermonat,</td></tr>
 <tr><td style="vertical-align:top;text-align:left">nach Ablauf der Probezeit ……………………………………….</td><td style="vertical-align:bottom;text-align:left">2 Kalendermonate</td></tr>
 <tr><td style="vertical-align:top;text-align:left">und nach Vollendung des zweiten Dienstjahres …………………</td><td style="vertical-align:bottom;text-align:left">3 Kalendermonate.</td></tr>
@@ -4701,7 +4701,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` In den Verwendungsgruppen A 1 bis A 5 sind neben der Grundlaufbahn folgende Funktionsgruppen für hervorgehobene Verwendungen vorgesehen:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="text-align:center">in der Verwendungsgruppe</td><td style="text-align:center">die Funktionsgruppen</td></tr>
 <tr><td style="text-align:center">A 1</td><td style="text-align:center">1 bis 9</td></tr>
 <tr><td style="text-align:center">A 2</td><td style="text-align:center">1 bis 8</td></tr>
@@ -4913,7 +4913,7 @@ Der Nationalrat hat beschlossen:
 
 > `(1)` Für den Allgemeinen Verwaltungsdienst sind folgende Amtstitel vorgesehen:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="text-align:center">in der Verwendungs-gruppe</td><td style="text-align:center">in der Funktions-gruppe</td><td style="text-align:center">erforderliches Besoldungs-dienstalter</td><td style="text-align:center">Amtstitel</td></tr>
 <tr><td rowspan=6 style="text-align:center">A 1, wenn das Ernennungs-erfordernis der Hochschul-bildung nach Z 1.12 der Anlage 1 erfüllt wird</td><td style="text-align:center">GL, 1 bis 6</td><td style="text-align:center">keines</td><td style="text-align:right">Kommissärin oder Kommissär</td></tr>
 <tr><td style="text-align:center">GL, 1 bis 6</td><td style="text-align:center">10 Jahre</td><td style="text-align:right">Rätin oder Rat</td></tr>
@@ -4954,7 +4954,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Abweichend von den Abs\. 1 und 2 sind für Beamte des Allgemeinen Verwaltungsdienstes folgende Verwendungsbezeichnungen vorgesehen:
 
-<table id="Tabelle2"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top">für den Leiter der Präsidentschaftskanzlei</td><td style="vertical-align:top">Kabinettsdirektor</td></tr>
 <tr><td style="vertical-align:top">für den Sonderberater des Bundespräsidenten in internationalen Angelegenheiten, den Leiter des Internationalen Dienstes der Parlamentsdirektion, den außenpolitischen Berater des Bundeskanzlers und den außenpolitischen Berater des Vizekanzlers (abweichend vom allenfalls anwendbaren Abs. 4)</td><td style="vertical-align:top">Botschafter</td></tr>
 <tr><td style="vertical-align:top">für den Stellvertreter des Kabinettsdirektors</td><td style="vertical-align:top">Kabinettsvizedirektor</td></tr>
@@ -5318,7 +5318,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` In den Verwendungsgruppen M BO 1 bis M BUO und M ZO 1 bis M ZUO sind neben der Grundlaufbahn folgende Funktionsgruppen für hervorgehobene Verwendungen vorgesehen:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top;text-align:left">In der Verwendungsgruppe</td><td style="vertical-align:top;text-align:left">die Funktionsgruppen</td></tr>
 <tr><td style="vertical-align:top;text-align:left">M BO 1</td><td style="vertical-align:top;text-align:left">1 bis 9</td></tr>
 <tr><td style="vertical-align:top;text-align:left">M ZO 1</td><td style="vertical-align:top;text-align:left">1 bis 7</td></tr>
@@ -6595,7 +6595,7 @@ Der Nationalrat hat beschlossen:
 
 > `(1)` Ist ein Lehrer an einer Universität ausschließlich für die im § 192 Abs\. 1 angeführten Tätigkeiten bestellt, so ist er in den einzelnen Gruppen von Fächern zur Abhaltung von Unterricht in der nachstehend angeführten Anzahl von Semesterstunden \(§ 155 Abs\. 10\) verpflichtet:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top"> </td><td style="vertical-align:bottom;text-align:right">Semester-stunden</td></tr>
 <tr><td style="vertical-align:top"></td><td style="vertical-align:bottom"> </td></tr>
 <tr><td style="vertical-align:top"></td><td style="vertical-align:bottom;text-align:right">13</td></tr>
@@ -6613,7 +6613,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Das Ausmaß dieser Lehrverpflichtung ist unter Verwendung von Werteinheiten auf eine Lehrverpflichtung von 20 Semesterstunden umzurechnen\. Hiebei entspricht
 
-<table id="Tabelle2"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top"></td><td style="vertical-align:bottom;text-align:right">1,538 Werteinheiten</td></tr>
 <tr><td style="vertical-align:top"></td><td style="vertical-align:bottom;text-align:right">1,176 Werteinheiten</td></tr>
 <tr><td style="vertical-align:top"></td><td style="vertical-align:bottom;text-align:right">1,053 Werteinheiten</td></tr>
@@ -7772,7 +7772,7 @@ Der Nationalrat hat beschlossen:
 
 > `(1)` Für Lehrpersonen sind folgende Amtstitel vorgesehen:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="text-align:center">Verwendungs-gruppe(n)</td><td colspan=2 style="text-align:center">Amtstitel</td></tr>
 <tr><td style="vertical-align:top;text-align:center">L 1</td><td colspan=2 style="vertical-align:top;text-align:center">Professorin oder Professor</td></tr>
 <tr><td rowspan=10 style="text-align:center">L 2</td><td colspan=2 style="text-align:center">je nach Verwendung</td></tr>
@@ -7795,7 +7795,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Für Lehrpersonen sind abweichend vom Abs\. 1 folgende Amtstitel vorgesehen:
 
-<table id="Tabelle2"><tbody>
+<table><tbody>
 <tr><td style="text-align:center">für</td><td style="text-align:center">Amtstitel</td></tr>
 <tr><td style="vertical-align:top;text-align:left">Leiterin oder Leiter eines Schulclusters</td><td style="vertical-align:top;text-align:left">Schulcluster-Leiterin oder Schulcluster-Leiter</td></tr>
 <tr><td style="vertical-align:top;text-align:left">die Leiterin oder den Leiter einer Schule, eines Bundeskonvikts, die zur Direktorin ernannte Leiterin oder den zum Direktor ernannten Leiter eines Universitäts-Sportinstituts</td><td style="vertical-align:top;text-align:left">Direktorin oder Direktor</td></tr>
@@ -8163,7 +8163,7 @@ Der Nationalrat hat beschlossen:
 
 > `(1)` Für die Beamtinnen und Beamten des Post\- und Fernmeldewesens sind folgende Amtstitel vorgesehen:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="text-align:center">in der Verwendungsgruppe</td><td style="text-align:center">erforderliches Besoldungsdienstalter</td><td style="text-align:center">Amtstitel</td></tr>
 <tr><td rowspan=3 style="text-align:center">PT 1</td><td style="text-align:center">keines</td><td style="text-align:center">Kommissärin oder Kommissär</td></tr>
 <tr><td style="text-align:center">13 Jahre und sechs Monate</td><td style="text-align:center">Rätin oder Rat</td></tr>
@@ -8197,7 +8197,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Abweichend von Abs\. 1 sind folgende Amtstitel vorgesehen:
 
-<table id="Tabelle2"><tbody>
+<table><tbody>
 <tr><td colspan=2 style="text-align:center">für</td><td style="text-align:center">Amtstitel</td></tr>
 <tr><td colspan=2 style="text-align:left">Leiterin oder Leiter einer Direktion der PTA</td><td style="text-align:center">Präsidentin oder Präsident d. (Bezeichnung der Direktion)</td></tr>
 <tr><td colspan=2>Beamtin oder Beamter der Verwendungsgruppe PT 1 in der Generaldirektion der PTA ab einem Besoldungsdienstalter von 21 Jahren und sechs Monaten</td><td style="text-align:center">Ministerialrätin oder Ministerialrat</td></tr>
@@ -8215,7 +8215,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Beamtinnen und Beamte des Post\- und Fernmeldewesens haben in den nachstehenden Verwendungen anstelle des Amtstitels folgende Verwendungsbezeichnungen zu führen:
 
-<table id="Tabelle3"><tbody>
+<table><tbody>
 <tr><td colspan=2 style="vertical-align:top;text-align:center">bei Verwendung als</td><td style="vertical-align:top;text-align:center">Verwendungsbezeichnung</td></tr>
 <tr><td colspan=2>Leiterin oder Leiter eines Amtes in den Verwendungsgruppen PT 2 (ohne Hochschulbildung) und PT 3</td><td> </td></tr>
 <tr><td> </td><td style="text-align:left">bis zu einem Besoldungsdienstalter von 18 Jahren und sechs Monaten</td><td style="text-align:center">Amtsverwalterin oder Amtsverwalter</td></tr>
@@ -8354,7 +8354,7 @@ Der Nationalrat hat beschlossen:
 
 > `(1)` Für die Beamtinnen und Beamten des Krankenpflegedienstes sind folgende Amtstitel vorgesehen:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top;text-align:center">in der Verwendungsgruppe</td><td style="vertical-align:top;text-align:center">erforderliches Besoldungsdienstalter</td><td style="vertical-align:top;text-align:center">Amtstitel</td></tr>
 <tr><td rowspan=4 style="text-align:center">K 1, K 2</td><td style="vertical-align:top;text-align:left">bis zu einem Besoldungsdienstalter von neun Jahren und sechs Monaten</td><td style="vertical-align:top;text-align:center">Revidentin oder Revident</td></tr>
 <tr><td style="vertical-align:top;text-align:left">ab einem Besoldungsdienstalter von neun Jahren und sechs Monaten</td><td style="vertical-align:top;text-align:center">Oberrevidentin oder Oberrevident</td></tr>
@@ -9064,7 +9064,7 @@ Der Nationalrat hat beschlossen:
 
 > `(1)` Für die Beamtinnen und Beamten der Fernmeldebehörde sind folgende Amtstitel vorgesehen:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="text-align:center">in der Verwendungsgruppe</td><td style="text-align:center">erforderliches Besoldungsdienstalter</td><td style="text-align:center">Amtstitel</td></tr>
 <tr><td rowspan=3 style="text-align:center">PF 1</td><td style="text-align:center">keines</td><td style="text-align:center">Kommissärin oder Kommissär</td></tr>
 <tr><td style="text-align:center">13 Jahre und sechs Monate</td><td style="text-align:center">Rätin oder Rat</td></tr>
@@ -9092,7 +9092,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Abweichend von Abs\. 1 sind folgende Amtstitel vorgesehen:
 
-<table id="Tabelle2"><tbody>
+<table><tbody>
 <tr><td colspan=2 style="vertical-align:top;text-align:center">für</td><td style="vertical-align:top;text-align:center">Amtstitel</td></tr>
 <tr><td colspan=2 style="vertical-align:top">Beamtin oder Beamter der Verwendungsgruppe PF 1 bei der Fernmeldebehörde mit Ausnahme des Fernmeldebüros ab einem Besoldungsdienstalter von 21 Jahren und sechs Monaten</td><td style="vertical-align:top;text-align:center">Ministerialrätin oder Ministerialrat</td></tr>
 <tr><td colspan=2 style="vertical-align:top">Beamtin oder Beamter bei der Fernmeldebehörde in der Zentralstelle oder im Fernmeldebüro in der Abteilung Recht</td><td style="vertical-align:top"> </td></tr>
@@ -9268,7 +9268,7 @@ Der Nationalrat hat beschlossen:
 
 > `(14)` Ist ein Beamter im Zeitpunkt der Überleitung dauernd mit einem Arbeitsplatz einer höheren Verwendungsgruppe betraut, so ist für ihn vorgesehen:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td colspan=2 style="text-align:center">bei einer Zuordnung des Arbeitsplatzes zur</td><td rowspan=2 style="text-align:center">bei Einstufung des Beamten in die Verwendungsgruppe</td><td rowspan=2 style="text-align:center">die Funktionsgruppe</td></tr>
 <tr><td style="vertical-align:top;text-align:center">Verwendungsgruppe</td><td style="vertical-align:top;text-align:center">Funktionsgruppe</td></tr>
 <tr><td rowspan=2 style="vertical-align:top;text-align:center">A 1</td><td style="vertical-align:top;text-align:center">5 bis 9</td><td style="vertical-align:top;text-align:center">A 2</td><td style="vertical-align:top;text-align:center">8</td></tr>
@@ -9297,7 +9297,7 @@ Der Nationalrat hat beschlossen:
 
 > `(1)` Für die Beamten der Allgemeinen Verwaltung sind folgende Amtstitel vorgesehen\.
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top;text-align:center">in der Verwen-</td><td style="vertical-align:top;text-align:center">in der Dienst-</td><td style="vertical-align:top;text-align:center">Gehalts-</td><td style="text-align:center">Amtstitel</td></tr>
 <tr><td style="text-align:center">A</td><td style="vertical-align:top;text-align:center">III,IV</td><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:left">Kommissär</td></tr>
 <tr><td style="text-align:center">B</td><td style="vertical-align:top;text-align:center">III</td><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:left">Revident</td></tr>
@@ -9308,7 +9308,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Abweichend vom Abs\. 1 sind für Beamte der Allgemeinen Verwaltung folgende Amtstitel vorgesehen:
 
-<table id="Tabelle2"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top;text-align:center">für</td><td style="vertical-align:top;text-align:center">Amtstitel</td></tr>
 <tr><td style="vertical-align:top;text-align:left">den Leiter der Präsidentschaftskanzlei</td><td style="vertical-align:top;text-align:left">Kabinettsdirektor</td></tr>
 <tr><td style="vertical-align:top;text-align:left">den Leiter der Parlamentsdirektion</td><td style="vertical-align:top;text-align:left">Parlamentsdirektor</td></tr>
@@ -9328,7 +9328,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Für die Beamten in handwerklicher Verwendung sind folgende Amtstitel vorgesehen:
 
-<table id="Tabelle3"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top;text-align:center">in der Verwen-</td><td style="vertical-align:top;text-align:center">in der</td><td style="text-align:center">Gehaltsstufe</td><td style="text-align:center">Amtstitel</td></tr>
 <tr><td style="text-align:center">P 1,P 2</td><td style="vertical-align:top;text-align:center">III</td><td style="vertical-align:top">1 bis 9</td><td style="vertical-align:top;text-align:left">Offizial</td></tr>
 <tr><td style="text-align:center">P 3</td><td style="vertical-align:top;text-align:center">III</td><td style="vertical-align:top;text-align:center">1 bis 9</td><td style="vertical-align:top;text-align:left">Offizial</td></tr>
@@ -9343,7 +9343,7 @@ Der Nationalrat hat beschlossen:
 
 > `(1)` Für die Beamten der Allgemeinen Verwaltung sind folgende Verwendungsbezeichnungen vorgesehen:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top;text-align:center">bei Verwendung als</td><td style="vertical-align:top;text-align:center">Verwendungsbezeichnung</td></tr>
 <tr><td style="vertical-align:top;text-align:left">Stellvertreter des Leiters der</td><td style="vertical-align:top;text-align:left">Kabinettsvizedirektor</td></tr>
 <tr><td style="vertical-align:top;text-align:left">Stellvertreter des Leiters der</td><td style="vertical-align:top;text-align:left">Parlamentsvizedirektor</td></tr>
@@ -9468,7 +9468,7 @@ Der Nationalrat hat beschlossen:
 
 > `(10)` Ist ein Beamter des Exekutivdienstes im Zeitpunkt der Überleitung dauernd mit einem Arbeitsplatz einer höheren Verwendungsgruppe betraut, so ist für ihn vorgesehen:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td colspan=2 style="text-align:center">bei einer Zuordnung des</td><td rowspan=2 style="text-align:center">bei Einstufung des Beamten des Exekutivdienstes in die Verwendungsgruppe</td><td rowspan=2 style="text-align:center">die Funktionsgruppe</td></tr>
 <tr><td style="vertical-align:top;text-align:center">Verwendungs-</td><td style="vertical-align:top;text-align:center">Funktions-</td></tr>
 <tr><td style="vertical-align:top;text-align:center">E 1</td><td style="vertical-align:top;text-align:center">3 bis 11</td><td style="vertical-align:top;text-align:center">E 2a</td><td style="vertical-align:top;text-align:center">7</td></tr>
@@ -9580,7 +9580,7 @@ Der Nationalrat hat beschlossen:
 
 > `(11)` Ist eine Militärperson im Zeitpunkt der Überleitung dauernd mit einem Arbeitsplatz einer höheren Verwendungsgruppe betraut, so ist für sie vorgesehen:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td colspan=2 style="text-align:center">bei einer Zuordnung des</td><td rowspan=2 style="text-align:center">bei Einstufung der Militärperson in die Verwendungsgruppe</td><td rowspan=2 style="text-align:center">die Funktionsgruppe</td></tr>
 <tr><td style="vertical-align:top;text-align:center">Verwendungs-</td><td style="vertical-align:top;text-align:center">Funktions-</td></tr>
 <tr><td rowspan=2 style="vertical-align:top;text-align:center">M BO 1</td><td style="vertical-align:top;text-align:center">5 bis 9</td><td style="vertical-align:top;text-align:center">M BO 2</td><td style="vertical-align:top;text-align:center">9</td></tr>

@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** UrhG  
 **Langtitel:** Bundesgesetz über das Urheberrecht an Werken der Literatur und der Kunst und über verwandte Schutzrechte (Urheberrechtsgesetz).  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848  
 **Letzte Änderung im RIS:** BGBl. I Nr. 182/2023 (NR: GP XXVII RV 2309 AB 2344 S. 247. BR: 11366 AB 11400 S. 961.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.md  
@@ -499,7 +499,7 @@
 
 > `(1)` § 16 Abs\. 3 gilt für die Weiterveräußerung des Originals eines Werkes der bildenden Künste nach der ersten Veräußerung durch den Urheber mit der Maßgabe, dass der Urheber gegen den Veräußerer einen Anspruch auf eine Vergütung in der Höhe des folgenden Anteils am Verkaufspreis ohne Steuern \(Folgerechtsvergütung\) hat:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top;text-align:right">4%</td><td style="vertical-align:top;text-align:left">von den ersten</td><td style="vertical-align:top;text-align:right">50.000 EUR,</td></tr>
 <tr><td style="vertical-align:top;text-align:right">3%</td><td style="vertical-align:top;text-align:left">von den weiteren</td><td style="vertical-align:top;text-align:right">150.000 EUR,</td></tr>
 <tr><td style="vertical-align:top;text-align:right">1%</td><td style="vertical-align:top;text-align:left">von den weiteren</td><td style="vertical-align:top;text-align:right">150.000 EUR,</td></tr>

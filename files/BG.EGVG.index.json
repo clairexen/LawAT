@@ -1,0 +1,21 @@
+{
+  "toc": [
+    "Artikel I",
+    ["Art. 1 EGVG", "BG.EGVG:31-61", "BG.EGVG.001:16-49", "Art. 1 EGVG"],
+    "Artikel II",
+    ["Art. 2 EGVG", "BG.EGVG:67-75", "BG.EGVG.001:51-62", "Art. 2 EGVG"],
+    "Artikel III",
+    ["Art. 3 EGVG", "BG.EGVG:81-107", "BG.EGVG.001:64-95", "Art. 3 EGVG"],
+    "Artikel IV",
+    ["Art. 4 EGVG", "BG.EGVG:113-117", "BG.EGVG.001:97-102", "Art. 4 EGVG"],
+    "Artikel V",
+    ["Art. 5 EGVG", "BG.EGVG:123-155", "BG.EGVG.001:104-145", "Art. 5 EGVG"]
+  ],
+  "index": {
+    "Art. 1 EGVG": 1,
+    "Art. 2 EGVG": 3,
+    "Art. 3 EGVG": 5,
+    "Art. 4 EGVG": 7,
+    "Art. 5 EGVG": 9
+  }
+}

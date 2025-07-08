@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** GmbHG  
 **Langtitel:** Gesetz vom 6. März 1906, über Gesellschaften mit beschränkter Haftung (GmbH-Gesetz – GmbHG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 07.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720  
 **Letzte Änderung im RIS:** BGBl. I Nr. 179/2023 (NR: GP XXVII RV 2320 AB 2342 S. 247. BR: AB 11397 S. 961.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md  

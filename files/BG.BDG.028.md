@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** BDG  
 **Langtitel:** Bundesgesetz vom 27. Juni 1979 über das Dienstrecht der Beamten (Beamten-Dienstrechtsgesetz 1979 – BDG 1979)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008470  
 **Letzte Änderung im RIS:** BGBl. I Nr. 25/2025 (NR: GP XXVIII RV 69 und Zu 69 AB 100 S. 30. BR: 11643 AB 11645 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.BDG.028.md  
@@ -134,7 +134,7 @@ Bei Beamten, die ein sondervertragliches Dienstverhältnis zum Bund eingegangen 
 `§ 254 (14) BDG.`  
 Ist ein Beamter im Zeitpunkt der Überleitung dauernd mit einem Arbeitsplatz einer höheren Verwendungsgruppe betraut, so ist für ihn vorgesehen:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td colspan=2 style="text-align:center">bei einer Zuordnung des Arbeitsplatzes zur</td><td rowspan=2 style="text-align:center">bei Einstufung des Beamten in die Verwendungsgruppe</td><td rowspan=2 style="text-align:center">die Funktionsgruppe</td></tr>
 <tr><td style="vertical-align:top;text-align:center">Verwendungsgruppe</td><td style="vertical-align:top;text-align:center">Funktionsgruppe</td></tr>
 <tr><td rowspan=2 style="vertical-align:top;text-align:center">A 1</td><td style="vertical-align:top;text-align:center">5 bis 9</td><td style="vertical-align:top;text-align:center">A 2</td><td style="vertical-align:top;text-align:center">8</td></tr>
@@ -162,7 +162,7 @@ Beamte, die im Rechnungshof dauernd mit einem Arbeitsplatz der Funktionsgruppe 4
 `§ 255 (1) BDG.`  
 Für die Beamten der Allgemeinen Verwaltung sind folgende Amtstitel vorgesehen.
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top;text-align:center">in der Verwen-</td><td style="vertical-align:top;text-align:center">in der Dienst-</td><td style="vertical-align:top;text-align:center">Gehalts-</td><td style="text-align:center">Amtstitel</td></tr>
 <tr><td style="text-align:center">A</td><td style="vertical-align:top;text-align:center">III,IV</td><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:left">Kommissär</td></tr>
 <tr><td style="text-align:center">B</td><td style="vertical-align:top;text-align:center">III</td><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:left">Revident</td></tr>
@@ -174,7 +174,7 @@ Für die Beamten der Allgemeinen Verwaltung sind folgende Amtstitel vorgesehen.
 `§ 255 (2) BDG.`  
 Abweichend vom Abs. 1 sind für Beamte der Allgemeinen Verwaltung folgende Amtstitel vorgesehen:
 
-<table id="Tabelle2"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top;text-align:center">für</td><td style="vertical-align:top;text-align:center">Amtstitel</td></tr>
 <tr><td style="vertical-align:top;text-align:left">den Leiter der Präsidentschaftskanzlei</td><td style="vertical-align:top;text-align:left">Kabinettsdirektor</td></tr>
 <tr><td style="vertical-align:top;text-align:left">den Leiter der Parlamentsdirektion</td><td style="vertical-align:top;text-align:left">Parlamentsdirektor</td></tr>
@@ -195,7 +195,7 @@ Abweichend vom Abs. 1 sind für Beamte der Allgemeinen Verwaltung folgende Amts
 `§ 255 (3) BDG.`  
 Für die Beamten in handwerklicher Verwendung sind folgende Amtstitel vorgesehen:
 
-<table id="Tabelle3"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top;text-align:center">in der Verwen-</td><td style="vertical-align:top;text-align:center">in der</td><td style="text-align:center">Gehaltsstufe</td><td style="text-align:center">Amtstitel</td></tr>
 <tr><td style="text-align:center">P 1,P 2</td><td style="vertical-align:top;text-align:center">III</td><td style="vertical-align:top">1 bis 9</td><td style="vertical-align:top;text-align:left">Offizial</td></tr>
 <tr><td style="text-align:center">P 3</td><td style="vertical-align:top;text-align:center">III</td><td style="vertical-align:top;text-align:center">1 bis 9</td><td style="vertical-align:top;text-align:left">Offizial</td></tr>
@@ -207,7 +207,7 @@ Für die Beamten in handwerklicher Verwendung sind folgende Amtstitel vorgesehen
 `§ 256 (1) BDG.`  
 Für die Beamten der Allgemeinen Verwaltung sind folgende Verwendungsbezeichnungen vorgesehen:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top;text-align:center">bei Verwendung als</td><td style="vertical-align:top;text-align:center">Verwendungsbezeichnung</td></tr>
 <tr><td style="vertical-align:top;text-align:left">Stellvertreter des Leiters der</td><td style="vertical-align:top;text-align:left">Kabinettsvizedirektor</td></tr>
 <tr><td style="vertical-align:top;text-align:left">Stellvertreter des Leiters der</td><td style="vertical-align:top;text-align:left">Parlamentsvizedirektor</td></tr>

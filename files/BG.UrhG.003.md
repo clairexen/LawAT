@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** UrhG  
 **Langtitel:** Bundesgesetz über das Urheberrecht an Werken der Literatur und der Kunst und über verwandte Schutzrechte (Urheberrechtsgesetz).  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848  
 **Letzte Änderung im RIS:** BGBl. I Nr. 182/2023 (NR: GP XXVII RV 2309 AB 2344 S. 247. BR: 11366 AB 11400 S. 961.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.003.md  

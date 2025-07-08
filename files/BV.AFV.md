@@ -2,7 +2,7 @@
 **Typ:** Verordnung eines Bundesministeriums  
 **Kurztitel:** AFV  
 **Langtitel:** Verordnung des Bundesministers für Wissenschaft und Verkehr zur Durchführung des Amateurfunkgesetzes (Amateurfunkverordnung – AFV)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012930  
 **Letzte Änderung im RIS:** BGBl. II Nr. 61/2023  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BV.AFV.md  
@@ -158,7 +158,7 @@ Auf Grund des Amateurfunkgesetzes, BGBl. I Nr. 25/1999, wird verordnet:Auf Gru
 
 > `(2)` Die Ziffern sind den Bundesländern wie folgt zugeordnet:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:left">1 – Wien</td><td style="vertical-align:top;text-align:left">6 – Steiermark</td></tr>
 <tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:left">2 – Salzburg</td><td style="vertical-align:top;text-align:left">7 – Tirol</td></tr>
 <tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:left">3 – Niederösterreich</td><td style="vertical-align:top;text-align:left">8 – Kärnten</td></tr>
@@ -218,7 +218,7 @@ Auf Grund des Amateurfunkgesetzes, BGBl. I Nr. 25/1999, wird verordnet:Auf Gru
 
 > `(1)` Für den Amateurfunkdienst werden folgende Leistungsstufen festgesetzt:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:left">Leistungsstufe A</td><td style="vertical-align:top;text-align:left">maximal</td><td style="vertical-align:top;text-align:right">100 Watt</td><td style="vertical-align:top;text-align:left">(Spitzenleistung)</td></tr>
 <tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:left">Leistungsstufe B</td><td style="vertical-align:top;text-align:left">maximal</td><td style="vertical-align:top;text-align:right">200 Watt</td><td style="vertical-align:top;text-align:left">(Spitzenleistung)</td></tr>
 <tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:left">Leistungsstufe C</td><td style="vertical-align:top;text-align:left">maximal</td><td style="vertical-align:top;text-align:right">400 Watt</td><td style="vertical-align:top;text-align:left">(Spitzenleistung)</td></tr>
@@ -242,7 +242,7 @@ Auf Grund des Amateurfunkgesetzes, BGBl. I Nr. 25/1999, wird verordnet:Auf Gru
 
 > `(2)` Im Amateurfunkdienst darf die belegte Bandbreite folgende Werte nicht überschreiten:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td colspan=3 style="vertical-align:top;text-align:center">Frequenzbereich</td><td colspan=2 style="vertical-align:top;text-align:center">Belegte Bandbreite</td><td style="vertical-align:top;text-align:center">Belegte Bandbreite für Fernsehen und digitale Übertragungstechniken unterschiedlicher Inhalte</td></tr>
 <tr><td colspan=3 style="vertical-align:top"> </td><td colspan=2 style="vertical-align:top"> </td><td style="vertical-align:top"> </td></tr>
 <tr><td style="vertical-align:top;text-align:center">Bis</td><td colspan=2 style="vertical-align:top;text-align:right">1,5 MHz</td><td colspan=2 style="vertical-align:top;text-align:center">Gemäß Absatz 3</td><td style="vertical-align:top;text-align:left">Nicht anwendbar (Fernsehen nicht zulässig)</td></tr>
@@ -266,7 +266,7 @@ Auf Grund des Amateurfunkgesetzes, BGBl. I Nr. 25/1999, wird verordnet:Auf Gru
 
 > `(1)` In Anlage 2 ist der Status des Amateurfunkdienstes mit Pex, P und S ausgewiesen; diese Bezeichnungen bedeuten:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top;text-align:left">1. Pex</td><td style="vertical-align:top;text-align:left">=</td><td style="vertical-align:top;text-align:left">primärer Funkdienst (exklusiver Bereich für den Amateurfunkdienst)</td></tr>
 <tr><td style="vertical-align:top;text-align:left">2. P</td><td style="vertical-align:top;text-align:left">=</td><td style="vertical-align:top;text-align:left">primärer Funkdienst (Bereich wird von anderen Funkdiensten mit gleichen oder geringeren Rechten mitbenutzt)</td></tr>
 <tr><td style="vertical-align:top;text-align:left">3. S</td><td style="vertical-align:top;text-align:left">=</td><td style="vertical-align:top;text-align:left">sekundärer Funkdienst</td></tr>
@@ -347,7 +347,7 @@ Auf Grund des Amateurfunkgesetzes, BGBl. I Nr. 25/1999, wird verordnet:Auf Gru
 
 > `(2)` Für unerwünschte Aussendungen gelten nachstehende Grenzwerte:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="text-align:center">Frequenzbereich</td><td>Erforderliche Dämpfung unerwünschter Aussendungen gegenüber der Maximalen PEP des Senders 1)</td><td>Alternative maximale Leistung unerwünschter Aussendungen eines Senders 1)</td></tr>
 <tr><td>1</td><td>2</td><td>3</td></tr>
 <tr><td>0,15 MHz – 1,7 MHz</td><td>60 dB</td><td rowspan=4 style="text-align:center">0,25 μW (-36 dBm)</td></tr>
@@ -422,7 +422,7 @@ Auf Grund des Amateurfunkgesetzes, BGBl. I Nr. 25/1999, wird verordnet:Auf Gru
 
 > `(1)` Katastrophenfunkverkehr darf auf folgenden Frequenzen aus den dem Amateurfunkdienst zugewiesenen Frequenzbereichen durchgeführt werden:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:right">3,5 MHz</td><td style="vertical-align:top;text-align:right">7,0 MHz</td><td style="vertical-align:top;text-align:right">10,1 MHz</td><td style="vertical-align:top;text-align:right">14,0 MHz</td></tr>
 <tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:right">18,068 MHz</td><td style="vertical-align:top;text-align:right">21,0 MHz</td><td style="vertical-align:top;text-align:right">24,89 MHz</td><td style="vertical-align:top;text-align:right">144,0 MHz</td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td></tr>
@@ -692,7 +692,7 @@ Auf Grund des Amateurfunkgesetzes, BGBl. I Nr. 25/1999, wird verordnet:Auf Gru
 
 > Die maximal zulässige äquivalente Strahlungsleistung beträgt:
 >
-> <table id="Tabelle1"><tbody>
+> <table><tbody>
 > <tr><td colspan=3 style="vertical-align:top;text-align:center">im Frequenzbereich</td><td style="vertical-align:top;text-align:right">ERP</td><td style="vertical-align:top"> </td></tr>
 > <tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:right">3 – 30</td><td style="vertical-align:top;text-align:left">MHz</td><td style="vertical-align:top;text-align:right">100</td><td style="vertical-align:top;text-align:left">Watt</td></tr>
 > <tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:right">50 – 52</td><td style="vertical-align:top;text-align:left">MHz</td><td style="vertical-align:top;text-align:right">10</td><td style="vertical-align:top;text-align:left">Watt</td></tr>
@@ -790,7 +790,7 @@ Auf Grund des Amateurfunkgesetzes, BGBl. I Nr. 25/1999, wird verordnet:Auf Gru
 
 > Die maximal zulässige äquivalente Strahlungsleistung beträgt:
 >
-> <table id="Tabelle1"><tbody>
+> <table><tbody>
 > <tr><td colspan=2 style="vertical-align:top;text-align:center">im Frequenzbereich</td><td style="vertical-align:top;text-align:right">ERP</td><td style="vertical-align:top"> </td></tr>
 > <tr><td style="vertical-align:top;text-align:right">3 – 30</td><td style="vertical-align:top;text-align:left">MHz</td><td style="vertical-align:top;text-align:right">100</td><td style="vertical-align:top;text-align:left">Watt</td></tr>
 > <tr><td style="vertical-align:top;text-align:right">50 – 52</td><td style="vertical-align:top;text-align:left">MHz</td><td style="vertical-align:top;text-align:right">10</td><td style="vertical-align:top;text-align:left">Watt</td></tr>

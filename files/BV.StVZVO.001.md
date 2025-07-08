@@ -2,7 +2,7 @@
 **Typ:** Verordnung eines Bundesministeriums  
 **Kurztitel:** StVZVO  
 **Langtitel:** Verordnung des Bundesministers für Wissenschaft und Verkehr über Straßenverkehrszeichen (Straßenverkehrszeichenverordnung 1998 – StVZVO 1998)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 07.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793  
 **Letzte Änderung im RIS:** BGBl. II Nr. 292/2013  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.001.md  
@@ -63,7 +63,7 @@ Für Straßenverkehrszeichen gemäß § 50 Z 6a bis d, 11, 11a und 12, § 52 
 `§ 5 (1) StVZVO.`  
 Als beleuchtete Straßenverkehrszeichen gelten angeleuchtete (außen beleuchtete) oder innen beleuchtete Verkehrszeichen. Die mittlere Leuchtdichte von beleuchteten oder als optische oder elektronische Anzeigevorrichtungen ausgeführten Straßenverkehrszeichen hat mindestens den in der Tabelle angeführten Werten zu entsprechen.
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="text-align:left">Farbe</td><td style="text-align:center">mittlere Leuchtdichte L m in cd/m2</td></tr>
 <tr><td style="vertical-align:top;text-align:left">Rot</td><td style="vertical-align:top;text-align:center">20</td></tr>
 <tr><td style="vertical-align:top;text-align:left">Gelb</td><td style="vertical-align:top;text-align:center">150</td></tr>

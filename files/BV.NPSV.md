@@ -1,8 +1,8 @@
-# BV.NPSV — Neue-Psychoaktive-Substanzen-Verordnung (NPSV)
+# BV.NPSV — BMSGPK: Neue-Psychoaktive-Substanzen-Verordnung (NPSV)
 **Typ:** Verordnung eines Bundesministeriums  
 **Kurztitel:** NPSV  
 **Langtitel:** Verordnung des Bundesministers für Gesundheit über Neue Psychoaktive Substanzen (Neue-Psychoaktive-Substanzen-Verordnung - NPSV)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 07.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007642  
 **Letzte Änderung im RIS:** BGBl. II Nr. 106/2024  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BV.NPSV.md  
@@ -62,7 +62,7 @@ Auf Grund des § 3 des Neue-Psychoaktive-Substanzen-Gesetzes (NPSG), BGBl. I N
 
 ### Anl. 1 NPSV
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top;text-align:left">Bezeichnung (Trivialnamen)</td><td style="vertical-align:top;text-align:left">IUPAC (Chemische Namen)</td></tr>
 <tr><td style="vertical-align:top;text-align:left">Butyro-1,4-lacton</td><td style="vertical-align:top;text-align:left">Oxolan-2-on</td></tr>
 <tr><td style="vertical-align:top;text-align:left">1,4 Butandiol</td><td style="vertical-align:top;text-align:left">Butan-1,4-diol</td></tr>

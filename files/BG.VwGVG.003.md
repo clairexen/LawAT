@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** VwGVG  
 **Langtitel:** Bundesgesetz über das Verfahren der Verwaltungsgerichte (Verwaltungsgerichtsverfahrensgesetz – VwGVG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008255  
 **Letzte Änderung im RIS:** BGBl. I Nr. 147/2024 (VfGH)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.VwGVG.003.md  

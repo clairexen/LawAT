@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** StVG  
 **Langtitel:** Bundesgesetz vom 26. März 1969 über den Vollzug der Freiheitsstrafen und der mit Freiheitsentziehung verbundenen vorbeugenden Maßnahmen (Strafvollzugsgesetz – StVG.)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002135  
 **Letzte Änderung im RIS:** [CELEX-Nr.: 32012L0029]  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.StVG.011.md  

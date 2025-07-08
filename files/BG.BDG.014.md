@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** BDG  
 **Langtitel:** Bundesgesetz vom 27. Juni 1979 über das Dienstrecht der Beamten (Beamten-Dienstrechtsgesetz 1979 – BDG 1979)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008470  
 **Letzte Änderung im RIS:** BGBl. I Nr. 25/2025 (NR: GP XXVIII RV 69 und Zu 69 AB 100 S. 30. BR: 11643 AB 11645 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.BDG.014.md  
@@ -22,7 +22,7 @@ Der Allgemeine Verwaltungsdienst umfaßt die Verwendungsgruppen A 1 bis A 7.
 `§ 136 (2) BDG.`  
 In den Verwendungsgruppen A 1 bis A 5 sind neben der Grundlaufbahn folgende Funktionsgruppen für hervorgehobene Verwendungen vorgesehen:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="text-align:center">in der Verwendungsgruppe</td><td style="text-align:center">die Funktionsgruppen</td></tr>
 <tr><td style="text-align:center">A 1</td><td style="text-align:center">1 bis 9</td></tr>
 <tr><td style="text-align:center">A 2</td><td style="text-align:center">1 bis 8</td></tr>
@@ -240,7 +240,7 @@ Grundausbildungen für die Verwendungsgruppen A, B, C, D oder P 3 sind einer Gru
 `§ 140 (1) BDG.`  
 Für den Allgemeinen Verwaltungsdienst sind folgende Amtstitel vorgesehen:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="text-align:center">in der Verwendungs-gruppe</td><td style="text-align:center">in der Funktions-gruppe</td><td style="text-align:center">erforderliches Besoldungs-dienstalter</td><td style="text-align:center">Amtstitel</td></tr>
 <tr><td rowspan=6 style="text-align:center">A 1, wenn das Ernennungs-erfordernis der Hochschul-bildung nach Z 1.12 der Anlage 1 erfüllt wird</td><td style="text-align:center">GL, 1 bis 6</td><td style="text-align:center">keines</td><td style="text-align:right">Kommissärin oder Kommissär</td></tr>
 <tr><td style="text-align:center">GL, 1 bis 6</td><td style="text-align:center">10 Jahre</td><td style="text-align:right">Rätin oder Rat</td></tr>
@@ -282,7 +282,7 @@ An die Stelle der Amtstitel „Hofrätin“ oder „Hofrat“ treten in der Parl
 `§ 140 (3) BDG.`  
 Abweichend von den Abs. 1 und 2 sind für Beamte des Allgemeinen Verwaltungsdienstes folgende Verwendungsbezeichnungen vorgesehen:
 
-<table id="Tabelle2"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top">für den Leiter der Präsidentschaftskanzlei</td><td style="vertical-align:top">Kabinettsdirektor</td></tr>
 <tr><td style="vertical-align:top">für den Sonderberater des Bundespräsidenten in internationalen Angelegenheiten, den Leiter des Internationalen Dienstes der Parlamentsdirektion, den außenpolitischen Berater des Bundeskanzlers und den außenpolitischen Berater des Vizekanzlers (abweichend vom allenfalls anwendbaren Abs. 4)</td><td style="vertical-align:top">Botschafter</td></tr>
 <tr><td style="vertical-align:top">für den Stellvertreter des Kabinettsdirektors</td><td style="vertical-align:top">Kabinettsvizedirektor</td></tr>

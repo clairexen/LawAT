@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** GewO  
 **Langtitel:** Gewerbeordnung 1994 – GewO 1994  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 07.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517  
 **Letzte Änderung im RIS:** BGBl. I Nr. 150/2024 (NR: GP XXVIII IA 3/A AB 7 S. 3. BR: AB 11609 S. 972.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.024.md  
@@ -38,7 +38,7 @@ Nicht zu den im Folgenden genannten Anlagen oder Anlagenteilen zählen solche An
 `Anl. 3 Z 2 GewO.`
 Die im Folgenden genannten Schwellenwerte beziehen sich allgemein auf die Produktionskapazitäten oder Leistungen. Werden mehrere Tätigkeiten derselben Kategorie in ein- und derselben Betriebsanlage durchgeführt, so sind die Kapazitäten dieser Tätigkeiten zusammenzurechnen. Bei Abfallbehandlungstätigkeiten erfolgt diese Berechnung dann, wenn diese auf der Ebene der Tätigkeiten nach den Ziffern 5.1, 5.3a und 5.3b durchgeführt werden.
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top"> </td><td style="vertical-align:top;text-align:center">Anlagenart</td><td style="vertical-align:top;text-align:center">Schwellenwerte</td></tr>
 <tr><td style="vertical-align:top;text-align:center">1.</td><td></td><td style="vertical-align:top"> </td></tr>
 <tr><td style="vertical-align:top;text-align:center">1.1</td><td style="vertical-align:top">Anlagen zur Verbrennung von Brennstoffen mit einer Brennstoffwärmeleistung von mindestens</td><td style="vertical-align:bottom;text-align:center">50 MW</td></tr>

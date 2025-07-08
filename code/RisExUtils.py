@@ -15,7 +15,7 @@ from pathlib import Path
 # Global flags and command line options
 #######################################
 
-normindex = json.load(open("normlist.json"))
+normindex = {k: v for k, v in json.load(open("normlist.json")).items() if len(k) > 1}
 
 GlobalFlagDefaults = {
     "esc": False,

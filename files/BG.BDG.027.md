@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** BDG  
 **Langtitel:** Bundesgesetz vom 27. Juni 1979 über das Dienstrecht der Beamten (Beamten-Dienstrechtsgesetz 1979 – BDG 1979)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008470  
 **Letzte Änderung im RIS:** BGBl. I Nr. 25/2025 (NR: GP XXVIII RV 69 und Zu 69 AB 100 S. 30. BR: 11643 AB 11645 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.BDG.027.md  
@@ -221,7 +221,7 @@ Die Bundesministerin oder der Bundesminister für Landwirtschaft, Regionen und T
 `§ 249c (1) BDG.`  
 Für die Beamtinnen und Beamten der Fernmeldebehörde sind folgende Amtstitel vorgesehen:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="text-align:center">in der Verwendungsgruppe</td><td style="text-align:center">erforderliches Besoldungsdienstalter</td><td style="text-align:center">Amtstitel</td></tr>
 <tr><td rowspan=3 style="text-align:center">PF 1</td><td style="text-align:center">keines</td><td style="text-align:center">Kommissärin oder Kommissär</td></tr>
 <tr><td style="text-align:center">13 Jahre und sechs Monate</td><td style="text-align:center">Rätin oder Rat</td></tr>
@@ -250,7 +250,7 @@ Für die Beamtinnen und Beamten der Fernmeldebehörde sind folgende Amtstitel vo
 `§ 249c (2) BDG.`  
 Abweichend von Abs. 1 sind folgende Amtstitel vorgesehen:
 
-<table id="Tabelle2"><tbody>
+<table><tbody>
 <tr><td colspan=2 style="vertical-align:top;text-align:center">für</td><td style="vertical-align:top;text-align:center">Amtstitel</td></tr>
 <tr><td colspan=2 style="vertical-align:top">Beamtin oder Beamter der Verwendungsgruppe PF 1 bei der Fernmeldebehörde mit Ausnahme des Fernmeldebüros ab einem Besoldungsdienstalter von 21 Jahren und sechs Monaten</td><td style="vertical-align:top;text-align:center">Ministerialrätin oder Ministerialrat</td></tr>
 <tr><td colspan=2 style="vertical-align:top">Beamtin oder Beamter bei der Fernmeldebehörde in der Zentralstelle oder im Fernmeldebüro in der Abteilung Recht</td><td style="vertical-align:top"> </td></tr>

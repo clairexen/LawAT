@@ -2,7 +2,7 @@
 **Typ:** Bundesverfassungsgesetz  
 **Kurztitel:** StGG  
 **Langtitel:** Staatsgrundgesetz vom 21. December 1867, über die allgemeinen Rechte der Staatsbürger für die im Reichsrathe vertretenen Königreiche und Länder.  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000006  
 **Letzte Änderung im RIS:** BGBl. Nr. 684/1988 (NR: GP XVII RV 134 AB 667 S. 81. BR: AB 3596 S. 509.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BVG.StGG.md  

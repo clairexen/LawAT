@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** ZustG  
 **Langtitel:** Bundesgesetz über die Zustellung behördlicher Dokumente (Zustellgesetz – ZustG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 07.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522  
 **Letzte Änderung im RIS:** [CELEX-Nr.: 32019L1152, 32019L1158]  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.003.md  

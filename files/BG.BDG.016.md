@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** BDG  
 **Langtitel:** Bundesgesetz vom 27. Juni 1979 über das Dienstrecht der Beamten (Beamten-Dienstrechtsgesetz 1979 – BDG 1979)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008470  
 **Letzte Änderung im RIS:** BGBl. I Nr. 25/2025 (NR: GP XXVIII RV 69 und Zu 69 AB 100 S. 30. BR: 11643 AB 11645 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.BDG.016.md  
@@ -28,7 +28,7 @@ M ZO 2, M ZO 3, M ZUO und M ZCh.
 `§ 146 (2) BDG.`  
 In den Verwendungsgruppen M BO 1 bis M BUO und M ZO 1 bis M ZUO sind neben der Grundlaufbahn folgende Funktionsgruppen für hervorgehobene Verwendungen vorgesehen:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top;text-align:left">In der Verwendungsgruppe</td><td style="vertical-align:top;text-align:left">die Funktionsgruppen</td></tr>
 <tr><td style="vertical-align:top;text-align:left">M BO 1</td><td style="vertical-align:top;text-align:left">1 bis 9</td></tr>
 <tr><td style="vertical-align:top;text-align:left">M ZO 1</td><td style="vertical-align:top;text-align:left">1 bis 7</td></tr>

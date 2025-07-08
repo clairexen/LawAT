@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** BDG  
 **Langtitel:** Bundesgesetz vom 27. Juni 1979 über das Dienstrecht der Beamten (Beamten-Dienstrechtsgesetz 1979 – BDG 1979)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008470  
 **Letzte Änderung im RIS:** BGBl. I Nr. 25/2025 (NR: GP XXVIII RV 69 und Zu 69 AB 100 S. 30. BR: 11643 AB 11645 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.BDG.023.md  
@@ -19,7 +19,7 @@
 `§ 217 (1) BDG.`  
 Für Lehrpersonen sind folgende Amtstitel vorgesehen:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="text-align:center">Verwendungs-gruppe(n)</td><td colspan=2 style="text-align:center">Amtstitel</td></tr>
 <tr><td style="vertical-align:top;text-align:center">L 1</td><td colspan=2 style="vertical-align:top;text-align:center">Professorin oder Professor</td></tr>
 <tr><td rowspan=10 style="text-align:center">L 2</td><td colspan=2 style="text-align:center">je nach Verwendung</td></tr>
@@ -43,7 +43,7 @@ Für Lehrpersonen sind folgende Amtstitel vorgesehen:
 `§ 217 (2) BDG.`  
 Für Lehrpersonen sind abweichend vom Abs. 1 folgende Amtstitel vorgesehen:
 
-<table id="Tabelle2"><tbody>
+<table><tbody>
 <tr><td style="text-align:center">für</td><td style="text-align:center">Amtstitel</td></tr>
 <tr><td style="vertical-align:top;text-align:left">Leiterin oder Leiter eines Schulclusters</td><td style="vertical-align:top;text-align:left">Schulcluster-Leiterin oder Schulcluster-Leiter</td></tr>
 <tr><td style="vertical-align:top;text-align:left">die Leiterin oder den Leiter einer Schule, eines Bundeskonvikts, die zur Direktorin ernannte Leiterin oder den zum Direktor ernannten Leiter eines Universitäts-Sportinstituts</td><td style="vertical-align:top;text-align:left">Direktorin oder Direktor</td></tr>

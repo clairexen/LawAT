@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** NPSG  
 **Langtitel:** Bundesgesetz über den Schutz vor Gesundheitsgefahren im Zusammenhang mit Neuen Psychoaktiven Substanzen (Neue-Psychoaktive-Substanzen-Gesetz, NPSG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20007605  
 **Letzte Änderung im RIS:** [CELEX-Nr.: 32017L2399, 32017L1572]  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.NPSG.md  

@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** BDG  
 **Langtitel:** Bundesgesetz vom 27. Juni 1979 über das Dienstrecht der Beamten (Beamten-Dienstrechtsgesetz 1979 – BDG 1979)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 06.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008470  
 **Letzte Änderung im RIS:** BGBl. I Nr. 25/2025 (NR: GP XXVIII RV 69 und Zu 69 AB 100 S. 30. BR: 11643 AB 11645 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.BDG.019.md  
@@ -189,7 +189,7 @@ Bei Bedarf kann zu einem späteren Zeitpunkt auf Antrag des Leiters der Universi
 `§ 194 (1) BDG.`  
 Ist ein Lehrer an einer Universität ausschließlich für die im § 192 Abs. 1 angeführten Tätigkeiten bestellt, so ist er in den einzelnen Gruppen von Fächern zur Abhaltung von Unterricht in der nachstehend angeführten Anzahl von Semesterstunden (§ 155 Abs. 10) verpflichtet:
 
-<table id="Tabelle1"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top"> </td><td style="vertical-align:bottom;text-align:right">Semester-stunden</td></tr>
 <tr><td style="vertical-align:top"></td><td style="vertical-align:bottom"> </td></tr>
 <tr><td style="vertical-align:top"></td><td style="vertical-align:bottom;text-align:right">13</td></tr>
@@ -208,7 +208,7 @@ Ist ein Lehrer an einer Universität ausschließlich für die im § 192 Abs. 1
 `§ 194 (2) BDG.`  
 Das Ausmaß dieser Lehrverpflichtung ist unter Verwendung von Werteinheiten auf eine Lehrverpflichtung von 20 Semesterstunden umzurechnen. Hiebei entspricht
 
-<table id="Tabelle2"><tbody>
+<table><tbody>
 <tr><td style="vertical-align:top"></td><td style="vertical-align:bottom;text-align:right">1,538 Werteinheiten</td></tr>
 <tr><td style="vertical-align:top"></td><td style="vertical-align:bottom;text-align:right">1,176 Werteinheiten</td></tr>
 <tr><td style="vertical-align:top"></td><td style="vertical-align:bottom;text-align:right">1,053 Werteinheiten</td></tr>
