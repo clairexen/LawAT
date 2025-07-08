@@ -662,6 +662,8 @@ Bis zum Eintritt der Rechtskraft des Löschungsbescheides darf das Gewerbe ausge
 `§ 364 GewO.`  
 Gewerbescheine und sonstige Ausweispapiere, die nach den gewerberechtlichen Vorschriften ausgefertigt worden sind, aber den Tatsachen nicht mehr entsprechen oder ungültig geworden sind, sind der Behörde zurückzustellen. Auf Verlangen hat jedoch die Behörde diese Ausweispapiere, versehen mit einem deutlich ersichtlichen Ungültigkeitsvermerk, zurückzugeben.
 
+*(Beachte: zum Inkrafttreten vgl. § 382 Abs. 105)*
+
 ### § 365 GewO # o) Gewerbeinformationssystem Austria – GISA
 
 `§ 365 (1) GewO.`  

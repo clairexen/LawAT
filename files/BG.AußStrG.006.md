@@ -298,20 +298,4 @@ Auf Anträge, mit denen die Anerkennung oder Nichtanerkennung gerichtlicher Ents
 `§ 116 AußStrG.`  
 Die §§ 112 bis 115 sind nicht anzuwenden, soweit nach Völkerrecht oder in Rechtsakten der Europäischen Gemeinschaften Anderes bestimmt ist.
 
-## 9. Abschnitt # Erwachsenenschutzverfahren
-
-### § 116a AußStrG # I. Verfahrensrechte der betroffenen Person
-
-`§ 116a (1) AußStrG.`  
-Die betroffene Person kann in Erwachsenenschutzverfahren unabhängig von ihrer Verfahrensfähigkeit Verfahrenshandlungen vornehmen. Stimmen ihre Anträge nicht mit jenen ihres Vertreters überein, so sind bei der Entscheidung alle Anträge inhaltlich zu berücksichtigen.
-
-`§ 116a (2) AußStrG.`  
-Der betroffenen Person sind sämtliche Beschlüsse zuzustellen. Die Zustellung des Beschlusses über die Bestellung eines Erwachsenenvertreters hat zu eigenen Handen zu erfolgen; der Rechtsbeistand im Verfahren hat ihr dessen Inhalt in geeigneter Weise zu erläutern.
-
-`§ 116a (3) AußStrG.`  
-Kann die betroffene Person den Zustellvorgang oder den Inhalt der Entscheidung auch nicht annähernd begreifen, so ist die Zustellung wirksam, wenn die Ausfertigung des Beschlusses auf eine Weise in den körperlichen Nahebereich der betroffenen Person gelangt, dass sie sich bei Erhalt ohne ihre psychische Krankheit oder eine vergleichbare Beeinträchtigung ihrer Entscheidungsfähigkeit Kenntnis vom Inhalt des Beschlusses verschaffen könnte.
-
-`§ 116a (4) AußStrG.`  
-Will die betroffene Person Beschlüsse anfechten, so genügt es, dass aus dem Schriftstück deutlich hervorgeht, dass sie mit der Entscheidung nicht einverstanden ist.
-
 `END-OF-DATA-FILE` *(fortges. in [BG.AußStrG.007](BG.AußStrG.007.md))*

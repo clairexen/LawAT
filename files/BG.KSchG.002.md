@@ -245,6 +245,8 @@ Der Verbraucher kann die Wirksamkeit der Vereinbarung nachträglich herbeiführe
 `§ 6c (4) KSchG.`  
 Die Abs. 1 bis 3 gelten nicht für die in § 5a Abs. 2 Z 3 bis 8, 10 bis 12, 14 und 15 angeführten Verträge.
 
+*(Beachte: Ist für die in § 5a Abs. 2 Z 9 angeführten Verträge erst ab dem 1. Juli 2015 anzuwenden (vgl. § 41a Abs. 29).)*
+
 ### § 7 KSchG # Angeld und Reugeld
 
 `§ 7 KSchG.`  
@@ -371,5 +373,7 @@ Eine Vereinbarung, mit der für eine Klage des Verbrauchers gegen den Unternehme
 
 `§ 14 (4) KSchG.`  
 Die Abs. 1 bis 3 sind insoweit zur Gänze oder zum Teil nicht anzuwenden, als nach Völkerrecht oder besonderen gesetzlichen Anordnungen ausdrücklich anderes bestimmt ist.
+
+*(Beachte: Nach Art. XXXII Z 8 WGN 1997, BGBl. I Nr. 140/1997, ist die Neufassung der Abs. 1, 2 und 4 auf Verfahren anzuwenden, in denen die Klagen oder verfahrenseinleitenden Anträge bei Gericht nach dem 31. Dezember 1997 angebracht werden.)*
 
 `END-OF-DATA-FILE` *(fortges. in [BG.KSchG.003](BG.KSchG.003.md))*

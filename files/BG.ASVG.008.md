@@ -145,6 +145,8 @@ für die nach § 8 Abs. 1 Z 5 pflichtversicherten BezieherInnen eines Überbr
 `§ 36 (3) ASVG.`  
 Die im § 4 Abs. 1 Z 6 genannten Vorstandsmitglieder (Geschäftsleiter) sowie die den Heimarbeitern nach den jeweiligen gesetzlichen Vorschriften über die Heimarbeit arbeitsrechtlich gleichgestellten Personen (§ 4 Abs. 1 Z. 7) haben die in den §§ 33 und 34 vorgeschriebenen Meldungen selbst zu erstatten. Die Bestimmungen der §§ 33 Abs. 1 und 34 Abs. 1 sind hiebei entsprechend anzuwenden.
 
+*(Beachte: zu Abs. 1 Z 11: zum Bezugszeitraum vgl. § 800)*
+
 ### § 37 ASVG # Meldung nur unfallversicherter Personen
 
 `§ 37 ASVG.`  

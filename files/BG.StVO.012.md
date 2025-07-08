@@ -243,6 +243,8 @@ wenn die in § 68 Abs.6 genannten Personen einer dort genannten Verpflichtung n
 `§ 99 (7) StVO.`  
 Wegen einer in Abs. 1 bis 5 genannten Verwaltungsübertretung ist auch strafbar, wer diese auf dem Gebiet einer österreichischen Grenzabfertigungsstelle, die auf ausländischem Gebiet liegt, begeht. Die Überwachung der Einhaltung straßenpolizeilicher Vorschriften zählt zur Grenzabfertigung.
 
+*(Beachte: Abs. 1 lit. c: Verfassungsbestimmung)*
+
 ### § 99a StVO # Vorläufige Beschlagnahme
 
 `§ 99a (1) StVO.`  
@@ -564,6 +566,8 @@ Soweit die Vollziehung dieses Bundesgesetzes den Ländern zusteht, obliegt sie d
 
 `§ 105 (5) StVO.`  
 (Verfassungsbestimmung) Mit der Vollziehung des § 29b Abs. 1a ist die Bundesregierung betraut.
+
+*(Beachte: Abs. 4 und 5: Verfassungsbestimmung)*
 
 ### § 106 StVO # Bezugnahme auf Richtlinien
 

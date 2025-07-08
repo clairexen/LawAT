@@ -24,6 +24,8 @@
 `§ 125 GmbHG.`  
 Die Geschäftsführer oder die Liquidatoren, im Falle einer inländischen Zweigniederlassung die für diese im Inland vertretungsbefugten Personen, sind, unbeschadet der allgemeinen unternehmensrechtlichen Vorschriften, zur Befolgung der §§ 30d, 30j Abs. 2 und 3, 91 Abs. 1 erster Satz und 93 Abs. 3 dieses Bundesgesetzes vom Gericht durch Zwangsstrafen bis zu 3 600 Euro anzuhalten. § 24 Abs. 2 bis 5 FBG ist anzuwenden.
 
+*(Beachte: zum Bezugszeitraum vgl. § 127 Abs. 18)*
+
 ### § 127 GmbHG
 
 `§ 127 (1) GmbHG.`  

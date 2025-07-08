@@ -1,4 +1,4 @@
-# BG.EGVG.001 — Verwaltungsverfahrensgesetzen (EGVG)
+# BG.EGVG.001 — Einführungsgesetz zu den Verwaltungsverfahrensgesetzen (EGVG)
 **Typ:** Bundesgesetz  
 **Kurztitel:** EGVG  
 **Langtitel:** Einführungsgesetz zu den Verwaltungsverfahrensgesetzen 2008 – EGVG  

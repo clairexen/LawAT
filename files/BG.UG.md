@@ -652,6 +652,8 @@
 
 > `(13)` Die Bundesministerin oder der Bundesminister kann im Falle der drohenden oder eingetretenen Zahlungsunfähigkeit der Universität ein Sanierungskonzept als verbindlichen Rahmen für ihre Wirtschaftsführung vorgeben, welches dem Ziel dient, im Rahmen einer geordneten Gebarung die künftige, dauerhafte Leistungsfähigkeit der Universität zu erreichen\. Das Sanierungskonzept kann die Bestellung einer Universitätskuratorin, eines Universitätskurators oder von mehreren Universitätskuratorinnen oder Universitätskuratoren beinhalten\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 143 Abs\. 49\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-12-ug--universitätsfinanzierung-aus-bundesmitteln) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=12) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.002.md#-12-ug--universitätsfinanzierung-aus-bundesmitteln) \]
 
 ----
@@ -681,6 +683,8 @@
 
 > `(4)` Zur Sicherstellung der Umsetzung der Maßnahmen zur sozialen Dimension in der Lehre sowie zur Einbeziehung von unterrepräsentierten Gruppen in die Hochschulbildung gemäß § 13 Abs\. 2 Z 1 lit\. g kann die Bundesministerin oder der Bundesminister bis zu 0,5 vH des Globalbudgets einbehalten\. Der einbehaltene Betrag wird bei Nachweis der Umsetzung der in der Leistungsvereinbarung vereinbarten Maßnahmen ausbezahlt\.
 
+> *\(Beachte: Ist erstmals auf die Leistungsvereinbarungsperiode 2019 bis 2021 anzuwenden \(vgl\. § 143 Abs\. 49\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-12a-ug--festlegung-der-globalbudgets-der-universitäten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=12a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.002.md#-12a-ug--festlegung-der-globalbudgets-der-universitäten) \]
 
 ----
@@ -692,6 +696,8 @@
 > `(2)` Die Entwicklungspläne der Universitäten gemäß § 13b haben sich inhaltlich an den Zielsetzungen des gesamtösterreichischen Universitätsentwicklungsplans zu orientieren\.
 
 > `(3)` Der gesamtösterreichische Universitätsentwicklungsplan wird bis spätestens Ende des ersten Jahres jeder Leistungsvereinbarungsperiode für die zwei kommenden Leistungsvereinbarungsperioden erstellt und bis spätestens 31\. Oktober des zweiten Jahres jeder Leistungsvereinbarungsperiode, insbesondere hinsichtlich der Statistiken zu Entwicklungen und Prognosen in der Lehre, Forschung bzw\. Entwicklung und Erschließung der Künste sowie zum Universitätspersonal, aktualisiert\.
+
+> *\(Beachte: Ist erstmals auf die Leistungsvereinbarungsperiode 2019 bis 2021 anzuwenden \(vgl\. § 143 Abs\. 49\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-12b-ug--gesamtösterreichischer-universitätsentwicklungsplan) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=12b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.002.md#-12b-ug--gesamtösterreichischer-universitätsentwicklungsplan) \]
 
@@ -1912,6 +1918,8 @@
 
 > `(11)` Das Rektorat hat dem Arbeitskreis für Gleichbehandlungsfragen die für die Erfüllung seiner Aufgaben entsprechenden Personal\- und Sachressourcen sowie die erforderlichen Räume nach Maßgabe der budgetären Möglichkeiten zur Verfügung zu stellen\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 143 Abs\. 74\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-42-ug--arbeitskreis-für-gleichbehandlungsfragen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=42) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_59_TextContainer_59) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-42-ug--arbeitskreis-für-gleichbehandlungsfragen) \]
 
 ----
@@ -2174,6 +2182,8 @@
 
 > `(3)` An den Medizinischen Universitäten kann der Senat nähere Bestimmungen über Beginn und Ende des Zahnmedizinisch\-Klinischen Praktikums im Rahmen des Studiums der Zahnmedizin \(§ 35b\) erlassen, wobei während der Dauer des Zahnmedizinisch\-Klinischen Praktikums keine lehrveranstaltungsfreie Zeit möglich ist\.
 
+> *\(Beachte: Zu Abs\. 1: ist in dieser Fassung ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme\-, Eignungs\- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden \(vgl\. § 143 Abs\. 76\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-52-ug--einteilung-des-studienjahres) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=52) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_69_TextContainer_69) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.007.md#-52-ug--einteilung-des-studienjahres) \]
 
 ----
@@ -2281,6 +2291,8 @@
 
 > `(3)` Wenn die beteiligten Bildungseinrichtungen beschließen, die Durchführung eines gemeinsamen Studienprogrammes zu beenden, haben sie Vorsorge zu treffen, dass Studierenden der Abschluss des Studiums innerhalb einer angemessenen Frist, die jedenfalls die Studiendauer zuzüglich zweier Semester zu umfassen hat, möglich ist\.
 
+> *\(Beachte: Ist in dieser Fassung ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme\-, Eignungs\- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden \(vgl\. § 143 Abs\. 76\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-54d-ug--gemeinsame-studienprogramme) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=54d) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_74_TextContainer_74) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.008.md#-54d-ug--gemeinsame-studienprogramme) \]
 
 ----
@@ -2305,6 +2317,8 @@
 
 > `(9)` Wenn die beteiligten Bildungseinrichtungen beschließen, die Durchführung eines gemeinsam eingerichteten Studiums zu beenden, haben sie Vorsorge zu treffen, dass Studierenden der Abschluss des Studiums innerhalb einer angemessenen Frist, die jedenfalls die Studiendauer zuzüglich zweier Semester zu umfassen hat, möglich ist\.
 
+> *\(Beachte: Zu Abs\. 3 und 9: sind in dieser Fassung ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme\-, Eignungs\- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden \(vgl\. § 143 Abs\. 76\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-54e-ug--gemeinsam-eingerichtete-studien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=54e) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_75_TextContainer_75) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.008.md#-54e-ug--gemeinsam-eingerichtete-studien) \]
 
 ----
@@ -2312,6 +2326,8 @@
 ### § 54f UG — Studien im Ausland
 
 > Die Universitäten sind berechtigt, Studien zur Gänze oder zum Teil im Ausland durchzuführen, sofern der Lehr\- und Forschungsbetrieb der betreffenden Universität hierdurch nicht beeinträchtigt wird und dies in der Leistungsvereinbarung festgelegt wurde\.
+>
+> *\(Beachte: Ist ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme\-, Eignungs\- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden \(vgl\. § 143 Abs\. 76\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-54f-ug--studien-im-ausland) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=54f) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_76_TextContainer_76) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.008.md#-54f-ug--studien-im-ausland) \]
 
@@ -2485,6 +2501,8 @@
 >
 >> `3.` Sanktionen bei Nichterfüllung der Vereinbarung \(insbesondere keine Rückerstattung des Studienbeitrages, etc\.\)\.
 
+> *\(Beachte: 1\. Ist ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme\-, Eignungs\- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden \(vgl\. § 143 Abs\. 76\)\.2\. Ist für jene Studierenden anzuwenden, die ab dem Wintersemester 2022/23 zu einem Bachelor\- oder Diplomstudium zugelassen werden \(vgl\. § 143 Abs\. 78\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-59b-ug--unterstützungsleistungen-seitens-der-universität) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=59b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_83_TextContainer_83) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-59b-ug--unterstützungsleistungen-seitens-der-universität) \]
 
 ----
@@ -2547,6 +2565,8 @@
 
 > `(6)` Universitäten gemäß § 6 Abs\. 1 Z 1 bis 15 und 22 haben ausländischen Studienwerberinnen und Studienwerbern, die zur sichtvermerksfreien Einreise berechtigt sind oder über einen gültigen Aufenthaltstitel verfügen, den Zulassungsbescheid direkt zuzustellen\. Langen an österreichischen Berufsvertretungsbehörden Anträge anderer ausländischer Studienwerberinnen und Studienwerber auf Zulassung zum Studium zur Weiterleitung an die zuständige Universität ein, können die Berufsvertretungsbehörden auf die Vollständigkeit und Schlüssigkeit des Antrags sowie darauf hinwirken, dass die Zulassung zum Studium und der Erstaufenthaltstitel zeitgleich zugestellt werden können\. Hierbei ist der Studienwerberin oder dem Studienwerber Gelegenheit zu geben, auf ihre oder seine Kosten Ergänzungen und Klarstellungen vorzunehmen\. Die Vertretung ausländischer Studienwerberinnen und \-werber durch Personen, die nicht zur berufsmäßigen Parteienvertretung in Österreich zugelassen oder nicht durch Gesetz zur Vertretung berechtigt sind, ist nicht zulässig\. Anträge, die diesen Anforderungen nicht entsprechen, sind zurückzuweisen\.
 
+> *\(Umsetzungshinweis: CELEX\-Nr\. 32021L1883\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-60-ug--zulassung-zum-studium) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=60) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_84_TextContainer_84) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-60-ug--zulassung-zum-studium) \]
 
 ----
@@ -2577,6 +2597,8 @@
 
 > `(4)` Für alle anderen ausländischen Staatsangehörigen und Staatenlosen kann das Rektorat nach Anhörung des Senates eine abweichende besondere Zulassungsfrist festlegen\.
 
+> *\(Beachte: Ist ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme\-, Eignungs\- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden \(vgl\. § 143 Abs\. 76\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-61-ug--zulassungsfristen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=61) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_85_TextContainer_85) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-61-ug--zulassungsfristen) \]
 
 ----
@@ -2592,6 +2614,8 @@
 > `(4)` Über die Meldung der Fortsetzung des Studiums hat die Universität den Studierenden Studienbestätigungen auszustellen\. Diese müssen jedenfalls Namen, Geburtsdatum, Matrikelnummer und Sozialversicherungsnummer der oder des Studierenden sowie den Studierendenstatus, das Studium und das Semester enthalten\.
 
 > `(5)` Die Meldung der Fortsetzung des Studiums ist im Studierendenausweis \(§ 60 Abs\. 4\) zu vermerken\.
+
+> *\(Beachte: Zu Abs\. 1 und 3: sind ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme\-, Eignungs\- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden \(vgl\. § 143 Abs\. 76\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-62-ug--meldung-der-fortsetzung-des-studiums) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=62) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_86_TextContainer_86) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-62-ug--meldung-der-fortsetzung-des-studiums) \]
 
@@ -2666,6 +2690,8 @@
 > `(10b)` Die Ergänzungsprüfung für den Nachweis der Kenntnis der deutschen Sprache ist im Rahmen des Besuches eines dafür eingerichteten Universitätslehrganges abzulegen\. Die Vorschreibung dieser Ergänzungsprüfung setzt Kenntnisse der deutschen Sprache im Zeitpunkt der Antragstellung für das Studium zumindest im Ausmaß des Niveaus A2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen \(GeR\) des Europarats voraus\. Als Nachweis über diese Kenntnisse der deutschen Sprache gelten allgemein anerkannte Sprachdiplome, die durch Verordnung des Rektorates festzulegen sind\. Aus dem Sprachdiplom muss hervorgehen, dass die Inhaberin oder der Inhaber über Kenntnisse der deutschen Sprache zumindest auf Niveau A2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen verfügt\. Das Sprachdiplom darf zum Zeitpunkt der Vorlage nicht älter als zwei Jahre sein\. Diese Regelung gilt nicht für künstlerische Studien, wenn durch Verordnung des Rektorats die Durchführung der Ergänzungsprüfung für den Nachweis der Kenntnis der deutschen Sprache in abweichender Form festgelegt worden ist\.
 
 > `(11)` In den künstlerischen Studien kann im Curriculum festgelegt werden, dass die Ablegung der Ergänzungsprüfung spätestens vor der Meldung der Fortsetzung des Studiums für das dritte Semester nachzuweisen ist\.
+
+> *\(Beachte: \[CELEX\-Nr\. 32021L1883\]\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-63-ug--zulassung-zu-ordentlichen-studien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=63) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_87_TextContainer_87) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-63-ug--zulassung-zu-ordentlichen-studien) \]
 
@@ -2889,6 +2915,8 @@
 
 > `(3)` Die Beurlaubung wirkt für alle Studien der Bildungseinrichtung, an welcher diese beantragt wurde und bei gemeinsam eingerichteten Studien für alle Studien der beteiligten Bildungseinrichtungen\. Während der Beurlaubung bleibt die Zulassung zum Studium aufrecht\. Die Teilnahme an Lehrveranstaltungen, die Ablegung von Prüfungen sowie die Einreichung und Beurteilung wissenschaftlicher sowie künstlerischer Arbeiten ist unzulässig\.
 
+> *\(Beachte: Zu Abs\. 1 Z 6 und Abs\. 2: sind ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme\-, Eignungs\- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden \(vgl\. § 143 Abs\. 76\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-67-ug--beurlaubung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=67) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_95_TextContainer_95) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-67-ug--beurlaubung) \]
 
 ----
@@ -2982,6 +3010,8 @@
 ### § 71a UG — Ziele
 
 > Im Zuge der Implementierung einer kapazitätsorientierten, studierendenbezogenen Universitätsfinanzierung sollen die Anzahl der prüfungsaktiv betriebenen Studien und die Anzahl der abgeschlossenen Studien an den Universitäten gesteigert werden\.
+>
+> *\(Beachte: zum Bezugszeitraum vgl\. § 143 Abs\. 50\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-71a-ug--ziele) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=71a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_100_TextContainer_100) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.010.md#-71a-ug--ziele) \]
 
@@ -3036,6 +3066,8 @@
 > `(8)` Regelt ein Rektorat einer Universität oder einer öffentlichen Pädagogischen Hochschule bzw\. regeln die zuständigen Organe von anerkannten privaten Pädagogischen Hochschulen, Einrichtungen zur Durchführung von Fachhochschul\-Studiengängen und Privatuniversitäten gemäß Abs\. 4 und 5 die Zulassung zu einem Studium durch Verordnung oder Vereinbarung entweder durch ein Aufnahmeverfahren vor der Zulassung oder durch die Auswahl der Studierenden bis längstens ein Semester nach der Zulassung, sind nach Möglichkeit die Termine für die Registrierung und die Durchführung des Verfahrens, die Anforderungen und der Ablauf des Verfahrens sowie der für den positiven Abschluss des Verfahrens relevante Prüfungsstoff mit den anderen Universitäten, Pädagogischen Hochschulen, Einrichtungen zur Durchführung von Fachhochschul\-Studiengängen und Privatuniversitäten, an denen dieses Studium eingerichtet ist, abzustimmen\.
 
 > `(9)` Wird eine Studienwerberin oder ein Studienwerber nach Durchführung des Aufnahmeverfahrens nicht zum Studium zugelassen, so ist ihr oder ihm auf ihr oder sein Verlangen vom Rektorat ein diesbezüglicher Bescheid auszustellen\. Die Studienwerberin oder der Studienwerber hat das Recht, gegen diesen Bescheid vor dem Bundesverwaltungsgericht Beschwerde zu führen\. § 46 Abs\. 2 zweiter bis vierter Satz sind nicht anzuwenden\.
+
+> *\(Beachte: Zu Abs\. 7 Z 5  und Schlussteil: ist in dieser Fassung ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme\-, Eignungs\- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden \(vgl\. § 143 Abs\. 76\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-71b-ug--zulassung-zu-besonders-stark-nachgefragten-bachelor--und-diplomstudien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=71b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_101_TextContainer_101) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.010.md#-71b-ug--zulassung-zu-besonders-stark-nachgefragten-bachelor--und-diplomstudien) \]
 
@@ -3094,6 +3126,8 @@
 
 > `(7)` § 71b Abs\. 3, 6, 7 und 9 ist anzuwenden\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 143 Abs\. 50\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-71d-ug--zulassung-zu-an-einer-universität-besonders-stark-nachgefragten-bachelor--und-diplomstudien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=71d) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_103_TextContainer_103) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.010.md#-71d-ug--zulassung-zu-an-einer-universität-besonders-stark-nachgefragten-bachelor--und-diplomstudien) \]
 
 ----
@@ -3128,7 +3162,7 @@
 
 > `(4)` Die Beurteilung der Praktika im Rahmen der pädagogisch\-praktischen Studien erfolgt durch die Lehrveranstaltungsleiterin oder den Lehrveranstaltungsleiter auf der Grundlage der schriftlichen Leistungsbeschreibung der Praxislehrerin oder des Praxislehrers oder der Mentorin oder des Mentors\. Führt die schriftliche Leistungsbeschreibung voraussichtlich zu einer negativen Beurteilung, hat die oder der Studierende das Recht, eine schriftliche Stellungnahme abzugeben\. § 46 Abs\. 1 bis 4 sowie § 214 des Beamten\-Dienstrechtsgesetzes 1979, BGBl\. Nr\. 333/1979, gilt für Studierende hinsichtlich im Curriculum verankerter Praktika an Schulen sinngemäß, wobei an die Stelle der Beamtin oder des Beamten bzw\. der Lehrerin oder des Lehrers die oder der Studierende tritt und an die Stelle der Dienstbehörde die zuständige Schulbehörde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-72-ug--feststellung-und-beurteilung-des-studienerfolgs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=72) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_105_TextContainer_105) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.010.md#-72-ug--feststellung-und-beurteilung-des-studienerfolgs) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-72-ug--feststellung-und-beurteilung-des-studienerfolgs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=72) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_105_TextContainer_105) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-72-ug--feststellung-und-beurteilung-des-studienerfolgs) \]
 
 ----
 
@@ -3144,7 +3178,9 @@
 >
 >> `3.` das Ergebnis der Division auf zwei Kommastellen gerundet wird, wobei aufzurunden ist, wenn die Tausendstelstelle mindestens den Wert 5 hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-72a-ug--gesamtnote) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=72a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_106_TextContainer_106) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.010.md#-72a-ug--gesamtnote) \]
+> *\(Beachte: Ist ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme\-, Eignungs\- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden \(vgl\. § 143 Abs\. 76\)\.\)*
+
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-72a-ug--gesamtnote) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=72a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_106_TextContainer_106) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-72a-ug--gesamtnote) \]
 
 ----
 
@@ -3160,7 +3196,7 @@
 
 > `(3)` Prüfungen, die außerhalb des Wirkungsbereiches einer Fortsetzungsmeldung abgelegt wurden, und Beurteilungen wissenschaftlicher sowie künstlerischer Arbeiten, die außerhalb des Wirkungsbereiches einer Fortsetzungsmeldung erfolgten, sind absolut nichtig\. Eine Anrechnung auf die Gesamtzahl der Wiederholungen erfolgt nicht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-73-ug--nichtigerklärung-von-beurteilungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=73) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_107_TextContainer_107) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.010.md#-73-ug--nichtigerklärung-von-beurteilungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-73-ug--nichtigerklärung-von-beurteilungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=73) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_107_TextContainer_107) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-73-ug--nichtigerklärung-von-beurteilungen) \]
 
 ----
 
@@ -3197,7 +3233,7 @@
 
 > `(7)` Erfolgreich absolvierte Studien gemäß § 58 Abs\. 11 sind im studienabschließenden Zeugnis durch einen Hinweis auf die mit Bescheid modifizierten Anforderungen zu kennzeichnen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-74-ug--zeugnisse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=74) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_108_TextContainer_108) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.010.md#-74-ug--zeugnisse) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-74-ug--zeugnisse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=74) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_108_TextContainer_108) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-74-ug--zeugnisse) \]
 
 ----
 
@@ -3229,6 +3265,8 @@
 
 > `(5)` In den pädagogisch\-praktischen Studien ist ein aufbauender Kompetenzerwerb vorzusehen, bei dem die Eigenverantwortlichkeit sowie die Selbständigkeit durch Studierende im Unterricht steigernd erhöht wird und schließlich ein gänzlich eigenverantwortlicher Unterricht durch Studierende zu erfolgen hat\. Die Praktika der pädagogisch\-praktischen Studien sind zum überwiegenden Teil im Rahmen des Unterrichts an Schulen durchzuführen, wobei nach Verfügbarkeit und Schwerpunkt die Absolvierung an verschiedenen Schularten desselben Altersbereichs zu ermöglichen ist\.
 
+> *\(Beachte: Ist für Lehrveranstaltungen und Prüfungen ab dem Wintersemester 2021/22 anzuwenden \(vgl\. § 143 Abs\. 80\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-76-ug--lehrveranstaltungen-und-prüfungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=76) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_110_TextContainer_110) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-76-ug--lehrveranstaltungen-und-prüfungen) \]
 
 ----
@@ -3242,6 +3280,8 @@
 >> `2.` Zur Gewährleistung der eigenständigen Erbringung der Prüfungsleistung durch die Studierende oder den Studierenden sind technische oder organisatorische Maßnahmen vorzusehen\.
 >
 >> `3.` Bei technischen Problemen, die ohne Verschulden der oder des Studierenden auftreten, ist die Prüfung abzubrechen und nicht auf die zulässige Zahl der Prüfungsantritte anzurechnen\.
+>
+> *\(Beachte: Ist für Lehrveranstaltungen und Prüfungen ab dem Wintersemester 2021/22 anzuwenden \(vgl\. § 143 Abs\. 80\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-76a-ug--sondervorschrift-für-die-durchführung-von-prüfungen-mit-mitteln-der-elektronischen-kommunikation) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=76a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_111_TextContainer_111) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-76a-ug--sondervorschrift-für-die-durchführung-von-prüfungen-mit-mitteln-der-elektronischen-kommunikation) \]
 
@@ -3258,6 +3298,8 @@
 > `(4)` Die Studierenden sind berechtigt, im Curriculum gekennzeichnete Praktika im Rahmen der pädagogisch\-praktischen Studien bei negativer Beurteilung ein Mal zu wiederholen\. Die oder der Studierende ist berechtigt, im Curriculum gekennzeichnete Praktika im Rahmen der pädagogisch\-praktischen Studien ein weiteres Mal zu wiederholen, wenn die negative Beurteilung der Wiederholung darauf zurückzuführen ist, dass die oder der Studierende ohne eigenes Verschulden dieses oder Teile davon versäumt hat\. Es ist dahingehend beim für die studienrechtlichen Angelegenheiten zuständigen Organ binnen zwei Wochen ab Beurteilung ein Antrag zu stellen und es sind die erforderlichen Nachweise beizubringen\.
 
 > `(5)` Die Festlegung von Fristen und die Verpflichtung zur Ablegung von Lehrveranstaltungsprüfungen als Voraussetzung für die Wiederholung von Prüfungen sind unzulässig\.
+
+> *\(Beachte: Zu Abs\. 2 letzter Satz, Abs\. 3 und 4: sind ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme\-, Eignungs\- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden \(vgl\. § 143 Abs\. 76\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-77-ug--wiederholung-von-prüfungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=77) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_112_TextContainer_112) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-77-ug--wiederholung-von-prüfungen) \]
 
@@ -3377,6 +3419,8 @@
 > `(1)` Im Doktoratsstudium und im kombinierten Master\- und Doktoratsstudium ist eine wissenschaftliche oder künstlerische Dissertation abzufassen\. Nähere Bestimmungen über Betreuung und Beurteilung von Dissertationen und künstlerischen Dissertationen sind in der Satzung, nähere Bestimmungen über das Thema der Dissertation oder künstlerischen Dissertation sind im jeweiligen Curriculum festzulegen\.
 
 > `(2)` § 80 Abs\. 2 und § 81 Abs\. 3 gelten auch für Dissertationen und künstlerische Dissertationen\.
+
+> *\(Beachte: Zu Abs\. 1 erster Satz: ist ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme\-, Eignungs\- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden \(vgl\. § 143 Abs\. 76\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-83-ug--dissertationen-und-künstlerische-dissertationen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=83) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_118_TextContainer_118) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-83-ug--dissertationen-und-künstlerische-dissertationen) \]
 
@@ -3536,6 +3580,8 @@
 
 > `(6)` Die Taxe für die Nostrifizierung eines ausländischen Studienabschlusses beträgt 150 Euro\. Die Taxe ist im Voraus zu entrichten\. Sie verfällt, wenn der Antrag auf Nostrifizierung abgewiesen oder zurückgezogen wird\.
 
+> *\(Beachte: \[CELEX\-Nr\. 32021L1883\]\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-90-ug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=90) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_126_TextContainer_126) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.012.md#-90-ug) \]
 
 ----
@@ -3568,6 +3614,8 @@
 > `(5)` Der Studienbeitrag ist für jedes Semester im Voraus zu entrichten\. Die Studienbeiträge verbleiben der jeweiligen Universität\. Der Studienbeitrag von Studierenden, die ein von mehreren Universitäten und bzw\. oder Pädagogischen Hochschulen gemeinsam eingerichtetes Studium betreiben oder die zu mehreren Studien verschiedener Universitäten und bzw\. oder Pädagogischen Hochschulen zugelassen sind, ist unter den beteiligten Universitäten und Pädagogischen Hochschulen gemäß einer abzuschließenden Vereinbarung aufzuteilen\.
 
 > `(6)` Nähere Bestimmungen zur Einhebung des Studienbeitrages sind durch eine Verordnung der Bundesministerin oder des Bundesministers für Frauen, Wissenschaft und Forschung festzulegen \(Studienbeitragsverordnung\)\.
+
+> *\(Umsetzungshinweis: CELEX\-Nr\. 32021L1883\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-91-ug--studienbeitrag) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=91) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_127_TextContainer_127) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.012.md#-91-ug--studienbeitrag) \]
 
@@ -3963,6 +4011,8 @@
 > `(4)` Der Kollektivvertragsfähigkeit des Dachverbandes kommt im Verhältnis zur Kollektivvertragsfähigkeit anderer Interessenvertretungen oder Berufsvereinigungen der Arbeitgeberinnen und Arbeitgeber Vorrang zu\.
 > *\(Anm\.: Abs\. 5 aufgehoben durch Art\. 17 Z 23, BGBl\. I Nr\. 31/2018\)*
 
+> *\(Beachte: Abs\. 2 und 3 sind für die Universität für Weiterbildung Krems insofern ab dem 1\. Jänner 2022 anzuwenden, als die Universität für Weiterbildung Krems ab dem 1\. Jänner 2022 dem Dachverband der Universitäten angehört \(vgl\. § 143 Abs\. 71\)\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-108-ug--rechtsgrundlagen-der-arbeitsverhältnisse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=108) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_146_TextContainer_146) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-108-ug--rechtsgrundlagen-der-arbeitsverhältnisse) \]
 
 ----
@@ -3994,6 +4044,8 @@
 > `(8)` Unberücksichtigt bleiben Zeiten gemäß § 20 Abs\. 3 Z 1 des gemäß § 108 Abs\. 3 abgeschlossenen Kollektivvertrages für die ArbeitnehmerInnen der Universitäten \(KV\) in der am 1\. Mai 2021 geltenden Fassung\.
 
 > `(9)` Bei der Feststellung der höchstzulässigen Gesamtdauer der Arbeitsverhältnisse gemäß Abs\. 1, 2, 5 und 6 sind alle Arbeitsverhältnisse zur Universität zu berücksichtigen, unabhängig davon, ob die Arbeitsverhältnisse unmittelbar aufeinanderfolgen\.
+
+> *\(Beachte: zum Bezugszeitraum vgl\. § 143 Abs\. 83\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-109-ug--dauer-der-arbeitsverhältnisse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=109) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_148_TextContainer_148) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-109-ug--dauer-der-arbeitsverhältnisse) \]
 
@@ -4786,6 +4838,8 @@
 > `(6)` § 12 Abs\. 2 ist hinsichtlich der Einvernehmensherstellung mit der Bundesministerin oder dem Bundesminister für Finanzen für die Leistungsvereinbarungsperiode 2019 bis 2021 nicht anzuwenden\. Über die Aufteilung des Gesamtbetrags gemäß § 141b auf die drei in § 12 Abs\. 2 genannten Budgetsäulen hat die Bundesministerin oder der Bundesminister spätestens bis einen Monat nach Inkrafttreten dieses Bundesgesetzes das Einvernehmen mit der Bundesministerin oder dem Bundesminister für Finanzen herzustellen\. Der gemäß § 141b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 129/2017 zur Finanzierung der Universitäten festgelegte Gesamtbetrag umfasst für die Leistungsvereinbarungsperiode 2019 bis 2021 die Aufwendungen gemäß § 12 Abs\. 8 und 9, die für die Finanzierung der Medizinischen Fakultät an der Universität Linz gemäß der Vereinbarung gemäß Art\. 15a B\-VG, BGBl\. I Nr\. 18/2014, sowie die für die Finanzierung der Universität für Weiterbildung Krems auf Grund der Vereinbarung gemäß Art\. 15a B\-VG, BGBl\. I Nr\. 81/2004, vom Bund zu erbringenden Mittel\.
 
 > `(7)` Die der Bundesimmobiliengesellschaft m\.b\.H\. gegenüber den Universitäten insgesamt aufgrund von vertraglichen Vereinbarungen zustehenden Mietforderungen reduzieren sich für die Jahre 2018 bis 2021 um 17\.391\.000 Euro jährlich\. Der gemäß § 12 Abs\. 2 festgelegte Gesamtbetrag für die Leistungsvereinbarungsperiode 2016 bis 2018 sowie der gemäß § 141b festgelegte Gesamtbetrag für die Leistungsvereinbarungsperiode 2019 bis 2021 verringern sich im gleichen Ausmaß\. Das Rektorat ist verpflichtet, ein Angebot der Bundesimmobiliengesellschaft m\.b\.H\. zur Reduktion der der Bundesimmobiliengesellschaft m\.b\.H\. vertraglich zustehenden Mietforderungen auch unter allfälligen Bedingungen anzunehmen, sofern diese für die Universität wirtschaftlich vertretbar sind\. Das zwischen der Bundesministerin oder dem Bundesminister und einer Universität in der Leistungsvereinbarung für die Periode 2016 bis 2018 vereinbarte Globalbudget der Universität verringert sich in jenem Ausmaß, in dem die Bundesimmobiliengesellschaft m\.b\.H\. die ihr gegenüber dieser Universität aufgrund vertraglicher Vereinbarung zustehenden Mietforderungen für das Jahr 2018 reduziert\.
+
+> *\(Beachte: zum Bezugszeitraum vgl\. § 143 Abs\. 49\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-141-ug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=141) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_190_TextContainer_190) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-141-ug) \]
 

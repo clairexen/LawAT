@@ -1551,6 +1551,8 @@
 
 > `(8)` Die Bestimmungen der Abs\. 5 bis 7 gelten nicht für in Privathaushalten stattfindende Werbeveranstaltungen\.
 
+> *\(Beachte: Abs\. 3: zum Inkrafttreten vgl\. § 382 Abs\. 105\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-57-gewo--werbeveranstaltungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=57) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_51_TextContainer_51) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-57-gewo--werbeveranstaltungen) \]
 
 ----
@@ -1558,6 +1560,8 @@
 ### § 58 GewO — Sammeln von Bestellungen auf Druckwerke
 
 > Gewerbetreibende, die den Handel und die Vermittlung des Handels mit vervielfältigten Schriften oder vervielfältigten bildlichen Darstellungen ausüben, dürfen Bestellungen auf diese Druckwerke von Haus zu Haus entweder selbst sammeln oder durch ihre Bevollmächtigten \(Handlungsreisenden\) sammeln lassen\. Die Gewerbetreibenden und die Bevollmächtigten müssen Gewerbelegitimationen im Sinne des § 62 mit sich führen und diese auf Verlangen der behördlichen Organe vorweisen\. Das Sammeln solcher Bestellungen an sonstigen Orten, insbesondere auf der Straße, ist verboten\. § 57 findet keine Anwendung\.
+>
+> *\(Beachte: zum Inkrafttreten vgl\. § 382 Abs\. 105\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-58-gewo--sammeln-von-bestellungen-auf-druckwerke) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=58) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_52_TextContainer_52) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-58-gewo--sammeln-von-bestellungen-auf-druckwerke) \]
 
@@ -1618,6 +1622,8 @@
 > *\(\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 >
 > *Anm\. 1: Die Gewerbelegitimationen\-Verordnung 2024 wurde mit BGBl\. II Nr\. 312/2024* *kundgemacht und tritt mit 1\.1\.2025 in Kraft\.\)*
+>
+> *\(Beachte: zum Inkrafttreten vgl\. § 382 Abs\. 105\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-62-gewo--gewerbelegitimationen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=62) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_55_TextContainer_55) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-62-gewo--gewerbelegitimationen) \]
 
@@ -1676,6 +1682,8 @@
 > `(4)` Die verarbeiteten Daten im Sinne des Abs\. 1 und Abs\. 2 sind durch die Verantwortlichen und durch den Auftragsverarbeiter zu löschen, sobald diese für den Zweck der Ausstellung einer Gewerbelegitimation nicht mehr benötigt werden, spätestens jedoch nach Ablauf von sechs Monaten nach Zustellung der Gewerbelegitimation\. Zum Zweck der Ausstellung von neuen Gewerbelegitimationen in den Fällen des § 62 Abs\. 5 darf die Behörde die Legitimationskartennummer, den Vor\- und Nachnamen des Legitimationsinhabers und das Datum des Ablaufs der Gültigkeit bis zum Zeitpunkt der Ausstellung einer neuen Gewerbelegitimation oder bis spätestens zwei Jahre nach Ablauf der Gültigkeit speichern Diese Löschungsverpflichtungen beziehen sich nicht auf die elektronische Aktenführung \(ELAK\) der Behörden\.
 
 > `(5)` Der Auftragsverarbeiter hat die Zustellung des Dokuments entsprechend der Zustellverfügung der Behörde für diese zu veranlassen\.
+
+> *\(Beachte: zum Inkrafttreten vgl\. § 382 Abs\. 105\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-62a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=62a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-62a-gewo) \]
 
@@ -3371,6 +3379,8 @@
 
 > `(8)` Abweichend von § 62 Abs\. 4 zweiter Satz ist die Ausstellung der Gewerbelegitimation zu versagen, wenn gegen den Arbeitnehmer eine dem § 13 Abs\. 1 entsprechende strafgerichtliche Verurteilung vorliegt und nach der Eigenart der strafbaren Handlung und der Persönlichkeit des Verurteilten die Begehung der gleichen oder einer ähnlichen Straftat bei der Ausübung der im § 108 Abs\. 1 genannten Tätigkeiten zu befürchten ist\.
 
+> *\(Beachte: Abs\. 4, 6, 7 und 8: zum Inkrafttreten vgl\. § 382 Abs\. 105\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-108-gewo--fremdenführer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=108) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_137_TextContainer_137) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-108-gewo--fremdenführer) \]
 
 ----
@@ -3886,6 +3896,8 @@
 
 > `(6)` Der Gebrauch einer einheitlichen Berufskleidung bei Ausübung des Bewachungsgewerbes bedarf der Genehmigung des Bundesministers für Wirtschaft und Arbeit\. Diese ist zu erteilen, wenn eine Verwechslung mit Uniformen des öffentlichen Sicherheitsdienstes, der Zollverwaltung, der Justizwache und des Bundesheeres nicht zu befürchten ist\. Jedenfalls müssen auf allen Bekleidungsteilen, welche als Oberbekleidung Verwendung finden, deutlich erkennbare Bezeichnungen im Sinne der §§ 63 ff angebracht sein\. Die Genehmigung ist vom Bundesminister für Wirtschaft und Arbeit zu widerrufen, wenn auf Grund von Änderungen der Uniformen des öffentlichen Sicherheitsdienstes, der Zollverwaltung, der Justizwache oder des Bundesheeres eine Verwechslung der genehmigten Berufskleidung mit den neuen Uniformen der genannten staatlichen Organe nicht ausgeschlossen werden kann\.
 
+> *\(Beachte: Abs\. 3: zum Inkrafttreten vgl\. § 382 Abs\. 105\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-129-gewo--sicherheitsgewerbe-berufsdetektive-bewachungsgewerbe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=129) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_161_TextContainer_161) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-129-gewo--sicherheitsgewerbe-berufsdetektive-bewachungsgewerbe) \]
 
 ----
@@ -3911,6 +3923,8 @@
 > `(9)` Die im Abs\. 8 genannten Gewerbetreibenden sind verpflichtet, der Bezirksverwaltungsbehörde, im Gebiet einer Gemeinde, für das die Landespolizeidirektion zugleich Sicherheitsbehörde erster Instanz ist, der Landespolizeidirektion, als Sicherheitsbehörde ein Verzeichnis aller Personen, die für eine der im § 129 Abs\. 1 bzw\. Abs\. 4 genannten Tätigkeiten herangezogen werden, spätestens zwei Wochen vor dem Beginn ihrer Verwendung vorzulegen; jede Änderung hinsichtlich der für die im § 129 Abs\. 1 bzw\. Abs\. 4 genannten Tätigkeiten herangezogenen Personen ist dieser Behörde binnen zwei Wochen anzuzeigen\. Das Verzeichnis oder die Anzeigen von Änderungen dieses Verzeichnisses haben neben dem Vor\- und Familiennamen der betreffenden Person auch deren Geburtsdatum, Geburtsort, Staatsangehörigkeit und Unterkunft \(Wohnung\) zu enthalten\.
 
 > `(10)` Ist auf Grund bestimmter Tatsachen die Zuverlässigkeit einer gemäß Abs\. 9 bekannt gegebenen Person nicht gegeben, so hat die Sicherheitsbehörde dem Gewerbetreibenden ohne unnötigen Aufschub schriftlich mitzuteilen, dass der Betroffene die erforderliche Zuverlässigkeit nicht besitzt\.
+
+> *\(Beachte: Abs\. 6 und 7: zum Inkrafttreten vgl\. § 382 Abs\. 105\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-130-gewo--rechte-und-pflichten-der-berufsdetektive-und-bewacher) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=130) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_162_TextContainer_162) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-130-gewo--rechte-und-pflichten-der-berufsdetektive-und-bewacher) \]
 
@@ -5206,6 +5220,8 @@
 ### § 333a GewO
 
 > Schriften und Zeugnisse, die auf Grundlage dieses Bundesgesetzes erstellt und ausgestellt werden, sowie Eingaben, die auf das Erstellen und das Ausstellen von Schriften auf Grundlage dieses Bundesgesetzes gerichtet sind, sind von den Stempelgebühren und Verwaltungsabgaben des Bundes befreit\.
+>
+> *\(Beachte: Tritt mit der Maßgabe in Kraft, dass betreffend die Ausstellung von Auszügen aus dem Gewerbeinformationssystem Austria die Befreiung von Stempelgebühren und Verwaltungsabgaben des Bundes frühestens ab 1\. Mai 2018 anzuwenden ist \(vgl\. § 382 Abs\. 86\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-333a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=333a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_220_TextContainer_220) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-333a-gewo) \]
 
@@ -6061,6 +6077,8 @@
 ### § 364 GewO — n) Einziehung von Ausweispapieren
 
 > Gewerbescheine und sonstige Ausweispapiere, die nach den gewerberechtlichen Vorschriften ausgefertigt worden sind, aber den Tatsachen nicht mehr entsprechen oder ungültig geworden sind, sind der Behörde zurückzustellen\. Auf Verlangen hat jedoch die Behörde diese Ausweispapiere, versehen mit einem deutlich ersichtlichen Ungültigkeitsvermerk, zurückzugeben\.
+>
+> *\(Beachte: zum Inkrafttreten vgl\. § 382 Abs\. 105\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-364-gewo--n-einziehung-von-ausweispapieren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=364) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_266_TextContainer_266) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-364-gewo--n-einziehung-von-ausweispapieren) \]
 
@@ -8331,6 +8349,8 @@
 >>> `72.` Die zum Zeitpunkt des Inkrafttretens des Bundesgesetzes BGBl\. I Nr\. 171/2022 bereits ausgestellten Legitimationen gemäß der Gewerbelegitimationen\-Verordnung, BGBl\. Nr\. 274/1974, bleiben weiterhin gültig, im Fall der Legitimation für Handlungsreisende bis zum Ablauf der Gültigkeitsdauer, und gelten für die in § 57 Abs\. 3, § 58, § 108 Abs\. 6 und § 130 Abs\. 6 festgelegten Verpflichtungen als Legitimation bzw\. als Gewerbelegitimation im Sinne des § 62\. Wird eine Gewerbelegitimation im Sinne des § 62 in der Fassung BGBl\. I Nr\. 171/2022 beantragt, so verliert eine Legitimation gemäß der Gewerbelegitimationen\-Verordnung, BGBl\. Nr\. 274/1974 mit der Zustellung der Gewerbelegitimation im Sinne des § 62 ihre Gültigkeit\.
 >>
 >>> `72.` Für Gewerbeanmeldungen, die vor dem in § 382 Abs\. 97 bestimmten Inkrafttreten dieses Bundesgesetzes bei der Behörde eingelangt sind, sind § 339 Abs\. 3 und § 365g in der Fassung dieses Bundesgesetzes anzuwenden, sofern die Gewerbeberechtigung im GISA noch nicht freigegeben worden ist und nicht bereits entweder der Behörde ein dem § 339 Abs\. 3 Z 3 in der Fassung vor dem Inkrafttreten dieses Bundesgesetzes entsprechender Firmenbuchauszug vorgelegt worden ist oder die Behörde gemäß § 365g Abs\. 2 in der Fassung vor dem Inkrafttreten dieses Bundesgesetzes einen Firmenbuchauszug zur Verfügung gestellt hat\.
+>
+> *\(Beachte: Z 72 idF BGBl\. I Nr\. 171/2022: zum Inkrafttreten vgl\. § 382 Abs\. 105\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-376-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=376) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_327_TextContainer_327) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.022.md#-376-gewo) \]
 

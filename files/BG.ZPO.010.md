@@ -12,6 +12,13 @@
 
 *(Fortsetzg. v. [BG.ZPO.009](BG.ZPO.009.md))*
 
+## Gerichtliche Aufbewahrung von Urkunden.
+
+### § 316 ZPO
+
+`§ 316 ZPO.`  
+Urkunden, die in Urschrift vorgelegt werden, sind in Abschrift zum Akt zu nehmen. Die Urschriften sind demjenigen, der sie vorgelegt hat, bei erster Gelegenheit zurückzustellen. Urkunden, bei denen es unmöglich oder untunlich ist, eine Abschrift zum Akt zu nehmen oder deren Echtheit bestritten ist oder deren Inhalt verändert sein soll, sind bis zur rechtskräftigen Erledigung des Verfahrens bei Gericht zurückzubehalten, sofern nicht ihre Ausfolgung an eine andere Behörde im Interesse der öffentlichen Ordnung erforderlich ist.
+
 ## Erneuerung von Urkunden.
 
 ### § 317 ZPO
@@ -367,26 +374,5 @@ In den Fällen des Abs. 1 kann auch ein anderer Sachverständiger bestellt werd
 
 `§ 354 (3) ZPO.`  
 Der seine Pflichten verletzende Sachverständige haftet nebst dem Kostenersatze für allen weiteren den Parteien durch die ihm zur Last fallende Vereitlung oder Verzögerung der Beweisführung verursachten Schaden.
-
-## Ablehnung.
-
-### § 355 ZPO
-
-`§ 355 (1) ZPO.`  
-Sachverständige können aus denselben Gründen abgelehnt werden, welche zur Ablehnung eines Richters berechtigen; jedoch kann die Ablehnung nicht darauf gegründet werden, dass der Sachverständige früher in derselben Rechtssache als Zeuge vernommen wurde.
-
-`§ 355 (2) ZPO.`  
-Die Ablehnungserklärung ist bei dem Processgerichte, wenn aber die Auswahl der Sachverständigen dem beauftragten oder ersuchten Richter überlassen wurde, bei diesem vor dem Beginne der Beweisaufnahme, und bei schriftlicher Begutachtung vor erfolgter Einreichung des Gutachtens mittels Schriftsatz oder mündlich anzubringen. Später kann eine Ablehnung nur dann erfolgen, wenn die Partei glaubhaft macht, dass sie den Ablehnungsgrund vorher nicht erfahren oder wegen eines für sie unübersteiglichen Hindernisses nicht rechtzeitig geltend machen konnte.
-
-`§ 355 (3) ZPO.`  
-Ist im Falle einer solchen nachträglichen Ablehnung die durch einen beauftragten oder ersuchten Richter vorzunehmende Beweisaufnahme schon beendet, so kann die Ablehnung nur bei dem Processgerichte vorgebracht werden.
-
-### § 356 ZPO
-
-`§ 356 (1) ZPO.`  
-Gleichzeitig mit der Ablehnung sind die Gründe der Ablehnung anzugeben. Die Entscheidung über die Ablehnung steht dem erkennenden Gerichte oder dem beauftragten oder ersuchten Richter zu, je nachdem die Ablehnung zufolge §. 355 bei ersterem oder letzterem angebracht wurde.
-
-`§ 356 (2) ZPO.`  
-Die Entscheidung erfolgt, wenn die Ablehnung nicht bei einer Tagsatzung vorgebracht wird, ohne vorhergehende mündliche Verhandlung. Die ablehnende Partei hat die von ihr angegebenen Gründe der Ablehnung auf Verlangen des Gerichtes vor der Entscheidung glaubhaft zu machen. Wird der Ablehnung stattgegeben, so ist ohne Aufschub die Bestellung eines anderen Sachverständigen zu veranlassen.
 
 `END-OF-DATA-FILE` *(fortges. in [BG.ZPO.011](BG.ZPO.011.md))*

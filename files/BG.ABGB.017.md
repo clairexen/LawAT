@@ -40,6 +40,8 @@ Wer jemanden den Unterhalt zu reichen schuldig ist, kann dessen Recht durch Besc
 `§ 953 ABGB.`  
 Unter eben dieser (§. 952) Beschränkung können auch diejenigen Geschenke zurückgefordert werden, wodurch die zur Zeit der Schenkung schon vorhandenen Gläubiger verkürzt worden sind. Auf Gläubiger, deren Forderungen jünger sind, als die Schenkung, erstreckt sich dieses Recht nur dann, wenn der Beschenkte eines hinterlistigen Einverständnisses überwiesen werden kann.
 
+*(Beachte: Materiell derogiert durch die Regelung der Schenkungsanfechtung durch § 29 IO und § 3 der Anfechtungsordnung, beide RGBl. Nr. 337/1914.)*
+
 ### § 954 ABGB # 6) wegen nachgeborner Kinder
 
 `§ 954 ABGB.`  
@@ -101,6 +103,8 @@ Hat aber der Verwahrer von der hinterlegten Sache Gebrauch gemacht; hat er sie o
 
 `§ 966 ABGB.`  
 Wenn Sachen verschlossen oder versiegelt hinterlegt, und in der Folge das Schloß oder Siegel verletzt worden; so ist der Hinterleger, wenn er einen Abgang behauptet, zur Beschwörung seines Schadens, in so fern derselbe nach seinem Stande, Gewerbe, Vermögen und den übrigen Umständen wahrscheinlich ist, nach Vorschrift der Gerichtsordnung zuzulassen; es wäre denn, daß der Verwahrer beweisen könnte, daß die Verletzung des Schlosses oder Siegels ohne sein Verschulden geschehen sey. Das Nähmliche hat auch dann zu gelten, wenn sämmtliche auf solche Art hinterlegte Sachen in Verlust gerathen sind.
+
+*(Beachte: Materiell derogiert durch die ZPO, RGBl. Nr. 113/1895, die den formalisierten Beweiseid der AGO nicht mehr kennt.)*
 
 ### § 967 ABGB # und des Hinterlegers
 

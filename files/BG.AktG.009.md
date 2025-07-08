@@ -91,6 +91,8 @@ Eine Herabsetzung des Grundkapitals, die dazu dienen soll, einen sonst auszuweis
 `§ 183 AktG.`  
 Die vereinfachte Kapitalherabsetzung ist nur zulässig, nachdem der zehn vom Hundert des nach der Herabsetzung verbleibenden Grundkapitals übersteigende Teil der gebundenen Rücklagen (§ 229 UGB) und alle nicht gebundenen Kapitalrücklagen sowie alle satzungsmäßigen und andere Gewinnrücklagen vorweg aufgelöst sind.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ### § 184 AktG # Verbot von Zahlungen an die Aktionäre
 
 `§ 184 AktG.`  
@@ -100,6 +102,8 @@ Die Beträge, die aus der Auflösung der Rücklagen und aus der Kapitalherabsetz
 
 `§ 185 AktG.`  
 Ergibt sich bei Aufstellung des Jahresabschlusses für das Geschäftsjahr, in dem der Beschluß über die Kapitalherabsetzung gefaßt wurde, oder für eines der beiden folgenden Geschäftsjahre, daß die Verluste in der bei der Beschlußfassung angenommenen Höhe tatsächlich nicht eingetreten oder ausgeglichen waren, so ist der Unterschiedsbetrag in die gebundene Kapitalrücklage einzustellen.
+
+*(Beachte: Im Titel der BGBl. I Nr. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl. I Nr. 106/1997.)*
 
 ### § 186 AktG # Beschränkung der Einstellung von Beträgen in die gebundenen Rücklagen
 
@@ -128,6 +132,8 @@ In diesem Fall stellt die Hauptversammlung den Jahresabschluss fest. Der Beschlu
 `§ 188 (3) AktG.`  
 Die Beschlüsse sind nichtig, wenn der Beschluß über die Kapitalherabsetzung nicht binnen drei Monaten nach der Beschlußfassung in das Firmenbuch eingetragen worden ist; der Lauf der Frist ist gehemmt, solange eine Anfechtungs- oder Nichtigkeitsklage anhängig ist oder eine zur Kapitalherabsetzung beantragte behördliche Genehmigung noch nicht erteilt ist.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ### § 189 AktG # Rückwirkung der Kapitalherabsetzung bei gleichzeitiger Kapitalerhöhung
 
 `§ 189 (1) AktG.`  
@@ -140,6 +146,8 @@ Sämtliche Beschlüsse sind nichtig, wenn die Beschlüsse über die Kapitalherab
 
 `§ 190 AktG.`  
 In den Fällen der §§ 188, 189 sind in der Gewinn- und Verlustrechnung die aus der Kapitalherabsetzung gewonnenen Beträge und allfällige Zuweisungen zu gebundenen Kapitalrücklagen gesondert auszuweisen.
+
+*(Beachte: Im Titel der BGBl. I Nr. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl. I Nr. 106/1997.)*
 
 ### § 191 AktG # Veröffentlichung
 
@@ -171,6 +179,8 @@ In den Fällen des Abs. 3 Z 1 und 2 ist in die gebundenen Rücklagen ein Betra
 
 `§ 192 (6) AktG.`  
 Soweit es sich um eine durch die Satzung angeordnete Zwangseinziehung handelt, bedarf es eines Beschlusses der Hauptversammlung nicht. In diesem Fall tritt für die Anwendung der Vorschriften über die ordentliche Kapitalherabsetzung an die Stelle des Hauptversammlungsbeschlusses die Entscheidung des Vorstands über die Einziehung.
+
+*(Beachte: zum Bezugszeitraum vgl. § 262 Abs. 34)*
 
 ### § 193 AktG # Wirksamwerden der Einziehung
 
@@ -204,6 +214,8 @@ Stellt die Hauptversammlung den Jahresabschluß fest, so kann eine Anfechtung au
 `§ 195 (4) AktG.`  
 Wegen unrichtiger, unvollständiger oder verweigerter Erteilung von Informationen kann nur angefochten werden, wenn ein objektiv urteilender Aktionär die Erteilung der Information als wesentliche Voraussetzung für die sachgerechte Wahrnehmung seiner Teilnahme- und Mitgliedschaftsrechte angesehen hätte. Auf unrichtige, unvollständige oder unzureichende Informationen in der Hauptversammlung über die Ermittlung, Höhe oder Angemessenheit des Umtauschverhältnisses (einschließlich barer Zuzahlungen), der Barabfindung oder einer sonstigen Kompensation kann eine Anfechtungsklage nicht gestützt werden, wenn für deren Überprüfung ein besonderes gerichtliches Verfahren vorgesehen ist.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ### § 196 AktG # Anfechtungsbefugnis
 
 `§ 196 (1) AktG.`  
@@ -229,6 +241,8 @@ jedes Mitglied des Vorstands und des Aufsichtsrats, wenn sich die Mitglieder des
 
 `§ 196 (2) AktG.`  
 Aktionäre sind zu einer Anfechtung, die darauf gestützt wird, daß durch den Beschluß Abschreibungen, Wertberichtigungen, Rücklagen oder Rückstellungen über das nach Gesetz oder Satzung statthafte Maß hinaus vorgenommen seien, nur befugt, wenn ihre Anteile zusammen fünf vom Hundert des Grundkapitals erreichen.
+
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
 
 ### § 197 AktG # Anfechtungsklage
 
@@ -276,6 +290,8 @@ er durch seinen Inhalt gegen die guten Sitten verstößt.
 `§ 199 (2) AktG.`  
 Die Nichtigkeit eines Hauptversammlungsbeschlusses auf Grund eines über eine Anfechtungsklage (§ 197) ergangenen Urteils oder eines gerichtlichen Beschlusses auf Löschung im öffentlichen Interesse wegen Verletzung zwingender gesetzlicher Vorschriften wird durch Abs. 1 nicht berührt.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ### § 200 AktG # Heilung der Nichtigkeit
 
 `§ 200 (1) AktG.`  
@@ -286,6 +302,8 @@ Ist ein Hauptversammlungsbeschluß nach § 199 Abs. 1 Z 1, 3 oder 4 nichtig, 
 
 `§ 200 (3) AktG.`  
 Ist ein Hauptversammlungsbeschluss wegen Verstoßes gegen § 107 Abs. 2 zweiter oder dritter Satz gemäß § 199 Abs. 1 Z 1 nichtig, so kann die Nichtigkeit nicht mehr geltend gemacht werden, wenn der nicht geladene Aktionär den Beschluss genehmigt.
+
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
 
 ### § 201 AktG # Nichtigkeitsklage
 

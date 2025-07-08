@@ -456,6 +456,8 @@ Für das Inkrafttreten der durch das Bundesgesetz BGBl. I Nr. 121/2024 geände
 `§ 82 (27) SchUG.`  
 § 82i tritt mit dem Ablauf des Tages der Kundmachung in Kraft und mit 31. März 2026 außer Kraft.
 
+*(Beachte: Die Inkrafttretensbestimmung des Abs. 1 ist gegenstandslos, da es sich bei dieser Rechtsvorschrift um eine Wiederverlautbarung handelt.)*
+
 ### § 82a SchUG # Sonderbestimmung zu § 33
 
 `§ 82a SchUG.`  
@@ -503,6 +505,8 @@ Im Schuljahr 2024/25 können Schülerinnen und Schüler der letzten Schulstufe b
 anstelle der abschließenden Arbeit gemäß § 34 Abs. 3 Z 1 lit. b eine weitere schriftliche Klausurarbeit oder mündliche Teilprüfung ablegen zu wollen, wobei die Entscheidung gemeinsam mit den Festlegungen gemäß § 34 Abs. 4 zu treffen ist oder  
 `§ 82d (2) Z 2 SchUG.`
 im Einvernehmen mit der betreuenden Lehrperson ein bereits festgelegtes und genehmigtes Thema für die abschließende Arbeit durch eine forschende, gestalterische oder künstlerische Arbeit gemäß § 34 Abs.3 Z 1 lit. b zu ersetzten.
+
+*(Beachte: Abs. 1 findet auf abschließende Prüfungen ab dem Haupttermin 2026 Anwendung (vgl. § 82 Abs. 26 Z 2))*
 
 ### § 82e SchUG # Übergangsrecht betreffend die neue Oberstufe
 

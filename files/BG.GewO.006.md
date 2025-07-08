@@ -59,10 +59,14 @@ Werden bei Werbeveranstaltungen, die im Ausland stattfinden, die in Abs. 5 und 
 `§ 57 (8) GewO.`  
 Die Bestimmungen der Abs. 5 bis 7 gelten nicht für in Privathaushalten stattfindende Werbeveranstaltungen.
 
+*(Beachte: Abs. 3: zum Inkrafttreten vgl. § 382 Abs. 105)*
+
 ### § 58 GewO # Sammeln von Bestellungen auf Druckwerke
 
 `§ 58 GewO.`  
 Gewerbetreibende, die den Handel und die Vermittlung des Handels mit vervielfältigten Schriften oder vervielfältigten bildlichen Darstellungen ausüben, dürfen Bestellungen auf diese Druckwerke von Haus zu Haus entweder selbst sammeln oder durch ihre Bevollmächtigten (Handlungsreisenden) sammeln lassen. Die Gewerbetreibenden und die Bevollmächtigten müssen Gewerbelegitimationen im Sinne des § 62 mit sich führen und diese auf Verlangen der behördlichen Organe vorweisen. Das Sammeln solcher Bestellungen an sonstigen Orten, insbesondere auf der Straße, ist verboten. § 57 findet keine Anwendung.
+
+*(Beachte: zum Inkrafttreten vgl. § 382 Abs. 105)*
 
 ### § 59 GewO # Entgegennahme von Bestellungen auf Waren von Privatpersonen
 
@@ -123,6 +127,8 @@ Soweit Staatsverträge nicht anderes vorsehen, dürfen von den im § 51 angefü
 
 *Anm. 1: Die Gewerbelegitimationen-Verordnung 2024 wurde mit BGBl. II Nr. 312/2024* *kundgemacht und tritt mit 1.1.2025 in Kraft.)*
 
+*(Beachte: zum Inkrafttreten vgl. § 382 Abs. 105)*
+
 ### § 62a GewO
 
 `§ 62a (1) GewO.`  
@@ -181,6 +187,8 @@ Die verarbeiteten Daten im Sinne des Abs. 1 und Abs. 2 sind durch die Verantwo
 
 `§ 62a (5) GewO.`  
 Der Auftragsverarbeiter hat die Zustellung des Dokuments entsprechend der Zustellverfügung der Behörde für diese zu veranlassen.
+
+*(Beachte: zum Inkrafttreten vgl. § 382 Abs. 105)*
 
 ### § 63 GewO # g) Namensführung und Bezeichnung der Betriebsstätten
 

@@ -34,6 +34,8 @@ Zur Erreichung des im § 300 Abs. 3 angestrebten Zieles dienen die Maßnahmen 
 `§ 301 (2) ASVG.`  
 Unter Berücksichtigung der Auslastung der eigenen Einrichtungen können die Pensionsversicherungsträger auch Angehörigen (§ 123) eines Versicherten oder eines Pensionisten oder Beziehern von Waisenpensionen (§ 260), die an einer körperlichen, geistigen oder psychischen Behinderung leiden, Maßnahmen der Rehabilitation gemäß § 302 Abs. 1 Z. 1 und § 304 gewähren; ihre Gewährung ist an die Voraussetzung geknüpft, daß ohne diese Maßnahmen dem Versicherten (Pensionisten) Auslagen erwachsen würden, die seine wirtschaftlichen Verhältnisse übersteigen.
 
+*(Beachte: Abs. 1: zum Bezugszeitraum vgl. § 669 Abs. 5)*
+
 ### § 302 ASVG # Medizinische Maßnahmen
 
 `§ 302 (1) ASVG.`  

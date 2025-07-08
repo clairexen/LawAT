@@ -32,6 +32,8 @@ Bei einem Superädifikat, für das bei Gericht keine Urkunde über den Erwerb de
 `§ 135 EO.`  
 Ist für die hereinzubringende vollstreckbare Forderung schon ein Pfandrecht an der Liegenschaft des Verpflichteten rechtskräftig begründet, so bedarf es der Vorlage einer Ausfertigung des Exekutionstitels nicht; die Exekution ist im Rang dieses Pfandrechts zu bewilligen, wenn der betreibende Gläubiger dies beantragt und die Identität der Forderung nachweist.
 
+*(Beachte: Zum Bezugszeitraum vgl. Art. III Abs. 1, BGBl. I Nr. 59/2000.)*
+
 ### § 135a EO # An Verwalter übergebene Liegenschaft
 
 `§ 135a EO.`  
@@ -45,6 +47,8 @@ Die Bewilligung der Exekution ist dem betreibenden Gläubiger, dem Verpflichtete
 `§ 136 (2) EO.`  
 Dem betreibenden Gläubiger ist zugleich der Erlag eines Kostenvorschusses binnen einer mindestens vierwöchigen Frist aufzutragen. Den Wiederkaufsberechtigten ist mitzuteilen, dass sie ihr Recht bei sonstigem Ausschluss innerhalb eines Monats nach Zustellung dieser Verständigung auszuüben haben.
 
+*(Beachte: Zum Bezugszeitraum vgl. Art. III Abs. 1, BGBl. I Nr. 59/2000, hinsichtlich eines Superädifikats vgl. Art. III Abs. 11, BGBl. I Nr. 59/2000.)*
+
 ### § 137 EO # Anmerkung
 
 `§ 137 (1) EO.`  
@@ -55,6 +59,8 @@ Bei Superädifikaten ist die bewilligte Versteigerung im Protokoll über die Vor
 
 `§ 137 (3) EO.`  
 Wenn das Versteigerungsverfahren nach dem Grundbuchsstand undurchführbar ist, ist § 101 sinngemäß anzuwenden.
+
+*(Beachte: Zum Bezugszeitraum vgl. Art. III Abs. 1, BGBl. I Nr. 59/2000, hinsichtlich eines Superädifikats vgl. Art. III Abs. 11, BGBl. I Nr. 59/2000.)*
 
 ### § 138 EO # Wirkung der Anmerkung
 
@@ -145,10 +151,14 @@ Dem Verpflichteten, dem betreibenden Gläubiger sowie allen Personen, für die n
 `§ 144 (2) EO.`  
 Ist auf der Liegenschaft eine Dienstbarkeit begründet, die der leitungsgebundenen Energieversorgung dient, so kann der aus der Dienstbarkeit Berechtigte binnen 14 Tagen ab Zustellung des Schätzgutachtens unwiderruflich erklären, dass er die Übernahme der Dienstbarkeit ohne Anrechnung auf das Meistbot wünscht und bereit ist, den vom Sachverständigen ermittelten Wert der Dienstbarkeit zu zahlen.
 
+*(Beachte: Ist anzuwenden, wenn der Exekutionsantrag nach dem 29. Februar 2008 bei Gericht einlangt (vgl. § 410 Abs. 3).)*
+
 ### § 145 EO # Ergänzung der Schätzung
 
 `§ 145 EO.`  
 Spätestens nach Ablauf der Frist zur Erstattung von Einwendungen gegen den Schätzwert hat das Exekutionsgericht alle nötigen Ergänzungen, Richtigstellungen und Verbesserungen des Schätzungsgutachtens von Amts wegen zu veranlassen.
+
+*(Beachte: Zum Bezugszeitraum vgl. Art. III Abs. 1, BGBl. I Nr. 59/2000, hinsichtlich eines Superädifikats vgl. Art. III Abs. 11, BGBl. I Nr. 59/2000.)*
 
 ### § 146 EO # Änderung der gesetzlichen Versteigerungsbedingungen
 
@@ -336,10 +346,14 @@ Bei der Bekanntmachung in der Ediktsdatei ist dem Versteigerungsedikt das vom Sa
 `§ 171 EO.`  
 Ausfertigungen des Versteigerungsedikts sind dem Verpflichteten, dem betreibenden Gläubiger und allen Personen zuzustellen, für die nach den dem Gericht darüber vorliegenden Urkunden auf der Liegenschaft oder an den auf dieser Liegenschaft haftenden Rechten dingliche Rechte und Lasten bestehen oder Vorkaufsrechte einverleibt sind. Wird ein Miteigentumsanteil, mit dem nicht Wohnungseigentum verbunden ist, versteigert, so ist auch jedem Miteigentümer eine Ausfertigung des Edikts an die im Grundbuch angeführte Adresse zu übersenden.
 
+*(Beachte: Zum Bezugszeitraum vgl. Art. III Abs. 1, BGBl. I Nr. 59/2000, hinsichtlich eines Superädifikats vgl. Art. III Abs. 11, BGBl. I Nr. 59/2000.)*
+
 ### § 172 EO # Weitere Zustellungen
 
 `§ 172 EO.`  
 Personen, zugunsten deren vor Aufnahme des Versteigerungsediktes in die Ediktsdatei um Einverleibung dinglicher Rechte und Lasten oder eines Vorkaufsrechtes im Grundbuch angesucht wurde, ist, falls sie von der Versteigerung noch nicht verständigt sind, eine Ausfertigung des Versteigerungsediktes zuzustellen.
+
+*(Beachte: Zum Bezugszeitraum vgl. Art. III Abs. 1, BGBl. I Nr. 59/2000, hinsichtlich eines Superädifikats vgl. Art. III Abs. 11, BGBl. I Nr. 59/2000.)*
 
 ### § 173 EO # Verständigung bei einem Superädifikat
 
@@ -356,6 +370,8 @@ Soweit ein Widerstreit der Interessen nicht zu besorgen ist, kann dieselbe Perso
 
 `§ 174 (3) EO.`  
 Die Daten über die Bestellung eines Kurators nach Abs. 1 sind in der Ediktsdatei zu löschen, sobald der Kurator rechtskräftig seines Amtes enthoben wurde, der Meistbotsverteilungsbeschluss in Rechtskraft erwachsen ist, oder die Kuratel sonst erloschen ist.
+
+*(Beachte: Abs. 1 und 2: Zum Bezugszeitraum vgl. Art. III Abs. 1, BGBl. I Nr. 59/2000, hinsichtlich eines Superädifikats vgl. Art. III Abs. 11, BGBl. I Nr. 59/2000.)*
 
 ### § 175 EO # Prüfungspflichten und Anordnungen des Gerichts
 
@@ -792,6 +808,8 @@ Die mit ihren Ansprüchen auf das Meistbot gewiesenen Personen sind bei der Ladu
 
 `§ 210 (2) EO.`  
 Auch Forderungen, die nach Ablauf der in Abs. 1 genannten Frist, spätestens aber bei der Tagsatzung angemeldet werden, sind bei der Verteilung zu berücksichtigen. Muss auf Grund der verspäteten Anmeldung die Verhandlung von Amts wegen oder auf Antrag eines anwesenden Gläubigers erstreckt werden, so hat das Exekutionsgericht nach freier Überzeugung (§ 273 ZPO) die Kosten jedes nach § 209 Abs. 2 und 3 zu verständigenden und bei der erstreckten Tagsatzung anwesenden Beteiligten für die Teilnahme an der erstreckten Verhandlung festzusetzen und deren Bezahlung dem säumigen Gläubiger aufzuerlegen. Wenn ein Beteiligter durch einen Rechtsanwalt vertreten wird, sind die Kosten nach dem Rechtsanwaltstarifgesetz zu bemessen.
+
+*(Beachte: Zum Bezugszeitraum vgl. Art. III Abs. 1, BGBl. I Nr. 59/2000, hinsichtlich eines Superädifikats vgl. Art. III Abs. 11, BGBl. I Nr. 59/2000.)*
 
 ### § 211 EO # Angabe des Entschädigungs- oder Kapitalbetrags
 

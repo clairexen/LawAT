@@ -12,6 +12,84 @@
 
 *(Fortsetzg. v. [BG.JN.002](BG.JN.002.md))*
 
+## Wert des Streitgegenstandes.
+
+### § 54 JN
+
+`§ 54 (1) JN.`  
+Für die Berechnung des für die Zuständigkeit maßgebenden Wertes des Streitgegenstandes ist der Zeitpunkt der Anbringung der Klage entscheidend.
+
+`§ 54 (2) JN.`  
+Zuwachs, Früchte, Zinsen, Schäden und Kosten, die als Nebenforderungen geltend gemacht werden, bleiben bei der Wertberechnung unberücksichtigt.
+
+### § 55 JN
+
+`§ 55 (1) JN.`  
+Mehrere in einer Klage geltend gemachte Ansprüche sind zusammenzurechnen, wenn  
+`§ 55 (1) Z 1 JN.`
+sie von einer einzelnen Partei gegen eine einzelne Partei erhoben werden und in einem tatsächlichen oder rechtlichen Zusammenhang stehen oder  
+`§ 55 (1) Z 2 JN.`
+sie von mehreren Parteien oder gegen mehrere Parteien erhoben werden, die Streitgenossen nach § 11 Z 1 ZPO sind.
+
+`§ 55 (2) JN.`  
+Wird der gleiche Anspruch durch oder gegen mehrere Personen geltend gemacht, denen der Anspruch solidarisch zusteht oder für den sie solidarisch haften, so richtet sich der Wert nach der Höhe des einfachen Anspruchs.
+
+`§ 55 (3) JN.`  
+Wird nur ein Teil einer Kapitalsforderung begehrt, so ist der Gesamtbetrag der noch unberichtigten Kapitalsforderung maßgebend.
+
+`§ 55 (4) JN.`  
+Die Abs. 1 bis 3 sind auch für die Besetzung des Gerichts (§ 7a), die Zulässigkeit von Rechtsmitteln und die Berufungsgründe (§ 501 ZPO) maßgebend.
+
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2004 bei Gericht eingelangt ist (vgl. Art. XVI Abs. 2, BGBl. I Nr. 128/2004).)*
+
+### § 56 JN
+
+`§ 56 (1) JN.`  
+Erbietet sich der Kläger an Stelle der angesprochenen Sache eine bestimmte Geldsumme anzunehmen oder stellt er ein alternatives Begehren auf Zuerkennung einer Geldsumme, so ist die in der Klage angegebene Geldsumme für die Beurtheilung der Zuständigkeit und für die Besetzung des Gerichtes (§ 7a) maßgebend.
+
+`§ 56 (2) JN.`  
+In allen anderen Fällen hat der Kläger den Wert eines nicht in einem Geldbetrag bestehenden vermögensrechtlichen Streitgegenstandes in der Klage anzugeben. Dies gilt insbesondere auch in Ansehung von Feststellungsklagen. Unterläßt der Kläger eine Bewertung in einer Klage, so gilt der Betrag von 5 000 Euro als Streitwert.
+
+`§ 56 (3) JN.`  
+Bei der Bewertung des Streitgegenstandes sind die dem Kläger etwa obliegenden Gegenleistungen nicht in Abzug zu bringen.
+
+### § 57 JN
+
+`§ 57 JN.`  
+Bei Streitigkeiten, welche nur die Sicherstellung einer Forderung oder ein Pfandrecht zum Gegenstande haben, ist der Betrag der Forderung, oder wenn der Pfandgegenstand einen geringeren Wert hat, dessen Wert für die Bewertung des Streitgegenstandes maßgebend.
+
+### § 58 JN
+
+`§ 58 (1) JN.`  
+Als Wert des Rechtes auf den Bezug von Zinsen, Renten, Früchten oder anderen wiederkehrenden Nutzungen und Leistungen ist bei immerwährender Dauer das Zwanzigfache, bei unbestimmter oder auf Lebenszeit beschränkter Dauer das Zehnfache, sofern es sich um Ansprüche auf Unterhalts- oder Versorgungsbeträge und auf Zahlung von Renten wegen Körperbeschädigung oder Tötung eines Menschen handelt, das Dreifache der Jahresleistung, bei bestimmter Dauer aber der Gesamtbetrag der künftigen Bezüge, jedoch in keinem Fall mehr als das Zwanzigfache der Jahresleistung anzunehmen.
+
+`§ 58 (2) JN.`  
+Ist das Bestehen eines Pacht- oder Mietverhältnisses streitig, so ist der Betrag des auf die gesammte streitige Zeit fallenden Zinses der Bewertung zugrunde zu legen.
+
+### § 59 JN
+
+`§ 59 JN.`  
+Bei Klagen auf Vornahme von Arbeiten oder anderen persönlichen Leistungen, auf Duldung oder Unterlassung, auf Abgabe von Willenserklärungen ist die vom Kläger angegebene Höhe seines Interesses als Wert des Streitgegenstandes anzusehen.
+
+### § 59a JN
+
+`§ 59a JN.`  
+Bei Klagen auf Unterlassung nach § 549 ZPO gilt der Betrag von 5 000 Euro als Streitwert.
+
+### § 60 JN
+
+`§ 60 (1) JN.`  
+Erscheint bei einer Klage, welche bei einem Gerichtshofe erster Instanz angebracht wurde, die vom Kläger angegebene Summe, zu deren Annahme an Stelle der angesprochenen Sache er sich erboten hat (§ 56 Absatz 1), oder die im Sinne des §. 56 Absatz 2 erfolgte Bewertung des Streitgegenstandes übermäßig hoch gegriffen, so kann das Gericht, wenn es zugleich wahrscheinlich ist, dass bei richtigerer Bewertung des Streitgegenstandes dieser die für die Zuständigkeit des Gerichtshofes oder für die Besetzung des Gerichtes (§ 7a) maßgebende Wertgrenze nicht erreichen dürfte, von amtswegen die ihm zur Prüfung der Richtigkeit der Wertangabe nöthig erscheinenden Erhebungen und insbesondere die Einvernehmung der Parteien, die Vornahme eines Augenscheines und, wenn es ohne erheblichen Kostenaufwand und ohne besondere Verzögerung geschehen kann, auch die Begutachtung durch Sachverständige anordnen. Dies kann erforderlichenfalls auch schon vor Anberaumung der mündlichen Verhandlung geschehen.
+
+`§ 60 (2) JN.`  
+Als Wert einer grund- oder hauszinssteuerpflichtigen unbeweglichen Sache ist jener Betrag anzusehen, welcher als Steuerschätzwert für die Gebürenbemessung in Betracht kommt.
+
+`§ 60 (3) JN.`  
+Muss infolge der Ergebnisse solcher Erhebungen und Beweisführungen die Streitsache von dem Gerichtshofe an das Bezirksgericht abgetreten werden, so hat der Kläger die durch diese Erhebungen und Beweisführungen entstandenen Kosten zu tragen oder zu ersetzen. Dasselbe gilt, wenn nach dem Ergebnisse solcher Erhebungen und Beweisführungen der mit mehr als 100 000 Euro angegebene Wert des Streitgegenstandes den Betrag von 100 000 Euro nicht übersteigt (§ 7a).
+
+`§ 60 (4) JN.`  
+Außer dem in Absatz 1 bezeichneten Falle ist die in der Klage enthaltene Bewertung des Streitgegenstandes in Ansehung der Zuständigkeit und der Besetzung des Gerichtes (§ 7a) sowohl für das Gericht als für den Gegner bindend.
+
 ## Bestreitung der Zuständigkeit eines Civil-, Handels- oder bergrechtlichen Senates.
 
 ### § 61 JN
@@ -24,6 +102,8 @@ Dasselbe kann vermittels Ersatzes des fachmännischen Beisitzers durch einen ric
 
 `§ 61 (3) JN.`  
 Die Entscheidung über die Einrede der Unzuständigkeit ist in diesen Fällen nicht besonders auszufertigen, sondern in die nach Schluss der Verhandlung zur Hauptsache ergehende Entscheidung aufzunehmen.
+
+*(Beachte: Die Berggerichtsbarkeit wurde u. a. durch Art. II Z 5, 28 und 29 BGBl. Nr. 135/1983 aufgehoben, daher ist insoweit der Überschrift (bergrechtliche Senate) materiell derogiert.)*
 
 ### § 62 JN
 
@@ -84,6 +164,8 @@ Als Wohnsitz von Soldaten, welche sich nicht im Inland befinden, gilt bei Ausmit
 
 `§ 69 JN.`  
 Österreichische Staatsangehörige, welche sich in ständiger amtlicher Stellung als Beamte oder Diener des österreichischen Staates oder der österreichisch-ungarischen Monarchie außerhalb des Geltungsgebietes dieses Gesetzes aufhalten, behalten den allgemeinen Gerichtsstand, den sie im Geltungsgebiete dieses Gesetzes hatten. Ist ein solcher nicht begründet oder doch nicht zu ermitteln, so ist für sie der allgemeine Gerichtsstand in Wien, und zwar im Sprengel desjenigen Bezirksgerichtes begründet, in welchem das k. und k. Ministerium des Äußeren seinen Sitz hat.
+
+*(Beachte: 1. Österreichisch-ungarische Monarchie gegenstandslos;2. Statt des k. und k. Ministeriums des Äußeren ist der Sitz des Bundesministeriums f. auswärtige Angelegenheiten maßgebend; es ist sohin das Bezirksgericht Innere Stadt Wien zuständig.)*
 
 ### § 71 JN
 
@@ -153,6 +235,8 @@ Klagen gegen Personen, die bei dem nach den Bestimmungen über die sachliche und
 
 `§ 79 (2) JN.`  
 Dieselben Vorschriften haben zur Anwendung zu kommen, wenn ein Einzelrichter eine Klage erhebt, für welche an sich das Bezirksgericht, bei dem er zur Zeit thätig ist, zuständig wäre, oder wenn der Vorsteher eines Gerichtshofes erster Instanz in einer Rechtssache als Kläger auftritt, welche durch die Bestimmungen dieses Gesetzes dem Gerichtshofe, dem er vorsteht, oder einem Bezirksgerichte im Gerichtshofsprengel zugewiesen ist.
+
+*(Beachte: Art. XIV EGJN, RGBl. Nr. 110/1895)*
 
 ### § 81 JN # Streitigkeiten um unbewegliches Gut
 

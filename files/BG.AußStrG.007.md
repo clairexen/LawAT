@@ -12,6 +12,24 @@
 
 *(Fortsetzg. v. [BG.AußStrG.006](BG.AußStrG.006.md))*
 
+## 9. Abschnitt # Erwachsenenschutzverfahren
+
+### § 116a AußStrG # I. Verfahrensrechte der betroffenen Person
+
+`§ 116a (1) AußStrG.`  
+Die betroffene Person kann in Erwachsenenschutzverfahren unabhängig von ihrer Verfahrensfähigkeit Verfahrenshandlungen vornehmen. Stimmen ihre Anträge nicht mit jenen ihres Vertreters überein, so sind bei der Entscheidung alle Anträge inhaltlich zu berücksichtigen.
+
+`§ 116a (2) AußStrG.`  
+Der betroffenen Person sind sämtliche Beschlüsse zuzustellen. Die Zustellung des Beschlusses über die Bestellung eines Erwachsenenvertreters hat zu eigenen Handen zu erfolgen; der Rechtsbeistand im Verfahren hat ihr dessen Inhalt in geeigneter Weise zu erläutern.
+
+`§ 116a (3) AußStrG.`  
+Kann die betroffene Person den Zustellvorgang oder den Inhalt der Entscheidung auch nicht annähernd begreifen, so ist die Zustellung wirksam, wenn die Ausfertigung des Beschlusses auf eine Weise in den körperlichen Nahebereich der betroffenen Person gelangt, dass sie sich bei Erhalt ohne ihre psychische Krankheit oder eine vergleichbare Beeinträchtigung ihrer Entscheidungsfähigkeit Kenntnis vom Inhalt des Beschlusses verschaffen könnte.
+
+`§ 116a (4) AußStrG.`  
+Will die betroffene Person Beschlüsse anfechten, so genügt es, dass aus dem Schriftstück deutlich hervorgeht, dass sie mit der Entscheidung nicht einverstanden ist.
+
+*(Beachte: zum Bezugszeitraum vgl. § 207m)*
+
 ## II. Bestellung eines gerichtlichen Erwachsenenvertreters
 
 ### § 117 AußStrG # Verfahrenseinleitung
@@ -22,6 +40,8 @@ Das Verfahren über die Bestellung eines gerichtlichen Erwachsenenvertreters fü
 `§ 117 (2) AußStrG.`  
 Ist die Person noch minderjährig, so kann das Verfahren frühestens drei Monate vor Erreichen der Volljährigkeit eingeleitet werden; die Bestellung eines gerichtlichen Erwachsenenvertreters wird nicht vor Eintritt der Volljährigkeit wirksam.
 
+*(Beachte: zum Bezugszeitraum vgl. § 207m)*
+
 ### § 117a AußStrG # Befassung des Erwachsenenschutzvereins
 
 `§ 117a (1) AußStrG.`  
@@ -29,6 +49,8 @@ Liegen konkrete und begründete Anhaltspunkte für die Notwendigkeit der Bestell
 
 `§ 117a (2) AußStrG.`  
 Die betroffene Person ist unverzüglich von der Befassung des Erwachsenenschutzvereins zu verständigen.
+
+*(Beachte: zum Bezugszeitraum vgl. § 207m)*
 
 ### § 118 AußStrG # Erstanhörung
 
@@ -44,10 +66,14 @@ Kann sich das Gericht wegen aus dem Aufenthalt der betroffenen Person resultiere
 `§ 118 (4) AußStrG.`  
 Das Gericht kann die Erstanhörung unter Verwendung geeigneter technischer Kommunikationsmittel zur Wort- und Bildübertragung durchführen und der Anhörung beizuziehende Personen teilnehmen lassen, wenn die Gesundheit einer am Verfahren beteiligten Person durch ihre persönliche Teilnahme aufgrund einer allgemein vorherrschenden Krisensituation ernstlich gefährdet wäre und die Gefährdung nicht anders abgewendet werden kann.
 
+*(Beachte: zum Bezugszeitraum vgl. § 207m)*
+
 ### § 119 AußStrG # Rechtsbeistand im Verfahren
 
 `§ 119 AußStrG.`  
 Ist das Verfahren auf Grund der Ergebnisse der Erstanhörung fortzusetzen, so hat das Gericht für einen Rechtsbeistand der betroffenen Person im Verfahren zu sorgen. Hat sie keinen geeigneten gesetzlichen oder selbstgewählten Vertreter, so hat das Gericht für sie mit sofortiger Wirksamkeit einen Vertreter für das Verfahren zu bestellen. Er ist zu entheben, sobald die betroffene Person einen anderen geeigneten Vertreter gewählt und dem Gericht bekannt gegeben hat.
+
+*(Beachte: zum Bezugszeitraum vgl. § 207m)*
 
 ### § 120 AußStrG # Einstweiliger Erwachsenenvertreter
 
@@ -64,6 +90,8 @@ Ein einstweiliger Erwachsenenvertreter kann auch für denselben Wirkungsbereich 
 
 `§ 120a AußStrG.`  
 Das Gericht hat einen Sachverständigen zu bestellen, wenn es dies für erforderlich hält oder die betroffene Person dies beantragt. Der Sachverständige hat ein schriftliches Gutachten zu erstatten. Das Gericht hat das Gutachten der betroffenen Person und ihrem Rechtsbeistand (§ 119) zu übermitteln. Findet eine mündliche Verhandlung statt, so hat die Übermittlung rechtzeitig vor dieser zu erfolgen. § 31 Abs. 6 ist unter der Voraussetzung anzuwenden, dass die betroffene Person die Erörterung des Gutachtens unter Verwendung technischer Kommunikationsmittel begreifen kann.
+
+*(Beachte: zum Bezugszeitraum vgl. § 207m)*
 
 ### § 121 AußStrG # Mündliche Verhandlung
 
@@ -85,6 +113,8 @@ Sofern eine rechtsunkundige Person zum gerichtlichen Erwachsenenvertreter bestel
 `§ 121 (6) AußStrG.`  
 Das Gericht kann die mündliche Verhandlung unter Verwendung geeigneter technischer Kommunikationsmittel zur Wort- und Bildübertragung durchführen, auf diese Weise Beweise in der mündlichen Verhandlung oder außerhalb dieser aufnehmen und sonst der Verhandlung beizuziehende Personen teilnehmen lassen, wenn die Gesundheit einer am Verfahren beteiligten Person durch ihre persönliche Teilnahme aufgrund einer allgemein vorherrschenden Krisensituation ernstlich gefährdet wäre und die Gefährdung nicht anders abgewendet werden kann. § 18 Abs. 2 ist nicht anzuwenden.
 
+*(Beachte: zum Bezugszeitraum vgl. § 207m)*
+
 ### § 122 AußStrG # Einstellung
 
 `§ 122 (1) AußStrG.`  
@@ -102,6 +132,8 @@ Im Beschluss über die Einstellung oder mit gesondertem Beschluss kann das Geric
 
 `§ 122 (4) AußStrG.`  
 Gerichte oder Behörden, die die Einleitung des Verfahrens angeregt haben, sowie der Erwachsenenschutzverein, der die Abklärung vorgenommen hat, sind von der Einstellung zu verständigen; dabei ist der Schutz des Privat- oder Familienlebens der betroffenen Person zu gewährleisten.
+
+*(Beachte: zum Bezugszeitraum vgl. § 207m)*
 
 ### § 123 AußStrG # Bestellung
 
@@ -124,15 +156,21 @@ Im Beschluss über die Bestellung eines gerichtlichen Erwachsenenvertreters oder
 `§ 123 (3) AußStrG.`  
 Der Beschluss über die Bestellung eines gerichtlichen Erwachsenenvertreters ist für die betroffene Person möglichst verständlich zu begründen.
 
+*(Beachte: zum Bezugszeitraum vgl. § 207m)*
+
 ### § 124 AußStrG # Kosten
 
 `§ 124 AußStrG.`  
 Bei Bestellung eines gerichtlichen Erwachsenenvertreters sind die dem Bund erwachsenen Kosten der betroffenen Person aufzuerlegen, soweit dadurch nicht ihr notwendiger Unterhalt oder der ihrer Familie, für die sie zu sorgen hat, gefährdet wird. Im Übrigen hat der Bund die Kosten endgültig zu tragen.
 
+*(Beachte: zum Bezugszeitraum vgl. § 207m)*
+
 ### § 125 AußStrG # Wirksamwerden der Bestellung eines Erwachsenenvertreters
 
 `§ 125 AußStrG.`  
 Dem Beschluss, mit dem der gerichtliche Erwachsenenvertreter bestellt wird (§ 123 Abs. 1), kann keine vorläufige Wirksamkeit zuerkannt werden.
+
+*(Beachte: zum Bezugszeitraum vgl. § 207m)*
 
 ### § 126 AußStrG # Verständigungspflichten
 
@@ -141,6 +179,8 @@ Von der Bestellung des gerichtlichen Erwachsenenvertreters sind auf geeignete We
 
 `§ 126 (2) AußStrG.`  
 Das Gericht hat zu veranlassen, dass die Anordnung eines Genehmigungsvorbehalts in die öffentlichen Bücher und Register eingetragen wird, wenn der Genehmigungsvorbehalt die in dem betreffenden Buch oder Register eingetragenen Rechte umfasst. Darüber hinaus hat es die Bestellung des gerichtlichen Erwachsenenvertreters im Österreichischen Zentralen Vertretungsverzeichnis einzutragen.
+
+*(Beachte: zum Bezugszeitraum vgl. § 207m)*
 
 ### § 127 AußStrG # Angehörige
 
@@ -283,6 +323,8 @@ Die Verständigungspflichten des § 126 Abs. 1 und 2 sowie des § 128 Abs. 
 `§ 131d AußStrG.`  
 Die §§ 131b und 131c sind auf Anträge, mit denen die Nichtanerkennung geltend gemacht wird, entsprechend anzuwenden.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 207j.)*
+
 ### § 131e AußStrG # Vollstreckbarerklärung
 
 `§ 131e (1) AußStrG.`  
@@ -304,6 +346,8 @@ Für das weitere Verfahren zur Vollstreckbarerklärung gilt § 131c Abs. 3 bis
 
 `§ 131f (3) AußStrG.`  
 Die Vollstreckung kann, soweit eine solche im Verfahren außer Streitsachen erfolgt, zugleich mit der Vollstreckbarerklärung beantragt werden. Das Gericht hat über beide Anträge zugleich zu entscheiden.
+
+*(Beachte: Zum Bezugszeitraum vgl. § 207j.)*
 
 ### § 131g AußStrG # Durchsetzung ausländischer Maßnahmen zum Schutz eines Erwachsenen
 

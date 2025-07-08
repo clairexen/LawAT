@@ -1902,6 +1902,8 @@
 
 > `(4)` Die §§ 11, 12, 13, § 15 Abs\. 1, § 16 Abs\. 1 und 3, §§ 16a, 18a, 18b, 18c, 23, 24, 24a, 24b, 24c, § 25 Abs\. 1, 2, 3 und 5, §§ 26, 27, § 28 Abs\. 1, §§ 29, 31, 31a, 32, 33, 37b, 37c, 37d, 37e, 37f, 59a und 59b gelten entsprechend; an die Stelle der im § 31 Abs\. 2 genannten Frist von fünf Jahren tritt jedoch eine solche von einem Jahr\.
 
+> *\(Beachte: § 37d und, soweit er darauf Bezug nimmt, § 68 Abs\. 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 244/2021 treten mit 7\. Juni 2022 in Kraft \(vgl\. § 116 Abs\. 16\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.md#-68-urhg--verwertungsrechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848&Paragraf=68) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_110_TextContainer_110) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UrhG.005.md#-68-urhg--verwertungsrechte) \]
 
 ----

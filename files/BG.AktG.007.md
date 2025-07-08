@@ -22,10 +22,14 @@ Den Vorsitz in der Hauptversammlung führt der Vorsitzende des Aufsichtsrats ode
 `§ 116 (2) AktG.`  
 Die Mitglieder des Vorstands und des Aufsichtsrats haben in der Hauptversammlung tunlichst anwesend zu sein. Die Satzung kann auch eine Zuschaltung von Mitgliedern des Vorstands oder des Aufsichtsrats über eine optische und akustische Zweiweg-Verbindung gestatten.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ### § 117 AktG # Verzeichnis der anwesenden Teilnehmer
 
 `§ 117 AktG.`  
 In der Hauptversammlung einschließlich einer allfälligen Satellitenversammlung ist ein Verzeichnis der anwesenden oder vertretenen Aktionäre und der Vertreter der Aktionäre, jeweils unter Angabe von Name (Firma) und Wohnort (Sitz), sowie bei Nennbetragsaktien des Betrags, bei Stückaktien der Zahl der von jedem vertretenen Aktien unter Angabe ihrer Gattung aufzustellen. Das Verzeichnis ist vor der ersten Abstimmung in der Hauptversammlung und einer allfälligen Satellitenversammlung aufzulegen.
+
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
 
 ### § 118 AktG # Auskunftsrecht
 
@@ -45,6 +49,8 @@ ihre Erteilung strafbar wäre.
 `§ 118 (4) AktG.`  
 Die Auskunft darf auch verweigert werden, soweit sie auf der im Firmenbuch eingetragenen Internetseite der Gesellschaft in Form von Frage und Antwort über mindestens sieben Tage vor Beginn der Hauptversammlung durchgehend zugänglich war; § 108 Abs. 4 letzter Satz gilt sinngemäß. Auf den Grund der Auskunftsverweigerung ist hinzuweisen.
 
+*(Beachte: zum Bezugszeitraum vgl. § 262 Abs. 34)*
+
 ### § 119 AktG # Anträge in der Hauptversammlung
 
 `§ 119 (1) AktG.`  
@@ -55,6 +61,8 @@ Soweit die Satzung nicht anderes bestimmt, ist über einen Beschlussvorschlag, d
 
 `§ 119 (3) AktG.`  
 Liegen zu einem Punkt der Tagesordnung mehrere Anträge vor, so ist zunächst über Anträge abzustimmen, zu denen bereits vor Beginn der Hauptversammlung Stimmen im Weg der Fernabstimmung oder per Brief abgegeben wurden. Im Übrigen bestimmt mangels einer Regelung in der Satzung der Vorsitzende die Reihenfolge der Abstimmung.
+
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
 
 ### § 120 AktG # Niederschrift
 
@@ -76,6 +84,8 @@ die Belege über die ordnungsgemäße Einberufung; diese können auch unter Anga
 `§ 120 (4) AktG.`  
 Unverzüglich nach der Versammlung hat der Vorstand eine öffentlich beglaubigte Abschrift der Niederschrift zum Firmenbuch einzureichen.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ## Fünfter Unterabschnitt # Abstimmung
 
 ### § 121 AktG # Beschlussfähigkeit, Beschlussmehrheit
@@ -86,10 +96,14 @@ Die Hauptversammlung ist, sofern Gesetz oder Satzung nichts anderes bestimmen, b
 `§ 121 (2) AktG.`  
 Die Beschlüsse der Hauptversammlung bedürfen der Mehrheit der abgegebenen Stimmen (einfache Stimmenmehrheit), soweit nicht Gesetz oder Satzung eine größere Mehrheit oder noch andere Erfordernisse vorschreiben. Für Wahlen kann die Satzung andere Bestimmungen treffen.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ### § 122 AktG # Verfahren
 
 `§ 122 AktG.`  
 Die Form der Ausübung des Stimmrechts und das Verfahren zur Stimmenauszählung richten sich nach der Satzung. Mangels einer solchen Regelung bestimmt sie der Vorsitzende.
+
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
 
 ### § 123 AktG # Stimmrecht bei teileingezahlten Aktien
 
@@ -108,15 +122,21 @@ Bruchteile von Stimmen werden in den Fällen der Abs. 2 und 3 nur berücksichti
 `§ 123 (5) AktG.`  
 Die Satzung kann Bestimmungen gemäß Abs. 2 und 3 nicht für einzelne Aktiengattungen treffen.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ### § 124 AktG # Ruhen des Stimmrechts bei Verstoß gegen Meldepflichten
 
 `§ 124 AktG.`  
 Die Satzung kann vorsehen, dass das Stimmrecht eines Aktionärs ganz oder teilweise ruht, wenn er gegen gesetzliche oder in Börseregeln vorgesehene Meldepflichten über das Ausmaß seines Anteilsbesitzes verstoßen hat.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ### § 125 AktG # Ausschluss des Stimmrechts bei Interessenkonflikten
 
 `§ 125 AktG.`  
 Niemand kann für sich oder für einen anderen das Stimmrecht ausüben, wenn darüber Beschluss gefasst wird, ob er zu entlasten oder von einer Verbindlichkeit zu befreien ist oder ob die Gesellschaft gegen ihn einen Anspruch geltend machen soll. Für Aktien, aus denen ein Aktionär gemäß dem ersten Satz das Stimmrecht nicht ausüben kann, kann das Stimmrecht auch nicht durch einen anderen ausgeübt werden.
+
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
 
 ### § 126 AktG # Fernabstimmung
 
@@ -132,6 +152,8 @@ Vor der Abstimmung in der Hauptversammlung ist sicherzustellen, dass das Stimmve
 `§ 126 (4) AktG.`  
 Wenn der Aktionär nach dem Verfahren zur Stimmabgabe ein Formular oder eine Eingabemaske zu verwenden hat, ist vorzusorgen, dass die Aktionäre zu jedem angekündigten Beschlussvorschlag abstimmen können. Abgegebene Stimmen sind nichtig, wenn der Beschluss in der Hauptversammlung mit einem anderen Inhalt gefasst wird als im Formular oder in der Eingabemaske vorgesehen.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ### § 127 AktG # Abstimmung per Brief
 
 `§ 127 (1) AktG.`  
@@ -145,6 +167,8 @@ Vor der Abstimmung in der Hauptversammlung ist sicherzustellen, dass das Stimmve
 
 `§ 127 (4) AktG.`  
 Das Formular muss so gestaltet sein, dass die Aktionäre zu jedem angekündigten Beschlussvorschlag abstimmen können. Abgegebene Stimmen sind nichtig, wenn der Beschluss in der Hauptversammlung mit einem anderen Inhalt gefasst wird als im Formular vorgesehen.
+
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
 
 ### § 128 AktG # Abstimmungsergebnis, Beschluss
 
@@ -186,6 +210,8 @@ Ein Beschluss über die Ausgabe neuer Aktien mit vorhergehenden oder gleichstehe
 `§ 129 (4) AktG.`  
 Ist der Vorzug aufgehoben, so gewähren die Aktien das Stimmrecht.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ## Sechster Unterabschnitt # Sonderprüfung
 
 ### § 130 AktG # Bestellung der Sonderprüfer
@@ -202,6 +228,8 @@ Hat die Hauptversammlung Sonderprüfer bestellt, so hat das Gericht auf Antrag v
 `§ 130 (4) AktG.`  
 Das Gericht hat auch den Aufsichtsrat und im Fall des Abs. 3 den von der Hauptversammlung bestellten Sonderprüfer zu hören. Die Bestellung kann im Fall des Abs. 2 auf Verlangen von einer angemessenen Sicherheitsleistung abhängig gemacht werden, wenn glaubhaft gemacht wird, dass der Gesellschaft auf Grund des § 133 Abs. 4 zweiter Satz oder von anderen Vorschriften des bürgerlichen Rechts gegen die Antragsteller oder einzelne von ihnen ein Ersatzanspruch zusteht oder erwachsen kann.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ### § 131 AktG # Auswahl der Sonderprüfer
 
 `§ 131 (1) AktG.`  
@@ -210,10 +238,14 @@ Das Gericht darf als Sonderprüfer nur Wirtschaftsprüfer oder Wirtschaftsprüfu
 `§ 131 (2) AktG.`  
 Mitglieder des Vorstands und des Aufsichtsrats sowie Angestellte der Gesellschaft dürfen als Sonderprüfer weder gewählt noch bestellt werden; gleiches gilt für Mitglieder des Vorstands oder des Aufsichtsrats sowie Angestellte einer anderen Gesellschaft, die von der zu prüfenden Gesellschaft abhängig ist oder sie beherrscht, sowie für Personen, auf deren Geschäftsführung eine dieser Gesellschaften maßgebenden Einfluss hat. Im Übrigen gelten die §§ 271 und 271a UGB sinngemäß.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ### § 132 AktG # Verantwortlichkeit der Sonderprüfer
 
 `§ 132 AktG.`  
 § 275 UGB über die Verantwortlichkeit des Abschlussprüfers gilt sinngemäß.
+
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
 
 ### § 133 AktG # Rechte der Sonderprüfer, Prüfungsbericht
 
@@ -229,6 +261,8 @@ Die Sonderprüfer haben über das Ergebnis der Prüfung schriftlich zu berichten
 `§ 133 (4) AktG.`  
 Bestellt das Gericht Sonderprüfer, so trägt die Gesellschaft die Kosten der Prüfung. Gibt das Gericht dem Antrag auf Bestellung von Prüfern nicht statt oder war der Antrag nach dem Ergebnis der Prüfung unbegründet, so haften die Aktionäre, denen Vorsatz oder grobe Fahrlässigkeit zur Last fällt, für den der Gesellschaft durch den Antrag entstehenden Schaden zur ungeteilten Hand.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ## Siebenter Unterabschnitt # Geltendmachung von Ersatzansprüchen
 
 ### § 134 AktG # Verpflichtung zur Geltendmachung
@@ -238,6 +272,8 @@ Die Ansprüche der Gesellschaft gegen Aktionäre, gegen die nach den §§ 39 bi
 
 `§ 134 (2) AktG.`  
 Zur Führung des Rechtsstreits kann die Hauptversammlung besondere Vertreter bestellen. Verlangt die Minderheit die Geltendmachung des Anspruchs und ist der von ihr behauptete Anspruch nicht offenkundig unbegründet, so hat das Gericht die von ihr bezeichneten Personen, wenn deren Bestellung kein wichtiger Grund entgegensteht, als Vertreter der Gesellschaft zur Führung des Rechtsstreits zu bestellen. Im Übrigen richtet sich die Vertretung der Gesellschaft nach § 97, und zwar auch dann, wenn die Minderheit die Geltendmachung des Anspruchs verlangt hat.
+
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
 
 ### § 135 AktG # Geltendmachung
 
@@ -256,10 +292,14 @@ Die Minderheit ist der Gesellschaft gegenüber verpflichtet, die Kosten des Rech
 `§ 135 (5) AktG.`  
 Für den Schaden, der dem Beklagten durch eine unbegründete Klage entsteht, haften die Aktionäre, denen Vorsatz oder grobe Fahrlässigkeit zur Last fällt, zur ungeteilten Hand.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ### § 136 AktG # Verzicht und Vergleich
 
 `§ 136 AktG.`  
 Die Gesellschaft kann auf einen Anspruch, dessen Geltendmachung die Minderheit gemäß § 134 Abs. 1 verlangt hat, nur verzichten oder sich darüber vergleichen, wenn von den die Minderheit bildenden Aktionären so viele zustimmen, dass die Aktien der übrigen nicht mehr zehn vom Hundert des Grundkapitals, im Fall des § 134 Abs. 1 dritter Satz fünf vom Hundert des Grundkapitals, erreichen.
+
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
 
 ## SECHSTER TEIL # Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung # ERSTER ABSCHNITT # Satzungsänderung
 

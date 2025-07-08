@@ -3284,6 +3284,8 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; sobald feststeht, dass der jeweilige Anlass die Dauer eines Monats überschreitet\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 284 Abs\. 67\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.BDG.md#-78e-bdg--sabbatical) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008470&Paragraf=78e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008470#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_115_TextContainer_115) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.BDG.009.md#-78e-bdg--sabbatical) \]
 
 ----
@@ -9056,6 +9058,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Bundesministerin oder der Bundesminister für Landwirtschaft, Regionen und Tourismus hat im Einvernehmen mit der Bundesministerin oder dem Bundesminister für Kunst, Kultur, öffentlichen Dienst und Sport für die Beamten der Fernmeldebehörde durch Verordnung zu bestimmen, welche Organisationseinheiten und welche weiteren gleichwertigen Verwendungen den in der Anlage 1 Z 30 bis 35 angeführten Kategorien zuzuordnen sind\. Bei der Zuordnung der Organisationseinheiten ist auf ihre Größe, ihre sachliche und personelle Ausstattung, auf die mit ihrer Leitung verbundene Verantwortung und auf die Stellung dieser Organisationseinheit im Betrieb Bedacht zu nehmen\. Bei der Zuordnung der Verwendungen sind insbesondere Art und Schwierigkeit der Tätigkeit, der Umfang des Aufgabenbereiches, die dem Arbeitsplatzinhaber in seinem Aufgabenbereich eingeräumte Selbständigkeit, die Verfügungsberechtigung, die Eigenverantwortlichkeit der Tätigkeit, die organisatorische Stellung des Arbeitsplatzes und die für die betreffende Verwendung erforderliche Ausbildung zu berücksichtigen\.
 
+> *\(Beachte: Abs\. 4: zum Inkrafttreten vgl\. § 284 Abs\. 108 Z 3 und 4\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.BDG.md#-249b-bdg--ernennungserfordernisse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008470&Paragraf=249b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008470#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_400_TextContainer_400) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.BDG.027.md#-249b-bdg--ernennungserfordernisse) \]
 
 ----
@@ -9765,6 +9769,8 @@ Der Nationalrat hat beschlossen:
 ### § 279 BDG — Mitwirkungsbefugnisse
 
 > Soweit dieses Bundesgesetz Mitwirkungsbefugnisse der Bundesregierung oder der Bundesministerin oder des Bundesministers für Kunst, Kultur, öffentlichen Dienst und Sport bei Rechtsakten anderer Behörden vorsieht, beziehen sich diese nicht auf Rechtsakte des Bundespräsidenten, des Präsidenten des Nationalrates, des Präsidenten des Verfassungsgerichtshofes, des Präsidenten des Verwaltungsgerichtshofes, des Präsidenten des Rechnungshofes und des Vorsitzenden der Volksanwaltschaft\.
+>
+> *\(Beachte: Tritt hinsichtlich des Präsidenten des Verwaltungsgerichtshofes mit 25\. April 2000 und hinsichtlich des Präsidenten des Verfassungsgerichtshofes mit Ablauf des Tages in Kraft, mit dem § 13 des Verfassungsgerichtshofgesetzes 1953, BGBl\. Nr\. 85/1953, außer Kraft tritt \(vgl\. § 284 Abs\. 41 idF BGBl\. I Nr\. 102/2000\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.BDG.md#-279-bdg--mitwirkungsbefugnisse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008470&Paragraf=279) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008470#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_436_TextContainer_436) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.BDG.030.md#-279-bdg--mitwirkungsbefugnisse) \]
 

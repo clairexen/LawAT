@@ -93,6 +93,8 @@ Die Zuteilungen der Mittel erfolgen monatlich aliquot. Die monatlichen Zuweisung
 `§ 12 (13) UG.`  
 Die Bundesministerin oder der Bundesminister kann im Falle der drohenden oder eingetretenen Zahlungsunfähigkeit der Universität ein Sanierungskonzept als verbindlichen Rahmen für ihre Wirtschaftsführung vorgeben, welches dem Ziel dient, im Rahmen einer geordneten Gebarung die künftige, dauerhafte Leistungsfähigkeit der Universität zu erreichen. Das Sanierungskonzept kann die Bestellung einer Universitätskuratorin, eines Universitätskurators oder von mehreren Universitätskuratorinnen oder Universitätskuratoren beinhalten.
 
+*(Beachte: zum Bezugszeitraum vgl. § 143 Abs. 49)*
+
 ### § 12a UG # Festlegung der Globalbudgets der Universitäten
 
 `§ 12a (1) UG.`  
@@ -122,6 +124,8 @@ Die Höhe des Globalbudgets sowie die Höhe der Teilbeträge wird mit Ausnahme j
 `§ 12a (4) UG.`  
 Zur Sicherstellung der Umsetzung der Maßnahmen zur sozialen Dimension in der Lehre sowie zur Einbeziehung von unterrepräsentierten Gruppen in die Hochschulbildung gemäß § 13 Abs. 2 Z 1 lit. g kann die Bundesministerin oder der Bundesminister bis zu 0,5 vH des Globalbudgets einbehalten. Der einbehaltene Betrag wird bei Nachweis der Umsetzung der in der Leistungsvereinbarung vereinbarten Maßnahmen ausbezahlt.
 
+*(Beachte: Ist erstmals auf die Leistungsvereinbarungsperiode 2019 bis 2021 anzuwenden (vgl. § 143 Abs. 49).)*
+
 ### § 12b UG # Gesamtösterreichischer Universitätsentwicklungsplan
 
 `§ 12b (1) UG.`  
@@ -132,6 +136,8 @@ Die Entwicklungspläne der Universitäten gemäß § 13b haben sich inhaltlich 
 
 `§ 12b (3) UG.`  
 Der gesamtösterreichische Universitätsentwicklungsplan wird bis spätestens Ende des ersten Jahres jeder Leistungsvereinbarungsperiode für die zwei kommenden Leistungsvereinbarungsperioden erstellt und bis spätestens 31. Oktober des zweiten Jahres jeder Leistungsvereinbarungsperiode, insbesondere hinsichtlich der Statistiken zu Entwicklungen und Prognosen in der Lehre, Forschung bzw. Entwicklung und Erschließung der Künste sowie zum Universitätspersonal, aktualisiert.
+
+*(Beachte: Ist erstmals auf die Leistungsvereinbarungsperiode 2019 bis 2021 anzuwenden (vgl. § 143 Abs. 49).)*
 
 ### § 13 UG # Leistungsvereinbarung
 

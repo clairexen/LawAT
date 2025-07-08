@@ -430,6 +430,8 @@
 
 > `(7)` Der Österreichischen Nationalbank sind gegen Ersatz der dafür anfallenden Kosten die Daten aus dem Zentralen Vereinsregister zur Erfüllung ihrer gesetzlich oder unionsrechtlich übertragenen Aufgaben nach Maßgabe der technischen Möglichkeiten im Datenfernverkehr zu übermitteln\.
 
+> *\(Beachte: Abs\. 6 ist ab 5\.12\.2023 anzuwenden \(vgl\. § 33 Abs\. 16 iVm BGBl\. II Nr\. 340/2023\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.VerG.md#-19-verg--erteilung-von-auskünften-aus-dem-zentralen-vereinsregister) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917&Paragraf=19) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.VerG.002.md#-19-verg--erteilung-von-auskünften-aus-dem-zentralen-vereinsregister) \]
 
 ----
@@ -486,6 +488,8 @@
 
 > `(5)` Stellt der Abschlussprüfer bei seiner Prüfung Tatsachen fest, die erkennen lassen, dass der Verein seine bestehenden Verpflichtungen nicht erfüllen kann, oder die erwarten lassen, dass der Verein in Zukunft zur Erfüllung seiner Verpflichtungen nicht in der Lage sein wird, so hat er dies der Vereinsbehörde mitzuteilen\. Die Vereinsbehörde hat diesen Umstand im Vereinsregister ersichtlich zu machen\. Die Eintragung ist wieder zu löschen, wenn der Abschlussprüfer mitteilt, dass die ihr zu Grunde liegenden Tatsachen nicht mehr bestehen\. Die Eintragung ist in einer Weise zu löschen, dass sie – abweichend von § 16 Abs\. 2 – nicht weiter abfragbar ist\.
 
+> *\(Beachte: Zu Abs\. 2: zum Bezugszeitraum vgl\. § 33 Abs\. 13\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.VerG.md#-22-verg--qualifizierte-rechnungslegung-für-große-vereine) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917&Paragraf=22) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_23_TextContainer_23) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.VerG.002.md#-22-verg--qualifizierte-rechnungslegung-für-große-vereine) \]
 
 ----
@@ -531,6 +535,8 @@
 > `(6)` Unterlässt es der Organwalter oder Rechnungsprüfer, dem Verein den Streit zu verkünden, so verliert er zwar nicht das Recht auf die Befreiung von der Verbindlichkeit gegen den Verein, doch kann ihm der Verein alle gegen den Dritten unausgeführt gebliebenen Einwendungen entgegensetzen und sich dadurch insoweit von seiner Verpflichtung befreien, als erkannt wird, dass diese Einwendungen eine andere Entscheidung gegen den Dritten veranlasst hätten, wenn von ihnen gehörig Gebrauch gemacht worden wäre\.
 
 > `(7)` Eine von einem Verein abgeschlossene Haftpflichtversicherung hat auch den in Abs\. 5 genannten Anspruch eines Organwalters oder Rechnungsprüfers gegen den Verein zu decken\.
+
+> *\(Beachte: Zu Abs\. 1, 5, 6 und 7: Bezugszeitraum vgl\. § 33 Abs\. 10\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.VerG.md#-24-verg--haftung-von-organwaltern-und-rechnungsprüfern) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917&Paragraf=24) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20001917#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.VerG.002.md#-24-verg--haftung-von-organwaltern-und-rechnungsprüfern) \]
 

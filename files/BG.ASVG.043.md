@@ -139,6 +139,8 @@ Die Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz hat
 `§ 456a (5) ASVG.`  
 Die Abs. 3 und 4 sind auf die Verwaltungskörper des Dachverbandes sinngemäß anzuwenden.
 
+*(Beachte: zum Bezugszeitraum vgl. § 718 Abs. 19)*
+
 ## ABSCHNITT VIII. # Versicherungsunterlagen für die Pensionsversicherung.
 
 ### § 457 ASVG # Führung der Versicherungsunterlagen

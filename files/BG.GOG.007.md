@@ -185,6 +185,8 @@ Kurze Mitteilungen aus der Ediktsdatei sind von den nach Abs. 2 zuständigen Ge
 `§ 89k (4) GOG.`  
 Kann eine Einsicht durch Sammelabfrage nicht automationsunterstützt vorgenommen werden, so ist sie schriftlich bei einem Gericht zu beantragen, das für eines der Verfahren zuständig ist, in dem die nachgefragten Daten bekanntgemacht werden könnten.
 
+*(Beachte: Im Titel der BGBl. I Nr. 114/1997 findet sich folgende Fußnote: Diese Kundmachung ersetzt die Kundmachung BGBl. I Nr. 106/1997.)*
+
 ### § 89l GOG # Registerauskunft
 
 `§ 89l (1) GOG.`  
@@ -207,6 +209,8 @@ Anträge sind unter genauer Bezeichnung des Verbandes, gegebenenfalls unter Anf�
 
 `§ 89m (3) GOG.`  
 Auskünfte nach Abs. 1 Z 2 sind im Rahmen der Verfahrensautomation Justiz auf Grundlage einer Namensabfrage zu erstellen. Wird gegen einen Verband kein Strafverfahren als Beschuldigten geführt, so hat die Auskunft nach Abs. 1 Z 2 zu lauten, dass der Verband bei einer Namensabfrage in der Verfahrensautomation Justiz nicht als Beschuldigter aufscheint. Ebenso hat die Auskunft zu lauten, wenn die in § 50 letzter Satz StPO genannten Voraussetzungen vorliegen.
+
+*(Beachte: Zum Bezugszeitraum vgl. § 98 Abs. 13.)*
 
 ### § 89n GOG # Automationsunterstützte Verarbeitung von Verfahrensinhalten
 

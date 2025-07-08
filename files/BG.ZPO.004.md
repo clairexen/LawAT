@@ -150,6 +150,8 @@ Enthält ein Schriftsatz beleidigende Äußerungen im Sinn des § 86, so ist er
 `§ 86a (2) ZPO.`  
 Besteht ein Schriftsatz aus verworrenen, unklaren, sinn- oder zwecklosen Ausführungen und lässt er das Begehren nicht erkennen, oder erschöpft er sich in der Wiederholung bereits erledigter Streitpunkte oder schon vorgebrachter Behauptungen, so ist er ohne Verbesserungsversuch zurückzuweisen. Abs. 1 zweiter bis vierter Satz sind mit der Maßgabe sinngemäß anzuwenden, dass der Hinweis in den Zurückweisungsbeschluss aufzunehmen ist.
 
+*(Beachte: Ist auf Schriftsätze anzuwenden, die nach dem 30. Juni 2011 bei Gericht angebracht werden (vgl. Art. 39 Abs. 12, BGBl. I Nr. 111/2010).)*
+
 ## Zweiter Titel. # Zustellungen.
 
 ### § 87 ZPO
@@ -202,6 +204,8 @@ Kann die Zustellung der Klage an eine im Firmenbuch eingetragene juristische Per
 
 `§ 92 (2) ZPO.`  
 Bis dem Gericht eine Abgabestelle bekannt gegeben wird, sind alle weiteren zuzustellenden Schriftstücke bei Gericht zu hinterlegen.
+
+*(Beachte: Ist anzuwenden, wenn die Klage nach dem 30. Juni 2011 bei Gericht angebracht wird (vgl. Art. 39 Abs. 11, BGBl. I Nr. 111/2010).)*
 
 ### § 93 ZPO
 
@@ -283,6 +287,8 @@ Sind beide Parteien durch Rechtsanwälte vertreten, so hat jeder dieser Rechtsan
 `§ 115 ZPO.`  
 Durch öffentliche Bekanntmachung (§ 25 des Zustellgesetzes) ist zuzustellen, wenn das Vorliegen der dafür erforderlichen Voraussetzungen glaubhaft gemacht wird. Die öffentliche Bekanntmachung erfolgt durch Aufnahme einer Mitteilung in die Ediktsdatei, dass ein zuzustellendes Schriftstück bei Gericht liegt. Die Mitteilung hat auch eine kurze Angabe des Inhalts des zuzustellenden Schriftstücks, die Bezeichnung des Prozessgerichts und der Streitsache sowie die Möglichkeiten zur Abholung des Schriftstücks und einen Hinweis auf die Rechtsfolgen dieser Bekanntmachung zu enthalten. Mit der Aufnahme in die Ediktsdatei gilt die Zustellung als vollzogen.
 
+*(Beachte: Ist anzuwenden, wenn das Datum der bekannt zu machenden Entscheidung nach dem 31. Dezember 2004 liegt (vgl. Art. XXXII § 4 Abs. 2, BGBl. I Nr. 112/2003).)*
+
 ## Zustellung an den Curator.
 
 ### § 116 ZPO
@@ -299,6 +305,8 @@ Die Bestellung des Curators, dessen Name und Wohnort und eine kurze Angabe des I
 Der Inhalt des Edikts ist in die Ediktsdatei aufzunehmen. Wenn dies im einzelnen Fall zweckmäßig erscheint und nicht mit einem im Vergleich zum Streitgegenstand zu großen Kostenaufwand verbunden ist, kann auf Antrag oder von Amts wegen angeordnet werden, dass das Edikt auch in Zeitungen eingeschaltet wird. Gegen diese Anordnung ist ein Rechtsmittel nicht zulässig. Im Verfahren vor Gerichtshöfen steht diese Anordnung dem Vorsitzenden des Senates zu, dem die Rechtssache zugewiesen ist. Die Bekanntmachung des Edikts ist von Amts wegen zu bewirken.
 *(Anm.: Abs. 3 aufgehoben durch BGBl. Nr. 135/1983)*
 
+*(Beachte: Ist anzuwenden, wenn das Datum der bekannt zu machenden Entscheidung nach dem 31. Dezember 2004 liegt (vgl. Art. XXXII § 4 Abs. 2, BGBl. I Nr. 112/2003).)*
+
 ### § 118 ZPO
 
 `§ 118 (1) ZPO.`  
@@ -307,6 +315,8 @@ Die Zustellung gilt mit Aufnahme des Inhalts des Ediktes in die Ediktsdatei und 
 `§ 118 (2) ZPO.`  
 Die Kosten der Bekanntmachung und der Curatorsbestellung sind unbeschadet eines Anspruches auf Ersatz von der Partei zu bestreiten, durch deren Processhandlung beides veranlasst wurde.
 
+*(Beachte: Ist anzuwenden, wenn das Datum der bekannt zu machenden Entscheidung nach dem 31. Dezember 2004 liegt (vgl. Art. XXXII § 4 Abs. 2, BGBl. I Nr. 112/2003).)*
+
 ### § 119 ZPO # Löschen der Daten in der Ediktsdatei
 
 `§ 119 (1) ZPO.`  
@@ -314,6 +324,8 @@ Das Edikt über die Bestellung eines Kurators ist zu löschen, sobald der Kurato
 
 `§ 119 (2) ZPO.`  
 Die Mitteilung nach § 115 ist zu löschen, wenn seit ihrer Aufnahme ein Monat vergangen ist und das Gericht keine längere Bekanntmachungsdauer bestimmt hat.
+
+*(Beachte: Ist anzuwenden, wenn das Datum der bekannt zu machenden Entscheidung nach dem 31. Dezember 2004 liegt (vgl. Art. XXXII § 4 Abs. 2, BGBl. I Nr. 112/2003).)*
 
 ## Zustellung im Ausland
 

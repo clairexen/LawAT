@@ -120,6 +120,8 @@ Für die von der Allgemeinen Unfallversicherungsanstalt eingerichteten Krankenan
 § 447f Abs. 7 ist mit der Maßgabe anzuwenden, daß der 10%ige Kostenbeitrag von dem nach § 150 Abs. 2 zweiter Satz in der Satzung festgesetzten Betrag zu berechnen und an den Träger der Sozialversicherung zu leisten ist, soweit jedoch Abs. 3 erster Satz anzuwenden ist, vom Träger der Krankenanstalt an den Fonds nach Abs. 3 zweiter Satz zu überweisen ist; die an den Fonds überwiesenen, tatsächlich eingehobenen Kostenbeiträge sind dem Pauschalbeitrag nach Abs. 3 gegenzuverrechnen.
 *(Anm.: Abs. 6 aufgehoben durch BGBl. I Nr. 71/2003)*
 
+*(Beachte: Abs. 3a tritt nach Ablauf von sechs Monaten nach Außerkrafttreten der Vereinbarung gemäß Art. 15a B-VG über die Organisation und Finanzierung des Gesundheitswesens, in der jeweils geltenden Fassung außer Kraft (vgl. § 675 Abs. 3 und § 701 Abs. 2).)*
+
 ### § 150 ASVG # Pflegekostenzuschuß des Versicherungsträgers bei Anstaltspflege
 
 `§ 150 (1) ASVG.`  

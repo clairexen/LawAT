@@ -229,6 +229,8 @@ Die Kosten der elektronischen Überwachung trägt der Bund.
 `§ 52b (9) StGB.`  
 Die Bundesministerin für Justiz ist ermächtigt, durch Verordnung Richtlinien über die Art und die Durchführung der elektronischen Überwachung zu erlassen.
 
+*(Beachte: zum Bezugszeitraum vgl. Art. 5 Abs. 2, BGBl. I Nr. 159/2021)*
+
 ### § 53 StGB # Widerruf der bedingten Strafnachsicht und der bedingten Entlassung aus einer Freiheitsstrafe
 
 `§ 53 (1) StGB.`  
@@ -245,6 +247,8 @@ Bestehen gegen Ende der ursprünglichen oder verlängerten Probezeit nach beding
 
 `§ 53 (5) StGB.`  
 Nach Abs. 4 kann auch in den Fällen vorgegangen werden, in denen nach § 52b gerichtliche Aufsicht nach bedingter Entlassung aus einer Freiheitsstrafe von mehr als achtzehn Monaten angeordnet wurde. Vor einer solchen Anordnung ist eine gerichtliche Fallkonferenz nach § 52b Abs. 3 StGB abzuhalten. Die Weisung einer elektronischen Überwachung darf höchstens zehn Jahre aufrechterhalten werden.
+
+*(Beachte: zum Bezugszeitraum vgl. Art. 5 Abs. 2, BGBl. I Nr. 159/2021)*
 
 ### § 54 StGB # Widerruf der bedingten Nachsicht und der bedingten Entlassung bei einer vorbeugenden Maßnahme
 

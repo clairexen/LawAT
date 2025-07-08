@@ -81,6 +81,8 @@ Die Verfahrenshilfe ist beim Prozeßgericht erster Instanz schriftlich oder zu P
 `§ 65 (2) ZPO.`  
 Über den Antrag auf Bewilligung der Verfahrenshilfe hat stets das Prozeßgericht erster Instanz zu entscheiden, auch wenn sich die Notwendigkeit hierzu erst im Verfahren vor einer höheren Instanz ergibt. Der Beschluß über den Antrag darf dem Gegner frühestens mit der Klage zugestellt werden.
 
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
+
 ### § 66 ZPO
 
 `§ 66 (1) ZPO.`  
@@ -146,6 +148,8 @@ Ein Rekurs ist, vorbehaltlich des § 65 Abs. 2, den Parteien und dem Revisor z
 `§ 72 (3) ZPO.`  
 Einer Vertretung durch Rechtsanwälte bedürfen die Parteien bei den nach diesem Titel bei Gericht vorzunehmenden Handlungen auch im Anwaltsprozeß nicht. Rekurse gegen Beschlüsse über die Verfahrenshilfe sowie Rekursbeantwortungen können auch bei Gerichtshöfen mündlich zu Protokoll erklärt werden. Ein Kostenersatz findet nicht statt.
 
+*(Beachte: Ist anzuwenden, wenn das Datum der Entscheidung nach dem 30. November 2004 liegt (vgl. Art. XVI Abs. 3, BGBl. I Nr. 128/2004).)*
+
 ### § 73 ZPO
 
 `§ 73 (1) ZPO.`  
@@ -156,6 +160,8 @@ Hat die beklagte Partei vor Ablauf der Frist, innerhalb deren sie die Klage zu b
 
 `§ 73 (3) ZPO.`  
 Wird nach dem Eintritt der Rechtskraft des Beschlusses, mit dem die Beigebung eines Rechtsanwalts versagt wird, von derselben Partei neuerlich ein Antrag gestellt, ihr einen Rechtsanwalt kostenlos beizugeben, so bleibt hievon der weitere Ablauf der schon einmal nach dem Abs. 2 unterbrochenen Frist unberührt.
+
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
 
 ## Achter Titel # Gebärdensprachdolmetscher
 

@@ -4770,6 +4770,8 @@
 
 > `(6)` Weitergehende Rechte des Beschuldigten nach diesem Bundesgesetz, dem Amtshaftungsgesetz, BGBl\. Nr\. 20/1949, und dem Strafrechtlichen Entschädigungsgesetz 2005, BGBl\. I Nr\. 125/2004, bleiben unberührt\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 516 Abs\. 12\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-196a-stpo--beitrag-zu-den-kosten-der-verteidigung-im-ermittlungsverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=196a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_221_TextContainer_221) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.015.md#-196a-stpo--beitrag-zu-den-kosten-der-verteidigung-im-ermittlungsverfahren) \]
 
 ----
@@ -7540,6 +7542,8 @@
 > `(4)` Der Antrag ist bei sonstigem Ausschluss innerhalb von drei Jahren nach Verständigung von der Entscheidung oder Verfügung zu stellen\.
 
 > `(5)` § 196a Abs\. 5 und 6 gilt sinngemäß\.
+
+> *\(Beachte: zum Bezugszeitraum vgl\. § 516 Abs\. 12\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.md#-393a-stpo--beitrag-zu-den-kosten-der-verteidigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326&Paragraf=393a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_439_TextContainer_439) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.024.md#-393a-stpo--beitrag-zu-den-kosten-der-verteidigung) \]
 

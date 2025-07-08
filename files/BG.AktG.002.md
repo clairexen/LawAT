@@ -222,6 +222,8 @@ Außerdem hat vor der Beschlußfassung eine Prüfung durch einen oder mehrere Gr
 `§ 45 (4) AktG.`  
 Der Beschluß der Hauptversammlung bedarf einer Mehrheit, die mindestens drei Viertel des bei der Beschlußfassung vertretenen Grundkapitals umfaßt; wird der Vertrag im ersten Jahr nach der Eintragung der Gesellschaft in das Firmenbuch geschlossen, so müssen außerdem die Anteile der zustimmenden Mehrheit mindestens ein Viertel des gesamten Grundkapitals erreichen. Die Satzung kann diese Mehrheit durch eine größere Kapitalsmehrheit ersetzen und noch andere Erfordernisse aufstellen.
 
+*(Beachte: zum Bezugszeitraum vgl. § 262 Abs. 34)*
+
 ### § 46 AktG # Eintragung der Nachgründung
 
 `§ 46 (1) AktG.`  

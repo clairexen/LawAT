@@ -134,6 +134,8 @@ Die Nostrifizierung ist bescheidmäßig zu widerrufen, wenn sie insbesondere dur
 `§ 90 (6) UG.`  
 Die Taxe für die Nostrifizierung eines ausländischen Studienabschlusses beträgt 150 Euro. Die Taxe ist im Voraus zu entrichten. Sie verfällt, wenn der Antrag auf Nostrifizierung abgewiesen oder zurückgezogen wird.
 
+*(Beachte: [CELEX-Nr. 32021L1883])*
+
 ## 8. Abschnitt # Studienbeitragsbestimmungen
 
 ### § 91 UG # Studienbeitrag
@@ -165,6 +167,8 @@ Der Studienbeitrag ist für jedes Semester im Voraus zu entrichten. Die Studienb
 
 `§ 91 (6) UG.`  
 Nähere Bestimmungen zur Einhebung des Studienbeitrages sind durch eine Verordnung der Bundesministerin oder des Bundesministers für Frauen, Wissenschaft und Forschung festzulegen (Studienbeitragsverordnung).
+
+*(Umsetzungshinweis: CELEX-Nr. 32021L1883)*
 
 ### § 92 UG # Erlass und Rückerstattung des Studienbeitrages
 

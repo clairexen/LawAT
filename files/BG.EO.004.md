@@ -131,6 +131,8 @@ der Exekutionstitel nicht mit sämtlichen im Exekutionsantrag enthaltenen Angabe
 `§ 54e (2) EO.`  
 Tritt der Einstellungsgrund nur hinsichtlich eines Teils der Exekution ein, so ist diese verhältnismäßig einzuschränken.
 
+*(Beachte: Ist anzuwenden, wenn der Exekutionsantrag nach dem 31. August 2005 bei Gericht einlangt (vgl. § 408 Abs. 5).)*
+
 ### § 54f EO # Ausdehnung der Exekutionsbewilligung
 
 `§ 54f EO.`  
@@ -151,6 +153,8 @@ Das Gericht kann jedoch die ihm nötig scheinenden Aufklärungen auch ohne Vermi
 
 `§ 55a EO.`  
 Ist für eine Entscheidung des Gerichts die Kenntnis des Grundbuchsstands von Bedeutung, so hat es diesen von Amts wegen zu erheben. Bei unverbücherten Liegenschaften und Superädifikaten ist in die Liegenschafts- und Bauwerkskartei Einsicht zu nehmen.
+
+*(Beachte: Zum Bezugszeitraum vgl. Art. III Abs. 1, BGBl. I Nr. 59/2000.)*
 
 ### § 56 EO # Säumnis
 
@@ -400,6 +404,8 @@ Beschlüsse, mit denen die Exekutionskosten bestimmt werden, sind ab deren Erlas
 
 `§ 74a EO.`  
 Der betreibende Gläubiger, der einen Antrag im elektronischen Rechtsverkehr einbringt, braucht Barauslagen, wenn sie den Betrag von 30 Euro nicht übersteigen, nur auf Aufforderung des Gerichts zu belegen. Diese Aufforderung ist bei Bedenken gegen die Richtigkeit der verzeichneten Barauslagen oder auf Verlangen des Verpflichteten zu erlassen. § 54b Abs. 2 Z 3 und §§ 54c ff sind sinngemäß anzuwenden, wobei der Verpflichtete im Einspruch nur geltend machen kann, dass die vom betreibenden Gläubiger verzeichneten Barauslagen diesem nicht oder nicht in der geltend gemachten Höhe entstanden sind.
+
+*(Beachte: Zum Bezugszeitraum vgl. Art. III Abs. 8, BGBl. I Nr. 59/2000.)*
 
 ### § 75 EO # Aberkennung der Kosten
 

@@ -106,4 +106,6 @@ Sofern an ganztägigen Schulformen der Beitrag für den Betreuungsteil trotz Mah
 `§ 33 (8) SchUG.`  
 Für Privatschulen gelten die vorstehenden Bestimmungen mit der Maßgabe, daß der Privatschulerhalter darüber hinausgehende Gründe für die Beendigung des Schulbesuches anläßlich der Aufnahme vereinbaren kann, soweit dadurch nicht § 4 Abs. 3 des Schulorganisationsgesetzes berührt wird.
 
+*(Beachte: Abs. 2 lit. g tritt für die 10. und die 11. Schulstufe mit 1. September 2022 und hinsichtlich der weiteren Schulstufen jeweils mit 1. September der Folgejahre schulstufenweise aufsteigend in Kraft (vgl. § 82 Abs. 21 Z 5).)*
+
 `END-OF-DATA-FILE` *(fortges. in [BG.SchUG.006](BG.SchUG.006.md))*

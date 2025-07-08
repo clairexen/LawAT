@@ -68,6 +68,8 @@ Auf Gewohnheiten kann nur in den Fällen, in welchen sich ein Gesetz darauf beru
 `§ 11 ABGB.`  
 Nur jene Statuten einzelner Provinzen und Landesbezirke haben Gesetzeskraft, welche nach der Kundmachung dieses Gesetzbuches von dem Landesfürsten ausdrücklich bestätigt werden.
 
+*(Beachte: Aufgrund der geänderten Verfassungslage ist § 11 heute gegenstandslos.)*
+
 ### § 12 ABGB # c) Richterliche Aussprüche
 
 `§ 12 ABGB.`  
@@ -286,6 +288,8 @@ Derjenige Ehegatte, dessen Familienname nicht gemeinsamer Familienname ist, kann
 `§ 93 (4) ABGB.`  
 Ein Doppelname ist durch einen Bindestrich zwischen dessen einzelnen Teilen zu trennen.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 1503.)*
+
 ### § 93a ABGB
 
 `§ 93a (1) ABGB.`  
@@ -297,15 +301,21 @@ Wird die Ehe aufgelöst, so können die Ehegatten jeden früher rechtmäßig gef
 `§ 93a (3) ABGB.`  
 Eine Person kann bestimmen, dass ihr Familienname dem Geschlecht angepasst wird, soweit dies der Herkunft der Person oder der Tradition der Sprache entspricht, aus der der Name stammt. Sie kann auch bestimmen, dass eine auf das Geschlecht hinweisende Endung des Namens entfällt.
 
+*(Beachte: Ist auf Ehegatten anzuwenden, die die Ehe nach dem 31.3.2013 schließen (vgl. § 1503).)*
+
 ### § 93b ABGB
 
 `§ 93b ABGB.`  
 Die Bestimmung oder Wiederannahme eines Familiennamens nach den §§ 93 und 93a ist nur einmalig zulässig.
 
+*(Beachte: Ist auf Ehegatten anzuwenden, die die Ehe nach dem 31.3.2013 schließen (vgl. § 1503).)*
+
 ### § 93c ABGB
 
 `§ 93c ABGB.`  
 Namensrechtliche Erklärungen sind dem Standesbeamten gegenüber in öffentlicher oder öffentlich beglaubigter Urkunde abzugeben. Ihre Wirkungen treten ein, sobald sie dem Standesbeamten zukommen.
+
+*(Beachte: Ist auf Ehegatten anzuwenden, die die Ehe nach dem 31.3.2013 schließen (vgl. § 1503).)*
 
 ### § 94 ABGB # Sonstige Wirkungen der Ehe
 

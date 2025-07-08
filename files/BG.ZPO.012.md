@@ -36,6 +36,8 @@ Die Folgen der Versäumung (§ 144) treten von selbst ein. § 145 ist nicht an
 `§ 397 ZPO.`  
 Über einen Antrag auf Erlassung eines Versäumungs-, Verzichts- oder Anerkenntnisurteils entscheidet der Vorsitzende des Senats. Im Fall des § 396 Abs. 1 ist über den Antrag auf Erlassung eines Versäumungsurteils durch den Vorsitzenden als Einzelrichter binnen acht Tagen ohne Anberaumung einer Verhandlung zu erkennen.
 
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
+
 ### § 397a ZPO
 
 `§ 397a (1) ZPO.`  
@@ -53,6 +55,8 @@ Derjenigen Partei, die den Widerspruch erhoben hat, ist der Ersatz aller Kosten 
 `§ 397a (5) ZPO.`  
 Der Widerspruch kann längstens bis zum Ergehen eines der im Abs. 3 genannten Beschlüsse zurückgenommen werden; auf seine Zurücknahme sind die Vorschriften über die Zurücknahme der Klage sinngemäß anzuwenden.
 
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
+
 ### § 398 ZPO
 
 `§ 398 (1) ZPO.`  
@@ -65,6 +69,8 @@ Stellt der Gegner des Säumigen keinen Antrag auf Erlassung eines Versäumungsur
 
 `§ 399 ZPO.`  
 Das Fernbleiben einer Partei, welche sich bereits durch mündliches Vorbringen zur Hauptsache in den Streit eingelassen hat, von einer Tagsatzung hindert weder den Fortgang des Verfahrens noch berechtigt es die andere Partei dazu, die Fällung eines Versäumungsurteils zu beantragen.
+
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
 
 ### § 400 ZPO
 
@@ -95,6 +101,8 @@ Der Antrag, gegen Streitgenossen wegen Säumnis das Urtheil zu fällen, ist bei 
 
 `§ 402 (3) ZPO.`  
 Wenn dem Antrage, wegen Säumnis einer Partei das Urtheil zu fällen, nicht stattgegeben wird, ist die Tagsatzung von amtswegen auf angemessene Zeit zu erstrecken und auch die säumige Partei zur neuen Tagsatzung wieder zu laden.
+
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
 
 ### § 403 ZPO
 
@@ -243,6 +251,8 @@ Ist ein Urteil in Anwesenheit beider Parteien mündlich verkündet worden (§ 4
 `§ 417a (2) ZPO.`  
 Der Abs. 1 darf nur angewendet werden, wenn der Vorsitzende die gekürzte schriftliche Abfassung des Urteils binnen vierzehn Tagen ab jenem Zeitpunkt zur Ausfertigung abgibt, ab dem für jede Partei die Berufungsanmeldungsfrist (§ 461 Abs. 2) abgelaufen ist.
 *(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 140/1997)*
+
+*(Beachte: Nach Art. XXXII Z 12 WGN 1997, BGBl. I Nr. 140/1997, ist die Neufassung des Abs. 2 und die Aufhebung des Abs. 3 anzuwenden, wenn die Entscheidung nach dem 31. Dezember 1997 verkündet worden ist.)*
 
 ### § 418 ZPO
 

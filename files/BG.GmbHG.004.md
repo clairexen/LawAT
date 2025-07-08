@@ -281,6 +281,8 @@ In der Übernahmserklärung dritter Personen muß der Beitritt zur Gesellschaft 
 `§ 52 (6) GmbHG.`  
 Die §§ 6, 6a, 10 und 10a sind auf die Erhöhung des Stammkapitals sinngemäß anzuwenden; bei Kapitalerhöhungen mit Sacheinlagen kann der Beschluß nur gefaßt werden, wenn die Einbringung von Sacheinlagen ausdrücklich und fristgemäß angekündigt worden ist.
 
+*(Beachte: Im Titel der BGBl. I Nr. 114/1997 findet sich folgende Fußnote: Diese Kundmachung ersetzt die Kundmachung BGBl. I Nr. 106/1997.)*
+
 ### § 53 GmbHG
 
 `§ 53 (1) GmbHG.`  

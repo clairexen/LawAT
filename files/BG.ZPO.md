@@ -1038,6 +1038,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 2a ZPO
 
 > In Ehesachen \(§ 49 Abs\. 2 Z 2a JN\) sind Personen, die sonst wegen ihrer Minderjährigkeit nur beschränkt geschäftsfähig sind, fähig, selbständig vor Gericht als Partei zu handeln\.
+>
+> *\(Beachte: Ist anzuwenden, wenn der verfahrenseinleitende Schriftsatz nach dem 31\. Juli 2018 bei Gericht eingebracht wurde \(vgl\. Art\. 28 § 3, BGBl\. I Nr\. 58/2018\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-2a-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=2a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.001.md#-2a-zpo) \]
 
@@ -1258,6 +1260,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Aufforderung an den Auctor erfolgt durch Zustellung eines Schriftsatzes, welcher die zur Begründung dieser Aufforderung erforderliche Mittheilung über den eingeleiteten Rechtsstreit zu enthalten hat\. Eine Ausfertigung dieses Schriftsatzes ist dem Kläger mitzutheilen\.
 
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-22-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=22) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.001.md#-22-zpo) \]
 
 ----
@@ -1268,6 +1272,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Kommt infolge der vom benannten Auktor abgegebenen Erklärung eine Einigung der Beteiligten in Ansehung der Übernahme des Prozesses durch den Auktor zustande, so hat der Vorsitzende auf entsprechenden Antrag den Beklagten noch vor der vorbereitenden Tagsatzung von der Klage zu entbinden\.
 
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-23-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=23) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.001.md#-23-zpo) \]
 
 ----
@@ -1277,6 +1283,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(1)` Erstattet der Auktor trotz gehöriger Aufforderung keinen Schriftsatz, bestreitet er die Behauptung des Beklagten oder erklärt er sich in seinem Schriftsatz überhaupt nicht, so ist der Beklagte berechtigt, sich durch Befriedigung des Anspruchs des Klägers von der Klage zu befreien\.
 
 > `(2)` Inwiefern dem Auctor hieraus ein Anspruch auf Schadenersatz erwächst, ist nach dem bürgerlichen Rechte zu beurtheilen\.
+
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-24-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=24) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_26_TextContainer_26) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.001.md#-24-zpo) \]
 
@@ -1313,6 +1321,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(3)` Der Abs\. 1 findet ferner keine Anwendung auf eine Tagsatzung, in der ein Klagebegehren mit einem Streitwert bis 5 000 Euro auf einen solchen über 5 000 Euro erweitert wird, und schließlich auch nicht auf Vergleiche vor einem Bezirksgericht, selbst wenn deren Betrag oder Geldeswert 5 000 Euro übersteigt\.
 
 > `(4)` Die Vertretungsbefugnis der Finanzprocuratur bleibt auch in den Fällen, in welchen die Vertretung der Parteien durch Rechtsanwalt geboten ist, unberührt\.
+
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2004 bei Gericht eingelangt ist \(vgl\. Art\. XVI Abs\. 2, BGBl\. I Nr\. 128/2004\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-27-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=27) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.001.md#-27-zpo) \]
 
@@ -1369,6 +1379,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Der Rechtsanwalt kann die ihm erteilte Prozeßvollmacht für einzelne Akte oder Abschnitte des Verfahrens an einen anderen Rechtsanwalt übertragen\. Inwiefern der Rechtsanwalt berechtigt ist, sich durch einen Rechtsanwaltsanwärter vertreten zu lassen, regelt die Rechtsanwaltsordnung\.
 
 > `(3)` Der Rechtsanwalt kann sich ferner bei den im Zwangsvollstreckungsverfahren vorkommenden Vollzugshandlungen, Tagsatzungen und Einvernehmungen durch einen bei ihm angestellten vertretungsbefugten Kanzleibeamten vertreten lassen\. Die Vertretungsbefugnis wird vom Ausschusse der Rechtsanwaltskammer auf Antrag des Rechtsanwalts durch Ausfertigung einer Beglaubigungsurkunde gewährt\. Sie kann vom Ausschusse jederzeit zurückgenommen werden\.
+
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-31-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=31) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.001.md#-31-zpo) \]
 
@@ -1509,6 +1521,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 45 ZPO
 
 > Hat der Beklagte durch sein Verhalten zur Erhebung der Klage nicht Veranlassung gegeben und den in der Klage erhobenen Anspruch sofort bei erster Gelegenheit anerkannt, so fallen die Processkosten dem Kläger zur Last\. Er hat auch die dem Beklagten durch das eingeleitete gerichtliche Verfahren verursachten Kosten zu ersetzen\.
+>
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-45-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=45) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_47_TextContainer_47) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.002.md#-45-zpo) \]
 
@@ -1586,6 +1600,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Über die Verpflichtung zum Kostenersatz ist von Amts wegen zu entscheiden, wenn rechtzeitig ein Kostenverzeichnis gelegt wurde\.
 
+> *\(Beachte: Ist in Verfahren anzuwenden, in denen der Schluss der mündlichen Verhandlung erster Instanz nach dem 30\. Juni 2011 liegt \(vgl\. Art\. 39 Abs\. 10, BGBl\. I Nr\. 111/2010\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-52-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=52) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_54_TextContainer_54) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.002.md#-52-zpo) \]
 
 ----
@@ -1607,6 +1623,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(1a)` Das am Schluss der mündlichen Streitverhandlung erster Instanz \(§ 193\) dem Gericht zu übergebende Kostenverzeichnis ist gleichzeitig auch dem Gegner auszuhändigen\. Dieser kann dazu binnen einer Notfrist von 14 Tagen Stellung nehmen\. Soweit der durch einen Rechtsanwalt vertretene Gegner gegen die verzeichneten Kosten keine begründeten Einwendungen erhebt, hat das Gericht diese seiner Entscheidung zu Grunde zu legen\. Ein Kostenersatz für die Einwendungen findet nicht statt\.
 
 > `(2)` Entstehen einer Partei nach dem Zeitpunkt, bis zu dem nach Abs\. 1 das Kostenverzeichnis einzureichen ist, weitere Kosten, deren Ersatz sie von dem anderen Teil verlangen kann, so kann sie eine Ergänzung der Entscheidung über die Höhe der zu ersetzenden Kosten beantragen\. Bestehen die Kosten in einer Zahlungspflicht, so gelten sie als mit deren Begründung entstanden; haftet jedoch mit der zum Kostenersatz berechtigten Partei auch deren Gegner solidarisch, gelten die Kosten erst mit der Zahlung als entstanden\. Der Antrag auf Ergänzung der Kostenentscheidung ist binnen einer Notfrist von vier Wochen ab dem Entstehen der Kosten zu stellen; bestehen jedoch die Kosten in einer Zahlungspflicht und ist der Gläubiger nicht der Bevollmächtigte der Partei, so beginnt die Frist erst zu laufen, wenn der Partei ihre Verbindlichkeit zahlenmäßig bekanntgegeben und wenn sie fällig oder wenn sie vorher gezahlt wird\. Das Gericht entscheidet ohne mündliche Verhandlung durch Beschluß; im Verfahren vor dem Gerichtshof entscheidet der Vorsitzende\.
+
+> *\(Beachte: Abs\. 1a letzter Satz ist in Verfahren anzuwenden, in denen der Schluss der mündlichen Verhandlung erster Instanz nach dem 31\. Dezember 2010 liegt \(vgl\. Art\. 39 Abs\. 10a, BGBl\. I Nr\. 111/2010\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-54-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=54) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.002.md#-54-zpo) \]
 
@@ -1685,6 +1703,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(1)` Außer den beiden Fällen des §\. 58 muss der Antrag auf Sicherheitsleistung für Processkosten bei sonstigem Ausschlusse gestellt werden, bevor der Beklagte zur Sache vorbringt \(§ 74\) oder mündlich verhandelt\.
 
 > `(2)` In dem Antrage ist stets die Höhe der Sicherheitssumme anzugeben\. Über den Antrag ist durch Beschluss zu entscheiden\.
+
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-59-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=59) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.002.md#-59-zpo) \]
 
@@ -1798,6 +1818,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Über den Antrag auf Bewilligung der Verfahrenshilfe hat stets das Prozeßgericht erster Instanz zu entscheiden, auch wenn sich die Notwendigkeit hierzu erst im Verfahren vor einer höheren Instanz ergibt\. Der Beschluß über den Antrag darf dem Gegner frühestens mit der Klage zugestellt werden\.
 
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-65-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=65) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_70_TextContainer_70) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.003.md#-65-zpo) \]
 
 ----
@@ -1874,6 +1896,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Einer Vertretung durch Rechtsanwälte bedürfen die Parteien bei den nach diesem Titel bei Gericht vorzunehmenden Handlungen auch im Anwaltsprozeß nicht\. Rekurse gegen Beschlüsse über die Verfahrenshilfe sowie Rekursbeantwortungen können auch bei Gerichtshöfen mündlich zu Protokoll erklärt werden\. Ein Kostenersatz findet nicht statt\.
 
+> *\(Beachte: Ist anzuwenden, wenn das Datum der Entscheidung nach dem 30\. November 2004 liegt \(vgl\. Art\. XVI Abs\. 3, BGBl\. I Nr\. 128/2004\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-72-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=72) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_77_TextContainer_77) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.003.md#-72-zpo) \]
 
 ----
@@ -1885,6 +1909,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Hat die beklagte Partei vor Ablauf der Frist, innerhalb deren sie die Klage zu beantworten, den Einspruch gegen einen Zahlungsbefehl, die Einwendungen im Mandatsverfahren und im Bestandverfahren oder den Widerspruch gegen ein Versäumungsurteil einzubringen hätte, die Bewilligung der Verfahrenshilfe einschließlich der Beigebung eines Rechtsanwalts beantragt, so beginnt die Frist zur Einbringung der Klagebeantwortung, des Einspruchs gegen einen Zahlungsbefehl, der Einwendungen im Mandatsverfahren und im Bestandverfahren oder des Widerspruchs gegen ein Versäumungsurteil frühestens mit der Zustellung des Bescheides, mit dem der Rechtsanwalt bestellt wird, beziehungsweise mit dem Eintritt der Rechtskraft des Beschlusses, mit dem die Beigebung eines Rechtsanwalts versagt wird\. Der Bescheid über die Bestellung des Rechtsanwalts ist durch das Gericht zuzustellen\.
 
 > `(3)` Wird nach dem Eintritt der Rechtskraft des Beschlusses, mit dem die Beigebung eines Rechtsanwalts versagt wird, von derselben Partei neuerlich ein Antrag gestellt, ihr einen Rechtsanwalt kostenlos beizugeben, so bleibt hievon der weitere Ablauf der schon einmal nach dem Abs\. 2 unterbrochenen Frist unberührt\.
+
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-73-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=73) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_78_TextContainer_78) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.003.md#-73-zpo) \]
 
@@ -2082,6 +2108,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Besteht ein Schriftsatz aus verworrenen, unklaren, sinn\- oder zwecklosen Ausführungen und lässt er das Begehren nicht erkennen, oder erschöpft er sich in der Wiederholung bereits erledigter Streitpunkte oder schon vorgebrachter Behauptungen, so ist er ohne Verbesserungsversuch zurückzuweisen\. Abs\. 1 zweiter bis vierter Satz sind mit der Maßgabe sinngemäß anzuwenden, dass der Hinweis in den Zurückweisungsbeschluss aufzunehmen ist\.
 
+> *\(Beachte: Ist auf Schriftsätze anzuwenden, die nach dem 30\. Juni 2011 bei Gericht angebracht werden \(vgl\. Art\. 39 Abs\. 12, BGBl\. I Nr\. 111/2010\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-86a-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=86a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_94_TextContainer_94) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.004.md#-86a-zpo) \]
 
 ----
@@ -2147,6 +2175,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(1)` Kann die Zustellung der Klage an eine im Firmenbuch eingetragene juristische Person an der im Firmenbuch als für Zustellungen maßgeblich eingetragenen Geschäftsanschrift \(§ 3 Abs\. 1 Z 4 und 6 FBG\) nicht bewirkt werden, weil dort keine Abgabestelle besteht, gibt die klagende Partei keine andere Abgabestelle bekannt und ist auch dem Gericht ohne Ermittlungen keine andere Abgabestelle bekannt, so hat auf Antrag der klagenden Partei die Zustellung ohne Bestellung eines Kurators durch Aufnahme einer Mitteilung in die Ediktsdatei zu erfolgen \(§ 115 ZPO\)\. Auf die Rechtsfolge des Abs\. 2 ist im Edikt hinzuweisen\. Die Zustellung gilt 14 Tage nach der Aufnahme der Mitteilung in die Ediktsdatei als bewirkt\.
 
 > `(2)` Bis dem Gericht eine Abgabestelle bekannt gegeben wird, sind alle weiteren zuzustellenden Schriftstücke bei Gericht zu hinterlegen\.
+
+> *\(Beachte: Ist anzuwenden, wenn die Klage nach dem 30\. Juni 2011 bei Gericht angebracht wird \(vgl\. Art\. 39 Abs\. 11, BGBl\. I Nr\. 111/2010\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-92-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=92) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_99_TextContainer_99) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.004.md#-92-zpo) \]
 
@@ -2245,6 +2275,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 115 ZPO
 
 > Durch öffentliche Bekanntmachung \(§ 25 des Zustellgesetzes\) ist zuzustellen, wenn das Vorliegen der dafür erforderlichen Voraussetzungen glaubhaft gemacht wird\. Die öffentliche Bekanntmachung erfolgt durch Aufnahme einer Mitteilung in die Ediktsdatei, dass ein zuzustellendes Schriftstück bei Gericht liegt\. Die Mitteilung hat auch eine kurze Angabe des Inhalts des zuzustellenden Schriftstücks, die Bezeichnung des Prozessgerichts und der Streitsache sowie die Möglichkeiten zur Abholung des Schriftstücks und einen Hinweis auf die Rechtsfolgen dieser Bekanntmachung zu enthalten\. Mit der Aufnahme in die Ediktsdatei gilt die Zustellung als vollzogen\.
+>
+> *\(Beachte: Ist anzuwenden, wenn das Datum der bekannt zu machenden Entscheidung nach dem 31\. Dezember 2004 liegt \(vgl\. Art\. XXXII § 4 Abs\. 2, BGBl\. I Nr\. 112/2003\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-115-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=115) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_108_TextContainer_108) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.004.md#-115-zpo) \]
 
@@ -2267,6 +2299,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Der Inhalt des Edikts ist in die Ediktsdatei aufzunehmen\. Wenn dies im einzelnen Fall zweckmäßig erscheint und nicht mit einem im Vergleich zum Streitgegenstand zu großen Kostenaufwand verbunden ist, kann auf Antrag oder von Amts wegen angeordnet werden, dass das Edikt auch in Zeitungen eingeschaltet wird\. Gegen diese Anordnung ist ein Rechtsmittel nicht zulässig\. Im Verfahren vor Gerichtshöfen steht diese Anordnung dem Vorsitzenden des Senates zu, dem die Rechtssache zugewiesen ist\. Die Bekanntmachung des Edikts ist von Amts wegen zu bewirken\.
 > *\(Anm\.: Abs\. 3 aufgehoben durch BGBl\. Nr\. 135/1983\)*
 
+> *\(Beachte: Ist anzuwenden, wenn das Datum der bekannt zu machenden Entscheidung nach dem 31\. Dezember 2004 liegt \(vgl\. Art\. XXXII § 4 Abs\. 2, BGBl\. I Nr\. 112/2003\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-117-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=117) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_110_TextContainer_110) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.004.md#-117-zpo) \]
 
 ----
@@ -2277,6 +2311,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Kosten der Bekanntmachung und der Curatorsbestellung sind unbeschadet eines Anspruches auf Ersatz von der Partei zu bestreiten, durch deren Processhandlung beides veranlasst wurde\.
 
+> *\(Beachte: Ist anzuwenden, wenn das Datum der bekannt zu machenden Entscheidung nach dem 31\. Dezember 2004 liegt \(vgl\. Art\. XXXII § 4 Abs\. 2, BGBl\. I Nr\. 112/2003\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-118-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=118) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_111_TextContainer_111) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.004.md#-118-zpo) \]
 
 ----
@@ -2286,6 +2322,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(1)` Das Edikt über die Bestellung eines Kurators ist zu löschen, sobald der Kurator rechtskräftig seines Amtes enthoben wurde oder die Kuratel sonst erloschen ist\.
 
 > `(2)` Die Mitteilung nach § 115 ist zu löschen, wenn seit ihrer Aufnahme ein Monat vergangen ist und das Gericht keine längere Bekanntmachungsdauer bestimmt hat\.
+
+> *\(Beachte: Ist anzuwenden, wenn das Datum der bekannt zu machenden Entscheidung nach dem 31\. Dezember 2004 liegt \(vgl\. Art\. XXXII § 4 Abs\. 2, BGBl\. I Nr\. 112/2003\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-119-zpo--löschen-der-daten-in-der-ediktsdatei) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=119) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_112_TextContainer_112) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.004.md#-119-zpo--löschen-der-daten-in-der-ediktsdatei) \]
 
@@ -2928,6 +2966,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 179 ZPO
 
 > Die Parteien können bis zum Schluss der mündlichen Verhandlung neue auf den Gegenstand dieser Verhandlung bezügliche tatsächliche Behauptungen und Beweismittel vorbringen\. Solches Vorbringen kann jedoch vom Gericht auf Antrag oder von Amts wegen zurückgewiesen werden, wenn es, insbesondere im Hinblick auf die Erörterung des Sach\- und Rechtsvorbringens \(§ 182a\), grob schuldhaft nicht früher vorgebracht wurde und seine Zulassung die Erledigung des Verfahrens erheblich verzögern würde\. Gegen den Beschluss ist ein abgesondertes Rechtsmittel nicht zulässig\.
+>
+> *\(Beachte: Ist auf Verfahren, die zum Zeitpunkt des In\-Kraft\-Tretens dieses Bundesgesetzes bereits anhängig sind, nur anzuwenden, wenn die mündliche Streitverhandlung erster Instanz nach dem 31\. Dezember 2002 geschlossen worden ist\. \(vgl\. Art\. XI Abs\. 3, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-179-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=179) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_169_TextContainer_169) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.006.md#-179-zpo) \]
 
@@ -2965,6 +3005,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Außer dem Vorsitzenden können auch die anderen Mitglieder des Senates an die Parteien die zur Ermittlung des Streitverhältnisses und zur Feststellung des Thatbestandes geeigneten Fragen richten\.
 
+> *\(Beachte: Nach Art\. XXXII Z 8 WGN 1997, BGBl\. I Nr\. 140/1997, ist die Neufassung des Abs\. 2 dritter Satz auf Verfahren anzuwenden, in denen die Klagen oder verfahrenseinleitenden Anträge bei Gericht nach dem 31\. Dezember 1997 angebracht werden\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-182-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=182) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_172_TextContainer_172) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.006.md#-182-zpo) \]
 
 ----
@@ -2972,6 +3014,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 182a ZPO
 
 > Das Gericht hat das Sach\- und Rechtsvorbringen der Parteien mit diesen zu erörtern\. Außer in Nebenansprüchen darf das Gericht seine Entscheidung auf rechtliche Gesichtspunkte, die eine Partei erkennbar übersehen oder für unerheblich gehalten hat, nur stützen, wenn es diese mit den Parteien erörtert \(§ 182\) und ihnen Gelegenheit zur Äußerung gegeben hat\.
+>
+> *\(Beachte: Ist auf Verfahren, die zum Zeitpunkt des In\-Kraft\-Tretens dieses Bundesgesetzes bereits anhängig sind, nur anzuwenden, wenn die mündliche Streitverhandlung erster Instanz nach dem 31\. Dezember 2002 geschlossen worden ist\. \(vgl\. Art\. XI Abs\. 3, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-182a-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=182a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_173_TextContainer_173) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.006.md#-182a-zpo) \]
 
@@ -3157,6 +3201,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(3)` Die Partei muss insbesondere auf die Möglichkeit aufmerksam gemacht werden, dass infolge ihrer Entfernung gegen sie ein Versäumungsurtheil erlassen werden kann\.
 
 > `(4)` Wenn eine an der Verhandlung betheiligte Person entfernt wurde, kann auf Antrag gegen sie in gleicher Weise verfahren werden, als wenn sie sich freiwillig entfernt hätte\.
+
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-198-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=198) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_189_TextContainer_189) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.006.md#-198-zpo) \]
 
@@ -3360,6 +3406,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Strafverfügungen sind von amtswegen zu vollziehen\.
 
+> *\(Beachte: Abs\. 2 ist anzuwenden, wenn die Zahlung nach dem 31\. Dezember 2002 eingelangt ist\. \(vgl\. Art\. XI Abs\. 4, BGBl\. I Nr\. 76/2002\)\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-220-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=220) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_205_TextContainer_205) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.007.md#-220-zpo) \]
 
 ----
@@ -3471,6 +3519,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Dem unter Z 2 erwähnten Antrage ist nur dann stattzugeben, wenn sich die Partei die betreffenden Urkunden, Auskunftssachen oder Augenscheinsgegenstände nach den bestehenden gesetzlichen Vorschriften ohne Mitwirkung des Gerichtes nicht zu verschaffen vermag, oder wenn ihr deren Ausfolgung von der Behörde oder dem Notar in ungerechtfertigter Weise verweigert wurde\.
 > *\(Anm\.: Abs\. 3 aufgehoben durch BGBl\. I Nr\. 76/2002\)*
 
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-229-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=229) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_211_TextContainer_211) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.007.md#-229-zpo) \]
 
 ----
@@ -3483,6 +3533,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Das Fehlen der inländischen Gerichtsbarkeit, sofern es nicht geheilt ist \(§ 104 JN\), die Unzulässigkeit des Rechtswegs, die Streitanhängigkeit, die Rechtskraft eines die Streitsache betreffenden Urteils und die Klagerücknahme unter Anspruchsverzicht sind jederzeit von Amts wegen zu berücksichtigen\.
 
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-230-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=230) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_212_TextContainer_212) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.007.md#-230-zpo) \]
 
 ----
@@ -3490,6 +3542,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 230a ZPO
 
 > Wird die sachliche oder örtliche Unzuständigkeit des angerufenen Gerichts ausgesprochen und die Klage zurückgewiesen, ohne daß der Kläger Gelegenheit hatte, einen Überweisungsantrag nach § 261 Abs\. 6 zu stellen, und beantragt der Kläger binnen der Notfrist von vierzehn Tagen nach der Zustellung dieses Beschlusses die Überweisung der Klage an ein anderes Gericht, so hat das ursprünglich angerufene Gericht die Zurückweisung aufzuheben und die Klage dem vom Kläger namhaft gemachten Gericht zu überweisen, wenn es das andere Gericht nicht für offenbar unzuständig erachtet\. Gegen diesen Beschluß ist, mit Ausnahme der Entscheidung über die Kosten eines allfälligen Zuständigkeitsstreites, ein Rechtsmittel nicht zulässig\. Die Gerichtsanhängigkeit wird durch diese Überweisung nicht aufgehoben\. Das Gericht, an das die Klage überwiesen worden ist, kann einen Mangel seiner Zuständigkeit nur noch wahrnehmen, wenn der Beklagte rechtzeitig die Einrede der Unzuständigkeit erhebt\.
+>
+> *\(Beachte: Nach Art\. XXXII Z 8 WGN 1997, BGBl\. I Nr\. 140/1997, ist die Neufassung des ersten Satzes auf Verfahren anzuwenden, in denen die Klagen oder verfahrenseinleitenden Anträge bei Gericht nach dem 31\. Dezember 1997 angebracht werden\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-230a-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=230a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_213_TextContainer_213) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.007.md#-230a-zpo) \]
 
@@ -3569,6 +3623,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Die zurückgenommene Klage kann neuerlich angebracht werden, wenn nicht bei deren Zurücknahme auf den geltend gemachten Anspruch verzichtet wurde\.
 
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-237-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=237) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_219_TextContainer_219) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.007.md#-237-zpo) \]
 
 ----
@@ -3599,6 +3655,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `4.` zur Abgabe eines Anerkenntnisses\.
 
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-239-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=239) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_221_TextContainer_221) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.007.md#-239-zpo) \]
 
 ----
@@ -3606,6 +3664,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 240 ZPO
 
 > Wird die Einrede der sachlichen oder örtlichen Unzuständigkeit des Gerichtes nicht in der Klagebeantwortung geltend gemacht, so kann deren Fehlen nur noch berücksichtigt werden, wenn das Gericht auch durch ausdrückliche Vereinbarung der Parteien nicht zuständig gemacht werden könnte und die Unzuständigkeit noch nicht geheilt ist \(§ 104 JN\)\.
+>
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-240-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=240) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_222_TextContainer_222) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.007.md#-240-zpo) \]
 
@@ -3641,6 +3701,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Gegen die nach Abs\. 2 ergangenen Beschlüsse ist ein abgesondertes Rechtsmittel nicht statthaft\.
 
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-245-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=245) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_224_TextContainer_224) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.008.md#-245-zpo) \]
 
 ----
@@ -3658,6 +3720,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >> `4.` die Belehrung, dass der Einspruch den Inhalt der Klagebeantwortung haben muss und die Vertretung durch einen Rechtsanwalt geboten ist;
 >
 >> `5.` den Hinweis, dass im Fall der Erhebung des Einspruchs das ordentliche Verfahren über die Klage stattfinden wird\.
+>
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-246-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=246) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_225_TextContainer_225) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.008.md#-246-zpo) \]
 
@@ -3671,6 +3735,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Gegen die Erlassung des Zahlungsbefehls ist ein Rechtsmittel nicht zulässig, doch kann die im Zahlungsbefehl enthaltene Kostenentscheidung mit Rekurs angefochten werden\.
 
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-247-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=247) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_226_TextContainer_226) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.008.md#-247-zpo) \]
 
 ----
@@ -3680,6 +3746,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(1)` Gegen den Zahlungsbefehl steht dem Beklagten der Einspruch zu\. Dieser hat den Inhalt einer Klagebeantwortung zu haben\.
 
 > `(2)` Die Einspruchsfrist beträgt vier Wochen; sie kann nicht verlängert werden\. Sie beginnt mit der Zustellung der schriftlichen Ausfertigung des Zahlungsbefehls an den Beklagten\.
+
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-248-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=248) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_227_TextContainer_227) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.008.md#-248-zpo) \]
 
@@ -3693,6 +3761,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Auf die Zurücknahme des Einspruchs finden die Vorschriften über die Zurücknahme der Berufung \(§ 484\) entsprechende Anwendung\.
 
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-249-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=249) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_228_TextContainer_228) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.008.md#-249-zpo) \]
 
 ----
@@ -3702,6 +3772,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(1)` Das Mahnverfahren kann mit Hilfe automationsunterstützter Datenverarbeitung durchgeführt werden\.
 
 > `(2)` Der Bundesminister für Justiz wird ermächtigt, zur Ermöglichung einer zweckmäßigeren Behandlung der Eingaben \(§ 74\) im Mahnverfahren mit Verordnung Formblätter einzuführen, deren sich der Kläger bei solchen Eingaben zu bedienen hat\. Diese Formblätter sind so auszugestalten, dass sie der Kläger auch leicht und sicher verwenden kann\.
+
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-250-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=250) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_229_TextContainer_229) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.008.md#-250-zpo) \]
 
@@ -3758,6 +3830,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > *\(\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 >
 > *Anm\. 1: Es wird davon ausgegangen, dass diese seit der Stammfassung existierende Zwischenüberschrift nicht durch die Neufassung der §§ 257 und 258 „samt Überschriften“ \(Art\. II Z 40 der Zivilverfahrens\-Novelle 2002, BGBl\. I Nr\. 76/2002\) entfallen ist\. Dies ist aber nicht unstrittig\.\)*
+>
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-257-zpo--einleitung-der-streitverhandlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=257) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_232_TextContainer_232) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.008.md#-257-zpo--einleitung-der-streitverhandlung) \]
 
@@ -3792,6 +3866,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Während der mündlichen Streitverhandlung kann der Beklagte, ohne der Zustimmung des Klägers zu bedürfen, einen Antrag auf Feststellung im Sinne des §\. 236 stellen\.
 
 > `(3)` In der Verhandlung vor dem Einzelrichter eines Landesgerichtes kann der Antrag gestellt werden, in das Urteil einen Beisatz aufzunehmen, daß es in Ausübung der besonderen Gerichtsbarkeit in Handelsrechtssachen in der Verhandlung vor dem Einzelrichter eines selbständigen Handelsgerichtes, daß es in Ausübung der allgemeinen Gerichtsbarkeit gefällt wird\. Der beantragte Beisatz ist in das Urteil aufzunehmen, wenn ihn der Richter für zutreffend erachtet\.
+
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-259-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=259) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_234_TextContainer_234) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.008.md#-259-zpo) \]
 
@@ -3891,6 +3967,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Bei Ermittlung dieser Rechtsnormen ist das Gericht auf die von den Parteien angebotenen Beweise nicht beschränkt; es kann alle zu diesem Zwecke ihm nöthig scheinenden Erhebungen von amtswegen einleiten und insbesondere, soweit erforderlich, das Einschreiten des Justizministers in Anspruch nehmen\.
 
+> *\(Beachte: Abs\. 2 ist insoweit aufgehoben, als er sich auf die Ermittlung fremden Rechts bezieht \(§ 51 Abs\. 1 Z 4 IPR\-Gesetz, BGBl\. Nr\. 304/1978, siehe dazu jetzt dessen § 4\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-271-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=271) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_242_TextContainer_242) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.008.md#-271-zpo) \]
 
 ----
@@ -3912,6 +3990,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(1)` Wenn feststeht, dass einer Partei der Ersatz eines Schadens oder des Interesses gebürt oder dass sie sonst eine Forderung zu stellen hat, der Beweis über den streitigen Betrag des zu ersetzenden Schadens oder Interesses oder der Forderung aber gar nicht oder nur mit unverhältnismäßigen Schwierigkeiten zu erbringen ist, so kann das Gericht auf Antrag oder von amtswegen selbst mit Übergehung eines von der Partei angebotenen Beweises diesen Betrag nach freier Überzeugung festsetzen\. Der Festsetzung des Betrages kann auch die eidliche Vernehmung einer der Parteien über die für die Bestimmung des Betrages maßgebenden Umstände vorausgehen\.
 
 > `(2)` Sind von mehreren in derselben Klage geltend gemachten Ansprüchen einzelne, im Verhältnis zum Gesamtbetrag unbedeutende streitig und ist die vollständige Aufklärung aller für sie maßgebenden Umstände mit Schwierigkeiten verbunden, die zur Bedeutung der streitigen Ansprüche in keinem Verhältnisse stehen, so kann das Gericht darüber in der gleichen Weise \(Absatz 1\) nach freier Überzeugung entscheiden\. Gleiches gilt auch für einzelne Ansprüche, wenn der begehrte Betrag jeweils 1 000 Euro nicht übersteigt\.
+
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-273-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=273) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_244_TextContainer_244) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.008.md#-273-zpo) \]
 
@@ -3936,6 +4016,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(1)` Von den Parteien angebotene, jedoch dem Gerichte unerheblich scheinende Beweise sind ausdrücklich zurückzuweisen\.
 
 > `(2)` Die Aufnahme angebotener Beweise kann vom Gericht auf Antrag oder von Amts wegen verweigert werden, wenn bei sorgfältiger Berücksichtigung aller Umstände kein vernünftiger Zweifel darüber besteht, daß durch das Beweisanbot der Prozeß verschleppt werden soll, und die Aufnahme der Beweise die Erledigung des Prozesses erheblich verzögern würde\.
+
+> *\(Beachte: Nach Art\. XXXII Z 10 WGN 1997, BGBl\. I Nr\. 140/1997, ist die Neufassung des Abs\. 2 auf Verfahren, die zum Zeitpunkt des Inkrafttretens dieses Bundesgesetzes bereits anhängig sind, erst ab dem 1\. Juli 1998 anzuwenden\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-275-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=275) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_246_TextContainer_246) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.008.md#-275-zpo) \]
 
@@ -3965,6 +4047,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Behufs Erörterung der Ergebnisse solcher Beweisaufnahmen ist nach deren Vollendung, wenn nicht die Voraussetzungen des §\. 193 Absatz 3, vorliegen, die Verhandlung vor dem erkennenden Gerichte von amtswegen wieder aufzunehmen\.
 
+> *\(Beachte: Abs\. 1 ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)Abs\. 2 ist auf Verfahren, die zum Zeitpunkt des In\-Kraft\-Tretens dieses Bundesgesetzes bereits anhängig sind, nur anzuwenden, wenn die mündliche Streitverhandlung erster Instanz nach dem 31\. Dezember 2002 geschlossen worden ist\. \(vgl\. Art\. XI Abs\. 3, BGBl\. I Nr\. 76/2002\)\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-278-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=278) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_249_TextContainer_249) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.008.md#-278-zpo) \]
 
 ----
@@ -3974,6 +4058,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(1)` Steht der Aufnahme des Beweises ein Hindernis von ungewisser Dauer entgegen, ist die Ausführbarkeit einer Beweisaufnahme zweifelhaft, oder soll die Beweisaufnahme außerhalb des Geltungsgebietes dieses Gesetzes erfolgen, so hat das Gericht auf Antrag eine Frist zu bestimmen, nach deren fruchtlosem Ablauf die Verhandlung auf Begehren einer der Parteien ohne Rücksicht auf die ausstehende Beweisaufnahme fortgesetzt wird\.
 
 > `(2)` Bei der fortgesetzten mündlichen Verhandlung kann dann dieser Beweis nur benützt werden, wenn dadurch das Verfahren nicht verzögert wird\.
+
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-279-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=279) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_250_TextContainer_250) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.008.md#-279-zpo) \]
 
@@ -4036,6 +4122,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Auf Antrag des Beweisführers kann ferner das Gericht gestatten, dass von der Erlassung eines Ersuchschreibens abgesehen und der Beweisführer ermächtigt werde, eine den Gesetzen des Staatsgebietes, in welchem die Beweisaufnahme erfolgen soll, entsprechende öffentliche Urkunde über die Beweisaufnahme beizubringen\. Der Beweisführer hat den Gegner, wenn möglich, von Ort und Zeit der Beweisaufnahme so zeitig zu benachrichtigen, dass letzter seine Rechte bei der Beweisaufnahme in geeigneter Art wahrzunehmen vermag\. Ist die Benachrichtigung unterblieben, so hat das erkennende Gericht nach sorgfältiger Erwägung aller Umstände zu entscheiden, ob und inwieweit der Beweisführer zur Benützung der aufgenommenen Beweise in der mündlichen Verhandlung berechtigt sei\.
 
 > `(3)` Für die Vorlegung der Acten über die Beweisaufnahme ist in beiden Fällen eine Frist zu bestimmen, deren fruchtloser Ablauf die im §\. 279 bezeichneten Rechtsfolgen nach sich zieht\.
+
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-283-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=283) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_255_TextContainer_255) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.009.md#-283-zpo) \]
 
@@ -4148,6 +4236,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(1)` Gegen Beschlüsse, durch welche angebotene Beweise zurückgewiesen, Beweisaufnahmen angeordnet oder einem beauftragten Richter übertragen oder zum Zwecke der Beweisaufnahme Ersuchschreiben erlassen werden, ferner gegen Beschlüsse, durch welche Fragen der Parteien bei der Beweisaufnahme zurückgewiesen werden, endlich gegen Beschlüsse, durch welche die Benützung eines Beweises nach §\. 279, Absatz 2, bewilligt oder ausgeschlossen oder eine nach §\. 286, Absatz 2, in Antrag gebrachte Ergänzung der Beweisaufnahme verweigert wird, ist ein abgesondertes Rechtsmittel nicht zulässig\.
 
 > `(2)` Beschlüsse, durch welche die stenographische Aufzeichnung einer Beweisaufnahme gestattet, dem Beweisführer die Bestellung eines Ersuchschreibens gemäß §\. 283, Absatz 1, übertragen, oder für die Beweisaufnahme oder für die Vorlage der Acten über eine außerhalb des Geltungsgebietes dieses Gesetzes stattfindende Beweisaufnahme eine Frist bestimmt wird, ferner Beschlüsse, durch welche die Ergänzung oder Wiederholung einer Beweisaufnahme angeordnet wird, können durch ein Rechtsmittel überhaupt nicht angefochten werden\.
+
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-291-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=291) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_265_TextContainer_265) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.009.md#-291-zpo) \]
 
@@ -4459,7 +4549,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Urkunden, die in Urschrift vorgelegt werden, sind in Abschrift zum Akt zu nehmen\. Die Urschriften sind demjenigen, der sie vorgelegt hat, bei erster Gelegenheit zurückzustellen\. Urkunden, bei denen es unmöglich oder untunlich ist, eine Abschrift zum Akt zu nehmen oder deren Echtheit bestritten ist oder deren Inhalt verändert sein soll, sind bis zur rechtskräftigen Erledigung des Verfahrens bei Gericht zurückzubehalten, sofern nicht ihre Ausfolgung an eine andere Behörde im Interesse der öffentlichen Ordnung erforderlich ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-316-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=316) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_292_TextContainer_292) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.009.md#-316-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-316-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=316) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_292_TextContainer_292) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.010.md#-316-zpo) \]
 
 ----
 
@@ -4905,7 +4995,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Ist im Falle einer solchen nachträglichen Ablehnung die durch einen beauftragten oder ersuchten Richter vorzunehmende Beweisaufnahme schon beendet, so kann die Ablehnung nur bei dem Processgerichte vorgebracht werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-355-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=355) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_329_TextContainer_329) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.010.md#-355-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-355-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=355) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_329_TextContainer_329) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.011.md#-355-zpo) \]
 
 ----
 
@@ -4915,7 +5005,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Entscheidung erfolgt, wenn die Ablehnung nicht bei einer Tagsatzung vorgebracht wird, ohne vorhergehende mündliche Verhandlung\. Die ablehnende Partei hat die von ihr angegebenen Gründe der Ablehnung auf Verlangen des Gerichtes vor der Entscheidung glaubhaft zu machen\. Wird der Ablehnung stattgegeben, so ist ohne Aufschub die Bestellung eines anderen Sachverständigen zu veranlassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-356-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=356) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_330_TextContainer_330) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.010.md#-356-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-356-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=356) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_330_TextContainer_330) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.011.md#-356-zpo) \]
 
 ----
 
@@ -4948,6 +5038,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(1)` Den Sachverständigen sind diejenigen bei Gericht befindlichen Gegenstände, Actenstücke und Hilfsmittel mitzutheilen, welche für die Beantwortung der denselben vorgelegten Fragen erforderlich sind\.
 
 > `(2)` Benötigt der Sachverständige die Mitwirkung der Parteien oder dritter Personen und wird ihm diese auf seine Aufforderung nicht unverzüglich geleistet, so hat der Sachverständige dies dem Gericht unter genauer Auflistung der erforderlichen Mitwirkungshandlungen und der entgegenstehenden Hindernisse mitzuteilen\. Das Gericht hat sodann mit abgesondert nicht anfechtbarem Beschluss den Parteien das Erforderliche aufzutragen und ihnen hiefür eine angemessene Frist zu setzen\. Dieser Zeitraum ist in die dem Sachverständigen für die Begutachtung gesetzte Frist nicht einzurechnen\. Kommen die Parteien der Aufforderung des Gerichts nicht fristgerecht nach, so hat der Sachverständige sein Gutachten ohne Berücksichtigung des Fehlenden zu erstatten\. Werden die fehlenden Informationen noch vor Ausarbeitung des Gutachtens nachgebracht, so hat sie der Sachverständige sogleich zu berücksichtigen, ansonsten hat er ein Ergänzungsgutachen zu erstatten\. Die Kosten dieses Gutachtens tragen unabhängig vom Verfahrensausgang die säumigen Parteien zur ungeteilten Hand\.
+
+> *\(Beachte: Ist anzuwenden, wenn der Auftrag zur Gutachtenserstattung nach dem 31\. Dezember 2002 erteilt worden ist\. \(vgl\. Art\. XI Abs\. 5, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-359-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=359) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_333_TextContainer_333) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.011.md#-359-zpo) \]
 
@@ -5335,6 +5427,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Bezieht sich der Verzicht nur auf einen von mehreren in der Klage geltend gemachten Ansprüchen oder auf einen Theil eines Anspruches, so kann auf Grund des Verzichtes auf Antrag ein Theilurtheil erlassen werden\.
 
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-394-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=394) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_368_TextContainer_368) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.011.md#-394-zpo) \]
 
 ----
@@ -5344,6 +5438,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 395 ZPO
 
 > Wenn der Beklagte den gegen ihn erhobenen Anspruch bei der mündlichen Streitverhandlung ganz oder zum Theile anerkennt, so ist auf Antrag des Klägers dem Anerkenntnis gemäß durch Urtheil zu entscheiden\.
+>
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-395-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=395) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_369_TextContainer_369) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.011.md#-395-zpo) \]
 
@@ -5370,6 +5466,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 397 ZPO
 
 > Über einen Antrag auf Erlassung eines Versäumungs\-, Verzichts\- oder Anerkenntnisurteils entscheidet der Vorsitzende des Senats\. Im Fall des § 396 Abs\. 1 ist über den Antrag auf Erlassung eines Versäumungsurteils durch den Vorsitzenden als Einzelrichter binnen acht Tagen ohne Anberaumung einer Verhandlung zu erkennen\.
+>
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-397-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=397) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_371_TextContainer_371) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.012.md#-397-zpo) \]
 
@@ -5386,6 +5484,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(4)` Derjenigen Partei, die den Widerspruch erhoben hat, ist der Ersatz aller Kosten aufzuerlegen, die durch ihre Versäumung und die Verhandlung über den Widerspruch verursacht worden sind\.
 
 > `(5)` Der Widerspruch kann längstens bis zum Ergehen eines der im Abs\. 3 genannten Beschlüsse zurückgenommen werden; auf seine Zurücknahme sind die Vorschriften über die Zurücknahme der Klage sinngemäß anzuwenden\.
+
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-397a-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=397a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_372_TextContainer_372) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.012.md#-397a-zpo) \]
 
@@ -5404,6 +5504,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 399 ZPO
 
 > Das Fernbleiben einer Partei, welche sich bereits durch mündliches Vorbringen zur Hauptsache in den Streit eingelassen hat, von einer Tagsatzung hindert weder den Fortgang des Verfahrens noch berechtigt es die andere Partei dazu, die Fällung eines Versäumungsurteils zu beantragen\.
+>
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-399-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=399) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_374_TextContainer_374) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.012.md#-399-zpo) \]
 
@@ -5440,6 +5542,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Der Antrag, gegen Streitgenossen wegen Säumnis das Urtheil zu fällen, ist bei dem Vorhandensein einer nach §\. 14 zu beurtheilenden Streitgenossenschaft zurückzuweisen, wenn auch nur betreffs eines der Streitgenossen der Nachweis der Ladung fehlt oder eines der in Z 2 angeführten Hindernisse obwaltet\.
 
 > `(3)` Wenn dem Antrage, wegen Säumnis einer Partei das Urtheil zu fällen, nicht stattgegeben wird, ist die Tagsatzung von amtswegen auf angemessene Zeit zu erstrecken und auch die säumige Partei zur neuen Tagsatzung wieder zu laden\.
+
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-402-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=402) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_377_TextContainer_377) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.012.md#-402-zpo) \]
 
@@ -5620,6 +5724,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Der Abs\. 1 darf nur angewendet werden, wenn der Vorsitzende die gekürzte schriftliche Abfassung des Urteils binnen vierzehn Tagen ab jenem Zeitpunkt zur Ausfertigung abgibt, ab dem für jede Partei die Berufungsanmeldungsfrist \(§ 461 Abs\. 2\) abgelaufen ist\.
 > *\(Anm\.: Abs\. 3 aufgehoben durch BGBl\. I Nr\. 140/1997\)*
 
+> *\(Beachte: Nach Art\. XXXII Z 12 WGN 1997, BGBl\. I Nr\. 140/1997, ist die Neufassung des Abs\. 2 und die Aufhebung des Abs\. 3 anzuwenden, wenn die Entscheidung nach dem 31\. Dezember 1997 verkündet worden ist\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-417a-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=417a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_393_TextContainer_393) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.012.md#-417a-zpo) \]
 
 ----
@@ -5792,6 +5898,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Klagen und Widersprüche gegen ein Versäumungsurteil können von einer Partei auch beim Bezirksgericht ihres Aufenthalts mündlich zu Protokoll erklärt werden; dieses Bezirksgericht hat das Protokoll dem Prozeßgericht unverzüglich zu übersenden\.
 
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-434-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=434) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_408_TextContainer_408) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.013.md#-434-zpo) \]
 
 ----
@@ -5853,6 +5961,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(6)` Die Höhe eines aufgetragenen Kostenvorschusses kann schon dann angefochten werden \(§ 332 Abs\. 2\), wenn der Gesamtbetrag der einer Partei aufgetragenen Vorschüsse 2 000 Euro übersteigt\.
 
+> *\(Beachte: Abs\. 1 und 4 sind auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-440-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=440) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_414_TextContainer_414) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.013.md#-440-zpo) \]
 
 ----
@@ -5860,6 +5970,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 441 ZPO
 
 > Die Einrede der Unzuständigkeit des Gerichtes hat der Beklagte vorzubringen, bevor er sich in die Verhandlung über die Hauptsache einlässt\. Nach Einlassung des Beklagten zur Hauptsache kann die Unzuständigkeit des Gerichtes nur unter den Voraussetzungen des § 240 berücksichtigt werden\.
+>
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-441-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=441) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_415_TextContainer_415) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.013.md#-441-zpo) \]
 
@@ -5878,6 +5990,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(1)` Gegen ein Versäumungsurteil kann Widerspruch nach § 397a erhoben werden, es sei denn, die Partei hat in diesem Verfahren schon einmal Widerspruch gegen ein Versäumungsurteil erhoben\. Der Widerspruch ist ausgeschlossen, wenn in dem Verfahren bereits Einspruch gegen einen Zahlungsbefehl oder Einwendungen im Mandatsverfahren oder im Bestandverfahren erhoben wurden\.
 
 > `(2)` Der Beklagte hat Anspruch auf Ersatz der Kosten eines von ihm erhobenen Widerspruchs \(§ 397a Abs\. 4\) nur, wenn ihm das Gericht nach § 440 Abs\. 3 aufgetragen hatte, das darin Enthaltene in einem Schriftsatz vorzubringen\.
+
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-442a-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=442a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_417_TextContainer_417) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.013.md#-442a-zpo) \]
 
@@ -5918,6 +6032,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >> `3.` Ist der Einspruch begründet, so ist dem Kläger eine Ausfertigung oder eine Abschrift des Schriftsatzes oder des ihn ersetzenden Protokolls zuzustellen\.
 >
 >> `4.` Ist ordnungsgemäß Einspruch erhoben worden, so hat das Gericht nach den §§ 440 ff vorzugehen\.
+>
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-448-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=448) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_421_TextContainer_421) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.013.md#-448-zpo) \]
 
@@ -6034,6 +6150,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Gegen ein in Anwesenheit beider Parteien mündlich verkündetes Urteil \(§ 414\) kann Berufung von einer Partei nur erhoben werden, die diese sofort nach der Verkündung des Urteils mündlich oder binnen vierzehn Tagen ab der Zustellung der Protokollsabschrift über jene Tagsatzung zur mündlichen Verhandlung, in der das Urteil verkündet worden ist, in einem bei dem Prozeßgericht erster Instanz überreichten Schriftsatz angemeldet hat\. Wird in dieser Frist ein Antrag im Sinn des § 464 Abs\. 3 gestellt, so gilt er als Anmeldung der Berufung\.
 
+> *\(Beachte: Ist anzuwenden, wenn das Datum der Entscheidung erster Instanz nach dem 30\. April 2011 liegt \(vgl\. Art\. 39 Abs\. 8, BGBl\. I Nr\. 111/2010\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-461-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=461) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_429_TextContainer_429) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.013.md#-461-zpo) \]
 
 ----
@@ -6070,6 +6188,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Hat eine die Verfahrenshilfe genießende oder beantragende Partei innerhalb dieser Frist die Beigebung eines Rechtsanwalts beantragt, so beginnt für sie die Berufungsfrist mit der Zustellung des Bescheides über die Bestellung des Rechtsanwalts und einer schriftlichen Urteilsausfertigung an ihn; der Bescheid ist durch das Gericht zuzustellen\. Wird der rechtzeitig gestellte Antrag auf Beigebung eines Rechtsanwalts abgewiesen, so beginnt die Berufungsfrist mit dem Eintritt der Rechtskraft des abweisenden Beschlusses\. Der § 73 Abs\. 3 gilt sinngemäß\.
 
+> *\(Beachte: Nach Art\. XXXII Z 9 WGN 1997, BGBl\. I Nr\. 140/1997, ist die Neufassung des Abs\. 3 letzter Satz anzuwenden, wenn der Antrag auf Bewilligung der Verfahrenshilfe nach dem 31\. Dezember 1997 gestellt wird\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-464-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=464) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_432_TextContainer_432) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.013.md#-464-zpo) \]
 
 ----
@@ -6079,6 +6199,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 465 ZPO
 
 > Die Berufung wird durch Überreichung eines vorbereitenden Schriftsatzes \(Berufungsschrift\) bei dem Processgerichte erster Instanz erhoben\.
+>
+> *\(Beachte: Ist anzuwenden, wenn das Datum der Entscheidung erster Instanz nach dem 30\. April 2011 liegt \(vgl\. Art\. 39 Abs\. 8, BGBl\. I Nr\. 111/2010\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-465-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=465) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_433_TextContainer_433) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.013.md#-465-zpo) \]
 
@@ -6105,6 +6227,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >> `4.` das thatsächliche Vorbringen und die Beweismittel, durch welche die Wahrheit der Berufungsgründe erwiesen werden kann;
 >
 >> `5.` die Unterschrift eines Rechtsanwalts\.
+>
+> *\(Beachte: Ist anzuwenden, wenn das Datum der Entscheidung erster Instanz nach dem 30\. April 2011 liegt \(vgl\. Art\. 39 Abs\. 8, BGBl\. I Nr\. 111/2010\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-467-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=467) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_435_TextContainer_435) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.013.md#-467-zpo) \]
 
@@ -6120,6 +6244,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Von der Einbringung der Berufungsbeantwortung ist der Berufungswerber durch Übersendung einer Ausfertigung derselben zu verständigen\.
 
+> *\(Beachte: Ist anzuwenden, wenn das Datum der Entscheidung erster Instanz nach dem 30\. April 2011 liegt \(vgl\. Art\. 39 Abs\. 8, BGBl\. I Nr\. 111/2010\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-468-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=468) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_436_TextContainer_436) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.013.md#-468-zpo) \]
 
 ----
@@ -6131,6 +6257,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Wurde der Rechtsstreit durch das angefochtene Urtheil nicht vollständig erledigt und soll die Verhandlung über die noch unerledigten Punkte während des Berufungsverfahrens fortgesetzt werden, so sind dem Berufungsgerichte amtliche Abschriften der auf den Gegenstand des Berufungsverfahrens bezüglichen Theile derjenigen Processacten vorzulegen, welche zugleich für das Verfahren in erster Instanz benöthigt werden\.
 
 > `(3)` Richtet sich eine auf den Nichtigkeitsgrund des § 477 Abs\. 1 Z 4 gestützte Berufung gegen ein Versäumungsurteil \(§ 396\), so kann das Gericht, dessen Urteil angefochten wird, der Berufung selbst stattgeben\. Gegen die Entscheidung ist ein Rechtsmittel nicht zulässig\.
+
+> *\(Beachte: Abs\. 1 ist anzuwenden, wenn das Datum der Entscheidung erster Instanz nach dem 30\. April 2011 liegt\.Abs\. 3 ist anzuwenden, wenn das Datum des Versäumungsurteils nach dem 30\. Juni 2011 liegt \(vgl\. Art\. 39 Abs\. 8 und 13, BGBl\. I Nr\. 111/2010\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-469-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=469) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_437_TextContainer_437) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.013.md#-469-zpo) \]
 
@@ -6202,6 +6330,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Das Berufungsgericht kann auch in nicht öffentlicher Sitzung und ohne vorhergehende mündliche Verhandlung eine Mitteilung an den Berufungsgegner nach Abs\. 1 beschließen und die erforderlichen Anordnungen treffen\.
 
+> *\(Beachte: Ist anzuwenden, wenn das Datum der Entscheidung erster Instanz nach dem 30\. April 2011 liegt \(vgl\. Art\. 39 Abs\. 8, BGBl\. I Nr\. 111/2010\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-473a-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=473a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_442_TextContainer_442) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.014.md#-473a-zpo) \]
 
 ----
@@ -6225,6 +6355,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Wurde jedoch in erster Instanz mit Unrecht die sachliche oder örtliche Zuständigkeit des Prozeßgerichts angenommen \(§ 471 Z 5, 6 oder 7\), so sind unter Aufhebung des erstrichterlichen Urteils auf Antrag oder von Amts wegen die zur Einleitung des Verfahrens vor dem zuständigen Gericht erforderlichen Anordnungen zu treffen\.
 
 > `(3)` Wurde vom Gerichte erster Instanz auf die Streitanhängigkeit mit Unrecht keine Rücksicht genommen oder der Antrag, die Klage ohne Verhandlung zur Hauptsache zurückzuweisen, weil über den Klagsanspruch schon rechtskräftig entschieden sei, unrichtiger Weise verworfen, so ist die Klage unter Aufhebung des ergangenen erstrichterlichen Urtheiles vom Berufungsgerichte zurückzuweisen\.
+
+> *\(Beachte: Nach Art\. XXXII Z 8 WGN 1997, BGBl\. I Nr\. 140/1997, ist die Neufassung der Abs\. 1 und 2 auf Verfahren anzuwenden, in denen die Klagen oder verfahrenseinleitenden Anträge bei Gericht nach dem 31\. Dezember 1997 angebracht werden\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-475-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=475) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_444_TextContainer_444) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.014.md#-475-zpo) \]
 
@@ -6265,6 +6397,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Eine nachträgliche Genehmigung der Processführung \(Z 5\) liegt insbesondere dann vor, wenn der gesetzliche Vertreter, ohne den Mangel der Vertretung geltend zu machen, durch Erstattung der Berufungsschrift oder der Berufungsbeantwortung in das Berufungsverfahren eingetreten ist\.
 
 > `(3)` Die Nichtigkeit nach Abs\. 1 Z 2 liegt nicht vor, wenn an Stelle des Einzelrichters ein Senat entschieden hat\.
+
+> *\(Beachte: Nach Art\. XXXII Z 8 WGN 1997, BGBl\. I Nr\. 140/1997, ist die Neufassung des Abs\. 1 Z 3 auf Verfahren anzuwenden, in denen die Klagen oder verfahrenseinleitenden Anträge bei Gericht nach dem 31\. Dezember 1997 angebracht werden\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-477-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=477) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_446_TextContainer_446) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.014.md#-477-zpo) \]
 
@@ -6499,6 +6633,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Welche Bedeutung dem Widerspruche beizumessen ist, der gegen einzelne Feststellungen eines Protokolles erster Instanz rechtzeitig erhoben wurde, hat das Berufungsgericht, nöthigenfalls nach mündlicher Verhandlung über die vom Widerspruche betroffenen Feststellungen und Angaben \(§\. 488\), unter sorgfältiger Würdigung der Ergebnisse des Berufungsverfahrens und aller sonstigen Umstände zu beurtheilen\.
 
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-498-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=498) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_467_TextContainer_467) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.015.md#-498-zpo) \]
 
 ----
@@ -6590,6 +6726,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `6.` für Streitigkeiten nach dem Bundes\-Behindertengleichstellungsgesetz\.
 
+> *\(Beachte: Abs\. 5 Z 6 in der Fassung der ZVN 2022 ist auf Verfahren anzuwenden, in denen die Klage nach dem 30\. April 2022 und vor dem 1\. Mai 2032 eingebracht wird \(vgl\. § 619 Abs\. 2 Z 13\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-502-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=502) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_472_TextContainer_472) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.015.md#-502-zpo) \]
 
 ----
@@ -6652,6 +6790,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Insoweit die Revision auf den im § 503 Z 4 angegebenen Revisionsgrund gestützt wird, ist in der Revisionsschrift ohne Weitläufigkeiten darzulegen, aus welchen Gründen die rechtliche Beurtheilung der Sache unrichtig erscheint\.
 
+> *\(Beachte: Nach Art\. XXXII Z 14 WGN 1997, BGBl\. I Nr\. 140/1997, ist die Neufassung des Abs\. 1 Z 5 anzuwenden, wenn das Datum der Entscheidung der zweiten Instanz nach dem 31\. Dezember 1997 liegt\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-506-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=506) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_476_TextContainer_476) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.015.md#-506-zpo) \]
 
 ----
@@ -6669,6 +6809,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(5)` Von der Einbringung der Revisionsbeantwortung ist der Revisionswerber durch Mittheilung eines Exemplares der Revisionsbeantwortung zu verständigen\.
 
 > `(6)` Die Überreichung der Revisionsschrift und Revisionsbeantwortung kann nicht durch Erklärungen zu gerichtlichem Protokoll ersetzt werden\.
+
+> *\(Beachte: Nach Art\. XXXII Z 14 WGN 1997, BGBl\. I Nr\. 140/1997, ist die Neufassung anzuwenden, wenn das Datum der Entscheidung der zweiten Instanz nach dem 31\. Dezember 1997 liegt\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-507-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=507) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_477_TextContainer_477) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.015.md#-507-zpo) \]
 
@@ -6698,6 +6840,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Der § 464 Abs\. 3 ist sinngemäß anzuwenden\.
 
+> *\(Beachte: Nach Art\. XXXII Z 14 WGN 1997, BGBl\. I Nr\. 140/1997, ist die Neufassung anzuwenden, wenn das Datum der Entscheidung der zweiten Instanz nach dem 31\. Dezember 1997 liegt\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-507a-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=507a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_478_TextContainer_478) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.015.md#-507a-zpo) \]
 
 ----
@@ -6711,6 +6855,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(3)` Eine außerordentliche Revision \(§ 505 Abs\. 4\) ist dem Revisionsgericht samt allen sich auf den Rechtsstreit beziehenden Prozeßakten sofort und unmittelbar vorzulegen\.
 
 > `(4)` Ordentliche Revisionen, die verspätet oder aus einem anderen Grund als dem nach § 502 Abs\. 1 unzulässig sind, hat das Berufungsgericht zurückzuweisen, wenn das Prozeßgericht erster Instanz dies noch nicht getan hat; dies vorbehaltlich des § 508\.
+
+> *\(Beachte: Nach Art\. XXXII Z 14 WGN 1997, BGBl\. I Nr\. 140/1997, ist die Neufassung anzuwenden, wenn das Datum der Entscheidung der zweiten Instanz nach dem 31\. Dezember 1997 liegt\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-507b-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=507b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_479_TextContainer_479) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.015.md#-507b-zpo) \]
 
@@ -6744,6 +6890,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Von einer Mitteilung nach Abs\. 2 sind auch das Prozeßgericht erster Instanz, das Berufungsgericht und der Revisionswerber zu verständigen\. Das Berufungsgericht hat nach dem Einlangen dieser Verständigung dem Revisionsgericht die diesen Rechtsstreit betreffenden berufungsgerichtlichen Akten vorzulegen\.
 
+> *\(Beachte: Nach Art\. XXXII Z 14 WGN 1997, BGBl\. I Nr\. 140/1997, ist die Neufassung des Abs\. 2 anzuwenden, wenn das Datum der Entscheidung der zweiten Instanz nach dem 31\. Dezember 1997 liegt\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-508a-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=508a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_481_TextContainer_481) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.015.md#-508a-zpo) \]
 
 ----
@@ -6767,6 +6915,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Findet das Revisionsgericht das Urtheil oder Verfahren wegen einer schon in erster Instanz unterlaufenen, von amtswegen wahrzunehmenden Nichtigkeit aufzuheben, so hat die Zurückweisung der Sache an die erste Instanz zu erfolgen \(§\. 478, Absatz 2 und 3\)\.
 
 > `(3)` In der Ausfertigung seiner Entscheidung kann das Revisionsgericht die Wiedergabe des Parteivorbringens und der tatsächlichen Entscheidungsgrundlagen auf das beschränken, was zum Verständnis seiner Rechtsausführungen erforderlich ist\. Bestätigt der Oberste Gerichtshof das Urteil des Berufungsgerichts und erachtet er dessen Begründung für zutreffend, so reicht es aus, wenn er auf deren Richtigkeit hinweist\. Die Beurteilung, daß eine geltend gemachte Mangelhaftigkeit oder Aktenwidrigkeit \(§ 503 Z 2 und 3\) nicht vorliegen, sowie die Zurückweisung einer außerordentlichen Revision \(§ 505 Abs\. 4\) bedürfen keiner Begründung\. Die Zurückweisung einer ordentlichen Revision wegen Fehlens einer erheblichen Rechtsfrage \(§ 502 Abs\. 1\) kann sich auf die Ausführung der Zurückweisungsgründe beschränken\.
+
+> *\(Beachte: Nach Art\. XXXII Z 14 WGN 1997, BGBl\. I Nr\. 140/1997, ist die Neufassung des Abs\. 3 dritter Satz anzuwenden, wenn das Datum der Entscheidung der zweiten Instanz nach dem 31\. Dezember 1997 liegt\. Nach Art\. XXXII Z 15 WGN 1997 ist die Neufassung des Abs\. 3 zweiter Satz anzuwenden, wenn das Datum der Entscheidung des Obersten Gerichtshofs nach dem 31\. Dezember 1997 liegt\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-510-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=510) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_483_TextContainer_483) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.015.md#-510-zpo) \]
 
@@ -6810,7 +6960,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Mittels Recurses können Beschlüsse insbesondere auch aus den im §\. 477 angegebenen Gründen aufgehoben werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-514-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=514) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_487_TextContainer_487) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.015.md#-514-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-514-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=514) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_487_TextContainer_487) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.016.md#-514-zpo) \]
 
 ----
 
@@ -6818,7 +6968,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > In den Fällen, in welchen nach den Bestimmungen dieses Gesetzes gegen einen Beschluss ein abgesondertes Rechtsmittel versagt ist, können die Parteien ihre Beschwerden gegen diesen Beschluss mit dem gegen die nächstfolgende anfechtbare Entscheidung eingebrachten Rechtsmittel zur Geltung bringen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-515-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=515) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_488_TextContainer_488) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.015.md#-515-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-515-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=515) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_488_TextContainer_488) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.016.md#-515-zpo) \]
 
 ----
 
@@ -6842,7 +6992,9 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Ein Kostenrekurs ist jedenfalls unzulässig, wenn der Betrag, dessen Zuspruch oder Aberkennung beantragt wird, 50 Euro nicht übersteigt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-517-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=517) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_489_TextContainer_489) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.015.md#-517-zpo) \]
+> *\(Beachte: Ist anzuwenden, wenn das Datum der Entscheidung erster Instanz nach dem 30\. April 2011 liegt \(vgl\. Art\. 39 Abs\. 8, BGBl\. I Nr\. 111/2010\)\.\)*
+
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-517-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=517) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_489_TextContainer_489) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.016.md#-517-zpo) \]
 
 ----
 
@@ -6854,7 +7006,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Übersteigt der Wert des Streitgegenstandes nicht den Betrag von 2 700 Euro, so kann der Endbeschluß nur aus den im § 501 angeführten Gründen angefochten werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-518-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=518) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_490_TextContainer_490) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.015.md#-518-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-518-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=518) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_490_TextContainer_490) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.016.md#-518-zpo) \]
 
 ----
 
@@ -6868,7 +7020,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Das Berufungsgericht darf die Zulässigkeit des Rekurses nach Abs\. 1 Z 2 nur aussprechen, wenn es die Voraussetzungen für gegeben erachtet, unter denen nach § 502 die Revision zulässig ist; dieser Ausspruch ist kurz zu begründen\. Im Fall eines solchen Ausspruchs ist das Verfahren in erster Instanz erst nach Rechtskraft des Aufhebungsbeschlusses fortzusetzen\. Über einen solchen Rekurs kann der Oberste Gerichtshof durch Urteil in der Sache selbst erkennen, wenn die Streitsache zur Entscheidung reif ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-519-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=519) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_491_TextContainer_491) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.015.md#-519-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-519-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=519) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_491_TextContainer_491) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.016.md#-519-zpo) \]
 
 ----
 
@@ -6879,6 +7031,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(1)` Der Recurs wird durch Überreichung eines Schriftsatzes \(Recursschrift\) bei dem Gerichte erhoben, dessen Beschluss angefochten wird, dessen Vorsteher den angefochtenen Beschluss erlassen hat oder dem der Vorsitzende des Senates, der beauftragte oder ersuchte Richter angehört hat, gegen dessen Beschluss Recurs ergriffen wird; doch sind Rekurse gegen Entscheidungen der zweiten Instanz beim Gerichte erster Instanz zu überreichen\. Rekurse müssen mit der Unterschrift eines Rechtsanwalts versehen sein\.
 
 > `(2)` Wenn ein Beschluß wegen der ihm zugrunde liegenden unrichtigen rechtlichen Beurteilung mit Rekurs angefochten wird, ist der § 506 Abs\. 2 entsprechend anzuwenden\.
+
+> *\(Beachte: Ist anzuwenden, wenn das Datum der Entscheidung erster Instanz nach dem 30\. April 2011 liegt \(vgl\. Art\. 39 Abs\. 8, BGBl\. I Nr\. 111/2010\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-520-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=520) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_492_TextContainer_492) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.016.md#-520-zpo) \]
 
@@ -6902,6 +7056,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Für Revisionsrekurse nach § 528 Abs\. 2a und für außerordentliche Revisionsrekurse gilt Abs\. 1 mit den Maßgaben, die sich aus der sinngemäßen Anwendung der §§ 507, 507a, 507b, 508 und 508a ergeben\.
 
+> *\(Beachte: Ist anzuwenden, wenn das Datum der Entscheidung erster Instanz nach dem 30\. April 2011 liegt \(vgl\. Art\. 39 Abs\. 8, BGBl\. I Nr\. 111/2010\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-521a-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=521a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_494_TextContainer_494) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.016.md#-521a-zpo) \]
 
 ----
@@ -6911,6 +7067,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(1)` Richtet sich das Rechtsmittel gegen eine Strafverfügung, gegen einen Beschluß prozeßleitender Natur, gegen die Zurückweisung eines Rechtsmittels, eines Einspruchs gegen einen Zahlungsbefehl oder eines Widerspruchs gegen ein Versäumungsurteil als verspätet oder unzulässig oder gegen einen Beschluß, mit dem ein Antrag ohne Anhörung der Gegenpartei abgewiesen worden ist, so kann das Gericht oder der Richter, dessen Entscheidung oder Verfügung angefochten wird, dem Rekursbegehren selbst stattgeben\.
 
 > `(2)` Finden sie sich hiezu nicht bestimmt oder werden andere als die im Abs\. 1 bezeichneten Beschlüsse durch Rekurs angefochten, so ist der Rekurs dem Rekursgericht ohne Aufschub, im Fall des § 521a nach rechtzeitigem Einlangen der Rekursbeantwortung oder nach fruchtlosem Ablauf der hiefür offenstehenden Frist, mit allen für die Beurteilung des Rekurses erforderlichen Akten, gegebenenfalls mit einem aufklärenden Bericht, vorzulegen\.
+
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-522-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=522) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_495_TextContainer_495) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.016.md#-522-zpo) \]
 
@@ -6964,6 +7122,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Wird der angefochtene Beschluß in zweiter Instanz aufgehoben und dem Gericht erster Instanz eine neuerliche, nach Ergänzung des Verfahrens zu fällende Entscheidung aufgetragen, so ist ein Rekurs dagegen nur zulässig, wenn das Rekursgericht dies ausgesprochen hat\. Das Rekursgericht darf dies nur aussprechen, wenn es die Voraussetzungen für die Zulässigkeit des Revisionsrekurses nach § 528 für gegeben erachtet; § 528 Abs\. 2 Z 1a, Abs\. 2a und 3 gilt nicht\.
 
+> *\(Beachte: Nach Art\. XXXII Z 14 WGN 1997, BGBl\. I Nr\. 140/1997, ist die Neufassung des Abs\. 2 letzter Satz anzuwenden, wenn das Datum der Entscheidung der zweiten Instanz nach dem 31\. Dezember 1997 liegt\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-527-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=527) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_500_TextContainer_500) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.016.md#-527-zpo) \]
 
 ----
@@ -6993,6 +7153,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(3)` Hat das Rekursgericht ausgesprochen, daß der ordentliche Revisionsrekurs nicht nach Abs\. 1 zulässig ist \(§ 526 Abs\. 3 in Verbindung mit § 500 Abs\. 2 Z 3\), so kann nur in den Fällen des § 505 Abs\. 4 ein außerordentlicher Revisionsrekurs erhoben werden\. Für diesen gelten die Bestimmungen über die außerordentliche Revision sinngemäß\.
 
 > `(4)` Findet das Rekursgericht, daß ein gegen den Beschluß eines Gerichts zweiter Instanz erhobener Rekurs mutwillig oder nur zur Verzögerung der Sache angebracht wurde, so ist gegen den Beschwerdeführer auf eine Mutwillensstrafe zu erkennen\.
+
+> *\(Beachte: Ist auf Verfahren anzuwenden, auf die § 49 JN idF BGBl\. I Nr\. 112/2003 anzuwenden ist \(vgl\. Art\. XXXII § 4 Abs\. 3, BGBl\. I Nr\. 112/2003\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-528-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=528) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_501_TextContainer_501) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.016.md#-528-zpo) \]
 
@@ -7090,7 +7252,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Auf die Erhebung der Nichtigkeits\- und Wiederaufnahmsklage und auf das weitere Verfahren finden, soweit sich nicht aus den nachfolgenden Bestimmungen Abweichungen ergeben, die im ersten bis vierten Theile dieses Gesetzes enthaltenen Vorschriften entsprechend Anwendung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-533-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=533) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_508_TextContainer_508) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.016.md#-533-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-533-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=533) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_508_TextContainer_508) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-533-zpo) \]
 
 ----
 
@@ -7112,7 +7274,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Nach Ablauf von zehn Jahren nach dem Eintritte der Rechtskraft der Entscheidung kann die Klage, mit Ausnahme des in Z 2 erwähnten Falles, nicht mehr erhoben werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-534-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=534) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_509_TextContainer_509) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.016.md#-534-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-534-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=534) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_509_TextContainer_509) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-534-zpo) \]
 
 ----
 
@@ -7120,7 +7282,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Wird die Klage nicht bei dem Gerichte erhoben, welches in dem früheren Verfahren in erster Instanz erkannt hat, sondern bei einem höheren Gerichte, welches nach den für das Verfahren vor demselben geltenden Bestimmungen die Hauptsache spruchreif zu machen vermag, so sind in Ansehung der mündlichen Verhandlung, der Beweisführung und der Mittheilung der über die Klage gefällten Entscheidung an die erste Instanz, sowie in Ansehung der Anfechtbarkeit der Entscheidung diejenigen Bestimmungen maßgebend, welche für das höhere Gericht als Rechtsmittelinstanz maßgebend wären\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-535-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=535) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_510_TextContainer_510) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.016.md#-535-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-535-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=535) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_510_TextContainer_510) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-535-zpo) \]
 
 ----
 
@@ -7138,7 +7300,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `5.` die Erklärung, inwieweit die Beseitigung der angefochtenen Entscheidung, und welche andere Entscheidung in der Hauptsache beantragt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-536-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=536) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_511_TextContainer_511) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.016.md#-536-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-536-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=536) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_511_TextContainer_511) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-536-zpo) \]
 
 ----
 
@@ -7146,7 +7308,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Der Richter, wegen dessen Betheiligung an der Entscheidung die Nichtigkeitsklage \(§\. 529, Z 1\) oder wegen dessen Verhalten die Wiederaufnahmsklage nach §\. 530, Z 4, angebracht wird, ist von der Leitung der Verhandlung sowie von der Entscheidung über die Nichtigkeits\- oder Wiederaufnahmsklage ausgeschlossen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-537-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=537) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_512_TextContainer_512) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.016.md#-537-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-537-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=537) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_512_TextContainer_512) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-537-zpo) \]
 
 ----
 
@@ -7156,7 +7318,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Umstände, aus welchen sich die Einhaltung der gesetzlichen Frist ergibt, sind vom Kläger auf Verlangen des Gerichtes glaubhaft zu machen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-538-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=538) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_513_TextContainer_513) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.016.md#-538-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-538-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=538) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_513_TextContainer_513) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-538-zpo) \]
 
 ----
 
@@ -7166,7 +7328,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Tagsatzung zur mündlichen Verhandlung über die Wiederaufnahmsklage ist erst nach rechtskräftigem Abschlusse des strafgerichtlichen Verfahrens, und zwar nur dann anzuberaumen, wenn dieses Verfahren entweder zu einer rechtskräftigen Verurtheilung wegen der zur Begründung der Wiederaufnahmsklage geltend gemachten strafbaren Handlung geführt hat, oder wenn das strafgerichtliche Verfahren aus anderen Gründen als wegen mangelnden Thatbestandes oder wegen Mangels an Beweisen zu einer Verurtheilung nicht geführt hat\. Andernfalls ist die Klage nach Bekanntgabe der Ergebnisse des strafgerichtlichen Verfahrens als unzulässig zurückzuweisen\. Diese Zurückweisung geschieht gleichfalls ohne vorgängige mündliche Verhandlung und bei Gerichtshöfen durch einen in nicht öffentlicher Sitzung gefassten Beschluß\. Das Strafgericht oder die staatsanwaltschaftliche Behörde hat bei Bekanntgabe der wegen Nichteinleitung oder Einstellung des Strafverfahrens gefassten Beschlüsse den Grund der unterlassenen Einleitung oder der Einstellung des Verfahrens stets ausdrücklich zu bezeichnen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-539-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=539) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_514_TextContainer_514) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.016.md#-539-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-539-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=539) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_514_TextContainer_514) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-539-zpo) \]
 
 ----
 
@@ -7178,7 +7340,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Ist jedoch das zur Entscheidung über die Bewilligung der Wiederaufnahme zuständige Gericht höherer Instanz nach den für das Verfahren vor demselben geltenden Bestimmungen nicht in der Lage, die Hauptsache spruchreif zu machen, so hat es sich auf die Entscheidung über die Zulässigkeit der Wiederaufnahme zu beschränken und nach Rechtskraft des die Wiederaufnahme bewilligenden Urtheiles den Rechtsstreit zur Verhandlung der Hauptsache an das Gericht zurückzuverweisen, welches in erster Instanz dazu berufen gewesen ist\. Von diesem ist sodann die Tagsatzung zur mündlichen Verhandlung der Hauptsache von amtswegen anzuberaumen und nach den für das Verfahren vor diesem Gerichte geltenden Vorschriften durchzuführen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-540-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=540) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_515_TextContainer_515) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.016.md#-540-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-540-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=540) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_515_TextContainer_515) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-540-zpo) \]
 
 ----
 
@@ -7190,7 +7352,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` In Bezug auf die Verweisung, die Anberaumung der Tagsatzung zur mündlichen Verhandlung und die Durchführung der Verhandlung gelten die Bestimmungen des §\. 540 Absatz 3\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-541-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=541) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_516_TextContainer_516) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.016.md#-541-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-541-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=541) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_516_TextContainer_516) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-541-zpo) \]
 
 ----
 
@@ -7200,7 +7362,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Entscheidung über die Zulässigkeit der Wiederaufnahme ist in diesem Falle in die Entscheidung über die Hauptsache aufzunehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-542-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=542) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_517_TextContainer_517) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.016.md#-542-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-542-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=542) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_517_TextContainer_517) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-542-zpo) \]
 
 ----
 
@@ -7208,7 +7370,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Ergibt sich erst bei der mündlichen Verhandlung, daß die Wiederaufnahms\- oder Nichtigkeitsklage auf einen gesetzlich unzulässigen Anfechtungsgrund gestützt wird oder verspätet überreicht ist, so ist die Klage durch Beschluss zurückzuweisen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-543-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=543) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_518_TextContainer_518) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.016.md#-543-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-543-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=543) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_518_TextContainer_518) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-543-zpo) \]
 
 ----
 
@@ -7218,7 +7380,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Das Gericht, bei welchem die Wiederaufnahmsklage angebracht wurde, hat im Falle einer solchen Beschlussfassung das Gericht, bei welchem über das eingelegte Rechtsmittel zur Zeit verhandelt wird, von der angeordneten Unterbrechung des Rechtsmittelverfahrens sofort zu verständigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-544-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=544) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_519_TextContainer_519) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.016.md#-544-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-544-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=544) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_519_TextContainer_519) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-544-zpo) \]
 
 ----
 
@@ -7228,7 +7390,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Eine solche Unterbrechung kann auch noch während der mündlichen Verhandlung über die Wiederaufnahmsklage beschlossen werden\. Bei Anordnung der Unterbrechung kommen die Bestimmungen des §\. 544 Absatz 2 zur Anwendung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-545-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=545) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_520_TextContainer_520) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.016.md#-545-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-545-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=545) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_520_TextContainer_520) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-545-zpo) \]
 
 ----
 
@@ -7238,7 +7400,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Ist die Wiederaufnahmsklage rechtskräftig abgewiesen, so ist das unterbrochene Rechtsmittelverfahren von amtswegen oder auf Antrag wieder aufzunehmen\. Der Antrag ist bei dem Gerichte zu stellen, vor welchem das Rechtsmittelverfahren zur Zeit der angeordneten Unterbrechung anhängig war\. Dieses Gericht hat die rechtzeitige Wiedervorlage der zur Fortsetzung der Verhandlung erforderlichen Acten von amtswegen zu veranlassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-546-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=546) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_521_TextContainer_521) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.016.md#-546-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-546-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=546) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_521_TextContainer_521) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-546-zpo) \]
 
 ----
 
@@ -7248,7 +7410,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Auf die Vollstreckbarkeit einer angefochtenen rechtskräftigen Entscheidung ist die Einbringung einer Nichtigkeitsklage oder einer Wiederaufnahmsklage ohne Einfluss\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-547-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=547) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_522_TextContainer_522) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.016.md#-547-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-547-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=547) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_522_TextContainer_522) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-547-zpo) \]
 
 ----
 
@@ -7272,7 +7434,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Das für das Europäische Bagatellverfahren zuständige Gericht erster Instanz ist auch für die Überprüfung nach Art\. 18 der Verordnung zuständig; hiefür gelten die §§ 149 und 153 entsprechend\. Erklärt das Gericht das Urteil nach Art\. 18 der Verordnung für nichtig, so tritt der Rechtsstreit in die Lage zurück, in der er sich vor dem zur Nichtigerklärung führenden Verfahrensschritt befunden hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-548-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=548) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_523_TextContainer_523) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.016.md#-548-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-548-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=548) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_523_TextContainer_523) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-548-zpo) \]
 
 ----
 
@@ -7485,7 +7647,9 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Bleibt eine der Parteien nach rechtzeitig erhobenen Einwendungen von einer Tagsatzung aus, bevor sie sich durch mündliches Vorbringen zur Hauptsache in den Streit eingelassen hat, so ist auf Antrag der erschienenen Partei ein Versäumungsurteil nach § 396 zu fällen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-571-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=571) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_539_TextContainer_539) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-571-zpo) \]
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2002 bei Gericht eingelangt ist\. \(vgl\. Art\. XI Abs\. 2, BGBl\. I Nr\. 76/2002\)\)*
+
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-571-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=571) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_539_TextContainer_539) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-571-zpo) \]
 
 ----
 
@@ -7493,7 +7657,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > In dem das Verfahren über Einwendungen erledigenden Urtheile ist auszusprechen, ob und inwieweit und – bei Behauptung verspäteter Zustellung – zu welchem Termin die Aufkündigung oder der nach §\. 567 erlassene Auftrag als wirksam erkannt oder aufgehoben wird, sowie ob und wann der Beklagte verpflichtet ist, den Bestandgegenstand zu übergeben oder zu übernehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-572-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=572) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_540_TextContainer_540) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-572-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-572-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=572) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_540_TextContainer_540) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-572-zpo) \]
 
 ----
 
@@ -7505,7 +7669,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die Exekution kann auf Grund rechtskräftig gewordener Urteile, Aufkündigungen und gerichtlicher Aufträge zur Übergabe oder Übernahme des Bestandgegenstandes bewilligt werden, sobald die Frist verstrichen ist, innerhalb deren nach den vorangehenden Absätzen der Bestandgegenstand zu übergeben war\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-573-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=573) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_541_TextContainer_541) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-573-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-573-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=573) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_541_TextContainer_541) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-573-zpo) \]
 
 ----
 
@@ -7513,7 +7677,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Bestimmungen des §\. 573 sind auch dann anzuwenden, wenn ein Bestandvertrag ohne vorausgegangene gerichtliche oder außergerichtliche Aufkündigung infolge einer Klage durch Urtheil für aufgehoben oder erloschen erklärt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-574-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=574) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_542_TextContainer_542) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-574-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-574-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=574) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_542_TextContainer_542) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-574-zpo) \]
 
 ----
 
@@ -7525,7 +7689,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `(3)` Eine gerichtliche Kündigung oder ein Auftrag zur Übergabe oder Übernahme des Bestandgegenstandes, wider welche nicht rechtzeitig Einwendungen erhoben wurden, desgleichen die über solche Einwendungen ergangenen rechtskräftigen Urtheile treten, vorbehaltlich des über den Kostenersatz ergangenen Ausspruches, außer Kraft, wenn nicht binnen sechs Monaten nach dem Eintritte der in diesen Aufträgen oder im Urtheile für die Räumung oder Übernahme des Bestandgegenstandes bestimmten Zeit wegen dieser Räumung oder Übernahme Execution beantragt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-575-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=575) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_543_TextContainer_543) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-575-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-575-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=575) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_543_TextContainer_543) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-575-zpo) \]
 
 ----
 
@@ -7535,7 +7699,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Bestimmungen dieses Abschnittes finden auch auf die im §\. 1103 a\. b\. G\. B\. bezeichneten Verträge Anwendung\. Solche Verträge sind im Sinne dieses Gesetzes als Pachtverträge anzusehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-576-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=576) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_544_TextContainer_544) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-576-zpo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-576-zpo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=576) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_544_TextContainer_544) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-576-zpo) \]
 
 ----
 
@@ -7557,7 +7721,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Die Bestimmungen dieses Abschnitts sind nicht auf Einrichtungen nach dem Vereinsgesetz zur Schlichtung von Streitigkeiten aus dem Vereinsverhältnis anwendbar\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-577-zpo--anwendungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=577) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_545_TextContainer_545) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-577-zpo--anwendungsbereich) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-577-zpo--anwendungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=577) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_545_TextContainer_545) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-577-zpo--anwendungsbereich) \]
 
 ----
 
@@ -7565,7 +7729,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Das Gericht darf in den in diesem Abschnitt geregelten Angelegenheiten nur tätig werden, soweit dieser Abschnitt es vorsieht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-578-zpo--gerichtliche-tätigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=578) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_546_TextContainer_546) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-578-zpo--gerichtliche-tätigkeit) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-578-zpo--gerichtliche-tätigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=578) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_546_TextContainer_546) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-578-zpo--gerichtliche-tätigkeit) \]
 
 ----
 
@@ -7573,7 +7737,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Hat das Schiedsgericht einer Verfahrensbestimmung dieses Abschnitts, von der die Parteien abweichen können, oder einem vereinbarten Verfahrenserfordernis des Schiedsverfahrens nicht entsprochen, so kann eine Partei den Mangel später nicht mehr geltend machen, wenn sie ihn nicht unverzüglich ab Kenntnis oder innerhalb der dafür vorgesehenen Frist gerügt hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-579-zpo--rügepflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=579) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_547_TextContainer_547) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-579-zpo--rügepflicht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-579-zpo--rügepflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=579) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_547_TextContainer_547) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-579-zpo--rügepflicht) \]
 
 ----
 
@@ -7585,7 +7749,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Abs\. 1 und 2 gelten nicht für Mitteilungen in gerichtlichen Verfahren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-580-zpo--empfang-schriftlicher-mitteilungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=580) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_548_TextContainer_548) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-580-zpo--empfang-schriftlicher-mitteilungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-580-zpo--empfang-schriftlicher-mitteilungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=580) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_548_TextContainer_548) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-580-zpo--empfang-schriftlicher-mitteilungen) \]
 
 ----
 
@@ -7599,7 +7763,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Bestimmungen dieses Abschnitts sind auch auf Schiedsgerichte sinngemäß anzuwenden, die in gesetzlich zulässiger Weise durch letztwillige Verfügung oder andere nicht auf Vereinbarung der Parteien beruhende Rechtsgeschäfte oder durch Statuten angeordnet werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-581-zpo--begriff) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=581) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_549_TextContainer_549) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-581-zpo--begriff) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-581-zpo--begriff) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=581) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_549_TextContainer_549) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-581-zpo--begriff) \]
 
 ----
 
@@ -7609,7 +7773,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Familienrechtliche Ansprüche sowie alle Ansprüche aus Verträgen, die dem Mietrechtsgesetz oder dem Wohnungsgemeinnützigkeitsgesetz auch nur teilweise unterliegen, einschließlich der Streitigkeiten über die Eingehung, das Bestehen, die Auflösung und die rechtliche Einordnung solcher Verträge, und alle wohnungseigentumsrechtlichen Ansprüche können nicht Gegenstand einer Schiedsvereinbarung sein\. Gesetzliche Vorschriften außerhalb dieses Abschnitts, nach denen Streitigkeiten einem Schiedsverfahren nicht oder nur unter bestimmten Voraussetzungen unterworfen werden dürfen, bleiben unberührt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-582-zpo--schiedsfähigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=582) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_550_TextContainer_550) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-582-zpo--schiedsfähigkeit) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-582-zpo--schiedsfähigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=582) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_550_TextContainer_550) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-582-zpo--schiedsfähigkeit) \]
 
 ----
 
@@ -7621,7 +7785,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Ein Formmangel der Schiedsvereinbarung wird im Schiedsverfahren durch Einlassung in die Sache geheilt, wenn er nicht spätestens zugleich mit der Einlassung gerügt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-583-zpo--form-der-schiedsvereinbarung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=583) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_551_TextContainer_551) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-583-zpo--form-der-schiedsvereinbarung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-583-zpo--form-der-schiedsvereinbarung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=583) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_551_TextContainer_551) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-583-zpo--form-der-schiedsvereinbarung) \]
 
 ----
 
@@ -7637,7 +7801,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Eine Partei, die sich zu einem früheren Zeitpunkt in einem Verfahren auf das Vorhandensein einer Schiedsvereinbarung berufen hat, kann später nicht mehr geltend machen, dass diese nicht vorliegt, es sei denn, die maßgebenden Umstände haben sich seither geändert\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-584-zpo--schiedsvereinbarung-und-klage-vor-gericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=584) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_552_TextContainer_552) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-584-zpo--schiedsvereinbarung-und-klage-vor-gericht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-584-zpo--schiedsvereinbarung-und-klage-vor-gericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=584) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_552_TextContainer_552) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-584-zpo--schiedsvereinbarung-und-klage-vor-gericht) \]
 
 ----
 
@@ -7645,7 +7809,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Eine Schiedsvereinbarung schließt nicht aus, dass eine Partei vor oder während des Schiedsverfahrens bei einem Gericht eine vorläufige oder sichernde Maßnahme beantragt und dass das Gericht eine solche Maßnahme anordnet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-585-zpo--schiedsvereinbarung-und-einstweilige-gerichtliche-maßnahmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=585) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_553_TextContainer_553) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.017.md#-585-zpo--schiedsvereinbarung-und-einstweilige-gerichtliche-maßnahmen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-585-zpo--schiedsvereinbarung-und-einstweilige-gerichtliche-maßnahmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=585) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_553_TextContainer_553) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-585-zpo--schiedsvereinbarung-und-einstweilige-gerichtliche-maßnahmen) \]
 
 ----
 
@@ -7821,7 +7985,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Ein Schiedsrichter, welcher die durch Annahme der Bestellung übernommene Verpflichtung gar nicht oder nicht rechtzeitig erfüllt, haftet den Parteien für allen durch seine schuldhafte Weigerung oder Verzögerung verursachten Schaden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-594-zpo--allgemeines) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=594) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_562_TextContainer_562) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-594-zpo--allgemeines) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-594-zpo--allgemeines) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=594) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_562_TextContainer_562) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-594-zpo--allgemeines) \]
 
 ----
 
@@ -7831,7 +7995,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Haben die Parteien nichts anderes vereinbart, so kann das Schiedsgericht ungeachtet des Abs\. 1 an jedem ihm geeignet erscheinenden Ort Verfahrenshandlungen setzen, insbesondere zur Beratung, Beschlussfassung, mündlichen Verhandlung und zur Beweisaufnahme zusammentreten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-595-zpo--sitz-des-schiedsgerichts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=595) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_563_TextContainer_563) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-595-zpo--sitz-des-schiedsgerichts) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-595-zpo--sitz-des-schiedsgerichts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=595) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_563_TextContainer_563) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-595-zpo--sitz-des-schiedsgerichts) \]
 
 ----
 
@@ -7839,7 +8003,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Parteien können die Sprache oder die Sprachen, die im Schiedsverfahren zu verwenden sind, vereinbaren\. Fehlt eine solche Vereinbarung, so bestimmt hierüber das Schiedsgericht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-596-zpo--verfahrenssprache) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=596) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_564_TextContainer_564) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-596-zpo--verfahrenssprache) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-596-zpo--verfahrenssprache) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=596) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_564_TextContainer_564) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-596-zpo--verfahrenssprache) \]
 
 ----
 
@@ -7849,7 +8013,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Haben die Parteien nichts anderes vereinbart, so können beide Parteien im Laufe des Verfahrens ihre Klage oder ihr Vorbringen ändern oder ergänzen, es sei denn, das Schiedsgericht lässt dies wegen Verspätung nicht zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-597-zpo--klage-und-klagebeantwortung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=597) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_565_TextContainer_565) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-597-zpo--klage-und-klagebeantwortung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-597-zpo--klage-und-klagebeantwortung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=597) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_565_TextContainer_565) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-597-zpo--klage-und-klagebeantwortung) \]
 
 ----
 
@@ -7857,7 +8021,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Haben die Parteien nichts anderes vereinbart, so entscheidet das Schiedsgericht, ob mündlich verhandelt oder ob das Verfahren schriftlich durchgeführt werden soll\. Haben die Parteien eine mündliche Verhandlung nicht ausgeschlossen, so hat das Schiedsgericht auf Antrag einer Partei eine solche in einem geeigneten Abschnitt des Verfahrens durchzuführen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-598-zpo--mündliche-verhandlung-und-schriftliches-verfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=598) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_566_TextContainer_566) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-598-zpo--mündliche-verhandlung-und-schriftliches-verfahren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-598-zpo--mündliche-verhandlung-und-schriftliches-verfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=598) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_566_TextContainer_566) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-598-zpo--mündliche-verhandlung-und-schriftliches-verfahren) \]
 
 ----
 
@@ -7869,7 +8033,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Alle Schriftsätze, Schriftstücke und sonstigen Mitteilungen, die dem Schiedsgericht von einer Partei vorgelegt werden, sind der anderen Partei zur Kenntnis zu bringen\. Gutachten und andere Beweismittel, auf die sich das Schiedsgericht bei seiner Entscheidung stützen kann, sind beiden Parteien zur Kenntnis zu bringen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-599-zpo--verfahren-und-beweisaufnahme) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=599) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_567_TextContainer_567) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-599-zpo--verfahren-und-beweisaufnahme) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-599-zpo--verfahren-und-beweisaufnahme) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=599) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_567_TextContainer_567) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-599-zpo--verfahren-und-beweisaufnahme) \]
 
 ----
 
@@ -7879,7 +8043,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Versäumt es der Beklagte nach § 597 Abs\. 1 binnen der vereinbarten oder aufgetragenen Frist Stellung zu nehmen, so setzt das Schiedsgericht, wenn die Parteien nichts anderes vereinbart haben, das Verfahren fort, ohne dass allein wegen der Versäumung das Vorbringen des Klägers für wahr zu halten ist\. Gleiches gilt, wenn eine Partei eine andere Verfahrenshandlung versäumt\. Das Schiedsgericht kann das Verfahren fortsetzen und eine Entscheidung auf Grund der aufgenommenen Beweise fällen\. Wird die Versäumung nach Überzeugung des Schiedsgerichts genügend entschuldigt, so kann die versäumte Verfahrenshandlung nachgeholt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-600-zpo--versäumung-einer-verfahrenshandlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=600) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_568_TextContainer_568) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-600-zpo--versäumung-einer-verfahrenshandlung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-600-zpo--versäumung-einer-verfahrenshandlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=600) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_568_TextContainer_568) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-600-zpo--versäumung-einer-verfahrenshandlung) \]
 
 ----
 
@@ -7897,7 +8061,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Haben die Parteien nichts anderes vereinbart, so hat jede Partei das Recht, Gutachten eigener Sachverständiger vorzulegen\. Abs\. 2 gilt entsprechend\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-601-zpo--vom-schiedsgericht-bestellter-sachverständiger) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=601) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_569_TextContainer_569) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-601-zpo--vom-schiedsgericht-bestellter-sachverständiger) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-601-zpo--vom-schiedsgericht-bestellter-sachverständiger) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=601) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_569_TextContainer_569) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-601-zpo--vom-schiedsgericht-bestellter-sachverständiger) \]
 
 ----
 
@@ -7905,7 +8069,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Das Schiedsgericht, vom Schiedsgericht hiezu beauftragte Schiedsrichter oder eine der Parteien mit Zustimmung des Schiedsgerichts können bei Gericht die Vornahme richterlicher Handlungen beantragen, zu deren Vornahme das Schiedsgericht nicht befugt ist\. Die Rechtshilfe kann auch darin bestehen, dass das Gericht ein ausländisches Gericht oder eine Behörde um die Vornahme solcher Handlungen ersucht\. § 37 Abs\. 2 bis 5 und §§ 38, 39 und 40 JN gelten entsprechend mit der Maßgabe, dass die Rechtsmittelbefugnis gemäß § 40 JN dem Schiedsgericht und den Parteien des Schiedsverfahrens zusteht\. Das Schiedsgericht oder ein vom Schiedsgericht beauftragter Schiedsrichter und die Parteien sind berechtigt, an einer gerichtlichen Beweisaufnahme teilzunehmen und Fragen zu stellen\. § 289 ist sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-602-zpo--gerichtliche-rechtshilfe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=602) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_570_TextContainer_570) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-602-zpo--gerichtliche-rechtshilfe) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-602-zpo--gerichtliche-rechtshilfe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=602) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_570_TextContainer_570) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-602-zpo--gerichtliche-rechtshilfe) \]
 
 ----
 
@@ -7921,7 +8085,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Das Schiedsgericht hat nur dann nach Billigkeit zu entscheiden, wenn die Parteien es ausdrücklich dazu ermächtigt haben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-603-zpo--anzuwendendes-recht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=603) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_571_TextContainer_571) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-603-zpo--anzuwendendes-recht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-603-zpo--anzuwendendes-recht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=603) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_571_TextContainer_571) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-603-zpo--anzuwendendes-recht) \]
 
 ----
 
@@ -7933,7 +8097,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `2.` Nehmen ein oder mehrere Schiedsrichter an einer Abstimmung ohne rechtfertigenden Grund nicht teil, so können die anderen Schiedsrichter ohne sie entscheiden\. Auch in diesem Fall ist die erforderliche Stimmenmehrheit von der Gesamtzahl aller teilnehmenden und nicht teilnehmenden Schiedsrichter zu berechnen\. Bei einer Abstimmung über einen Schiedsspruch ist die Absicht, so vorzugehen, den Parteien vorher mitzuteilen\. Bei anderen Entscheidungen sind die Parteien von der Nichtteilnahme an der Abstimmung nachträglich in Kenntnis zu setzen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-604-zpo--entscheidung-durch-ein-schiedsrichterkollegium) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=604) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_572_TextContainer_572) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-604-zpo--entscheidung-durch-ein-schiedsrichterkollegium) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-604-zpo--entscheidung-durch-ein-schiedsrichterkollegium) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=604) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_572_TextContainer_572) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-604-zpo--entscheidung-durch-ein-schiedsrichterkollegium) \]
 
 ----
 
@@ -7945,7 +8109,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >
 >> `2.` das Schiedsgericht den Vergleich in Form eines Schiedsspruchs mit vereinbartem Wortlaut festhält, sofern der Inhalt des Vergleichs nicht gegen Grundwertungen der österreichischen Rechtsordnung \(ordre public\) verstößt\. Ein solcher Schiedsspruch ist gemäß § 606 zu erlassen\. Er hat dieselbe Wirkung wie jeder Schiedsspruch in der Sache\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-605-zpo--vergleich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=605) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_573_TextContainer_573) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-605-zpo--vergleich) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-605-zpo--vergleich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=605) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_573_TextContainer_573) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-605-zpo--vergleich) \]
 
 ----
 
@@ -7965,7 +8129,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(7)` Durch Erlassung eines Schiedsspruchs tritt die zugrunde liegende Schiedsvereinbarung nicht außer Kraft\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-606-zpo--schiedsspruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=606) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_574_TextContainer_574) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-606-zpo--schiedsspruch) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-606-zpo--schiedsspruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=606) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_574_TextContainer_574) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-606-zpo--schiedsspruch) \]
 
 ----
 
@@ -7973,7 +8137,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Der Schiedsspruch hat zwischen den Parteien die Wirkung eines rechtskräftigen gerichtlichen Urteils\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-607-zpo--wirkung-des-schiedsspruchs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=607) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_575_TextContainer_575) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-607-zpo--wirkung-des-schiedsspruchs) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-607-zpo--wirkung-des-schiedsspruchs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=607) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_575_TextContainer_575) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-607-zpo--wirkung-des-schiedsspruchs) \]
 
 ----
 
@@ -7993,7 +8157,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Vorbehaltlich der §§ 606 Abs\. 4 bis 6, 609 Abs\. 5, und 610 sowie der Verpflichtung zur Aufhebung einer angeordneten vorläufigen oder sichernden Maßnahme endet das Amt des Schiedsgerichts mit der Beendigung des Schiedsverfahrens\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-608-zpo--beendigung-des-schiedsverfahrens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=608) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_576_TextContainer_576) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-608-zpo--beendigung-des-schiedsverfahrens) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-608-zpo--beendigung-des-schiedsverfahrens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=608) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_576_TextContainer_576) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-608-zpo--beendigung-des-schiedsverfahrens) \]
 
 ----
 
@@ -8009,7 +8173,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Ist die Entscheidung über die Verpflichtung zum Kostenersatz oder die Festsetzung des zu ersetzenden Betrags unterblieben oder erst nach Beendigung des Schiedsverfahrens möglich, so wird darüber in einem gesonderten Schiedsspruch entschieden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-609-zpo--entscheidung-über-die-kosten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=609) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_577_TextContainer_577) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-609-zpo--entscheidung-über-die-kosten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-609-zpo--entscheidung-über-die-kosten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=609) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_577_TextContainer_577) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-609-zpo--entscheidung-über-die-kosten) \]
 
 ----
 
@@ -8031,7 +8195,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` § 606 ist auf die Berichtigung, Erläuterung oder Ergänzung des Schiedsspruchs anzuwenden\. Die Erläuterung oder Berichtigung ist Bestandteil des Schiedsspruchs\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-610-zpo--berichtigung-erläuterung-und-ergänzung-des-schiedsspruchs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=610) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_578_TextContainer_578) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.018.md#-610-zpo--berichtigung-erläuterung-und-ergänzung-des-schiedsspruchs) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-610-zpo--berichtigung-erläuterung-und-ergänzung-des-schiedsspruchs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=610) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_578_TextContainer_578) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-610-zpo--berichtigung-erläuterung-und-ergänzung-des-schiedsspruchs) \]
 
 ----
 
@@ -8229,7 +8393,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Bestimmungen dieses Titels sind anzuwenden, wenn eine Qualifizierte Einrichtung eine Verbandsklage auf Abhilfe gemäß § 5 Abs\. 3 Z 1 lit b und Z 2 QEG gegen einen Unternehmer erhebt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-623-zpo--anwendungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=623) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_591_TextContainer_591) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-623-zpo--anwendungsbereich) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-623-zpo--anwendungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=623) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_591_TextContainer_591) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.020.md#-623-zpo--anwendungsbereich) \]
 
 ----
 
@@ -8245,7 +8409,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` In einem Verfahren über eine Verbandsklage auf Abhilfe reicht es aus, wenn in der Klage oder der Beitrittserklärung die Ansprüche soweit substantiiert sind, dass diejenigen Tatsachen und Beweisanbote enthalten sind, die der Qualifizierten Einrichtung mit zumutbarem Aufwand zugänglich sind und die die Plausibilität der Ansprüche ausreichend stützen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-624-zpo--verbandsklage-auf-abhilfe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=624) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_592_TextContainer_592) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-624-zpo--verbandsklage-auf-abhilfe) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-624-zpo--verbandsklage-auf-abhilfe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=624) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_592_TextContainer_592) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.020.md#-624-zpo--verbandsklage-auf-abhilfe) \]
 
 ----
 
@@ -8253,7 +8417,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Die Behandlung von Prozesseinreden gegen Einzelansprüche kann zurückgestellt werden, solange durch die begehrte Entscheidung die nötige Anzahl an Verbrauchern nicht berührt ist und wenn die Entscheidung über die Durchführung eines Verbandsklageverfahrens schon vorher spruchreif ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-625-zpo--prüfung-der-verbandsklage-auf-abhilfe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=625) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_593_TextContainer_593) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-625-zpo--prüfung-der-verbandsklage-auf-abhilfe) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-625-zpo--prüfung-der-verbandsklage-auf-abhilfe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=625) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_593_TextContainer_593) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.020.md#-625-zpo--prüfung-der-verbandsklage-auf-abhilfe) \]
 
 ----
 
@@ -8263,7 +8427,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Wird die Durchführung des Verfahrens angeordnet, so ist in dem Beschluss auch auszusprechen, welche Streitpunkte zunächst gemeinsam verhandelt und vorweg entschieden werden sollen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-626-zpo--entscheidung-über-die-durchführung-eines-verbandsklageverfahrens-auf-abhilfe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=626) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_594_TextContainer_594) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-626-zpo--entscheidung-über-die-durchführung-eines-verbandsklageverfahrens-auf-abhilfe) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-626-zpo--entscheidung-über-die-durchführung-eines-verbandsklageverfahrens-auf-abhilfe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=626) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_594_TextContainer_594) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.020.md#-626-zpo--entscheidung-über-die-durchführung-eines-verbandsklageverfahrens-auf-abhilfe) \]
 
 ----
 
@@ -8289,7 +8453,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die Veröffentlichungen sind von Amts wegen zu löschen, wenn seit ihrer Aufnahme in die Ediktsdatei vier Monate vergangen sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-627-zpo--veröffentlichung-der-entscheidung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=627) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_595_TextContainer_595) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-627-zpo--veröffentlichung-der-entscheidung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-627-zpo--veröffentlichung-der-entscheidung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=627) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_595_TextContainer_595) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.020.md#-627-zpo--veröffentlichung-der-entscheidung) \]
 
 ----
 
@@ -8305,7 +8469,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Eine Zurücknahme des Beitritts ist unzulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-628-zpo--beitritt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=628) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_596_TextContainer_596) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-628-zpo--beitritt) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-628-zpo--beitritt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=628) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_596_TextContainer_596) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.020.md#-628-zpo--beitritt) \]
 
 ----
 
@@ -8319,7 +8483,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Mit Beendigung des Verfahrens gemäß Abs\. 3 endet die Streitanhängigkeit der Ansprüche der dem Verfahren beigetretenen Verbraucher und die Hemmung der Verjährung dieser Ansprüche\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-629-zpo--besondere-bestimmungen-zur-prozessfähigkeit-der-qualifizierten-einrichtung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=629) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_597_TextContainer_597) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-629-zpo--besondere-bestimmungen-zur-prozessfähigkeit-der-qualifizierten-einrichtung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-629-zpo--besondere-bestimmungen-zur-prozessfähigkeit-der-qualifizierten-einrichtung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=629) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_597_TextContainer_597) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.020.md#-629-zpo--besondere-bestimmungen-zur-prozessfähigkeit-der-qualifizierten-einrichtung) \]
 
 ----
 
@@ -8331,7 +8495,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Im Verbandsklageverfahren auf Abhilfe sind § 7 Abs\. 2 erster Satz und § 8 Abs\. 2 JN nicht anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-630-zpo--besondere-bestimmungen-über-zuständigkeit-und-gerichtsbesetzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=630) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_598_TextContainer_598) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-630-zpo--besondere-bestimmungen-über-zuständigkeit-und-gerichtsbesetzung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-630-zpo--besondere-bestimmungen-über-zuständigkeit-und-gerichtsbesetzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=630) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_598_TextContainer_598) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.020.md#-630-zpo--besondere-bestimmungen-über-zuständigkeit-und-gerichtsbesetzung) \]
 
 ----
 
@@ -8345,7 +8509,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Die durch einen Vergleich erwirkte Abhilfe erfolgt unbeschadet etwaiger weiterer den Verbrauchern gemäß dem Unionsrecht oder dem nationalen Recht zustehender Abhilfe, die nicht Gegenstand dieses Vergleichs war\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-631-zpo--besondere-bestimmungen-über-den-vergleich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=631) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_599_TextContainer_599) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-631-zpo--besondere-bestimmungen-über-den-vergleich) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-631-zpo--besondere-bestimmungen-über-den-vergleich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=631) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_599_TextContainer_599) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.020.md#-631-zpo--besondere-bestimmungen-über-den-vergleich) \]
 
 ----
 
@@ -8353,7 +8517,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Hat ein Verbraucher, der dem Verfahren beigetreten ist, durch Vorsatz Verfahrenskosten verursacht, so kann das Gericht auf Antrag einer Partei aussprechen, dass der Verbraucher für diese Verfahrenskosten solidarisch mit jener Partei haftet, die zu ihrem Ersatz verurteilt wird\. Dieser Antrag ist spätestens mit der Vorlage des Kostenverzeichnisses zu stellen, das die betreffenden Kosten enthält\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-632-zpo--besondere-bestimmungen-über-den-kostenersatz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=632) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_600_TextContainer_600) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-632-zpo--besondere-bestimmungen-über-den-kostenersatz) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-632-zpo--besondere-bestimmungen-über-den-kostenersatz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=632) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_600_TextContainer_600) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.020.md#-632-zpo--besondere-bestimmungen-über-den-kostenersatz) \]
 
 ----
 
@@ -8361,7 +8525,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Wenn das Gericht in einem Urteil oder in einem Beschluss der beklagten Partei die Verpflichtung zu einer Leistung auferlegt, so hat es zugleich auszusprechen, dass schuldbefreiend nur an die Qualifizierte Einrichtung geleistet werden kann, wenn und soweit diese das bis zum Schluss der mündlichen Verhandlung erster Instanz beantragt hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-633-zpo--besonderheiten-der-entscheidung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=633) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_601_TextContainer_601) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-633-zpo--besonderheiten-der-entscheidung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-633-zpo--besonderheiten-der-entscheidung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=633) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_601_TextContainer_601) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.020.md#-633-zpo--besonderheiten-der-entscheidung) \]
 
 ----
 
@@ -8381,7 +8545,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Das Gericht kann über Abs\. 1 hinaus auch weitere Entscheidungen oder Informationen im Verbandsklageverfahren auf Abhilfe in der Ediktsdatei veröffentlichen, wenn der Zweck des Verfahrens dies erfordert\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-634-zpo--veröffentlichungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=634) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_602_TextContainer_602) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-634-zpo--veröffentlichungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-634-zpo--veröffentlichungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=634) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_602_TextContainer_602) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.020.md#-634-zpo--veröffentlichungen) \]
 
 ----
 
@@ -8389,7 +8553,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Der Beitritt eines Verbrauchers zu einer Verbandsklage auf Abhilfe hemmt die Verjährung des im Beitritt geltend gemachten Anspruchs\. Der Beitritt hemmt den Ablauf von Verjährungsfristen rückwirkend mit dem Zeitpunkt der Einbringung der Verbandsklage auf Abhilfe bei Gericht\. Nach Zurückweisung einer Verbandsklage auf Abhilfe verbleibt einem Verbraucher, der mit einem Anspruch bereits beigetreten war, jedenfalls noch eine Frist von drei Monaten ab Rechtskraft der Zurückweisungsentscheidung, um den Anspruch in einem Einzelverfahren oder durch Beitritt zu einer Verbandsklage geltend machen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-635-zpo--verjährung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=635) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_603_TextContainer_603) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-635-zpo--verjährung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-635-zpo--verjährung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=635) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_603_TextContainer_603) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.020.md#-635-zpo--verjährung) \]
 
 ----
 
@@ -8433,7 +8597,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Der Fünfte Abschnitt des Sechsten Theils, die Überschrift des Siebenden Teils, Bezeichnung und Überschrift des § 636 sowie § 637 samt Überschrift in der Fassung der Verbandsklagen\-Richtlinie\- Umsetzungs\-Novelle, BGBl\. I Nr\. 85/2024, treten mit dem auf die Kundmachung folgenden Tag in Kraft\. Der Fünfte Abschnitt des Sechsten Theils ist auf Verfahren anzuwenden, in denen die Klage nach dem Tag der Kundmachung eingebracht wird\. Mit dieser Novelle wird die Richtlinie 2020/1828/EU des Europäischen Parlaments und des Rates über Verbandsklagen zum Schutz der Kollektivinteressen der Verbraucher und zur Aufhebung der Richtlinie 2009/22/EG, ABl\. Nr\. L 409 vom 4\. Dezember 2022 S\. 1, umgesetzt
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-636-zpo--in--und-außerkrafttreten-übergangsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=636) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_604_TextContainer_604) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-636-zpo--in--und-außerkrafttreten-übergangsbestimmungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-636-zpo--in--und-außerkrafttreten-übergangsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=636) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_604_TextContainer_604) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.020.md#-636-zpo--in--und-außerkrafttreten-übergangsbestimmungen) \]
 
 ----
 
@@ -8441,7 +8605,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Mit der Verbandsklagen\-Richtlinie\-Umsetzungs\-Novelle, BGBl\. I Nr\. 85/2024, wird die Richtlinie 2020/1828/EU des Europäischen Parlaments und des Rates über Verbandsklagen zum Schutz der Kollektivinteressen der Verbraucher und zur Aufhebung der Richtlinie 2009/22/EG, ABl\. Nr\. L 409 vom 4\. Dezember 2022 S\. 1 umgesetzt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-637-zpo--umsetzungshinweise) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=637) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_605_TextContainer_605) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.019.md#-637-zpo--umsetzungshinweise) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.md#-637-zpo--umsetzungshinweise) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699&Paragraf=637) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001699#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_605_TextContainer_605) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZPO.020.md#-637-zpo--umsetzungshinweise) \]
 
 ----
 

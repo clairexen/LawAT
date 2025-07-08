@@ -103,6 +103,8 @@ Verpflichtungen der Studierenden (insbesondere zur Absolvierung bestimmter Lehrv
 `§ 59b (3) Z 3 UG.`
 Sanktionen bei Nichterfüllung der Vereinbarung (insbesondere keine Rückerstattung des Studienbeitrages, etc.).
 
+*(Beachte: 1. Ist ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme-, Eignungs- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden (vgl. § 143 Abs. 76).2. Ist für jene Studierenden anzuwenden, die ab dem Wintersemester 2022/23 zu einem Bachelor- oder Diplomstudium zugelassen werden (vgl. § 143 Abs. 78).)*
+
 ### § 60 UG # Zulassung zum Studium
 
 `§ 60 (1) UG.`  
@@ -170,6 +172,8 @@ Einer Studienwerberin oder einem Studienwerber, die oder der noch an keiner Univ
 `§ 60 (6) UG.`  
 Universitäten gemäß § 6 Abs. 1 Z 1 bis 15 und 22 haben ausländischen Studienwerberinnen und Studienwerbern, die zur sichtvermerksfreien Einreise berechtigt sind oder über einen gültigen Aufenthaltstitel verfügen, den Zulassungsbescheid direkt zuzustellen. Langen an österreichischen Berufsvertretungsbehörden Anträge anderer ausländischer Studienwerberinnen und Studienwerber auf Zulassung zum Studium zur Weiterleitung an die zuständige Universität ein, können die Berufsvertretungsbehörden auf die Vollständigkeit und Schlüssigkeit des Antrags sowie darauf hinwirken, dass die Zulassung zum Studium und der Erstaufenthaltstitel zeitgleich zugestellt werden können. Hierbei ist der Studienwerberin oder dem Studienwerber Gelegenheit zu geben, auf ihre oder seine Kosten Ergänzungen und Klarstellungen vorzunehmen. Die Vertretung ausländischer Studienwerberinnen und -werber durch Personen, die nicht zur berufsmäßigen Parteienvertretung in Österreich zugelassen oder nicht durch Gesetz zur Vertretung berechtigt sind, ist nicht zulässig. Anträge, die diesen Anforderungen nicht entsprechen, sind zurückzuweisen.
 
+*(Umsetzungshinweis: CELEX-Nr. 32021L1883)*
+
 ### § 61 UG # Zulassungsfristen
 
 `§ 61 (1) UG.`  
@@ -199,6 +203,8 @@ Personengruppen aufgrund der Personengruppenverordnung.
 `§ 61 (4) UG.`  
 Für alle anderen ausländischen Staatsangehörigen und Staatenlosen kann das Rektorat nach Anhörung des Senates eine abweichende besondere Zulassungsfrist festlegen.
 
+*(Beachte: Ist ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme-, Eignungs- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden (vgl. § 143 Abs. 76).)*
+
 ### § 62 UG # Meldung der Fortsetzung des Studiums
 
 `§ 62 (1) UG.`  
@@ -215,6 +221,8 @@ Die Wirkung der Meldung der Fortsetzung des Studiums für das Wintersemester ers
 
 `§ 62 (5) UG.`  
 Die Meldung der Fortsetzung des Studiums ist im Studierendenausweis (§ 60 Abs. 4) zu vermerken.
+
+*(Beachte: Zu Abs. 1 und 3: sind ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme-, Eignungs- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden (vgl. § 143 Abs. 76).)*
 
 ### § 63 UG # Zulassung zu ordentlichen Studien
 
@@ -298,6 +306,8 @@ Die Ergänzungsprüfung für den Nachweis der Kenntnis der deutschen Sprache ist
 
 `§ 63 (11) UG.`  
 In den künstlerischen Studien kann im Curriculum festgelegt werden, dass die Ablegung der Ergänzungsprüfung spätestens vor der Meldung der Fortsetzung des Studiums für das dritte Semester nachzuweisen ist.
+
+*(Beachte: [CELEX-Nr. 32021L1883])*
 
 ### § 63a UG # Sonderbestimmung für die Zulassung zu Master- und Doktoratsstudien
 
@@ -534,6 +544,8 @@ Bis zum Zeitpunkt der Beurlaubung erbrachte Studienleistungen (insbesondere abge
 
 `§ 67 (3) UG.`  
 Die Beurlaubung wirkt für alle Studien der Bildungseinrichtung, an welcher diese beantragt wurde und bei gemeinsam eingerichteten Studien für alle Studien der beteiligten Bildungseinrichtungen. Während der Beurlaubung bleibt die Zulassung zum Studium aufrecht. Die Teilnahme an Lehrveranstaltungen, die Ablegung von Prüfungen sowie die Einreichung und Beurteilung wissenschaftlicher sowie künstlerischer Arbeiten ist unzulässig.
+
+*(Beachte: Zu Abs. 1 Z 6 und Abs. 2: sind ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme-, Eignungs- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden (vgl. § 143 Abs. 76).)*
 
 ### § 68 UG # Erlöschen der Zulassung zu ordentlichen Studien
 

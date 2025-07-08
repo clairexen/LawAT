@@ -124,6 +124,8 @@ Die Frist für den Rekurs beträgt vierzehn Tage. Sie beginnt mit der Zustellung
 Eine nicht aktenkundige Partei, der der Beschluss nicht zugestellt worden ist, kann einen Rekurs bis zu jenem Zeitpunkt erheben, bis zu dem eine aktenkundige Partei einen Rekurs erheben oder eine Rekursbeantwortung erstatten kann.
 *(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 111/2010*
 
+*(Beachte: Zum Bezugszeitraum:vgl. § 207h)*
+
 ### § 47 AußStrG # Form und Inhalt des Rekurses
 
 `§ 47 (1) AußStrG.`  
@@ -134,6 +136,8 @@ Der Rekurs hat neben den allgemeinen Erfordernissen eines Anbringens die Bezeich
 
 `§ 47 (3) AußStrG.`  
 Der Rekurs muss kein bestimmtes Begehren enthalten, aber hinreichend erkennen lassen, aus welchen Gründen sich die Partei beschwert erachtet und welche andere Entscheidung sie anstrebt (Rekursbegehren); im Zweifel gilt der Beschluss, gegen den Rekurs erhoben worden ist, als zur Gänze angefochten. § 9 ist nicht anzuwenden.
+
+*(Beachte: Zum Bezugszeitraum:vgl. § 207h)*
 
 ### § 48 AußStrG # Rekursbeantwortung
 

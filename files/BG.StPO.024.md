@@ -207,6 +207,8 @@ Der Antrag ist bei sonstigem Ausschluss innerhalb von drei Jahren nach Verständ
 `§ 393a (5) StPO.`  
 § 196a Abs. 5 und 6 gilt sinngemäß.
 
+*(Beachte: zum Bezugszeitraum vgl. § 516 Abs. 12)*
+
 ### § 394 StPO
 
 `§ 394 StPO.`  

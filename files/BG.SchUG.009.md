@@ -38,6 +38,8 @@ Für den Nachweis in vereinfachter Form gemäß § 4 Abs. 6 E-GovG können die
 `§ 57b (5) SchUG.`  
 Zum Zweck der Eintragung der in Abs. 1 genannten Daten in die Personenbindung gemäß § 4 Abs. 2 E-GovG sowie zum Zweck des Nachweises deren Bestands in vereinfachter Form gemäß § 4 Abs. 6 E-GovG sind diese aus dem Datenverbund der Schulen gemäß § 6 BilDokG 2020 der Stammzahlenregisterbehörde zugänglich zu machen.
 
+*(Beachte: Ist nach Maßgabe der technischen Möglichkeiten anzuwenden (vgl. § 82 Abs. 26).)*
+
 ### § 58 SchUG # Schülermitverwaltung
 
 `§ 58 (1) SchUG.`  
@@ -221,6 +223,8 @@ das Recht auf Mitentscheidung bei der Festlegung von Unterrichtsmitteln.
 
 `§ 61 (3) SchUG.`  
 Die Erziehungsberechtigten haben die für die Führung der Amtsschriften der Schule erforderlichen Dokumente vorzulegen und Auskünfte zu geben sowie erhebliche Änderungen dieser Angaben unverzüglich der Schule mitzuteilen.
+
+*(Beachte: Abs. 1: Tritt hinsichtlich der 10. Schulstufen von zumindest dreijährigen mittleren und höheren Schulen mit 1. September 2017 und hinsichtlich der weiteren Schulstufen dieser Schularten jeweils mit 1. September der Folgejahre schulstufenweise aufsteigend in Kraft (vgl. § 82 Abs. 5s Z 6).)*
 
 ### § 62 SchUG # Beratung zwischen Lehrern und Erziehungsberechtigten
 

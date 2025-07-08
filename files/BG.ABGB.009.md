@@ -89,10 +89,14 @@ Dasselbe gilt auch für die Übertragung des Eigentums an Bauwerken, die auf fre
 `§ 436 ABGB.`  
 Wenn das Eigentum unbeweglicher Sachen oder eines Bauwerkes zufolge rechtskräftigen Urteils, gerichtlicher Teilung oder Einantwortung einer Erbschaft übertragen werden soll, ist ebenfalls die Einverleibung (§§ 431 bis 433) oder die Hinterlegung der Urkunde (§§ 434, 435) erforderlich.
 
+*(Beachte: Zum Inkrafttretensdatum: 15.4.1916 - für Urkundenhinterlegung (Art. II, RGBl. Nr. 69/1916))*
+
 ### § 437 ABGB # oder c) durch Vermächtnis
 
 `§ 437 ABGB.`  
 Ebenso ist es, um das Eigentum eines vermachten unbeweglichen Gutes oder eines Bauwerkes zu erwerben, notwendig, daß die Sache dem Vermächtnisnehmer gemäß §§ 431 bis 435 übergeben werde.
+
+*(Beachte: Zum Inkrafttretensdatum: 15.4.1916 - für Bauwerke (Art. II, RGBl. Nr. 69/1916))*
 
 ### § 438 ABGB # Bedingte Aufzeichnung in das öffentliche Buch; oder Vormerkung
 
@@ -443,5 +447,7 @@ Das dingliche Recht der Dienstbarkeit kann an Gegenständen, die in den öffentl
 
 `§ 481 (2) ABGB.`  
 An bücherlich nicht eingetragenen Liegenschaften (§ 434) oder an Bauwerken (§ 435) wird das dingliche Recht durch die gerichtliche Hinterlegung einer über die Einräumung der Dienstbarkeit errichteten beglaubigten Urkunde; auf andere Sachen aber durch die oben (§§ 426 bis 428) angegebenen Arten der Übergabe erworben.
+
+*(Beachte: Abs. 2 erster Halbsatz in Kraft getreten am 15.4.1916.)*
 
 `END-OF-DATA-FILE` *(fortges. in [BG.ABGB.010](BG.ABGB.010.md))*

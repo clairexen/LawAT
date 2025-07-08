@@ -52,6 +52,8 @@ Der Dachverband ist für die ihm angehörenden Universitäten auf Arbeitgebersei
 Der Kollektivvertragsfähigkeit des Dachverbandes kommt im Verhältnis zur Kollektivvertragsfähigkeit anderer Interessenvertretungen oder Berufsvereinigungen der Arbeitgeberinnen und Arbeitgeber Vorrang zu.
 *(Anm.: Abs. 5 aufgehoben durch Art. 17 Z 23, BGBl. I Nr. 31/2018)*
 
+*(Beachte: Abs. 2 und 3 sind für die Universität für Weiterbildung Krems insofern ab dem 1. Jänner 2022 anzuwenden, als die Universität für Weiterbildung Krems ab dem 1. Jänner 2022 dem Dachverband der Universitäten angehört (vgl. § 143 Abs. 71))*
+
 ### § 108a UG # Gesetzliche Sonderregelung für Angehörige von Einrichtungen für Gerichtliche Medizin
 
 `§ 108a UG.`  
@@ -85,6 +87,8 @@ Unberücksichtigt bleiben Zeiten gemäß § 20 Abs. 3 Z 1 des gemäß § 108
 
 `§ 109 (9) UG.`  
 Bei der Feststellung der höchstzulässigen Gesamtdauer der Arbeitsverhältnisse gemäß Abs. 1, 2, 5 und 6 sind alle Arbeitsverhältnisse zur Universität zu berücksichtigen, unabhängig davon, ob die Arbeitsverhältnisse unmittelbar aufeinanderfolgen.
+
+*(Beachte: zum Bezugszeitraum vgl. § 143 Abs. 83)*
 
 ### § 110 UG # Gesetzliche Sonderregelungen zur Arbeitszeit und Arbeitsruhe für das wissenschaftliche und künstlerische Universitätspersonal
 

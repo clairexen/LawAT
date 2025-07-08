@@ -52,6 +52,8 @@ er (sie) am Stichtag (§ 223 Abs. 2) noch nicht die Voraussetzungen für eine 
 `§ 271 (3) ASVG.`  
 § 254 Abs. 3 bis 8 ist entsprechend anzuwenden.
 
+*(Beachte: Abs. 1 Z 1 und 2 sowie Abs. 3: zum Bezugszeitraum vgl. § 669 Abs. 5)*
+
 ### § 273 ASVG # Begriff der Berufsunfähigkeit
 
 `§ 273 (1) ASVG.`  
@@ -127,6 +129,8 @@ die Wartezeit erfüllt ist (§ 236).
 `§ 277 (3) ASVG.`  
 Der Anspruch auf Knappschaftspension ruht ab dem Tag des Anfalles einer Knappschaftsvoll- oder Invaliditäts- oder Berufsunfähigkeitspension nach diesem Bundesgesetz oder einer Erwerbsunfähigkeitspension nach dem GSVG oder nach dem BSVG, für die Dauer des bescheidmäßig zuerkannten Anspruches auf eine solche Leistung. Er fällt mit dem Anfall der Alterspension weg; § 100 Abs. 2 letzter Satz ist entsprechend anzuwenden.
 
+*(Beachte: Abs. 2: Zum Bezugszeitraum vgl. § 669 Abs. 5.)*
+
 ### § 278 ASVG # Begriff der Dienstunfähigkeit
 
 `§ 278 ASVG.`  
@@ -148,6 +152,8 @@ er (sie) am Stichtag (§ 223 Abs. 2) noch nicht die Voraussetzungen für eine 
 
 `§ 279 (3) ASVG.`  
 § 254 Abs. 3 bis 8 ist entsprechend anzuwenden.
+
+*(Beachte: Abs. 1 Z 1 und 2 sowie Abs. 3: zum Bezugszeitraum vgl. § 669 Abs. 5)*
 
 ### § 280 ASVG # Begriff der Invalidität
 

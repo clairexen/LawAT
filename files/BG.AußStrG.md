@@ -512,6 +512,8 @@
 
 > `(6)` § 86a ZPO gilt sinngemäß\.
 
+> *\(Beachte: Zum Bezugszeitraum:vgl\. § 207h\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.md#-10-außstrg--anbringen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047&Paragraf=10) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.002.md#-10-außstrg--anbringen) \]
 
 ----
@@ -657,6 +659,8 @@
 > `(1)` Die Bestimmungen der Zivilprozessordnung über die Fristen, ausgenommen § 222 ZPO, sind sinngemäß anzuwenden\.
 
 > `(2)` Die Fristen für die Einbringung und Beantwortung eines Rechtsmittels und die Anbringung eines Abänderungsantrags sind Notfristen\.
+
+> *\(Beachte: Zum Bezugszeitraum:vgl\. § 207h\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.md#-23-außstrg--fristen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047&Paragraf=23) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.002.md#-23-außstrg--fristen) \]
 
@@ -951,6 +955,8 @@
 > `(2)` Eine nicht aktenkundige Partei, der der Beschluss nicht zugestellt worden ist, kann einen Rekurs bis zu jenem Zeitpunkt erheben, bis zu dem eine aktenkundige Partei einen Rekurs erheben oder eine Rekursbeantwortung erstatten kann\.
 > *\(Anm\.: Abs\. 3 aufgehoben durch BGBl\. I Nr\. 111/2010*
 
+> *\(Beachte: Zum Bezugszeitraum:vgl\. § 207h\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.md#-46-außstrg--rekursfrist) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047&Paragraf=46) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_47_TextContainer_47) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.003.md#-46-außstrg--rekursfrist) \]
 
 ----
@@ -962,6 +968,8 @@
 > `(2)` Der Rekurs hat neben den allgemeinen Erfordernissen eines Anbringens die Bezeichnung des Beschlusses zu enthalten, gegen den er erhoben wird\.
 
 > `(3)` Der Rekurs muss kein bestimmtes Begehren enthalten, aber hinreichend erkennen lassen, aus welchen Gründen sich die Partei beschwert erachtet und welche andere Entscheidung sie anstrebt \(Rekursbegehren\); im Zweifel gilt der Beschluss, gegen den Rekurs erhoben worden ist, als zur Gänze angefochten\. § 9 ist nicht anzuwenden\.
+
+> *\(Beachte: Zum Bezugszeitraum:vgl\. § 207h\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.md#-47-außstrg--form-und-inhalt-des-rekurses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047&Paragraf=47) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_48_TextContainer_48) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.003.md#-47-außstrg--form-und-inhalt-des-rekurses) \]
 
@@ -2219,7 +2227,9 @@
 
 > `(4)` Will die betroffene Person Beschlüsse anfechten, so genügt es, dass aus dem Schriftstück deutlich hervorgeht, dass sie mit der Entscheidung nicht einverstanden ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.md#-116a-außstrg--i-verfahrensrechte-der-betroffenen-person) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047&Paragraf=116a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_133_TextContainer_133) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.006.md#-116a-außstrg--i-verfahrensrechte-der-betroffenen-person) \]
+> *\(Beachte: zum Bezugszeitraum vgl\. § 207m\)*
+
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.md#-116a-außstrg--i-verfahrensrechte-der-betroffenen-person) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047&Paragraf=116a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_133_TextContainer_133) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.007.md#-116a-außstrg--i-verfahrensrechte-der-betroffenen-person) \]
 
 ----
 
@@ -2231,6 +2241,8 @@
 
 > `(2)` Ist die Person noch minderjährig, so kann das Verfahren frühestens drei Monate vor Erreichen der Volljährigkeit eingeleitet werden; die Bestellung eines gerichtlichen Erwachsenenvertreters wird nicht vor Eintritt der Volljährigkeit wirksam\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 207m\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.md#-117-außstrg--verfahrenseinleitung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047&Paragraf=117) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_134_TextContainer_134) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.007.md#-117-außstrg--verfahrenseinleitung) \]
 
 ----
@@ -2240,6 +2252,8 @@
 > `(1)` Liegen konkrete und begründete Anhaltspunkte für die Notwendigkeit der Bestellung eines gerichtlichen Erwachsenenvertreters vor, so hat das Gericht zunächst den Erwachsenenschutzverein \(§ 1 ErwSchVG\) mit der Abklärung \(§ 4a ErwSchVG\) zu beauftragen\. Es hat Auszüge aus dem Grundbuch und dem Firmenbuch, eine Übersicht über die anhängigen Gerichtsverfahren und über den sozialversicherungsrechtlichen Status \(Versicherungsdatenauszug, zuständiger Versicherungsträger\) sowie allenfalls weitere erforderliche Unterlagen beizuschaffen und dem Auftrag beizulegen\.
 
 > `(2)` Die betroffene Person ist unverzüglich von der Befassung des Erwachsenenschutzvereins zu verständigen\.
+
+> *\(Beachte: zum Bezugszeitraum vgl\. § 207m\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.md#-117a-außstrg--befassung-des-erwachsenenschutzvereins) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047&Paragraf=117a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_135_TextContainer_135) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.007.md#-117a-außstrg--befassung-des-erwachsenenschutzvereins) \]
 
@@ -2255,6 +2269,8 @@
 
 > `(4)` Das Gericht kann die Erstanhörung unter Verwendung geeigneter technischer Kommunikationsmittel zur Wort\- und Bildübertragung durchführen und der Anhörung beizuziehende Personen teilnehmen lassen, wenn die Gesundheit einer am Verfahren beteiligten Person durch ihre persönliche Teilnahme aufgrund einer allgemein vorherrschenden Krisensituation ernstlich gefährdet wäre und die Gefährdung nicht anders abgewendet werden kann\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 207m\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.md#-118-außstrg--erstanhörung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047&Paragraf=118) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_136_TextContainer_136) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.007.md#-118-außstrg--erstanhörung) \]
 
 ----
@@ -2262,6 +2278,8 @@
 ### § 119 AußStrG — Rechtsbeistand im Verfahren
 
 > Ist das Verfahren auf Grund der Ergebnisse der Erstanhörung fortzusetzen, so hat das Gericht für einen Rechtsbeistand der betroffenen Person im Verfahren zu sorgen\. Hat sie keinen geeigneten gesetzlichen oder selbstgewählten Vertreter, so hat das Gericht für sie mit sofortiger Wirksamkeit einen Vertreter für das Verfahren zu bestellen\. Er ist zu entheben, sobald die betroffene Person einen anderen geeigneten Vertreter gewählt und dem Gericht bekannt gegeben hat\.
+>
+> *\(Beachte: zum Bezugszeitraum vgl\. § 207m\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.md#-119-außstrg--rechtsbeistand-im-verfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047&Paragraf=119) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_137_TextContainer_137) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.007.md#-119-außstrg--rechtsbeistand-im-verfahren) \]
 
@@ -2282,6 +2300,8 @@
 ### § 120a AußStrG — Sachverständigengutachten
 
 > Das Gericht hat einen Sachverständigen zu bestellen, wenn es dies für erforderlich hält oder die betroffene Person dies beantragt\. Der Sachverständige hat ein schriftliches Gutachten zu erstatten\. Das Gericht hat das Gutachten der betroffenen Person und ihrem Rechtsbeistand \(§ 119\) zu übermitteln\. Findet eine mündliche Verhandlung statt, so hat die Übermittlung rechtzeitig vor dieser zu erfolgen\. § 31 Abs\. 6 ist unter der Voraussetzung anzuwenden, dass die betroffene Person die Erörterung des Gutachtens unter Verwendung technischer Kommunikationsmittel begreifen kann\.
+>
+> *\(Beachte: zum Bezugszeitraum vgl\. § 207m\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.md#-120a-außstrg--sachverständigengutachten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047&Paragraf=120a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_139_TextContainer_139) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.007.md#-120a-außstrg--sachverständigengutachten) \]
 
@@ -2301,6 +2321,8 @@
 
 > `(6)` Das Gericht kann die mündliche Verhandlung unter Verwendung geeigneter technischer Kommunikationsmittel zur Wort\- und Bildübertragung durchführen, auf diese Weise Beweise in der mündlichen Verhandlung oder außerhalb dieser aufnehmen und sonst der Verhandlung beizuziehende Personen teilnehmen lassen, wenn die Gesundheit einer am Verfahren beteiligten Person durch ihre persönliche Teilnahme aufgrund einer allgemein vorherrschenden Krisensituation ernstlich gefährdet wäre und die Gefährdung nicht anders abgewendet werden kann\. § 18 Abs\. 2 ist nicht anzuwenden\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 207m\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.md#-121-außstrg--mündliche-verhandlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047&Paragraf=121) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_140_TextContainer_140) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.007.md#-121-außstrg--mündliche-verhandlung) \]
 
 ----
@@ -2318,6 +2340,8 @@
 > `(3)` Im Beschluss über die Einstellung oder mit gesondertem Beschluss kann das Gericht auch aussprechen, dass die Voraussetzungen für die Errichtung einer Vorsorgevollmacht, für die Eintragung des Eintritts des Vorsorgefalls oder für die Eintragung einer gewählten oder gesetzlichen Erwachsenenvertretung im Österreichischen Zentralen Vertretungsverzeichnis vorliegen\. Gegebenenfalls kann es auch die Beendigung einer Vorsorgevollmacht oder einer gesetzlichen oder gewählten Erwachsenenvertretung anordnen\.
 
 > `(4)` Gerichte oder Behörden, die die Einleitung des Verfahrens angeregt haben, sowie der Erwachsenenschutzverein, der die Abklärung vorgenommen hat, sind von der Einstellung zu verständigen; dabei ist der Schutz des Privat\- oder Familienlebens der betroffenen Person zu gewährleisten\.
+
+> *\(Beachte: zum Bezugszeitraum vgl\. § 207m\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.md#-122-außstrg--einstellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047&Paragraf=122) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_141_TextContainer_141) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.007.md#-122-außstrg--einstellung) \]
 
@@ -2341,6 +2365,8 @@
 
 > `(3)` Der Beschluss über die Bestellung eines gerichtlichen Erwachsenenvertreters ist für die betroffene Person möglichst verständlich zu begründen\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 207m\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.md#-123-außstrg--bestellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047&Paragraf=123) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_142_TextContainer_142) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.007.md#-123-außstrg--bestellung) \]
 
 ----
@@ -2348,6 +2374,8 @@
 ### § 124 AußStrG — Kosten
 
 > Bei Bestellung eines gerichtlichen Erwachsenenvertreters sind die dem Bund erwachsenen Kosten der betroffenen Person aufzuerlegen, soweit dadurch nicht ihr notwendiger Unterhalt oder der ihrer Familie, für die sie zu sorgen hat, gefährdet wird\. Im Übrigen hat der Bund die Kosten endgültig zu tragen\.
+>
+> *\(Beachte: zum Bezugszeitraum vgl\. § 207m\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.md#-124-außstrg--kosten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047&Paragraf=124) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_143_TextContainer_143) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.007.md#-124-außstrg--kosten) \]
 
@@ -2356,6 +2384,8 @@
 ### § 125 AußStrG — Wirksamwerden der Bestellung eines Erwachsenenvertreters
 
 > Dem Beschluss, mit dem der gerichtliche Erwachsenenvertreter bestellt wird \(§ 123 Abs\. 1\), kann keine vorläufige Wirksamkeit zuerkannt werden\.
+>
+> *\(Beachte: zum Bezugszeitraum vgl\. § 207m\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.md#-125-außstrg--wirksamwerden-der-bestellung-eines-erwachsenenvertreters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047&Paragraf=125) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_144_TextContainer_144) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.007.md#-125-außstrg--wirksamwerden-der-bestellung-eines-erwachsenenvertreters) \]
 
@@ -2366,6 +2396,8 @@
 > `(1)` Von der Bestellung des gerichtlichen Erwachsenenvertreters sind auf geeignete Weise diejenigen Personen und Stellen zu verständigen, die nach den aktenkundigen Ergebnissen des Verfahrens, insbesondere nach den Angaben des Erwachsenenvertreters, ein begründetes Interesse daran haben\. Von der Beendigung einer Vorsorgevollmacht oder einer gesetzlichen oder gewählten Erwachsenvertretung ist der von der Beendigung betroffene Vertreter zu verständigen\.
 
 > `(2)` Das Gericht hat zu veranlassen, dass die Anordnung eines Genehmigungsvorbehalts in die öffentlichen Bücher und Register eingetragen wird, wenn der Genehmigungsvorbehalt die in dem betreffenden Buch oder Register eingetragenen Rechte umfasst\. Darüber hinaus hat es die Bestellung des gerichtlichen Erwachsenenvertreters im Österreichischen Zentralen Vertretungsverzeichnis einzutragen\.
+
+> *\(Beachte: zum Bezugszeitraum vgl\. § 207m\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.md#-126-außstrg--verständigungspflichten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047&Paragraf=126) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_145_TextContainer_145) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.007.md#-126-außstrg--verständigungspflichten) \]
 
@@ -2517,6 +2549,8 @@ ihrer Rechtskraft oder vorläufigen Wirksamkeit sowie ein Nachweis über die Wah
 ### § 131d AußStrG — Antrag auf Nichtanerkennung
 
 > Die §§ 131b und 131c sind auf Anträge, mit denen die Nichtanerkennung geltend gemacht wird, entsprechend anzuwenden\.
+>
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 207j\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.md#-131d-außstrg--antrag-auf-nichtanerkennung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047&Paragraf=131d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_154_TextContainer_154) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.007.md#-131d-außstrg--antrag-auf-nichtanerkennung) \]
 
@@ -2541,6 +2575,8 @@ ihrer Rechtskraft oder vorläufigen Wirksamkeit sowie ein Nachweis über die Wah
 > `(2)` Für das weitere Verfahren zur Vollstreckbarerklärung gilt § 131c Abs\. 3 bis 6 sinngemäß\.
 
 > `(3)` Die Vollstreckung kann, soweit eine solche im Verfahren außer Streitsachen erfolgt, zugleich mit der Vollstreckbarerklärung beantragt werden\. Das Gericht hat über beide Anträge zugleich zu entscheiden\.
+
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 207j\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.md#-131f-außstrg--verfahren-der-vollstreckbarerklärung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047&Paragraf=131f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_156_TextContainer_156) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AußStrG.007.md#-131f-außstrg--verfahren-der-vollstreckbarerklärung) \]
 

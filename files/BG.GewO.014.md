@@ -153,6 +153,8 @@ Gewerbetreibende können die Meldung, die sie als Pflichtversicherte zu Beginn d
 `§ 333a GewO.`  
 Schriften und Zeugnisse, die auf Grundlage dieses Bundesgesetzes erstellt und ausgestellt werden, sowie Eingaben, die auf das Erstellen und das Ausstellen von Schriften auf Grundlage dieses Bundesgesetzes gerichtet sind, sind von den Stempelgebühren und Verwaltungsabgaben des Bundes befreit.
 
+*(Beachte: Tritt mit der Maßgabe in Kraft, dass betreffend die Ausstellung von Auszügen aus dem Gewerbeinformationssystem Austria die Befreiung von Stempelgebühren und Verwaltungsabgaben des Bundes frühestens ab 1. Mai 2018 anzuwenden ist (vgl. § 382 Abs. 86).)*
+
 ### § 334 GewO
 
 `§ 334 GewO.`  

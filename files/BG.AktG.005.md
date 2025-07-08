@@ -53,6 +53,8 @@ Eine Wahl der Mitglieder des Aufsichtsrates durch die Hauptversammlung und eine 
 `§ 86 (9) AktG.`  
 Der Mindestanteil ist vom Aufsichtsrat insgesamt zu erfüllen. Widerspricht die Mehrheit der gemäß diesem Bundesgesetz oder der Satzung bestellten Aufsichtsratsmitglieder (Kapitalvertreter) oder die Mehrheit der gemäß § 110 ArbVG entsandten Aufsichtsratsmitglieder (Arbeitnehmervertreter) spätestens sechs Wochen vor einer Wahl oder Entsendung der Gesamterfüllung gegenüber dem Aufsichtsratsvorsitzenden, so ist der Mindestanteil für diese Wahl oder Entsendung von den Kapitalvertretern und den Arbeitnehmervertretern getrennt zu erfüllen. Die Kapitalvertreter und die Arbeitnehmervertreter können für einen bestimmten Zeitraum einen Verzicht auf das Widerspruchsrecht vereinbaren oder jeweils erklären, einen Widerspruch aufrecht zu erhalten; dies ist jeweils dem Aufsichtsratsvorsitzenden mitzuteilen.
 
+*(Beachte: zum Bezugszeitraum vgl. § 262 Abs. 34)*
+
 ### § 87 AktG # Wahl und Abberufung
 
 `§ 87 (1) AktG.`  
@@ -88,6 +90,8 @@ Die Bestellung des ersten Aufsichtsrats gilt bis zur Beendigung der ersten Haupt
 `§ 87 (10) AktG.`  
 Das Gericht hat auf Antrag einer Minderheit, deren Anteile zusammen zehn vom Hundert des Grundkapitals erreichen, ein Aufsichtsratsmitglied abzuberufen, wenn hiefür ein wichtiger Grund vorliegt.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 31.)*
+
 ### § 88 AktG # Entsendung von Mitgliedern in den Aufsichtsrat
 
 `§ 88 (1) AktG.`  
@@ -120,6 +124,8 @@ Die Aufsichtsratsmitglieder können nicht zugleich Vorstandsmitglieder oder daue
 
 `§ 90 (2) AktG.`  
 Nur für einen im voraus begrenzten Zeitraum kann der Aufsichtsrat einzelne seiner Mitglieder zu Vertretern von behinderten Vorstandsmitgliedern bestellen. In dieser Zeit dürfen sie keine Tätigkeit als Aufsichtsratsmitglied ausüben. Das Wettbewerbsverbot des § 79 gilt für sie nicht.
+
+*(Beachte: zum Bezugszeitraum vgl. § 262 Abs. 34)*
 
 ### § 91 AktG # Veröffentlichung der Änderungen im Aufsichtsrat
 
@@ -172,6 +178,8 @@ die Durchführung des Verfahrens zur Auswahl des Abschlussprüfers (Konzernabsch
 
 `§ 92 (5) AktG.`  
 Der Aufsichtsrat oder sein Ausschuß ist nur dann beschlußfähig, wenn an der Sitzung mindestens drei Mitglieder teilnehmen (§ 95 Abs. 7 Satz 2 zweiter Halbsatz). Die Satzung kann eine höhere Zahl festsetzen. Die Beschlußfähigkeit eines Ausschusses, dem weniger als drei Aufsichtsratsmitglieder angehören, ist bei Anwesenheit seiner sämtlichen Mitglieder gegeben. Die schriftliche, fernmündliche oder eine andere vergleichbare Form der Stimmabgabe einzelner Aufsichtsratsmitglieder ist zulässig, wenn die Satzung oder der Aufsichtsrat dies vorsieht.
+
+*(Beachte: zum Bezugszeitraum vgl. § 262 Abs. 36)*
 
 ### § 93 AktG # Teilnahme an Sitzungen des Aufsichtsrats und seiner Ausschüsse
 
@@ -310,6 +318,8 @@ Abs. 1 und 2 gelten sinngemäß auch für die Vorlage und Prüfung des Konzerna
 
 `§ 96 (4) AktG.`  
 Billigt der Aufsichtsrat den Jahresabschluss, so ist dieser festgestellt, wenn sich nicht Vorstand und Aufsichtsrat für eine Feststellung durch die Hauptversammlung entscheiden.
+
+*(Beachte: Abs. 1 bis 3 sind erstmalig auf Unterlagen für Geschäftsjahre anzuwenden, die nach dem 31. Dezember 2016 beginnen (vgl. § 262 Abs. 37).)*
 
 ### § 97 AktG # Vertretung der Gesellschaft
 

@@ -228,6 +228,8 @@ Das Bundesministerium für Gesundheit und Frauen ist berechtigt, bei der Bundesa
 `§ 24d (3) SMG.`  
 Soweit personenbezogene Daten zu wissenschaftlichen oder historischen Forschungszwecken oder statistischen Zwecken verarbeitet werden, kommen dem Betroffenen, vorbehaltlich der Bedingungen und Garantien gemäß Art. 89 Abs. 1, die Rechte gemäß Art. 15, 16, 18 und 21 DSGVO nicht zu.
 
+*(Beachte: Abs. 2 darf auf Personen angewendet werden, die im Jahr 2002 oder später verstorben sind (vgl. § 47 Abs. 18).)*
+
 ### § 25 SMG # Einrichtung und Betrieb des Suchtmittelregisters und des bundesweiten Substitutionsregisters
 
 `§ 25 (1) SMG.`  

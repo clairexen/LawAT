@@ -3991,6 +3991,8 @@ Der Richtsatz nach § 293 Abs. 1 lit. a sublit. cc ist abweichend von den §
 `§ 700 (6) ASVG.`  
 Der Bundesminister für Arbeit, Soziales und Konsumentenschutz hat die Aufwendungen, die durch die Einführung des Richtsatzes nach § 293 Abs. 1 lit. a sublit. cc entstanden sind, bis zum 31. Dezember 2021 zu evaluieren.
 
+*(Beachte: Abweichend von Abs. 5 sind die Ausgleichszulagenrichtsätze für das Kalenderjahr 2018 nicht mit dem Anpassungsfaktor, sondern mit dem Faktor 1,022 zu vervielfachen (vgl. § 711 Abs. 4).)*
+
 ### § 700a ASVG # Einmalzahlung
 
 `§ 700a (1) ASVG.`  

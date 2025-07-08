@@ -39,6 +39,8 @@ Ohne diese Festsetzung sind Vereinbarungen über Sacheinlagen und die Rechtshand
 `§ 150 (3) AktG.`  
 Bei Kapitalerhöhungen mit Sacheinlagen hat eine Prüfung durch einen oder mehrere Prüfer stattzufinden. § 25 Abs. 3 bis 5, §§ 26, 27, 42 und 44 gelten sinngemäß.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ### § 151 AktG # Anmeldung und Prüfung des Beschlusses
 
 `§ 151 (1) AktG.`  
@@ -93,6 +95,8 @@ Die vorrangige Ausgabe von Aktien an Arbeitnehmer, leitende Angestellte und Mitg
 
 `§ 153 (6) AktG.`  
 Als Ausschluß des Bezugsrechts ist es nicht anzusehen, wenn nach dem Beschluß über die Kapitalerhöhung die neuen Aktien von einem Kreditinstitut mit der Verpflichtung übernommen werden sollen, sie den Aktionären zum Bezug anzubieten. Der Vorstand hat das mittelbare Bezugsangebot unter Angabe des für die Aktien zu leistenden Entgelts und einer für die Annahme gesetzten Fristgemäß § 18 bekanntzumachen.
+
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
 
 ### § 154 AktG # Zusicherungen von Rechten auf den Bezug neuer Aktien
 
@@ -173,6 +177,8 @@ Ein dem Beschluß über die bedingte Kapitalerhöhung entgegenstehender Beschlu�
 `§ 159 (7) AktG.`  
 Die folgenden Vorschriften über das Bezugsrecht gelten sinngemäß für das Umtauschrecht.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ### § 160 AktG # Erfordernisse des Beschlusses
 
 `§ 160 (1) AktG.`  
@@ -197,6 +203,8 @@ Ohne diese Festsetzung sind Vereinbarungen über Sacheinlagen und die Rechtshand
 
 `§ 161 (3) AktG.`  
 Bei Kapitalerhöhungen mit Sacheinlagen hat eine Prüfung durch einen oder mehrere Prüfer stattzufinden. § 25 Abs. 3 bis 5 sowie §§ 26, 27, 42 und 44 gelten sinngemäß.
+
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
 
 ### § 162 AktG # Anmeldung und Prüfung des Beschlusses
 

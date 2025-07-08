@@ -94,6 +94,8 @@ Die Verwertung oder Vernichtung ist vom Verwalter des Gerichtsgebäudes (§ 1 A
 `§ 6 (5) GOG.`  
 Über die in dieser Bestimmung angeordneten Rechtsfolgen ist der Besitzer bei Übergabe der Waffe schriftlich zu informieren.
 
+*(Beachte: Ist auf bereits vor dem 31. Dezember 2002 übernommene Waffen mit der Maßgabe anzuwenden, dass die sechsmonatige Ausfolgefrist erst mit 1. Jänner 2003 beginnt (vgl. Art. XI Abs. 9, BGBl. I Nr. 76/2002).)*
+
 ### § 7 GOG # Säumnisfolge
 
 `§ 7 GOG.`  

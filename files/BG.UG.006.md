@@ -159,6 +159,8 @@ Dem Universitätsrat und dem Rektorat ist jährlich ein Tätigkeitsbericht des A
 `§ 42 (11) UG.`  
 Das Rektorat hat dem Arbeitskreis für Gleichbehandlungsfragen die für die Erfüllung seiner Aufgaben entsprechenden Personal- und Sachressourcen sowie die erforderlichen Räume nach Maßgabe der budgetären Möglichkeiten zur Verfügung zu stellen.
 
+*(Beachte: zum Bezugszeitraum vgl. § 143 Abs. 74)*
+
 ### § 43 UG # Schiedskommission
 
 `§ 43 (1) UG.`  

@@ -140,6 +140,8 @@ Gebührt Versicherten gemäß § 4 Abs. 4 der Arbeitsverdienst für längere Z
 *für 2024: 32,54 €*  
 *für 2025: 34,59 €)*
 
+*(Beachte: zu Abs. 1 Z 12: zum Bezugszeitraum vgl. § 800)*
+
 ### § 45 ASVG # Höchstbeitragsgrundlage
 
 `§ 45 (1) ASVG.`  
@@ -424,6 +426,8 @@ Abweichend von Abs. 3 Einleitung ist für Lehrlinge für die Dauer des gesamten
 
 `§ 51 (7) ASVG.`  
 Abweichend von Abs. 3 Z 2 ist für Personen, deren Alterspension sich wegen Aufschubes der Geltendmachung des Anspruches erhöht (§ 261c, § 5 Abs. 4 APG), für jeden für diese Erhöhung zu berücksichtigenden Monat die Hälfte des auf den Dienstgeber und die versicherte Person entfallenden Beitragsteiles aus Mitteln der Pensionsversicherung zu zahlen.
+
+*(Beachte: Tritt mit dem nach § 675 Abs. 3 durch Verordnung der Bundesministerin für Gesundheit festgestellten Zeitpunkt außer Kraft (vgl. § 690 Abs. 1 Z 3).)*
 
 ### § 51a ASVG # Zusatzbeitrag in der knappschaftlichen Pensionsversicherung
 
@@ -1051,6 +1055,8 @@ Die Abs. 1 und 2 sind auf die Fälle eines Anrechnungsbetrages nach § 13 des 
 `§ 70 (5) ASVG.`  
 Versicherte, die im Rahmen eines pensionsversicherungsfreien Dienstverhältnisses gegen Entfall der Bezüge beurlaubt sind (Karenzurlaub) und während des Karenzurlaubes eine die Pflichtversicherung in der Pensionsversicherung nach diesem Bundesgesetz begründende Erwerbstätigkeit ausüben, können beantragen, daß ihnen die auf Grund dieser Erwerbstätigkeit für nach dem 31. Dezember 1994 liegende Zeiten des Karenzurlaubes, soweit diese für die ruhegenußfähige Gesamtdienstzeit angerechnet werden, entrichteten Beiträge erstattet werden; hiebei ist als Beitragssatz jeweils die Hälfte der Summe der Beitragssätze gemäß § 51 Abs. 1 Z 3 lit. a und § 51a zur Zeit der Entrichtung heranzuziehen. Der Antrag auf Erstattung ist beim zuständigen Pensionsversicherungsträger zu stellen und bedarf zu seiner Wirksamkeit einer Bestätigung über die Anrechenbarkeit des Karenzurlaubes für die ruhegenußfähige Gesamtdienstzeit. Die Beiträge sind aufgewertet mit dem der zeitlichen Lagerung entsprechenden Aufwertungsfaktor (§ 108 Abs. 4) zu erstatten. Mit der Erstattung der Beiträge erlöschen alle Ansprüche und Berechtigungen aus der Pensionsversicherung, die aus den Versicherungsmonaten erhoben werden können, für die die Beiträge erstattet wurden.
 
+*(Beachte: zum Bezugszeitraum vgl. § 718 Abs. 3)*
+
 ### § 70a ASVG # Erstattung von Beiträgen in der Krankenversicherung
 
 `§ 70a (1) ASVG.`  
@@ -1061,6 +1067,8 @@ Als Monate der Pflichtversicherung in der Krankenversicherung gemäß Abs. 1 si
 
 `§ 70a (3) ASVG.`  
 Der durch die Richtlinien nach § 30a Abs. 1 Z 33 festzulegende leistungszuständige Versicherungsträger hat die Beitragserstattung bis zum 30. Juni des Kalenderjahres, das dem Jahr der gänzlichen Entrichtung der Beiträge zur Krankenversicherung für ein Kalenderjahr folgt, durchzuführen, erstmals bis zum 30. Juni 2020 für die im Jahr 2019 gänzlich für ein Kalenderjahr entrichteten Beiträge.
+
+*(Beachte: zum Bezugszeitraum vgl. § 718 Abs. 3)*
 
 ### § 70b ASVG # Erstattung von Beiträgen, die nach § 227 Abs. 3 und 4 entrichtet wurden
 

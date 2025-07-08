@@ -79,6 +79,8 @@ Die Pensionsversicherungsträger treffen überdies – unbeschadet der Leistung 
 `§ 222 (4) ASVG.`  
 Stellen die Pensionsversicherungsträger nach § 367 Abs. 4 Z 1 fest, dass bei Versicherten mit aufrechtem Dienstverhältnis bei Fortsetzung der bisherigen Erwerbstätigkeit in absehbarer Zeit Invalidität (Berufsunfähigkeit) eintreten wird, so ist eine Zuweisung zum Informations-, Beratungs- und Unterstützungsangebot nach § 1 Abs. 1 des Arbeit-und-Gesundheit-Gesetzes (AGG), BGBl. I Nr. 111/2010, mit dem Ziel vorzunehmen, das Dienstverhältnis zu erhalten.
 
+*(Beachte: Abs. 1 und 2: zum Bezugszeitraum vgl. § 669 Abs. 5)*
+
 ### § 223 ASVG # Eintritt des Versicherungsfalles; Stichtag
 
 `§ 223 (1) ASVG.`  
@@ -231,6 +233,8 @@ Die dem eingezahlten Betrag entsprechenden Versicherungszeiten werden mit seinem
 `§ 227 (5) ASVG.`  
 Abs. 2 gilt nicht für Zeiten, für die aus Anlaß der Aufnahme in das pensionsversicherungsfreie Dienstverhältnis vom Dienstnehmer an den Dienstgeber ein besonderer Pensionsbeitrag geleistet worden ist, sofern für diese Zeiten ein Überweisungsbetrag nach § 311 geleistet worden ist.
 *(Anm.: Abs. 6 aufgehoben durch BGBl. Nr. 20/1994)*
+
+*(Beachte: Zum Bezugszeitraum: Abs. 3 vgl. § 658 Abs. 5)*
 
 ### § 227a ASVG # Ersatzzeiten für Zeiten der Kindererziehung aus der Zeit nach dem 31. Dezember 1955 und vor dem 1. Jänner 2005
 
@@ -967,6 +971,8 @@ Beitragsmonate nach dem Gewerblichen Sozialversicherungsgesetz und nach dem Baue
 `§ 251a (8) Z 2 ASVG.`
 Beiträge zur Höherversicherung nach § 141 Abs. 1 des Gewerblichen Sozialversicherungsgesetzes und nach § 132 Abs. 1 des Bauern-Sozialversicherungsgesetzes gelten als Beiträge zur Höherversicherung im Sinne des § 248.  
 *(Anm.: Z 3 aufgehoben durch BGBl. I Nr. 101/2000)*
+
+*(Beachte: Abs. 1: Zum Bezugszeitraum vgl. § 669 Abs. 5.)*
 
 ### § 252 ASVG # Kinder
 

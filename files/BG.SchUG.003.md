@@ -170,6 +170,8 @@ In der 4. Schulstufe (ausgenommen an Sonderschulen mit eigenem Lehrplan) und in 
 `§ 19 (9) SchUG.`  
 Ist ein Fernbleiben der Schülerin oder des Schülers vom Unterricht in besonderer Weise gegeben, ist mit den Erziehungsberechtigten Verbindung aufzunehmen.
 
+*(Beachte: Abs. 2 dritter Satz tritt für die 10. und die 11. Schulstufe mit 1. September 2022 und hinsichtlich der weiteren Schulstufen jeweils mit 1. September der Folgejahre schulstufenweise aufsteigend in Kraft (vgl. § 82 Abs. 21 Z 5).)*
+
 ### § 19a SchUG # Individuelle Lernbegleitung
 
 `§ 19a (1) SchUG.`  
@@ -180,6 +182,8 @@ Die Entscheidung über die individuelle Lernbegleitung (Einrichtung, Dauer, vorz
 
 `§ 19a (3) SchUG.`  
 Im Rahmen der individuellen Lernbegleitung sind methodisch-didaktische Anleitungen und Beratungen zu geben sowie Unterstützung zur Bewältigung der Lehrplananforderungen bereitzustellen. Bei der Planung von Lernsequenzen und der Sicherstellung einer geeigneten individuellen Lernorganisation ist im Besonderen auch auf die Festlegung von lernökonomisch sinnvoll abgestimmten Prüfungsterminen (insbesondere von Semesterprüfungen) zu achten. Der Lernprozess des Schülers ist laufend zu beobachten und durch didaktische Hinweise zu unterstützen. In periodischen Abständen sind Beratungsgespräche in der erforderlichen Zahl, allenfalls unter Hinzuziehung anderer Lehrer, der Erziehungsberechtigten oder sonstiger Personen zu führen und Lernüberprüfungen durchzuführen.
+
+*(Beachte: Tritt hinsichtlich der 10. Schulstufen von zumindest dreijährigen mittleren und höheren Schulen mit 1. September 2017 und hinsichtlich der weiteren Schulstufen dieser Schularten jeweils mit 1. September der Folgejahre schulstufenweise aufsteigend in Kraft (vgl. § 82 Abs. 5s Z 6).)*
 
 ### § 20 SchUG # Leistungsbeurteilung für eine Schulstufe
 
@@ -226,6 +230,8 @@ in Abs. 6 unter „Unterrichtsjahr“ das Sommersemester zu verstehen ist und d
 
 `§ 20 (11) SchUG.`  
 § 18 Abs. 6 und § 20 Abs. 4 sind an Höheren Lehranstalten für Pflege und Sozialbetreuung nicht anzuwenden.
+
+*(Beachte: Der Einleitungssatz des Abs. 10 tritt für die 10. und die 11. Schulstufe mit 1. September 2022 und hinsichtlich der weiteren Schulstufen jeweils mit 1. September der Folgejahre schulstufenweise aufsteigend in Kraft (vgl. § 82 Abs. 21 Z 5).)*
 
 ### § 21 SchUG # Beurteilung des Verhaltens in der Schule
 
@@ -318,6 +324,8 @@ die Beurteilung der Leistungen in den einzelnen Pflichtgegenständen oder,
 wenn gemäß § 18a eine Information über die Lern- und Entwicklungssituation zu erfolgen hat, eine auf den Zeitpunkt des Ausscheidens bezogene schriftliche Information  
 zu enthalten. Z 1 gilt nicht in den Fällen des § 4 Abs. 2 lit. a, wenn und insoweit die Schülerin oder der Schüler wegen mangelnder Kenntnis der Unterrichtssprache im Sinne des § 3 Abs. 1 lit. b die erforderlichen Leistungen nicht erbringt.
 
+*(Beachte: Abs. 2 lit. l und Abs. 9a sind nach Maßgabe der technischen Möglichkeiten anzuwenden (vgl. § 82 Abs. 26))*
+
 ### § 22a SchUG # Semesterzeugnis
 
 `§ 22a (1) SchUG.`  
@@ -382,6 +390,8 @@ Die Gestaltung des Zeugnisformulars für das Semesterzeugnis ist durch Verordnun
 Wenn ein Schüler aus einer Schule zu einem Zeitpunkt ausscheidet, in dem über das Ergebnis des Schulbesuches ein Semesterzeugnis noch nicht ausgestellt werden kann, ist auf sein Verlangen eine Schulbesuchsbestätigung auszustellen, wobei sich die Beurteilung auf die bis zu diesem Zeitpunkt vom Schüler erbrachten Leistungen zu beziehen hat.
 *(Anm. Abs. 8 aufgehoben durch Art. 2 Z 3, BGBl. I Nr. 170/2021)*
 
+*(Beachte: Abs. 2 Z 11 ist nach Maßgabe der technischen Möglichkeiten anzuwenden (vgl. § 82 Abs. 26))*
+
 ### § 22b SchUG # Besuch von Unterrichtsgegenständen eines anderen Semesters oder einer anderen Schulstufe
 
 `§ 22b (1) SchUG.`  
@@ -403,6 +413,8 @@ Ort und Datum der Ausstellung, Unterschrift der Lehrperson und der Schulleitung 
 
 `§ 22b (2) SchUG.`  
 Wird ein bereits besuchter Unterrichtsgegenstand, ausgenommen bei der Wiederholung einer Schulstufe, erneut besucht und werden die bei diesem Unterrichtsbesuch erbrachten Leistungen besser beurteilt, als beim vorangegangenen Besuch dieses Unterrichtsgegenstandes, verliert das betreffende Zeugnis oder Semesterzeugnis seine Gültigkeit; es ist einzuziehen und es ist ein neues Zeugnis oder Semesterzeugnis mit der besseren Beurteilung auszustellen.
+
+*(Beachte: Abs. 1 Z 7 ist nach Maßgabe der technischen Möglichkeiten anzuwenden (vgl. § 82 Abs. 26))*
 
 ### § 23 SchUG # Wiederholungsprüfung
 
@@ -442,6 +454,8 @@ Die Prüfungen nach Abs. 1 bis 4 haben sich auf den Lehrstoff des betreffenden 
 
 `§ 23 (6) SchUG.`  
 Die Beurteilung der Leistungen des Schülers bei der Wiederholungsprüfung hat durch den Lehrer des betreffenden Unterrichtsgegenstandes in der betreffenden Klasse (Prüfer) gemeinsam mit einem zweiten vom Schulleiter zu bestimmenden Lehrer (Beisitzer) zu erfolgen. Im Fall der Verhinderung des als Prüfer in Betracht kommenden Lehrers sowie im Falle des Abs. 3 sind sowohl der Prüfer als auch der Beisitzer vom Schulleiter zu bestellen. Prüfer und Beisitzer sollen den betreffenden Unterrichtsgegenstand unterrichten oder für ihn lehrbefähigt sein. Über den Verlauf der Prüfung ist eine schriftliche Aufzeichnung zu führen. Wenn eine Einigung über die Beurteilung nicht zustande kommt, hat der Schulleiter zu entscheiden.
+
+*(Beachte: 1. Abs. 1 tritt für die 10. und die 11. Schulstufe mit 1. September 2022 und hinsichtlich der weiteren Schulstufen jeweils mit 1. September der Folgejahre schulstufenweise aufsteigend in Kraft (vgl. § 82 Abs. 21 Z 5). 2. Abs. 1a: Tritt hinsichtlich dreijähriger mittlerer Schulen mit 1. September 2018, hinsichtlich vierjähriger mittlerer und höherer Schulen mit 1. September 2019 und hinsichtlich fünfjähriger höherer Schulen mit 1. September 2020 in Kraft (vgl. § 82 Abs. 5s Z 8).)*
 
 ### § 23a SchUG # Semesterprüfung
 
@@ -485,6 +499,8 @@ Schülerinnen und Schüler gemäß Abs. 1 auf Ansuchen berechtigt sind, nach Ma
 Schülerinnen und Schüler auf Ansuchen berechtigt sind, einen nicht oder mit „Nicht genügend“ beurteilten Wahlpflichtgegenstand im darauffolgenden Semester durch den Besuch eines denselben Pflichtgegenstand betreffenden Wahlpflichtgegenstandes auf der gleichen Schulstufe zu ersetzen, sofern dem nicht pädagogische, didaktische oder organisatorische Gründe entgegenstehen.  
 Die Ansuchen gemäß Z 2 und Z 3 sind bis zu einem von der Schulleitung festzulegenden Zeitpunkt zu stellen. Wird ein nicht oder mit „Nicht genügend“ beurteilter Wahlpflichtgegenstand gemäß Z 3 durch einen anderen Wahlpflichtgegenstand ersetzt und wird dieser Wahlpflichtgegenstand erfolgreich abgeschlossen, ist der ersetzende Wahlpflichtgegenstand dem betreffenden Semester zuzurechnen und hat die Beurteilung im ersetzten Wahlpflichtgegenstand keinen Einfluss auf die Berechtigung zum Aufsteigen (§ 25 Abs. 11) oder zur Ablegung der Hauptprüfung gemäß § 36a Abs. 1a.
 
+*(Beachte: Tritt hinsichtlich der 10. Schulstufen von zumindest dreijährigen mittleren und höheren Schulen mit 1. September 2017 und hinsichtlich der weiteren Schulstufen dieser Schularten jeweils mit 1. September der Folgejahre schulstufenweise aufsteigend in Kraft (vgl. § 82 Abs. 5s Z 6).Tritt ab der 10. Schulstufe schulstufenweise aufsteigend in Kraft (vgl. § 82 Abs. 18 Z 1).)*
+
 ### § 23b SchUG # Semesterprüfung über noch nicht besuchte Unterrichtsgegenstände
 
 `§ 23b (1) SchUG.`  
@@ -526,6 +542,8 @@ Wegen vorgetäuschter Leistungen nicht oder mit „Nicht genügend“ beurteilte
 
 `§ 23b (8) SchUG.`  
 § 18 Abs. 2 bis 8, Abs. 10 sowie Abs. 12 mit der Maßgabe, dass an die Stelle des Jahreszeugnisses das Semesterzeugnis tritt, sowie § 23a Abs. 6 und 10 findet Anwendung.
+
+*(Beachte: Abs. 6 Z 8 ist nach Maßgabe der technischen Möglichkeiten anzuwenden (vgl. § 82 Abs. 26))*
 
 ### § 24 SchUG # Anwendung auf nicht schulpflichtige außerordentliche Schüler
 

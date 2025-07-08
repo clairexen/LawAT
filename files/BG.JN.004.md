@@ -153,6 +153,8 @@ Das im § 76 Abs. 1 bezeichnete Gericht ist auch für andere Klagen wegen nich
 `§ 101 JN.`  
 Für Rechtstreitigkeiten aus einer Beförderung, die dem Übereinkommen vom 19. Mai 1956 über den Beförderungsvertrag im Internationalen Straßengüterverkehr (CMR) unterliegt, ist auch das Gericht zuständig, in dessen Sprengel der Ort der Übernahme des Gutes oder der für die Ablieferung des Gutes vorgesehene Ort liegt.
 
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2004 bei Gericht eingelangt ist (vgl. Art. XVI Abs. 2, BGBl. I Nr. 128/2004).)*
+
 ### § 101a JN # Klagen nach der Fluggastrechte-Verordnung
 
 `§ 101a JN.`  
@@ -196,5 +198,7 @@ In Rechtssachen nach den §§ 81, 83, 83b und 92b kann die inländische Gericht
 
 `§ 104 (5) JN.`  
 Die Abs. 1 bis 4 sind insoweit zur Gänze oder zum Teil nicht anzuwenden, als nach Völkerrecht oder besonderen gesetzlichen Anordnungen ausdrücklich anderes bestimmt ist.
+
+*(Beachte: Nach Art. XXXII Z 8 WGN 1997, BGBl. I Nr. 140/1997, ist die Neufassung der Abs. 1, 3, 4 und 5 auf Verfahren anzuwenden, in denen die Klagen oder verfahrenseinleitenden Anträge bei Gericht nach dem 31. Dezember 1997 angebracht werden.)*
 
 `END-OF-DATA-FILE` *(fortges. in [BG.JN.005](BG.JN.005.md))*

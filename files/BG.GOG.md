@@ -270,6 +270,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(5)` Über die in dieser Bestimmung angeordneten Rechtsfolgen ist der Besitzer bei Übergabe der Waffe schriftlich zu informieren\.
 
+> *\(Beachte: Ist auf bereits vor dem 31\. Dezember 2002 übernommene Waffen mit der Maßgabe anzuwenden, dass die sechsmonatige Ausfolgefrist erst mit 1\. Jänner 2003 beginnt \(vgl\. Art\. XI Abs\. 9, BGBl\. I Nr\. 76/2002\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-6-gog--ausfolgung-übergebener-waffen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=6) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.001.md#-6-gog--ausfolgung-übergebener-waffen) \]
 
 ----
@@ -683,6 +685,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(6)` Der Außensenat des Oberlandesgerichtes ist zur Entscheidung über die Beschwerde zuständig\. Er kann jedoch die Behandlung der Beschwerde ablehnen, wenn sie den formalen Erfordernissen nicht entspricht oder schon auf Grund des Vorbringens keine hinreichende Aussicht auf Erfolg hat\.
 
+> *\(Beachte: Ist erstmals auf die Geschäftsverteilungen für das Geschäftsverteilungsjahr vom 1\. Jänner 2014 bis 31\. Dezember 2014 anzuwenden \(vgl\. § 98 Abs\. 17 Z 1\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-27-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=27) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.003.md#-27-gog) \]
 
 ----
@@ -823,6 +827,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` § 26a, § 27 Abs\. 2 bis 6, § 27a, § 28 Abs\. 1 und § 28a sind anzuwenden, § 27 Abs\. 3 jedoch mit der Maßgabe, daß die Begründung beim Gerichtshof zur Einsicht aufzulegen ist, und § 27a Abs\. 3 mit der Maßgabe, daß der Antrag vom Präsidenten des Gerichtshofes zuzustellen ist\.
 
+> *\(Beachte: Ist erstmals auf die Geschäftsverteilungen für das Geschäftsverteilungsjahr vom 1\. Jänner 2014 bis 31\. Dezember 2014 anzuwenden \(vgl\. § 98 Abs\. 17 Z 1\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-34-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=34) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_40_TextContainer_40) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.003.md#-34-gog) \]
 
 ----
@@ -884,6 +890,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >> `14.` Beschwerden gegen Angestellte der Gerichtskanzlei, Vollstreckungsbeamte und Gerichtsdiener zur Abhilfe gegen Verweigerung oder Verzögerung der ihnen aufgetragenen Amtshandlungen oder wegen des von ihnen bei solchen Amtshandlungen beobachteten Verfahrens, sofern die Beschwerde beim Gerichte und nicht bei den im §\. 78 bezeichneten Personen angebracht ist\.
 
 > `(2)` Die unter Z 1 bis 11 sowie 13 und 14 aufgezählten Geschäfte werden vom Vorsitzenden oder dem beauftragten Mitglied des Senats als Einzelrichter erledigt, die unter Z 11 genannten Geschäfte jedoch nur dann, wenn nicht auf seinen Antrag der Senat ihre Erledigung übernimmt\.
+
+> *\(Beachte: Der Z 2 wurde materiell derogiert: Art\. V des EGZPO, RGBl\. Nr\. 112/1895, ist durch § 1 StGBl\. Nr\. 148/1920 aufgehoben worden\.Der Z 7a wurde bezüglich der Zeugengebührenbestimmung materiell derogiert: § 347 ZPO ist durch § 43 Z 1 des GebAG 1965, BGBl\. Nr\. 179/1965, aufgehoben worden; siehe nunmehr § 20 GebAG 1975, BGBl\. Nr\. 136/1975\.Der Z 7b wurde teilweise durch die §§ 104a und 114a JN, RGBl\. Nr\. 111/1895, iVm § 55a EheG, dRGBl\. I S 807/1938, und den §§ 220 ff\. AußStrG, RGBl\. Nr\. 208/1854, materiell derogiert\.Der Z 9 wurde teilweise materiell derogiert: es gibt keine Depositenämter mehr; zum Gerichtserlagswesen siehe auch das BG, BGBl\. Nr\. 110/1948, und die §§ 284 ff\. Geo\., BGBl\. Nr\. 264/1951\.Der Z 11 wurde bezüglich der Zeugengebührenbestimmung materiell derogiert; siehe nunmehr § 20 GebAG 1975, BGBl\. Nr\. 136/1975\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-37-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=37) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.003.md#-37-gog) \]
 
@@ -965,6 +973,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Rechtsstreitigkeiten nach dem vierten Abschnitt des sechsten Teils der Zivilprozessordnung, RGBl\. Nr\. 113/1895, sind tunlichst demselben Rechtsmittelsenat zuzuweisen\.
 
+> *\(Beachte: Ist erstmals auf die Geschäftsverteilungen für das Geschäftsverteilungsjahr vom 1\. Jänner 2014 bis 31\. Dezember 2014 anzuwenden \(vgl\. § 98 Abs\. 17 Z 1\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-45-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=45) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_51_TextContainer_51) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.003.md#-45-gog) \]
 
 ----
@@ -1016,6 +1026,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(1)` Nach Maßgabe des Bedarfs der rechtsuchenden Bevölkerung und der regionalen Bedeutung eines Standorts, jedenfalls aber an solchen Standorten, an denen Landes\- und Bezirksgericht im selben Gebäude untergebracht sind, kann die Bundesministerin oder der Bundesminister für Justiz zur Behandlung insbesondere von einfachen und rasch zu erledigenden Ansuchen und Auskünften Justiz\-Servicecenter einrichten\. Soweit dies tunlich ist, sind diese an Standorten, bei denen auch eine Staatsanwaltschaft untergebracht ist, gemeinsam mit dieser zu führen\.
 
 > `(2)` Justiz\-Servicecenter können für den jeweiligen Standort \(einfache Justiz\-Servicecenter\) oder unabhängig vom Standort zentral für alle Gerichte und Staatsanwaltschaften \(zentrale Justiz\-Servicecenter\) eingerichtet werden\. Wird von einem zentralen Justiz\-Servicecenter ein protokollarisches Anbringen aufgenommen \(§ 56 Abs\. 1\), so ist für seine Rechtzeitigkeit der Zeitpunkt der Protokollaufnahme maßgebend\. Das protokollarische Anbringen ist erforderlichenfalls unverzüglich an das zuständige Gericht zu übersenden\.
+
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 98 Abs\. 17 Z 3\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-47b-gog--justiz-servicecenter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=47b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.003.md#-47b-gog--justiz-servicecenter) \]
 
@@ -1069,6 +1081,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die näheren Regelungen über die Organisation der Geschäftsstelle und die dort verwendeten Personen sind durch Verordnung zu treffen\. In dieser ist insbesondere auch festzustellen, wie weit bei Gerichten für die Erledigung von Rechnungsarbeiten durch die Bestellung von Bediensteten der Geschäftsstelle Vorsorge zu treffen ist, die zum Rechnungsdienst befähigt oder sonst rechnungsverständig sind\.
 
+> *\(Beachte: Siehe die materiellen Derogationen durch das BDG 1979, BGBl\. Nr\. 333/1979, durch § 9 f\. RDG, BGBl\. Nr\. 305/1961 sowie das Gesetz, RGBl\. Nr\. 1/1911 und die Verordnung, RGBl\. Nr\. 5/1911\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-49-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=49) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-49-gog) \]
 
 ----
@@ -1082,6 +1096,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(3)` Die nähere Bestimmung der Erfordernisse für die Anstellung als Beamter der Gerichtskanzlei, die Festsetzung der Gegenstände und die Einrichtung der in Absatz 1 erwähnten Prüfung, die Regelung des Vorbereitungsdienstes und seiner Dauer bleiben den im Verordnungswege zu erlassenden Dienstvorschriften und den zu deren Durchführung vom Justizminister zu erlassenden Anordnungen vorbehalten\.
 
 > `(4)` Die Erfordernisse für die Ernennung zu Beamten der gerichtlichen Rechnungsdepartments und Depositenämter sind bis zu Erlassung neuer Anordnungen nach den bei Beginn der Wirksamkeit dieses Gesetzes darüber bestehenden Vorschriften zu beurtheilen\.
+
+> *\(Beachte: Zu Abs\. 1: Siehe die materiellen Derogationen durch das BDG 1979, BGBl\. Nr\. 333/1979, durch § 9 f\. RDG, BGBl\. Nr\. 305/1961 sowie das Gesetz, RGBl\. Nr\. 1/1911 und die Verordnung, RGBl\. Nr\. 5/1911; weiters die Kanzleipersonal\-Verordnung, RGBl\. Nr\. 170/1897,insbesondere bezüglich der Zweiten Kanzleiprüfung für Fachbeamte der Gerichtskanzlei sowie das BDG 1979, BGBl\. Nr\. 333/1979; Zu Abs\. 2 siehe § 9 f\. RDG, BGBl\. Nr\. 305/1961\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-50-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=50) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-50-gog) \]
 
@@ -1112,6 +1128,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >> `1.` wegen einer oder mehrerer mit Vorsatz begangenen strafbaren Handlungen zu einer mehr als einjährigen Freiheitsstrafe oder
 >
 >> `2.` wegen einer mit Bereicherungsvorsatz begangenen strafbaren Handlung oder wegen einer strafbaren Handlung gegen die sexuelle Integrität und Selbstbestimmung verurteilt worden ist\.
+
+> *\(Beachte: Teilweise materiell derogiert durch das BDG 1979, BGBl\. Nr\. 333/1979\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-52-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=52) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-52-gog) \]
 
@@ -1156,6 +1174,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(4)` Die Gerichtskanzlei erteilt den Parteien die nach Zulaß des Gesetzes begehrten Ausfertigungen, Auszüge und Abschriften aus den Gerichtsakten, sowie Auskünfte und Bestätigungen über den Stand der Rechtssachen, über die Einbringung von Rechtsmitteln u\. s\. w\.
 
 > `(5)` Die in der Gerichtskanzlei verwendeten Personen haben, soweit es ihre Ausbildung und dienstliche Erfahrung gestattet, Schriftführerdienste zu leisten und für die richterliche Erledigung Entwürfe vorzubereiten\. Näheres bestimmt die Geschäftsordnung\.
+
+> *\(Beachte: Ist auf anhängige Verfahren weiter anzuwenden \(vgl\. Art\. XXXII § 6 Abs\. 2, BGBl\. I Nr\. 112/2003\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-56-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=56) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_67_TextContainer_67) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-56-gog) \]
 
@@ -1234,6 +1254,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Das Recht der Aufsicht enthält die Befugnis, wegen Vernachlässigung des Dienstes, wegen ordnungswidriger Ausführung oder wegen Verzögerung übertragener Amtsgeschäfte, sowie wegen aller anderen Verletzungen der Dienstpflichten, welche sich mit Rücksicht auf Art und Grad als bloße Ordnungswidrigkeiten darstellen, Verwarnungen und Verweise zu ertheilen und die Erledigung eines Amtsgeschäftes durch Geldstrafen bis zum Gesammtbetrage von dreißig Gulden und bei Dienern bis zum Gesamtbetrage von fünfzehn Gulden zu betreiben\. Der Festsetzung einer Geldstrafe muss deren Androhung vorausgehen\. Die Verwendung der Geldstrafen hat der Justizminister im Verordnungswege festzusetzen\. Vor Ertheilung eines Verweises oder Verhängung einer Geldstrafe ist dem Betheiligten Gelegenheit zur Rechtfertigung zu geben\.
 
 > `(3)` Gegen einen Verweis oder gegen die Verhängung einer Geldstrafe kann von dem betheiligten Beamten oder Diener binnen acht Tagen die Beschwerde bei dem Präsidenten des übergeordneten Gerichtshofes, von Beamten und Dienern binnen acht Tagen die Beschwerde bei dem Präsidenten des übergeordneten Gerichtshofes, von Beamten und Dienern des Obersten Gerichts\- und Cassationshofes bei dem Justizminister angebracht werden\.
+
+> *\(Beachte: Abs\. 2 und 3 zum Teil aufgehoben durch Art\. VI Abs\. 2 der Dienstpragmatik, BGBl\. Nr\. 15/1914; siehe überdies §§ 91 ff\. BDG 1979, BGBl\. Nr\. 333/1979\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-63-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=63) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_74_TextContainer_74) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.004.md#-63-gog) \]
 
@@ -1777,6 +1799,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Kann eine Einsicht durch Sammelabfrage nicht automationsunterstützt vorgenommen werden, so ist sie schriftlich bei einem Gericht zu beantragen, das für eines der Verfahren zuständig ist, in dem die nachgefragten Daten bekanntgemacht werden könnten\.
 
+> *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote: Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-89k-gog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=89k) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_111_TextContainer_111) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.007.md#-89k-gog) \]
 
 ----
@@ -1802,6 +1826,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Anträge sind unter genauer Bezeichnung des Verbandes, gegebenenfalls unter Anführung der Firmenbuchnummer oder der Vereinsregisterzahl \(ZVR\-Zahl\), zu stellen\.
 
 > `(3)` Auskünfte nach Abs\. 1 Z 2 sind im Rahmen der Verfahrensautomation Justiz auf Grundlage einer Namensabfrage zu erstellen\. Wird gegen einen Verband kein Strafverfahren als Beschuldigten geführt, so hat die Auskunft nach Abs\. 1 Z 2 zu lauten, dass der Verband bei einer Namensabfrage in der Verfahrensautomation Justiz nicht als Beschuldigter aufscheint\. Ebenso hat die Auskunft zu lauten, wenn die in § 50 letzter Satz StPO genannten Voraussetzungen vorliegen\.
+
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 98 Abs\. 13\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-89m-gog--registerauskunft-für-verbände) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=89m) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_113_TextContainer_113) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.007.md#-89m-gog--registerauskunft-für-verbände) \]
 
@@ -1909,6 +1935,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(8)` Für die durch den Einsatz der automationsunterstützten Datenverarbeitung verursachten Schäden aus Fehlern bei der Führung des Beglaubigungsarchivs der Justiz haftet der Bund\. Die Haftung ist ausgeschlossen, wenn der Schaden durch ein unabwendbares Ereignis verursacht wird, das weder auf einem Fehler in der Beschaffenheit noch auf einem Versagen der Mittel der automationsunterstützten Datenverarbeitung beruht\. Die Haftung ist auch für Fehler ausgeschlossen, die auf den Inhalt und die Beschaffenheit der Urkunde selbst zurückgehen\. Im Übrigen ist das Amtshaftungsgesetz, BGBl\. Nr\. 20/1949, anzuwenden\.
 
+> *\(Beachte: Abs\. 1 ist nach Maßgabe der personellen und technischen Möglichkeiten anzuwenden \(vgl\. Art\. XIII § 16, BGBl\. I Nr\. 164/2005\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-91b-gog--beglaubigungsarchiv-der-justiz-urkundensammlungen-des-grundbuchs-und-des-firmenbuchs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=91b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_121_TextContainer_121) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.008.md#-91b-gog--beglaubigungsarchiv-der-justiz-urkundensammlungen-des-grundbuchs-und-des-firmenbuchs) \]
 
 ----
@@ -1934,6 +1962,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Die Führung des Justizarchivs und der Archive nach § 91c erfolgt in Vollziehung der Gesetze\. Jene Personen, die zur Einstellung von Urkunden in die Urkundenarchive berechtigt sind, handeln als Organe des zur Führung des jeweiligen Urkundenarchivs berufenen Rechtsträgers\. Jede Einstellung von Urkunden und Verwendung von Daten ist automationsunterstützt in einem Protokoll, das den Namen des Organs ausweist, festzuhalten\. Für den Inhalt der Urkunde oder die Berechtigung der Partei ist der Rechtsträger nicht verantwortlich\.
 
 > `(3)` Zur Einrichtung und Führung der Datenbanken der Archive dürfen Auftragsverarbeiter in Anspruch genommen werden, wenn diese ausreichende Gewähr für eine rechtmäßige und sichere Datenverwendung bieten\.
+
+> *\(Beachte: Abs\. 1 ist nach Maßgabe der personellen und technischen Möglichkeiten anzuwenden \(vgl\. Art\. XIII § 16, BGBl\. I Nr\. 164/2005\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.md#-91d-gog--führung-der-archive) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009&Paragraf=91d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_123_TextContainer_123) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GOG.008.md#-91d-gog--führung-der-archive) \]
 

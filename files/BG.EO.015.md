@@ -58,6 +58,8 @@ Die Pfändung von Sachen des Gegners der gefährdeten Partei darf nicht angeordn
 `§ 379 (5) EO.`  
 Zur Sicherung von Forderungen gegen einen Erben können bei Vorhandensein der in Abs. 2 angegebenen Voraussetzungen zu Gunsten der Gläubiger des Erben in Ansehung des ihm angefallenen Erbgutes vor der Einantwortung einstweilige Verfügungen getroffen werden. Je nach dem zu erreichenden Zweck können mit der einstweiligen Verfügung die notwendigen Sicherungsmittel (§§ 379 und 382) angeordnet werden.
 
+*(Beachte: Zum Bezugszeitraum vgl. Art. III, BGBl. I Nr. 59/2000.)*
+
 ### § 379a EO # Pfandweise Beschreibung nach § 1101 ABGB
 
 `§ 379a (1) EO.`  

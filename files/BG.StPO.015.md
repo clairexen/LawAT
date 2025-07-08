@@ -242,6 +242,8 @@ Einer rechtzeitig eingebrachten Beschwerde gegen einen Beschluss, mit dem über 
 `§ 196a (6) StPO.`  
 Weitergehende Rechte des Beschuldigten nach diesem Bundesgesetz, dem Amtshaftungsgesetz, BGBl. Nr. 20/1949, und dem Strafrechtlichen Entschädigungsgesetz 2005, BGBl. I Nr. 125/2004, bleiben unberührt.
 
+*(Beachte: zum Bezugszeitraum vgl. § 516 Abs. 12)*
+
 ### § 197 StPO # Abbrechung des Ermittlungsverfahrens gegen Abwesende und gegen unbekannte Täter
 
 `§ 197 (1) StPO.`  

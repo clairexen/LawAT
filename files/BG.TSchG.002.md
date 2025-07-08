@@ -167,6 +167,8 @@ Wurde das Produkt bereits in einem anderen Staat auf seine Tiergerechtheit über
 `§ 18 (11) TSchG.`  
 Im Rahmen der Prüfung neuartiger serienmäßig hergestellter Aufstallungssysteme und neuartiger technischer Ausrüstungen für Tierhaltungen dürfen gemäß dem TSchG nicht erlaubte Einrichtungen und Anlagen verwendet werden, soweit es zur Prüfung im Einzelfall notwendig ist und sichergestellt ist, dass die Tiere entsprechend überwacht werden und die Prüfung abgebrochen wird, wenn das Wohlbefinden der Tiere beeinträchtigt wird.
 
+*(Beachte: Abs. 2a tritt mit 1.1.2023 für alle ab diesem Datum baurechtlich bewilligten neu gebauten oder umgebauten Anlagen in Kraft. Für alle sonstigen, den bis dahin geltenden tierschutzrechtlichen Bestimmungen entsprechenden bestehenden Haltungseinrichtungen, die zum Zeitpunkt des Inkrafttretens des BGBl. I Nr. 130/2022 bestehen, tritt Abs. 2a mit 1.6.2034 in Kraft (vgl. § 44 Abs. 30 idF BGBl. I Nr. 21/2025).)*
+
 ### § 18a TSchG # Die Fachstelle für tiergerechte Tierhaltung und Tierschutz
 
 `§ 18a (1) TSchG.`  

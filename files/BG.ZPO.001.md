@@ -34,6 +34,8 @@ Ein mündiger Minderjähriger bedarf in Rechtsstreitigkeiten über Gegenstände,
 `§ 2a ZPO.`  
 In Ehesachen (§ 49 Abs. 2 Z 2a JN) sind Personen, die sonst wegen ihrer Minderjährigkeit nur beschränkt geschäftsfähig sind, fähig, selbständig vor Gericht als Partei zu handeln.
 
+*(Beachte: Ist anzuwenden, wenn der verfahrenseinleitende Schriftsatz nach dem 31. Juli 2018 bei Gericht eingebracht wurde (vgl. Art. 28 § 3, BGBl. I Nr. 58/2018).)*
+
 ### § 3 ZPO
 
 `§ 3 ZPO.`  
@@ -198,6 +200,8 @@ Wer als Besitzer einer Sache oder eines dinglichen Rechtes geklagt wird, sich ab
 `§ 22 (2) ZPO.`  
 Die Aufforderung an den Auctor erfolgt durch Zustellung eines Schriftsatzes, welcher die zur Begründung dieser Aufforderung erforderliche Mittheilung über den eingeleiteten Rechtsstreit zu enthalten hat. Eine Ausfertigung dieses Schriftsatzes ist dem Kläger mitzutheilen.
 
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
+
 ### § 23 ZPO
 
 `§ 23 (1) ZPO.`  
@@ -206,6 +210,8 @@ Erkennt der Auctor das vom Beklagten behauptete Verhältnis an, so kann er mit Z
 `§ 23 (2) ZPO.`  
 Kommt infolge der vom benannten Auktor abgegebenen Erklärung eine Einigung der Beteiligten in Ansehung der Übernahme des Prozesses durch den Auktor zustande, so hat der Vorsitzende auf entsprechenden Antrag den Beklagten noch vor der vorbereitenden Tagsatzung von der Klage zu entbinden.
 
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
+
 ### § 24 ZPO
 
 `§ 24 (1) ZPO.`  
@@ -213,6 +219,8 @@ Erstattet der Auktor trotz gehöriger Aufforderung keinen Schriftsatz, bestreite
 
 `§ 24 (2) ZPO.`  
 Inwiefern dem Auctor hieraus ein Anspruch auf Schadenersatz erwächst, ist nach dem bürgerlichen Rechte zu beurtheilen.
+
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
 
 ### § 25 ZPO
 
@@ -242,6 +250,8 @@ Der Abs. 1 findet ferner keine Anwendung auf eine Tagsatzung, in der ein Klageb
 
 `§ 27 (4) ZPO.`  
 Die Vertretungsbefugnis der Finanzprocuratur bleibt auch in den Fällen, in welchen die Vertretung der Parteien durch Rechtsanwalt geboten ist, unberührt.
+
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2004 bei Gericht eingelangt ist (vgl. Art. XVI Abs. 2, BGBl. I Nr. 128/2004).)*
 
 ### § 28 ZPO
 
@@ -294,6 +304,8 @@ Der Rechtsanwalt kann die ihm erteilte Prozeßvollmacht für einzelne Akte oder 
 
 `§ 31 (3) ZPO.`  
 Der Rechtsanwalt kann sich ferner bei den im Zwangsvollstreckungsverfahren vorkommenden Vollzugshandlungen, Tagsatzungen und Einvernehmungen durch einen bei ihm angestellten vertretungsbefugten Kanzleibeamten vertreten lassen. Die Vertretungsbefugnis wird vom Ausschusse der Rechtsanwaltskammer auf Antrag des Rechtsanwalts durch Ausfertigung einer Beglaubigungsurkunde gewährt. Sie kann vom Ausschusse jederzeit zurückgenommen werden.
+
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
 
 ### § 32 ZPO
 

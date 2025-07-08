@@ -377,6 +377,8 @@ Für Leistungen eines approbierten Arztes (§ 44 Abs. 1 des Ärztegesetzes 19
 `§ 131 (6) ASVG.`  
 Wenn die flächendeckende Versorgung der Versicherten durch Verträge nicht in ausreichendem Maße gesichert ist, so kann in der Satzung des Versicherungsträgers das Ausmaß des Ersatzes der Kosten der Krankenbehandlung gemäß Abs. 1 mit mehr als 80 vH, höchstens jedoch mit 100 vH des Betrages, der bei Inanspruchnahme der entsprechenden Vertragspartner des Versicherungsträgers von diesem aufzuwenden gewesen wäre, festgesetzt werden. Die flächendeckende Versorgung ist im Regelfall dann anzunehmen, wenn Gesamtverträge nach dem Sechsten Teil bestehen.
 
+*(Beachte: zum Inkrafttreten vgl. § 718 Abs. 1 Z 3 und Abs. 4)*
+
 ### § 131a ASVG # Kostenerstattung bei Fehlen vertraglicher Regelungen
 
 `§ 131a ASVG.`  

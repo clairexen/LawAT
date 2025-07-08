@@ -148,6 +148,8 @@ Die Gleichberechtigung aller landesüblichen Sprachen in Schule, Amt und öffent
 
 In den Ländern, in welchen mehrere Volksstämme wohnen, sollen die öffentlichen Unterrichtsanstalten derart eingerichtet sein, daß ohne Anwendung eines Zwanges zur Erlernung einer zweiten Landessprache jeder dieser Volksstämme die erforderlichen Mittel zur Ausbildung in seiner Sprache erhält.
 
+*(Beachte: Geltung fraglich; vgl. Art. 66, 67 und 68 des Staatsvertrages von St. Germain iVm Art. 8 B-VG)*
+
 ### Art. 20 StGG
 
 `Art. 20 StGG.`  

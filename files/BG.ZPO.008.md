@@ -44,6 +44,8 @@ Wird der Anweisung trotz vorheriger Bekanntgabe des drohenden Nachteils nicht od
 `§ 245 (4) ZPO.`  
 Gegen die nach Abs. 2 ergangenen Beschlüsse ist ein abgesondertes Rechtsmittel nicht statthaft.
 
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
+
 ### § 246 ZPO
 
 `§ 246 ZPO.`  
@@ -59,6 +61,8 @@ die Belehrung, dass der Einspruch den Inhalt der Klagebeantwortung haben muss un
 `§ 246 Z 5 ZPO.`
 den Hinweis, dass im Fall der Erhebung des Einspruchs das ordentliche Verfahren über die Klage stattfinden wird.
 
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
+
 ### § 247 ZPO
 
 `§ 247 (1) ZPO.`  
@@ -70,6 +74,8 @@ Der Zahlungsbefehl ist dem Beklagten mit der Klage zuzustellen.
 `§ 247 (3) ZPO.`  
 Gegen die Erlassung des Zahlungsbefehls ist ein Rechtsmittel nicht zulässig, doch kann die im Zahlungsbefehl enthaltene Kostenentscheidung mit Rekurs angefochten werden.
 
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
+
 ### § 248 ZPO
 
 `§ 248 (1) ZPO.`  
@@ -77,6 +83,8 @@ Gegen den Zahlungsbefehl steht dem Beklagten der Einspruch zu. Dieser hat den In
 
 `§ 248 (2) ZPO.`  
 Die Einspruchsfrist beträgt vier Wochen; sie kann nicht verlängert werden. Sie beginnt mit der Zustellung der schriftlichen Ausfertigung des Zahlungsbefehls an den Beklagten.
+
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
 
 ### § 249 ZPO
 
@@ -89,6 +97,8 @@ Ist ordnungsgemäß Einspruch erhoben worden, so hat der Vorsitzende nach den §
 `§ 249 (3) ZPO.`  
 Auf die Zurücknahme des Einspruchs finden die Vorschriften über die Zurücknahme der Berufung (§ 484) entsprechende Anwendung.
 
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
+
 ### § 250 ZPO
 
 `§ 250 (1) ZPO.`  
@@ -96,6 +106,8 @@ Das Mahnverfahren kann mit Hilfe automationsunterstützter Datenverarbeitung dur
 
 `§ 250 (2) ZPO.`  
 Der Bundesminister für Justiz wird ermächtigt, zur Ermöglichung einer zweckmäßigeren Behandlung der Eingaben (§ 74) im Mahnverfahren mit Verordnung Formblätter einzuführen, deren sich der Kläger bei solchen Eingaben zu bedienen hat. Diese Formblätter sind so auszugestalten, dass sie der Kläger auch leicht und sicher verwenden kann.
+
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
 
 ### § 251 ZPO
 
@@ -153,6 +165,8 @@ Gegen die in dieser Bestimmung vorgesehenen Anordnungen ist ein Rechtsmittel nic
 
 *Anm. 1: Es wird davon ausgegangen, dass diese seit der Stammfassung existierende Zwischenüberschrift nicht durch die Neufassung der §§ 257 und 258 „samt Überschriften“ (Art. II Z 40 der Zivilverfahrens-Novelle 2002, BGBl. I Nr. 76/2002) entfallen ist. Dies ist aber nicht unstrittig.)*
 
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
+
 ### § 258 ZPO # Vorbereitende Tagsatzung
 
 `§ 258 (1) ZPO.`  
@@ -183,6 +197,8 @@ Während der mündlichen Streitverhandlung kann der Beklagte, ohne der Zustimmun
 
 `§ 259 (3) ZPO.`  
 In der Verhandlung vor dem Einzelrichter eines Landesgerichtes kann der Antrag gestellt werden, in das Urteil einen Beisatz aufzunehmen, daß es in Ausübung der besonderen Gerichtsbarkeit in Handelsrechtssachen in der Verhandlung vor dem Einzelrichter eines selbständigen Handelsgerichtes, daß es in Ausübung der allgemeinen Gerichtsbarkeit gefällt wird. Der beantragte Beisatz ist in das Urteil aufzunehmen, wenn ihn der Richter für zutreffend erachtet.
+
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
 
 ### § 260 ZPO
 
@@ -267,6 +283,8 @@ Das in einem anderen Staatsgebiete geltende Recht, Gewohnheitsrechte, Privilegie
 `§ 271 (2) ZPO.`  
 Bei Ermittlung dieser Rechtsnormen ist das Gericht auf die von den Parteien angebotenen Beweise nicht beschränkt; es kann alle zu diesem Zwecke ihm nöthig scheinenden Erhebungen von amtswegen einleiten und insbesondere, soweit erforderlich, das Einschreiten des Justizministers in Anspruch nehmen.
 
+*(Beachte: Abs. 2 ist insoweit aufgehoben, als er sich auf die Ermittlung fremden Rechts bezieht (§ 51 Abs. 1 Z 4 IPR-Gesetz, BGBl. Nr. 304/1978, siehe dazu jetzt dessen § 4).)*
+
 ### § 272 ZPO
 
 `§ 272 (1) ZPO.`  
@@ -285,6 +303,8 @@ Wenn feststeht, dass einer Partei der Ersatz eines Schadens oder des Interesses 
 
 `§ 273 (2) ZPO.`  
 Sind von mehreren in derselben Klage geltend gemachten Ansprüchen einzelne, im Verhältnis zum Gesamtbetrag unbedeutende streitig und ist die vollständige Aufklärung aller für sie maßgebenden Umstände mit Schwierigkeiten verbunden, die zur Bedeutung der streitigen Ansprüche in keinem Verhältnisse stehen, so kann das Gericht darüber in der gleichen Weise (Absatz 1) nach freier Überzeugung entscheiden. Gleiches gilt auch für einzelne Ansprüche, wenn der begehrte Betrag jeweils 1 000 Euro nicht übersteigt.
+
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
 
 ## Glaubhaftmachung (Bescheinigung).
 
@@ -305,6 +325,8 @@ Von den Parteien angebotene, jedoch dem Gerichte unerheblich scheinende Beweise 
 
 `§ 275 (2) ZPO.`  
 Die Aufnahme angebotener Beweise kann vom Gericht auf Antrag oder von Amts wegen verweigert werden, wenn bei sorgfältiger Berücksichtigung aller Umstände kein vernünftiger Zweifel darüber besteht, daß durch das Beweisanbot der Prozeß verschleppt werden soll, und die Aufnahme der Beweise die Erledigung des Prozesses erheblich verzögern würde.
+
+*(Beachte: Nach Art. XXXII Z 10 WGN 1997, BGBl. I Nr. 140/1997, ist die Neufassung des Abs. 2 auf Verfahren, die zum Zeitpunkt des Inkrafttretens dieses Bundesgesetzes bereits anhängig sind, erst ab dem 1. Juli 1998 anzuwenden.)*
 
 ### § 276 ZPO
 
@@ -327,6 +349,8 @@ Alle nicht sogleich bei der Verhandlung selbst ausführbaren und insbesondere di
 `§ 278 (2) ZPO.`  
 Behufs Erörterung der Ergebnisse solcher Beweisaufnahmen ist nach deren Vollendung, wenn nicht die Voraussetzungen des §. 193 Absatz 3, vorliegen, die Verhandlung vor dem erkennenden Gerichte von amtswegen wieder aufzunehmen.
 
+*(Beachte: Abs. 1 ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002)Abs. 2 ist auf Verfahren, die zum Zeitpunkt des In-Kraft-Tretens dieses Bundesgesetzes bereits anhängig sind, nur anzuwenden, wenn die mündliche Streitverhandlung erster Instanz nach dem 31. Dezember 2002 geschlossen worden ist. (vgl. Art. XI Abs. 3, BGBl. I Nr. 76/2002))*
+
 ### § 279 ZPO
 
 `§ 279 (1) ZPO.`  
@@ -334,6 +358,8 @@ Steht der Aufnahme des Beweises ein Hindernis von ungewisser Dauer entgegen, ist
 
 `§ 279 (2) ZPO.`  
 Bei der fortgesetzten mündlichen Verhandlung kann dann dieser Beweis nur benützt werden, wenn dadurch das Verfahren nicht verzögert wird.
+
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
 
 ### § 280 ZPO
 

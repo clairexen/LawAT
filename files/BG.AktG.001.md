@@ -136,6 +136,8 @@ Die Depotbestätigung bedarf der Schriftform, sofern die Satzung nicht die Textf
 `§ 10a (4) AktG.`  
 Die Gesellschaft muss Depotbestätigungen in deutscher Sprache und, wenn sie börsenotiert ist, auch in englischer Sprache entgegennehmen. In der Satzung oder in der Einberufung können weitere Sprachen vorgesehen werden.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ### § 11 AktG # Aktien besonderer Gattung
 
 `§ 11 AktG.`  

@@ -54,6 +54,8 @@ Solange ein Abstammungsverfahren von einem Gericht geführt wird, ist dieses auc
 `§ 108 (3) JN.`  
 Die inländische Gerichtsbarkeit für die im Abs. 1 genannten Angelegenheiten ist gegeben, wenn das Kind, der festgestellte oder festzustellende Vater oder die Mutter des Kindes österreichischer Staatsbürger ist oder das Kind oder der festgestellte oder festzustellende Vater seinen gewöhnlichen Aufenthalt im Inland hat.
 
+*(Beachte: Ist anzuwenden, wenn der verfahrenseinleitende Antrag nach dem 31. Dezember 2004 eingebracht wurde (vgl. Art. XXXII § 3 Abs. 1, BGBl. I Nr. 112/2003).)*
+
 ### § 109 JN # Obsorge, Erwachsenenvertretung und Kuratel
 
 `§ 109 (1) JN.`  
@@ -144,6 +146,8 @@ Für gesetzliche Unterhaltsansprüche sonstiger in gerader Linie verwandter Pers
 
 `§ 114 (3) JN.`  
 Zur Entscheidung über sonstige aus dem Verhältnis zwischen Kindern und Eltern entspringende Ansprüche ist das Gericht zuständig, in dessen Sprengel das Kind seinen allgemeinen Gerichtsstand in Streitsachen hat, mangels eines solchen im Inland das Gericht, in dessen Sprengel der in Anspruch Genommene seinen allgemeinen Gerichtsstand in Streitsachen hat.
+
+*(Beachte: Ist anzuwenden, wenn der verfahrenseinleitende Antrag nach dem 31. Dezember 2004 eingebracht wurde (vgl. Art. XXXII § 3 Abs. 1, BGBl. I Nr. 112/2003).)*
 
 ### § 114a JN # Ehe- und Partnerschaftsangelegenheiten
 

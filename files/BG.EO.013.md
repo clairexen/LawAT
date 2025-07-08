@@ -33,6 +33,8 @@ Der Verpflichtete kann nach einer Vermögensangabe nach Abs. 1 auf Antrag desse
 `§ 346a (3) EO.`  
 Auf die Vermögensangabe sind § 47 Abs. 2 über die Belehrung, die Protokolleinsicht und die Bestätigung durch den Verpflichteten sowie § 48 anzuwenden.
 
+*(Beachte: Ist anzuwenden, wenn das Vermögensverzeichnis nach dem 31. August 2005 aufgenommen wird (vgl. § 408 Abs. 4).)*
+
 ### § 347 EO # Herausgabe durch Dritte
 
 `§ 347 (1) EO.`  
@@ -109,6 +111,8 @@ Die Einstellung nach § 39 Abs. 1 Z 6 bedarf auch der Zustimmung des Verpflic
 `§ 352 Z 6 EO.`
 Hinsichtlich der Kosten des Verfahrens gilt § 351 Abs. 3.
 
+*(Beachte: Zum Bezugszeitraum vgl. Art. III, BGBl. I Nr. 59/2000.)*
+
 ### § 352a EO # Versteigerungsbedingungen
 
 `§ 352a (1) EO.`  
@@ -122,6 +126,8 @@ Das geringste Gebot ist der Schätzwert. Die Versteigerungsbedingungen können a
 
 `§ 352a (4) EO.`  
 Einer Schätzung bedarf es nicht, wenn sich die Miteigentümer vor dem Schätzungstermin auf einen Ausrufpreis einigen. Im Versteigerungsedikt ist darauf hinzuweisen, dass keine Schätzung erfolgt ist. Im Übrigen tritt der Ausrufpreis, soweit in gesetzlichen Bestimmungen auf den Schätzwert abgestellt wird, an dessen Stelle.
+
+*(Beachte: Zum Bezugszeitraum vgl. Art. III, BGBl. I Nr. 59/2000.)*
 
 ### § 352b EO # Versteigerung
 
@@ -140,6 +146,8 @@ Die schriftlichen Anbote dürfen den Schätzwert um ein Viertel unterschreiten. 
 
 `§ 352c EO.`  
 Das Meistbot ist nach dem Einvernehmen der Parteien aufzuteilen. Einigen sich die Parteien nicht, so hat das Gericht hierüber nach mündlicher Verhandlung durch Urteil zu entscheiden. Auf das Verfahren sind die Bestimmungen über das Verfahren vor den Bezirksgerichten (§§ 431 ff ZPO) anzuwenden.
+
+*(Beachte: Zum Bezugszeitraum vgl. Art. III, BGBl. I Nr. 59/2000.)*
 
 ### § 353 EO # Erwirkung vertretbarer Handlungen
 

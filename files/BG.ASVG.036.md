@@ -123,6 +123,8 @@ Im Jahr 2025 ist das in Abs. 15 vorgesehene Verfahren zu den Stichtagen 1. Feb
 
 *Anm. 1: Art. 1 Z 17 der Novelle BGBl. I Nr. 100/2018 wurde sinngemäß eingearbeitet.)*
 
+*(Beachte: zum Bezugszeitraum vgl. § 705)*
+
 ### § 351d ASVG # Entscheidung des Dachverbandes
 
 `§ 351d (1) ASVG.`  

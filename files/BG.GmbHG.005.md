@@ -77,6 +77,8 @@ Eine Herabsetzung des Stammkapitals, die dazu dienen soll, einen sonst auszuweis
 `§ 59 (2) GmbHG.`  
 Die Beträge, die aus der Auflösung der Rücklagen und aus der Kapitalherabsetzung gewonnen werden, dürfen nicht zu Zahlungen an die Gesellschafter und nicht dazu verwendet werden, die Gesellschafter von der Verpflichtung zur Leistung von Einlagen zu befreien. Diese Beträge dürfen nur zur Abdeckung eines sonst auszuweisenden Bilanzverlustes und allenfalls zur Einstellung von Beträgen in die gebundene Kapitalrücklage verwendet werden; dies ist nur zulässig, soweit die Einstellung im Beschluß als Zweck der Herabsetzung angegeben ist.
 
+*(Beachte: Im Titel der BGBl. I Nr. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl. I Nr. 106/1997.)*
+
 ### § 60 GmbHG
 
 `§ 60 (1) GmbHG.`  
@@ -87,6 +89,8 @@ Sämtliche Beschlüsse sind unwirksam, wenn die Beschlüsse über die Herabsetzu
 
 `§ 60 (3) GmbHG.`  
 Die §§ 190 und 191 AktG sind sinngemäß anzuwenden.
+
+*(Beachte: Im Titel der BGBl. I Nr. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl. I Nr. 106/1997.)*
 
 ## II. Hauptstück. # Rechtsverhältnisse der Gesellschaft und der Gesellschafter. # Erster Abschnitt. # Rechtsverhältnisse der Gesellschaft.
 

@@ -153,10 +153,10 @@
 * [§ 71e UG # Zulassung zu an einer Universität besonders stark nachgefragten Masterstudien](BG.UG.010.md#-71e-ug--zulassung-zu-an-einer-universität-besonders-stark-nachgefragten-masterstudien)
 
 **4. Abschnitt # Beurteilung des Studienerfolgs und Zeugnisse**  
-* [§ 72 UG # Feststellung und Beurteilung des Studienerfolgs](BG.UG.010.md#-72-ug--feststellung-und-beurteilung-des-studienerfolgs)  
-* [§ 72a UG # Gesamtnote](BG.UG.010.md#-72a-ug--gesamtnote)  
-* [§ 73 UG # Nichtigerklärung von Beurteilungen](BG.UG.010.md#-73-ug--nichtigerklärung-von-beurteilungen)  
-* [§ 74 UG # Zeugnisse](BG.UG.010.md#-74-ug--zeugnisse)
+* [§ 72 UG # Feststellung und Beurteilung des Studienerfolgs](BG.UG.011.md#-72-ug--feststellung-und-beurteilung-des-studienerfolgs)  
+* [§ 72a UG # Gesamtnote](BG.UG.011.md#-72a-ug--gesamtnote)  
+* [§ 73 UG # Nichtigerklärung von Beurteilungen](BG.UG.011.md#-73-ug--nichtigerklärung-von-beurteilungen)  
+* [§ 74 UG # Zeugnisse](BG.UG.011.md#-74-ug--zeugnisse)
 
 **4a. Abschnitt # Zulassungs- und Ergänzungsprüfungen, Lehrveranstaltungen und Prüfungen**  
 * [§ 75 UG # Zulassungs- und Ergänzungsprüfungen](BG.UG.011.md#-75-ug--zulassungs--und-ergänzungsprüfungen)  

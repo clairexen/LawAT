@@ -37,6 +37,8 @@ Die Klassenzuweisung und die Lehrfächerverteilung sind der zuständigen Schulbe
 `§ 9 (5) SchUG.`  
 Bei Bildung von Schülergruppen und an ganztägigen Schulformen bei der Bildung von Gruppen im Betreuungsteil hat der Schulleiter die in Betracht kommenden Schüler in die einzelnen Gruppen einzuteilen (Gruppenbildung). Ferner hat der Schulleiter den einzelnen Schülergruppen unter sinngemäßer Anwendung der Abs. 2 und 3 die erforderlichen Lehrer, den einzelnen Gruppen im Betreuungsteil ganztägiger Schulformen die für die Lernzeiten und die Freizeit gemäß § 8 lit. j des Schulorganisationsgesetzes vorgesehenen Personen zuzuweisen. Die Zuweisung der Lehrer, Erzieher und Freizeitpädagogen an die einzelnen Gruppen ist der zuständigen Schulbehörde schriftlich zur Kenntnis zu bringen.
 
+*(Beachte: zum Bezugszeitraum vgl. § 82 Abs. 11 Z 3 und 7)*
+
 ### § 10 SchUG # Stundenplan
 
 `§ 10 (1) SchUG.`  
@@ -95,6 +97,8 @@ Soweit Lehrpläne Pflichtpraktika oder Praktika außerhalb des schulischen Unter
 
 `§ 11 (10) SchUG.`  
 Macht ein Schüler glaubhaft, daß er ein vorgeschriebenes Pflichtpraktikum oder Praktikum nicht zurücklegen kann, weil keine derartige Praxismöglichkeit bestand, oder weist er nach, daß er an der Zurücklegung aus unvorhersehbaren oder unabwendbaren Gründen verhindert war, so entfällt für ihn die Verpflichtung zur Zurücklegung des Pflichtpraktikums bzw. Praktikums. Dies gilt nicht für die Höhere Lehranstalt für Pflege und Sozialbetreuung.
+
+*(Beachte: Abs. 6b: Tritt hinsichtlich der 10. Schulstufen von zumindest dreijährigen mittleren und höheren Schulen mit 1. September 2017 und hinsichtlich der weiteren Schulstufen dieser Schularten jeweils mit 1. September der Folgejahre schulstufenweise aufsteigend in Kraft (vgl. § 82 Abs. 5s Z 6).)*
 
 ### § 12 SchUG # Freigegenstände, unverbindliche Übungen und Förderunterricht
 

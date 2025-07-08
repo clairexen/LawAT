@@ -134,6 +134,8 @@ An den Medizinischen Universitäten bzw. an den Universitäten, an denen eine Me
 `§ 52 (3) UG.`  
 An den Medizinischen Universitäten kann der Senat nähere Bestimmungen über Beginn und Ende des Zahnmedizinisch-Klinischen Praktikums im Rahmen des Studiums der Zahnmedizin (§ 35b) erlassen, wobei während der Dauer des Zahnmedizinisch-Klinischen Praktikums keine lehrveranstaltungsfreie Zeit möglich ist.
 
+*(Beachte: Zu Abs. 1: ist in dieser Fassung ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme-, Eignungs- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden (vgl. § 143 Abs. 76).)*
+
 ### § 53 UG # Aufbewahrung von universitätsspezifischen Daten
 
 `§ 53 UG.`  

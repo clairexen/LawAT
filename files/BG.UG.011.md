@@ -12,6 +12,92 @@
 
 *(Fortsetzg. v. [BG.UG.010](BG.UG.010.md))*
 
+## 4. Abschnitt # Beurteilung des Studienerfolgs und Zeugnisse
+
+### § 72 UG # Feststellung und Beurteilung des Studienerfolgs
+
+`§ 72 (1) UG.`  
+Der Studienerfolg ist durch die Prüfungen und die Beurteilung der wissenschaftlichen (Diplomarbeit, Masterarbeit oder Dissertation) oder der künstlerischen Arbeit (künstlerische Diplom-, Masterarbeit oder Dissertation) festzustellen.
+
+`§ 72 (2) UG.`  
+Der positive Erfolg von Prüfungen und wissenschaftlichen sowie künstlerischen Arbeiten ist mit „sehr gut“ (1), „gut“ (2), „befriedigend“ (3) oder „genügend“ (4), der negative Erfolg ist mit „nicht genügend“ (5) zu beurteilen. Zwischenbeurteilungen sind unzulässig. Wenn diese Form der Beurteilung unmöglich oder unzweckmäßig ist, hat die positive Beurteilung „mit Erfolg teilgenommen“, die negative Beurteilung „ohne Erfolg teilgenommen“ zu lauten.
+
+`§ 72 (3) UG.`  
+Prüfungen, die aus mehreren Fächern oder Teilen bestehen, sind nur dann positiv zu beurteilen, wenn jedes Fach oder jeder Teil positiv beurteilt wurde.
+
+`§ 72 (4) UG.`  
+Die Beurteilung der Praktika im Rahmen der pädagogisch-praktischen Studien erfolgt durch die Lehrveranstaltungsleiterin oder den Lehrveranstaltungsleiter auf der Grundlage der schriftlichen Leistungsbeschreibung der Praxislehrerin oder des Praxislehrers oder der Mentorin oder des Mentors. Führt die schriftliche Leistungsbeschreibung voraussichtlich zu einer negativen Beurteilung, hat die oder der Studierende das Recht, eine schriftliche Stellungnahme abzugeben. § 46 Abs. 1 bis 4 sowie § 214 des Beamten-Dienstrechtsgesetzes 1979, BGBl. Nr. 333/1979, gilt für Studierende hinsichtlich im Curriculum verankerter Praktika an Schulen sinngemäß, wobei an die Stelle der Beamtin oder des Beamten bzw. der Lehrerin oder des Lehrers die oder der Studierende tritt und an die Stelle der Dienstbehörde die zuständige Schulbehörde.
+
+### § 72a UG # Gesamtnote
+
+`§ 72a (1) UG.`  
+Auf Antrag der Absolventin oder des Absolventen eines ordentlichen Studiums ist, sofern eine Gesamtnote in Form eines Notendurchschnittes vorzuweisen ist, eine nach ECTS-Anrechnungspunkten gewichtete Gesamtnote zu berechnen und auf zwei Kommastellen gerundet darzustellen, wobei aufzurunden ist, wenn die Tausendstelstelle mindestens den Wert 5 hat.
+
+`§ 72a (2) UG.`  
+Abweichend von Abs. 1 ist die Gesamtnote gemäß Z 13 des Notenwechsels zwischen der Regierung der Republik Österreich und der Italienischen Republik über die gegenseitige Anerkennung akademischer Grade und Titel samt Anlage, BGBl. III Nr. 45/2001, sowie gemäß Z 12 des Abkommens zwischen der Regierung der Republik Österreich und der Regierung der Italienischen Republik über die gegenseitige Anerkennung akademischer Grade und Titel, BGBl. III Nr. 177/2008, zu ermitteln, indem  
+`§ 72a (2) Z 1 UG.`
+die Noten aller für das betreffende Studium vorgeschriebenen Prüfungsfächer und gegebenenfalls Bachelorarbeiten sowie die Note der Diplomarbeit bzw. der Masterarbeit addiert werden,  
+`§ 72a (2) Z 2 UG.`
+der gemäß Z 1 errechnete Wert durch die Anzahl der Prüfungsfächer, im Fall eines Diplom- oder Masterstudiums vermehrt um die Zahl 1, dividiert wird sowie  
+`§ 72a (2) Z 3 UG.`
+das Ergebnis der Division auf zwei Kommastellen gerundet wird, wobei aufzurunden ist, wenn die Tausendstelstelle mindestens den Wert 5 hat.
+
+*(Beachte: Ist ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme-, Eignungs- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden (vgl. § 143 Abs. 76).)*
+
+### § 73 UG # Nichtigerklärung von Beurteilungen
+
+`§ 73 (1) UG.`  
+Das für die studienrechtlichen Angelegenheiten zuständige Organ hat die Beurteilung mit Bescheid für nichtig zu erklären, wenn  
+`§ 73 (1) Z 1 UG.`
+bei einer Prüfung die Anmeldung zu dieser Prüfung erschlichen wurde oder  
+`§ 73 (1) Z 2 UG.`
+bei einer Prüfung oder einer wissenschaftlichen oder künstlerischen Arbeit die Beurteilung, insbesondere durch schwerwiegendes wissenschaftliches oder künstlerisches Fehlverhalten im Sinne des § 2a Abs. 3 Z 2 bis 5 HS-QSG, erschlichen wurde.
+
+`§ 73 (2) UG.`  
+Die Prüfung, deren Beurteilung für nichtig erklärt wurde, ist auf die Gesamtzahl der Wiederholungen anzurechnen.
+
+`§ 73 (3) UG.`  
+Prüfungen, die außerhalb des Wirkungsbereiches einer Fortsetzungsmeldung abgelegt wurden, und Beurteilungen wissenschaftlicher sowie künstlerischer Arbeiten, die außerhalb des Wirkungsbereiches einer Fortsetzungsmeldung erfolgten, sind absolut nichtig. Eine Anrechnung auf die Gesamtzahl der Wiederholungen erfolgt nicht.
+
+### § 74 UG # Zeugnisse
+
+`§ 74 (1) UG.`  
+Die Beurteilung von Prüfungen und wissenschaftlichen sowie künstlerischen Arbeiten ist jeweils durch ein Zeugnis zu beurkunden. Sammelzeugnisse sind zulässig.
+
+`§ 74 (2) UG.`  
+Die Zeugnisse sind vom Senat festzulegen und haben jedenfalls folgende Angaben zu enthalten:  
+`§ 74 (2) Z 1 UG.`
+die ausstellende Universität und die Bezeichnung des Zeugnisses;  
+`§ 74 (2) Z 2 UG.`
+die Matrikelnummer;  
+`§ 74 (2) Z 3 UG.`
+den Familiennamen und die Vornamen;  
+`§ 74 (2) Z 4 UG.`
+das Geburtsdatum;  
+`§ 74 (2) Z 5 UG.`
+die Bezeichnung des Studiums;  
+`§ 74 (2) Z 6 UG.`
+die Bezeichnung der Prüfung oder das Fach und die erfolgte Beurteilung sowie die ECTS-Anrechnungspunkte;  
+`§ 74 (2) Z 7 UG.`
+das Thema der wissenschaftlichen oder künstlerischen Arbeiten und die Beurteilung sowie die ECTS-Anrechnungspunkte;  
+`§ 74 (2) Z 8 UG.`
+den Namen der Prüferin oder des Prüfers, das Prüfungsdatum und die Beurteilung;  
+`§ 74 (2) Z 9 UG.`
+den Namen der Ausstellerin oder des Ausstellers.
+
+`§ 74 (3) UG.`  
+Zeugnisse über Prüfungen vor Einzelprüferinnen oder Einzelprüfern hat die Prüferin oder der Prüfer, Zeugnisse über die Beurteilung wissenschaftlicher sowie künstlerischer Arbeiten hat die Beurteilerin oder der Beurteiler, Zeugnisse über kommissionelle Prüfungen hat die oder der Vorsitzende der Prüfungskommission, Zeugnisse über Studienabschlüsse hat das für die studienrechtlichen Angelegenheiten zuständige Organ auszustellen.
+
+`§ 74 (4) UG.`  
+Die Zeugnisse sind unverzüglich, längstens jedoch innerhalb von vier Wochen nach Erbringung der zu beurteilenden Leistung auszustellen. Zur Unterstützung der internationalen Mobilität der Studierenden ist der Anschluss einer fremdsprachigen Übersetzung zulässig, wobei die Benennung der Universität und des ausstellenden Organs nicht zu übersetzen sind.
+*(Anm.: Abs. 5 aufgehoben durch Art. 1 Z 115,* *BGBl. I Nr. 93/2021)*
+
+`§ 74 (6) UG.`  
+Die Universität hat einer oder einem ausländischen Studierenden ab dem zweiten Studienjahr auf Antrag der oder des Studierenden einen Studienerfolgsnachweis auszustellen, sofern sie oder er im vorausgegangenen Studienjahr positiv beurteilte Prüfungen im Umfang von mindestens 16 ECTS-Anrechnungspunkten oder 8 Semesterwochenstunden abgelegt hat.
+
+`§ 74 (7) UG.`  
+Erfolgreich absolvierte Studien gemäß § 58 Abs. 11 sind im studienabschließenden Zeugnis durch einen Hinweis auf die mit Bescheid modifizierten Anforderungen zu kennzeichnen.
+
 ## 4a. Abschnitt # Zulassungs- und Ergänzungsprüfungen, Lehrveranstaltungen und Prüfungen
 
 ### § 75 UG # Zulassungs- und Ergänzungsprüfungen
@@ -42,6 +128,8 @@ Sollten sich die gemäß Abs. 2 und 3 bekannt gegebene Form, die Termine, die M
 `§ 76 (5) UG.`  
 In den pädagogisch-praktischen Studien ist ein aufbauender Kompetenzerwerb vorzusehen, bei dem die Eigenverantwortlichkeit sowie die Selbständigkeit durch Studierende im Unterricht steigernd erhöht wird und schließlich ein gänzlich eigenverantwortlicher Unterricht durch Studierende zu erfolgen hat. Die Praktika der pädagogisch-praktischen Studien sind zum überwiegenden Teil im Rahmen des Unterrichts an Schulen durchzuführen, wobei nach Verfügbarkeit und Schwerpunkt die Absolvierung an verschiedenen Schularten desselben Altersbereichs zu ermöglichen ist.
 
+*(Beachte: Ist für Lehrveranstaltungen und Prüfungen ab dem Wintersemester 2021/22 anzuwenden (vgl. § 143 Abs. 80).)*
+
 ### § 76a UG # Sondervorschrift für die Durchführung von Prüfungen mit Mitteln der elektronischen Kommunikation
 
 `§ 76a UG.`  
@@ -52,6 +140,8 @@ Bekanntgabe der Standards vor dem Beginn des Semesters, die die technischen Ger�
 Zur Gewährleistung der eigenständigen Erbringung der Prüfungsleistung durch die Studierende oder den Studierenden sind technische oder organisatorische Maßnahmen vorzusehen.  
 `§ 76a Z 3 UG.`
 Bei technischen Problemen, die ohne Verschulden der oder des Studierenden auftreten, ist die Prüfung abzubrechen und nicht auf die zulässige Zahl der Prüfungsantritte anzurechnen.
+
+*(Beachte: Ist für Lehrveranstaltungen und Prüfungen ab dem Wintersemester 2021/22 anzuwenden (vgl. § 143 Abs. 80).)*
 
 ### § 77 UG # Wiederholung von Prüfungen
 
@@ -69,6 +159,8 @@ Die Studierenden sind berechtigt, im Curriculum gekennzeichnete Praktika im Rahm
 
 `§ 77 (5) UG.`  
 Die Festlegung von Fristen und die Verpflichtung zur Ablegung von Lehrveranstaltungsprüfungen als Voraussetzung für die Wiederholung von Prüfungen sind unzulässig.
+
+*(Beachte: Zu Abs. 2 letzter Satz, Abs. 3 und 4: sind ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme-, Eignungs- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden (vgl. § 143 Abs. 76).)*
 
 ### § 78 UG # Anerkennung von Prüfungen, anderen Studienleistungen, Tätigkeiten und Kompetenzen
 
@@ -182,6 +274,8 @@ Im Doktoratsstudium und im kombinierten Master- und Doktoratsstudium ist eine wi
 
 `§ 83 (2) UG.`  
 § 80 Abs. 2 und § 81 Abs. 3 gelten auch für Dissertationen und künstlerische Dissertationen.
+
+*(Beachte: Zu Abs. 1 erster Satz: ist ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme-, Eignungs- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden (vgl. § 143 Abs. 76).)*
 
 ### § 84 UG # Einsicht in die Beurteilungsunterlagen
 

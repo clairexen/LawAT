@@ -71,6 +71,8 @@ wenn die Semesterzeugnisse der betreffenden Schulstufe in den Pflichtgegenständ
 `§ 25 (11) SchUG.`  
 An Schulen, an denen die semestrierte Oberstufe geführt wird und eine Festlegung nach § 36a Abs. 1a getroffen wurde, sind Schülerinnen und Schüler abweichend von Abs. 10 dann zum Aufsteigen in die nächsthöhere Schulstufe berechtigt, wenn die Semesterzeugnisse über das Winter- und das Sommersemester der betreffenden Schulstufe oder der vorangegangenen Schulstufe (§ 22b Abs. 2) in den Pflichtgegenständen je Pflichtgegenstand nicht mehr als eine Nichtbeurteilung oder eine Beurteilung mit „Nicht genügend“ und insgesamt höchstens zwei Nichtbeurteilungen oder Beurteilungen mit „Nicht genügend“ aufweisen.
 
+*(Beachte: Abs. 10 tritt ab der 10. Schulstufe schulstufenweise aufsteigend in Kraft (vgl. § 82 Abs. 18 Z 1).)*
+
 ### § 26 SchUG # Begabungsförderung – Überspringen von Schulstufen
 
 `§ 26 (1) SchUG.`  
@@ -133,6 +135,8 @@ Wenn ein Schüler im Falle der Wiederholung der Schulstufe die nach § 32 zulä
 `§ 27 (4) SchUG.`  
 Erfolgreich abgeschlossene Pflichtgegenstände, die Prüfungsgebiet einer verpflichtend vorgesehenen Vorprüfung waren, sind im Rahmen einer allfälligen Wiederholung der Schulstufe grundsätzlich nicht zu besuchen. Im Ausmaß der dadurch entfallenen Unterrichtsstunden ist der Schüler mit Zustimmung des Schulleiters jedoch berechtigt, den Unterricht im betreffenden Unterrichtsgegenstand oder in anderen Unterrichtsgegenständen der betreffenden Schulstufe zu besuchen, sofern dadurch keine Klassenteilung erforderlich ist. Die im Rahmen des Unterrichtes im Sinne des zweiten Satzes erbrachten Leistungen sind nicht zu beurteilen.
 
+*(Beachte: Abs. 2 vorletzter und letzter Satz und Abs. 2a treten für die 10. und die 11. Schulstufe mit 1. September 2022 und hinsichtlich der weiteren Schulstufen jeweils mit 1. September der Folgejahre schulstufenweise aufsteigend in Kraft (vgl. § 82 Abs. 21 Z 5).)*
+
 ### § 28 SchUG # Aufnahme in die 1. Stufe einer Mittelschule, einer mittleren oder einer höheren Schule
 
 `§ 28 (1) SchUG.`  
@@ -193,6 +197,8 @@ Für die Aufnahme in eine Sonderschule nach dem Besuch einer Volksschule oder ei
 
 `§ 29 (8) SchUG.`  
 Der Übertritt in die Polytechnische Schule aus einer mittleren oder höheren Schule ist während des Schuljahres nur bis zum 31. Dezember zulässig.
+
+*(Beachte: Abs. 2a und Abs. 3 treten für die 10. und die 11. Schulstufe mit 1. September 2022 und hinsichtlich der weiteren Schulstufen jeweils mit 1. September der Folgejahre schulstufenweise aufsteigend in Kraft (vgl. § 82 Abs. 21 Z 5).)*
 
 ### § 30 SchUG # Wechsel von der semestrierten Oberstufe
 

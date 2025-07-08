@@ -130,6 +130,8 @@ Von sonstigen wiederkehrenden Vergütungen für Arbeitsleistungen aller Art, die
 `§ 291f (2) EO.`  
 Auf Antrag des Verpflichteten ist der unpfändbare Betrag nach Abs. 1 zu erhöhen, soweit er die unpfändbaren Grundbeträge von einem anderen Bezug nicht erhalten hat.
 
+*(Beachte: zum Bezugszeitraum vgl. § 502 Abs. 3)*
+
 ### § 292 EO # Zusammenrechnung – Sachleistungen
 
 `§ 292 (1) EO.`  
@@ -299,6 +301,8 @@ In den Verfahren nach Abs. 4 kann der betreibende Gläubiger vom Verpflichteten
 
 `§ 292g (6) EO.`  
 Wird einem betreibenden Gläubiger nach Erlassen eines Beschlusses nach Abs. 4 die Exekution bewilligt, so gilt der Beschluss auch für ihn. Dem betreibenden Gläubiger ist der Beschluss zuzustellen; er kann auf dessen Antrag geändert werden.
+
+*(Beachte: zum Bezugszeitraum vgl. § 502 Abs. 3)*
 
 ### § 292h EO # Kosten des Drittschuldners für die Berechnung
 

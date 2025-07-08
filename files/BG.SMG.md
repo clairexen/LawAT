@@ -758,6 +758,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Soweit personenbezogene Daten zu wissenschaftlichen oder historischen Forschungszwecken oder statistischen Zwecken verarbeitet werden, kommen dem Betroffenen, vorbehaltlich der Bedingungen und Garantien gemäß Art\. 89 Abs\. 1, die Rechte gemäß Art\. 15, 16, 18 und 21 DSGVO nicht zu\.
 
+> *\(Beachte: Abs\. 2 darf auf Personen angewendet werden, die im Jahr 2002 oder später verstorben sind \(vgl\. § 47 Abs\. 18\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SMG.md#-24d-smg--datenverarbeitung-für-statistische-und-wissenschaftliche-untersuchungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011040&Paragraf=24d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011040#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SMG.003.md#-24d-smg--datenverarbeitung-für-statistische-und-wissenschaftliche-untersuchungen) \]
 
 ----

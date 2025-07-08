@@ -45,6 +45,8 @@ Der zuständige Bundesminister hat für die betreffenden Schularten (Schulformen
 `§ 34 (5) SchUG.`  
 An allgemein bildenden höheren Schulen kann bis einschließlich des Schuljahres 2028/29 anstelle der abschließenden Arbeit gemäß Abs. 3 Z 1 lit. b eine weitere Klausurarbeit gemäß Abs. 3 Z 2 oder eine weitere mündliche Teilprüfung gemäß Abs. 3 Z 3 abgelegt werden. Die Anmeldezahlen sind an die Schulbehörden zu melden.
 
+*(Beachte: Abs. 3 Z 1, Abs. 4 und Abs. 5 finden auf abschließende Prüfungen ab dem Haupttermin 2026 Anwendung (vgl. § 82 Abs. 26 Z 2))*
+
 ### § 35 SchUG # Prüfungskommission
 
 `§ 35 (1) SchUG.`  
@@ -189,6 +191,8 @@ Während der Erstellung der abschließenden Arbeit gemäß § 34 Abs. 3 Z 1 i
 `§ 37 (5) SchUG.`  
 Die mündliche Prüfung sowie die Präsentation und Diskussion im Rahmen der abschließenden Arbeit sind öffentlich vor der jeweiligen Prüfungskommission abzuhalten. Dem Vorsitzenden obliegt die Leitung der Prüfung. Der Schulleiter hat einen Schriftführer mit der Anfertigung eines Prüfungsprotokolls zu betrauen.
 
+*(Beachte: Findet auf abschließende Prüfungen mit Haupttermin ab dem Schuljahr 2022/23 Anwendung (vgl. § 82 Abs. 19 Z 2).)*
+
 ### § 38 SchUG # Beurteilung der Leistungen bei der Prüfung
 
 `§ 38 (1) SchUG.`  
@@ -216,6 +220,8 @@ Die Beurteilungen gemäß Abs. 1 bis 5 haben unter Anwendung des § 18 Abs. 2
 „bestanden“, wenn kein Prüfungsgebiet mit „Nicht genügend“ beurteilt wird und die Voraussetzungen nach Z 1 und 2 nicht gegeben sind;  
 `§ 38 (6) Z 4 SchUG.`
 „nicht bestanden“, wenn die Leistungen in einem oder mehreren Prüfungsgebieten nicht oder mit „Nicht genügend“ beurteilt werden.
+
+*(Beachte: Findet auf abschließende Prüfungen mit Haupttermin ab dem Schuljahr 2022/23 Anwendung (vgl. § 82 Abs. 19 Z 2).)*
 
 ### § 39 SchUG # Prüfungszeugnisse
 
@@ -246,6 +252,8 @@ Ort und Datum der Ausstellung, Unterschrift des Vorsitzenden der Prüfungskommis
 `§ 39 (3) SchUG.`  
 Der zuständige Bundesminister hat durch Verordnung die näheren Bestimmungen über die Gestaltung der Zeugnisformulare zu treffen.
 
+*(Beachte: Abs. 2 Z 9 ist nach Maßgabe der technischen Möglichkeiten anzuwenden (vgl. § 82 Abs. 26))*
+
 ### § 40 SchUG # Wiederholung von Teilprüfungen bzw. von Prüfungsgebieten
 
 `§ 40 (1) SchUG.`  
@@ -260,6 +268,8 @@ Die Wiederholung von Teilprüfungen der Vorprüfung bzw. von nicht standardisier
 `§ 40 (4) SchUG.`  
 Der Schulleiter hat aufgrund eines bis spätestens vier Wochen vor dem gemäß § 36 Abs. 4 verordneten Prüfungstermin zu stellenden Antrages des Prüfungskandidaten diesem unter Bedachtnahme auf die gemäß § 36 Abs. 4 festgelegten Termine einen konkreten Prüfungstermin für die Wiederholung der Prüfung zuzuweisen.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 82 Abs. 5p Z 2 und § 82b.)*
+
 ### § 41 SchUG # Zusatzprüfungen
 
 `§ 41 (1) SchUG.`  
@@ -270,6 +280,8 @@ Personen, die eine Reifeprüfung, eine Reife- und Diplomprüfung oder eine Reife
 
 `§ 41 (3) SchUG.`  
 Die §§ 35 bis 40 finden auf die Zusatzprüfungen zur Reifeprüfung sinngemäß Anwendung.
+
+*(Beachte: Zum Bezugszeitraum vgl. § 82 Abs. 5p Z 2 und § 82b.)*
 
 ### § 42 SchUG # Externistenprüfungen
 

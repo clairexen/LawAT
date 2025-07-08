@@ -426,6 +426,8 @@ Gewerbetreibende, die zur Ausübung des Fremdenführergewerbes berechtigt sind, 
 `§ 108 (8) GewO.`  
 Abweichend von § 62 Abs. 4 zweiter Satz ist die Ausstellung der Gewerbelegitimation zu versagen, wenn gegen den Arbeitnehmer eine dem § 13 Abs. 1 entsprechende strafgerichtliche Verurteilung vorliegt und nach der Eigenart der strafbaren Handlung und der Persönlichkeit des Verurteilten die Begehung der gleichen oder einer ähnlichen Straftat bei der Ausübung der im § 108 Abs. 1 genannten Tätigkeiten zu befürchten ist.
 
+*(Beachte: Abs. 4, 6, 7 und 8: zum Inkrafttreten vgl. § 382 Abs. 105)*
+
 ### § 109 GewO # Friseur und Perückenmacher (Stylist), Fußpflege, Kosmetik (Schönheitspflege)
 
 `§ 109 (1) GewO.`  
@@ -942,6 +944,8 @@ Betriebsfeuerwehrdienste und Betriebslöschtruppdienste.
 `§ 129 (6) GewO.`  
 Der Gebrauch einer einheitlichen Berufskleidung bei Ausübung des Bewachungsgewerbes bedarf der Genehmigung des Bundesministers für Wirtschaft und Arbeit. Diese ist zu erteilen, wenn eine Verwechslung mit Uniformen des öffentlichen Sicherheitsdienstes, der Zollverwaltung, der Justizwache und des Bundesheeres nicht zu befürchten ist. Jedenfalls müssen auf allen Bekleidungsteilen, welche als Oberbekleidung Verwendung finden, deutlich erkennbare Bezeichnungen im Sinne der §§ 63 ff angebracht sein. Die Genehmigung ist vom Bundesminister für Wirtschaft und Arbeit zu widerrufen, wenn auf Grund von Änderungen der Uniformen des öffentlichen Sicherheitsdienstes, der Zollverwaltung, der Justizwache oder des Bundesheeres eine Verwechslung der genehmigten Berufskleidung mit den neuen Uniformen der genannten staatlichen Organe nicht ausgeschlossen werden kann.
 
+*(Beachte: Abs. 3: zum Inkrafttreten vgl. § 382 Abs. 105)*
+
 ### § 130 GewO # Rechte und Pflichten der Berufsdetektive und Bewacher
 
 `§ 130 (1) GewO.`  
@@ -973,6 +977,8 @@ Die im Abs. 8 genannten Gewerbetreibenden sind verpflichtet, der Bezirksverwalt
 
 `§ 130 (10) GewO.`  
 Ist auf Grund bestimmter Tatsachen die Zuverlässigkeit einer gemäß Abs. 9 bekannt gegebenen Person nicht gegeben, so hat die Sicherheitsbehörde dem Gewerbetreibenden ohne unnötigen Aufschub schriftlich mitzuteilen, dass der Betroffene die erforderliche Zuverlässigkeit nicht besitzt.
+
+*(Beachte: Abs. 6 und 7: zum Inkrafttreten vgl. § 382 Abs. 105)*
 
 ### § 131 GewO # Spediteure einschließlich der Transportagenten
 

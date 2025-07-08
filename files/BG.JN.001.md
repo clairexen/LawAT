@@ -93,6 +93,8 @@ In welcher Art die Gerichtsbarkeit in bürgerlichen Rechtssachen bei dem Oberste
 `§ 8a JN.`  
 Bei den Landes- und Handelsgerichten sowie den Oberlandesgerichten entscheidet über Rechtsmittel gegen Entscheidungen über die Gebühren der Sachverständigen und Dolmetscher der Einzelrichter.
 
+*(Beachte: Ist anzuwenden, wenn das Datum der Entscheidung erster Instanz nach dem 30. April 2011 liegt (vgl. Art. 39 Abs. 8, BGBl. I Nr. 111/2010).)*
+
 ## Berathung und Abstimmung.
 
 ### § 9 JN
@@ -171,6 +173,8 @@ Auf Rechtsverletzungen nach den Bestimmungen des Gesetzes vom 12. Juli 1872, R.
 
 `§ 16 (3) JN.`  
 An Stelle der in anderen Gesetzen enthaltenen Hinweise auf das Gesetz vom 12. Juli 1872, R. G. Bl. Nr. 112, treten die entsprechenden Bestimmungen dieses Bundesgesetzes.
+
+*(Beachte: Die Aufhebung des § 80 JN durch § 15 BGBl. Nr. 20/1949.)*
 
 ### § 17 JN
 
@@ -319,6 +323,8 @@ Sind für eine bürgerliche Rechtssache die Voraussetzungen für die örtliche Z
 `§ 27a (2) JN.`  
 Der Abs. 1 gilt nicht, soweit nach Völkerrecht zur Gänze oder zum Teil ausdrücklich anderes bestimmt ist.
 
+*(Beachte: Nach Art. XXXII Z 8 WGN 1997, BGBl. I Nr. 140/1997, ist die Neufassung auf Verfahren anzuwenden, in denen die Klagen oder verfahrenseinleitenden Anträge bei Gericht nach dem 31. Dezember 1997 angebracht werden.)*
+
 ### § 28 JN # Bestimmung der Zuständigkeit durch den Obersten Gerichtshof
 
 `§ 28 (1) JN.`  
@@ -339,12 +345,16 @@ Der Abs. 1 Z 2 und 3 sowie der Abs. 2 sind nicht anzuwenden, soweit nach Völ
 `§ 28 (4) JN.`  
 Die Bestimmung eines zuständigen Gerichts hat in streitigen bürgerlichen Rechtssachen auf Antrag einer Partei, sonst aber von Amts wegen zu geschehen. In streitigen bürgerlichen Rechtssachen hat der Kläger das Vorliegen der Voraussetzungen nach Abs. 1 Z 2 oder 3 zu behaupten und zu bescheinigen.
 
+*(Beachte: Nach Art. XXXII Z 8 WGN 1997, BGBl. I Nr. 140/1997, ist die Neufassung auf Verfahren anzuwenden, in denen die Klagen oder verfahrenseinleitenden Anträge bei Gericht nach dem 31. Dezember 1997 angebracht werden.)*
+
 ## Dauer der Zuständigkeit.
 
 ### § 29 JN
 
 `§ 29 JN.`  
 Jedes Gericht bleibt in Rechtssachen, welche rechtmäßigerweise bei demselben anhängig gemacht wurden, bis zu deren Beendigung zuständig, wenn sich auch die Umstände, welche bei Einleitung des Verfahrens für die Bestimmung der Zuständigkeit maßgebend waren, während des Verfahrens geändert hätten. Dies gilt jedoch nicht von solchen Änderungen, auf Grund derer Personen Immunität genießen oder die Rechtssache dem Wirkungskreis der ordentlichen Gerichte entzogen ist.
+
+*(Beachte: Nach Art. XXXII Z 8 WGN 1997, BGBl. I Nr. 140/1997, ist die Neufassung des zweiten Satzes auf Verfahren anzuwenden, in denen die Klagen oder verfahrenseinleitenden Anträge bei Gericht nach dem 31. Dezember 1997 angebracht werden.)*
 
 ## Delegation.
 
@@ -389,27 +399,11 @@ Zur Ausführung der gerichtlichen Verfügungen, die Personen betreffen, die Immu
 `§ 32 (4) JN.`  
 Das gilt auch, wenn gerichtliche Amtshandlungen gegen Personen, die der inländischen Gerichtsbarkeit unterliegen, in den Wohnungen von Personen vorzunehmen sind, die Immunität genießen.
 
+*(Beachte: Nach Art. XXXII Z 8 WGN 1997, BGBl. I Nr. 140/1997, ist die Neufassung der Abs. 3 und 4 auf Verfahren anzuwenden, in denen die Klagen oder verfahrenseinleitenden Anträge bei Gericht nach dem 31. Dezember 1997 angebracht werden.)*
+
 ### § 33 JN
 
 `§ 33 JN.`  
 Ein Gericht darf zur Vornahme der Amtshandlung die Grenzen seines Sprengels überschreiten, wenn Gefahr im Verzug ist, wenn eine Amtshandlung an der Grenze des Gerichtssprengels stattfinden soll oder wenn dies zur Sicherung der Unmittelbarkeit der Beweisaufnahme unter Bedachtnahme auf die Raschheit und die Sparsamkeit der Verfahrensführung geboten ist. Das Gericht, in dessen Sprengel eine solche Amtshandlung vollzogen wird, ist hievon zu verständigen.
-
-## Übertragung einzelner Geschäfte an den Vorsitzenden oder an einen beauftragten Richter
-
-### § 34 JN
-
-`§ 34 (1) JN.`  
-Die Vornahme gerichtlicher Handlungen durch den Präsidenten des Gerichtshofes oder durch den Vorsitzenden des Senates, welchem eine Rechtssache zur Verhandlung oder Entscheidung zugewiesen ist, oder die Übertragung gerichtlicher Handlungen an ein einzelnes Mitglied dieses Senates oder des zuständigen Gerichtshofes (beauftragter Richter) ist nur in den gesetzlich bestimmten und in den durch die Vorschriften über die innere Einrichtung und Geschäftsordnung der Gerichte bezeichneten Fällen zulässig.
-
-`§ 34 (2) JN.`  
-Die Übertragung gerichtlicher Handlungen an ein Mitglied des Senates oder des zuständigen Gerichtshofes steht, wenn nicht durch die hierauf bezüglichen Vorschriften etwas anderes angeordnet oder insbesondere der Vorsitzende hiezu ermächtigt ist, nur dem zur Verhandlung und Entscheidung der Rechtssache berufenen Senate zu.
-
-### § 35 JN
-
-`§ 35 (1) JN.`  
-Richterliche Amtshandlungen, welche außerhalb einer mündlichen Verhandlung oder außerhalb einer Sitzung vorzunehmen sind, ohne dass die Bedingungen für ein deshalb an ein anderes Gericht zu stellendes Ersuchen vorhanden wären, sind im Verfahren vor Gerichtshöfen einem beauftragten Richter zu übertragen.
-
-`§ 35 (2) JN.`  
-Beschlüsse eines beauftragten Richters können, sofern im Gesetze nichts anderes bestimmt ist, von dem Gerichte, welches den Auftrag ertheilt hat, auf Antrag oder von amtswegen abgeändert werden. Vor der Entscheidung sind die zur Aufklärung des Sachverhaltes erforderlichen Erhebungen zu pflegen.
 
 `END-OF-DATA-FILE` *(fortges. in [BG.JN.002](BG.JN.002.md))*

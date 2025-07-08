@@ -613,6 +613,8 @@
 
 > `(11)` Im Rahmen der Prüfung neuartiger serienmäßig hergestellter Aufstallungssysteme und neuartiger technischer Ausrüstungen für Tierhaltungen dürfen gemäß dem TSchG nicht erlaubte Einrichtungen und Anlagen verwendet werden, soweit es zur Prüfung im Einzelfall notwendig ist und sichergestellt ist, dass die Tiere entsprechend überwacht werden und die Prüfung abgebrochen wird, wenn das Wohlbefinden der Tiere beeinträchtigt wird\.
 
+> *\(Beachte: Abs\. 2a tritt mit 1\.1\.2023 für alle ab diesem Datum baurechtlich bewilligten neu gebauten oder umgebauten Anlagen in Kraft\. Für alle sonstigen, den bis dahin geltenden tierschutzrechtlichen Bestimmungen entsprechenden bestehenden Haltungseinrichtungen, die zum Zeitpunkt des Inkrafttretens des BGBl\. I Nr\. 130/2022 bestehen, tritt Abs\. 2a mit 1\.6\.2034 in Kraft \(vgl\. § 44 Abs\. 30 idF BGBl\. I Nr\. 21/2025\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-18-tschg--bauliche-ausstattung-und-haltungsvorrichtungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=18) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-18-tschg--bauliche-ausstattung-und-haltungsvorrichtungen) \]
 
 ----

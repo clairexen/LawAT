@@ -184,6 +184,8 @@ Die §§ 12, 12a und 13 in der Fassung des Bundesgesetzes BGBl. I Nr. 8/2018 
 `§ 141 (7) UG.`  
 Die der Bundesimmobiliengesellschaft m.b.H. gegenüber den Universitäten insgesamt aufgrund von vertraglichen Vereinbarungen zustehenden Mietforderungen reduzieren sich für die Jahre 2018 bis 2021 um 17.391.000 Euro jährlich. Der gemäß § 12 Abs. 2 festgelegte Gesamtbetrag für die Leistungsvereinbarungsperiode 2016 bis 2018 sowie der gemäß § 141b festgelegte Gesamtbetrag für die Leistungsvereinbarungsperiode 2019 bis 2021 verringern sich im gleichen Ausmaß. Das Rektorat ist verpflichtet, ein Angebot der Bundesimmobiliengesellschaft m.b.H. zur Reduktion der der Bundesimmobiliengesellschaft m.b.H. vertraglich zustehenden Mietforderungen auch unter allfälligen Bedingungen anzunehmen, sofern diese für die Universität wirtschaftlich vertretbar sind. Das zwischen der Bundesministerin oder dem Bundesminister und einer Universität in der Leistungsvereinbarung für die Periode 2016 bis 2018 vereinbarte Globalbudget der Universität verringert sich in jenem Ausmaß, in dem die Bundesimmobiliengesellschaft m.b.H. die ihr gegenüber dieser Universität aufgrund vertraglicher Vereinbarung zustehenden Mietforderungen für das Jahr 2018 reduziert.
 
+*(Beachte: zum Bezugszeitraum vgl. § 143 Abs. 49)*
+
 ## 6a. Abschnitt # Zukünftige kapazitätsorientierte, studierendenbezogene Universitätsfinanzierung
 
 ### § 141b UG # Leistungsvereinbarungen für den Zeitraum 2019 bis 2021

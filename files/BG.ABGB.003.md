@@ -158,6 +158,8 @@ Die Eltern können weiters dem Gericht – auch in Abänderung einer bestehenden
 `§ 177 (4) ABGB.`  
 Sind beide Elternteile mit der Obsorge betraut und leben sie nicht in häuslicher Gemeinschaft, so haben sie festzulegen, bei welchem Elternteil sich das Kind hauptsächlich aufhalten soll. Außerdem muss der Elternteil, in dessen Haushalt das Kind hauptsächlich betreut wird, vorbehaltlich des § 158 Abs. 2, mit der gesamten Obsorge betraut sein. Im Fall des Abs. 3 kann die Obsorge des Elternteils, in dessen Haushalt das Kind nicht hauptsächlich betreut wird, auf bestimmte Angelegenheiten beschränkt sein.
 
+*(Beachte: Zu Abs. 2: Für die Anwendung des Absatzes gelten § 7 Abs. 2 und § 67 Abs. 5 PStG 2013 ab 1.Februar 2013 (vgl. § 72 Abs. 1 PStG 2013, BGBl. I Nr. 16/2013).)*
+
 ### § 178 ABGB # Obsorge bei Verhinderung eines Elternteils
 
 `§ 178 (1) ABGB.`  

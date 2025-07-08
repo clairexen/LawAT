@@ -25,6 +25,8 @@ Im übrigen hat die Behörde unter sorgfältiger Berücksichtigung der Ergebniss
 `§ 45 (3) AVG.`  
 Den Parteien ist Gelegenheit zu geben, vom Ergebnis der Beweisaufnahme Kenntnis und dazu Stellung zu nehmen.
 
+*(Beachte: [CELEX-Nr.: 32021L1883])*
+
 ### § 46 AVG
 
 `§ 46 AVG.`  
@@ -170,6 +172,8 @@ Bescheide sind zu begründen, wenn dem Standpunkt der Partei nicht vollinhaltlic
 `§ 58 (3) AVG.`  
 Im übrigen gilt auch für Bescheide § 18 Abs. 4.
 
+*(Beachte: [CELEX-Nr.: 32014L0036, 32021L1883])*
+
 ### § 58a AVG
 
 `§ 58a AVG.`  
@@ -203,6 +207,8 @@ Ist in dem Bescheid eine längere als die gesetzliche Frist angegeben, so gilt d
 Enthält der Bescheid keine oder eine unrichtige Angabe über die Behörde, bei der das Rechtsmittel einzubringen ist, so ist das Rechtsmittel auch dann richtig eingebracht, wenn es bei der Behörde, die den Bescheid erlassen hat, oder bei der angegebenen Behörde eingebracht wurde.
 *(Anm.: Abs. 5 aufgehoben durch BGBl. I Nr. 158/1998)*
 
+*(Beachte: [CELEX-Nr.: 32014L0036, 32021L1883])*
+
 ### § 62 AVG
 
 `§ 62 (1) AVG.`  
@@ -216,6 +222,8 @@ Eine schriftliche Ausfertigung des mündlich verkündeten Bescheides ist den bei
 
 `§ 62 (4) AVG.`  
 Schreib- und Rechenfehler oder diesen gleichzuhaltende, offenbar auf einem Versehen oder offenbar ausschließlich auf technisch mangelhaftem Betrieb einer automationsunterstützten Datenverarbeitungsanlage beruhende Unrichtigkeiten in Bescheiden kann die Behörde jederzeit von Amts wegen berichtigen.
+
+*(Beachte: [CELEX-Nr.: 32021L1187])*
 
 ## IV. Teil: Rechtsschutz # 1. Abschnitt: Berufung
 
@@ -394,5 +402,7 @@ Wird ein Bescheid, gegen den Berufung erhoben werden kann, nicht innerhalb der E
 
 `§ 73 (3) AVG.`  
 Für die Berufungsbehörde beginnt die Entscheidungsfrist mit dem Tag des Einlangens des Devolutionsantrages zu laufen.
+
+*(Beachte: [CELEX-Nr.: 32021L1187])*
 
 `END-OF-DATA-FILE` *(fortges. in [BG.AVG.004](BG.AVG.004.md))*

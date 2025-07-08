@@ -44,6 +44,8 @@ Jede übertragende Gesellschaft hat auf den Verschmelzungsstichtag eine Schlußb
 `§ 220a AktG.`  
 Die Vorstände jeder der an der Verschmelzung beteiligten Gesellschaften haben einen ausführlichen schriftlichen Bericht zu erstatten, in dem die voraussichtlichen Folgen der Verschmelzung, der Verschmelzungsvertrag oder dessen Entwurf und insbesondere das Umtauschverhältnis der Aktien, gegebenenfalls die Höhe der baren Zuzahlungen sowie die Maßnahmen gemäß § 226 Abs. 3 rechtlich und wirtschaftlich erläutert und begründet werden. Auf besondere Schwierigkeiten bei der Bewertung der Unternehmen ist hinzuweisen. § 118 Abs. 3 ist sinngemäß anzuwenden.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ### § 220b AktG # Prüfung der Verschmelzung
 
 `§ 220b (1) AktG.`  
@@ -68,10 +70,14 @@ Die Verschmelzungsprüfer haben ihren Prüfungsbericht den Vorständen und den M
 `§ 220b (5) AktG.`  
 Besteht in sinngemäßer Anwendung von § 133 Abs. 3 zweiter Satz ein Geheimhaltungsinteresse, so hat der Verschmelzungsprüfer auch eine darauf Bedacht nehmende Fassung vorzulegen, die zur Einsicht der Aktionäre bestimmt ist (§ 221a Abs. 2 Z 5).
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ### § 220c AktG # Prüfung durch den Aufsichtsrat
 
 `§ 220c AktG.`  
 Die Aufsichtsräte der an der Verschmelzung beteiligten Gesellschaften haben die beabsichtigte Verschmelzung auf der Grundlage des Verschmelzungsberichts und des Prüfungsberichts zu prüfen und darüber einen schriftlichen Bericht zu erstatten; § 118 Abs. 3 ist sinngemäß anzuwenden. Die Prüfung durch den Aufsichtsrat der übernehmenden Gesellschaft kann entfallen, wenn für den Erwerb von Unternehmen gemäß § 95 Abs. 5 Z 1 eine Betragsgrenze festgesetzt wurde und der Buchwert der übertragenden Gesellschaft diese Betragsgrenze nicht überschreitet.
+
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
 
 ### § 221 AktG # Beschlüsse der Hauptversammlung
 

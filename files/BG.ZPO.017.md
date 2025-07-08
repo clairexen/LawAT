@@ -12,6 +12,161 @@
 
 *(Fortsetzg. v. [BG.ZPO.016](BG.ZPO.016.md))*
 
+## Verfahren.
+
+### § 533 ZPO
+
+`§ 533 ZPO.`  
+Auf die Erhebung der Nichtigkeits- und Wiederaufnahmsklage und auf das weitere Verfahren finden, soweit sich nicht aus den nachfolgenden Bestimmungen Abweichungen ergeben, die im ersten bis vierten Theile dieses Gesetzes enthaltenen Vorschriften entsprechend Anwendung.
+
+### § 534 ZPO
+
+`§ 534 (1) ZPO.`  
+Die Klage ist binnen der Notfrist von vier Wochen zu erheben.
+
+`§ 534 (2) ZPO.`  
+Diese Frist ist zu berechnen:  
+`§ 534 (2) Z 1 ZPO.`
+im Falle des §. 529, Z 1, von dem Tage, an welchem die Partei von dem Ausschließungsgrunde Kenntnis erhalten hat, oder wenn dies vor Eintritt der Rechtskraft der angefochtenen Entscheidung geschehen, vom letzteren Tage;  
+`§ 534 (2) Z 2 ZPO.`
+im Falle des §. 529, Z 2, von dem Tage, an welchem die Entscheidung der Partei, und wenn diese nicht processfähig ist, dem gesetzlichen Vertreter derselben zugestellt wurde, jedoch gleichfalls nicht vor eingetretener Rechtskraft der angefochtenen Entscheidung;  
+`§ 534 (2) Z 3 ZPO.`
+in den Fällen des §. 530 Z 1 bis 5 von dem Tage, an welchem das strafgerichtliche Urtheil oder der die Einstellung eines strafgerichtlichen Verfahrens aussprechende Beschluss in Rechtskraft erwachsen ist;  
+`§ 534 (2) Z 4 ZPO.`
+im Falle des §. 530, Z 6 und 7, von dem Tage, an welchem die Partei imstande war, die rechtskräftige Entscheidung zu benützen oder die ihr bekannt gewordenen Thatsachen und Beweismittel bei Gericht vorzubringen;  
+`§ 534 (2) Z 5 ZPO.`
+im Falle des §. 531 von der Zustellung der Entscheidung erster Instanz.
+
+`§ 534 (3) ZPO.`  
+Nach Ablauf von zehn Jahren nach dem Eintritte der Rechtskraft der Entscheidung kann die Klage, mit Ausnahme des in Z 2 erwähnten Falles, nicht mehr erhoben werden.
+
+### § 535 ZPO
+
+`§ 535 ZPO.`  
+Wird die Klage nicht bei dem Gerichte erhoben, welches in dem früheren Verfahren in erster Instanz erkannt hat, sondern bei einem höheren Gerichte, welches nach den für das Verfahren vor demselben geltenden Bestimmungen die Hauptsache spruchreif zu machen vermag, so sind in Ansehung der mündlichen Verhandlung, der Beweisführung und der Mittheilung der über die Klage gefällten Entscheidung an die erste Instanz, sowie in Ansehung der Anfechtbarkeit der Entscheidung diejenigen Bestimmungen maßgebend, welche für das höhere Gericht als Rechtsmittelinstanz maßgebend wären.
+
+### § 536 ZPO
+
+`§ 536 ZPO.`  
+Die Klage muss insbesondere enthalten:  
+`§ 536 Z 1 ZPO.`
+die Bezeichnung der angefochtenen Entscheidung;  
+`§ 536 Z 2 ZPO.`
+die Bezeichnung des gesetzlichen Anfechtungsgrundes (Nichtigkeits-, Wiederaufnahmsgrund);  
+`§ 536 Z 3 ZPO.`
+die Angabe der Umstände, aus welchen sich die Einhaltung der gesetzlichen Frist für die Klage ergibt, und die Bezeichnung der hiefür vorhandenen Beweismittel;  
+`§ 536 Z 4 ZPO.`
+die Angabe der für die Beurtheilung der Zuständigkeit wesentlichen Umstände;  
+`§ 536 Z 5 ZPO.`
+die Erklärung, inwieweit die Beseitigung der angefochtenen Entscheidung, und welche andere Entscheidung in der Hauptsache beantragt wird.
+
+### § 537 ZPO
+
+`§ 537 ZPO.`  
+Der Richter, wegen dessen Betheiligung an der Entscheidung die Nichtigkeitsklage (§. 529, Z 1) oder wegen dessen Verhalten die Wiederaufnahmsklage nach §. 530, Z 4, angebracht wird, ist von der Leitung der Verhandlung sowie von der Entscheidung über die Nichtigkeits- oder Wiederaufnahmsklage ausgeschlossen.
+
+### § 538 ZPO
+
+`§ 538 (1) ZPO.`  
+Das Gericht hat vor Anberaumung einer Tagsatzung zur mündlichen Verhandlung, und zwar bei Gerichtshöfen in nicht öffentlicher Sitzung, zu prüfen, ob die Klage auf einen der gesetzlichen Anfechtungsgründe (§§. 529 bis 531) gestützt und in der gesetzlichen Frist erhoben sei. Mangelt es an einem dieser Erfordernisse oder ist die Klage wegen eines der im §. 230, Absatz 2, angeführten Gründe unzulässig, so ist sie als zur Bestimmung einer Tagsatzung für die mündliche Verhandlung ungeeignet durch Beschluß zurückzuweisen.
+
+`§ 538 (2) ZPO.`  
+Die Umstände, aus welchen sich die Einhaltung der gesetzlichen Frist ergibt, sind vom Kläger auf Verlangen des Gerichtes glaubhaft zu machen.
+
+### § 539 ZPO
+
+`§ 539 (1) ZPO.`  
+Wenn die Wiederaufnahme wegen einer der im §. 530 Z 1 bis 4 angeführten strafbaren Handlungen begehrt wird, ohne daß ihrer wegen bereits eine rechtskräftige Verurtheilung stattgefunden hätte, hat das Processgericht ohne vorgängige mündliche Verhandlung die Einleitung des strafgerichtlichen Verfahrens behufs Ermittlung und Feststellung der behaupteten strafbaren Handlung zu veranlassen. Gegen diesen Beschluss ist ein Rechtsmittel nicht zulässig; vor der Beschlussfassung kann das Gericht die Parteien oder eine derselben vernehmen und die ihm sonst wichtig scheinenden Erhebungen einleiten.
+
+`§ 539 (2) ZPO.`  
+Die Tagsatzung zur mündlichen Verhandlung über die Wiederaufnahmsklage ist erst nach rechtskräftigem Abschlusse des strafgerichtlichen Verfahrens, und zwar nur dann anzuberaumen, wenn dieses Verfahren entweder zu einer rechtskräftigen Verurtheilung wegen der zur Begründung der Wiederaufnahmsklage geltend gemachten strafbaren Handlung geführt hat, oder wenn das strafgerichtliche Verfahren aus anderen Gründen als wegen mangelnden Thatbestandes oder wegen Mangels an Beweisen zu einer Verurtheilung nicht geführt hat. Andernfalls ist die Klage nach Bekanntgabe der Ergebnisse des strafgerichtlichen Verfahrens als unzulässig zurückzuweisen. Diese Zurückweisung geschieht gleichfalls ohne vorgängige mündliche Verhandlung und bei Gerichtshöfen durch einen in nicht öffentlicher Sitzung gefassten Beschluß. Das Strafgericht oder die staatsanwaltschaftliche Behörde hat bei Bekanntgabe der wegen Nichteinleitung oder Einstellung des Strafverfahrens gefassten Beschlüsse den Grund der unterlassenen Einleitung oder der Einstellung des Verfahrens stets ausdrücklich zu bezeichnen.
+
+### § 540 ZPO
+
+`§ 540 (1) ZPO.`  
+Ist in den Fällen des §. 530 der Wiederaufnahmsgrund durch der Klage beigelegte Urkunden dargethan oder wird die Wiederaufnahme im Sinne des §. 531 beantragt, so ist die Verhandlung und Entscheidung über den Grund und die Zulässigkeit der Wiederaufnahme, vorbehaltlich der dem Gerichte im §. 189 eingeräumten Befugnis, mit der Verhandlung der Hauptsache zu verbinden.
+
+`§ 540 (2) ZPO.`  
+Die Hauptsache wird dabei soweit von neuem verhandelt, als sie vom Anfechtungsgrunde betroffen ist.
+
+`§ 540 (3) ZPO.`  
+Ist jedoch das zur Entscheidung über die Bewilligung der Wiederaufnahme zuständige Gericht höherer Instanz nach den für das Verfahren vor demselben geltenden Bestimmungen nicht in der Lage, die Hauptsache spruchreif zu machen, so hat es sich auf die Entscheidung über die Zulässigkeit der Wiederaufnahme zu beschränken und nach Rechtskraft des die Wiederaufnahme bewilligenden Urtheiles den Rechtsstreit zur Verhandlung der Hauptsache an das Gericht zurückzuverweisen, welches in erster Instanz dazu berufen gewesen ist. Von diesem ist sodann die Tagsatzung zur mündlichen Verhandlung der Hauptsache von amtswegen anzuberaumen und nach den für das Verfahren vor diesem Gerichte geltenden Vorschriften durchzuführen.
+
+### § 541 ZPO
+
+`§ 541 (1) ZPO.`  
+In allen übrigen Fällen ist nur über Grund und Zulässigkeit der Wiederaufnahme des Verfahrens oder über die Nichtigerklärung desselben zu verhandeln und durch Urtheil zu entscheiden.
+
+`§ 541 (2) ZPO.`  
+Wird die Wiederaufnahme bewilligt, so ist das Verfahren in der Hauptsache, soweit es vom Anfechtungsgrunde betroffen wird, bei dem Gerichte, bei welchem die Wiederaufnahmsklage eingebracht wurde, oder wenn dieses nach den für das Verfahren geltenden Bestimmungen nicht in der Lage ist, die Hauptsache spruchreif zu machen, bei dem Gerichte abzuführen, welches zur Verhandlung der Hauptsache in erster Instanz berufen war.
+
+`§ 541 (3) ZPO.`  
+In Bezug auf die Verweisung, die Anberaumung der Tagsatzung zur mündlichen Verhandlung und die Durchführung der Verhandlung gelten die Bestimmungen des §. 540 Absatz 3.
+
+### § 542 ZPO
+
+`§ 542 (1) ZPO.`  
+Ist die Verhandlung zur Hauptsache bei dem zur Entscheidung über die Zulässigkeit der Wiederaufnahme zuständigen Gerichte abzuführen, so kann das Gericht nach Verkündung der dem Wiederaufnahmebegehren stattgebenden Entscheidung durch Beschluss anordnen, dass vor Ausfertigung dieser Entscheidung in der Hauptsache verhandelt werde. Gegen diesen Beschluss ist ein Rechtsmittel nicht zulässig.
+
+`§ 542 (2) ZPO.`  
+Die Entscheidung über die Zulässigkeit der Wiederaufnahme ist in diesem Falle in die Entscheidung über die Hauptsache aufzunehmen.
+
+### § 543 ZPO
+
+`§ 543 ZPO.`  
+Ergibt sich erst bei der mündlichen Verhandlung, daß die Wiederaufnahms- oder Nichtigkeitsklage auf einen gesetzlich unzulässigen Anfechtungsgrund gestützt wird oder verspätet überreicht ist, so ist die Klage durch Beschluss zurückzuweisen.
+
+### § 544 ZPO
+
+`§ 544 (1) ZPO.`  
+Über eine Wiederaufnahmsklage, welche gleichzeitig mit der Erhebung eines Rechtsmittels gegen dieselbe Entscheidung oder während des anhängigen Rechtsmittelverfahrens eingebracht wird, ist von amtswegen oder auf Antrag unverzüglich die Unterbrechung des Rechtsmittelverfahrens anzuordnen, wenn einer der im §. 530, Z 1 bis 5, angeführten Wiederaufnahmsgründe geltend gemacht und das ergangene rechtskräftige strafgerichtliche Urtheil der Klage beigelegt wird.
+
+`§ 544 (2) ZPO.`  
+Das Gericht, bei welchem die Wiederaufnahmsklage angebracht wurde, hat im Falle einer solchen Beschlussfassung das Gericht, bei welchem über das eingelegte Rechtsmittel zur Zeit verhandelt wird, von der angeordneten Unterbrechung des Rechtsmittelverfahrens sofort zu verständigen.
+
+### § 545 ZPO
+
+`§ 545 (1) ZPO.`  
+Ob in den übrigen Fällen wegen Einbringung einer Wiederaufnahmsklage das in Bezug auf dieselbe Entscheidung eingeleitete oder anhängige Rechtsmittelverfahren unterbrochen werden soll, darüber hat das zur Verhandlung über die Klage berufene Gericht von amtswegen oder auf Antrag mit Rücksicht auf die besonderen Verhältnisse des Falles und die für das Vorhandensein des Wiederaufnahmsgrundes vorgebrachten Beweise zu entscheiden.
+
+`§ 545 (2) ZPO.`  
+Eine solche Unterbrechung kann auch noch während der mündlichen Verhandlung über die Wiederaufnahmsklage beschlossen werden. Bei Anordnung der Unterbrechung kommen die Bestimmungen des §. 544 Absatz 2 zur Anwendung.
+
+### § 546 ZPO
+
+`§ 546 (1) ZPO.`  
+Gegen den Beschluss, durch welchen über einen gemäß §§. 544 und 545 gestellten Antrag entschieden wird, ist ein Rechtsmittel nicht statthaft.
+
+`§ 546 (2) ZPO.`  
+Ist die Wiederaufnahmsklage rechtskräftig abgewiesen, so ist das unterbrochene Rechtsmittelverfahren von amtswegen oder auf Antrag wieder aufzunehmen. Der Antrag ist bei dem Gerichte zu stellen, vor welchem das Rechtsmittelverfahren zur Zeit der angeordneten Unterbrechung anhängig war. Dieses Gericht hat die rechtzeitige Wiedervorlage der zur Fortsetzung der Verhandlung erforderlichen Acten von amtswegen zu veranlassen.
+
+### § 547 ZPO
+
+`§ 547 (1) ZPO.`  
+Sofern nicht nach den vorstehenden Bestimmungen infolge Einbringung der Wiederaufnahmsklage eine Unterbrechung eines anhängigen Rechtsmittelverfahrens angeordnet wird, hat die Erhebung einer Wiederaufnahmsklage in Bezug auf den Eintritt der Rechtskraft und Vollstreckbarkeit der angefochtenen Entscheidung keine hemmende Wirkung.
+
+`§ 547 (2) ZPO.`  
+Auf die Vollstreckbarkeit einer angefochtenen rechtskräftigen Entscheidung ist die Einbringung einer Nichtigkeitsklage oder einer Wiederaufnahmsklage ohne Einfluss.
+
+## Sechster Theil. # Besondere Arten des Verfahrens. # Erster Abschnitt # Europäisches Bagatellverfahren
+
+### § 548 ZPO
+
+`§ 548 (1) ZPO.`  
+Soweit die Verordnung (EG) Nr. 861/2007 zur Einführung eines europäischen Verfahrens für geringfügige Forderungen, ABl. Nr. L 199 vom 31.7.2007 S. 1, nicht anderes anordnet, sind die für den jeweiligen Verfahrensgegenstand geltenden Verfahrensvorschriften anzuwenden.
+
+`§ 548 (2) ZPO.`  
+Auf das Verfahren nach der Verordnung finden die Bestimmungen über die Hemmung von Fristen und die Erstreckung von Tagsatzungen nach § 222 ZPO keine Anwendung.
+
+`§ 548 (3) ZPO.`  
+Fällt die Widerklage nach Art. 5 Abs. 6 der Verordnung nicht in deren Anwendungsbereich, dann ist sie – außer im Fall des Art. 5 Abs. 7 der Verordnung – zurückzuweisen. Im Fall der Widerklage nach Art. 5 Abs. 7 der Verordnung sind die Verfahren fortzuführen.
+
+`§ 548 (4) ZPO.`  
+Bei Vorliegen der Voraussetzungen nach Art. 7 Abs. 3 der Verordnung hat das Gericht von Amts wegen ein Versäumungsurteil nach § 396 zu fällen. Ein Widerspruch nach § 397a ist zulässig.
+
+`§ 548 (5) ZPO.`  
+Das für das Europäische Bagatellverfahren zuständige Gericht erster Instanz ist auch für die Überprüfung nach Art. 18 der Verordnung zuständig; hiefür gelten die §§ 149 und 153 entsprechend. Erklärt das Gericht das Urteil nach Art. 18 der Verordnung für nichtig, so tritt der Rechtsstreit in die Lage zurück, in der er sich vor dem zur Nichtigerklärung führenden Verfahrensschritt befunden hat.
+
 ## Zweiter Abschnitt # Mandatsverfahren
 
 ### § 549 ZPO # Verfahren wegen erheblicher Verletzung von Persönlichkeitsrechten in einem elektronischen Kommunikationsnetz
@@ -178,148 +333,5 @@ Bestandverträge, welche durch den Ablauf der Zeit erlöschen, ohne dass es behu
 
 `§ 570 ZPO.`  
 Die in den §§. 560 bis 569 festgesetzten Fristen können nicht verlängert werden.
-
-## Verfahren.
-
-### § 571 ZPO
-
-`§ 571 (1) ZPO.`  
-Über rechtzeitig erhobene Einwendungen ist eine vorbereitende Tagsatzung anzuberaumen. Bei der Anberaumung der ersten und der etwa folgenden Tagsatzungen, sowie bei der Bestimmung von Fristen ist auf die Dringlichkeit der Bestandsachen besonders Bedacht zu nehmen.
-
-`§ 571 (2) ZPO.`  
-Die Partei, von welcher die Kündigung oder die Aufforderung zur Zurückstellung oder zur Zurücknahme des Bestandgegenstandes ausging, ist als Kläger anzusehen.
-
-`§ 571 (3) ZPO.`  
-Verspätet angebrachte Einwendungen wider die Aufkündigung eines Bestandvertrages oder gegen den gerichtlichen Auftrag zur Übergabe oder Übernahme eines Bestandgegenstandes sind von amtswegen ohne Verhandlung zurückzuweisen.
-
-`§ 571 (4) ZPO.`  
-Bleibt eine der Parteien nach rechtzeitig erhobenen Einwendungen von einer Tagsatzung aus, bevor sie sich durch mündliches Vorbringen zur Hauptsache in den Streit eingelassen hat, so ist auf Antrag der erschienenen Partei ein Versäumungsurteil nach § 396 zu fällen.
-
-### § 572 ZPO
-
-`§ 572 ZPO.`  
-In dem das Verfahren über Einwendungen erledigenden Urtheile ist auszusprechen, ob und inwieweit und – bei Behauptung verspäteter Zustellung – zu welchem Termin die Aufkündigung oder der nach §. 567 erlassene Auftrag als wirksam erkannt oder aufgehoben wird, sowie ob und wann der Beklagte verpflichtet ist, den Bestandgegenstand zu übergeben oder zu übernehmen.
-
-### § 573 ZPO
-
-`§ 573 (1) ZPO.`  
-Wird der Beklagte schuldig erkannt, den Bestandgegenstand zu übergeben oder zu übernehmen, ist jedoch die Bestandzeit zur Zeit der Urteilsfällung bereits verstrichen, so ist in dem Urteile auszusprechen, daß die Übergabe oder Übernahme des von den nicht in Bestand gegebenen Gegenständen geräumten Bestandgegenstandes binnen vierzehn Tagen zu erfolgen habe. Diese Frist beginnt in dem im § 409 letzter Absatz bezeichneten Zeitpunkt zu laufen.
-
-`§ 573 (2) ZPO.`  
-Ist die Bestandzeit noch nicht verstrichen, so ist anzuordnen, daß der Bestandgegenstand längstens binnen vierzehn Tagen nach Ablauf der Bestandzeit von den nicht in Bestand gegebenen Gegenständen geräumt zu übergeben oder zu übernehmen ist. Dieselbe Räumungsfrist gilt auch dann, wenn gegen die gerichtliche Aufkündigung oder gegen den Auftrag zur Übergabe oder Übernahme des Bestandgegenstandes nicht rechtzeitig Einwendungen erhoben worden sind.
-
-`§ 573 (3) ZPO.`  
-Die Exekution kann auf Grund rechtskräftig gewordener Urteile, Aufkündigungen und gerichtlicher Aufträge zur Übergabe oder Übernahme des Bestandgegenstandes bewilligt werden, sobald die Frist verstrichen ist, innerhalb deren nach den vorangehenden Absätzen der Bestandgegenstand zu übergeben war.
-
-### § 574 ZPO
-
-`§ 574 ZPO.`  
-Die Bestimmungen des §. 573 sind auch dann anzuwenden, wenn ein Bestandvertrag ohne vorausgegangene gerichtliche oder außergerichtliche Aufkündigung infolge einer Klage durch Urtheil für aufgehoben oder erloschen erklärt wird.
-
-### § 575 ZPO
-
-`§ 575 ZPO.`  
-*(Anm.: Abs. 1 aufgehoben durch Art. III Z 28, BGBl. Nr. 282/1955)*
-
-`§ 575 (2) ZPO.`  
-Gegen die gerichtlichen Aufträge zur Übergabe oder Übernahme des Bestandgegenstandes, die auf Grund von Aufkündigungen oder infolge eines gemäß §. 567 gestellten Ansuchens ergehen, ist vorbehaltlich der dagegen zu erhebenden Einwendungen ein Rechtsmittel nicht zulässig.
-
-`§ 575 (3) ZPO.`  
-Eine gerichtliche Kündigung oder ein Auftrag zur Übergabe oder Übernahme des Bestandgegenstandes, wider welche nicht rechtzeitig Einwendungen erhoben wurden, desgleichen die über solche Einwendungen ergangenen rechtskräftigen Urtheile treten, vorbehaltlich des über den Kostenersatz ergangenen Ausspruches, außer Kraft, wenn nicht binnen sechs Monaten nach dem Eintritte der in diesen Aufträgen oder im Urtheile für die Räumung oder Übernahme des Bestandgegenstandes bestimmten Zeit wegen dieser Räumung oder Übernahme Execution beantragt wird.
-
-## Verträge gegen Entrichtung eines Zinses in Früchten.
-
-### § 576 ZPO
-
-`§ 576 ZPO.`  
-Die Bestimmungen dieses Abschnittes finden auch auf die im §. 1103 a. b. G. B. bezeichneten Verträge Anwendung. Solche Verträge sind im Sinne dieses Gesetzes als Pachtverträge anzusehen.
-
-## Vierter Abschnitt # Schiedsverfahren # Erster Titel # Allgemeine Bestimmungen
-
-### § 577 ZPO # Anwendungsbereich
-
-`§ 577 (1) ZPO.`  
-Die Bestimmungen dieses Abschnitts sind anzuwenden, wenn der Sitz des Schiedsgerichts in Österreich liegt.
-
-`§ 577 (2) ZPO.`  
-§§ 578, 580, 583, 584, 585, 593 Abs. 3 bis 6, §§ 602, 612 und 614 sind auch anzuwenden, wenn der Sitz des Schiedsgerichts nicht in Österreich liegt oder noch nicht bestimmt ist.
-
-`§ 577 (3) ZPO.`  
-Solange der Sitz des Schiedsgerichts noch nicht bestimmt ist, besteht die inländische Gerichtsbarkeit für die im dritten Titel genannten gerichtlichen Aufgaben, wenn eine der Parteien ihren Sitz, Wohnsitz oder gewöhnlichen Aufenthalt in Österreich hat.
-
-`§ 577 (4) ZPO.`  
-Die Bestimmungen dieses Abschnitts sind nicht auf Einrichtungen nach dem Vereinsgesetz zur Schlichtung von Streitigkeiten aus dem Vereinsverhältnis anwendbar.
-
-### § 578 ZPO # Gerichtliche Tätigkeit
-
-`§ 578 ZPO.`  
-Das Gericht darf in den in diesem Abschnitt geregelten Angelegenheiten nur tätig werden, soweit dieser Abschnitt es vorsieht.
-
-### § 579 ZPO # Rügepflicht
-
-`§ 579 ZPO.`  
-Hat das Schiedsgericht einer Verfahrensbestimmung dieses Abschnitts, von der die Parteien abweichen können, oder einem vereinbarten Verfahrenserfordernis des Schiedsverfahrens nicht entsprochen, so kann eine Partei den Mangel später nicht mehr geltend machen, wenn sie ihn nicht unverzüglich ab Kenntnis oder innerhalb der dafür vorgesehenen Frist gerügt hat.
-
-### § 580 ZPO # Empfang schriftlicher Mitteilungen
-
-`§ 580 (1) ZPO.`  
-Haben die Parteien nichts anderes vereinbart, so gilt eine schriftliche Mitteilung an dem Tag als empfangen, an dem sie dem Empfänger oder einer zum Empfang berechtigten Person persönlich ausgehändigt wurde oder, wenn dies nicht möglich war, an dem sie am Sitz, Wohnsitz oder gewöhnlichen Aufenthalt des Empfängers sonst übergeben wurde.
-
-`§ 580 (2) ZPO.`  
-Hat der Empfänger Kenntnis vom Schiedsverfahren und ist er oder eine zum Empfang berechtigte Person trotz angemessener Nachforschungen unbekannten Aufenthalts, so gilt eine schriftliche Mitteilung an dem Tag als empfangen, an dem eine ordnungsgemäße Übermittlung nachweislich an einem Ort versucht wurde, der bei Abschluss der Schiedsvereinbarung oder in der Folge vom Empfänger der anderen Partei oder dem Schiedsgericht gegenüber als Adresse bekannt gegeben worden ist und bisher nicht unter Angabe einer neuen Adresse widerrufen wurde.
-
-`§ 580 (3) ZPO.`  
-Abs. 1 und 2 gelten nicht für Mitteilungen in gerichtlichen Verfahren.
-
-## Zweiter Titel # Schiedsvereinbarung
-
-### § 581 ZPO # Begriff
-
-`§ 581 (1) ZPO.`  
-Die Schiedsvereinbarung ist eine Vereinbarung der Parteien, alle oder einzelne Streitigkeiten, die zwischen ihnen in Bezug auf ein bestimmtes Rechtsverhältnis vertraglicher oder nichtvertraglicher Art entstanden sind oder künftig entstehen, der Entscheidung durch ein Schiedsgericht zu unterwerfen. Die Schiedsvereinbarung kann in Form einer selbständigen Vereinbarung oder in Form einer Klausel in einem Vertrag geschlossen werden.
-
-`§ 581 (2) ZPO.`  
-Die Bestimmungen dieses Abschnitts sind auch auf Schiedsgerichte sinngemäß anzuwenden, die in gesetzlich zulässiger Weise durch letztwillige Verfügung oder andere nicht auf Vereinbarung der Parteien beruhende Rechtsgeschäfte oder durch Statuten angeordnet werden.
-
-### § 582 ZPO # Schiedsfähigkeit
-
-`§ 582 (1) ZPO.`  
-Jeder vermögensrechtliche Anspruch, über den von den ordentlichen Gerichten zu entscheiden ist, kann Gegenstand einer Schiedsvereinbarung sein. Eine Schiedsvereinbarung über nicht vermögensrechtliche Ansprüche hat insofern rechtliche Wirkung, als die Parteien über den Gegenstand des Streits einen Vergleich abzuschließen fähig sind.
-
-`§ 582 (2) ZPO.`  
-Familienrechtliche Ansprüche sowie alle Ansprüche aus Verträgen, die dem Mietrechtsgesetz oder dem Wohnungsgemeinnützigkeitsgesetz auch nur teilweise unterliegen, einschließlich der Streitigkeiten über die Eingehung, das Bestehen, die Auflösung und die rechtliche Einordnung solcher Verträge, und alle wohnungseigentumsrechtlichen Ansprüche können nicht Gegenstand einer Schiedsvereinbarung sein. Gesetzliche Vorschriften außerhalb dieses Abschnitts, nach denen Streitigkeiten einem Schiedsverfahren nicht oder nur unter bestimmten Voraussetzungen unterworfen werden dürfen, bleiben unberührt.
-
-### § 583 ZPO # Form der Schiedsvereinbarung
-
-`§ 583 (1) ZPO.`  
-Die Schiedsvereinbarung muss entweder in einem von den Parteien unterzeichneten Schriftstück oder in zwischen ihnen gewechselten Schreiben, Telefaxen, e-mails oder anderen Formen der Nachrichtenübermittlung enthalten sein, die einen Nachweis der Vereinbarung sicherstellen.
-
-`§ 583 (2) ZPO.`  
-Nimmt ein den Formerfordernissen des Abs. 1 entsprechender Vertrag auf ein Schriftstück Bezug, das eine Schiedsvereinbarung enthält, so begründet dies eine Schiedsvereinbarung, wenn die Bezugnahme dergestalt ist, dass sie diese Schiedsvereinbarung zu einem Bestandteil des Vertrages macht.
-
-`§ 583 (3) ZPO.`  
-Ein Formmangel der Schiedsvereinbarung wird im Schiedsverfahren durch Einlassung in die Sache geheilt, wenn er nicht spätestens zugleich mit der Einlassung gerügt wird.
-
-### § 584 ZPO # Schiedsvereinbarung und Klage vor Gericht
-
-`§ 584 (1) ZPO.`  
-Wird vor einem Gericht Klage in einer Angelegenheit erhoben, die Gegenstand einer Schiedsvereinbarung ist, so hat das Gericht die Klage zurückzuweisen, sofern der Beklagte nicht zur Sache vorbringt oder mündlich verhandelt, ohne dies zu rügen. Dies gilt nicht, wenn das Gericht feststellt, dass die Schiedsvereinbarung nicht vorhanden oder undurchführbar ist. Ist ein solches Verfahren noch vor einem Gericht anhängig, so kann ein Schiedsverfahren dennoch eingeleitet oder fortgesetzt werden und ein Schiedsspruch ergehen.
-
-`§ 584 (2) ZPO.`  
-Hat ein Schiedsgericht seine Zuständigkeit für den Gegenstand des Streits verneint, weil hierüber keine Schiedsvereinbarung vorhanden ist oder die Schiedsvereinbarung undurchführbar ist, so darf das Gericht eine Klage darüber nicht mit der Begründung zurückweisen, dass für die Angelegenheit ein Schiedsgericht zuständig ist. Mit der Erhebung der Klage bei Gericht erlischt das Recht des Klägers, nach § 611 eine Klage auf Aufhebung der Entscheidung zu erheben, mit welcher das Schiedsgericht seine Zuständigkeit verneint hat.
-
-`§ 584 (3) ZPO.`  
-Ist ein Schiedsverfahren anhängig, so darf über den geltend gemachten Anspruch kein weiterer Rechtsstreit vor einem Gericht oder einem Schiedsgericht durchgeführt werden; eine wegen desselben Anspruches angebrachte Klage ist zurückzuweisen. Dies gilt nicht, wenn die Unzuständigkeit des Schiedsgerichts vor diesem spätestens mit der Einlassung in die Sache gerügt wurde und eine Entscheidung des Schiedsgerichtes hierüber in angemessener Dauer nicht zu erlangen ist.
-
-`§ 584 (4) ZPO.`  
-Wird eine Klage von einem Gericht wegen Zuständigkeit eines Schiedsgerichtes oder von einem Schiedsgericht wegen Zuständigkeit eines Gerichtes oder eines anderen Schiedsgerichtes zurückgewiesen oder wird in einem Aufhebungsverfahren ein Schiedsspruch wegen Unzuständigkeit des Schiedsgerichts aufgehoben, so gilt das Verfahren als gehörig fortgesetzt, wenn unverzüglich Klage vor dem Gericht oder Schiedsgericht erhoben wird.
-
-`§ 584 (5) ZPO.`  
-Eine Partei, die sich zu einem früheren Zeitpunkt in einem Verfahren auf das Vorhandensein einer Schiedsvereinbarung berufen hat, kann später nicht mehr geltend machen, dass diese nicht vorliegt, es sei denn, die maßgebenden Umstände haben sich seither geändert.
-
-### § 585 ZPO # Schiedsvereinbarung und einstweilige gerichtliche Maßnahmen
-
-`§ 585 ZPO.`  
-Eine Schiedsvereinbarung schließt nicht aus, dass eine Partei vor oder während des Schiedsverfahrens bei einem Gericht eine vorläufige oder sichernde Maßnahme beantragt und dass das Gericht eine solche Maßnahme anordnet.
 
 `END-OF-DATA-FILE` *(fortges. in [BG.ZPO.018](BG.ZPO.018.md))*

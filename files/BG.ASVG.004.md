@@ -202,6 +202,8 @@ Ab dem erstmaligen Beginn der Selbstversicherung (Abs. 5) gelten die Voraussetz
 `§ 18a (7) ASVG.`  
 Das Ende der Selbstversicherung steht hinsichtlich der Berechtigung zur Weiterversicherung in der Pensionsversicherung dem Ausscheiden aus der Pflichtversicherung im Sinne des § 17 Abs. 1 Z 1 lit. a gleich.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 669 Abs. 3 und § 688 Abs. 5.)*
+
 ### § 18b ASVG # Selbstversicherung in der Pensionsversicherung für Zeiten der Pflege naher Angehöriger
 
 `§ 18b (1) ASVG.`  

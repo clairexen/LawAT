@@ -37,6 +37,8 @@ Die Leistungen nach §§ 159 bis 161 sind den nach § 8 Abs. 1 Z 1 lit. h t
 `§ 158 (6) ASVG.`  
 Hebammenbeistand nach § 159 ist über die Bestimmungen des § 157 hinaus zu gewähren, wenn eine Fehlgeburt nach Vollendung der 18. Schwangerschaftswoche eintritt.
 
+*(Beachte: zu Abs. 5: zum Bezugszeitraum vgl. § 800)*
+
 ### § 159 ASVG # Ärztlicher Beistand, Hebammenbeistand und Beistand durch Angehörige des gehobenen Dienstes für Gesundheits- und Krankenpflege
 
 `§ 159 ASVG.`  
@@ -118,6 +120,8 @@ Teilversicherte nach § 8 Abs. 1 Z 1 lit. f außer jene, die aufgrund der de
 *gemäß BGBl. II Nr. 407/2023 für 2024: 11,35 €*  
 *gemäß BGBl. II Nr. 417/2024 für 2025: 11,87 €)*
 
+*(Beachte: zu Abs. 3a: zum Bezugszeitraum vgl. § 800)*
+
 ### § 163 ASVG # Sonderwochengeld
 
 `§ 163 (1) ASVG.`  
@@ -131,6 +135,8 @@ Das Sonderwochengeld gebührt im Ausmaß des erhöhten Krankengeldes nach § 14
 
 `§ 163 (4) ASVG.`  
 Zuständig ist jener Krankenversicherungsträger, bei welchem aufgrund des karenzierten Dienstverhältnisses eine Pflichtversicherung bestand.
+
+*(Beachte: zum Bezugszeitraum vgl. § 800)*
 
 ### § 165 ASVG # Zusammentreffen von Ansprüchen auf Wochengeld, Krankengeld und Wiedereingliederungsgeld
 
@@ -165,5 +171,7 @@ Stirbt eine Wöchnerin bei der Entbindung oder während der Dauer des Bezuges de
 
 `§ 168 ASVG.`  
 Die Aufwendungen für das Wochengeld (§ 162) und das Sonderwochengeld (§ 163) sind unbeschadet des aus Mitteln des Familienlastenausgleichsfonds zu leistenden Ersatzes von den Trägern der Krankenversicherung zu 30 vH zu tragen.
+
+*(Beachte: zum Bezugszeitraum vgl. § 800)*
 
 `END-OF-DATA-FILE` *(fortges. in [BG.ASVG.022](BG.ASVG.022.md))*

@@ -175,6 +175,8 @@ Mit Wirksamkeit ab 1. Jänner eines jeden Jahres ist die Bemessungsgrundlage f�
 `§ 108i (2) ASVG.`  
 Durch die Satzung kann die Anpassung nach Abs. 1 auch für das Krankengeld, ausgenommen jenes nach § 141 Abs. 5 dieses Bundesgesetzes und § 41 Abs. 1 AlVG, festgelegt werden.
 
+*(Beachte: Ist in den Kalenderjahren 2026 und 2027 nicht anzuwenden (vgl. § 810 Abs. 5).)*
+
 ### § 108k ASVG # Anpassung der Leistungen von Amts wegen
 
 `§ 108k ASVG.`  

@@ -116,6 +116,8 @@ Wer in anderen als den in Abs. 1 und 2 genannten Fällen und in den Fällen, in
 `Art. 132 (5) B-VG.`  
 In den Angelegenheiten des eigenen Wirkungsbereiches der Gemeinde kann Beschwerde beim Verwaltungsgericht erst nach Erschöpfung des Instanzenzuges erhoben werden.
 
+*(Beachte: [CELEX-Nr.: 32021L1883])*
+
 ### Art. 133 B-VG
 
 `Art. 133 (1) B-VG.`  

@@ -224,6 +224,8 @@ Die Landespolizeidirektionen dürfen die ihnen obliegenden Angelegenheiten nicht
 `§ 95 (3) StVO.`  
 Die Landespolizeidirektionen haben bei Amtshandlungen nach Abs. 1 lit. f und g den Ortsgemeinden Gelegenheit zur Stellungnahme zu geben.
 
+*(Beachte: Tritt in den einzelnen Ländern mit dem In-Kraft-Treten des ihm entsprechenden Landesgesetzes, frühestens jedoch mit 1. Juli 2005 in Kraft. (vgl. § 103 Abs. 7))*
+
 ### § 96 StVO # Besondere Rechte und Pflichten der Behörde
 
 `§ 96 (1) StVO.`  

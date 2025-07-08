@@ -225,6 +225,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich das nachstehende Staats
 > Die Gleichberechtigung aller landesüblichen Sprachen in Schule, Amt und öffentlichem Leben wird vom Staate anerkannt\.
 >
 > In den Ländern, in welchen mehrere Volksstämme wohnen, sollen die öffentlichen Unterrichtsanstalten derart eingerichtet sein, daß ohne Anwendung eines Zwanges zur Erlernung einer zweiten Landessprache jeder dieser Volksstämme die erforderlichen Mittel zur Ausbildung in seiner Sprache erhält\.
+>
+> *\(Beachte: Geltung fraglich; vgl\. Art\. 66, 67 und 68 des Staatsvertrages von St\. Germain iVm Art\. 8 B\-VG\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.StGG.md#art-19-stgg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000006&Paragraf=19) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000006#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_20_TextContainer_20) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.StGG.001.md#art-19-stgg) \]
 

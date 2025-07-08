@@ -54,6 +54,8 @@ Ein Tochterunternehmen (§ 189a Z 7 UGB) darf als Gründer oder Zeichner oder 
 `§ 51 (3) AktG.`  
 Wer als Gründer oder Zeichner oder in Ausübung eines Bezugsrechts gemäß § 165 eine Aktie für Rechnung der Gesellschaft oder eines Tochterunternehmens (§ 189a Z 7 UGB) übernommen hat, kann sich nicht darauf berufen, daß er die Aktie nicht für eigene Rechnung übernommen hat. Er haftet ohne Rücksicht auf Vereinbarungen mit der Gesellschaft oder dem Tochterunternehmen (§ 189a Z 7 UGB) auf die volle Einlage. Bevor er die Aktie für eigene Rechnung übernommen hat, stehen ihm keine Rechte aus der Aktie zu.
 
+*(Beachte: zum Bezugszeitraum vgl. § 262 Abs. 34)*
+
 ### § 52 AktG # Keine Rückgewähr der Einlagen
 
 `§ 52 AktG.`  
@@ -233,6 +235,8 @@ Die Wirksamkeit des Erwerbs eigener Aktien wird durch einen Verstoß gegen Abs.�
 `§ 65 (5) AktG.`  
 Aus eigenen Aktien stehen der Gesellschaft keine Rechte zu. Ein Tochterunternehmen (§ 189a Z 7 UGB) oder ein anderer, dem Aktien für Rechnung der Gesellschaft oder eines Tochterunternehmens (§ 189a Z 7 UGB) gehören, kann aus diesen Aktien das Stimmrecht und das Bezugsrecht nicht ausüben.
 
+*(Beachte: zum Bezugszeitraum vgl. § 262 Abs. 34)*
+
 ### § 65a AktG # Veräußerung und Einziehung eigener Aktien
 
 `§ 65a (1) AktG.`  
@@ -260,10 +264,14 @@ Ein Tochterunternehmen (§ 189a Z 7 UGB) darf an Aktien der Gesellschaft nur n
 `§ 66 (2) AktG.`  
 Ein Rechtsgeschäft zwischen der Gesellschaft oder einem Tochterunternehmen (§ 189a Z 7 UGB) und einem anderen, das auf den Erwerb eigener Aktien auf Rechnung der Gesellschaft oder des Tochterunternehmens (§ 189a Z 7 UGB) gerichtet ist, ist rechtsunwirksam, soweit dadurch gegen Abs. 1 sowie § 65 Abs. 1, 1a, 1b oder 2 verstoßen wird. Dies gilt auch für Rechtsgeschäfte mit einem Dritten, die auf Rechnung der Gesellschaft oder des Tochterunternehmens gehen und durch Inpfandnahme eigener Aktien besichert werden sollen. § 65b gilt sinngemäß.
 
+*(Beachte: zum Bezugszeitraum vgl. § 262 Abs. 34)*
+
 ### § 66a AktG # Finanzierung des Erwerbs von Aktien der Gesellschaft
 
 `§ 66a AktG.`  
 Ein Rechtsgeschäft, das die Gewährung eines Vorschusses oder eines Darlehens oder die Leistung einer Sicherheit durch die Gesellschaft an einen anderen zum Zweck des Erwerbs von Aktien dieser Gesellschaft oder eines Mutterunternehmens (§ 189a Z 6 UGB) zum Gegenstand hat, ist unzulässig. Dies gilt nicht für Rechtsgeschäfte im Rahmen des gewöhnlichen Betriebs von Kreditinstituten sowie für die Gewährung eines Vorschusses oder eines Darlehens oder für die Leistung einer Sicherheit zum Zweck des Erwerbs von Aktien durch oder für Arbeitnehmer der Gesellschaft oder eines mit ihr verbundenen Unternehmens. Diese Rechtsgeschäfte sind jedoch unzulässig, wenn bei einem Erwerb der Aktien durch die Gesellschaft diese den Abzug vom Nennkapital und die Bildung der Rücklage gemäß § 229 Abs. 1a UGB nicht vornehmen könnte, ohne daß das Nettoaktivvermögen das Grundkapital und eine nach Gesetz oder Satzung gebundene Rücklage unterschreiten würde. Die Rechtswirksamkeit des Geschäfts wird davon nicht berührt.
+
+*(Beachte: zum Bezugszeitraum vgl. § 262 Abs. 34)*
 
 ### § 67 AktG # Kraftloserklärung von Aktien durch die Gesellschaft
 

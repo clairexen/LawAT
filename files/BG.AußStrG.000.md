@@ -181,7 +181,7 @@
 * [§ 116 AußStrG # Vorrang des Völkerrechts](BG.AußStrG.006.md#-116-außstrg--vorrang-des-völkerrechts)
 
 **9. Abschnitt # Erwachsenenschutzverfahren**  
-* [§ 116a AußStrG # I. Verfahrensrechte der betroffenen Person](BG.AußStrG.006.md#-116a-außstrg--i-verfahrensrechte-der-betroffenen-person)
+* [§ 116a AußStrG # I. Verfahrensrechte der betroffenen Person](BG.AußStrG.007.md#-116a-außstrg--i-verfahrensrechte-der-betroffenen-person)
 
 **II. Bestellung eines gerichtlichen Erwachsenenvertreters**  
 * [§ 117 AußStrG # Verfahrenseinleitung](BG.AußStrG.007.md#-117-außstrg--verfahrenseinleitung)  

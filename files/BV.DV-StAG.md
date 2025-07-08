@@ -890,6 +890,8 @@
 
 > `(2)` § 28 gilt mit der Maßgabe sinngemäß, daß die in § 50 Z 1 bis 3 und 5 angeführten Register dauernd aufzubewahren sind\.
 
+> *\(Beachte: Inkrafttretensdatum des Abs\. 1: 1986/07/01 \(s\. § 53 Abs\. 1\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.DV-StAG.md#art-1--51-dv-stag--ausscheidung-von-behelfen-und-unterlagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000872&Paragraf=51) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000872#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_52_TextContainer_52) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.DV-StAG.003.md#art-1--51-dv-stag--ausscheidung-von-behelfen-und-unterlagen) \]
 
 ----

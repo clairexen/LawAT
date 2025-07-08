@@ -133,6 +133,8 @@ Die nach den Bestimmungen dieses Gesetzes gegen eine Person verhängten Geldstra
 `§ 220 (4) ZPO.`  
 Strafverfügungen sind von amtswegen zu vollziehen.
 
+*(Beachte: Abs. 2 ist anzuwenden, wenn die Zahlung nach dem 31. Dezember 2002 eingelangt ist. (vgl. Art. XI Abs. 4, BGBl. I Nr. 76/2002))*
+
 ## Achter Titel. # Sonn- und Feiertagsruhe, Fristenhemmung
 
 ### § 221 ZPO
@@ -219,6 +221,8 @@ dass die zur Bewahrheitung thatsächlicher Behauptungen in der Klage namhaft gem
 Dem unter Z 2 erwähnten Antrage ist nur dann stattzugeben, wenn sich die Partei die betreffenden Urkunden, Auskunftssachen oder Augenscheinsgegenstände nach den bestehenden gesetzlichen Vorschriften ohne Mitwirkung des Gerichtes nicht zu verschaffen vermag, oder wenn ihr deren Ausfolgung von der Behörde oder dem Notar in ungerechtfertigter Weise verweigert wurde.
 *(Anm.: Abs. 3 aufgehoben durch BGBl. I Nr. 76/2002)*
 
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
+
 ### § 230 ZPO
 
 `§ 230 (1) ZPO.`  
@@ -230,10 +234,14 @@ Wenn er jedoch der Ansicht ist, daß die Klage wegen Fehlens der inländischen G
 `§ 230 (3) ZPO.`  
 Das Fehlen der inländischen Gerichtsbarkeit, sofern es nicht geheilt ist (§ 104 JN), die Unzulässigkeit des Rechtswegs, die Streitanhängigkeit, die Rechtskraft eines die Streitsache betreffenden Urteils und die Klagerücknahme unter Anspruchsverzicht sind jederzeit von Amts wegen zu berücksichtigen.
 
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
+
 ### § 230a ZPO
 
 `§ 230a ZPO.`  
 Wird die sachliche oder örtliche Unzuständigkeit des angerufenen Gerichts ausgesprochen und die Klage zurückgewiesen, ohne daß der Kläger Gelegenheit hatte, einen Überweisungsantrag nach § 261 Abs. 6 zu stellen, und beantragt der Kläger binnen der Notfrist von vierzehn Tagen nach der Zustellung dieses Beschlusses die Überweisung der Klage an ein anderes Gericht, so hat das ursprünglich angerufene Gericht die Zurückweisung aufzuheben und die Klage dem vom Kläger namhaft gemachten Gericht zu überweisen, wenn es das andere Gericht nicht für offenbar unzuständig erachtet. Gegen diesen Beschluß ist, mit Ausnahme der Entscheidung über die Kosten eines allfälligen Zuständigkeitsstreites, ein Rechtsmittel nicht zulässig. Die Gerichtsanhängigkeit wird durch diese Überweisung nicht aufgehoben. Das Gericht, an das die Klage überwiesen worden ist, kann einen Mangel seiner Zuständigkeit nur noch wahrnehmen, wenn der Beklagte rechtzeitig die Einrede der Unzuständigkeit erhebt.
+
+*(Beachte: Nach Art. XXXII Z 8 WGN 1997, BGBl. I Nr. 140/1997, ist die Neufassung des ersten Satzes auf Verfahren anzuwenden, in denen die Klagen oder verfahrenseinleitenden Anträge bei Gericht nach dem 31. Dezember 1997 angebracht werden.)*
 
 ## Streitanhängigkeit.
 
@@ -306,6 +314,8 @@ Die Zurücknahme der Klage hat zur Folge, daß die Klage als nicht angebracht an
 `§ 237 (4) ZPO.`  
 Die zurückgenommene Klage kann neuerlich angebracht werden, wenn nicht bei deren Zurücknahme auf den geltend gemachten Anspruch verzichtet wurde.
 
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
+
 ### § 238 ZPO
 
 `§ 238 ZPO.`  
@@ -332,9 +342,13 @@ zur Stellung des Antrages auf Sicherheitsleistung für Prozesskosten und
 `§ 239 (3) Z 4 ZPO.`
 zur Abgabe eines Anerkenntnisses.
 
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
+
 ### § 240 ZPO
 
 `§ 240 ZPO.`  
 Wird die Einrede der sachlichen oder örtlichen Unzuständigkeit des Gerichtes nicht in der Klagebeantwortung geltend gemacht, so kann deren Fehlen nur noch berücksichtigt werden, wenn das Gericht auch durch ausdrückliche Vereinbarung der Parteien nicht zuständig gemacht werden könnte und die Unzuständigkeit noch nicht geheilt ist (§ 104 JN).
+
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
 
 `END-OF-DATA-FILE` *(fortges. in [BG.ZPO.008](BG.ZPO.008.md))*

@@ -28,6 +28,8 @@ Alle Einwendungen, die die verpflichtete Partei zur Zeit der Geltendmachung bei 
 `§ 35 (4) EO.`  
 Wenn den Einwendungen rechtskräftig stattgegeben wird, ist die Exekution einzustellen.
 
+*(Beachte: Zu Abs. 2: zum Bezugszeitraum vgl. Art. X § 2 Z 1, BGBl. Nr. 624/1994)*
+
 ### § 36 EO # Einwendungen gegen die Exekutionsbewilligung
 
 `§ 36 (1) EO.`  

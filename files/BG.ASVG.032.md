@@ -59,6 +59,8 @@ Liegt der gemäß Abs. 4 ermittelte Betrag unter dem Sollbetrag, hat der Versic
 `§ 322a (8) ASVG.`  
 Übersteigen die Differenzbeträge nach Abs. 6 die Summe der Ansprüche nach Abs. 5, hat der Dachverband die betreffenden Krankenversicherungsträger aufzufordern, nur die dem tatsächlichen Erfordernis entsprechend anteilig gekürzten Differenzbeträge (Abs. 6) bis 30. November eines jeden Folgejahres auf das Verrechnungskonto einzuzahlen; er hat ferner die gemäß Abs. 5 geltend gemachten Ansprüche voll zu befriedigen.
 
+*(Beachte: Abs. 2 und 4 treten nach Ablauf von sechs Monaten nach Außerkrafttreten der Vereinbarung gemäß Art. 15a B-VG über die Organisation und Finanzierung des Gesundheitswesens, in der jeweils geltenden Fassung außer Kraft (vgl. § 675 Abs. 3 und § 701 Abs. 2).)*
+
 ### § 322b ASVG # Belastungsausgleich der Krankenversicherungsträger für die zusätzlichen Aufwände aus der Einführung der Obergrenze bei Rezeptgebühren
 
 `§ 322b (1) ASVG.`  

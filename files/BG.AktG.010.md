@@ -97,6 +97,8 @@ Die Vorschriften des Unternehmensgesetzbuches über die Bücher sind anzuwenden.
 `§ 211 (5) AktG.`  
 Die Vorschriften für den Jahresabschluß gelten sinngemäß für die Eröffnungsbilanz.
 
+*(Beachte: zum Bezugszeitraum vgl. § 262 Abs. 34)*
+
 ### § 212 AktG # Verteilung des Vermögens
 
 `§ 212 (1) AktG.`  
@@ -146,6 +148,8 @@ Die Abwickler haben die Fortsetzung der Gesellschaft zur Eintragung in das Firme
 
 `§ 215 (4) AktG.`  
 Der Fortsetzungsbeschluß hat keine Wirkung, bevor er in das Firmenbuch des Sitzes der Gesellschaft eingetragen worden ist.
+
+*(Beachte: Ist anzuwenden, wenn das Insolvenzverfahren nach dem 30. Juni 2010 eröffnet oder wieder aufgenommen (§ 158 Abs. 2 IO) wurde (vgl. § 262 Abs. 21).)*
 
 ## ZWEITER ABSCHNITT # Nichtigkeit der Gesellschaft
 

@@ -99,6 +99,8 @@ Der Aufsichtsrat hat dafür zu sorgen, dass die Gesamtbezüge der Vorstandsmitgl
 `§ 78 (2) AktG.`  
 Wird über das Vermögen der Gesellschaft das Insolvenzverfahren eröffnet und der Anstellungsvertrag eines Vorstandsmitglieds gemäß § 25 IO aufgelöst, so kann dieses Ersatz für den ihm durch die Aufhebung des Dienstverhältnisses entstehenden Schaden nur für zwei Jahre seit dem Ablauf des Dienstverhältnisses verlangen.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 31.)*
+
 ### § 78a AktG # Grundsätze für die Bezüge der Vorstandsmitglieder in börsenotierten Gesellschaften
 
 `§ 78a (1) AktG.`  
@@ -128,6 +130,8 @@ Unter außergewöhnlichen Umständen kann die Gesellschaft vorübergehend von ih
 `§ 78a (9) AktG.`  
 In jeder überprüften Vergütungspolitik sind sämtliche wesentlichen Änderungen zu beschreiben und zu erläutern; dabei ist darauf einzugehen, wie die Abstimmungen und Ansichten der Aktionäre zur Vergütungspolitik und den Vergütungsberichten seit der letzten Abstimmung über die Vergütungspolitik in der Hauptversammlung berücksichtigt wurden.
 
+*(Beachte: zum Bezugszeitraum vgl. § 262 Abs. 41)*
+
 ### § 78b AktG # Abstimmung über die Vergütungspolitik und Veröffentlichung
 
 `§ 78b (1) AktG.`  
@@ -138,6 +142,8 @@ Die Gesellschaft darf die Mitglieder des Vorstands nur entsprechend einer Vergü
 
 `§ 78b (3) AktG.`  
 Die Vergütungspolitik ist nach der Abstimmung in der Hauptversammlung zusammen mit dem Datum und dem Ergebnis der Abstimmung spätestens am zweiten Werktag nach der Hauptversammlung auf der im Firmenbuch eingetragenen Internetseite der Gesellschaft zu veröffentlichen und hat dort mindestens für die Dauer ihrer Gültigkeit kostenfrei zugänglich zu bleiben.
+
+*(Beachte: zum Bezugszeitraum vgl. § 262 Abs. 41)*
 
 ### § 78c AktG # Erstellung eines Vergütungsberichts für die Bezüge der Vorstandsmitglieder in börsenotierten Gesellschaften
 
@@ -165,6 +171,8 @@ In den Vergütungsbericht dürfen keine besonderen Kategorien von personenbezoge
 `§ 78c (4) AktG.`  
 Die Gesellschaft hat die personenbezogenen Daten von Mitgliedern des Vorstands, die in den Vergütungsbericht aufgenommen wurden, zu dem Zweck, die Transparenz in Bezug auf die Vergütung zu erhöhen, zu verarbeiten. Unbeschadet längerer, in einem sektorspezifischen Rechtsakt der Europäischen Union festgelegter Fristen darf die Gesellschaft die personenbezogenen Daten von Mitgliedern des Vorstands, die in den Vergütungsbericht aufgenommen wurden, nach zehn Jahren ab der Veröffentlichung des Vergütungsberichts nicht mehr öffentlich zugänglich machen.
 
+*(Beachte: zum Bezugszeitraum vgl. § 262 Abs. 41)*
+
 ### § 78d AktG # Recht auf Abstimmung über den Vergütungsbericht
 
 `§ 78d (1) AktG.`  
@@ -172,6 +180,8 @@ Der Vergütungsbericht für das letzte Geschäftsjahr ist der Hauptversammlung z
 
 `§ 78d (2) AktG.`  
 In kleinen und mittleren Unternehmen im Sinne des § 221 Abs. 1 und 2 UGB kann der Vergütungsbericht des letzten Geschäftsjahrs auch nur als eigener Tagesordnungspunkt zur Erörterung in der Hauptversammlung vorgelegt werden. Die Gesellschaft hat im darauffolgenden Vergütungsbericht darzulegen, wie der Erörterung in der letzten Hauptversammlung Rechnung getragen wurde.
+
+*(Beachte: zum Bezugszeitraum vgl. § 262 Abs. 41)*
 
 ### § 78e AktG # Veröffentlichung des Vergütungsberichts
 
@@ -184,6 +194,8 @@ Der Abschlussprüfer hat zu überprüfen, ob der Vorstand die geforderten Inform
 `§ 78e (3) AktG.`  
 Der Vergütungsbericht ist nicht zum Firmenbuch einzureichen.
 
+*(Beachte: zum Bezugszeitraum vgl. § 262 Abs. 41)*
+
 ### § 79 AktG # Wettbewerbsverbot
 
 `§ 79 (1) AktG.`  
@@ -194,6 +206,8 @@ Verstößt ein Vorstandsmitglied gegen dieses Verbot, so kann die Gesellschaft S
 
 `§ 79 (3) AktG.`  
 Die Ansprüche der Gesellschaft verjähren in drei Monaten seit dem Zeitpunkt, in dem die übrigen Mitglieder des Vorstands und des Aufsichtsrats von der zum Schadenersatz verpflichtenden Handlung Kenntnis erlangen; sie verjähren ohne Rücksicht auf diese Kenntnis in fünf Jahren seit ihrer Entstehung.
+
+*(Beachte: zum Bezugszeitraum vgl. § 262 Abs. 34)*
 
 ### § 80 AktG # Kreditgewährung an Vorstandsmitglieder
 
@@ -217,10 +231,14 @@ Der Vorstand hat dem Aufsichtsrat mindestens einmal jährlich über grundsätzli
 `§ 81 (2) AktG.`  
 Der Jahresbericht und die Quartalsberichte sind schriftlich zu erstatten und auf Verlangen des Aufsichtsrats mündlich zu erläutern; sie sind jedem Aufsichtsratsmitglied auszuhändigen. Die Sonderberichte sind schriftlich oder mündlich zu erstatten. '
 
+*(Beachte: Im Titel der BGBl. I Nr. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl. I Nr. 106/1997.Nach Art. XII Abs. 11 IRÄG 1997, BGBl. I Nr. 114/1997, ist die Neufassung erst auf Geschäftsjahre anzuwenden, die nach dem 30.9.1997 beginnen.)*
+
 ### § 82 AktG # Rechnungswesen
 
 `§ 82 AktG.`  
 Der Vorstand hat dafür zu sorgen, daß ein Rechnungswesen und ein internes Kontrollsystem geführt werden, die den Anforderungen des Unternehmens entsprechen.
+
+*(Beachte: Im Titel der BGBl. I Nr. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl. I Nr. 106/1997.)*
 
 ### § 83 AktG # Vorstandspflichten bei Verlust
 

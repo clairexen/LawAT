@@ -1429,6 +1429,8 @@ Der Nationalrat hat beschlossen:
 
 > `(9)` Die Bundesministerin für Justiz ist ermächtigt, durch Verordnung Richtlinien über die Art und die Durchführung der elektronischen Überwachung zu erlassen\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. Art\. 5 Abs\. 2, BGBl\. I Nr\. 159/2021\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-52b-stgb--gerichtliche-aufsicht-bei-staatsfeindlichen-und-terroristischen-strafsachen-sowie-völkermord-verbrechen-gegen-die-menschlichkeit-kriegsverbrechen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=52b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-52b-stgb--gerichtliche-aufsicht-bei-staatsfeindlichen-und-terroristischen-strafsachen-sowie-völkermord-verbrechen-gegen-die-menschlichkeit-kriegsverbrechen) \]
 
 ----
@@ -1444,6 +1446,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` Bestehen gegen Ende der ursprünglichen oder verlängerten Probezeit nach bedingter Entlassung aus einer lebenslangen Freiheitsstrafe oder aus einer Freiheitsstrafe wegen einer strafbaren Handlung gegen die sexuelle Integrität und Selbstbestimmung von mehr als fünf Jahren sonst besondere Gründe zur Annahme, dass es einer weiteren Erprobung des Rechtsbrechers bedarf, so kann das Gericht die Probezeit um höchstens drei Jahre verlängern\. Eine wiederholte Verlängerung ist zulässig\.
 
 > `(5)` Nach Abs\. 4 kann auch in den Fällen vorgegangen werden, in denen nach § 52b gerichtliche Aufsicht nach bedingter Entlassung aus einer Freiheitsstrafe von mehr als achtzehn Monaten angeordnet wurde\. Vor einer solchen Anordnung ist eine gerichtliche Fallkonferenz nach § 52b Abs\. 3 StGB abzuhalten\. Die Weisung einer elektronischen Überwachung darf höchstens zehn Jahre aufrechterhalten werden\.
+
+> *\(Beachte: zum Bezugszeitraum vgl\. Art\. 5 Abs\. 2, BGBl\. I Nr\. 159/2021\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.md#-53-stgb--widerruf-der-bedingten-strafnachsicht-und-der-bedingten-entlassung-aus-einer-freiheitsstrafe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296&Paragraf=53) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StGB.004.md#-53-stgb--widerruf-der-bedingten-strafnachsicht-und-der-bedingten-entlassung-aus-einer-freiheitsstrafe) \]
 

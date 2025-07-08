@@ -22,6 +22,8 @@ Die Schüler sind verpflichtet, durch ihre Mitarbeit und ihre Einordnung in die 
 `§ 43 (2) SchUG.`  
 Der Schüler ist über Auftrag des Schulleiters, eines Abteilungsvorstandes, eines Fachvorstandes oder eines Lehrers verpflichtet, vorsätzlich durch ihn herbeigeführte Beschädigungen oder Beschmutzungen der Schulliegenschaft und schulischer Einrichtungen zu beseitigen, sofern dies zumutbar ist.
 
+*(Beachte: Abs. 1: Tritt hinsichtlich der 10. Schulstufen von zumindest dreijährigen mittleren und höheren Schulen mit 1. September 2017 und hinsichtlich der weiteren Schulstufen dieser Schularten jeweils mit 1. September der Folgejahre schulstufenweise aufsteigend in Kraft (vgl. § 82 Abs. 5s Z 6).)*
+
 ### § 44 SchUG # Gestaltung des Schullebens, Sicherheit in der Schule einschließlich Kinderschutz und Qualitätssicherung
 
 `§ 44 (1) SchUG.`  

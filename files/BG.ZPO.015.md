@@ -60,6 +60,8 @@ Das Berufungsgericht hat seiner Entscheidung die in den erstrichterlichen Proces
 `§ 498 (2) ZPO.`  
 Welche Bedeutung dem Widerspruche beizumessen ist, der gegen einzelne Feststellungen eines Protokolles erster Instanz rechtzeitig erhoben wurde, hat das Berufungsgericht, nöthigenfalls nach mündlicher Verhandlung über die vom Widerspruche betroffenen Feststellungen und Angaben (§. 488), unter sorgfältiger Würdigung der Ergebnisse des Berufungsverfahrens und aller sonstigen Umstände zu beurtheilen.
 
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
+
 ### § 499 ZPO
 
 `§ 499 (1) ZPO.`  
@@ -143,6 +145,8 @@ für Streitigkeiten nach § 549;
 `§ 502 (5) Z 6 ZPO.`
 für Streitigkeiten nach dem Bundes-Behindertengleichstellungsgesetz.
 
+*(Beachte: Abs. 5 Z 6 in der Fassung der ZVN 2022 ist auf Verfahren anzuwenden, in denen die Klage nach dem 30. April 2022 und vor dem 1. Mai 2032 eingebracht wird (vgl. § 619 Abs. 2 Z 13).)*
+
 ### § 503 ZPO
 
 `§ 503 ZPO.`  
@@ -198,6 +202,8 @@ bei einer außerordentlichen Revision (§ 505 Abs. 4) gesondert die Gründe, w
 `§ 506 (2) ZPO.`  
 Insoweit die Revision auf den im § 503 Z 4 angegebenen Revisionsgrund gestützt wird, ist in der Revisionsschrift ohne Weitläufigkeiten darzulegen, aus welchen Gründen die rechtliche Beurtheilung der Sache unrichtig erscheint.
 
+*(Beachte: Nach Art. XXXII Z 14 WGN 1997, BGBl. I Nr. 140/1997, ist die Neufassung des Abs. 1 Z 5 anzuwenden, wenn das Datum der Entscheidung der zweiten Instanz nach dem 31. Dezember 1997 liegt.)*
+
 ### § 507 ZPO
 
 `§ 507 (1) ZPO.`  
@@ -217,6 +223,8 @@ Von der Einbringung der Revisionsbeantwortung ist der Revisionswerber durch Mitt
 
 `§ 507 (6) ZPO.`  
 Die Überreichung der Revisionsschrift und Revisionsbeantwortung kann nicht durch Erklärungen zu gerichtlichem Protokoll ersetzt werden.
+
+*(Beachte: Nach Art. XXXII Z 14 WGN 1997, BGBl. I Nr. 140/1997, ist die Neufassung anzuwenden, wenn das Datum der Entscheidung der zweiten Instanz nach dem 31. Dezember 1997 liegt.)*
 
 ### § 507a ZPO
 
@@ -247,6 +255,8 @@ Für die Behandlung der Revisionsbeantwortung tritt im Fall des Abs. 3 Z 1 das
 `§ 507a (5) ZPO.`  
 Der § 464 Abs. 3 ist sinngemäß anzuwenden.
 
+*(Beachte: Nach Art. XXXII Z 14 WGN 1997, BGBl. I Nr. 140/1997, ist die Neufassung anzuwenden, wenn das Datum der Entscheidung der zweiten Instanz nach dem 31. Dezember 1997 liegt.)*
+
 ### § 507b ZPO
 
 `§ 507b (1) ZPO.`  
@@ -260,6 +270,8 @@ Eine außerordentliche Revision (§ 505 Abs. 4) ist dem Revisionsgericht samt 
 
 `§ 507b (4) ZPO.`  
 Ordentliche Revisionen, die verspätet oder aus einem anderen Grund als dem nach § 502 Abs. 1 unzulässig sind, hat das Berufungsgericht zurückzuweisen, wenn das Prozeßgericht erster Instanz dies noch nicht getan hat; dies vorbehaltlich des § 508.
+
+*(Beachte: Nach Art. XXXII Z 14 WGN 1997, BGBl. I Nr. 140/1997, ist die Neufassung anzuwenden, wenn das Datum der Entscheidung der zweiten Instanz nach dem 31. Dezember 1997 liegt.)*
 
 ### § 508 ZPO
 
@@ -294,6 +306,8 @@ Findet das Revisionsgericht nicht schon bei der ersten Prüfung, daß eine auße
 `§ 508a (3) ZPO.`  
 Von einer Mitteilung nach Abs. 2 sind auch das Prozeßgericht erster Instanz, das Berufungsgericht und der Revisionswerber zu verständigen. Das Berufungsgericht hat nach dem Einlangen dieser Verständigung dem Revisionsgericht die diesen Rechtsstreit betreffenden berufungsgerichtlichen Akten vorzulegen.
 
+*(Beachte: Nach Art. XXXII Z 14 WGN 1997, BGBl. I Nr. 140/1997, ist die Neufassung des Abs. 2 anzuwenden, wenn das Datum der Entscheidung der zweiten Instanz nach dem 31. Dezember 1997 liegt.)*
+
 ### § 509 ZPO
 
 `§ 509 (1) ZPO.`  
@@ -316,6 +330,8 @@ Findet das Revisionsgericht das Urtheil oder Verfahren wegen einer schon in erst
 `§ 510 (3) ZPO.`  
 In der Ausfertigung seiner Entscheidung kann das Revisionsgericht die Wiedergabe des Parteivorbringens und der tatsächlichen Entscheidungsgrundlagen auf das beschränken, was zum Verständnis seiner Rechtsausführungen erforderlich ist. Bestätigt der Oberste Gerichtshof das Urteil des Berufungsgerichts und erachtet er dessen Begründung für zutreffend, so reicht es aus, wenn er auf deren Richtigkeit hinweist. Die Beurteilung, daß eine geltend gemachte Mangelhaftigkeit oder Aktenwidrigkeit (§ 503 Z 2 und 3) nicht vorliegen, sowie die Zurückweisung einer außerordentlichen Revision (§ 505 Abs. 4) bedürfen keiner Begründung. Die Zurückweisung einer ordentlichen Revision wegen Fehlens einer erheblichen Rechtsfrage (§ 502 Abs. 1) kann sich auf die Ausführung der Zurückweisungsgründe beschränken.
 
+*(Beachte: Nach Art. XXXII Z 14 WGN 1997, BGBl. I Nr. 140/1997, ist die Neufassung des Abs. 3 dritter Satz anzuwenden, wenn das Datum der Entscheidung der zweiten Instanz nach dem 31. Dezember 1997 liegt. Nach Art. XXXII Z 15 WGN 1997 ist die Neufassung des Abs. 3 zweiter Satz anzuwenden, wenn das Datum der Entscheidung des Obersten Gerichtshofs nach dem 31. Dezember 1997 liegt.)*
+
 ### § 511 ZPO
 
 `§ 511 (1) ZPO.`  
@@ -333,66 +349,5 @@ Findet das Revisionsgericht, dass die Revision muthwillig oder nur zur Verzöger
 
 `§ 513 ZPO.`  
 Soweit sich nicht aus den Bestimmungen dieses Abschnittes Abweichungen ergeben, sind die Vorschriften über die Berufung auch auf die Revision anzuwenden.
-
-## Dritter Abschnitt. # Recurs. # Zulässigkeit.
-
-### § 514 ZPO
-
-`§ 514 (1) ZPO.`  
-Gegen Beschlüsse (Bescheide) ist, sofern das gegenwärtige Gesetz die Anfechtung derselben nicht ausschließt, der Recurs zulässig.
-
-`§ 514 (2) ZPO.`  
-Mittels Recurses können Beschlüsse insbesondere auch aus den im §. 477 angegebenen Gründen aufgehoben werden.
-
-### § 515 ZPO
-
-`§ 515 ZPO.`  
-In den Fällen, in welchen nach den Bestimmungen dieses Gesetzes gegen einen Beschluss ein abgesondertes Rechtsmittel versagt ist, können die Parteien ihre Beschwerden gegen diesen Beschluss mit dem gegen die nächstfolgende anfechtbare Entscheidung eingebrachten Rechtsmittel zur Geltung bringen.
-
-### § 517 ZPO
-
-`§ 517 (1) ZPO.`  
-Übersteigt der Streitgegenstand an Geld oder Geldeswert nicht den Betrag von 2 700 Euro, so kann nur gegen die folgenden Beschlüsse erster Instanz Rekurs ergriffen werden:  
-`§ 517 (1) Z 1 ZPO.`
-wenn die Einleitung oder Fortsetzung des gesetzmäßigen Verfahrens über die Klage verweigert wurde;  
-`§ 517 (1) Z 2 ZPO.`
-wenn über den Antrag auf Bestellung einer Sicherheit für die Processkosten oder auf Ergänzung dieser Sicherheit entschieden wurde;  
-`§ 517 (1) Z 3 ZPO.`
-wenn dem Begehren um Erstreckung einer Tagsatzung unter Verletzung der Bestimmungen des §. 134 stattgegeben wurde und der Beschluss zugleich gemäß §. 141 anfechtbar ist;  
-`§ 517 (1) Z 4 ZPO.`
-wenn ein Antrag auf Bewilligung der Wiedereinsetzung in den vorigen Stand wegen Versäumung einer Tagsatzung oder wegen Verstreichens der Frist zur Erhebung eines Rechtsmittels abgewiesen wurde;  
-`§ 517 (1) Z 5 ZPO.`
-wenn über Prozeßkosten entschieden worden ist;  
-`§ 517 (1) Z 6 ZPO.`
-wenn über die Aufhebung der Bestätigung der Vollstreckbarkeit entschieden worden ist (§ 7 Abs. 3 EO).
-
-`§ 517 (2) ZPO.`  
-Abs. 1 gilt nicht für die im § 502 Abs. 5 Z 3 bezeichneten Streitigkeiten.
-
-`§ 517 (3) ZPO.`  
-Ein Kostenrekurs ist jedenfalls unzulässig, wenn der Betrag, dessen Zuspruch oder Aberkennung beantragt wird, 50 Euro nicht übersteigt.
-
-### § 518 ZPO
-
-`§ 518 (1) ZPO.`  
-Im Verfahren über Klagen wegen Störung des Besitzstandes (§. 454) kann nur gegen Beschlüsse, durch welche die Einleitung oder Fortsetzung des Verfahrens über die Klage verweigert wird, und gegen den Endbeschluss Recurs ergriffen werden. Der § 461 Abs. 2 gilt sinngemäß.
-
-`§ 518 (2) ZPO.`  
-Beschwerden gegen alle anderen im Laufe des Verfahrens gefassten Beschlüsse, und insbesondere gegen die während des Verfahrens erlassenen einstweiligen Verfügungen sind mit dem gegen den Endbeschluss gerichteten Recurs zu verbinden.
-
-`§ 518 (3) ZPO.`  
-Übersteigt der Wert des Streitgegenstandes nicht den Betrag von 2 700 Euro, so kann der Endbeschluß nur aus den im § 501 angeführten Gründen angefochten werden.
-
-### § 519 ZPO
-
-`§ 519 (1) ZPO.`  
-Gegen einen im Berufungsverfahren ergehenden Beschluß des Berufungsgerichts ist der Rekurs nur zulässig,  
-`§ 519 (1) Z 1 ZPO.`
-soweit das Berufungsgericht die Klage oder die Berufung ohne Sachentscheidung aus formellen Gründen zurückgewiesen hat;  
-`§ 519 (1) Z 2 ZPO.`
-soweit das Berufungsgericht das erstgerichtliche Urteil aufgehoben und dem Gericht erster Instanz eine neuerliche, nach Ergänzung des Verfahrens zu fällende Entscheidung aufgetragen oder die Sache an ein anderes Berufungsgericht verwiesen und wenn es dabei ausgesprochen hat, daß der Rekurs an den Obersten Gerichtshof zulässig ist.
-
-`§ 519 (2) ZPO.`  
-Das Berufungsgericht darf die Zulässigkeit des Rekurses nach Abs. 1 Z 2 nur aussprechen, wenn es die Voraussetzungen für gegeben erachtet, unter denen nach § 502 die Revision zulässig ist; dieser Ausspruch ist kurz zu begründen. Im Fall eines solchen Ausspruchs ist das Verfahren in erster Instanz erst nach Rechtskraft des Aufhebungsbeschlusses fortzusetzen. Über einen solchen Rekurs kann der Oberste Gerichtshof durch Urteil in der Sache selbst erkennen, wenn die Streitsache zur Entscheidung reif ist.
 
 `END-OF-DATA-FILE` *(fortges. in [BG.ZPO.016](BG.ZPO.016.md))*

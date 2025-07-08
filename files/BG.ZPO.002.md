@@ -62,6 +62,8 @@ Dies gilt insbesondere auch von Anführungen und Beweisanbietungen, die bereits 
 `§ 45 ZPO.`  
 Hat der Beklagte durch sein Verhalten zur Erhebung der Klage nicht Veranlassung gegeben und den in der Klage erhobenen Anspruch sofort bei erster Gelegenheit anerkannt, so fallen die Processkosten dem Kläger zur Last. Er hat auch die dem Beklagten durch das eingeleitete gerichtliche Verfahren verursachten Kosten zu ersetzen.
 
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
+
 ### § 45a ZPO
 
 `§ 45a (1) ZPO.`  
@@ -127,6 +129,8 @@ Ist das Gericht bei Erlassung eines Teilurteils nicht in der Lage, hinsichtlich 
 `§ 52 (5) ZPO.`  
 Über die Verpflichtung zum Kostenersatz ist von Amts wegen zu entscheiden, wenn rechtzeitig ein Kostenverzeichnis gelegt wurde.
 
+*(Beachte: Ist in Verfahren anzuwenden, in denen der Schluss der mündlichen Verhandlung erster Instanz nach dem 30. Juni 2011 liegt (vgl. Art. 39 Abs. 10, BGBl. I Nr. 111/2010).)*
+
 ### § 53 ZPO
 
 `§ 53 (1) ZPO.`  
@@ -145,6 +149,8 @@ Das am Schluss der mündlichen Streitverhandlung erster Instanz (§ 193) dem Ge
 
 `§ 54 (2) ZPO.`  
 Entstehen einer Partei nach dem Zeitpunkt, bis zu dem nach Abs. 1 das Kostenverzeichnis einzureichen ist, weitere Kosten, deren Ersatz sie von dem anderen Teil verlangen kann, so kann sie eine Ergänzung der Entscheidung über die Höhe der zu ersetzenden Kosten beantragen. Bestehen die Kosten in einer Zahlungspflicht, so gelten sie als mit deren Begründung entstanden; haftet jedoch mit der zum Kostenersatz berechtigten Partei auch deren Gegner solidarisch, gelten die Kosten erst mit der Zahlung als entstanden. Der Antrag auf Ergänzung der Kostenentscheidung ist binnen einer Notfrist von vier Wochen ab dem Entstehen der Kosten zu stellen; bestehen jedoch die Kosten in einer Zahlungspflicht und ist der Gläubiger nicht der Bevollmächtigte der Partei, so beginnt die Frist erst zu laufen, wenn der Partei ihre Verbindlichkeit zahlenmäßig bekanntgegeben und wenn sie fällig oder wenn sie vorher gezahlt wird. Das Gericht entscheidet ohne mündliche Verhandlung durch Beschluß; im Verfahren vor dem Gerichtshof entscheidet der Vorsitzende.
+
+*(Beachte: Abs. 1a letzter Satz ist in Verfahren anzuwenden, in denen der Schluss der mündlichen Verhandlung erster Instanz nach dem 31. Dezember 2010 liegt (vgl. Art. 39 Abs. 10a, BGBl. I Nr. 111/2010).)*
 
 ### § 54a ZPO
 
@@ -207,6 +213,8 @@ Außer den beiden Fällen des §. 58 muss der Antrag auf Sicherheitsleistung fü
 
 `§ 59 (2) ZPO.`  
 In dem Antrage ist stets die Höhe der Sicherheitssumme anzugeben. Über den Antrag ist durch Beschluss zu entscheiden.
+
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
 
 ### § 60 ZPO
 

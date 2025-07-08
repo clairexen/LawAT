@@ -56,6 +56,8 @@ Wird die gesetzte Frist eingehalten, so gilt das Anbringen als zum ursprünglich
 `§ 10 (6) AußStrG.`  
 § 86a ZPO gilt sinngemäß.
 
+*(Beachte: Zum Bezugszeitraum:vgl. § 207h)*
+
 ### § 10a AußStrG
 
 `§ 10a AußStrG.`  
@@ -173,6 +175,8 @@ Die Bestimmungen der Zivilprozessordnung über die Fristen, ausgenommen § 222 
 
 `§ 23 (2) AußStrG.`  
 Die Fristen für die Einbringung und Beantwortung eines Rechtsmittels und die Anbringung eines Abänderungsantrags sind Notfristen.
+
+*(Beachte: Zum Bezugszeitraum:vgl. § 207h)*
 
 ### § 24 AußStrG # Zustellung
 

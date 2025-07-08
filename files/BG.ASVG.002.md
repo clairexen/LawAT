@@ -167,6 +167,8 @@ es sich um eine Beschäftigung als HausbesorgerIn nach dem Hausbesorgergesetz, B
 *gemäß BGBl. II Nr. 407/2023 für 2024: 518,44 €*  
 *gemäß BGBl. II Nr. 417/2024 für 2025: 551,1 €)*
 
+*(Beachte: zu Abs. 3 Z 2: zum Bezugszeitraum vgl. § 800)*
+
 ### § 5a ASVG # Betriebsvereinbarung zur Errichtung einer betrieblichen Gesundheitseinrichtung
 
 `§ 5a ASVG.`  
@@ -264,6 +266,8 @@ die freien Dienstnehmer/innen nach § 1 Abs. 6 B-KUVG;
 die Arbeitnehmer/innen nach dem GSAG.  
 `§ 7 Z 5 ASVG.`
 in der Pensionsversicherung überdies Lehrlinge, sofern sie nach den Vorschriften über die Krankenversicherung öffentlich Bediensteter bei der Versicherungsanstalt öffentlich Bediensteter, Eisenbahnen und Bergbau versichert sind.
+
+*(Beachte: Z 1 lit. e ist auch auf Sachverhalte anzuwenden, die vor dem 1.7.2019 verwirklicht wurden (vgl. § 725).)*
 
 ### § 8 ASVG # Sonstige Teilversicherung
 
@@ -398,6 +402,8 @@ Schüler an berufsbildenden Schulen sind nur dann gemäß Abs. 1 Z. 3 lit. h 
 *(_________________*  
 *Anm. 1: Soweit auf den Begriff „fachmännischer Laienrichter“ in der jeweiligen grammatikalischen Form Bezug genommen wird, tritt mit Wirkung vom 1. Mai 2022 an dessen Stelle der Begriff „fachkundiger Laienrichter“ in der jeweiligen grammatikalisch richtigen Form (vgl. § 123 Abs. 2 Z 3 JN).)*
 
+*(Beachte: zu Abs. 1 Z 1 lit. h: zum Bezugszeitraum vgl. § 800)*
+
 ### § 9 ASVG # Einbeziehung in die Krankenversicherung im Verordnungsweg
 
 `§ 9 ASVG.`  
@@ -470,6 +476,8 @@ Wurde ein Antrag auf Zuerkennung einer Pension gestellt, deren Bezug die Kranken
 
 *(_________________*  
 *Anm. 1: Soweit auf den Begriff „fachmännischer Laienrichter“ in der jeweiligen grammatikalischen Form Bezug genommen wird, tritt mit Wirkung vom 1. Mai 2022 an dessen Stelle der Begriff „fachkundiger Laienrichter“ in der jeweiligen grammatikalisch richtigen Form (vgl. § 123 Abs. 2 Z 3 JN).)*
+
+*(Beachte: zu Abs. 6a und 6b: zum Bezugszeitraum vgl. § 800)*
 
 ### § 11 ASVG # Ende der Pflichtversicherung
 

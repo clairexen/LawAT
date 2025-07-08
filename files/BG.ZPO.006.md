@@ -105,6 +105,8 @@ Jede Partei hat ihre Vorträge so zeitgerecht und vollständig zu erstatten, das
 `§ 179 ZPO.`  
 Die Parteien können bis zum Schluss der mündlichen Verhandlung neue auf den Gegenstand dieser Verhandlung bezügliche tatsächliche Behauptungen und Beweismittel vorbringen. Solches Vorbringen kann jedoch vom Gericht auf Antrag oder von Amts wegen zurückgewiesen werden, wenn es, insbesondere im Hinblick auf die Erörterung des Sach- und Rechtsvorbringens (§ 182a), grob schuldhaft nicht früher vorgebracht wurde und seine Zulassung die Erledigung des Verfahrens erheblich verzögern würde. Gegen den Beschluss ist ein abgesondertes Rechtsmittel nicht zulässig.
 
+*(Beachte: Ist auf Verfahren, die zum Zeitpunkt des In-Kraft-Tretens dieses Bundesgesetzes bereits anhängig sind, nur anzuwenden, wenn die mündliche Streitverhandlung erster Instanz nach dem 31. Dezember 2002 geschlossen worden ist. (vgl. Art. XI Abs. 3, BGBl. I Nr. 76/2002))*
+
 ## Processleitung. # 1. Durch den Vorsitzenden.
 
 ### § 180 ZPO
@@ -134,10 +136,14 @@ Wenn eine Partei in ihrem Vortrage von dem Inhalte eines von ihr überreichten v
 `§ 182 (3) ZPO.`  
 Außer dem Vorsitzenden können auch die anderen Mitglieder des Senates an die Parteien die zur Ermittlung des Streitverhältnisses und zur Feststellung des Thatbestandes geeigneten Fragen richten.
 
+*(Beachte: Nach Art. XXXII Z 8 WGN 1997, BGBl. I Nr. 140/1997, ist die Neufassung des Abs. 2 dritter Satz auf Verfahren anzuwenden, in denen die Klagen oder verfahrenseinleitenden Anträge bei Gericht nach dem 31. Dezember 1997 angebracht werden.)*
+
 ### § 182a ZPO
 
 `§ 182a ZPO.`  
 Das Gericht hat das Sach- und Rechtsvorbringen der Parteien mit diesen zu erörtern. Außer in Nebenansprüchen darf das Gericht seine Entscheidung auf rechtliche Gesichtspunkte, die eine Partei erkennbar übersehen oder für unerheblich gehalten hat, nur stützen, wenn es diese mit den Parteien erörtert (§ 182) und ihnen Gelegenheit zur Äußerung gegeben hat.
+
+*(Beachte: Ist auf Verfahren, die zum Zeitpunkt des In-Kraft-Tretens dieses Bundesgesetzes bereits anhängig sind, nur anzuwenden, wenn die mündliche Streitverhandlung erster Instanz nach dem 31. Dezember 2002 geschlossen worden ist. (vgl. Art. XI Abs. 3, BGBl. I Nr. 76/2002))*
 
 ### § 183 ZPO
 
@@ -292,6 +298,8 @@ Die Partei muss insbesondere auf die Möglichkeit aufmerksam gemacht werden, das
 
 `§ 198 (4) ZPO.`  
 Wenn eine an der Verhandlung betheiligte Person entfernt wurde, kann auf Antrag gegen sie in gleicher Weise verfahren werden, als wenn sie sich freiwillig entfernt hätte.
+
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
 
 ### § 199 ZPO
 

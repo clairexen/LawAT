@@ -152,10 +152,14 @@ Der verfahrenseinleitende Antrag kann in jeder Lage des Verfahrens bis zu einer 
 `§ 13 (9) AVG.`  
 *(Anm.: aufgehoben durch BGBl. I Nr. 10/2004)*
 
+*(Beachte: [CELEX-Nr.: 32014L0036, 32021L1187, 32021L1883])*
+
 ### § 13a AVG # Rechtsbelehrung
 
 `§ 13a AVG.`  
 Die Behörde hat Personen, die nicht durch berufsmäßige Parteienvertreter vertreten sind, die zur Vornahme ihrer Verfahrenshandlungen nötigen Anleitungen in der Regel mündlich zu geben und sie über die mit diesen Handlungen oder Unterlassungen unmittelbar verbundenen Rechtsfolgen zu belehren.
+
+*(Beachte: [CELEX-Nr.: 32014L0036, 32021L1187])*
 
 ### § 14 AVG # Niederschriften
 
@@ -213,6 +217,8 @@ Von der Akteneinsicht sind Aktenbestandteile ausgenommen, insoweit deren Einsich
 `§ 17 (4) AVG.`  
 Die Verweigerung der Akteneinsicht gegenüber der Partei eines anhängigen Verfahrens erfolgt durch Verfahrensanordnung.
 
+*(Beachte: [CELEX-Nr.: 32021L1187])*
+
 ### § 17a AVG # Blinde und hochgradig sehbehinderte Beteiligte
 
 `§ 17a AVG.`  
@@ -260,6 +266,8 @@ Steht die zu ladende Person in einem öffentlichen Amt oder Dienst oder im Diens
 
 `§ 21 AVG.`  
 Zustellungen sind nach dem Zustellgesetz – ZustG, BGBl. Nr. 200/1982, vorzunehmen.
+
+*(Beachte: [CELEX-Nr.: 32021L1187])*
 
 ### § 22 AVG
 

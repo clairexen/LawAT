@@ -153,6 +153,8 @@ Beitragszeitraum ist der Kalendermonat; er ist einheitlich mit 30 Kalendertagen
 *gemäß BGBl. II Nr. 407/2023 für 2024: 21,47 €*  
 *gemäß BGBl. II Nr. 417/2024 für 2025: 22,82 €)*
 
+*(Beachte: zum Bezugszeitraum vgl. § 688 Abs. 3 und 5)*
+
 ### § 77 ASVG # Ausmaß und Entrichtung
 
 `§ 77 (1) ASVG.`  
@@ -237,6 +239,8 @@ Für die nach § 18b Selbstversicherten sind die Beiträge zur Gänze aus Mitte
 *für 2023: 197,88 €*  
 *für 2024: 204,81 €*  
 *für 2025: 217,71 €)*
+
+*(Beachte: zum Bezugszeitraum vgl. § 688 Abs. 4 und 5)*
 
 ### § 78 ASVG # Fälligkeit, Einzahlung und Haftung
 

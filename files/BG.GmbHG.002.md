@@ -67,6 +67,8 @@ Der Rücktritt ist gegenüber der Generalversammlung, wenn dies in der Tagesordn
 `§ 16a (3) GmbHG.`  
 Ist oder wird ein Geschäftsführer nach § 15 Abs. 1a oder 1b disqualifiziert, so hat er unverzüglich seinen Rücktritt zu erklären; dieser wird nach Ablauf von 14 Tagen wirksam.
 
+*(Beachte: Im Titel der BGBl. I Nr. 114/1997 findet sich folgende Fußnote: Diese Kundmachung ersetzt die Kundmachung BGBl. I Nr. 106/1997.)*
+
 ### § 17 GmbHG
 
 `§ 17 (1) GmbHG.`  
@@ -77,6 +79,8 @@ Das Erlöschen der Vertretungsbefugnis kann auch vom abberufenen oder zurückget
 
 `§ 17 (3) GmbHG.`  
 Ist eine Person als Geschäftsführer eingetragen oder bekanntgemacht, so kann ein Mangel ihrer Bestellung einem Dritten nur entgegengehalten werden, wenn der Mangel diesem bekannt war.
+
+*(Beachte: Im Titel der BGBl. I Nr. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl. I Nr. 106/1997.)*
 
 ### § 18 GmbHG
 
@@ -130,6 +134,8 @@ Jedem Gesellschafter sind ohne Verzug nach Aufstellung des Jahresabschlusses sam
 `§ 22 (3) GmbHG.`  
 Ist das Einsichtsrecht der Gesellschafter gemäß Abs. 2 ausgeschlossen, die hiefür bestehende gesetzliche Frist verkürzt oder sonstigen Beschränkungen unterworfen worden, so sind der Lagebericht, der Vorschlag der Geschäftsführer für die Gewinnverteilung, der Prüfungsbericht und der Konzernprüfungsbericht jedem Gesellschafter unverzüglich zuzusenden.
 
+*(Beachte: Im Titel der BGBl. I Nr. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl. I Nr. 106/1997.)*
+
 ### § 23 GmbHG
 
 `§ 23 GmbHG.`  
@@ -153,6 +159,8 @@ Die vorstehend bezeichneten Rechte der Gesellschaft erlöschen in drei Monaten v
 
 `§ 24a GmbHG.`  
 Geschäftsführer sind der Gesellschaft gegenüber für die Dauer von fünf Jahren nach Beendigung ihrer Organstellung verpflichtet, im Rahmen des Zumutbaren Auskunft über die Geschäfte und Vermögenswerte der Gesellschaft aller Art zu geben.
+
+*(Beachte: Im Titel der BGBl. I Nr. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl. I Nr. 106/1997.)*
 
 ### § 25 GmbHG
 
@@ -212,5 +220,7 @@ Die Geschäftsführer haben dem Aufsichtsrat mindestens einmal jährlich über g
 
 `§ 28a (2) GmbHG.`  
 Der Jahresbericht und die Quartalsberichte sind schriftlich zu erstatten und auf Verlangen des Aufsichtsrats mündlich zu erläutern; sie sind jedem Aufsichtsratsmitglied auszuhändigen. Die Sonderberichte sind schriftlich oder mündlich zu erstatten.
+
+*(Beachte: Im Titel der BGBl. I Nr. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl. I Nr. 106/1997.Nach Art. XII Abs. 11 IRÄG 1997, BGBl. I Nr. 114/1997, ist dieNeufassung erstmalig auf nach dem 30. September 1997 beginnendeGeschäftsjahre anzuwenden.)*
 
 `END-OF-DATA-FILE` *(fortges. in [BG.GmbHG.003](BG.GmbHG.003.md))*

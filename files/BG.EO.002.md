@@ -152,6 +152,8 @@ Auf Anfrage des Gerichts haben der Bundesminister für Inneres aus der zentralen
 `§ 25b (3) EO.`  
 Die Vollstreckungsorgane dürfen die Grenzen ihres Gebiets sowie die Grenzen des Bezirksgerichtssprengels überschreiten. Sie dürfen stattdessen auch das nach dem voraussichtlichen Vollzugsort zuständige Vollstreckungsorgan um die Vornahme der Amtshandlung ersuchen. Das ersuchte Vollstreckungsorgan wird dabei im Auftrag des Gerichts, das den Vollzug angeordnet hat, tätig.
 
+*(Beachte: Ist auch auf in diesem Zeitpunkt anhängige Exekutionsverfahren anzuwenden (vgl. § 410 Abs. 2).)*
+
 ### § 25c EO # Kontaktaufnahme mit dem Verpflichteten
 
 `§ 25c EO.`  
@@ -191,6 +193,8 @@ Das Vollstreckungsorgan hat den betreibenden Gläubiger zum Erlag eines Kostenvo
 
 `§ 26a (3) EO.`  
 Die Kosten des Schlossers sind einstweilen vom betreibenden Gläubiger und bei Vorhandensein mehrerer betreibender Gläubiger von allen nach dem Verhältnis der vollstreckbaren Forderungen zu tragen.
+
+*(Beachte: Ist auch auf in diesem Zeitpunkt anhängige Exekutionsverfahren anzuwenden (vgl. § 410 Abs. 2).)*
 
 ### § 27 EO # Umfang der Exekution
 
@@ -272,6 +276,8 @@ Abs. 1 gilt auch für die Hereinbringung der Kosten bei einer Exekution zur Erw
 
 `§ 33 (4) EO.`  
 Wird die Exekution gegen mehr als einen Verpflichteten bewilligt, so sind die Verfahren nach der Exekutionsbewilligung zu trennen.
+
+*(Beachte: zum Bezugszeitraum vgl. § 502 Abs. 2)*
 
 ### § 34 EO # Tod des Verpflichteten
 

@@ -78,6 +78,8 @@ Der Tätigkeit als Aufsichtsratsmitglied ist die Tätigkeit als Verwaltungsratsm
 `§ 30a (5) GmbHG.`  
 Hat eine Person bereits so viele oder mehr Sitze in Aufsichtsräten inne, als gesetzlich zulässig ist, so kann sie in den Aufsichtsrat einer Gesellschaft erst berufen werden, sobald hiedurch die gesetzliche Höchstzahl nicht mehr überschritten wird.
 
+*(Beachte: zum Bezugszeitraum vgl. § 127 Abs. 18)*
+
 ### § 30b GmbHG
 
 `§ 30b (1) GmbHG.`  
@@ -112,6 +114,8 @@ Die entsandten Aufsichtsratsmitglieder können von den Entsendungsberechtigten j
 `§ 30c (4) GmbHG.`  
 Sind die im Gesellschaftsvertrag bestimmten Voraussetzungen des Entsendungsrechts weggefallen, so kann durch Gesellschafterbeschluß das entsandte Mitglied mit einfacher Stimmenmehrheit abberufen werden.
 
+*(Beachte: Im Titel der BGBl. I Nr. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl. I Nr. 106/1997.)*
+
 ### § 30d GmbHG
 
 `§ 30d (1) GmbHG.`  
@@ -130,6 +134,8 @@ Die Aufsichtsratsmitglieder können nicht zugleich Geschäftsführer oder dauern
 
 `§ 30e (2) GmbHG.`  
 Nur für einen im voraus begrenzten Zeitraum können durch Gesellschafterbeschluß einzelne Aufsichtsratsmitglieder zu Vertretern von behinderten Geschäftsführern bestellt werden. In dieser Zeit dürfen sie keine Tätigkeit als Aufsichtsratsmitglied ausüben. Das Wettbewerbsverbot für Geschäftsführer gilt für sie nicht.
+
+*(Beachte: zum Bezugszeitraum vgl. § 127 Abs. 18)*
 
 ### § 30f GmbHG
 
@@ -183,6 +189,8 @@ die Durchführung des Verfahrens zur Auswahl des Abschlussprüfers (Konzernabsch
 `§ 30g (5) GmbHG.`  
 Der Aufsichtsrat oder sein Ausschuß ist nur dann beschlußfähig, wenn an der Sitzung mindestens drei Mitglieder teilnehmen. Der Gesellschaftsvertrag kann eine höhere Zahl festsetzen. Die Beschlußfähigkeit eines Ausschusses, dem weniger als drei Aufsichtsratsmitglieder angehören, ist bei Anwesenheit seiner sämtlichen Mitglieder gegeben. Die schriftliche, fernmündliche oder eine andere vergleichbare Form der Stimmabgabe einzelner Aufsichtsratsmitglieder ist zulässig, wenn der Gesellschaftsvertrag oder der Aufsichtsrat dies vorsieht.
 
+*(Beachte: zum Bezugszeitraum vgl. § 127 Abs. 20)*
+
 ### § 30h GmbHG
 
 `§ 30h (1) GmbHG.`  
@@ -204,6 +212,8 @@ Wird einem von mindestens zwei Aufsichtsratsmitgliedern oder von den Geschäftsf
 
 `§ 30i (3) GmbHG.`  
 Der Aufsichtsrat muß mindestens viermal im Geschäftsjahr eine Sitzung abhalten. Die Sitzungen haben vierteljährlich stattzufinden.
+
+*(Beachte: Im Titel der BGBl. I Nr. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl. I Nr. 106/1997.Nach Art. XII Abs. 11 IRÄG 1997, BGBl. I Nr. 114/1997, ist dieNeufassung von Abs. 3 erstmalig auf nach dem 30. September 1997beginnende Geschäftsjahre anzuwenden.)*
 
 ### § 30j GmbHG
 
@@ -248,6 +258,8 @@ Zu den in den Z 1 und 2 genannten Geschäften kann der Gesellschaftsvertrag Bet
 `§ 30j (6) GmbHG.`  
 Die Aufsichtsratsmitglieder können ihre Obliegenheiten nicht durch andere ausüben lassen. Der Gesellschaftsvertrag kann aber zulassen, daß ein Aufsichtsratsmitglied ein anderes schriftlich mit seiner Vertretung bei einer einzelnen Sitzung betraut; ein so vertretenes Mitglied ist bei der Feststellung der Beschlußfähigkeit einer Sitzung nicht mitzuzählen. Das Recht, den Vorsitz zu führen, kann nicht übertragen werden.
 
+*(Beachte: zum Bezugszeitraum vgl. § 127 Abs. 18)*
+
 ### § 30k GmbHG
 
 `§ 30k (1) GmbHG.`  
@@ -258,6 +270,8 @@ In dem Bericht hat der Aufsichtsrat mitzuteilen, in welcher Art und in welchem U
 
 `§ 30k (3) GmbHG.`  
 Abs. 1 und 2 gelten sinngemäß auch für die Vorlage und Prüfung des Konzernabschlusses und des Konzernlageberichts sowie gegebenenfalls des gesonderten konsolidierten nichtfinanziellen Berichts, des konsolidierten Corporate Governance-Berichts und des konsolidierten Berichts über Zahlungen an staatliche Stellen.
+
+*(Beachte: Ist erstmalig auf Unterlagen für Geschäftsjahre anzuwenden, die nach dem 31. Dezember 2016 beginnen (vgl. § 127 Abs. 21).)*
 
 ### § 30l GmbHG
 

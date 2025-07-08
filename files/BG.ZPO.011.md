@@ -12,6 +12,27 @@
 
 *(Fortsetzg. v. [BG.ZPO.010](BG.ZPO.010.md))*
 
+## Ablehnung.
+
+### § 355 ZPO
+
+`§ 355 (1) ZPO.`  
+Sachverständige können aus denselben Gründen abgelehnt werden, welche zur Ablehnung eines Richters berechtigen; jedoch kann die Ablehnung nicht darauf gegründet werden, dass der Sachverständige früher in derselben Rechtssache als Zeuge vernommen wurde.
+
+`§ 355 (2) ZPO.`  
+Die Ablehnungserklärung ist bei dem Processgerichte, wenn aber die Auswahl der Sachverständigen dem beauftragten oder ersuchten Richter überlassen wurde, bei diesem vor dem Beginne der Beweisaufnahme, und bei schriftlicher Begutachtung vor erfolgter Einreichung des Gutachtens mittels Schriftsatz oder mündlich anzubringen. Später kann eine Ablehnung nur dann erfolgen, wenn die Partei glaubhaft macht, dass sie den Ablehnungsgrund vorher nicht erfahren oder wegen eines für sie unübersteiglichen Hindernisses nicht rechtzeitig geltend machen konnte.
+
+`§ 355 (3) ZPO.`  
+Ist im Falle einer solchen nachträglichen Ablehnung die durch einen beauftragten oder ersuchten Richter vorzunehmende Beweisaufnahme schon beendet, so kann die Ablehnung nur bei dem Processgerichte vorgebracht werden.
+
+### § 356 ZPO
+
+`§ 356 (1) ZPO.`  
+Gleichzeitig mit der Ablehnung sind die Gründe der Ablehnung anzugeben. Die Entscheidung über die Ablehnung steht dem erkennenden Gerichte oder dem beauftragten oder ersuchten Richter zu, je nachdem die Ablehnung zufolge §. 355 bei ersterem oder letzterem angebracht wurde.
+
+`§ 356 (2) ZPO.`  
+Die Entscheidung erfolgt, wenn die Ablehnung nicht bei einer Tagsatzung vorgebracht wird, ohne vorhergehende mündliche Verhandlung. Die ablehnende Partei hat die von ihr angegebenen Gründe der Ablehnung auf Verlangen des Gerichtes vor der Entscheidung glaubhaft zu machen. Wird der Ablehnung stattgegeben, so ist ohne Aufschub die Bestellung eines anderen Sachverständigen zu veranlassen.
+
 ## Beweisaufnahme
 
 ### § 357 ZPO
@@ -40,6 +61,8 @@ Den Sachverständigen sind diejenigen bei Gericht befindlichen Gegenstände, Act
 
 `§ 359 (2) ZPO.`  
 Benötigt der Sachverständige die Mitwirkung der Parteien oder dritter Personen und wird ihm diese auf seine Aufforderung nicht unverzüglich geleistet, so hat der Sachverständige dies dem Gericht unter genauer Auflistung der erforderlichen Mitwirkungshandlungen und der entgegenstehenden Hindernisse mitzuteilen. Das Gericht hat sodann mit abgesondert nicht anfechtbarem Beschluss den Parteien das Erforderliche aufzutragen und ihnen hiefür eine angemessene Frist zu setzen. Dieser Zeitraum ist in die dem Sachverständigen für die Begutachtung gesetzte Frist nicht einzurechnen. Kommen die Parteien der Aufforderung des Gerichts nicht fristgerecht nach, so hat der Sachverständige sein Gutachten ohne Berücksichtigung des Fehlenden zu erstatten. Werden die fehlenden Informationen noch vor Ausarbeitung des Gutachtens nachgebracht, so hat sie der Sachverständige sogleich zu berücksichtigen, ansonsten hat er ein Ergänzungsgutachen zu erstatten. Die Kosten dieses Gutachtens tragen unabhängig vom Verfahrensausgang die säumigen Parteien zur ungeteilten Hand.
+
+*(Beachte: Ist anzuwenden, wenn der Auftrag zur Gutachtenserstattung nach dem 31. Dezember 2002 erteilt worden ist. (vgl. Art. XI Abs. 5, BGBl. I Nr. 76/2002))*
 
 ### § 360 ZPO
 
@@ -345,11 +368,15 @@ Verzichtet der Kläger bei bei der mündlichen Streitverhandlung auf den geltend
 `§ 394 (2) ZPO.`  
 Bezieht sich der Verzicht nur auf einen von mehreren in der Klage geltend gemachten Ansprüchen oder auf einen Theil eines Anspruches, so kann auf Grund des Verzichtes auf Antrag ein Theilurtheil erlassen werden.
 
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
+
 ## Urtheil auf Grund von Anerkenntnis.
 
 ### § 395 ZPO
 
 `§ 395 ZPO.`  
 Wenn der Beklagte den gegen ihn erhobenen Anspruch bei der mündlichen Streitverhandlung ganz oder zum Theile anerkennt, so ist auf Antrag des Klägers dem Anerkenntnis gemäß durch Urtheil zu entscheiden.
+
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
 
 `END-OF-DATA-FILE` *(fortges. in [BG.ZPO.012](BG.ZPO.012.md))*

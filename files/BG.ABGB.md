@@ -1776,6 +1776,8 @@
 ### § 11 ABGB — b) Provinzial-Statuten
 
 > Nur jene Statuten einzelner Provinzen und Landesbezirke haben Gesetzeskraft, welche nach der Kundmachung dieses Gesetzbuches von dem Landesfürsten ausdrücklich bestätigt werden\.
+>
+> *\(Beachte: Aufgrund der geänderten Verfassungslage ist § 11 heute gegenstandslos\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-11-abgb--b-provinzial-statuten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=11) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.001.md#-11-abgb--b-provinzial-statuten) \]
 
@@ -2085,6 +2087,8 @@
 
 > `(4)` Ein Doppelname ist durch einen Bindestrich zwischen dessen einzelnen Teilen zu trennen\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 1503\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-93-abgb--name) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=93) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_42_TextContainer_42) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.001.md#-93-abgb--name) \]
 
 ----
@@ -2097,6 +2101,8 @@
 
 > `(3)` Eine Person kann bestimmen, dass ihr Familienname dem Geschlecht angepasst wird, soweit dies der Herkunft der Person oder der Tradition der Sprache entspricht, aus der der Name stammt\. Sie kann auch bestimmen, dass eine auf das Geschlecht hinweisende Endung des Namens entfällt\.
 
+> *\(Beachte: Ist auf Ehegatten anzuwenden, die die Ehe nach dem 31\.3\.2013 schließen \(vgl\. § 1503\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-93a-abgb) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=93a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.001.md#-93a-abgb) \]
 
 ----
@@ -2104,6 +2110,8 @@
 ### § 93b ABGB
 
 > Die Bestimmung oder Wiederannahme eines Familiennamens nach den §§ 93 und 93a ist nur einmalig zulässig\.
+>
+> *\(Beachte: Ist auf Ehegatten anzuwenden, die die Ehe nach dem 31\.3\.2013 schließen \(vgl\. § 1503\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-93b-abgb) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=93b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_44_TextContainer_44) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.001.md#-93b-abgb) \]
 
@@ -2112,6 +2120,8 @@
 ### § 93c ABGB
 
 > Namensrechtliche Erklärungen sind dem Standesbeamten gegenüber in öffentlicher oder öffentlich beglaubigter Urkunde abzugeben\. Ihre Wirkungen treten ein, sobald sie dem Standesbeamten zukommen\.
+>
+> *\(Beachte: Ist auf Ehegatten anzuwenden, die die Ehe nach dem 31\.3\.2013 schließen \(vgl\. § 1503\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-93c-abgb) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=93c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_45_TextContainer_45) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.001.md#-93c-abgb) \]
 
@@ -2678,6 +2688,8 @@
 > `(3)` Die Eltern können weiters dem Gericht – auch in Abänderung einer bestehenden Regelung – eine Vereinbarung über die Betrauung mit der Obsorge vorlegen, wobei die Betrauung eines Elternteils allein oder beider Eltern vereinbart werden kann\.
 
 > `(4)` Sind beide Elternteile mit der Obsorge betraut und leben sie nicht in häuslicher Gemeinschaft, so haben sie festzulegen, bei welchem Elternteil sich das Kind hauptsächlich aufhalten soll\. Außerdem muss der Elternteil, in dessen Haushalt das Kind hauptsächlich betreut wird, vorbehaltlich des § 158 Abs\. 2, mit der gesamten Obsorge betraut sein\. Im Fall des Abs\. 3 kann die Obsorge des Elternteils, in dessen Haushalt das Kind nicht hauptsächlich betreut wird, auf bestimmte Angelegenheiten beschränkt sein\.
+
+> *\(Beachte: Zu Abs\. 2: Für die Anwendung des Absatzes gelten § 7 Abs\. 2 und § 67 Abs\. 5 PStG 2013 ab 1\.Februar 2013 \(vgl\. § 72 Abs\. 1 PStG 2013, BGBl\. I Nr\. 16/2013\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-177-abgb--obsorge-der-eltern) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=177) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_94_TextContainer_94) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.003.md#-177-abgb--obsorge-der-eltern) \]
 
@@ -5361,6 +5373,8 @@
 ### § 436 ABGB — b) durch Urtheil und andere gerichtliche Urkunden;
 
 > Wenn das Eigentum unbeweglicher Sachen oder eines Bauwerkes zufolge rechtskräftigen Urteils, gerichtlicher Teilung oder Einantwortung einer Erbschaft übertragen werden soll, ist ebenfalls die Einverleibung \(§§ 431 bis 433\) oder die Hinterlegung der Urkunde \(§§ 434, 435\) erforderlich\.
+>
+> *\(Beachte: Zum Inkrafttretensdatum: 15\.4\.1916 \- für Urkundenhinterlegung \(Art\. II, RGBl\. Nr\. 69/1916\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-436-abgb--b-durch-urtheil-und-andere-gerichtliche-urkunden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=436) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_352_TextContainer_352) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.009.md#-436-abgb--b-durch-urtheil-und-andere-gerichtliche-urkunden) \]
 
@@ -5369,6 +5383,8 @@
 ### § 437 ABGB — oder c) durch Vermächtnis
 
 > Ebenso ist es, um das Eigentum eines vermachten unbeweglichen Gutes oder eines Bauwerkes zu erwerben, notwendig, daß die Sache dem Vermächtnisnehmer gemäß §§ 431 bis 435 übergeben werde\.
+>
+> *\(Beachte: Zum Inkrafttretensdatum: 15\.4\.1916 \- für Bauwerke \(Art\. II, RGBl\. Nr\. 69/1916\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-437-abgb--oder-c-durch-vermächtnis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=437) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_353_TextContainer_353) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.009.md#-437-abgb--oder-c-durch-vermächtnis) \]
 
@@ -5861,6 +5877,8 @@
 > `(1)` Das dingliche Recht der Dienstbarkeit kann an Gegenständen, die in den öffentlichen Büchern eingetragen sind, nur durch die Eintragung in diese erworben werden\.
 
 > `(2)` An bücherlich nicht eingetragenen Liegenschaften \(§ 434\) oder an Bauwerken \(§ 435\) wird das dingliche Recht durch die gerichtliche Hinterlegung einer über die Einräumung der Dienstbarkeit errichteten beglaubigten Urkunde; auf andere Sachen aber durch die oben \(§§ 426 bis 428\) angegebenen Arten der Übergabe erworben\.
+
+> *\(Beachte: Abs\. 2 erster Halbsatz in Kraft getreten am 15\.4\.1916\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-481-abgb--erwerbungsart) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=481) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_404_TextContainer_404) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.009.md#-481-abgb--erwerbungsart) \]
 
@@ -9651,6 +9669,8 @@
 ### § 953 ABGB — 5) der Gläubiger;
 
 > Unter eben dieser \(§\. 952\) Beschränkung können auch diejenigen Geschenke zurückgefordert werden, wodurch die zur Zeit der Schenkung schon vorhandenen Gläubiger verkürzt worden sind\. Auf Gläubiger, deren Forderungen jünger sind, als die Schenkung, erstreckt sich dieses Recht nur dann, wenn der Beschenkte eines hinterlistigen Einverständnisses überwiesen werden kann\.
+>
+> *\(Beachte: Materiell derogiert durch die Regelung der Schenkungsanfechtung durch § 29 IO und § 3 der Anfechtungsordnung, beide RGBl\. Nr\. 337/1914\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-953-abgb--5-der-gläubiger) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=953) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_826_TextContainer_826) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.017.md#-953-abgb--5-der-gläubiger) \]
 
@@ -9751,6 +9771,8 @@
 ### § 966 ABGB
 
 > Wenn Sachen verschlossen oder versiegelt hinterlegt, und in der Folge das Schloß oder Siegel verletzt worden; so ist der Hinterleger, wenn er einen Abgang behauptet, zur Beschwörung seines Schadens, in so fern derselbe nach seinem Stande, Gewerbe, Vermögen und den übrigen Umständen wahrscheinlich ist, nach Vorschrift der Gerichtsordnung zuzulassen; es wäre denn, daß der Verwahrer beweisen könnte, daß die Verletzung des Schlosses oder Siegels ohne sein Verschulden geschehen sey\. Das Nähmliche hat auch dann zu gelten, wenn sämmtliche auf solche Art hinterlegte Sachen in Verlust gerathen sind\.
+>
+> *\(Beachte: Materiell derogiert durch die ZPO, RGBl\. Nr\. 113/1895, die den formalisierten Beweiseid der AGO nicht mehr kennt\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-966-abgb) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=966) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_838_TextContainer_838) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.017.md#-966-abgb) \]
 
@@ -11063,6 +11085,8 @@
 ### § 1153 ABGB — 1. Dienstvertrag
 
 > Wenn sich aus dem Dienstvertrage oder aus den Umständen nichts anderes ergibt, hat der Dienstnehmer die Dienste in eigener Person zu leisten und ist der Anspruch auf die Dienste nicht übertragbar\. Soweit über Art und Umfang der Dienste nichts vereinbart ist, sind die den Umständen nach angemessenen Dienste zu leisten\.
+>
+> *\(Beachte: Für die meisten Dienstverträge gelten \- die §§ 1153 bis 1164 teils ergänzend, teils materiell derogierend \- Sondervorschriften\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1153-abgb--1-dienstvertrag) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1153) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_993_TextContainer_993) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.020.md#-1153-abgb--1-dienstvertrag) \]
 
@@ -11506,6 +11530,8 @@
 
 > `(3)` Der Beitrag eines Gesellschafters kann sich auch auf die Leistung von Diensten beschränken \(Arbeitsgesellschafter\)\. Einem solchen Gesellschafter kann im Gesellschaftsvertrag eine Beteiligungsquote zuerkannt werden, so als ob er einen Kapitalanteil geleistet hätte\. Andernfalls steht ihm für seine Mitwirkung bloß ein angemessener Betrag des Jahresgewinns zu \(§ 1195 Abs\. 4\)\.
 
+> *\(Beachte: Zum Geltungsbereich vgl\. § 1503 Abs\. 5\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1182-abgb--gesellschaftsanteil-und-beiträge-der-gesellschafter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1182) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1032_TextContainer_1032) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.021.md#-1182-abgb--gesellschaftsanteil-und-beiträge-der-gesellschafter) \]
 
 ----
@@ -11516,6 +11542,8 @@
 
 > `(2)` Die Geltendmachung eines weiteren Schadens ist nicht ausgeschlossen\.
 
+> *\(Beachte: Zum Geltungsbereich vgl\. § 1503 Abs\. 5\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1183-abgb--verzinsungspflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1183) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1033_TextContainer_1033) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.021.md#-1183-abgb--verzinsungspflicht) \]
 
 ----
@@ -11525,6 +11553,8 @@
 > `(1)` Die Gesellschafter sind nicht verpflichtet, Nachschüsse zur vertraglich zugesagten Einlage zu leisten\.
 
 > `(2)` Auch ohne Vereinbarung im Gesellschaftsvertrag können die Gesellschafter mit Stimmenmehrheit \(§ 1192 Abs\. 2\) die Leistung von Nachschüssen im Verhältnis ihrer Kapitalanteile beschließen, wenn die Fortführung der Gesellschaft sonst nicht möglich wäre\. Ein Gesellschafter, der dem Beschluss nicht zugestimmt hat und den Nachschuss nicht leistet, kann innerhalb angemessener Frist aus der Gesellschaft austreten oder aufgrund einer Klage der übrigen Gesellschafter vom Gericht aus der Gesellschaft ausgeschlossen werden\. Auf das Austrittsrecht kann im Vorhinein nicht verzichtet werden\. Für die Auseinandersetzung mit dem ausgetretenen oder ausgeschlossenen Gesellschafter und für die Ermittlung seiner Beteiligung an schwebenden Geschäften ist der Zeitpunkt der Beschlussfassung über die Nachschusspflicht maßgeblich\.
+
+> *\(Beachte: Zum Geltungsbereich vgl\. § 1503 Abs\. 5\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1184-abgb--nachschuss) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1184) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1034_TextContainer_1034) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.021.md#-1184-abgb--nachschuss) \]
 
@@ -11538,6 +11568,8 @@
 
 > `(3)` Ein Gesellschafter hat alles, was er zur Führung der Geschäfte erhält und was er aus der Geschäftsführung erlangt, an das Gesellschaftsvermögen abzuführen\.
 
+> *\(Beachte: Zum Geltungsbereich vgl\. § 1503 Abs\. 5\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1185-abgb--ersatz-für-aufwendungen-und-verluste-herausgabepflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1185) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1035_TextContainer_1035) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.021.md#-1185-abgb--ersatz-für-aufwendungen-und-verluste-herausgabepflicht) \]
 
 ----
@@ -11548,6 +11580,8 @@
 
 > `(2)` Die Gesellschafter sind unter gleichen Voraussetzungen gleich zu behandeln\.
 
+> *\(Beachte: Zum Geltungsbereich vgl\. § 1503 Abs\. 5\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1186-abgb--mitwirkung-interessenwahrung-und-gleichbehandlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1186) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1036_TextContainer_1036) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.021.md#-1186-abgb--mitwirkung-interessenwahrung-und-gleichbehandlung) \]
 
 ----
@@ -11555,6 +11589,8 @@
 ### § 1187 ABGB — Verbot schädlicher Nebengeschäfte
 
 > Die Gesellschafter dürfen kein der Gesellschaft schädliches Nebengeschäft unternehmen\. Für unternehmerisch tätige Gesellschaften gelten überdies die unternehmensrechtlichen Vorschriften über Wettbewerbsverbote und deren Rechtsfolgen\.
+>
+> *\(Beachte: Zum Geltungsbereich vgl\. § 1503 Abs\. 5\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1187-abgb--verbot-schädlicher-nebengeschäfte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1187) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1037_TextContainer_1037) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.021.md#-1187-abgb--verbot-schädlicher-nebengeschäfte) \]
 
@@ -11563,6 +11599,8 @@
 ### § 1188 ABGB — Durchsetzung von Gesellschaftsansprüchen
 
 > Die Erfüllung gesellschaftsbezogener Verpflichtungen eines Gesellschafters kann von jedem Gesellschafter zugunsten aller Gesellschafter gemeinsam eingefordert werden\. Davon abweichende Vereinbarungen sind unwirksam\.
+>
+> *\(Beachte: Zum Geltungsbereich vgl\. § 1503 Abs\. 5\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1188-abgb--durchsetzung-von-gesellschaftsansprüchen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1188) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1038_TextContainer_1038) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.021.md#-1188-abgb--durchsetzung-von-gesellschaftsansprüchen) \]
 
@@ -11578,6 +11616,8 @@
 
 > `(4)` Ein Gesellschafter darf im Zweifel die Führung der Geschäfte nicht einem Dritten übertragen\. Ist die Übertragung gestattet, so hat er nur ein ihm bei der Übertragung zur Last fallendes Verschulden zu vertreten\. Das Verschulden eines Gehilfen hat er in gleichem Umfang zu vertreten wie eigenes Verschulden\.
 
+> *\(Beachte: Zum Geltungsbereich vgl\. § 1503 Abs\. 5\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1189-abgb--geschäftsführung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1189) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1039_TextContainer_1039) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.021.md#-1189-abgb--geschäftsführung) \]
 
 ----
@@ -11589,6 +11629,8 @@
 > `(2)` Ist im Gesellschaftsvertrag bestimmt, dass die Gesellschafter, denen die Geschäftsführung zusteht, nur zusammen handeln können, so bedarf es für jedes Geschäft der Zustimmung aller geschäftsführenden Gesellschafter, es sei denn, dass Gefahr im Verzug ist\.
 
 > `(3)` Ist ein Gesellschafter an die Weisungen der übrigen Gesellschafter gebunden, so kann er von den ihm erteilten Weisungen abweichen, wenn er den Umständen nach annehmen darf, dass die übrigen Gesellschafter bei Kenntnis der Sachlage die Abweichung billigen würden\. Er hat die Abweichung den übrigen Gesellschaftern anzuzeigen und ihre Entscheidung abzuwarten, wenn nicht Gefahr im Verzug ist\.
+
+> *\(Beachte: Zum Geltungsbereich vgl\. § 1503 Abs\. 5\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1190-abgb--geschäftsführung-durch-mehrere-gesellschafter-weisungsgebundenheit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1190) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1040_TextContainer_1040) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.021.md#-1190-abgb--geschäftsführung-durch-mehrere-gesellschafter-weisungsgebundenheit) \]
 
@@ -11602,6 +11644,8 @@
 
 > `(3)` Zur Einräumung einer Vollmacht gemäß § 1008 bedarf es der Zustimmung aller geschäftsführenden Gesellschafter, es sei denn, dass Gefahr im Verzug ist\. Der Widerruf einer solchen Vollmacht kann von jedem der zur Erteilung oder zur Mitwirkung bei der Erteilung befugten Gesellschafter erfolgen\.
 
+> *\(Beachte: Zum Geltungsbereich vgl\. § 1503 Abs\. 5\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1191-abgb--umfang-der-geschäftsführungsbefugnis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1191) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1041_TextContainer_1041) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.021.md#-1191-abgb--umfang-der-geschäftsführungsbefugnis) \]
 
 ----
@@ -11611,6 +11655,8 @@
 > `(1)` Gesellschafterbeschlüsse erfordern die Zustimmung aller zur Mitwirkung bei der Beschlussfassung berufenen Gesellschafter\.
 
 > `(2)` Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, so bestimmt sie sich nach den abgegebenen gültigen Stimmen\. Das Stimmgewicht entspricht den Beteiligungsverhältnissen\. Sind nicht alle Gesellschafter am Kapital beteiligt, wird die Mehrheit nach Köpfen berechnet\. Arbeitsgesellschafter, denen der Gesellschaftsvertrag einen am Wert ihrer Arbeit orientierten Kapitalanteil zubilligt, gelten als am Kapital beteiligt\.
+
+> *\(Beachte: Zum Geltungsbereich vgl\. § 1503 Abs\. 5\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1192-abgb--gesellschafterbeschlüsse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1192) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1042_TextContainer_1042) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.021.md#-1192-abgb--gesellschafterbeschlüsse) \]
 
@@ -11622,6 +11668,8 @@
 
 > `(2)` Ein Gesellschafter kann seine Befugnis zur Geschäftsführung kündigen, wenn ein wichtiger Grund vorliegt\. Auf dieses Recht kann nicht verzichtet werden\. Die Geschäftsführung darf nur in der Art gekündigt werden, dass die Gesellschafter für die Führung der Geschäfte anderweitig Vorsorge treffen können, es sei denn, dass der wichtige Grund auch die unzeitige Kündigung rechtfertigt\.
 
+> *\(Beachte: Zum Geltungsbereich vgl\. § 1503 Abs\. 5\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1193-abgb--entziehung-und-kündigung-der-geschäftsführungsbefugnis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1193) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1043_TextContainer_1043) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.021.md#-1193-abgb--entziehung-und-kündigung-der-geschäftsführungsbefugnis) \]
 
 ----
@@ -11631,6 +11679,8 @@
 > `(1)` Ein geschäftsführender Gesellschafter ist verpflichtet, jedem anderen Gesellschafter die erforderlichen Nachrichten zu geben, auf Verlangen über den Stand der Geschäfte Auskunft zu erteilen und Rechenschaft abzulegen\. Ein Gesellschafter kann sich, auch wenn er von der Geschäftsführung ausgeschlossen ist, von den Angelegenheiten der Gesellschaft persönlich unterrichten, die Aufzeichnungen der Gesellschaft einsehen und sich aus ihnen eine Abrechnung anfertigen oder die Vorlage einer solchen Abrechnung fordern\.
 
 > `(2)` Eine Vereinbarung, durch die dieses Recht ausgeschlossen oder beschränkt wird, ist unwirksam\.
+
+> *\(Beachte: Zum Geltungsbereich vgl\. § 1503 Abs\. 5\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1194-abgb--kontrollrechte-der-gesellschafter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1194) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1044_TextContainer_1044) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.021.md#-1194-abgb--kontrollrechte-der-gesellschafter) \]
 
@@ -11648,6 +11698,8 @@
 
 > `(5)` Die Gesellschafterstellung steht der Vereinbarung eines Entgelts für der Gesellschaft geleistete Dienste nicht entgegen\.
 
+> *\(Beachte: Zum Geltungsbereich vgl\. § 1503 Abs\. 5\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1195-abgb--gewinn-und-verlust) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1195) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1045_TextContainer_1045) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.021.md#-1195-abgb--gewinn-und-verlust) \]
 
 ----
@@ -11657,6 +11709,8 @@
 > `(1)` Jeder Gesellschafter hat Anspruch auf Auszahlung seines Gewinnanteils\. Der Anspruch kann nicht geltend gemacht werden, soweit die Auszahlung zum offenbaren Schaden der Gesellschaft gereicht, die Gesellschafter etwas anderes beschließen oder der Gesellschafter vereinbarungswidrig seine Einlage nicht geleistet hat\.
 
 > `(2)` Im Übrigen ist ein Gesellschafter nicht befugt, ohne Einwilligung der anderen Gesellschafter Entnahmen zu tätigen\.
+
+> *\(Beachte: Zum Geltungsbereich vgl\. § 1503 Abs\. 5\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1196-abgb--gewinnausschüttung-und-entnahmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1196) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1046_TextContainer_1046) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.021.md#-1196-abgb--gewinnausschüttung-und-entnahmen) \]
 
@@ -11746,6 +11800,8 @@
 
 > `(4)` Verbleibt dem ausscheidenden Gesellschafter eine Verbindlichkeit aus dem Gesellschaftsverhältnis, so ist er verpflichtet, einen Ausgleich in entsprechender Höhe an die Gesellschafter zu zahlen\.
 
+> *\(Beachte: Zum Geltungsbereich vgl\. § 1503 Abs\. 5\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1203-abgb--auseinandersetzung-mit-dem-ausscheidenden-gesellschafter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1203) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1053_TextContainer_1053) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.021.md#-1203-abgb--auseinandersetzung-mit-dem-ausscheidenden-gesellschafter) \]
 
 ----
@@ -11755,6 +11811,8 @@
 > `(1)` Der ausgeschiedene Gesellschafter nimmt am Gewinn und am Verlust teil, der sich aus den zur Zeit seines Ausscheidens schwebenden Geschäften ergibt\. Die übrigen Gesellschafter sind berechtigt, diese Geschäfte so zu beenden, wie es ihnen am vorteilhaftesten erscheint\.
 
 > `(2)` Der ausgeschiedene Gesellschafter kann am Schluss jedes Geschäftsjahres Rechenschaft über die inzwischen beendeten Geschäfte, Auszahlung des ihm gebührenden Betrags und Auskunft über den Stand der noch schwebenden Geschäfte verlangen\.
+
+> *\(Beachte: Zum Geltungsbereich vgl\. § 1503 Abs\. 5\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1204-abgb--beteiligung-des-ausscheidenden-an-schwebenden-geschäften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1204) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1054_TextContainer_1054) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.021.md#-1204-abgb--beteiligung-des-ausscheidenden-an-schwebenden-geschäften) \]
 
@@ -11771,6 +11829,8 @@
 > `(4)` Scheidet innerhalb der Frist des Abs\. 3 der Erbe aus der Gesellschaft aus oder wird innerhalb der Frist die Gesellschaft aufgelöst oder dem Erben die Stellung eines Kommanditisten eingeräumt, so haftet er für die bis dahin entstandenen gesellschaftsbezogenen Verbindlichkeiten nur nach Maßgabe der die Haftung des Erben für Verbindlichkeiten der Verlassenschaft betreffenden Vorschriften\.
 
 > `(5)` Der Gesellschaftsvertrag kann die Anwendung der Vorschriften der Abs\. 1 bis 4 nicht ausschließen; es kann jedoch für den Fall, dass der Erbe sein Verbleiben von der Einräumung der Stellung eines Kommanditisten abhängig macht, sein Gewinnanteil anders als der des Verstorbenen bestimmt werden\.
+
+> *\(Beachte: Zum Geltungsbereich vgl\. § 1503 Abs\. 5\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1205-abgb--fortsetzung-mit-den-erben) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1205) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1055_TextContainer_1055) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.021.md#-1205-abgb--fortsetzung-mit-den-erben) \]
 
@@ -11819,6 +11879,8 @@
 >> `4.` durch Kündigung oder durch gerichtliche Entscheidung;
 >
 >> `5.` durch den Tod eines Gesellschafters, sofern sich aus dem Gesellschaftsvertrag nichts anderes ergibt\.
+>
+> *\(Beachte: Zum Geltungsbereich vgl\. § 1503 Abs\. 5\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1208-abgb--auflösungsgründe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1208) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1058_TextContainer_1058) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.021.md#-1208-abgb--auflösungsgründe) \]
 
@@ -11829,6 +11891,8 @@
 > `(1)` Die Kündigung der Gesellschaft durch einen Gesellschafter kann, wenn die Gesellschaft für unbestimmte Zeit eingegangen ist, nur für den Schluss eines Geschäftsjahres erfolgen; sie muss mindestens sechs Monate vor diesem Zeitpunkt stattfinden\.
 
 > `(2)` Eine Vereinbarung, durch die das Kündigungsrecht ausgeschlossen oder in anderer Weise als durch angemessene Verlängerung der Kündigungsfrist erschwert wird, ist nichtig\. Dies gilt nicht für Innengesellschaften \(§ 1176 Abs\. 1\)\.
+
+> *\(Beachte: zum Geltungsbereich vgl\. § 1503 Abs\. 5\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1209-abgb--kündigung-durch-einen-gesellschafter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1209) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1059_TextContainer_1059) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.021.md#-1209-abgb--kündigung-durch-einen-gesellschafter) \]
 
@@ -11842,6 +11906,8 @@
 
 > `(3)` Eine Vereinbarung, durch die das Recht des Gesellschafters, die Auflösung der Gesellschaft zu verlangen, ausgeschlossen oder diesen Vorschriften zuwider beschränkt wird, ist nichtig\.
 
+> *\(Beachte: Zum Geltungsbereich vgl\. § 1503 Abs\. 5\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1210-abgb--auflösung-durch-gerichtliche-entscheidung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1210) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1060_TextContainer_1060) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.021.md#-1210-abgb--auflösung-durch-gerichtliche-entscheidung) \]
 
 ----
@@ -11849,6 +11915,8 @@
 ### § 1211 ABGB — Gesellschaft auf Lebenszeit, Befristung
 
 > Eine Gesellschaft, die für die Lebenszeit eines Gesellschafters eingegangen ist oder nach dem Ablauf der für ihre Dauer bestimmten Zeit stillschweigend fortgesetzt wird, steht im Sinn der §§ 1209 und 1210 einer für unbestimmte Zeit eingegangen Gesellschaft gleich\.
+>
+> *\(Beachte: Zum Geltungsbereich vgl\. § 1503 Abs\. 5\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1211-abgb--gesellschaft-auf-lebenszeit-befristung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1211) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1061_TextContainer_1061) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.021.md#-1211-abgb--gesellschaft-auf-lebenszeit-befristung) \]
 
@@ -11859,6 +11927,8 @@
 > `(1)` Tritt in der Person eines Gesellschafters ein Umstand ein, der nach § 1210 für jeden der übrigen Gesellschafter das Recht begründet, die Auflösung der Gesellschaft zu verlangen, so kann vom Gericht aufgrund einer Klage aller übrigen Gesellschafter anstatt der Auflösung der Ausschluss dieses Gesellschafters aus der Gesellschaft ausgesprochen werden\. Der Ausschließungsklage steht nicht entgegen, dass nach dem Ausschluss nur ein Gesellschafter verbleibt\.
 
 > `(2)` Für die Auseinandersetzung zwischen den verbleibenden Gesellschaftern und dem ausgeschlossenen Gesellschafter ist die Vermögenslage der Gesellschaft in dem Zeitpunkt maßgeblich, in dem die Klage auf Ausschließung erhoben wird\.
+
+> *\(Beachte: Zum Geltungsbereich vgl\. § 1503 Abs\. 5\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1213-abgb--ausschluss-statt-auflösung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1213) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1062_TextContainer_1062) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.021.md#-1213-abgb--ausschluss-statt-auflösung) \]
 
@@ -11871,6 +11941,8 @@
 > `(2)` Im Fall der Kündigung nach § 339 Abs\. 1 EO scheidet der betreffende Gesellschafter mit dem Ende des Geschäftsjahres aus der Gesellschaft aus; in den übrigen Fällen mit dem Wirksamwerden des Beschlusses\.
 
 > `(3)` Im Fall der Eröffnung des Konkursverfahrens über das Vermögen eines Gesellschafters ist Abs\. 1 mit der Maßgabe anzuwenden, dass eine Erklärung gegenüber dem Masseverwalter zu erfolgen hat und der Schuldner mit dem Zeitpunkt der Konkurseröffnung als aus der Gesellschaft ausgeschieden gilt\.
+
+> *\(Beachte: zum Geltungsbereich vgl\. § 1503 Abs\. 5\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1214-abgb--fortsetzungsbeschluss) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1214) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1063_TextContainer_1063) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.021.md#-1214-abgb--fortsetzungsbeschluss) \]
 
@@ -12913,6 +12985,8 @@
 ### § 1354 ABGB
 
 > Von der Einwendung, wodurch ein Schuldner nach Vorschrift der Gesetze die Beybehaltung eines Theiles seines Vermögens zu seinem Unterhalte zu fordern berechtiget ist, kann der Bürge nicht Gebrauch machen\.
+>
+> *\(Beachte: Dieser Schutz wird jetzt durch das Exekutionsrecht gewährt, der aber auch dem Bürgen zustatten kommt\. § 1354 ist daher gegenstandslos\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.md#-1354-abgb) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622&Paragraf=1354) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1183_TextContainer_1183) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ABGB.024.md#-1354-abgb) \]
 

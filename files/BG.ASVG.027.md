@@ -199,6 +199,8 @@ Wurden dem Versicherten Maßnahmen der Rehabilitation gewährt, durch die das im
 `§ 255 (7) ASVG.`  
 Als invalid im Sinne der Abs. 1 bis 4 gilt der (die) Versicherte auch dann, wenn er (sie) bereits vor der erstmaligen Aufnahme einer die Pflichtversicherung begründenden Beschäftigung infolge von Krankheit oder anderen Gebrechen oder Schwäche seiner (ihrer) körperlichen oder geistigen Kräfte außer Stande war, einem regelmäßigen Erwerb nachzugehen, dennoch aber mindestens 120 Beitragsmonate der Pflichtversicherung auf Grund einer Erwerbstätigkeit nach diesem oder einem anderen Bundesgesetz erworben hat.
 
+*(Beachte: Zum Bezugszeitraum:zu Abs. 4: vgl. § 666 Abs. 4)*
+
 ### § 255a ASVG # Feststellung der Invalidität
 
 `§ 255a ASVG.`  

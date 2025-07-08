@@ -19,6 +19,8 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 `Art. 1 EMRK.`  
 Die Hohen Vertragschließenden Teile sichern allen ihrer Jurisdiktion unterstehenden Personen die in Abschnitt I dieser Konvention niedergelegten Rechte und Freiheiten zu.
 
+*(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl. Nr. 59/1964 mit Verfassungsrang ausgestattet.)*
+
 ## ABSCHNITT I – Rechte und Freiheiten
 
 ### Art. 2 EMRK # Artikel 2 – Recht auf Leben
@@ -35,10 +37,14 @@ um eine ordnungsgemäße Festnahme durchzuführen oder das Entkommen einer ordnu
 `Art. 2 (2) lit. c EMRK.`
 um im Rahmen der Gesetze einen Aufruhr oder einen Aufstand zu unterdrücken.
 
+*(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl. Nr. 59/1964 mit Verfassungsrang ausgestattet.)*
+
 ### Art. 3 EMRK # Artikel 3 – Verbot der Folter
 
 `Art. 3 EMRK.`  
 Niemand darf der Folter oder unmenschlicher oder erniedrigender Strafe oder Behandlung unterworfen werden.
+
+*(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl. Nr. 59/1964 mit Verfassungsrang ausgestattet.)*
 
 ### Art. 4 EMRK # Artikel 4 – Verbot der Sklaverei und der Zwangsarbeit
 
@@ -58,6 +64,8 @@ jede Dienstleistung militärischen Charakters, oder im Falle der Verweigerung au
 jede Dienstleistung im Falle von Notständen und Katastrophen, die das Leben oder das Wohl der Gemeinschaft bedrohen;  
 `Art. 4 (3) lit. d EMRK.`
 jede Arbeit oder Dienstleistung, die zu den normalen Bürgerpflichten gehört.
+
+*(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl. Nr. 59/1964 mit Verfassungsrang ausgestattet.)*
 
 ## Artikel 5
 
@@ -96,6 +104,8 @@ Niemand kann wegen einer Handlung oder Unterlassung verurteilt werden, die zur Z
 `Art. 7 (2) EMRK.`  
 Durch diesen Artikel darf die Verurteilung oder Bestrafung einer Person nicht ausgeschlossen werden, die sich einer Handlung oder Unterlassung schuldig gemacht hat, welche im Zeitpunkt ihrer Begehung nach den von den zivilisierten Völkern allgemein anerkannten Rechtsgrundsätzen strafbar war.
 
+*(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl. Nr. 59/1964 mit Verfassungsrang ausgestattet.)*
+
 ### Art. 8 EMRK # Artikel 8 – Recht auf Achtung des Privat- und Familienlebens
 
 `Art. 8 (1) EMRK.`  
@@ -103,6 +113,8 @@ Jedermann hat Anspruch auf Achtung seines Privat- und Familienlebens, seiner Woh
 
 `Art. 8 (2) EMRK.`  
 Der Eingriff einer öffentlichen Behörde in die Ausübung dieses Rechts ist nur statthaft, insoweit dieser Eingriff gesetzlich vorgesehen ist und eine Maßnahme darstellt, die in einer demokratischen Gesellschaft für die nationale Sicherheit, die öffentliche Ruhe und Ordnung, das wirtschaftliche Wohl des Landes, die Verteidigung der Ordnung und zur Verhinderung von strafbaren Handlungen, zum Schutz der Gesundheit und der Moral oder zum Schutz der Rechte und Freiheiten anderer notwendig ist.
+
+*(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl. Nr. 59/1964 mit Verfassungsrang ausgestattet.)*
 
 ### Art. 9 EMRK # Artikel 9 – Gedanken-, Gewissens- und Religionsfreiheit
 
@@ -112,6 +124,8 @@ Jedermann hat Anspruch auf Gedanken-, Gewissens- und Religionsfreiheit; dieses R
 `Art. 9 (2) EMRK.`  
 Die Religions- und Bekenntnisfreiheit darf nicht Gegenstand anderer als vom Gesetz vorgesehener Beschränkungen sein, die in einer demokratischen Gesellschaft notwendige Maßnahmen im Interesse der öffentlichen Sicherheit, der öffentlichen Ordnung, Gesundheit und Moral oder für den Schutz der Rechte und Freiheiten anderer sind.
 
+*(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl. Nr. 59/1964 mit Verfassungsrang ausgestattet.)*
+
 ### Art. 10 EMRK # Artikel 10 – Freiheit der Meinungsäußerung
 
 `Art. 10 (1) EMRK.`  
@@ -119,6 +133,8 @@ Jedermann hat Anspruch auf freie Meinungsäußerung. Dieses Recht schließt die 
 
 `Art. 10 (2) EMRK.`  
 Da die Ausübung dieser Freiheiten Pflichten und Verantwortung mit sich bringt, kann sie bestimmten, vom Gesetz vorgesehenen Formvorschriften, Bedingungen, Einschränkungen oder Strafdrohungen unterworfen werden, wie sie in einer demokratischen Gesellschaft im Interesse der nationalen Sicherheit, der territorialen Unversehrtheit oder der öffentlichen Sicherheit, der Aufrechterhaltung der Ordnung und der Verbrechensverhütung, des Schutzes der Gesundheit und der Moral, des Schutzes des guten Rufes oder der Rechte anderer unentbehrlich sind, um die Verbreitung von vertraulichen Nachrichten zu verhindern oder das Ansehen und die Unparteilichkeit der Rechtsprechung zu gewährleisten.
+
+*(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl. Nr. 59/1964 mit Verfassungsrang ausgestattet.)*
 
 ### Art. 11 EMRK # Artikel 11 – Versammlungs- und Vereinigungsfreiheit
 
@@ -128,20 +144,28 @@ Alle Menschen haben das Recht, sich friedlich zu versammeln und sich frei mit an
 `Art. 11 (2) EMRK.`  
 Die Ausübung dieser Rechte darf keinen anderen Einschränkungen unterworfen werden als den vom Gesetz vorgesehenen, die in einer demokratischen Gesellschaft im Interesse der nationalen und öffentlichen Sicherheit, der Aufrechterhaltung der Ordnung und der Verbrechensverhütung, des Schutzes der Gesundheit und der Moral oder des Schutzes der Rechte und Freiheiten anderer notwendig sind. Dieser Artikel verbietet nicht, daß die Ausübung dieser Rechte durch Mitglieder der Streitkräfte, der Polizei oder der Staatsverwaltung gesetzlichen Einschränkungen unterworfen wird.
 
+*(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl. Nr. 59/1964 mit Verfassungsrang ausgestattet.)*
+
 ### Art. 12 EMRK # Artikel 12 – Recht auf Eheschließung
 
 `Art. 12 EMRK.`  
 Mit Erreichung des heiratsfähigen Alters haben Männer und Frauen gemäß den einschlägigen nationalen Gesetzen das Recht, eine Ehe einzugehen und eine Familie zu gründen.
+
+*(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl. Nr. 59/1964 mit Verfassungsrang ausgestattet.)*
 
 ### Art. 13 EMRK # Artikel 13 – Recht auf wirksame Beschwerde
 
 `Art. 13 EMRK.`  
 Sind die in der vorliegenden Konvention festgelegten Rechte und Freiheiten verletzt worden, so hat der Verletzte das Recht, eine wirksame Beschwerde bei einer nationalen Instanz einzulegen, selbst wenn die Verletzung von Personen begangen worden ist, die in amtlicher Eigenschaft gehandelt haben.
 
+*(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl. Nr. 59/1964 mit Verfassungsrang ausgestattet.)*
+
 ### Art. 14 EMRK # Artikel 14 – Verbot der Benachteiligung
 
 `Art. 14 EMRK.`  
 Der Genuß der in der vorliegenden Konvention festgelegten Rechte und Freiheiten ist ohne Benachteiligung zu gewährleisten, die insbesondere im Geschlecht, in der Rasse, Hautfarbe, Sprache, Religion, in den politischen oder sonstigen Anschauungen, in nationaler oder sozialer Herkunft, in der Zugehörigkeit zu einer nationalen Minderheit, im Vermögen, in der Geburt oder im sonstigen Status begründet ist.
+
+*(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl. Nr. 59/1964 mit Verfassungsrang ausgestattet.)*
 
 ### Art. 15 EMRK # Artikel 15 – Außerkraftsetzen im Notstandsfall
 
@@ -154,20 +178,28 @@ Die vorstehende Bestimmung gestattet kein Außerkraftsetzen des Artikels 2 auße
 `Art. 15 (3) EMRK.`  
 Jeder Hohe Vertragschließende Teil, der dieses Recht der Außerkraftsetzung ausübt, hat den Generalsekretär des Europarats eingehend über die getroffenen Maßnahmen und deren Gründe zu unterrichten. Er muß den Generalsekretär des Europarats auch über den Zeitpunkt in Kenntnis setzen, in dem diese Maßnahmen außer Kraft getreten sind und die Vorschriften der Konvention wieder volle Anwendung finden.
 
+*(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl. Nr. 59/1964 mit Verfassungsrang ausgestattet.)*
+
 ### Art. 16 EMRK # Artikel 16 – Beschränkungen der politischen Tätigkeit von Ausländern
 
 `Art. 16 EMRK.`  
 Keine der Bestimmungen der Artikel 10, 11 und 14 darf so ausgelegt werden, daß sie den Hohen Vertragschließenden Parteien verbietet, die politische Tätigkeit von Ausländern Beschränkungen zu unterwerfen.
+
+*(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl. Nr. 59/1964 mit Verfassungsrang ausgestattet.)*
 
 ### Art. 17 EMRK # Artikel 17 – Verbot des Mißbrauchs der Rechte
 
 `Art. 17 EMRK.`  
 Keine Bestimmung dieser Konvention darf dahin ausgelegt werden, daß sie für einen Staat, eine Gruppe oder eine Person das Recht begründet, eine Tätigkeit auszuüben oder eine Handlung zu begehen, die auf die Abschaffung der in der vorliegenden Konvention festgelegten Rechte und Freiheiten oder auf weitergehende Beschränkungen dieser Rechte und Freiheiten, als in der Konvention vorgesehen, hinzielt.
 
+*(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl. Nr. 59/1964 mit Verfassungsrang ausgestattet.)*
+
 ### Art. 18 EMRK # Artikel 18 – Begrenzung der Rechtseinschränkungen
 
 `Art. 18 EMRK.`  
 Die nach der vorliegenden Konvention gestatteten Einschränkungen dieser Rechte und Freiheiten dürfen nicht für andere Zwecke als die vorgesehenen angewendet werden.
+
+*(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl. Nr. 59/1964 mit Verfassungsrang ausgestattet.)*
 
 ## ABSCHNITT II – EUROPÄISCHER GERICHTSHOF FÜR MENSCHENRECHTE
 
@@ -175,6 +207,8 @@ Die nach der vorliegenden Konvention gestatteten Einschränkungen dieser Rechte 
 
 `Art. 19 EMRK.`  
 Um die Einhaltung der Verpflichtungen sicherzustellen, welche die Hohen Vertragschließenden Teile in dieser Konvention und den Protokollen dazu übernommen haben, wird ein Europäischer Gerichtshof für Menschenrechte, im folgenden als „Gerichtshof“ bezeichnet, errichtet. Er nimmt seine Aufgaben als ständiger Gerichtshof wahr.
+
+*(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl. Nr. 59/1964 mit Verfassungsrang ausgestattet.)*
 
 ## Artikel 20
 

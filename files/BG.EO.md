@@ -1138,6 +1138,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Die Vollstreckungsorgane dürfen die Grenzen ihres Gebiets sowie die Grenzen des Bezirksgerichtssprengels überschreiten\. Sie dürfen stattdessen auch das nach dem voraussichtlichen Vollzugsort zuständige Vollstreckungsorgan um die Vornahme der Amtshandlung ersuchen\. Das ersuchte Vollstreckungsorgan wird dabei im Auftrag des Gerichts, das den Vollzug angeordnet hat, tätig\.
 
+> *\(Beachte: Ist auch auf in diesem Zeitpunkt anhängige Exekutionsverfahren anzuwenden \(vgl\. § 410 Abs\. 2\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-25b-eo--vollzugsort) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=25b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-25b-eo--vollzugsort) \]
 
 ----
@@ -1185,6 +1187,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Das Vollstreckungsorgan hat den betreibenden Gläubiger zum Erlag eines Kostenvorschusses aufzufordern\. Dieser kann auch die zur Öffnung erforderlichen Arbeitskräfte bereitstellen, wenn er dies während der zum Erlag des Kostenvorschusses offen stehenden Frist bekannt gibt\.
 
 > `(3)` Die Kosten des Schlossers sind einstweilen vom betreibenden Gläubiger und bei Vorhandensein mehrerer betreibender Gläubiger von allen nach dem Verhältnis der vollstreckbaren Forderungen zu tragen\.
+
+> *\(Beachte: Ist auch auf in diesem Zeitpunkt anhängige Exekutionsverfahren anzuwenden \(vgl\. § 410 Abs\. 2\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-26a-eo--öffnen-der-verschlossenen-haus--und-wohnungstüren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=26a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_36_TextContainer_36) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-26a-eo--öffnen-der-verschlossenen-haus--und-wohnungstüren) \]
 
@@ -1280,6 +1284,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Wird die Exekution gegen mehr als einen Verpflichteten bewilligt, so sind die Verfahren nach der Exekutionsbewilligung zu trennen\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 502 Abs\. 2\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-33-eo--verbindung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=33) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_44_TextContainer_44) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.002.md#-33-eo--verbindung) \]
 
 ----
@@ -1307,6 +1313,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(3)` Alle Einwendungen, die die verpflichtete Partei zur Zeit der Geltendmachung bei Gericht oder zur Zeit des Einschreitens bei einer der in Abs\. 2 bezeichneten Behörden vorzubringen imstande war, müssen bei sonstigem Ausschluss gleichzeitig geltend gemacht werden\. Dies gilt nicht für Unterhaltssachen, soweit die zum Unterhalt verpflichtete Person eine Änderung der Verhältnisse einwendet, aufgrund derer der Anspruch ganz oder teilweise erloschen oder gehemmt ist\.
 
 > `(4)` Wenn den Einwendungen rechtskräftig stattgegeben wird, ist die Exekution einzustellen\.
+
+> *\(Beachte: Zu Abs\. 2: zum Bezugszeitraum vgl\. Art\. X § 2 Z 1, BGBl\. Nr\. 624/1994\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-35-eo--einwendungen-gegen-den-anspruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=35) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_46_TextContainer_46) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.003.md#-35-eo--einwendungen-gegen-den-anspruch) \]
 
@@ -1738,6 +1746,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Tritt der Einstellungsgrund nur hinsichtlich eines Teils der Exekution ein, so ist diese verhältnismäßig einzuschränken\.
 
+> *\(Beachte: Ist anzuwenden, wenn der Exekutionsantrag nach dem 31\. August 2005 bei Gericht einlangt \(vgl\. § 408 Abs\. 5\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-54e-eo--einstellung-der-exekution) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=54e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_73_TextContainer_73) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-54e-eo--einstellung-der-exekution) \]
 
 ----
@@ -1765,6 +1775,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 55a EO — Berücksichtigung des Grundbuchsstands
 
 > Ist für eine Entscheidung des Gerichts die Kenntnis des Grundbuchsstands von Bedeutung, so hat es diesen von Amts wegen zu erheben\. Bei unverbücherten Liegenschaften und Superädifikaten ist in die Liegenschafts\- und Bauwerkskartei Einsicht zu nehmen\.
+>
+> *\(Beachte: Zum Bezugszeitraum vgl\. Art\. III Abs\. 1, BGBl\. I Nr\. 59/2000\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-55a-eo--berücksichtigung-des-grundbuchsstands) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=55a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_76_TextContainer_76) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-55a-eo--berücksichtigung-des-grundbuchsstands) \]
 
@@ -2055,6 +2067,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 74a EO — Barauslagen
 
 > Der betreibende Gläubiger, der einen Antrag im elektronischen Rechtsverkehr einbringt, braucht Barauslagen, wenn sie den Betrag von 30 Euro nicht übersteigen, nur auf Aufforderung des Gerichts zu belegen\. Diese Aufforderung ist bei Bedenken gegen die Richtigkeit der verzeichneten Barauslagen oder auf Verlangen des Verpflichteten zu erlassen\. § 54b Abs\. 2 Z 3 und §§ 54c ff sind sinngemäß anzuwenden, wobei der Verpflichtete im Einspruch nur geltend machen kann, dass die vom betreibenden Gläubiger verzeichneten Barauslagen diesem nicht oder nicht in der geltend gemachten Höhe entstanden sind\.
+>
+> *\(Beachte: Zum Bezugszeitraum vgl\. Art\. III Abs\. 8, BGBl\. I Nr\. 59/2000\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-74a-eo--barauslagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=74a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_100_TextContainer_100) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.004.md#-74a-eo--barauslagen) \]
 
@@ -2558,6 +2572,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Kommt der Verpflichtete dem Auftrag nach Abs\. 2 nicht nach, so kann das Exekutionsgericht auf Ersuchen des Verwalters anordnen, dass die Liegenschaft dem Verwalter durch das Vollstreckungsorgan zur Verwaltung und Einziehung der Erträgnisse übergeben wird\.
 
+> *\(Beachte: Ist anzuwenden, wenn der Exekutionsantrag nach dem 29\. Februar 2008 bei Gericht einlangt \(vgl\. § 410 Abs\. 3\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-99-eo--bestellung-des-zwangsverwalters-und-übernahme-der-liegenschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=99) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_140_TextContainer_140) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-99-eo--bestellung-des-zwangsverwalters-und-übernahme-der-liegenschaft) \]
 
 ----
@@ -2680,6 +2696,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 110 EO — Aufforderung an dritte Personen
 
 > Der Verwalter hat dritte Personen, denen Leistungen an den Verpflichteten obliegen, die sich als Einkünfte der verwalteten Liegenschaft darstellen, unter Anschluss einer Ausfertigung der Bestellungsurkunde aufzufordern, diese an den Verwalter zu entrichten\. Nach der Aufforderung des Verwalters, Zahlungen nur an ihn zu leisten, können diese nicht mehr gültig an den Verpflichteten leisten\. Hierauf ist in der Aufforderung hinzuweisen\. Bei früheren Zahlungen einer Schuld an den Verpflichteten wird der Dritte befreit, außer der Zwangsverwalter beweist, dass dem Dritten zur Zeit der Zahlung die Zwangsverwaltung bekannt war\.
+>
+> *\(Beachte: Ist anzuwenden, wenn der Exekutionsantrag nach dem 29\. Februar 2008 bei Gericht einlangt \(vgl\. § 410 Abs\. 3\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-110-eo--aufforderung-an-dritte-personen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=110) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_153_TextContainer_153) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.006.md#-110-eo--aufforderung-an-dritte-personen) \]
 
@@ -2955,6 +2973,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 135 EO — Betreibender Gläubiger mit Pfandrecht
 
 > Ist für die hereinzubringende vollstreckbare Forderung schon ein Pfandrecht an der Liegenschaft des Verpflichteten rechtskräftig begründet, so bedarf es der Vorlage einer Ausfertigung des Exekutionstitels nicht; die Exekution ist im Rang dieses Pfandrechts zu bewilligen, wenn der betreibende Gläubiger dies beantragt und die Identität der Forderung nachweist\.
+>
+> *\(Beachte: Zum Bezugszeitraum vgl\. Art\. III Abs\. 1, BGBl\. I Nr\. 59/2000\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-135-eo--betreibender-gläubiger-mit-pfandrecht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=135) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_175_TextContainer_175) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-135-eo--betreibender-gläubiger-mit-pfandrecht) \]
 
@@ -2974,6 +2994,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Dem betreibenden Gläubiger ist zugleich der Erlag eines Kostenvorschusses binnen einer mindestens vierwöchigen Frist aufzutragen\. Den Wiederkaufsberechtigten ist mitzuteilen, dass sie ihr Recht bei sonstigem Ausschluss innerhalb eines Monats nach Zustellung dieser Verständigung auszuüben haben\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. Art\. III Abs\. 1, BGBl\. I Nr\. 59/2000, hinsichtlich eines Superädifikats vgl\. Art\. III Abs\. 11, BGBl\. I Nr\. 59/2000\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-136-eo--zustellungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=136) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_177_TextContainer_177) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-136-eo--zustellungen) \]
 
 ----
@@ -2985,6 +3007,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Bei Superädifikaten ist die bewilligte Versteigerung im Protokoll über die Vornahme der pfandweisen Beschreibung anzumerken\.
 
 > `(3)` Wenn das Versteigerungsverfahren nach dem Grundbuchsstand undurchführbar ist, ist § 101 sinngemäß anzuwenden\.
+
+> *\(Beachte: Zum Bezugszeitraum vgl\. Art\. III Abs\. 1, BGBl\. I Nr\. 59/2000, hinsichtlich eines Superädifikats vgl\. Art\. III Abs\. 11, BGBl\. I Nr\. 59/2000\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-137-eo--anmerkung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=137) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_178_TextContainer_178) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-137-eo--anmerkung) \]
 
@@ -3078,6 +3102,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Ist auf der Liegenschaft eine Dienstbarkeit begründet, die der leitungsgebundenen Energieversorgung dient, so kann der aus der Dienstbarkeit Berechtigte binnen 14 Tagen ab Zustellung des Schätzgutachtens unwiderruflich erklären, dass er die Übernahme der Dienstbarkeit ohne Anrechnung auf das Meistbot wünscht und bereit ist, den vom Sachverständigen ermittelten Wert der Dienstbarkeit zu zahlen\.
 
+> *\(Beachte: Ist anzuwenden, wenn der Exekutionsantrag nach dem 29\. Februar 2008 bei Gericht einlangt \(vgl\. § 410 Abs\. 3\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-144-eo--bekanntgabe-des-schätzwerts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=144) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_185_TextContainer_185) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-144-eo--bekanntgabe-des-schätzwerts) \]
 
 ----
@@ -3085,6 +3111,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 145 EO — Ergänzung der Schätzung
 
 > Spätestens nach Ablauf der Frist zur Erstattung von Einwendungen gegen den Schätzwert hat das Exekutionsgericht alle nötigen Ergänzungen, Richtigstellungen und Verbesserungen des Schätzungsgutachtens von Amts wegen zu veranlassen\.
+>
+> *\(Beachte: Zum Bezugszeitraum vgl\. Art\. III Abs\. 1, BGBl\. I Nr\. 59/2000, hinsichtlich eines Superädifikats vgl\. Art\. III Abs\. 11, BGBl\. I Nr\. 59/2000\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-145-eo--ergänzung-der-schätzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=145) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_186_TextContainer_186) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-145-eo--ergänzung-der-schätzung) \]
 
@@ -3311,6 +3339,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 171 EO — Zustellung des Versteigerungsedikts
 
 > Ausfertigungen des Versteigerungsedikts sind dem Verpflichteten, dem betreibenden Gläubiger und allen Personen zuzustellen, für die nach den dem Gericht darüber vorliegenden Urkunden auf der Liegenschaft oder an den auf dieser Liegenschaft haftenden Rechten dingliche Rechte und Lasten bestehen oder Vorkaufsrechte einverleibt sind\. Wird ein Miteigentumsanteil, mit dem nicht Wohnungseigentum verbunden ist, versteigert, so ist auch jedem Miteigentümer eine Ausfertigung des Edikts an die im Grundbuch angeführte Adresse zu übersenden\.
+>
+> *\(Beachte: Zum Bezugszeitraum vgl\. Art\. III Abs\. 1, BGBl\. I Nr\. 59/2000, hinsichtlich eines Superädifikats vgl\. Art\. III Abs\. 11, BGBl\. I Nr\. 59/2000\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-171-eo--zustellung-des-versteigerungsedikts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=171) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_204_TextContainer_204) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-171-eo--zustellung-des-versteigerungsedikts) \]
 
@@ -3319,6 +3349,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 172 EO — Weitere Zustellungen
 
 > Personen, zugunsten deren vor Aufnahme des Versteigerungsediktes in die Ediktsdatei um Einverleibung dinglicher Rechte und Lasten oder eines Vorkaufsrechtes im Grundbuch angesucht wurde, ist, falls sie von der Versteigerung noch nicht verständigt sind, eine Ausfertigung des Versteigerungsediktes zuzustellen\.
+>
+> *\(Beachte: Zum Bezugszeitraum vgl\. Art\. III Abs\. 1, BGBl\. I Nr\. 59/2000, hinsichtlich eines Superädifikats vgl\. Art\. III Abs\. 11, BGBl\. I Nr\. 59/2000\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-172-eo--weitere-zustellungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=172) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_205_TextContainer_205) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-172-eo--weitere-zustellungen) \]
 
@@ -3339,6 +3371,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Soweit ein Widerstreit der Interessen nicht zu besorgen ist, kann dieselbe Person für mehrere Beteiligte zum Kurator bestellt werden\. Das Exekutionsgericht hat den Kurator zu entheben, wenn die Person, für welche er bestellt ist, selbst erscheint oder dem Gericht einen anderen Vertreter namhaft macht oder ihre Interessen eine weitere Vertretung nicht mehr erfordern\.
 
 > `(3)` Die Daten über die Bestellung eines Kurators nach Abs\. 1 sind in der Ediktsdatei zu löschen, sobald der Kurator rechtskräftig seines Amtes enthoben wurde, der Meistbotsverteilungsbeschluss in Rechtskraft erwachsen ist, oder die Kuratel sonst erloschen ist\.
+
+> *\(Beachte: Abs\. 1 und 2: Zum Bezugszeitraum vgl\. Art\. III Abs\. 1, BGBl\. I Nr\. 59/2000, hinsichtlich eines Superädifikats vgl\. Art\. III Abs\. 11, BGBl\. I Nr\. 59/2000\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-174-eo--kuratorbestellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=174) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_207_TextContainer_207) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-174-eo--kuratorbestellung) \]
 
@@ -3824,6 +3858,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(1)` Die mit ihren Ansprüchen auf das Meistbot gewiesenen Personen sind bei der Ladung aufzufordern, ihre Ansprüche an Kapital, Zinsen, wiederkehrenden Leistungen, Kosten und sonstigen Nebenforderungen spätestens 14 Tage vor der Tagsatzung anzumelden und die zum Nachweis ihrer Ansprüche dienenden Urkunden, falls sich diese nicht schon bei den Zwangsversteigerungsakten befinden, gleichzeitig in Urschrift oder Abschrift vorzulegen, widrigens ihre Ansprüche bei der Verteilung nur insoweit berücksichtigt würden, als sie sich aus dem Grundbuch als rechtsbeständig und zur Befriedigung geeignet ergeben\.
 
 > `(2)` Auch Forderungen, die nach Ablauf der in Abs\. 1 genannten Frist, spätestens aber bei der Tagsatzung angemeldet werden, sind bei der Verteilung zu berücksichtigen\. Muss auf Grund der verspäteten Anmeldung die Verhandlung von Amts wegen oder auf Antrag eines anwesenden Gläubigers erstreckt werden, so hat das Exekutionsgericht nach freier Überzeugung \(§ 273 ZPO\) die Kosten jedes nach § 209 Abs\. 2 und 3 zu verständigenden und bei der erstreckten Tagsatzung anwesenden Beteiligten für die Teilnahme an der erstreckten Verhandlung festzusetzen und deren Bezahlung dem säumigen Gläubiger aufzuerlegen\. Wenn ein Beteiligter durch einen Rechtsanwalt vertreten wird, sind die Kosten nach dem Rechtsanwaltstarifgesetz zu bemessen\.
+
+> *\(Beachte: Zum Bezugszeitraum vgl\. Art\. III Abs\. 1, BGBl\. I Nr\. 59/2000, hinsichtlich eines Superädifikats vgl\. Art\. III Abs\. 11, BGBl\. I Nr\. 59/2000\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-210-eo--forderungsanmeldung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=210) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_244_TextContainer_244) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.007.md#-210-eo--forderungsanmeldung) \]
 
@@ -4483,6 +4519,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 253b EO — Kostenersatz für die Beteiligung
 
 > Der betreibende Gläubiger hat keinen Anspruch auf Ersatz der Kosten für die Beteiligung am Exekutionsvollzug, wenn die hereinzubringende Forderung an Kapital 2 700 Euro nicht übersteigt\. Prozesskosten oder Nebengebühren sind nur dann zu berücksichtigen, wenn sie allein Gegenstand des durchzusetzenden Anspruchs sind\.
+>
+> *\(Beachte: Ist anzuwenden, wenn der Exekutionsvollzug nach dem 31\. August 2005 stattfindet \(vgl\. § 408 Abs\. 7\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-253b-eo--kostenersatz-für-die-beteiligung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=253b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_296_TextContainer_296) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-253b-eo--kostenersatz-für-die-beteiligung) \]
 
@@ -4703,6 +4741,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Vom Versteigerungstermin und vom Versteigerungsort sind der Verpflichtete und die betreibenden Gläubiger durch Zustellung einer Ausfertigung des Edikts zu verständigen\. Dies kann unterbleiben, soweit dem Verpflichteten und dem betreibenden Gläubiger der Versteigerungstermin und der Versteigerungsort bereits bei der Pfändung bekanntgegeben wurden; die Kenntnisnahme ist zu bestätigen\.
 
+> *\(Beachte: Ist anzuwenden, wenn das Versteigerungsedikt nach dem 29\. Februar 2008 erlassen wird \(vgl\. § 410 Abs\. 4\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-272-eo--versteigerungstermin) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=272) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_316_TextContainer_316) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-272-eo--versteigerungstermin) \]
 
 ----
@@ -4797,6 +4837,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Der betreibende Gläubiger kann auch die zur Überstellung erforderlichen Transportmittel und Arbeitskräfte bereitstellen\. Dies hat er rechtzeitig dem Vollstreckungsorgan bekanntzugeben\.
 
+> *\(Beachte: Ist anzuwenden, wenn das Versteigerungsedikt nach dem 29\. Februar 2008 erlassen wird \(vgl\. § 410 Abs\. 4\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-274a-eo--vorschuss-für-kosten-des-transports-der-verkaufsverwahrung-und-des-versteigerers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=274a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_320_TextContainer_320) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-274a-eo--vorschuss-für-kosten-des-transports-der-verkaufsverwahrung-und-des-versteigerers) \]
 
 ----
@@ -4816,6 +4858,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(1)` Den Verkaufsinteressenten ist die Besichtigung der Pfandstücke zu ermöglichen\. Dies kann bei der Versteigerung im Internet entfallen\.
 
 > `(2)` Die Pfandstücke sind von Amts wegen so zeitgerecht zu überstellen, dass sie zur Besichtigung ausgestellt werden können\. Der Termin der Überstellung ist den Parteien möglichst bei Bekanntgabe des Versteigerungstermins bekannt zu geben\.
+
+> *\(Beachte: Ist anzuwenden, wenn das Versteigerungsedikt nach dem 29\. Februar 2008 erlassen wird \(vgl\. § 410 Abs\. 4\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-274c-eo--zeitpunkt-der-überstellung-und-besichtigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=274c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_322_TextContainer_322) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-274c-eo--zeitpunkt-der-überstellung-und-besichtigung) \]
 
@@ -4995,6 +5039,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 279a EO — Unauffindbarkeit der Pfandsachen
 
 > Werden die gepfändeten Gegenstände bei der Überstellung oder der Versteigerung an Ort und Stelle nicht vorgefunden, so hat der Verpflichtete vor Gericht oder vor dem Vollstreckungsorgan anzugeben, wo sich diese Sachen befinden\. Das Vollstreckungsorgan hat den Verpflichteten hiezu aufzufordern\. § 47 Abs\. 2 über die Belehrung, die Protokolleinsicht und die Bestätigung durch den Verpflichteten sowie § 48 und § 346a Abs\. 2 sind anzuwenden\. Kann dadurch nicht festgestellt werden, wo sich die Sachen befinden, oder ist der Verpflichtete unter Mitnahme der Sachen verzogen und kann das Vollstreckungsorgan durch zumutbare Erhebungen nicht in Erfahrung bringen, wo sich der Verpflichtete aufhält, so wird die Exekution hinsichtlich der nicht vorgefundenen Sachen erst fortgesetzt, sobald der Gläubiger bekannt gibt, wo sich diese Gegenstände befinden\. Dies hat das Vollstreckungsorgan dem betreibenden Gläubiger mitzuteilen\.
+>
+> *\(Beachte: Ist anzuwenden, wenn das Vermögensverzeichnis nach dem 31\. August 2005 aufgenommen wird \(vgl\. § 408 Abs\. 4\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-279a-eo--unauffindbarkeit-der-pfandsachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=279a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_336_TextContainer_336) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-279a-eo--unauffindbarkeit-der-pfandsachen) \]
 
@@ -5071,6 +5117,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(1)` Der Versteigerer hat dem Vollstreckungsorgan den Ausgang der Versteigerung mitzuteilen\. Er hat binnen vier Wochen nach Versteigerung oder Verkauf dem Gericht den Erlös abzüglich seiner Kosten zu überweisen\. Für spätere Zahlungen sind die gesetzlichen Verzugszinsen zu zahlen\.
 
 > `(2)` Ist die Berechnung der dem Versteigerungshaus zustehenden Kosten strittig, so hat hierüber das Exekutionsgericht auf Antrag eines Beteiligten zu entscheiden\.
+
+> *\(Beachte: Ist anzuwenden, wenn das Versteigerungsedikt nach dem 29\. Februar 2008 erlassen wird \(vgl\. § 410 Abs\. 4\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-282b-eo--erlös-bei-versteigerung-durch-einen-versteigerer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=282b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_343_TextContainer_343) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.009.md#-282b-eo--erlös-bei-versteigerung-durch-einen-versteigerer) \]
 
@@ -5448,6 +5496,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Auf Antrag des Verpflichteten ist der unpfändbare Betrag nach Abs\. 1 zu erhöhen, soweit er die unpfändbaren Grundbeträge von einem anderen Bezug nicht erhalten hat\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 502 Abs\. 3\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-291f-eo--nebenleistungen-und-abgabenguthaben) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=291f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_362_TextContainer_362) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-291f-eo--nebenleistungen-und-abgabenguthaben) \]
 
 ----
@@ -5635,6 +5685,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(5)` In den Verfahren nach Abs\. 4 kann der betreibende Gläubiger vom Verpflichteten den Ersatz seiner Kosten nur nach den Bestimmungen der ZPO und nur insoweit beanspruchen, als der Verpflichtete dem Antrag nicht zustimmt\. Dies gilt auch sinngemäß für einen Anspruch des Verpflichteten auf Kostenersatz\. Der Drittschuldner hat keinen Anspruch auf Kostenersatz und ist nicht zum Kostenersatz verpflichtet\.
 
 > `(6)` Wird einem betreibenden Gläubiger nach Erlassen eines Beschlusses nach Abs\. 4 die Exekution bewilligt, so gilt der Beschluss auch für ihn\. Dem betreibenden Gläubiger ist der Beschluss zuzustellen; er kann auf dessen Antrag geändert werden\.
+
+> *\(Beachte: zum Bezugszeitraum vgl\. § 502 Abs\. 3\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-292g-eo--entscheidung-des-exekutionsgerichts--antragsberechtigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=292g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_370_TextContainer_370) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.011.md#-292g-eo--entscheidung-des-exekutionsgerichts--antragsberechtigung) \]
 
@@ -6490,6 +6542,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Auf die Vermögensangabe sind § 47 Abs\. 2 über die Belehrung, die Protokolleinsicht und die Bestätigung durch den Verpflichteten sowie § 48 anzuwenden\.
 
+> *\(Beachte: Ist anzuwenden, wenn das Vermögensverzeichnis nach dem 31\. August 2005 aufgenommen wird \(vgl\. § 408 Abs\. 4\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-346a-eo--angaben-über-die-herauszugebenden-sachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=346a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_431_TextContainer_431) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-346a-eo--angaben-über-die-herauszugebenden-sachen) \]
 
 ----
@@ -6572,6 +6626,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 >> `5.` Die Einstellung nach § 39 Abs\. 1 Z 6 bedarf auch der Zustimmung des Verpflichteten\.
 >
 >> `6.` Hinsichtlich der Kosten des Verfahrens gilt § 351 Abs\. 3\.
+>
+> *\(Beachte: Zum Bezugszeitraum vgl\. Art\. III, BGBl\. I Nr\. 59/2000\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-352-eo--versteigerung-einer-gemeinschaftlichen-liegenschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=352) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_437_TextContainer_437) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-352-eo--versteigerung-einer-gemeinschaftlichen-liegenschaft) \]
 
@@ -6586,6 +6642,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(3)` Das geringste Gebot ist der Schätzwert\. Die Versteigerungsbedingungen können anderes vorsehen, nicht jedoch weniger als drei Viertel des Schätzwerts\.
 
 > `(4)` Einer Schätzung bedarf es nicht, wenn sich die Miteigentümer vor dem Schätzungstermin auf einen Ausrufpreis einigen\. Im Versteigerungsedikt ist darauf hinzuweisen, dass keine Schätzung erfolgt ist\. Im Übrigen tritt der Ausrufpreis, soweit in gesetzlichen Bestimmungen auf den Schätzwert abgestellt wird, an dessen Stelle\.
+
+> *\(Beachte: Zum Bezugszeitraum vgl\. Art\. III, BGBl\. I Nr\. 59/2000\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-352a-eo--versteigerungsbedingungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=352a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_438_TextContainer_438) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-352a-eo--versteigerungsbedingungen) \]
 
@@ -6610,6 +6668,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 352c EO — Verteilung
 
 > Das Meistbot ist nach dem Einvernehmen der Parteien aufzuteilen\. Einigen sich die Parteien nicht, so hat das Gericht hierüber nach mündlicher Verhandlung durch Urteil zu entscheiden\. Auf das Verfahren sind die Bestimmungen über das Verfahren vor den Bezirksgerichten \(§§ 431 ff ZPO\) anzuwenden\.
+>
+> *\(Beachte: Zum Bezugszeitraum vgl\. Art\. III, BGBl\. I Nr\. 59/2000\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-352c-eo--verteilung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=352c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_440_TextContainer_440) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.013.md#-352c-eo--verteilung) \]
 
@@ -6925,6 +6985,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(4)` Die Pfändung von Sachen des Gegners der gefährdeten Partei darf nicht angeordnet werden\.
 
 > `(5)` Zur Sicherung von Forderungen gegen einen Erben können bei Vorhandensein der in Abs\. 2 angegebenen Voraussetzungen zu Gunsten der Gläubiger des Erben in Ansehung des ihm angefallenen Erbgutes vor der Einantwortung einstweilige Verfügungen getroffen werden\. Je nach dem zu erreichenden Zweck können mit der einstweiligen Verfügung die notwendigen Sicherungsmittel \(§§ 379 und 382\) angeordnet werden\.
+
+> *\(Beachte: Zum Bezugszeitraum vgl\. Art\. III, BGBl\. I Nr\. 59/2000\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.md#-379-eo--sicherung-von-geldforderungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700&Paragraf=379) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_468_TextContainer_468) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EO.015.md#-379-eo--sicherung-von-geldforderungen) \]
 

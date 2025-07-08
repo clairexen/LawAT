@@ -69,8 +69,8 @@
 * [§ 33 JN](BG.JN.001.md#-33-jn)
 
 **Übertragung einzelner Geschäfte an den Vorsitzenden oder an einen beauftragten Richter**  
-* [§ 34 JN](BG.JN.001.md#-34-jn)  
-* [§ 35 JN](BG.JN.001.md#-35-jn)
+* [§ 34 JN](BG.JN.002.md#-34-jn)  
+* [§ 35 JN](BG.JN.002.md#-35-jn)
 
 **Übertragung des Vollzuges von Amtshandlungen an andere Gerichte**  
 * [§ 36 JN](BG.JN.002.md#-36-jn)
@@ -107,14 +107,14 @@
 * [§ 53 JN](BG.JN.002.md#-53-jn)
 
 **Wert des Streitgegenstandes.**  
-* [§ 54 JN](BG.JN.002.md#-54-jn)  
-* [§ 55 JN](BG.JN.002.md#-55-jn)  
-* [§ 56 JN](BG.JN.002.md#-56-jn)  
-* [§ 57 JN](BG.JN.002.md#-57-jn)  
-* [§ 58 JN](BG.JN.002.md#-58-jn)  
-* [§ 59 JN](BG.JN.002.md#-59-jn)  
-* [§ 59a JN](BG.JN.002.md#-59a-jn)  
-* [§ 60 JN](BG.JN.002.md#-60-jn)
+* [§ 54 JN](BG.JN.003.md#-54-jn)  
+* [§ 55 JN](BG.JN.003.md#-55-jn)  
+* [§ 56 JN](BG.JN.003.md#-56-jn)  
+* [§ 57 JN](BG.JN.003.md#-57-jn)  
+* [§ 58 JN](BG.JN.003.md#-58-jn)  
+* [§ 59 JN](BG.JN.003.md#-59-jn)  
+* [§ 59a JN](BG.JN.003.md#-59a-jn)  
+* [§ 60 JN](BG.JN.003.md#-60-jn)
 
 **Bestreitung der Zuständigkeit eines Civil-, Handels- oder bergrechtlichen Senates.**  
 * [§ 61 JN](BG.JN.003.md#-61-jn)  

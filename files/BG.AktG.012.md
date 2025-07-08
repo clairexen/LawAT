@@ -61,6 +61,8 @@ Soweit sich aus den nachfolgenden Bestimmungen nichts anderes ergibt, gelten die
 `§ 234a (3) AktG.`  
 Die §§ 220 ff sind auf die übertragende Aktiengesellschaft anzuwenden.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 13.)*
+
 ### § 234b AktG # Barabfindung bei rechtsformübergreifender Verschmelzung
 
 `§ 234b (1) AktG.`  
@@ -86,6 +88,8 @@ Im Gesellschaftsvertrag einer Gesellschaft mit beschränkter Haftung kann das Re
 
 `§ 234b (5) AktG.`  
 Eine Klage auf Anfechtung des Verschmelzungsbeschlusses der übertragenden Gesellschaft kann nicht darauf gestützt werden, dass die angebotene Barabfindung nicht angemessen festgelegt ist oder dass die in den Verschmelzungsberichten, den Prüfungsberichten oder in den Berichten der Aufsichtsräte enthaltenen Erläuterungen des Barabfindungsangebots den gesetzlichen Bestimmungen nicht entsprechen. Anteilsinhaber, die das Barabfindungsangebot angenommen haben, können bei Gericht den Antrag stellen, dass die angebotene Barabfindung überprüft und eine höhere Barabfindung festgelegt wird; sie haben glaubhaft zu machen, dass sie vom Zeitpunkt der Beschlussfassung der Gesellschafterversammlung der übertragenden Gesellschaft bis zur Antragstellung Anteilsinhaber waren. Für das Verfahren auf gerichtliche Überprüfung gelten die §§ 225d bis 225m, ausgenommen § 225e Abs. 3 zweiter Satz und § 225j Abs. 2, sinngemäß. Wird die gerichtliche Überprüfung der angebotenen Barabfindung begehrt, so endet die Frist für die Annahme des Barabfindungsangebots einen Monat nach dem Tag der letzten Bekanntmachung gemäß § 225k Abs. 1.
+
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 13.)*
 
 ## ZEHNTER TEIL # Vermögensübertragung. Gewinngemeinschaft
 
@@ -198,6 +202,8 @@ Die Angemessenheit der Bedingungen der Barabfindung ist durch einen sachverstän
 `§ 244 (4) AktG.`  
 Im übrigen gilt § 234b sinngemäß.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ## ZWEITER ABSCHNITT # Umwandlung einer Gesellschaft mit beschränkter Haftung in eine Aktiengesellschaft
 
 ### § 245 AktG # Voraussetzungen
@@ -269,6 +275,8 @@ Für den Umtausch der Geschäftsanteile gegen Aktien gilt § 67, bei Zusammenle
 `§ 253 AktG.`  
 Jedem Gesellschafter, der gegen die Umwandlung Widerspruch zur Niederschrift erklärt hat, steht gegenüber der Gesellschaft oder einem Dritten, der die Barabfindung angeboten hat, das Recht auf angemessene Barabfindung gegen Hingabe seiner Aktien zu. § 244 Abs. 2 und 3 und § 234b gelten mit der Maßgabe sinngemäß, dass der Prüfungsbericht den Gesellschaftern zu übersenden ist. Zwischen dem Tag der Aufgabe der Sendung zur Post und der Beschlussfassung muss mindestens ein Zeitraum von 14 Tagen liegen.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 13.)*
+
 ## ZWÖLFTER TEIL
 
 ### § 254 AktG # Inländische Zweigniederlassungen ausländischer Aktiengesellschaften
@@ -304,6 +312,8 @@ Die Vorstandsmitglieder oder die Abwickler, im Falle einer inländischen Zweigni
 
 `§ 258 (2) AktG.`  
 Die Anmeldungen zum Firmenbuch nach den §§ 28, 45, 46, 148 Abs. 1, §§ 151, 155, 162, 176, 192 Abs. 4, §§ 215, 225 Abs. 1 erster Satz, § 233 Abs. 5, §§ 240, 248 werden nicht erzwungen.
+
+*(Beachte: zum Bezugszeitraum vgl. § 262 Abs. 34)*
 
 ## VIERZEHNTER TEIL # Sonderbestimmungen für öffentliche Verkehrsunternehmungen, Unternehmungen des Post- und Fernmeldewesens und gemeinnützige Bauvereinigungen
 

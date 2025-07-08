@@ -578,6 +578,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Gesellschaft muss Depotbestätigungen in deutscher Sprache und, wenn sie börsenotiert ist, auch in englischer Sprache entgegennehmen\. In der Satzung oder in der Einberufung können weitere Sprachen vorgesehen werden\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-10a-aktg--nachweis-der-aktionärseigenschaft-bei-inhaberaktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=10a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-10a-aktg--nachweis-der-aktionärseigenschaft-bei-inhaberaktien) \]
 
 ----
@@ -984,6 +986,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Beschluß der Hauptversammlung bedarf einer Mehrheit, die mindestens drei Viertel des bei der Beschlußfassung vertretenen Grundkapitals umfaßt; wird der Vertrag im ersten Jahr nach der Eintragung der Gesellschaft in das Firmenbuch geschlossen, so müssen außerdem die Anteile der zustimmenden Mehrheit mindestens ein Viertel des gesamten Grundkapitals erreichen\. Die Satzung kann diese Mehrheit durch eine größere Kapitalsmehrheit ersetzen und noch andere Erfordernisse aufstellen\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 34\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-45-aktg--nachgründung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=45) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_45_TextContainer_45) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-45-aktg--nachgründung) \]
 
 ----
@@ -1061,6 +1065,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Ein Tochterunternehmen \(§ 189a Z 7 UGB\) darf als Gründer oder Zeichner oder in Ausübung eines Bezugsrechts gemäß § 165 eine Aktie der Gesellschaft nicht übernehmen\. Die Wirksamkeit einer solchen Übernahme wird durch einen Verstoß gegen diese Vorschrift nicht berührt\.
 
 > `(3)` Wer als Gründer oder Zeichner oder in Ausübung eines Bezugsrechts gemäß § 165 eine Aktie für Rechnung der Gesellschaft oder eines Tochterunternehmens \(§ 189a Z 7 UGB\) übernommen hat, kann sich nicht darauf berufen, daß er die Aktie nicht für eigene Rechnung übernommen hat\. Er haftet ohne Rücksicht auf Vereinbarungen mit der Gesellschaft oder dem Tochterunternehmen \(§ 189a Z 7 UGB\) auf die volle Einlage\. Bevor er die Aktie für eigene Rechnung übernommen hat, stehen ihm keine Rechte aus der Aktie zu\.
+
+> *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 34\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-51-aktg--keine-zeichnung-eigener-aktien-aktienübernahme-für-rechnung-der-gesellschaft-oder-durch-ein-tochterunternehmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=51) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_52_TextContainer_52) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-51-aktg--keine-zeichnung-eigener-aktien-aktienübernahme-für-rechnung-der-gesellschaft-oder-durch-ein-tochterunternehmen) \]
 
@@ -1260,6 +1266,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Aus eigenen Aktien stehen der Gesellschaft keine Rechte zu\. Ein Tochterunternehmen \(§ 189a Z 7 UGB\) oder ein anderer, dem Aktien für Rechnung der Gesellschaft oder eines Tochterunternehmens \(§ 189a Z 7 UGB\) gehören, kann aus diesen Aktien das Stimmrecht und das Bezugsrecht nicht ausüben\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 34\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-65-aktg--erwerb-eigener-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=65) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_67_TextContainer_67) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-65-aktg--erwerb-eigener-aktien) \]
 
 ----
@@ -1292,6 +1300,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ein Rechtsgeschäft zwischen der Gesellschaft oder einem Tochterunternehmen \(§ 189a Z 7 UGB\) und einem anderen, das auf den Erwerb eigener Aktien auf Rechnung der Gesellschaft oder des Tochterunternehmens \(§ 189a Z 7 UGB\) gerichtet ist, ist rechtsunwirksam, soweit dadurch gegen Abs\. 1 sowie § 65 Abs\. 1, 1a, 1b oder 2 verstoßen wird\. Dies gilt auch für Rechtsgeschäfte mit einem Dritten, die auf Rechnung der Gesellschaft oder des Tochterunternehmens gehen und durch Inpfandnahme eigener Aktien besichert werden sollen\. § 65b gilt sinngemäß\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 34\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-66-aktg--erwerb-eigener-aktien-durch-dritte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=66) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_70_TextContainer_70) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-66-aktg--erwerb-eigener-aktien-durch-dritte) \]
 
 ----
@@ -1299,6 +1309,8 @@ Der Nationalrat hat beschlossen:
 ### § 66a AktG — Finanzierung des Erwerbs von Aktien der Gesellschaft
 
 > Ein Rechtsgeschäft, das die Gewährung eines Vorschusses oder eines Darlehens oder die Leistung einer Sicherheit durch die Gesellschaft an einen anderen zum Zweck des Erwerbs von Aktien dieser Gesellschaft oder eines Mutterunternehmens \(§ 189a Z 6 UGB\) zum Gegenstand hat, ist unzulässig\. Dies gilt nicht für Rechtsgeschäfte im Rahmen des gewöhnlichen Betriebs von Kreditinstituten sowie für die Gewährung eines Vorschusses oder eines Darlehens oder für die Leistung einer Sicherheit zum Zweck des Erwerbs von Aktien durch oder für Arbeitnehmer der Gesellschaft oder eines mit ihr verbundenen Unternehmens\. Diese Rechtsgeschäfte sind jedoch unzulässig, wenn bei einem Erwerb der Aktien durch die Gesellschaft diese den Abzug vom Nennkapital und die Bildung der Rücklage gemäß § 229 Abs\. 1a UGB nicht vornehmen könnte, ohne daß das Nettoaktivvermögen das Grundkapital und eine nach Gesetz oder Satzung gebundene Rücklage unterschreiten würde\. Die Rechtswirksamkeit des Geschäfts wird davon nicht berührt\.
+>
+> *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 34\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-66a-aktg--finanzierung-des-erwerbs-von-aktien-der-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=66a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_71_TextContainer_71) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-66a-aktg--finanzierung-des-erwerbs-von-aktien-der-gesellschaft) \]
 
@@ -1432,6 +1444,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wird über das Vermögen der Gesellschaft das Insolvenzverfahren eröffnet und der Anstellungsvertrag eines Vorstandsmitglieds gemäß § 25 IO aufgelöst, so kann dieses Ersatz für den ihm durch die Aufhebung des Dienstverhältnisses entstehenden Schaden nur für zwei Jahre seit dem Ablauf des Dienstverhältnisses verlangen\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 31\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-78-aktg--grundsätze-für-die-bezüge-der-vorstandsmitglieder) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=78) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_82_TextContainer_82) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-78-aktg--grundsätze-für-die-bezüge-der-vorstandsmitglieder) \]
 
 ----
@@ -1456,6 +1470,8 @@ Der Nationalrat hat beschlossen:
 
 > `(9)` In jeder überprüften Vergütungspolitik sind sämtliche wesentlichen Änderungen zu beschreiben und zu erläutern; dabei ist darauf einzugehen, wie die Abstimmungen und Ansichten der Aktionäre zur Vergütungspolitik und den Vergütungsberichten seit der letzten Abstimmung über die Vergütungspolitik in der Hauptversammlung berücksichtigt wurden\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 41\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-78a-aktg--grundsätze-für-die-bezüge-der-vorstandsmitglieder-in-börsenotierten-gesellschaften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=78a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_83_TextContainer_83) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-78a-aktg--grundsätze-für-die-bezüge-der-vorstandsmitglieder-in-börsenotierten-gesellschaften) \]
 
 ----
@@ -1467,6 +1483,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Die Gesellschaft darf die Mitglieder des Vorstands nur entsprechend einer Vergütungspolitik entlohnen, die der Hauptversammlung zur Abstimmung vorgelegt wurde\. Lehnt die Hauptversammlung die vorgeschlagene Vergütungspolitik ab, so hat die Gesellschaft in der darauffolgenden Hauptversammlung eine überprüfte Vergütungspolitik vorzulegen\.
 
 > `(3)` Die Vergütungspolitik ist nach der Abstimmung in der Hauptversammlung zusammen mit dem Datum und dem Ergebnis der Abstimmung spätestens am zweiten Werktag nach der Hauptversammlung auf der im Firmenbuch eingetragenen Internetseite der Gesellschaft zu veröffentlichen und hat dort mindestens für die Dauer ihrer Gültigkeit kostenfrei zugänglich zu bleiben\.
+
+> *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 41\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-78b-aktg--abstimmung-über-die-vergütungspolitik-und-veröffentlichung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=78b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_84_TextContainer_84) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-78b-aktg--abstimmung-über-die-vergütungspolitik-und-veröffentlichung) \]
 
@@ -1494,6 +1512,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Gesellschaft hat die personenbezogenen Daten von Mitgliedern des Vorstands, die in den Vergütungsbericht aufgenommen wurden, zu dem Zweck, die Transparenz in Bezug auf die Vergütung zu erhöhen, zu verarbeiten\. Unbeschadet längerer, in einem sektorspezifischen Rechtsakt der Europäischen Union festgelegter Fristen darf die Gesellschaft die personenbezogenen Daten von Mitgliedern des Vorstands, die in den Vergütungsbericht aufgenommen wurden, nach zehn Jahren ab der Veröffentlichung des Vergütungsberichts nicht mehr öffentlich zugänglich machen\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 41\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-78c-aktg--erstellung-eines-vergütungsberichts-für-die-bezüge-der-vorstandsmitglieder-in-börsenotierten-gesellschaften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=78c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_85_TextContainer_85) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-78c-aktg--erstellung-eines-vergütungsberichts-für-die-bezüge-der-vorstandsmitglieder-in-börsenotierten-gesellschaften) \]
 
 ----
@@ -1503,6 +1523,8 @@ Der Nationalrat hat beschlossen:
 > `(1)` Der Vergütungsbericht für das letzte Geschäftsjahr ist der Hauptversammlung zur Abstimmung vorzulegen\. Die Abstimmung hat empfehlenden Charakter\. Der Beschluss ist nicht anfechtbar\. Die Gesellschaft hat im darauffolgenden Vergütungsbericht darzulegen, wie dem Abstimmungsergebnis in der letzten Hauptversammlung Rechnung getragen wurde\.
 
 > `(2)` In kleinen und mittleren Unternehmen im Sinne des § 221 Abs\. 1 und 2 UGB kann der Vergütungsbericht des letzten Geschäftsjahrs auch nur als eigener Tagesordnungspunkt zur Erörterung in der Hauptversammlung vorgelegt werden\. Die Gesellschaft hat im darauffolgenden Vergütungsbericht darzulegen, wie der Erörterung in der letzten Hauptversammlung Rechnung getragen wurde\.
+
+> *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 41\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-78d-aktg--recht-auf-abstimmung-über-den-vergütungsbericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=78d) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_86_TextContainer_86) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-78d-aktg--recht-auf-abstimmung-über-den-vergütungsbericht) \]
 
@@ -1516,6 +1538,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Vergütungsbericht ist nicht zum Firmenbuch einzureichen\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 41\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-78e-aktg--veröffentlichung-des-vergütungsberichts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=78e) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_87_TextContainer_87) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-78e-aktg--veröffentlichung-des-vergütungsberichts) \]
 
 ----
@@ -1527,6 +1551,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Verstößt ein Vorstandsmitglied gegen dieses Verbot, so kann die Gesellschaft Schadenersatz fordern, sie kann statt dessen von dem Mitglied verlangen, daß es die für eigene Rechnung gemachten Geschäfte als für Rechnung der Gesellschaft eingegangen gelten lasse und die aus Geschäften für fremde Rechnung bezogene Vergütung herausgebe oder seinen Anspruch auf die Vergütung abtrete\.
 
 > `(3)` Die Ansprüche der Gesellschaft verjähren in drei Monaten seit dem Zeitpunkt, in dem die übrigen Mitglieder des Vorstands und des Aufsichtsrats von der zum Schadenersatz verpflichtenden Handlung Kenntnis erlangen; sie verjähren ohne Rücksicht auf diese Kenntnis in fünf Jahren seit ihrer Entstehung\.
+
+> *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 34\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-79-aktg--wettbewerbsverbot) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=79) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_88_TextContainer_88) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-79-aktg--wettbewerbsverbot) \]
 
@@ -1552,6 +1578,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Jahresbericht und die Quartalsberichte sind schriftlich zu erstatten und auf Verlangen des Aufsichtsrats mündlich zu erläutern; sie sind jedem Aufsichtsratsmitglied auszuhändigen\. Die Sonderberichte sind schriftlich oder mündlich zu erstatten\. '
 
+> *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.Nach Art\. XII Abs\. 11 IRÄG 1997, BGBl\. I Nr\. 114/1997, ist die Neufassung erst auf Geschäftsjahre anzuwenden, die nach dem 30\.9\.1997 beginnen\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-81-aktg--bericht-an-den-aufsichtsrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=81) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_90_TextContainer_90) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-81-aktg--bericht-an-den-aufsichtsrat) \]
 
 ----
@@ -1559,6 +1587,8 @@ Der Nationalrat hat beschlossen:
 ### § 82 AktG — Rechnungswesen
 
 > Der Vorstand hat dafür zu sorgen, daß ein Rechnungswesen und ein internes Kontrollsystem geführt werden, die den Anforderungen des Unternehmens entsprechen\.
+>
+> *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-82-aktg--rechnungswesen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=82) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_91_TextContainer_91) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-82-aktg--rechnungswesen) \]
 
@@ -1650,6 +1680,8 @@ Der Nationalrat hat beschlossen:
 
 > `(9)` Der Mindestanteil ist vom Aufsichtsrat insgesamt zu erfüllen\. Widerspricht die Mehrheit der gemäß diesem Bundesgesetz oder der Satzung bestellten Aufsichtsratsmitglieder \(Kapitalvertreter\) oder die Mehrheit der gemäß § 110 ArbVG entsandten Aufsichtsratsmitglieder \(Arbeitnehmervertreter\) spätestens sechs Wochen vor einer Wahl oder Entsendung der Gesamterfüllung gegenüber dem Aufsichtsratsvorsitzenden, so ist der Mindestanteil für diese Wahl oder Entsendung von den Kapitalvertretern und den Arbeitnehmervertretern getrennt zu erfüllen\. Die Kapitalvertreter und die Arbeitnehmervertreter können für einen bestimmten Zeitraum einen Verzicht auf das Widerspruchsrecht vereinbaren oder jeweils erklären, einen Widerspruch aufrecht zu erhalten; dies ist jeweils dem Aufsichtsratsvorsitzenden mitzuteilen\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 34\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-86-aktg--zusammensetzung-des-aufsichtsrats) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=86) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_95_TextContainer_95) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-86-aktg--zusammensetzung-des-aufsichtsrats) \]
 
 ----
@@ -1677,6 +1709,8 @@ Der Nationalrat hat beschlossen:
 > `(9)` Die Bestellung des ersten Aufsichtsrats gilt bis zur Beendigung der ersten Hauptversammlung, die nach Ablauf eines Jahres seit der Eintragung der Gesellschaft in das Firmenbuch zur Beschlußfassung über die Entlastung stattfindet\. Sie kann vorher von der Hauptversammlung mit einfacher Stimmenmehrheit widerrufen werden\.
 
 > `(10)` Das Gericht hat auf Antrag einer Minderheit, deren Anteile zusammen zehn vom Hundert des Grundkapitals erreichen, ein Aufsichtsratsmitglied abzuberufen, wenn hiefür ein wichtiger Grund vorliegt\.
+
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 31\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-87-aktg--wahl-und-abberufung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=87) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_96_TextContainer_96) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-87-aktg--wahl-und-abberufung) \]
 
@@ -1713,6 +1747,8 @@ Der Nationalrat hat beschlossen:
 > `(1)` Die Aufsichtsratsmitglieder können nicht zugleich Vorstandsmitglieder oder dauernd Vertreter von Vorstandsmitgliedern der Gesellschaft oder ihrer Tochterunternehmen \(§ 189a Z 7 UGB\) sein\. Sie können auch nicht als Angestellte die Geschäfte der Gesellschaft führen\.
 
 > `(2)` Nur für einen im voraus begrenzten Zeitraum kann der Aufsichtsrat einzelne seiner Mitglieder zu Vertretern von behinderten Vorstandsmitgliedern bestellen\. In dieser Zeit dürfen sie keine Tätigkeit als Aufsichtsratsmitglied ausüben\. Das Wettbewerbsverbot des § 79 gilt für sie nicht\.
+
+> *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 34\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-90-aktg--unvereinbarkeit-der-zugehörigkeit-zum-vorstand-und-zum-aufsichtsrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=90) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_99_TextContainer_99) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-90-aktg--unvereinbarkeit-der-zugehörigkeit-zum-vorstand-und-zum-aufsichtsrat) \]
 
@@ -1765,6 +1801,8 @@ Der Nationalrat hat beschlossen:
 >>> `h.` die Durchführung des Verfahrens zur Auswahl des Abschlussprüfers \(Konzernabschlussprüfers\) unter Bedachtnahme auf die Angemessenheit des Honorars sowie die Empfehlung für seine Bestellung an den Aufsichtsrat\. Bei Gesellschaften im Sinn des § 189a Z 1 lit\. a und lit\. d UGB gilt Art\. 16 der Verordnung \(EU\) Nr\. 537/2014\.
 
 > `(5)` Der Aufsichtsrat oder sein Ausschuß ist nur dann beschlußfähig, wenn an der Sitzung mindestens drei Mitglieder teilnehmen \(§ 95 Abs\. 7 Satz 2 zweiter Halbsatz\)\. Die Satzung kann eine höhere Zahl festsetzen\. Die Beschlußfähigkeit eines Ausschusses, dem weniger als drei Aufsichtsratsmitglieder angehören, ist bei Anwesenheit seiner sämtlichen Mitglieder gegeben\. Die schriftliche, fernmündliche oder eine andere vergleichbare Form der Stimmabgabe einzelner Aufsichtsratsmitglieder ist zulässig, wenn die Satzung oder der Aufsichtsrat dies vorsieht\.
+
+> *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 36\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-92-aktg--innere-ordnung-des-aufsichtsrats) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=92) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_101_TextContainer_101) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-92-aktg--innere-ordnung-des-aufsichtsrats) \]
 
@@ -1898,6 +1936,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Billigt der Aufsichtsrat den Jahresabschluss, so ist dieser festgestellt, wenn sich nicht Vorstand und Aufsichtsrat für eine Feststellung durch die Hauptversammlung entscheiden\.
 
+> *\(Beachte: Abs\. 1 bis 3 sind erstmalig auf Unterlagen für Geschäftsjahre anzuwenden, die nach dem 31\. Dezember 2016 beginnen \(vgl\. § 262 Abs\. 37\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-96-aktg--bericht-an-die-hauptversammlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=96) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_106_TextContainer_106) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-96-aktg--bericht-an-die-hauptversammlung) \]
 
 ----
@@ -1998,6 +2038,8 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Die Satzung kann vorsehen, dass die Aktionäre durch die Abstimmung per Brief gemäß § 127 an der Hauptversammlung teilnehmen können\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-102-aktg--funktion-der-hauptversammlung-formen-der-teilnahme) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=102) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_113_TextContainer_113) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-102-aktg--funktion-der-hauptversammlung-formen-der-teilnahme) \]
 
 ----
@@ -2007,6 +2049,8 @@ Der Nationalrat hat beschlossen:
 > `(1)` Die Hauptversammlung beschließt in den im Gesetz oder in der Satzung ausdrücklich bestimmten Fällen\.
 
 > `(2)` Über Fragen der Geschäftsführung kann die Hauptversammlung nur entscheiden, wenn dies der Vorstand oder, sofern es sich um ein gemäß § 95 Abs\. 5 seiner Zustimmung vorbehaltenes Geschäft handelt, der Aufsichtsrat verlangt\.
+
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-103-aktg--zuständigkeit-der-hauptversammlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=103) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_114_TextContainer_114) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-103-aktg--zuständigkeit-der-hauptversammlung) \]
 
@@ -2058,6 +2102,8 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Die Kosten der Hauptversammlung und ihrer Vorbereitung trägt die Gesellschaft\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-105-aktg--einberufung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=105) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_116_TextContainer_116) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-105-aktg--einberufung) \]
 
 ----
@@ -2091,6 +2137,8 @@ Der Nationalrat hat beschlossen:
 >> `8.` Angaben über die Möglichkeit zur Bestellung eines Vertreters \(§ 113\) und das dabei einzuhaltende Verfahren \(§ 114\), gegebenenfalls die zu verwendenden Formulare und bei einer börsenotierten Gesellschaft die elektronischen Kommunikationswege für die Übermittlung von Vollmachten;
 >
 >> `9.` bei einer börsenotierten Gesellschaft die Gesamtzahl der Aktien und der Stimmrechte zum Zeitpunkt der Einberufung; falls das Kapital der Gesellschaft in mehrere Aktiengattungen eingeteilt ist, auch die gesonderte Angabe für jede Aktiengattung\.
+>
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-106-aktg--inhalt-der-einberufung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=106) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_117_TextContainer_117) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-106-aktg--inhalt-der-einberufung) \]
 
@@ -2150,6 +2198,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ein Verlangen gemäß Abs\. 1 ist beachtlich, wenn es der Gesellschaft spätestens am 21\. Tag vor einer ordentlichen Hauptversammlung \(§ 104\), ansonsten spätestens am 19\. Tag vor der Hauptversammlung zugeht\. Wenn ein solches Verlangen nicht so rechtzeitig bei der Gesellschaft einlangt, dass es in die ursprüngliche Tagesordnung aufgenommen werden kann, genügt es, wenn die ergänzte Tagesordnung spätestens am 14\. Tag vor der Hauptversammlung in derselben Weise bekannt gemacht wird wie die ursprüngliche Tagesordnung\. Eine börsenotierte Gesellschaft hat die Bekanntmachung gemäß § 107 Abs\. 3 jedoch spätestens am zweiten Werktag nach dem im ersten Satz bezeichneten Fristende vorzunehmen und die ergänzte Tagesordnung samt Begründung ab diesem Tag auf ihrer im Firmenbuch eingetragenen Internetseite zugänglich zu machen\. Im Übrigen gilt § 108 Abs\. 3 bis 5 sinngemäß\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-109-aktg--beantragung-von-tagesordnungspunkten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=109) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_120_TextContainer_120) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-109-aktg--beantragung-von-tagesordnungspunkten) \]
 
 ----
@@ -2200,6 +2250,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Die vorstehenden Absätze gelten sinngemäß für Gesellschaften im Sinn des § 10 Abs\. 1 Z 2, soweit deren Satzung nichts anderes bestimmt\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-111-aktg--teilnahmeberechtigung-bei-einer-börsenotierten-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=111) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_122_TextContainer_122) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-111-aktg--teilnahmeberechtigung-bei-einer-börsenotierten-gesellschaft) \]
 
 ----
@@ -2213,6 +2265,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` § 111 Abs\. 4 gilt sinngemäß\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-112-aktg--teilnahmeberechtigung-bei-einer-nicht-börsenotierten-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=112) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_123_TextContainer_123) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-112-aktg--teilnahmeberechtigung-bei-einer-nicht-börsenotierten-gesellschaft) \]
 
 ----
@@ -2224,6 +2278,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Eine börsenotierte Gesellschaft darf für Personen, die zu Vertretern bestellt werden können, weder besondere Anforderungen vorsehen noch ihre Anzahl beschränken\.
 
 > `(3)` In einer börsenotierten Gesellschaft darf die Gesellschaft selbst oder ein Mitglied des Vorstands oder des Aufsichtsrats das Stimmrecht als Bevollmächtigter nur ausüben, soweit der Aktionär eine ausdrückliche Weisung zu den einzelnen Tagesordnungspunkten erteilt hat\.
+
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-113-aktg--vertretung-durch-bevollmächtigte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=113) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_124_TextContainer_124) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-113-aktg--vertretung-durch-bevollmächtigte) \]
 
@@ -2239,6 +2295,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Abs\. 1 bis 3 gelten sinngemäß für den Widerruf der Vollmacht\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-114-aktg--erteilung-und-widerruf-der-vollmacht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=114) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_125_TextContainer_125) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-114-aktg--erteilung-und-widerruf-der-vollmacht) \]
 
 ----
@@ -2246,6 +2304,8 @@ Der Nationalrat hat beschlossen:
 ### § 115 AktG — Ausschluss anderer Formen der Stimmrechtsübertragung
 
 > Niemand kann das Stimmrecht aus Aktien ausüben, die ihm nicht gehören, wenn er nicht vom Aktionär bevollmächtigt ist; § 61 Abs\. 2 bleibt unberührt\.
+>
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-115-aktg--ausschluss-anderer-formen-der-stimmrechtsübertragung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=115) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_126_TextContainer_126) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-115-aktg--ausschluss-anderer-formen-der-stimmrechtsübertragung) \]
 
@@ -2261,6 +2321,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Mitglieder des Vorstands und des Aufsichtsrats haben in der Hauptversammlung tunlichst anwesend zu sein\. Die Satzung kann auch eine Zuschaltung von Mitgliedern des Vorstands oder des Aufsichtsrats über eine optische und akustische Zweiweg\-Verbindung gestatten\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-116-aktg--vorsitz-teilnahme-von-vorstand-und-aufsichtsrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=116) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_127_TextContainer_127) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-116-aktg--vorsitz-teilnahme-von-vorstand-und-aufsichtsrat) \]
 
 ----
@@ -2268,6 +2330,8 @@ Der Nationalrat hat beschlossen:
 ### § 117 AktG — Verzeichnis der anwesenden Teilnehmer
 
 > In der Hauptversammlung einschließlich einer allfälligen Satellitenversammlung ist ein Verzeichnis der anwesenden oder vertretenen Aktionäre und der Vertreter der Aktionäre, jeweils unter Angabe von Name \(Firma\) und Wohnort \(Sitz\), sowie bei Nennbetragsaktien des Betrags, bei Stückaktien der Zahl der von jedem vertretenen Aktien unter Angabe ihrer Gattung aufzustellen\. Das Verzeichnis ist vor der ersten Abstimmung in der Hauptversammlung und einer allfälligen Satellitenversammlung aufzulegen\.
+>
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-117-aktg--verzeichnis-der-anwesenden-teilnehmer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=117) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_128_TextContainer_128) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-117-aktg--verzeichnis-der-anwesenden-teilnehmer) \]
 
@@ -2287,6 +2351,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Auskunft darf auch verweigert werden, soweit sie auf der im Firmenbuch eingetragenen Internetseite der Gesellschaft in Form von Frage und Antwort über mindestens sieben Tage vor Beginn der Hauptversammlung durchgehend zugänglich war; § 108 Abs\. 4 letzter Satz gilt sinngemäß\. Auf den Grund der Auskunftsverweigerung ist hinzuweisen\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 34\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-118-aktg--auskunftsrecht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=118) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_129_TextContainer_129) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-118-aktg--auskunftsrecht) \]
 
 ----
@@ -2298,6 +2364,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Soweit die Satzung nicht anderes bestimmt, ist über einen Beschlussvorschlag, der gemäß § 110 Abs\. 1 bekannt gemacht wurde, nur dann abzustimmen, wenn er in der Versammlung als Antrag wiederholt wird\.
 
 > `(3)` Liegen zu einem Punkt der Tagesordnung mehrere Anträge vor, so ist zunächst über Anträge abzustimmen, zu denen bereits vor Beginn der Hauptversammlung Stimmen im Weg der Fernabstimmung oder per Brief abgegeben wurden\. Im Übrigen bestimmt mangels einer Regelung in der Satzung der Vorsitzende die Reihenfolge der Abstimmung\.
+
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-119-aktg--anträge-in-der-hauptversammlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=119) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_130_TextContainer_130) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-119-aktg--anträge-in-der-hauptversammlung) \]
 
@@ -2319,6 +2387,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Unverzüglich nach der Versammlung hat der Vorstand eine öffentlich beglaubigte Abschrift der Niederschrift zum Firmenbuch einzureichen\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-120-aktg--niederschrift) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=120) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_131_TextContainer_131) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-120-aktg--niederschrift) \]
 
 ----
@@ -2333,6 +2403,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Beschlüsse der Hauptversammlung bedürfen der Mehrheit der abgegebenen Stimmen \(einfache Stimmenmehrheit\), soweit nicht Gesetz oder Satzung eine größere Mehrheit oder noch andere Erfordernisse vorschreiben\. Für Wahlen kann die Satzung andere Bestimmungen treffen\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-121-aktg--beschlussfähigkeit-beschlussmehrheit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=121) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_132_TextContainer_132) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-121-aktg--beschlussfähigkeit-beschlussmehrheit) \]
 
 ----
@@ -2340,6 +2412,8 @@ Der Nationalrat hat beschlossen:
 ### § 122 AktG — Verfahren
 
 > Die Form der Ausübung des Stimmrechts und das Verfahren zur Stimmenauszählung richten sich nach der Satzung\. Mangels einer solchen Regelung bestimmt sie der Vorsitzende\.
+>
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-122-aktg--verfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=122) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_133_TextContainer_133) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-122-aktg--verfahren) \]
 
@@ -2357,6 +2431,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Die Satzung kann Bestimmungen gemäß Abs\. 2 und 3 nicht für einzelne Aktiengattungen treffen\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-123-aktg--stimmrecht-bei-teileingezahlten-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=123) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_134_TextContainer_134) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-123-aktg--stimmrecht-bei-teileingezahlten-aktien) \]
 
 ----
@@ -2364,6 +2440,8 @@ Der Nationalrat hat beschlossen:
 ### § 124 AktG — Ruhen des Stimmrechts bei Verstoß gegen Meldepflichten
 
 > Die Satzung kann vorsehen, dass das Stimmrecht eines Aktionärs ganz oder teilweise ruht, wenn er gegen gesetzliche oder in Börseregeln vorgesehene Meldepflichten über das Ausmaß seines Anteilsbesitzes verstoßen hat\.
+>
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-124-aktg--ruhen-des-stimmrechts-bei-verstoß-gegen-meldepflichten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=124) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_135_TextContainer_135) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-124-aktg--ruhen-des-stimmrechts-bei-verstoß-gegen-meldepflichten) \]
 
@@ -2372,6 +2450,8 @@ Der Nationalrat hat beschlossen:
 ### § 125 AktG — Ausschluss des Stimmrechts bei Interessenkonflikten
 
 > Niemand kann für sich oder für einen anderen das Stimmrecht ausüben, wenn darüber Beschluss gefasst wird, ob er zu entlasten oder von einer Verbindlichkeit zu befreien ist oder ob die Gesellschaft gegen ihn einen Anspruch geltend machen soll\. Für Aktien, aus denen ein Aktionär gemäß dem ersten Satz das Stimmrecht nicht ausüben kann, kann das Stimmrecht auch nicht durch einen anderen ausgeübt werden\.
+>
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-125-aktg--ausschluss-des-stimmrechts-bei-interessenkonflikten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=125) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_136_TextContainer_136) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-125-aktg--ausschluss-des-stimmrechts-bei-interessenkonflikten) \]
 
@@ -2387,6 +2467,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wenn der Aktionär nach dem Verfahren zur Stimmabgabe ein Formular oder eine Eingabemaske zu verwenden hat, ist vorzusorgen, dass die Aktionäre zu jedem angekündigten Beschlussvorschlag abstimmen können\. Abgegebene Stimmen sind nichtig, wenn der Beschluss in der Hauptversammlung mit einem anderen Inhalt gefasst wird als im Formular oder in der Eingabemaske vorgesehen\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-126-aktg--fernabstimmung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=126) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_137_TextContainer_137) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-126-aktg--fernabstimmung) \]
 
 ----
@@ -2400,6 +2482,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Vor der Abstimmung in der Hauptversammlung ist sicherzustellen, dass das Stimmverhalten bei der Abstimmung per Brief dem Vorstand und dem Aufsichtsrat sowie den übrigen Aktionären nicht bekannt wird\.
 
 > `(4)` Das Formular muss so gestaltet sein, dass die Aktionäre zu jedem angekündigten Beschlussvorschlag abstimmen können\. Abgegebene Stimmen sind nichtig, wenn der Beschluss in der Hauptversammlung mit einem anderen Inhalt gefasst wird als im Formular vorgesehen\.
+
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-127-aktg--abstimmung-per-brief) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=127) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_138_TextContainer_138) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-127-aktg--abstimmung-per-brief) \]
 
@@ -2441,6 +2525,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Ist der Vorzug aufgehoben, so gewähren die Aktien das Stimmrecht\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-129-aktg--sonderbeschluss-über-die-aufhebung-oder-beschränkung-des-vorzugs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=129) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_140_TextContainer_140) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-129-aktg--sonderbeschluss-über-die-aufhebung-oder-beschränkung-des-vorzugs) \]
 
 ----
@@ -2459,6 +2545,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Das Gericht hat auch den Aufsichtsrat und im Fall des Abs\. 3 den von der Hauptversammlung bestellten Sonderprüfer zu hören\. Die Bestellung kann im Fall des Abs\. 2 auf Verlangen von einer angemessenen Sicherheitsleistung abhängig gemacht werden, wenn glaubhaft gemacht wird, dass der Gesellschaft auf Grund des § 133 Abs\. 4 zweiter Satz oder von anderen Vorschriften des bürgerlichen Rechts gegen die Antragsteller oder einzelne von ihnen ein Ersatzanspruch zusteht oder erwachsen kann\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-130-aktg--bestellung-der-sonderprüfer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=130) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_141_TextContainer_141) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-130-aktg--bestellung-der-sonderprüfer) \]
 
 ----
@@ -2469,6 +2557,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Mitglieder des Vorstands und des Aufsichtsrats sowie Angestellte der Gesellschaft dürfen als Sonderprüfer weder gewählt noch bestellt werden; gleiches gilt für Mitglieder des Vorstands oder des Aufsichtsrats sowie Angestellte einer anderen Gesellschaft, die von der zu prüfenden Gesellschaft abhängig ist oder sie beherrscht, sowie für Personen, auf deren Geschäftsführung eine dieser Gesellschaften maßgebenden Einfluss hat\. Im Übrigen gelten die §§ 271 und 271a UGB sinngemäß\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-131-aktg--auswahl-der-sonderprüfer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=131) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_142_TextContainer_142) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-131-aktg--auswahl-der-sonderprüfer) \]
 
 ----
@@ -2476,6 +2566,8 @@ Der Nationalrat hat beschlossen:
 ### § 132 AktG — Verantwortlichkeit der Sonderprüfer
 
 > § 275 UGB über die Verantwortlichkeit des Abschlussprüfers gilt sinngemäß\.
+>
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-132-aktg--verantwortlichkeit-der-sonderprüfer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=132) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_143_TextContainer_143) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-132-aktg--verantwortlichkeit-der-sonderprüfer) \]
 
@@ -2491,6 +2583,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Bestellt das Gericht Sonderprüfer, so trägt die Gesellschaft die Kosten der Prüfung\. Gibt das Gericht dem Antrag auf Bestellung von Prüfern nicht statt oder war der Antrag nach dem Ergebnis der Prüfung unbegründet, so haften die Aktionäre, denen Vorsatz oder grobe Fahrlässigkeit zur Last fällt, für den der Gesellschaft durch den Antrag entstehenden Schaden zur ungeteilten Hand\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-133-aktg--rechte-der-sonderprüfer-prüfungsbericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=133) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_144_TextContainer_144) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-133-aktg--rechte-der-sonderprüfer-prüfungsbericht) \]
 
 ----
@@ -2504,6 +2598,8 @@ Der Nationalrat hat beschlossen:
 > `(1)` Die Ansprüche der Gesellschaft gegen Aktionäre, gegen die nach den §§ 39 bis 41 und § 47 verpflichteten Personen aus der Gründung oder gegen die Mitglieder des Vorstands oder des Aufsichtsrats aus der Geschäftsführung müssen geltend gemacht werden, wenn es die Hauptversammlung mit einfacher Stimmenmehrheit beschließt\. Das gleiche gilt, wenn es eine Minderheit verlangt, deren Anteile zusammen zehn vom Hundert des Grundkapitals erreichen, und wenn die von ihr behaupteten Ansprüche nicht offenkundig unbegründet sind\. Wurden im Prüfungsbericht \(§ 26 Abs\. 2, § 45 Abs\. 2, § 133 Abs\. 3; § 273 UGB\) Tatsachen festgestellt, aus denen sich Ersatzansprüche gegen Aktionäre, gegen die nach den §§ 39, 40 Abs\. 1 Z 1 und 2 sowie § 47 verpflichteten Personen oder gegen Mitglieder des Vorstands oder des Aufsichtsrats ergeben, so genügt eine Minderheit, deren Anteile zusammen fünf vom Hundert des Grundkapitals erreichen\.
 
 > `(2)` Zur Führung des Rechtsstreits kann die Hauptversammlung besondere Vertreter bestellen\. Verlangt die Minderheit die Geltendmachung des Anspruchs und ist der von ihr behauptete Anspruch nicht offenkundig unbegründet, so hat das Gericht die von ihr bezeichneten Personen, wenn deren Bestellung kein wichtiger Grund entgegensteht, als Vertreter der Gesellschaft zur Führung des Rechtsstreits zu bestellen\. Im Übrigen richtet sich die Vertretung der Gesellschaft nach § 97, und zwar auch dann, wenn die Minderheit die Geltendmachung des Anspruchs verlangt hat\.
+
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-134-aktg--verpflichtung-zur-geltendmachung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=134) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_145_TextContainer_145) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-134-aktg--verpflichtung-zur-geltendmachung) \]
 
@@ -2521,6 +2617,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Für den Schaden, der dem Beklagten durch eine unbegründete Klage entsteht, haften die Aktionäre, denen Vorsatz oder grobe Fahrlässigkeit zur Last fällt, zur ungeteilten Hand\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-135-aktg--geltendmachung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=135) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_146_TextContainer_146) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-135-aktg--geltendmachung) \]
 
 ----
@@ -2528,6 +2626,8 @@ Der Nationalrat hat beschlossen:
 ### § 136 AktG — Verzicht und Vergleich
 
 > Die Gesellschaft kann auf einen Anspruch, dessen Geltendmachung die Minderheit gemäß § 134 Abs\. 1 verlangt hat, nur verzichten oder sich darüber vergleichen, wenn von den die Minderheit bildenden Aktionären so viele zustimmen, dass die Aktien der übrigen nicht mehr zehn vom Hundert des Grundkapitals, im Fall des § 134 Abs\. 1 dritter Satz fünf vom Hundert des Grundkapitals, erreichen\.
+>
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-136-aktg--verzicht-und-vergleich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=136) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_147_TextContainer_147) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-136-aktg--verzicht-und-vergleich) \]
 
@@ -2614,6 +2714,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Bei Kapitalerhöhungen mit Sacheinlagen hat eine Prüfung durch einen oder mehrere Prüfer stattzufinden\. § 25 Abs\. 3 bis 5, §§ 26, 27, 42 und 44 gelten sinngemäß\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-150-aktg--kapitalerhöhung-mit-sacheinlagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=150) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_153_TextContainer_153) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-150-aktg--kapitalerhöhung-mit-sacheinlagen) \]
 
 ----
@@ -2667,6 +2769,8 @@ Der Nationalrat hat beschlossen:
 > `(5)` Die vorrangige Ausgabe von Aktien an Arbeitnehmer, leitende Angestellte und Mitglieder des Vorstands oder des Aufsichtsrats der Gesellschaft oder eines mit ihr verbundenen Unternehmens stellt einen ausreichenden Grund für den Ausschluss des Bezugsrechts dar\.
 
 > `(6)` Als Ausschluß des Bezugsrechts ist es nicht anzusehen, wenn nach dem Beschluß über die Kapitalerhöhung die neuen Aktien von einem Kreditinstitut mit der Verpflichtung übernommen werden sollen, sie den Aktionären zum Bezug anzubieten\. Der Vorstand hat das mittelbare Bezugsangebot unter Angabe des für die Aktien zu leistenden Entgelts und einer für die Annahme gesetzten Fristgemäß § 18 bekanntzumachen\.
+
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-153-aktg--bezugsrecht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=153) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_156_TextContainer_156) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-153-aktg--bezugsrecht) \]
 
@@ -2756,6 +2860,8 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Die folgenden Vorschriften über das Bezugsrecht gelten sinngemäß für das Umtauschrecht\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-159-aktg--voraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=159) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_162_TextContainer_162) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-159-aktg--voraussetzungen) \]
 
 ----
@@ -2783,6 +2889,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Ohne diese Festsetzung sind Vereinbarungen über Sacheinlagen und die Rechtshandlungen zu ihrer Ausführung der Gesellschaft gegenüber unwirksam\. Sind die Bezugsaktien ausgegeben, so wird die Gültigkeit der bedingten Kapitalerhöhung durch diese Unwirksamkeit nicht berührt\. Der Aktionär bleibt verpflichtet, den Ausgabebetrag der Bezugsaktien einzuzahlen\. Die Unwirksamkeit kann durch Satzungsänderung nicht geheilt werden, nachdem die Bezugsaktien ausgegeben worden sind\.
 
 > `(3)` Bei Kapitalerhöhungen mit Sacheinlagen hat eine Prüfung durch einen oder mehrere Prüfer stattzufinden\. § 25 Abs\. 3 bis 5 sowie §§ 26, 27, 42 und 44 gelten sinngemäß\.
+
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-161-aktg--bedingte-kapitalerhöhung-mit-sacheinlagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=161) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_164_TextContainer_164) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-161-aktg--bedingte-kapitalerhöhung-mit-sacheinlagen) \]
 
@@ -3045,6 +3153,8 @@ Der Nationalrat hat beschlossen:
 ### § 183 AktG — Auflösung von Rücklagen
 
 > Die vereinfachte Kapitalherabsetzung ist nur zulässig, nachdem der zehn vom Hundert des nach der Herabsetzung verbleibenden Grundkapitals übersteigende Teil der gebundenen Rücklagen \(§ 229 UGB\) und alle nicht gebundenen Kapitalrücklagen sowie alle satzungsmäßigen und andere Gewinnrücklagen vorweg aufgelöst sind\.
+>
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-183-aktg--auflösung-von-rücklagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=183) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_186_TextContainer_186) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-183-aktg--auflösung-von-rücklagen) \]
 
@@ -3061,6 +3171,8 @@ Der Nationalrat hat beschlossen:
 ### § 185 AktG — Einstellung von Beträgen in die gebundene Kapitalrücklage bei zu hoch angenommenen Verlusten
 
 > Ergibt sich bei Aufstellung des Jahresabschlusses für das Geschäftsjahr, in dem der Beschluß über die Kapitalherabsetzung gefaßt wurde, oder für eines der beiden folgenden Geschäftsjahre, daß die Verluste in der bei der Beschlußfassung angenommenen Höhe tatsächlich nicht eingetreten oder ausgeglichen waren, so ist der Unterschiedsbetrag in die gebundene Kapitalrücklage einzustellen\.
+>
+> *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-185-aktg--einstellung-von-beträgen-in-die-gebundene-kapitalrücklage-bei-zu-hoch-angenommenen-verlusten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=185) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_188_TextContainer_188) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-185-aktg--einstellung-von-beträgen-in-die-gebundene-kapitalrücklage-bei-zu-hoch-angenommenen-verlusten) \]
 
@@ -3094,6 +3206,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Beschlüsse sind nichtig, wenn der Beschluß über die Kapitalherabsetzung nicht binnen drei Monaten nach der Beschlußfassung in das Firmenbuch eingetragen worden ist; der Lauf der Frist ist gehemmt, solange eine Anfechtungs\- oder Nichtigkeitsklage anhängig ist oder eine zur Kapitalherabsetzung beantragte behördliche Genehmigung noch nicht erteilt ist\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-188-aktg--rückwirkung-der-kapitalherabsetzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=188) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_191_TextContainer_191) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-188-aktg--rückwirkung-der-kapitalherabsetzung) \]
 
 ----
@@ -3111,6 +3225,8 @@ Der Nationalrat hat beschlossen:
 ### § 190 AktG — Gewinn- und Verlustrechnung
 
 > In den Fällen der §§ 188, 189 sind in der Gewinn\- und Verlustrechnung die aus der Kapitalherabsetzung gewonnenen Beträge und allfällige Zuweisungen zu gebundenen Kapitalrücklagen gesondert auszuweisen\.
+>
+> *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-190-aktg--gewinn--und-verlustrechnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=190) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_193_TextContainer_193) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-190-aktg--gewinn--und-verlustrechnung) \]
 
@@ -3145,6 +3261,8 @@ Der Nationalrat hat beschlossen:
 > `(5)` In den Fällen des Abs\. 3 Z 1 und 2 ist in die gebundenen Rücklagen ein Betrag einzustellen, der dem auf die eingezogenen Aktien entfallenden Betrag entspricht\.
 
 > `(6)` Soweit es sich um eine durch die Satzung angeordnete Zwangseinziehung handelt, bedarf es eines Beschlusses der Hauptversammlung nicht\. In diesem Fall tritt für die Anwendung der Vorschriften über die ordentliche Kapitalherabsetzung an die Stelle des Hauptversammlungsbeschlusses die Entscheidung des Vorstands über die Einziehung\.
+
+> *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 34\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-192-aktg--voraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=192) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_195_TextContainer_195) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-192-aktg--voraussetzungen) \]
 
@@ -3188,6 +3306,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wegen unrichtiger, unvollständiger oder verweigerter Erteilung von Informationen kann nur angefochten werden, wenn ein objektiv urteilender Aktionär die Erteilung der Information als wesentliche Voraussetzung für die sachgerechte Wahrnehmung seiner Teilnahme\- und Mitgliedschaftsrechte angesehen hätte\. Auf unrichtige, unvollständige oder unzureichende Informationen in der Hauptversammlung über die Ermittlung, Höhe oder Angemessenheit des Umtauschverhältnisses \(einschließlich barer Zuzahlungen\), der Barabfindung oder einer sonstigen Kompensation kann eine Anfechtungsklage nicht gestützt werden, wenn für deren Überprüfung ein besonderes gerichtliches Verfahren vorgesehen ist\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-195-aktg--anfechtungsgründe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=195) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_198_TextContainer_198) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-195-aktg--anfechtungsgründe) \]
 
 ----
@@ -3215,6 +3335,8 @@ Der Nationalrat hat beschlossen:
 >> `5.` jedes Mitglied des Vorstands und des Aufsichtsrats, wenn sich die Mitglieder des Vorstands und des Aufsichtsrats durch die Ausführung des Beschlusses strafbar oder ersatzpflichtig machen würden\.
 
 > `(2)` Aktionäre sind zu einer Anfechtung, die darauf gestützt wird, daß durch den Beschluß Abschreibungen, Wertberichtigungen, Rücklagen oder Rückstellungen über das nach Gesetz oder Satzung statthafte Maß hinaus vorgenommen seien, nur befugt, wenn ihre Anteile zusammen fünf vom Hundert des Grundkapitals erreichen\.
+
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-196-aktg--anfechtungsbefugnis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=196) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_199_TextContainer_199) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-196-aktg--anfechtungsbefugnis) \]
 
@@ -3266,6 +3388,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Nichtigkeit eines Hauptversammlungsbeschlusses auf Grund eines über eine Anfechtungsklage \(§ 197\) ergangenen Urteils oder eines gerichtlichen Beschlusses auf Löschung im öffentlichen Interesse wegen Verletzung zwingender gesetzlicher Vorschriften wird durch Abs\. 1 nicht berührt\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-199-aktg--nichtigkeitsgründe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=199) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_202_TextContainer_202) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-199-aktg--nichtigkeitsgründe) \]
 
 ----
@@ -3277,6 +3401,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Ist ein Hauptversammlungsbeschluß nach § 199 Abs\. 1 Z 1, 3 oder 4 nichtig, so kann die Nichtigkeit nicht mehr geltend gemacht werden, wenn der Beschluß in das Firmenbuch eingetragen worden ist und seitdem drei Jahre verstrichen sind\. Eine Löschung des Beschlusses von Amts wegen im öffentlichen Interesse wegen Verletzung zwingender gesetzlicher Vorschriften \(§ 199 Abs\. 2\) wird durch den Zeitablauf nicht ausgeschlossen\.
 
 > `(3)` Ist ein Hauptversammlungsbeschluss wegen Verstoßes gegen § 107 Abs\. 2 zweiter oder dritter Satz gemäß § 199 Abs\. 1 Z 1 nichtig, so kann die Nichtigkeit nicht mehr geltend gemacht werden, wenn der nicht geladene Aktionär den Beschluss genehmigt\.
+
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-200-aktg--heilung-der-nichtigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=200) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_203_TextContainer_203) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-200-aktg--heilung-der-nichtigkeit) \]
 
@@ -3438,6 +3564,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Die Vorschriften für den Jahresabschluß gelten sinngemäß für die Eröffnungsbilanz\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 34\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-211-aktg--eröffnungsbilanz-jahresabschluss-lagebericht-und-corporate-governance-bericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=211) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_214_TextContainer_214) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-211-aktg--eröffnungsbilanz-jahresabschluss-lagebericht-und-corporate-governance-bericht) \]
 
 ----
@@ -3489,6 +3617,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Die Abwickler haben die Fortsetzung der Gesellschaft zur Eintragung in das Firmenbuch anzumelden; sie haben bei der Anmeldung nachzuweisen, daß noch nicht mit der Verteilung des Vermögens der Gesellschaft unter die Aktionäre begonnen worden ist\.
 
 > `(4)` Der Fortsetzungsbeschluß hat keine Wirkung, bevor er in das Firmenbuch des Sitzes der Gesellschaft eingetragen worden ist\.
+
+> *\(Beachte: Ist anzuwenden, wenn das Insolvenzverfahren nach dem 30\. Juni 2010 eröffnet oder wieder aufgenommen \(§ 158 Abs\. 2 IO\) wurde \(vgl\. § 262 Abs\. 21\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-215-aktg--fortsetzung-einer-aufgelösten-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=215) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_218_TextContainer_218) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-215-aktg--fortsetzung-einer-aufgelösten-gesellschaft) \]
 
@@ -3591,6 +3721,8 @@ Der Nationalrat hat beschlossen:
 ### § 220a AktG — Verschmelzungsbericht
 
 > Die Vorstände jeder der an der Verschmelzung beteiligten Gesellschaften haben einen ausführlichen schriftlichen Bericht zu erstatten, in dem die voraussichtlichen Folgen der Verschmelzung, der Verschmelzungsvertrag oder dessen Entwurf und insbesondere das Umtauschverhältnis der Aktien, gegebenenfalls die Höhe der baren Zuzahlungen sowie die Maßnahmen gemäß § 226 Abs\. 3 rechtlich und wirtschaftlich erläutert und begründet werden\. Auf besondere Schwierigkeiten bei der Bewertung der Unternehmen ist hinzuweisen\. § 118 Abs\. 3 ist sinngemäß anzuwenden\.
+>
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-220a-aktg--verschmelzungsbericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=220a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_224_TextContainer_224) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-220a-aktg--verschmelzungsbericht) \]
 
@@ -3616,6 +3748,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Besteht in sinngemäßer Anwendung von § 133 Abs\. 3 zweiter Satz ein Geheimhaltungsinteresse, so hat der Verschmelzungsprüfer auch eine darauf Bedacht nehmende Fassung vorzulegen, die zur Einsicht der Aktionäre bestimmt ist \(§ 221a Abs\. 2 Z 5\)\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-220b-aktg--prüfung-der-verschmelzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=220b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_225_TextContainer_225) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-220b-aktg--prüfung-der-verschmelzung) \]
 
 ----
@@ -3623,6 +3757,8 @@ Der Nationalrat hat beschlossen:
 ### § 220c AktG — Prüfung durch den Aufsichtsrat
 
 > Die Aufsichtsräte der an der Verschmelzung beteiligten Gesellschaften haben die beabsichtigte Verschmelzung auf der Grundlage des Verschmelzungsberichts und des Prüfungsberichts zu prüfen und darüber einen schriftlichen Bericht zu erstatten; § 118 Abs\. 3 ist sinngemäß anzuwenden\. Die Prüfung durch den Aufsichtsrat der übernehmenden Gesellschaft kann entfallen, wenn für den Erwerb von Unternehmen gemäß § 95 Abs\. 5 Z 1 eine Betragsgrenze festgesetzt wurde und der Buchwert der übertragenden Gesellschaft diese Betragsgrenze nicht überschreitet\.
+>
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-220c-aktg--prüfung-durch-den-aufsichtsrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=220c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_226_TextContainer_226) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-220c-aktg--prüfung-durch-den-aufsichtsrat) \]
 
@@ -4066,6 +4202,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die §§ 220 ff sind auf die übertragende Aktiengesellschaft anzuwenden\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 13\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-234a-aktg--verschmelzung-einer-aktiengesellschaft-mit-einer-gesellschaft-mit-beschränkter-haftung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=234a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_255_TextContainer_255) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-234a-aktg--verschmelzung-einer-aktiengesellschaft-mit-einer-gesellschaft-mit-beschränkter-haftung) \]
 
 ----
@@ -4091,6 +4229,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` Im Gesellschaftsvertrag einer Gesellschaft mit beschränkter Haftung kann das Recht auf angemessene Barabfindung ausgeschlossen oder eingeschränkt werden\. Durch eine Änderung des Gesellschaftsvertrags kann das Recht ausgeschlossen oder eingeschränkt werden, wenn alle Gesellschafter der Änderung zustimmen\.
 
 > `(5)` Eine Klage auf Anfechtung des Verschmelzungsbeschlusses der übertragenden Gesellschaft kann nicht darauf gestützt werden, dass die angebotene Barabfindung nicht angemessen festgelegt ist oder dass die in den Verschmelzungsberichten, den Prüfungsberichten oder in den Berichten der Aufsichtsräte enthaltenen Erläuterungen des Barabfindungsangebots den gesetzlichen Bestimmungen nicht entsprechen\. Anteilsinhaber, die das Barabfindungsangebot angenommen haben, können bei Gericht den Antrag stellen, dass die angebotene Barabfindung überprüft und eine höhere Barabfindung festgelegt wird; sie haben glaubhaft zu machen, dass sie vom Zeitpunkt der Beschlussfassung der Gesellschafterversammlung der übertragenden Gesellschaft bis zur Antragstellung Anteilsinhaber waren\. Für das Verfahren auf gerichtliche Überprüfung gelten die §§ 225d bis 225m, ausgenommen § 225e Abs\. 3 zweiter Satz und § 225j Abs\. 2, sinngemäß\. Wird die gerichtliche Überprüfung der angebotenen Barabfindung begehrt, so endet die Frist für die Annahme des Barabfindungsangebots einen Monat nach dem Tag der letzten Bekanntmachung gemäß § 225k Abs\. 1\.
+
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 13\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-234b-aktg--barabfindung-bei-rechtsformübergreifender-verschmelzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=234b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_256_TextContainer_256) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-234b-aktg--barabfindung-bei-rechtsformübergreifender-verschmelzung) \]
 
@@ -4220,6 +4360,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Im übrigen gilt § 234b sinngemäß\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-244-aktg--barabfindung-widersprechender-aktionäre) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=244) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_266_TextContainer_266) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-244-aktg--barabfindung-widersprechender-aktionäre) \]
 
 ----
@@ -4311,6 +4453,8 @@ Der Nationalrat hat beschlossen:
 ### § 253 AktG — Barabfindung widersprechender Gesellschafter
 
 > Jedem Gesellschafter, der gegen die Umwandlung Widerspruch zur Niederschrift erklärt hat, steht gegenüber der Gesellschaft oder einem Dritten, der die Barabfindung angeboten hat, das Recht auf angemessene Barabfindung gegen Hingabe seiner Aktien zu\. § 244 Abs\. 2 und 3 und § 234b gelten mit der Maßgabe sinngemäß, dass der Prüfungsbericht den Gesellschaftern zu übersenden ist\. Zwischen dem Tag der Aufgabe der Sendung zur Post und der Beschlussfassung muss mindestens ein Zeitraum von 14 Tagen liegen\.
+>
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 13\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-253-aktg--barabfindung-widersprechender-gesellschafter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=253) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_275_TextContainer_275) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-253-aktg--barabfindung-widersprechender-gesellschafter) \]
 
@@ -4345,6 +4489,8 @@ Der Nationalrat hat beschlossen:
 > `(1)` Die Vorstandsmitglieder oder die Abwickler, im Falle einer inländischen Zweigniederlassung die für diese im Inland vertretungsbefugten Personen, sind, unbeschadet der allgemeinen unternehmensrechtlichen Vorschriften, zur Befolgung der §§ 33 Abs\. 3, 61 Abs\. 1, 65a Abs\. 3, 78e Abs\. 1, 81, 89 Abs\. 1, 95 Abs\. 2 und 3, 95a Abs\. 5, 96 Abs\. 1 und 3, 104 Abs\. 1, 2, 2a und 4, 105 Abs\. 2, 108 Abs\. 3 bis 5, 110 Abs\. 1, 118 Abs\. 1, 128 Abs\. 2, 133 Abs\. 1 bis 3, 174 Abs\. 2, 197 Abs\. 5, 207 Abs\. 1, 211 Abs\. 1 und 2, 214 Abs\. 2, 225k Abs\. 1 dieses Bundesgesetzes vom Gericht durch Zwangsstrafen bis zu 3 600 Euro anzuhalten\. § 24 Abs\. 2 bis 5 FBG ist anzuwenden\.
 
 > `(2)` Die Anmeldungen zum Firmenbuch nach den §§ 28, 45, 46, 148 Abs\. 1, §§ 151, 155, 162, 176, 192 Abs\. 4, §§ 215, 225 Abs\. 1 erster Satz, § 233 Abs\. 5, §§ 240, 248 werden nicht erzwungen\.
+
+> *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 34\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-258-aktg--zwangsstrafen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=258) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_277_TextContainer_277) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-258-aktg--zwangsstrafen) \]
 

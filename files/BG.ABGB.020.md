@@ -33,6 +33,8 @@ Ist im Vertrage kein Entgelt bestimmt und auch nicht Unentgeltlichkeit vereinbar
 `§ 1153 ABGB.`  
 Wenn sich aus dem Dienstvertrage oder aus den Umständen nichts anderes ergibt, hat der Dienstnehmer die Dienste in eigener Person zu leisten und ist der Anspruch auf die Dienste nicht übertragbar. Soweit über Art und Umfang der Dienste nichts vereinbart ist, sind die den Umständen nach angemessenen Dienste zu leisten.
 
+*(Beachte: Für die meisten Dienstverträge gelten - die §§ 1153 bis 1164 teils ergänzend, teils materiell derogierend - Sondervorschriften.)*
+
 ### § 1154 ABGB # Anspruch auf das Entgelt
 
 `§ 1154 (1) ABGB.`  

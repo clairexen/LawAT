@@ -184,6 +184,8 @@ Nach Maßgabe der technischen Möglichkeiten können Änderungen im ZVR, die son
 `§ 19 (7) VerG.`  
 Der Österreichischen Nationalbank sind gegen Ersatz der dafür anfallenden Kosten die Daten aus dem Zentralen Vereinsregister zur Erfüllung ihrer gesetzlich oder unionsrechtlich übertragenen Aufgaben nach Maßgabe der technischen Möglichkeiten im Datenfernverkehr zu übermitteln.
 
+*(Beachte: Abs. 6 ist ab 5.12.2023 anzuwenden (vgl. § 33 Abs. 16 iVm BGBl. II Nr. 340/2023).)*
+
 ### § 19a VerG # Übermittlung personenbezogener Daten
 
 `§ 19a (1) VerG.`  
@@ -236,6 +238,8 @@ Als Abschlussprüfer können Wirtschaftsprüfer oder Wirtschaftsprüfungsgesells
 `§ 22 (5) VerG.`  
 Stellt der Abschlussprüfer bei seiner Prüfung Tatsachen fest, die erkennen lassen, dass der Verein seine bestehenden Verpflichtungen nicht erfüllen kann, oder die erwarten lassen, dass der Verein in Zukunft zur Erfüllung seiner Verpflichtungen nicht in der Lage sein wird, so hat er dies der Vereinsbehörde mitzuteilen. Die Vereinsbehörde hat diesen Umstand im Vereinsregister ersichtlich zu machen. Die Eintragung ist wieder zu löschen, wenn der Abschlussprüfer mitteilt, dass die ihr zu Grunde liegenden Tatsachen nicht mehr bestehen. Die Eintragung ist in einer Weise zu löschen, dass sie – abweichend von § 16 Abs. 2 – nicht weiter abfragbar ist.
 
+*(Beachte: Zu Abs. 2: zum Bezugszeitraum vgl. § 33 Abs. 13)*
+
 ## 5. Abschnitt # Haftung
 
 ### § 23 VerG # Haftung für Verbindlichkeiten des Vereins
@@ -278,6 +282,8 @@ Unterlässt es der Organwalter oder Rechnungsprüfer, dem Verein den Streit zu v
 
 `§ 24 (7) VerG.`  
 Eine von einem Verein abgeschlossene Haftpflichtversicherung hat auch den in Abs. 5 genannten Anspruch eines Organwalters oder Rechnungsprüfers gegen den Verein zu decken.
+
+*(Beachte: Zu Abs. 1, 5, 6 und 7: Bezugszeitraum vgl. § 33 Abs. 10)*
 
 ### § 25 VerG # Geltendmachung von Ersatzansprüchen des Vereins
 

@@ -739,6 +739,8 @@ Die zum Zeitpunkt des Inkrafttretens des Bundesgesetzes BGBl. I Nr. 171/2022 b
 `§ 376 (2) Z 72 GewO.`
 Für Gewerbeanmeldungen, die vor dem in § 382 Abs. 97 bestimmten Inkrafttreten dieses Bundesgesetzes bei der Behörde eingelangt sind, sind § 339 Abs. 3 und § 365g in der Fassung dieses Bundesgesetzes anzuwenden, sofern die Gewerbeberechtigung im GISA noch nicht freigegeben worden ist und nicht bereits entweder der Behörde ein dem § 339 Abs. 3 Z 3 in der Fassung vor dem Inkrafttreten dieses Bundesgesetzes entsprechender Firmenbuchauszug vorgelegt worden ist oder die Behörde gemäß § 365g Abs. 2 in der Fassung vor dem Inkrafttreten dieses Bundesgesetzes einen Firmenbuchauszug zur Verfügung gestellt hat.
 
+*(Beachte: Z 72 idF BGBl. I Nr. 171/2022: zum Inkrafttreten vgl. § 382 Abs. 105)*
+
 ### § 377 GewO # Realgewerbe und Dominikalgewerbe
 
 `§ 377 (1) GewO.`  

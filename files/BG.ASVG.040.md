@@ -70,6 +70,8 @@ Personen, über deren Vermögen ein Insolvenzverfahren eröffnet ist;
 *(Anm.: Abs. 7 aufgehoben durch VfGH, BGBl. I Nr. 3/2020 und BGBl. I Nr. 5/2020*
 *Abs. 8 aufgehoben durch VfGH, BGBl. I Nr. 5/2020)*
 
+*(Beachte: zum Bezugszeitraum vgl. § 718 Abs. 7a)*
+
 ### § 421 ASVG # Bestellung der Versicherungsvertreter/innen
 
 `§ 421 (1) ASVG.`  

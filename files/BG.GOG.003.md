@@ -104,6 +104,8 @@ Jeder Richter, der von einer gegenüber dem Entwurf geänderten Geschäftsvertei
 `§ 27 (6) GOG.`  
 Der Außensenat des Oberlandesgerichtes ist zur Entscheidung über die Beschwerde zuständig. Er kann jedoch die Behandlung der Beschwerde ablehnen, wenn sie den formalen Erfordernissen nicht entspricht oder schon auf Grund des Vorbringens keine hinreichende Aussicht auf Erfolg hat.
 
+*(Beachte: Ist erstmals auf die Geschäftsverteilungen für das Geschäftsverteilungsjahr vom 1. Jänner 2014 bis 31. Dezember 2014 anzuwenden (vgl. § 98 Abs. 17 Z 1).)*
+
 ### § 27a GOG
 
 `§ 27a (1) GOG.`  
@@ -232,6 +234,8 @@ Der Präsident des Gerichtshofes hat den Entwurf der Geschäftsverteilung für d
 `§ 34 (2) GOG.`  
 § 26a, § 27 Abs. 2 bis 6, § 27a, § 28 Abs. 1 und § 28a sind anzuwenden, § 27 Abs. 3 jedoch mit der Maßgabe, daß die Begründung beim Gerichtshof zur Einsicht aufzulegen ist, und § 27a Abs. 3 mit der Maßgabe, daß der Antrag vom Präsidenten des Gerichtshofes zuzustellen ist.
 
+*(Beachte: Ist erstmals auf die Geschäftsverteilungen für das Geschäftsverteilungsjahr vom 1. Jänner 2014 bis 31. Dezember 2014 anzuwenden (vgl. § 98 Abs. 17 Z 1).)*
+
 ### § 35 GOG
 
 `§ 35 GOG.`  
@@ -285,6 +289,8 @@ Beschwerden gegen Angestellte der Gerichtskanzlei, Vollstreckungsbeamte und Geri
 
 `§ 37 (2) GOG.`  
 Die unter Z 1 bis 11 sowie 13 und 14 aufgezählten Geschäfte werden vom Vorsitzenden oder dem beauftragten Mitglied des Senats als Einzelrichter erledigt, die unter Z 11 genannten Geschäfte jedoch nur dann, wenn nicht auf seinen Antrag der Senat ihre Erledigung übernimmt.
+
+*(Beachte: Der Z 2 wurde materiell derogiert: Art. V des EGZPO, RGBl. Nr. 112/1895, ist durch § 1 StGBl. Nr. 148/1920 aufgehoben worden.Der Z 7a wurde bezüglich der Zeugengebührenbestimmung materiell derogiert: § 347 ZPO ist durch § 43 Z 1 des GebAG 1965, BGBl. Nr. 179/1965, aufgehoben worden; siehe nunmehr § 20 GebAG 1975, BGBl. Nr. 136/1975.Der Z 7b wurde teilweise durch die §§ 104a und 114a JN, RGBl. Nr. 111/1895, iVm § 55a EheG, dRGBl. I S 807/1938, und den §§ 220 ff. AußStrG, RGBl. Nr. 208/1854, materiell derogiert.Der Z 9 wurde teilweise materiell derogiert: es gibt keine Depositenämter mehr; zum Gerichtserlagswesen siehe auch das BG, BGBl. Nr. 110/1948, und die §§ 284 ff. Geo., BGBl. Nr. 264/1951.Der Z 11 wurde bezüglich der Zeugengebührenbestimmung materiell derogiert; siehe nunmehr § 20 GebAG 1975, BGBl. Nr. 136/1975.)*
 
 ### § 38 GOG
 
@@ -348,6 +354,8 @@ Rechtssachen, in denen bereits eine Rechtsmittelentscheidung ergangen ist, sind 
 `§ 45 (3) GOG.`  
 Rechtsstreitigkeiten nach dem vierten Abschnitt des sechsten Teils der Zivilprozessordnung, RGBl. Nr. 113/1895, sind tunlichst demselben Rechtsmittelsenat zuzuweisen.
 
+*(Beachte: Ist erstmals auf die Geschäftsverteilungen für das Geschäftsverteilungsjahr vom 1. Jänner 2014 bis 31. Dezember 2014 anzuwenden (vgl. § 98 Abs. 17 Z 1).)*
+
 ### § 46 GOG
 
 `§ 46 (1) GOG.`  
@@ -388,5 +396,7 @@ Nach Maßgabe des Bedarfs der rechtsuchenden Bevölkerung und der regionalen Bed
 
 `§ 47b (2) GOG.`  
 Justiz-Servicecenter können für den jeweiligen Standort (einfache Justiz-Servicecenter) oder unabhängig vom Standort zentral für alle Gerichte und Staatsanwaltschaften (zentrale Justiz-Servicecenter) eingerichtet werden. Wird von einem zentralen Justiz-Servicecenter ein protokollarisches Anbringen aufgenommen (§ 56 Abs. 1), so ist für seine Rechtzeitigkeit der Zeitpunkt der Protokollaufnahme maßgebend. Das protokollarische Anbringen ist erforderlichenfalls unverzüglich an das zuständige Gericht zu übersenden.
+
+*(Beachte: Zum Bezugszeitraum vgl. § 98 Abs. 17 Z 3.)*
 
 `END-OF-DATA-FILE` *(fortges. in [BG.GOG.004](BG.GOG.004.md))*

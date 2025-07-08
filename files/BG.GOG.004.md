@@ -58,6 +58,8 @@ Bei jedem Gericht besteht eine Geschäftsstelle (Gerichtskanzlei). Dieser oblieg
 `§ 49 (2) GOG.`  
 Die näheren Regelungen über die Organisation der Geschäftsstelle und die dort verwendeten Personen sind durch Verordnung zu treffen. In dieser ist insbesondere auch festzustellen, wie weit bei Gerichten für die Erledigung von Rechnungsarbeiten durch die Bestellung von Bediensteten der Geschäftsstelle Vorsorge zu treffen ist, die zum Rechnungsdienst befähigt oder sonst rechnungsverständig sind.
 
+*(Beachte: Siehe die materiellen Derogationen durch das BDG 1979, BGBl. Nr. 333/1979, durch § 9 f. RDG, BGBl. Nr. 305/1961 sowie das Gesetz, RGBl. Nr. 1/1911 und die Verordnung, RGBl. Nr. 5/1911.)*
+
 ### § 50 GOG
 
 `§ 50 (1) GOG.`  
@@ -71,6 +73,8 @@ Die nähere Bestimmung der Erfordernisse für die Anstellung als Beamter der Ger
 
 `§ 50 (4) GOG.`  
 Die Erfordernisse für die Ernennung zu Beamten der gerichtlichen Rechnungsdepartments und Depositenämter sind bis zu Erlassung neuer Anordnungen nach den bei Beginn der Wirksamkeit dieses Gesetzes darüber bestehenden Vorschriften zu beurtheilen.
+
+*(Beachte: Zu Abs. 1: Siehe die materiellen Derogationen durch das BDG 1979, BGBl. Nr. 333/1979, durch § 9 f. RDG, BGBl. Nr. 305/1961 sowie das Gesetz, RGBl. Nr. 1/1911 und die Verordnung, RGBl. Nr. 5/1911; weiters die Kanzleipersonal-Verordnung, RGBl. Nr. 170/1897,insbesondere bezüglich der Zweiten Kanzleiprüfung für Fachbeamte der Gerichtskanzlei sowie das BDG 1979, BGBl. Nr. 333/1979; Zu Abs. 2 siehe § 9 f. RDG, BGBl. Nr. 305/1961.)*
 
 ### § 51 GOG
 
@@ -100,6 +104,8 @@ Zur Besorgung der im Abs. 2 genannten Geschäfte darf nicht aufgenommen werden,
 wegen einer oder mehrerer mit Vorsatz begangenen strafbaren Handlungen zu einer mehr als einjährigen Freiheitsstrafe oder  
 `§ 52 (3) Z 2 GOG.`
 wegen einer mit Bereicherungsvorsatz begangenen strafbaren Handlung oder wegen einer strafbaren Handlung gegen die sexuelle Integrität und Selbstbestimmung verurteilt worden ist.
+
+*(Beachte: Teilweise materiell derogiert durch das BDG 1979, BGBl. Nr. 333/1979.)*
 
 ### § 53 GOG
 
@@ -138,6 +144,8 @@ Die Gerichtskanzlei erteilt den Parteien die nach Zulaß des Gesetzes begehrten 
 
 `§ 56 (5) GOG.`  
 Die in der Gerichtskanzlei verwendeten Personen haben, soweit es ihre Ausbildung und dienstliche Erfahrung gestattet, Schriftführerdienste zu leisten und für die richterliche Erledigung Entwürfe vorzubereiten. Näheres bestimmt die Geschäftsordnung.
+
+*(Beachte: Ist auf anhängige Verfahren weiter anzuwenden (vgl. Art. XXXII § 6 Abs. 2, BGBl. I Nr. 112/2003).)*
 
 ### § 57 GOG
 
@@ -197,5 +205,7 @@ Das Recht der Aufsicht enthält die Befugnis, wegen Vernachlässigung des Dienst
 
 `§ 63 (3) GOG.`  
 Gegen einen Verweis oder gegen die Verhängung einer Geldstrafe kann von dem betheiligten Beamten oder Diener binnen acht Tagen die Beschwerde bei dem Präsidenten des übergeordneten Gerichtshofes, von Beamten und Dienern binnen acht Tagen die Beschwerde bei dem Präsidenten des übergeordneten Gerichtshofes, von Beamten und Dienern des Obersten Gerichts- und Cassationshofes bei dem Justizminister angebracht werden.
+
+*(Beachte: Abs. 2 und 3 zum Teil aufgehoben durch Art. VI Abs. 2 der Dienstpragmatik, BGBl. Nr. 15/1914; siehe überdies §§ 91 ff. BDG 1979, BGBl. Nr. 333/1979.)*
 
 `END-OF-DATA-FILE` *(fortges. in [BG.GOG.005](BG.GOG.005.md))*

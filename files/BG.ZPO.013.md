@@ -54,6 +54,8 @@ Die Klage, sowie alle außerhalb der mündlichen Verhandlung vorzubringenden Ges
 `§ 434 (2) ZPO.`  
 Klagen und Widersprüche gegen ein Versäumungsurteil können von einer Partei auch beim Bezirksgericht ihres Aufenthalts mündlich zu Protokoll erklärt werden; dieses Bezirksgericht hat das Protokoll dem Prozeßgericht unverzüglich zu übersenden.
 
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
+
 ### § 435 ZPO
 
 `§ 435 (1) ZPO.`  
@@ -103,10 +105,14 @@ Der Auftrag zur schriftlichen Feststellung von Anträgen und Erklärungen (§. 2
 `§ 440 (6) ZPO.`  
 Die Höhe eines aufgetragenen Kostenvorschusses kann schon dann angefochten werden (§ 332 Abs. 2), wenn der Gesamtbetrag der einer Partei aufgetragenen Vorschüsse 2 000 Euro übersteigt.
 
+*(Beachte: Abs. 1 und 4 sind auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
+
 ### § 441 ZPO
 
 `§ 441 ZPO.`  
 Die Einrede der Unzuständigkeit des Gerichtes hat der Beklagte vorzubringen, bevor er sich in die Verhandlung über die Hauptsache einlässt. Nach Einlassung des Beklagten zur Hauptsache kann die Unzuständigkeit des Gerichtes nur unter den Voraussetzungen des § 240 berücksichtigt werden.
+
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
 
 ### § 442 ZPO
 
@@ -120,6 +126,8 @@ Gegen ein Versäumungsurteil kann Widerspruch nach § 397a erhoben werden, es s
 
 `§ 442a (2) ZPO.`  
 Der Beklagte hat Anspruch auf Ersatz der Kosten eines von ihm erhobenen Widerspruchs (§ 397a Abs. 4) nur, wenn ihm das Gericht nach § 440 Abs. 3 aufgetragen hatte, das darin Enthaltene in einem Schriftsatz vorzubringen.
+
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
 
 ### § 443 ZPO
 
@@ -148,6 +156,8 @@ Der Beklagte, der nicht durch einen Rechtsanwalt vertreten ist, kann Einsprüche
 Ist der Einspruch begründet, so ist dem Kläger eine Ausfertigung oder eine Abschrift des Schriftsatzes oder des ihn ersetzenden Protokolls zuzustellen.  
 `§ 448 Z 4 ZPO.`
 Ist ordnungsgemäß Einspruch erhoben worden, so hat das Gericht nach den §§ 440 ff vorzugehen.
+
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
 
 ## Besondere Bestimmungen für das Verfahren über Besitzstörungsklagen.
 
@@ -234,6 +244,8 @@ Gegen die in erster Instanz gefällten Urtheile findet die Berufung statt.
 `§ 461 (2) ZPO.`  
 Gegen ein in Anwesenheit beider Parteien mündlich verkündetes Urteil (§ 414) kann Berufung von einer Partei nur erhoben werden, die diese sofort nach der Verkündung des Urteils mündlich oder binnen vierzehn Tagen ab der Zustellung der Protokollsabschrift über jene Tagsatzung zur mündlichen Verhandlung, in der das Urteil verkündet worden ist, in einem bei dem Prozeßgericht erster Instanz überreichten Schriftsatz angemeldet hat. Wird in dieser Frist ein Antrag im Sinn des § 464 Abs. 3 gestellt, so gilt er als Anmeldung der Berufung.
 
+*(Beachte: Ist anzuwenden, wenn das Datum der Entscheidung erster Instanz nach dem 30. April 2011 liegt (vgl. Art. 39 Abs. 8, BGBl. I Nr. 111/2010).)*
+
 ### § 462 ZPO
 
 `§ 462 (1) ZPO.`  
@@ -265,12 +277,16 @@ Sie beginnt für jede Partei mit der an sie erfolgten Zustellung der schriftlich
 `§ 464 (3) ZPO.`  
 Hat eine die Verfahrenshilfe genießende oder beantragende Partei innerhalb dieser Frist die Beigebung eines Rechtsanwalts beantragt, so beginnt für sie die Berufungsfrist mit der Zustellung des Bescheides über die Bestellung des Rechtsanwalts und einer schriftlichen Urteilsausfertigung an ihn; der Bescheid ist durch das Gericht zuzustellen. Wird der rechtzeitig gestellte Antrag auf Beigebung eines Rechtsanwalts abgewiesen, so beginnt die Berufungsfrist mit dem Eintritt der Rechtskraft des abweisenden Beschlusses. Der § 73 Abs. 3 gilt sinngemäß.
 
+*(Beachte: Nach Art. XXXII Z 9 WGN 1997, BGBl. I Nr. 140/1997, ist die Neufassung des Abs. 3 letzter Satz anzuwenden, wenn der Antrag auf Bewilligung der Verfahrenshilfe nach dem 31. Dezember 1997 gestellt wird.)*
+
 ## Erhebung der Berufung.
 
 ### § 465 ZPO
 
 `§ 465 ZPO.`  
 Die Berufung wird durch Überreichung eines vorbereitenden Schriftsatzes (Berufungsschrift) bei dem Processgerichte erster Instanz erhoben.
+
+*(Beachte: Ist anzuwenden, wenn das Datum der Entscheidung erster Instanz nach dem 30. April 2011 liegt (vgl. Art. 39 Abs. 8, BGBl. I Nr. 111/2010).)*
 
 ### § 466 ZPO
 
@@ -292,6 +308,8 @@ das thatsächliche Vorbringen und die Beweismittel, durch welche die Wahrheit de
 `§ 467 Z 5 ZPO.`
 die Unterschrift eines Rechtsanwalts.
 
+*(Beachte: Ist anzuwenden, wenn das Datum der Entscheidung erster Instanz nach dem 30. April 2011 liegt (vgl. Art. 39 Abs. 8, BGBl. I Nr. 111/2010).)*
+
 ### § 468 ZPO
 
 `§ 468 (1) ZPO.`  
@@ -306,6 +324,8 @@ Auf die Berufungsbeantwortung sind der § 464 Abs. 3 sowie der § 467 Z 4 un
 `§ 468 (4) ZPO.`  
 Von der Einbringung der Berufungsbeantwortung ist der Berufungswerber durch Übersendung einer Ausfertigung derselben zu verständigen.
 
+*(Beachte: Ist anzuwenden, wenn das Datum der Entscheidung erster Instanz nach dem 30. April 2011 liegt (vgl. Art. 39 Abs. 8, BGBl. I Nr. 111/2010).)*
+
 ### § 469 ZPO
 
 `§ 469 (1) ZPO.`  
@@ -316,5 +336,7 @@ Wurde der Rechtsstreit durch das angefochtene Urtheil nicht vollständig erledig
 
 `§ 469 (3) ZPO.`  
 Richtet sich eine auf den Nichtigkeitsgrund des § 477 Abs. 1 Z 4 gestützte Berufung gegen ein Versäumungsurteil (§ 396), so kann das Gericht, dessen Urteil angefochten wird, der Berufung selbst stattgeben. Gegen die Entscheidung ist ein Rechtsmittel nicht zulässig.
+
+*(Beachte: Abs. 1 ist anzuwenden, wenn das Datum der Entscheidung erster Instanz nach dem 30. April 2011 liegt.Abs. 3 ist anzuwenden, wenn das Datum des Versäumungsurteils nach dem 30. Juni 2011 liegt (vgl. Art. 39 Abs. 8 und 13, BGBl. I Nr. 111/2010).)*
 
 `END-OF-DATA-FILE` *(fortges. in [BG.ZPO.014](BG.ZPO.014.md))*

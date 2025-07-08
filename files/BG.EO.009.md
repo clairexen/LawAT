@@ -203,6 +203,8 @@ Wurde mit dem Verpflichteten kein Vermögensverzeichnis aufgenommen, weil dessen
 `§ 253b EO.`  
 Der betreibende Gläubiger hat keinen Anspruch auf Ersatz der Kosten für die Beteiligung am Exekutionsvollzug, wenn die hereinzubringende Forderung an Kapital 2 700 Euro nicht übersteigt. Prozesskosten oder Nebengebühren sind nur dann zu berücksichtigen, wenn sie allein Gegenstand des durchzusetzenden Anspruchs sind.
 
+*(Beachte: Ist anzuwenden, wenn der Exekutionsvollzug nach dem 31. August 2005 stattfindet (vgl. § 408 Abs. 7).)*
+
 ### § 254 EO # Pfändungsregister und Pfändungsprotokoll
 
 `§ 254 (1) EO.`  
@@ -386,6 +388,8 @@ sonst das mit dem Vollzug der Versteigerung betraute Vollstreckungsorgan.
 `§ 272 (2) EO.`  
 Vom Versteigerungstermin und vom Versteigerungsort sind der Verpflichtete und die betreibenden Gläubiger durch Zustellung einer Ausfertigung des Edikts zu verständigen. Dies kann unterbleiben, soweit dem Verpflichteten und dem betreibenden Gläubiger der Versteigerungstermin und der Versteigerungsort bereits bei der Pfändung bekanntgegeben wurden; die Kenntnisnahme ist zu bestätigen.
 
+*(Beachte: Ist anzuwenden, wenn das Versteigerungsedikt nach dem 29. Februar 2008 erlassen wird (vgl. § 410 Abs. 4).)*
+
 ### § 272a EO # Versteigerungsedikt
 
 `§ 272a (1) EO.`  
@@ -478,6 +482,8 @@ Das Vollstreckungsorgan hat den betreibenden Gläubiger zum Erlag eines Kostenvo
 `§ 274a (2) EO.`  
 Der betreibende Gläubiger kann auch die zur Überstellung erforderlichen Transportmittel und Arbeitskräfte bereitstellen. Dies hat er rechtzeitig dem Vollstreckungsorgan bekanntzugeben.
 
+*(Beachte: Ist anzuwenden, wenn das Versteigerungsedikt nach dem 29. Februar 2008 erlassen wird (vgl. § 410 Abs. 4).)*
+
 ### § 274b EO # Transportkosten
 
 `§ 274b (1) EO.`  
@@ -493,6 +499,8 @@ Den Verkaufsinteressenten ist die Besichtigung der Pfandstücke zu ermöglichen.
 
 `§ 274c (2) EO.`  
 Die Pfandstücke sind von Amts wegen so zeitgerecht zu überstellen, dass sie zur Besichtigung ausgestellt werden können. Der Termin der Überstellung ist den Parteien möglichst bei Bekanntgabe des Versteigerungstermins bekannt zu geben.
+
+*(Beachte: Ist anzuwenden, wenn das Versteigerungsedikt nach dem 29. Februar 2008 erlassen wird (vgl. § 410 Abs. 4).)*
 
 ### § 274d EO # Überstellungsverfahren
 
@@ -648,6 +656,8 @@ Für das im Versteigerungstermin aufzunehmende Protokoll haben die Bestimmungen 
 `§ 279a EO.`  
 Werden die gepfändeten Gegenstände bei der Überstellung oder der Versteigerung an Ort und Stelle nicht vorgefunden, so hat der Verpflichtete vor Gericht oder vor dem Vollstreckungsorgan anzugeben, wo sich diese Sachen befinden. Das Vollstreckungsorgan hat den Verpflichteten hiezu aufzufordern. § 47 Abs. 2 über die Belehrung, die Protokolleinsicht und die Bestätigung durch den Verpflichteten sowie § 48 und § 346a Abs. 2 sind anzuwenden. Kann dadurch nicht festgestellt werden, wo sich die Sachen befinden, oder ist der Verpflichtete unter Mitnahme der Sachen verzogen und kann das Vollstreckungsorgan durch zumutbare Erhebungen nicht in Erfahrung bringen, wo sich der Verpflichtete aufhält, so wird die Exekution hinsichtlich der nicht vorgefundenen Sachen erst fortgesetzt, sobald der Gläubiger bekannt gibt, wo sich diese Gegenstände befinden. Dies hat das Vollstreckungsorgan dem betreibenden Gläubiger mitzuteilen.
 
+*(Beachte: Ist anzuwenden, wenn das Vermögensverzeichnis nach dem 31. August 2005 aufgenommen wird (vgl. § 408 Abs. 4).)*
+
 ### § 280 EO # Neuerlicher Verwertungsversuch
 
 `§ 280 (1) EO.`  
@@ -712,6 +722,8 @@ Der Versteigerer hat dem Vollstreckungsorgan den Ausgang der Versteigerung mitzu
 
 `§ 282b (2) EO.`  
 Ist die Berechnung der dem Versteigerungshaus zustehenden Kosten strittig, so hat hierüber das Exekutionsgericht auf Antrag eines Beteiligten zu entscheiden.
+
+*(Beachte: Ist anzuwenden, wenn das Versteigerungsedikt nach dem 29. Februar 2008 erlassen wird (vgl. § 410 Abs. 4).)*
 
 ### § 283 EO # Verwendung des Verkaufserlöses
 

@@ -3079,6 +3079,8 @@
 
 > `(5)` In den Angelegenheiten des eigenen Wirkungsbereiches der Gemeinde kann Beschwerde beim Verwaltungsgericht erst nach Erschöpfung des Instanzenzuges erhoben werden\.
 
+> *\(Beachte: \[CELEX\-Nr\.: 32021L1883\]\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.B-VG.md#art-132-b-vg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000138&Paragraf=132) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000138#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_185_TextContainer_185) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.B-VG.008.md#art-132-b-vg) \]
 
 ----

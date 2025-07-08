@@ -30,6 +30,8 @@ Auf Antrag des Beweisführers kann ferner das Gericht gestatten, dass von der Er
 `§ 283 (3) ZPO.`  
 Für die Vorlegung der Acten über die Beweisaufnahme ist in beiden Fällen eine Frist zu bestimmen, deren fruchtloser Ablauf die im §. 279 bezeichneten Rechtsfolgen nach sich zieht.
 
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
+
 ### § 284 ZPO
 
 `§ 284 (1) ZPO.`  
@@ -126,6 +128,8 @@ Gegen Beschlüsse, durch welche angebotene Beweise zurückgewiesen, Beweisaufnah
 
 `§ 291 (2) ZPO.`  
 Beschlüsse, durch welche die stenographische Aufzeichnung einer Beweisaufnahme gestattet, dem Beweisführer die Bestellung eines Ersuchschreibens gemäß §. 283, Absatz 1, übertragen, oder für die Beweisaufnahme oder für die Vorlage der Acten über eine außerhalb des Geltungsgebietes dieses Gesetzes stattfindende Beweisaufnahme eine Frist bestimmt wird, ferner Beschlüsse, durch welche die Ergänzung oder Wiederholung einer Beweisaufnahme angeordnet wird, können durch ein Rechtsmittel überhaupt nicht angefochten werden.
+
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
 
 ### § 291a ZPO # Beweisaufnahme im Ausland
 
@@ -370,12 +374,5 @@ Die Vergleichung der Handschriften kann das Gericht selbst vornehmen oder, wenn 
 
 `§ 315 (2) ZPO.`  
 Über das Ergebnis der Schriftvergleichung ist vom Gerichte nach freier Überzeugung zu entscheiden.
-
-## Gerichtliche Aufbewahrung von Urkunden.
-
-### § 316 ZPO
-
-`§ 316 ZPO.`  
-Urkunden, die in Urschrift vorgelegt werden, sind in Abschrift zum Akt zu nehmen. Die Urschriften sind demjenigen, der sie vorgelegt hat, bei erster Gelegenheit zurückzustellen. Urkunden, bei denen es unmöglich oder untunlich ist, eine Abschrift zum Akt zu nehmen oder deren Echtheit bestritten ist oder deren Inhalt verändert sein soll, sind bis zur rechtskräftigen Erledigung des Verfahrens bei Gericht zurückzubehalten, sofern nicht ihre Ausfolgung an eine andere Behörde im Interesse der öffentlichen Ordnung erforderlich ist.
 
 `END-OF-DATA-FILE` *(fortges. in [BG.ZPO.010](BG.ZPO.010.md))*

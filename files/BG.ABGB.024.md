@@ -83,6 +83,8 @@ Die Bürgschaft kann nicht weiter ausgedehnt werden, als sich der Bürge ausdrü
 `§ 1354 ABGB.`  
 Von der Einwendung, wodurch ein Schuldner nach Vorschrift der Gesetze die Beybehaltung eines Theiles seines Vermögens zu seinem Unterhalte zu fordern berechtiget ist, kann der Bürge nicht Gebrauch machen.
 
+*(Beachte: Dieser Schutz wird jetzt durch das Exekutionsrecht gewährt, der aber auch dem Bürgen zustatten kommt. § 1354 ist daher gegenstandslos.)*
+
 ### § 1355 ABGB # Wirkung
 
 `§ 1355 ABGB.`  

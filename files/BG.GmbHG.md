@@ -471,6 +471,8 @@
 
 > `(3)` Ist oder wird ein Geschäftsführer nach § 15 Abs\. 1a oder 1b disqualifiziert, so hat er unverzüglich seinen Rücktritt zu erklären; dieser wird nach Ablauf von 14 Tagen wirksam\.
 
+> *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote: Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-16a-gmbhg--rücktritt-der-geschäftsführer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=16a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-16a-gmbhg--rücktritt-der-geschäftsführer) \]
 
 ----
@@ -482,6 +484,8 @@
 > `(2)` Das Erlöschen der Vertretungsbefugnis kann auch vom abberufenen oder zurückgetretenen Geschäftsführer unter Bescheinigung der Abberufung oder des Zugangs der Rücktrittserklärung zur Eintragung in das Firmenbuch angemeldet werden\.
 
 > `(3)` Ist eine Person als Geschäftsführer eingetragen oder bekanntgemacht, so kann ein Mangel ihrer Bestellung einem Dritten nur entgegengehalten werden, wenn der Mangel diesem bekannt war\.
+
+> *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-17-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=17) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_20_TextContainer_20) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-17-gmbhg) \]
 
@@ -541,6 +545,8 @@
 
 > `(3)` Ist das Einsichtsrecht der Gesellschafter gemäß Abs\. 2 ausgeschlossen, die hiefür bestehende gesetzliche Frist verkürzt oder sonstigen Beschränkungen unterworfen worden, so sind der Lagebericht, der Vorschlag der Geschäftsführer für die Gewinnverteilung, der Prüfungsbericht und der Konzernprüfungsbericht jedem Gesellschafter unverzüglich zuzusenden\.
 
+> *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-22-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=22) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-22-gmbhg) \]
 
 ----
@@ -570,6 +576,8 @@
 ### § 24a GmbHG — Auskunftspflicht der Geschäftsführer
 
 > Geschäftsführer sind der Gesellschaft gegenüber für die Dauer von fünf Jahren nach Beendigung ihrer Organstellung verpflichtet, im Rahmen des Zumutbaren Auskunft über die Geschäfte und Vermögenswerte der Gesellschaft aller Art zu geben\.
+>
+> *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-24a-gmbhg--auskunftspflicht-der-geschäftsführer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=24a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_28_TextContainer_28) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-24a-gmbhg--auskunftspflicht-der-geschäftsführer) \]
 
@@ -634,6 +642,8 @@
 > `(1)` Die Geschäftsführer haben dem Aufsichtsrat mindestens einmal jährlich über grundsätzliche Fragen der künftigen Geschäftspolitik des Unternehmens zu berichten sowie die künftige Entwicklung der Vermögens\-, Finanz\- und Ertragslage anhand einer Vorschaurechnung darzustellen \(Jahresbericht\)\. Die Geschäftsführer haben weiters dem Aufsichtsrat regelmäßig, mindestens vierteljährlich, über den Gang der Geschäfte und die Lage des Unternehmens im Vergleich zur Vorschaurechnung unter Berücksichtigung der künftigen Entwicklung zu berichten \(Quartalsbericht\)\. Bei wichtigem Anlaß ist dem Vorsitzenden des Aufsichtsrats unverzüglich zu berichten; ferner ist über Umstände, die für die Rentabilität oder Liquidität der Gesellschaft von erheblicher Bedeutung sind, dem Aufsichtsrat unverzüglich zu berichten \(Sonderbericht\)\.
 
 > `(2)` Der Jahresbericht und die Quartalsberichte sind schriftlich zu erstatten und auf Verlangen des Aufsichtsrats mündlich zu erläutern; sie sind jedem Aufsichtsratsmitglied auszuhändigen\. Die Sonderberichte sind schriftlich oder mündlich zu erstatten\.
+
+> *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.Nach Art\. XII Abs\. 11 IRÄG 1997, BGBl\. I Nr\. 114/1997, ist dieNeufassung erstmalig auf nach dem 30\. September 1997 beginnendeGeschäftsjahre anzuwenden\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-28a-gmbhg--bericht-an-den-aufsichtsrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=28a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-28a-gmbhg--bericht-an-den-aufsichtsrat) \]
 
@@ -701,6 +711,8 @@
 
 > `(5)` Hat eine Person bereits so viele oder mehr Sitze in Aufsichtsräten inne, als gesetzlich zulässig ist, so kann sie in den Aufsichtsrat einer Gesellschaft erst berufen werden, sobald hiedurch die gesetzliche Höchstzahl nicht mehr überschritten wird\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 127 Abs\. 18\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30a-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=30a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_36_TextContainer_36) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30a-gmbhg) \]
 
 ----
@@ -733,6 +745,8 @@
 
 > `(4)` Sind die im Gesellschaftsvertrag bestimmten Voraussetzungen des Entsendungsrechts weggefallen, so kann durch Gesellschafterbeschluß das entsandte Mitglied mit einfacher Stimmenmehrheit abberufen werden\.
 
+> *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30c-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=30c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30c-gmbhg) \]
 
 ----
@@ -754,6 +768,8 @@
 > `(1)` Die Aufsichtsratsmitglieder können nicht zugleich Geschäftsführer oder dauernd Vertreter von Geschäftsführern der Gesellschaft oder ihrer Tochterunternehmen \(§ 189a Z 7 UGB\) sein\. Sie können auch nicht als Angestellte die Geschäfte der Gesellschaft führen\.
 
 > `(2)` Nur für einen im voraus begrenzten Zeitraum können durch Gesellschafterbeschluß einzelne Aufsichtsratsmitglieder zu Vertretern von behinderten Geschäftsführern bestellt werden\. In dieser Zeit dürfen sie keine Tätigkeit als Aufsichtsratsmitglied ausüben\. Das Wettbewerbsverbot für Geschäftsführer gilt für sie nicht\.
+
+> *\(Beachte: zum Bezugszeitraum vgl\. § 127 Abs\. 18\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30e-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=30e) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_40_TextContainer_40) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30e-gmbhg) \]
 
@@ -807,6 +823,8 @@
 
 > `(5)` Der Aufsichtsrat oder sein Ausschuß ist nur dann beschlußfähig, wenn an der Sitzung mindestens drei Mitglieder teilnehmen\. Der Gesellschaftsvertrag kann eine höhere Zahl festsetzen\. Die Beschlußfähigkeit eines Ausschusses, dem weniger als drei Aufsichtsratsmitglieder angehören, ist bei Anwesenheit seiner sämtlichen Mitglieder gegeben\. Die schriftliche, fernmündliche oder eine andere vergleichbare Form der Stimmabgabe einzelner Aufsichtsratsmitglieder ist zulässig, wenn der Gesellschaftsvertrag oder der Aufsichtsrat dies vorsieht\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 127 Abs\. 20\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30g-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=30g) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_42_TextContainer_42) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30g-gmbhg) \]
 
 ----
@@ -830,6 +848,8 @@
 > `(2)` Wird einem von mindestens zwei Aufsichtsratsmitgliedern oder von den Geschäftsführern geäußerten Verlangen nicht entsprochen, so können die Antragsteller unter Mitteilung des Sachverhalts selbst den Aufsichtsrat einberufen\.
 
 > `(3)` Der Aufsichtsrat muß mindestens viermal im Geschäftsjahr eine Sitzung abhalten\. Die Sitzungen haben vierteljährlich stattzufinden\.
+
+> *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.Nach Art\. XII Abs\. 11 IRÄG 1997, BGBl\. I Nr\. 114/1997, ist dieNeufassung von Abs\. 3 erstmalig auf nach dem 30\. September 1997beginnende Geschäftsjahre anzuwenden\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30i-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=30i) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_44_TextContainer_44) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30i-gmbhg) \]
 
@@ -873,6 +893,8 @@
 
 > `(6)` Die Aufsichtsratsmitglieder können ihre Obliegenheiten nicht durch andere ausüben lassen\. Der Gesellschaftsvertrag kann aber zulassen, daß ein Aufsichtsratsmitglied ein anderes schriftlich mit seiner Vertretung bei einer einzelnen Sitzung betraut; ein so vertretenes Mitglied ist bei der Feststellung der Beschlußfähigkeit einer Sitzung nicht mitzuzählen\. Das Recht, den Vorsitz zu führen, kann nicht übertragen werden\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 127 Abs\. 18\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30j-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=30j) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_45_TextContainer_45) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30j-gmbhg) \]
 
 ----
@@ -884,6 +906,8 @@
 > `(2)` In dem Bericht hat der Aufsichtsrat mitzuteilen, in welcher Art und in welchem Umfang er die Geschäftsführung der Gesellschaft während des Geschäftsjahrs geprüft hat, welche Stelle den Jahresabschluß und den Lagebericht sowie gegebenenfalls den gesonderten nichtfinanziellen Bericht, den Corporate Governance\-Bericht und den Bericht über Zahlungen an staatliche Stellen geprüft hat und ob diese Prüfungen nach ihrem abschließenden Ergebnis zu wesentlichen Beanstandungen Anlaß gegeben haben\.
 
 > `(3)` Abs\. 1 und 2 gelten sinngemäß auch für die Vorlage und Prüfung des Konzernabschlusses und des Konzernlageberichts sowie gegebenenfalls des gesonderten konsolidierten nichtfinanziellen Berichts, des konsolidierten Corporate Governance\-Berichts und des konsolidierten Berichts über Zahlungen an staatliche Stellen\.
+
+> *\(Beachte: Ist erstmalig auf Unterlagen für Geschäftsjahre anzuwenden, die nach dem 31\. Dezember 2016 beginnen \(vgl\. § 127 Abs\. 21\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30k-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=30k) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_46_TextContainer_46) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30k-gmbhg) \]
 
@@ -1211,6 +1235,8 @@
 
 > `(6)` Die §§ 6, 6a, 10 und 10a sind auf die Erhöhung des Stammkapitals sinngemäß anzuwenden; bei Kapitalerhöhungen mit Sacheinlagen kann der Beschluß nur gefaßt werden, wenn die Einbringung von Sacheinlagen ausdrücklich und fristgemäß angekündigt worden ist\.
 
+> *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote: Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-52-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=52) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_68_TextContainer_68) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-52-gmbhg) \]
 
 ----
@@ -1297,6 +1323,8 @@
 
 > `(2)` Die Beträge, die aus der Auflösung der Rücklagen und aus der Kapitalherabsetzung gewonnen werden, dürfen nicht zu Zahlungen an die Gesellschafter und nicht dazu verwendet werden, die Gesellschafter von der Verpflichtung zur Leistung von Einlagen zu befreien\. Diese Beträge dürfen nur zur Abdeckung eines sonst auszuweisenden Bilanzverlustes und allenfalls zur Einstellung von Beträgen in die gebundene Kapitalrücklage verwendet werden; dies ist nur zulässig, soweit die Einstellung im Beschluß als Zweck der Herabsetzung angegeben ist\.
 
+> *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-59-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=59) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_75_TextContainer_75) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-59-gmbhg) \]
 
 ----
@@ -1308,6 +1336,8 @@
 > `(2)` Sämtliche Beschlüsse sind unwirksam, wenn die Beschlüsse über die Herabsetzung des Stammkapitals und über die Erhöhung des Stammkapitals nicht binnen drei Monaten nach der Beschlußfassung in das Firmenbuch eingetragen worden sind; der Lauf der Frist ist gehemmt, solange eine Klage gemäß § 41 anhängig ist oder eine zur Herabsetzung des Stammkapitals oder dessen Erhöhung beantragte behördliche oder gerichtliche Genehmigung noch nicht erteilt ist\. Die Beschlüsse über die Herabsetzung und Erhöhung des Stammkapitals sind gemeinsam in das Firmenbuch einzutragen\.
 
 > `(3)` Die §§ 190 und 191 AktG sind sinngemäß anzuwenden\.
+
+> *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-60-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=60) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_76_TextContainer_76) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-60-gmbhg) \]
 
@@ -1935,6 +1965,8 @@
 ### § 125 GmbHG
 
 > Die Geschäftsführer oder die Liquidatoren, im Falle einer inländischen Zweigniederlassung die für diese im Inland vertretungsbefugten Personen, sind, unbeschadet der allgemeinen unternehmensrechtlichen Vorschriften, zur Befolgung der §§ 30d, 30j Abs\. 2 und 3, 91 Abs\. 1 erster Satz und 93 Abs\. 3 dieses Bundesgesetzes vom Gericht durch Zwangsstrafen bis zu 3 600 Euro anzuhalten\. § 24 Abs\. 2 bis 5 FBG ist anzuwenden\.
+>
+> *\(Beachte: zum Bezugszeitraum vgl\. § 127 Abs\. 18\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-125-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=125) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_123_TextContainer_123) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.007.md#-125-gmbhg) \]
 

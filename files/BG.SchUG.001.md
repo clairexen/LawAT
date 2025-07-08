@@ -50,6 +50,8 @@ Wenn Schulen im organisatorischen Verbund mit anderen Schulen als Schulcluster g
 `§ 2b (5) SchUG.`  
 Deutschförderklassen sind keine Klassen im schulrechtlichen Sinn. Bestimmungen dieses Bundesgesetzes, die sich auf Klassen beziehen, gelten nicht für Deutschförderklassen.
 
+*(Beachte: zum Bezugszeitraum vgl. § 82 Abs. 11 Z 3 und 7)*
+
 ## 2. ABSCHNITT # AUFNAHME IN DIE SCHULE
 
 ### § 3 SchUG # Aufnahme als ordentlicher Schüler
@@ -140,6 +142,8 @@ Aufnahmsbewerber, die eine Schulstufe als ordentliche Schüler ohne Erfolg besuc
 
 `§ 4 (7) SchUG.`  
 Dieses Bundesgesetz ist auf schulpflichtige außerordentliche Schüler sinngemäß, auf die übrigen außerordentlichen Schüler nur insoweit anzuwenden, als dies darin ausdrücklich bestimmt ist.
+
+*(Beachte: zum Bezugszeitraum vgl. § 82 Abs. 11 Z 3 und 7)*
 
 ### § 5 SchUG # Aufnahmsverfahren
 

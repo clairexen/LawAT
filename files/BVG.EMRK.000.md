@@ -77,13 +77,13 @@
 * [Art. 51 EMRK # Artikel 51 – Privilegien und Immunitäten der Richter](BVG.EMRK.002.md#art-51-emrk--artikel-51--privilegien-und-immunitäten-der-richter)
 
 **ABSCHNITT III – Verschiedene Bestimmungen**  
-* [Art. 52 EMRK # Artikel 52 – Anfragen des Generalsekretärs](BVG.EMRK.002.md#art-52-emrk--artikel-52--anfragen-des-generalsekretärs)  
-* [Art. 53 EMRK # Artikel 53 – Wahrung anerkannter Menschenrechte](BVG.EMRK.002.md#art-53-emrk--artikel-53--wahrung-anerkannter-menschenrechte)  
-* [Art. 54 EMRK # Artikel 54 – Befugnisse des Ministerkomitees](BVG.EMRK.002.md#art-54-emrk--artikel-54--befugnisse-des-ministerkomitees)  
-* [Art. 55 EMRK # Artikel 55 – Ausschluß anderer Verfahren zur Streitbeilegung](BVG.EMRK.002.md#art-55-emrk--artikel-55--ausschluß-anderer-verfahren-zur-streitbeilegung)  
-* [Art. 56 EMRK # Artikel 56 – Räumlicher Geltungsbereich](BVG.EMRK.002.md#art-56-emrk--artikel-56--räumlicher-geltungsbereich)  
-* [Art. 57 EMRK # Artikel 57 – Vorbehalte](BVG.EMRK.002.md#art-57-emrk--artikel-57--vorbehalte)  
-* [Art. 58 EMRK # Artikel 58 – Kündigung](BVG.EMRK.002.md#art-58-emrk--artikel-58--kündigung)  
-* [Art. 59 EMRK # Artikel 59 – Unterzeichnung und Ratifikation](BVG.EMRK.002.md#art-59-emrk--artikel-59--unterzeichnung-und-ratifikation)
+* [Art. 52 EMRK # Artikel 52 – Anfragen des Generalsekretärs](BVG.EMRK.003.md#art-52-emrk--artikel-52--anfragen-des-generalsekretärs)  
+* [Art. 53 EMRK # Artikel 53 – Wahrung anerkannter Menschenrechte](BVG.EMRK.003.md#art-53-emrk--artikel-53--wahrung-anerkannter-menschenrechte)  
+* [Art. 54 EMRK # Artikel 54 – Befugnisse des Ministerkomitees](BVG.EMRK.003.md#art-54-emrk--artikel-54--befugnisse-des-ministerkomitees)  
+* [Art. 55 EMRK # Artikel 55 – Ausschluß anderer Verfahren zur Streitbeilegung](BVG.EMRK.003.md#art-55-emrk--artikel-55--ausschluß-anderer-verfahren-zur-streitbeilegung)  
+* [Art. 56 EMRK # Artikel 56 – Räumlicher Geltungsbereich](BVG.EMRK.003.md#art-56-emrk--artikel-56--räumlicher-geltungsbereich)  
+* [Art. 57 EMRK # Artikel 57 – Vorbehalte](BVG.EMRK.003.md#art-57-emrk--artikel-57--vorbehalte)  
+* [Art. 58 EMRK # Artikel 58 – Kündigung](BVG.EMRK.003.md#art-58-emrk--artikel-58--kündigung)  
+* [Art. 59 EMRK # Artikel 59 – Unterzeichnung und Ratifikation](BVG.EMRK.003.md#art-59-emrk--artikel-59--unterzeichnung-und-ratifikation)
 
 `END-OF-DATA-FILE` *(fortges. in [BVG.EMRK.001](BVG.EMRK.001.md))*

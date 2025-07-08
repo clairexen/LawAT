@@ -30,6 +30,8 @@ Ressorts im Sinne dieses Bundesgesetzes sind die Zentralstellen mit den ihnen na
 `§ 279 BDG.`  
 Soweit dieses Bundesgesetz Mitwirkungsbefugnisse der Bundesregierung oder der Bundesministerin oder des Bundesministers für Kunst, Kultur, öffentlichen Dienst und Sport bei Rechtsakten anderer Behörden vorsieht, beziehen sich diese nicht auf Rechtsakte des Bundespräsidenten, des Präsidenten des Nationalrates, des Präsidenten des Verfassungsgerichtshofes, des Präsidenten des Verwaltungsgerichtshofes, des Präsidenten des Rechnungshofes und des Vorsitzenden der Volksanwaltschaft.
 
+*(Beachte: Tritt hinsichtlich des Präsidenten des Verwaltungsgerichtshofes mit 25. April 2000 und hinsichtlich des Präsidenten des Verfassungsgerichtshofes mit Ablauf des Tages in Kraft, mit dem § 13 des Verfassungsgerichtshofgesetzes 1953, BGBl. Nr. 85/1953, außer Kraft tritt (vgl. § 284 Abs. 41 idF BGBl. I Nr. 102/2000).)*
+
 ### § 280 BDG # Datenverarbeitung
 
 `§ 280 (1) BDG.`  

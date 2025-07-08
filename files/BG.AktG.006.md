@@ -67,6 +67,8 @@ Ist bei einer Satellitenversammlung (Abs. 3 Z 1) die Kommunikation zwischen de
 `§ 102 (6) AktG.`  
 Die Satzung kann vorsehen, dass die Aktionäre durch die Abstimmung per Brief gemäß § 127 an der Hauptversammlung teilnehmen können.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ### § 103 AktG # Zuständigkeit der Hauptversammlung
 
 `§ 103 (1) AktG.`  
@@ -74,6 +76,8 @@ Die Hauptversammlung beschließt in den im Gesetz oder in der Satzung ausdrückl
 
 `§ 103 (2) AktG.`  
 Über Fragen der Geschäftsführung kann die Hauptversammlung nur entscheiden, wenn dies der Vorstand oder, sofern es sich um ein gemäß § 95 Abs. 5 seiner Zustimmung vorbehaltenes Geschäft handelt, der Aufsichtsrat verlangt.
+
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
 
 ### § 104 AktG # Ordentliche Hauptversammlung
 
@@ -125,6 +129,8 @@ Nehmen alle Aktionäre einer nicht börsenotierten Gesellschaft selbst oder durc
 `§ 105 (6) AktG.`  
 Die Kosten der Hauptversammlung und ihrer Vorbereitung trägt die Gesellschaft.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ### § 106 AktG # Inhalt der Einberufung
 
 `§ 106 AktG.`  
@@ -155,6 +161,8 @@ gegebenenfalls eine Darstellung der Verfahren zur Fernteilnahme (§ 102 Abs. 3
 Angaben über die Möglichkeit zur Bestellung eines Vertreters (§ 113) und das dabei einzuhaltende Verfahren (§ 114), gegebenenfalls die zu verwendenden Formulare und bei einer börsenotierten Gesellschaft die elektronischen Kommunikationswege für die Übermittlung von Vollmachten;  
 `§ 106 Z 9 AktG.`
 bei einer börsenotierten Gesellschaft die Gesamtzahl der Aktien und der Stimmrechte zum Zeitpunkt der Einberufung; falls das Kapital der Gesellschaft in mehrere Aktiengattungen eingeteilt ist, auch die gesonderte Angabe für jede Aktiengattung.
+
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
 
 ### § 107 AktG # Bekanntmachung, Frist
 
@@ -212,6 +220,8 @@ Aktionäre, deren Anteile zusammen fünf vom Hundert des Grundkapitals erreichen
 `§ 109 (2) AktG.`  
 Ein Verlangen gemäß Abs. 1 ist beachtlich, wenn es der Gesellschaft spätestens am 21. Tag vor einer ordentlichen Hauptversammlung (§ 104), ansonsten spätestens am 19. Tag vor der Hauptversammlung zugeht. Wenn ein solches Verlangen nicht so rechtzeitig bei der Gesellschaft einlangt, dass es in die ursprüngliche Tagesordnung aufgenommen werden kann, genügt es, wenn die ergänzte Tagesordnung spätestens am 14. Tag vor der Hauptversammlung in derselben Weise bekannt gemacht wird wie die ursprüngliche Tagesordnung. Eine börsenotierte Gesellschaft hat die Bekanntmachung gemäß § 107 Abs. 3 jedoch spätestens am zweiten Werktag nach dem im ersten Satz bezeichneten Fristende vorzunehmen und die ergänzte Tagesordnung samt Begründung ab diesem Tag auf ihrer im Firmenbuch eingetragenen Internetseite zugänglich zu machen. Im Übrigen gilt § 108 Abs. 3 bis 5 sinngemäß.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ### § 110 AktG # Beschlussvorschläge von Aktionären
 
 `§ 110 (1) AktG.`  
@@ -262,6 +272,8 @@ Für die elektronische Teilnahme (§ 102 Abs. 3) oder die Abstimmung per Brief
 `§ 111 (5) AktG.`  
 Die vorstehenden Absätze gelten sinngemäß für Gesellschaften im Sinn des § 10 Abs. 1 Z 2, soweit deren Satzung nichts anderes bestimmt.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ### § 112 AktG # Teilnahmeberechtigung bei einer nicht börsenotierten Gesellschaft
 
 `§ 112 (1) AktG.`  
@@ -274,6 +286,8 @@ Mangels abweichender Regelung in der Satzung müssen Aktionäre zur Hauptversamm
 `§ 112 (4) AktG.`  
 § 111 Abs. 4 gilt sinngemäß.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ### § 113 AktG # Vertretung durch Bevollmächtigte
 
 `§ 113 (1) AktG.`  
@@ -284,6 +298,8 @@ Eine börsenotierte Gesellschaft darf für Personen, die zu Vertretern bestellt 
 
 `§ 113 (3) AktG.`  
 In einer börsenotierten Gesellschaft darf die Gesellschaft selbst oder ein Mitglied des Vorstands oder des Aufsichtsrats das Stimmrecht als Bevollmächtigter nur ausüben, soweit der Aktionär eine ausdrückliche Weisung zu den einzelnen Tagesordnungspunkten erteilt hat.
+
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
 
 ### § 114 AktG # Erteilung und Widerruf der Vollmacht
 
@@ -299,9 +315,13 @@ Die zwingende Verwendung eines bestimmten Formulars für die Erteilung einer Vol
 `§ 114 (4) AktG.`  
 Abs. 1 bis 3 gelten sinngemäß für den Widerruf der Vollmacht.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
+
 ### § 115 AktG # Ausschluss anderer Formen der Stimmrechtsübertragung
 
 `§ 115 AktG.`  
 Niemand kann das Stimmrecht aus Aktien ausüben, die ihm nicht gehören, wenn er nicht vom Aktionär bevollmächtigt ist; § 61 Abs. 2 bleibt unberührt.
+
+*(Beachte: Zum Bezugszeitraum vgl. § 262 Abs. 16.)*
 
 `END-OF-DATA-FILE` *(fortges. in [BG.AktG.007](BG.AktG.007.md))*

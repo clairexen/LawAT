@@ -307,6 +307,8 @@
 
 > `(9)` *\(Anm\.: aufgehoben durch BGBl\. I Nr\. 10/2004\)*
 
+> *\(Beachte: \[CELEX\-Nr\.: 32014L0036, 32021L1187, 32021L1883\]\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AVG.md#-13-avg--anbringen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768&Paragraf=13) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AVG.001.md#-13-avg--anbringen) \]
 
 ----
@@ -314,6 +316,8 @@
 ### § 13a AVG — Rechtsbelehrung
 
 > Die Behörde hat Personen, die nicht durch berufsmäßige Parteienvertreter vertreten sind, die zur Vornahme ihrer Verfahrenshandlungen nötigen Anleitungen in der Regel mündlich zu geben und sie über die mit diesen Handlungen oder Unterlassungen unmittelbar verbundenen Rechtsfolgen zu belehren\.
+>
+> *\(Beachte: \[CELEX\-Nr\.: 32014L0036, 32021L1187\]\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AVG.md#-13a-avg--rechtsbelehrung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768&Paragraf=13a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AVG.001.md#-13a-avg--rechtsbelehrung) \]
 
@@ -374,6 +378,8 @@
 
 > `(4)` Die Verweigerung der Akteneinsicht gegenüber der Partei eines anhängigen Verfahrens erfolgt durch Verfahrensanordnung\.
 
+> *\(Beachte: \[CELEX\-Nr\.: 32021L1187\]\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AVG.md#-17-avg--akteneinsicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768&Paragraf=17) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AVG.001.md#-17-avg--akteneinsicht) \]
 
 ----
@@ -429,6 +435,8 @@
 ### § 21 AVG
 
 > Zustellungen sind nach dem Zustellgesetz – ZustG, BGBl\. Nr\. 200/1982, vorzunehmen\.
+>
+> *\(Beachte: \[CELEX\-Nr\.: 32021L1187\]\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AVG.md#-21-avg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768&Paragraf=21) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_23_TextContainer_23) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AVG.001.md#-21-avg) \]
 
@@ -611,6 +619,8 @@
 ### § 37 AVG — Allgemeine Grundsätze
 
 > Zweck des Ermittlungsverfahrens ist, den für die Erledigung einer Verwaltungssache maßgebenden Sachverhalt festzustellen und den Parteien Gelegenheit zur Geltendmachung ihrer Rechte und rechtlichen Interessen zu geben\. Nach einer Antragsänderung \(§ 13 Abs\. 8\) hat die Behörde das Ermittlungsverfahren insoweit zu ergänzen, als dies im Hinblick auf seinen Zweck notwendig ist\.
+>
+> *\(Beachte: \[CELEX\-Nr\.: 32021L1883\]\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AVG.md#-37-avg--allgemeine-grundsätze) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768&Paragraf=37) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_40_TextContainer_40) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AVG.002.md#-37-avg--allgemeine-grundsätze) \]
 
@@ -838,6 +848,8 @@
 
 > `(3)` Den Parteien ist Gelegenheit zu geben, vom Ergebnis der Beweisaufnahme Kenntnis und dazu Stellung zu nehmen\.
 
+> *\(Beachte: \[CELEX\-Nr\.: 32021L1883\]\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AVG.md#-45-avg--allgemeine-grundsätze-über-den-beweis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768&Paragraf=45) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_58_TextContainer_58) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AVG.003.md#-45-avg--allgemeine-grundsätze-über-den-beweis) \]
 
 ----
@@ -1019,6 +1031,8 @@
 
 > `(3)` Im übrigen gilt auch für Bescheide § 18 Abs\. 4\.
 
+> *\(Beachte: \[CELEX\-Nr\.: 32014L0036, 32021L1883\]\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AVG.md#-58-avg--inhalt-und-form-der-bescheide) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768&Paragraf=58) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_75_TextContainer_75) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AVG.003.md#-58-avg--inhalt-und-form-der-bescheide) \]
 
 ----
@@ -1060,6 +1074,8 @@
 > `(4)` Enthält der Bescheid keine oder eine unrichtige Angabe über die Behörde, bei der das Rechtsmittel einzubringen ist, so ist das Rechtsmittel auch dann richtig eingebracht, wenn es bei der Behörde, die den Bescheid erlassen hat, oder bei der angegebenen Behörde eingebracht wurde\.
 > *\(Anm\.: Abs\. 5 aufgehoben durch BGBl\. I Nr\. 158/1998\)*
 
+> *\(Beachte: \[CELEX\-Nr\.: 32014L0036, 32021L1883\]\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AVG.md#-61-avg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768&Paragraf=61) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_79_TextContainer_79) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AVG.003.md#-61-avg) \]
 
 ----
@@ -1073,6 +1089,8 @@
 > `(3)` Eine schriftliche Ausfertigung des mündlich verkündeten Bescheides ist den bei der Verkündung nicht anwesenden und jenen Parteien zuzustellen, die spätestens drei Tage nach der Verkündung eine Ausfertigung verlangen; über dieses Recht ist die Partei bei Verkündung des mündlichen Bescheides zu belehren\.
 
 > `(4)` Schreib\- und Rechenfehler oder diesen gleichzuhaltende, offenbar auf einem Versehen oder offenbar ausschließlich auf technisch mangelhaftem Betrieb einer automationsunterstützten Datenverarbeitungsanlage beruhende Unrichtigkeiten in Bescheiden kann die Behörde jederzeit von Amts wegen berichtigen\.
+
+> *\(Beachte: \[CELEX\-Nr\.: 32021L1187\]\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AVG.md#-62-avg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768&Paragraf=62) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_80_TextContainer_80) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AVG.003.md#-62-avg) \]
 
@@ -1259,6 +1277,8 @@
 > `(2)` Wird ein Bescheid, gegen den Berufung erhoben werden kann, nicht innerhalb der Entscheidungsfrist erlassen, so geht auf schriftlichen Antrag der Partei die Zuständigkeit zur Entscheidung auf die Berufungsbehörde über \(Devolutionsantrag\)\. Der Devolutionsantrag ist bei der Berufungsbehörde einzubringen\. Er ist abzuweisen, wenn die Verzögerung nicht auf ein überwiegendes Verschulden der Behörde zurückzuführen ist\.
 
 > `(3)` Für die Berufungsbehörde beginnt die Entscheidungsfrist mit dem Tag des Einlangens des Devolutionsantrages zu laufen\.
+
+> *\(Beachte: \[CELEX\-Nr\.: 32021L1187\]\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AVG.md#-73-avg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768&Paragraf=73) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005768#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_92_TextContainer_92) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AVG.003.md#-73-avg) \]
 

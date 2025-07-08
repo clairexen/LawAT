@@ -370,6 +370,8 @@ Dieses Bundesgesetz dient der Umsetzung der Richtlinie 2007/64/EG des Europäisc
 
 > `(4)` Die Abs\. 1 bis 3 gelten nicht für die in § 5a Abs\. 2 Z 3 bis 8, 10 bis 12, 14 und 15 angeführten Verträge\.
 
+> *\(Beachte: Ist für die in § 5a Abs\. 2 Z 9 angeführten Verträge erst ab dem 1\. Juli 2015 anzuwenden \(vgl\. § 41a Abs\. 29\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.KSchG.md#-6c-kschg--zusätzliche-zahlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002462&Paragraf=6c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002462#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.KSchG.002.md#-6c-kschg--zusätzliche-zahlungen) \]
 
 ----
@@ -520,6 +522,8 @@ Dieses Bundesgesetz dient der Umsetzung der Richtlinie 2007/64/EG des Europäisc
 > `(3)` Eine Vereinbarung, mit der für eine Klage des Verbrauchers gegen den Unternehmer ein nach dem Gesetz gegebener Gerichtsstand ausgeschlossen wird, ist dem Verbraucher gegenüber rechtsunwirksam\.
 
 > `(4)` Die Abs\. 1 bis 3 sind insoweit zur Gänze oder zum Teil nicht anzuwenden, als nach Völkerrecht oder besonderen gesetzlichen Anordnungen ausdrücklich anderes bestimmt ist\.
+
+> *\(Beachte: Nach Art\. XXXII Z 8 WGN 1997, BGBl\. I Nr\. 140/1997, ist die Neufassung der Abs\. 1, 2 und 4 auf Verfahren anzuwenden, in denen die Klagen oder verfahrenseinleitenden Anträge bei Gericht nach dem 31\. Dezember 1997 angebracht werden\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.KSchG.md#-14-kschg--gerichtsstand) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002462&Paragraf=14) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002462#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_26_TextContainer_26) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.KSchG.002.md#-14-kschg--gerichtsstand) \]
 

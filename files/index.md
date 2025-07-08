@@ -14,6 +14,7 @@
 * [Außerstreitgesetz (AußStrG)](BG.AußStrG.md)
 * [Beamten-Dienstrechtsgesetz (BDG)](BG.BDG.md)
 * [Datenschutzgesetz (DSG)](BG.DSG.md)
+* [Einführungsgesetz zu den Verwaltungsverfahrensgesetzen (EGVG)](BG.EGVG.md)
 * [Exekutionsordnung (EO)](BG.EO.md)
 * [Gerichtsorganisationsgesetz (GOG)](BG.GOG.md)
 * [Gewerbeordnung (GewO)](BG.GewO.md)

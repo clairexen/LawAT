@@ -12,6 +12,24 @@
 
 *(Fortsetzg. v. [BG.JN.001](BG.JN.001.md))*
 
+## Übertragung einzelner Geschäfte an den Vorsitzenden oder an einen beauftragten Richter
+
+### § 34 JN
+
+`§ 34 (1) JN.`  
+Die Vornahme gerichtlicher Handlungen durch den Präsidenten des Gerichtshofes oder durch den Vorsitzenden des Senates, welchem eine Rechtssache zur Verhandlung oder Entscheidung zugewiesen ist, oder die Übertragung gerichtlicher Handlungen an ein einzelnes Mitglied dieses Senates oder des zuständigen Gerichtshofes (beauftragter Richter) ist nur in den gesetzlich bestimmten und in den durch die Vorschriften über die innere Einrichtung und Geschäftsordnung der Gerichte bezeichneten Fällen zulässig.
+
+`§ 34 (2) JN.`  
+Die Übertragung gerichtlicher Handlungen an ein Mitglied des Senates oder des zuständigen Gerichtshofes steht, wenn nicht durch die hierauf bezüglichen Vorschriften etwas anderes angeordnet oder insbesondere der Vorsitzende hiezu ermächtigt ist, nur dem zur Verhandlung und Entscheidung der Rechtssache berufenen Senate zu.
+
+### § 35 JN
+
+`§ 35 (1) JN.`  
+Richterliche Amtshandlungen, welche außerhalb einer mündlichen Verhandlung oder außerhalb einer Sitzung vorzunehmen sind, ohne dass die Bedingungen für ein deshalb an ein anderes Gericht zu stellendes Ersuchen vorhanden wären, sind im Verfahren vor Gerichtshöfen einem beauftragten Richter zu übertragen.
+
+`§ 35 (2) JN.`  
+Beschlüsse eines beauftragten Richters können, sofern im Gesetze nichts anderes bestimmt ist, von dem Gerichte, welches den Auftrag ertheilt hat, auf Antrag oder von amtswegen abgeändert werden. Vor der Entscheidung sind die zur Aufklärung des Sachverhaltes erforderlichen Erhebungen zu pflegen.
+
 ## Übertragung des Vollzuges von Amtshandlungen an andere Gerichte
 
 ### § 36 JN
@@ -24,6 +42,8 @@ Die Übertragung des Vollzuges von Amtshandlungen an ein anderes Gericht (ersuch
 
 `§ 36 (3) JN.`  
 Um die Aufnahme eines Beweises darf ein Landes- oder Handelsgericht ein Bezirksgericht seines Sprengels nur dann ersuchen, wenn der Aufnahme des Beweises durch das erkennende Gericht unübersteigliche Hindernisse entgegenstehen oder sie unverhältnismäßige Kosten verursachen würde.
+
+*(Beachte: Es gibt keine Seegerichte mehr: siehe insbesondere Art. II Z 1, 1a und 2 BGBl. Nr. 135/1983)*
 
 ## Rechtshilfe auf Ersuchen inländischer Gerichte.
 
@@ -142,6 +162,8 @@ Ein Ausspruch im Sinne des Absatzes 1 und 2 kann nicht erfolgen, wenn demselben 
 `§ 42 (4) JN.`  
 Die Bestimmungen des Absatzes 1 und 3 haben auch Anwendung zu finden, wenn eine Angelegenheit, welche einen Gegenstand der freiwilligen Gerichtsbarkeit nicht bildet, im Verfahren außer Streitsachen bei Gericht anhängig gemacht wurde.
 
+*(Beachte: Nach Art. XXXII Z 8 WGN 1997, BGBl. I Nr. 140/1997, ist die Neufassung des Abs. 1 erster Satz und des Abs. 2 auf Verfahren anzuwenden, in denen die Klagen oder verfahrenseinleitenden Anträge bei Gericht nach dem 31. Dezember 1997 angebracht werden.)*
+
 ### § 43 JN
 
 `§ 43 (1) JN.`  
@@ -241,6 +263,8 @@ Die im Abs. 2 Z 1 bis 2d begründete Zuständigkeit besteht auch in Fällen, 
 Zum Wirkungskreise der Bezirksgerichte gehören auch die Verfügungen über gerichtliche Aufkündigungen von Bestandverträgen über die in Z 5 bezeichneten Gegenstände, die Erlassung von Aufträgen zur Übernahme solcher Bestandgegenstände und die Aufnahme der Seeverklarung.
 *(Anm.: Abs. 5 idF des Art. IV Z 3 BGBl. Nr. 280/1978 aufgehoben durch Art. I, Z 1, lit. e, BGBl. Nr. 70/1985.)*
 
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2014 bei Gericht angebracht wird (vgl. Z 3, BGBl. I Nr. 78/2014).)*
+
 ## Gerichtshöfe erster Instanz.
 
 ### § 50 JN
@@ -285,6 +309,8 @@ Streitigkeiten, die sich auf die Seeschiffe und Seefahrt beziehen, sowie aus all
 `§ 51 (3) JN.`  
 Wo ein selbständiges Handelsgericht nicht besteht, wird die Gerichtsbarkeit in allen vorgenannten Rechtsstreitigkeiten durch die Handelssenate der Landesgerichte ausgeübt.
 
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2014 bei Gericht angebracht wird (vgl. Z 3, BGBl. I Nr. 78/2014).)*
+
 ### § 52 JN
 
 `§ 52 (1) JN.`  
@@ -293,85 +319,11 @@ An Orten, an denen ein selbständiges Handelsgericht und Bezirksgerichte für Ha
 `§ 52 (2) JN.`  
 Im gleichen Umfange sind die etwa an anderen Orten bestehenden besonderen Bezirksgerichte für Handelssachen zur Ausübung der Gerichtsbarkeit in Streitsachen zuständig.
 
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2014 bei Gericht angebracht wird (vgl. Z 3, BGBl. I Nr. 78/2014).)*
+
 ### § 53 JN
 
 `§ 53 JN.`  
 Für Streitigkeiten über die Verletzung von gewerblichen Schutzrechten ist das Handelsgericht Wien in erster Instanz ausschließlich zuständig. In diesen Rechtssachen kommt dem Handelsgericht Wien auch die ausschließliche Zuständigkeit für einstweilige Verfügungen zu.
-
-## Wert des Streitgegenstandes.
-
-### § 54 JN
-
-`§ 54 (1) JN.`  
-Für die Berechnung des für die Zuständigkeit maßgebenden Wertes des Streitgegenstandes ist der Zeitpunkt der Anbringung der Klage entscheidend.
-
-`§ 54 (2) JN.`  
-Zuwachs, Früchte, Zinsen, Schäden und Kosten, die als Nebenforderungen geltend gemacht werden, bleiben bei der Wertberechnung unberücksichtigt.
-
-### § 55 JN
-
-`§ 55 (1) JN.`  
-Mehrere in einer Klage geltend gemachte Ansprüche sind zusammenzurechnen, wenn  
-`§ 55 (1) Z 1 JN.`
-sie von einer einzelnen Partei gegen eine einzelne Partei erhoben werden und in einem tatsächlichen oder rechtlichen Zusammenhang stehen oder  
-`§ 55 (1) Z 2 JN.`
-sie von mehreren Parteien oder gegen mehrere Parteien erhoben werden, die Streitgenossen nach § 11 Z 1 ZPO sind.
-
-`§ 55 (2) JN.`  
-Wird der gleiche Anspruch durch oder gegen mehrere Personen geltend gemacht, denen der Anspruch solidarisch zusteht oder für den sie solidarisch haften, so richtet sich der Wert nach der Höhe des einfachen Anspruchs.
-
-`§ 55 (3) JN.`  
-Wird nur ein Teil einer Kapitalsforderung begehrt, so ist der Gesamtbetrag der noch unberichtigten Kapitalsforderung maßgebend.
-
-`§ 55 (4) JN.`  
-Die Abs. 1 bis 3 sind auch für die Besetzung des Gerichts (§ 7a), die Zulässigkeit von Rechtsmitteln und die Berufungsgründe (§ 501 ZPO) maßgebend.
-
-### § 56 JN
-
-`§ 56 (1) JN.`  
-Erbietet sich der Kläger an Stelle der angesprochenen Sache eine bestimmte Geldsumme anzunehmen oder stellt er ein alternatives Begehren auf Zuerkennung einer Geldsumme, so ist die in der Klage angegebene Geldsumme für die Beurtheilung der Zuständigkeit und für die Besetzung des Gerichtes (§ 7a) maßgebend.
-
-`§ 56 (2) JN.`  
-In allen anderen Fällen hat der Kläger den Wert eines nicht in einem Geldbetrag bestehenden vermögensrechtlichen Streitgegenstandes in der Klage anzugeben. Dies gilt insbesondere auch in Ansehung von Feststellungsklagen. Unterläßt der Kläger eine Bewertung in einer Klage, so gilt der Betrag von 5 000 Euro als Streitwert.
-
-`§ 56 (3) JN.`  
-Bei der Bewertung des Streitgegenstandes sind die dem Kläger etwa obliegenden Gegenleistungen nicht in Abzug zu bringen.
-
-### § 57 JN
-
-`§ 57 JN.`  
-Bei Streitigkeiten, welche nur die Sicherstellung einer Forderung oder ein Pfandrecht zum Gegenstande haben, ist der Betrag der Forderung, oder wenn der Pfandgegenstand einen geringeren Wert hat, dessen Wert für die Bewertung des Streitgegenstandes maßgebend.
-
-### § 58 JN
-
-`§ 58 (1) JN.`  
-Als Wert des Rechtes auf den Bezug von Zinsen, Renten, Früchten oder anderen wiederkehrenden Nutzungen und Leistungen ist bei immerwährender Dauer das Zwanzigfache, bei unbestimmter oder auf Lebenszeit beschränkter Dauer das Zehnfache, sofern es sich um Ansprüche auf Unterhalts- oder Versorgungsbeträge und auf Zahlung von Renten wegen Körperbeschädigung oder Tötung eines Menschen handelt, das Dreifache der Jahresleistung, bei bestimmter Dauer aber der Gesamtbetrag der künftigen Bezüge, jedoch in keinem Fall mehr als das Zwanzigfache der Jahresleistung anzunehmen.
-
-`§ 58 (2) JN.`  
-Ist das Bestehen eines Pacht- oder Mietverhältnisses streitig, so ist der Betrag des auf die gesammte streitige Zeit fallenden Zinses der Bewertung zugrunde zu legen.
-
-### § 59 JN
-
-`§ 59 JN.`  
-Bei Klagen auf Vornahme von Arbeiten oder anderen persönlichen Leistungen, auf Duldung oder Unterlassung, auf Abgabe von Willenserklärungen ist die vom Kläger angegebene Höhe seines Interesses als Wert des Streitgegenstandes anzusehen.
-
-### § 59a JN
-
-`§ 59a JN.`  
-Bei Klagen auf Unterlassung nach § 549 ZPO gilt der Betrag von 5 000 Euro als Streitwert.
-
-### § 60 JN
-
-`§ 60 (1) JN.`  
-Erscheint bei einer Klage, welche bei einem Gerichtshofe erster Instanz angebracht wurde, die vom Kläger angegebene Summe, zu deren Annahme an Stelle der angesprochenen Sache er sich erboten hat (§ 56 Absatz 1), oder die im Sinne des §. 56 Absatz 2 erfolgte Bewertung des Streitgegenstandes übermäßig hoch gegriffen, so kann das Gericht, wenn es zugleich wahrscheinlich ist, dass bei richtigerer Bewertung des Streitgegenstandes dieser die für die Zuständigkeit des Gerichtshofes oder für die Besetzung des Gerichtes (§ 7a) maßgebende Wertgrenze nicht erreichen dürfte, von amtswegen die ihm zur Prüfung der Richtigkeit der Wertangabe nöthig erscheinenden Erhebungen und insbesondere die Einvernehmung der Parteien, die Vornahme eines Augenscheines und, wenn es ohne erheblichen Kostenaufwand und ohne besondere Verzögerung geschehen kann, auch die Begutachtung durch Sachverständige anordnen. Dies kann erforderlichenfalls auch schon vor Anberaumung der mündlichen Verhandlung geschehen.
-
-`§ 60 (2) JN.`  
-Als Wert einer grund- oder hauszinssteuerpflichtigen unbeweglichen Sache ist jener Betrag anzusehen, welcher als Steuerschätzwert für die Gebürenbemessung in Betracht kommt.
-
-`§ 60 (3) JN.`  
-Muss infolge der Ergebnisse solcher Erhebungen und Beweisführungen die Streitsache von dem Gerichtshofe an das Bezirksgericht abgetreten werden, so hat der Kläger die durch diese Erhebungen und Beweisführungen entstandenen Kosten zu tragen oder zu ersetzen. Dasselbe gilt, wenn nach dem Ergebnisse solcher Erhebungen und Beweisführungen der mit mehr als 100 000 Euro angegebene Wert des Streitgegenstandes den Betrag von 100 000 Euro nicht übersteigt (§ 7a).
-
-`§ 60 (4) JN.`  
-Außer dem in Absatz 1 bezeichneten Falle ist die in der Klage enthaltene Bewertung des Streitgegenstandes in Ansehung der Zuständigkeit und der Besetzung des Gerichtes (§ 7a) sowohl für das Gericht als für den Gegner bindend.
 
 `END-OF-DATA-FILE` *(fortges. in [BG.JN.003](BG.JN.003.md))*

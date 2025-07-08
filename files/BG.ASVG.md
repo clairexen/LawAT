@@ -1654,6 +1654,8 @@ Der Nationalrat hat beschlossen:
 > *Anm\. 1: gemäß BGBl\. II Nr\. 459/2022 für 2023: 500,91 €*  
 > &nbsp; *gemäß BGBl\. II Nr\. 407/2023 für 2024: 518,44 €*  
 > &nbsp; *gemäß BGBl\. II Nr\. 417/2024 für 2025: 551,1 €\)*
+>
+> *\(Beachte: zu Abs\. 3 Z 2: zum Bezugszeitraum vgl\. § 800\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-5-asvg--ausnahmen-von-der-vollversicherung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=5) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.002.md#-5-asvg--ausnahmen-von-der-vollversicherung) \]
 
@@ -1767,6 +1769,8 @@ Der Nationalrat hat beschlossen:
 >>> `p)` die Arbeitnehmer/innen nach dem GSAG\.
 >
 >> `5.` in der Pensionsversicherung überdies Lehrlinge, sofern sie nach den Vorschriften über die Krankenversicherung öffentlich Bediensteter bei der Versicherungsanstalt öffentlich Bediensteter, Eisenbahnen und Bergbau versichert sind\.
+>
+> *\(Beachte: Z 1 lit\. e ist auch auf Sachverhalte anzuwenden, die vor dem 1\.7\.2019 verwirklicht wurden \(vgl\. § 725\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-7-asvg--teilversicherung-von-im--4-genannten-personen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=7) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.002.md#-7-asvg--teilversicherung-von-im--4-genannten-personen) \]
 
@@ -1903,6 +1907,8 @@ Der Nationalrat hat beschlossen:
 
 > &nbsp; *\(\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*  
 > &nbsp; *Anm\. 1: Soweit auf den Begriff „fachmännischer Laienrichter“ in der jeweiligen grammatikalischen Form Bezug genommen wird, tritt mit Wirkung vom 1\. Mai 2022 an dessen Stelle der Begriff „fachkundiger Laienrichter“ in der jeweiligen grammatikalisch richtigen Form \(vgl\. § 123 Abs\. 2 Z 3 JN\)\.\)*
+>
+> *\(Beachte: zu Abs\. 1 Z 1 lit\. h: zum Bezugszeitraum vgl\. § 800\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-8-asvg--sonstige-teilversicherung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=8) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.002.md#-8-asvg--sonstige-teilversicherung) \]
 
@@ -1970,6 +1976,8 @@ Der Nationalrat hat beschlossen:
 
 > &nbsp; *\(\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*  
 > &nbsp; *Anm\. 1: Soweit auf den Begriff „fachmännischer Laienrichter“ in der jeweiligen grammatikalischen Form Bezug genommen wird, tritt mit Wirkung vom 1\. Mai 2022 an dessen Stelle der Begriff „fachkundiger Laienrichter“ in der jeweiligen grammatikalisch richtigen Form \(vgl\. § 123 Abs\. 2 Z 3 JN\)\.\)*
+>
+> *\(Beachte: zu Abs\. 6a und 6b: zum Bezugszeitraum vgl\. § 800\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-10-asvg--beginn-der-pflichtversicherung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=10) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.002.md#-10-asvg--beginn-der-pflichtversicherung) \]
 
@@ -2300,6 +2308,8 @@ Der Nationalrat hat beschlossen:
 > &nbsp; Ab dem erstmaligen Beginn der Selbstversicherung \(Abs\. 5\) gelten die Voraussetzungen bis zum Ablauf des nächstfolgenden Kalenderjahres als erfüllt; in weiterer Folge hat der Versicherungsträger jeweils jährlich einmal festzustellen, ob die Voraussetzungen für die Selbstversicherung nach Abs\. 1 gegeben sind\. Der Versicherte ist verpflichtet, den Wegfall der erhöhten Familienbeihilfe dem Träger der Pensionsversicherung binnen zwei Wochen anzuzeigen\.
 
 > `(7)` Das Ende der Selbstversicherung steht hinsichtlich der Berechtigung zur Weiterversicherung in der Pensionsversicherung dem Ausscheiden aus der Pflichtversicherung im Sinne des § 17 Abs\. 1 Z 1 lit\. a gleich\.
+
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 669 Abs\. 3 und § 688 Abs\. 5\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-18a-asvg--selbstversicherung-in-der-pensionsversicherung-für-zeiten-der-pflege-eines-behinderten-kindes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=18a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.004.md#-18a-asvg--selbstversicherung-in-der-pensionsversicherung-für-zeiten-der-pflege-eines-behinderten-kindes) \]
 
@@ -3023,6 +3033,8 @@ Der Nationalrat hat beschlossen:
 >
 >> `4.` im Ausmaß des über Abs\. 2 hinausgehenden Betrages, wenn es für eine Person für ein Kalenderjahr mehrfach eingehoben wurde\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 810 Abs\. 4\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-31c-asvg--service-entgelt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=31c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_48_TextContainer_48) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.007.md#-31c-asvg--service-entgelt) \]
 
 ----
@@ -3086,6 +3098,8 @@ Der Nationalrat hat beschlossen:
 > `(1)` Der/Die Leistungserbringer/in, für dessen/deren Leistung Kostenerstattung, Kostenersatz oder ein Kostenzuschuss gewährt werden soll oder gewährt wurde, hat an der Feststellung des jeweiligen Anspruches mitzuwirken\.
 
 > `(2)` Freiberuflich tätige Ärztinnen und Ärzte sowie ärztliche Gruppenpraxen, für deren Leistungen Kostenerstattungen, Kostenersätze oder Kostenzuschüsse gewährt werden sollen, haben dem Krankenversicherungsträger die von den Patientinnen und Patienten nachweislich bezahlten Honorarnoten nach deren Zustimmung mit einem einheitlichen Datensatz in elektronischer Form zu übermitteln\. Der Dachverband hat diesen Datensatz im übertragenen Wirkungsbereich festzusetzen und im Internet kundzumachen\. Bei der Festsetzung des Datensatzes unterliegt er den Weisungen des Bundesministers/der Bundesministerin für Soziales, Gesundheit und Konsumentenschutz\. Ausgenommen von der Übermittlung sind nur jene Ärztinnen und Ärzte sowie ärztliche Gruppenpraxen, denen dies nicht oder nur mit unverhältnismäßigem Aufwand möglich ist\.
+
+> *\(Beachte: Abs\. 1 und 2 sind auf Honorarnoten anzuwenden, die für ab dem 1\. Juli 2024 erbrachte Leistungen ausgestellt wurden \(vgl\. § 795 Abs\. 3\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-32b-asvg--mitwirkung-der-nicht-vertragspartnerinnen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=32b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_52_TextContainer_52) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.007.md#-32b-asvg--mitwirkung-der-nicht-vertragspartnerinnen) \]
 
@@ -3229,6 +3243,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` § 35 Abs\. 3 gilt entsprechend\.
 
 > `(3)` Die im § 4 Abs\. 1 Z 6 genannten Vorstandsmitglieder \(Geschäftsleiter\) sowie die den Heimarbeitern nach den jeweiligen gesetzlichen Vorschriften über die Heimarbeit arbeitsrechtlich gleichgestellten Personen \(§ 4 Abs\. 1 Z\. 7\) haben die in den §§ 33 und 34 vorgeschriebenen Meldungen selbst zu erstatten\. Die Bestimmungen der §§ 33 Abs\. 1 und 34 Abs\. 1 sind hiebei entsprechend anzuwenden\.
+
+> *\(Beachte: zu Abs\. 1 Z 11: zum Bezugszeitraum vgl\. § 800\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-36-asvg--sonstige-meldepflichtige-personen-stellen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=36) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_58_TextContainer_58) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.008.md#-36-asvg--sonstige-meldepflichtige-personen-stellen) \]
 
@@ -3588,6 +3604,8 @@ Der Nationalrat hat beschlossen:
 > &nbsp; *für 2023: 31,44 €*  
 > &nbsp; *für 2024: 32,54 €*  
 > &nbsp; *für 2025: 34,59 €\)*
+>
+> *\(Beachte: zu Abs\. 1 Z 12: zum Bezugszeitraum vgl\. § 800\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-44-asvg--allgemeine-beitragsgrundlage-entgelt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=44) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_75_TextContainer_75) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.009.md#-44-asvg--allgemeine-beitragsgrundlage-entgelt) \]
 
@@ -3887,6 +3905,8 @@ Der Nationalrat hat beschlossen:
 > `(6)` Abweichend von Abs\. 3 Einleitung ist für Lehrlinge für die Dauer des gesamten Lehrverhältnisses sowie für Personen, die das 60\. Lebensjahr vollendet haben, der allgemeine Beitrag zur Unfallversicherung aus Mitteln der Unfallversicherung zu zahlen\.
 
 > `(7)` Abweichend von Abs\. 3 Z 2 ist für Personen, deren Alterspension sich wegen Aufschubes der Geltendmachung des Anspruches erhöht \(§ 261c, § 5 Abs\. 4 APG\), für jeden für diese Erhöhung zu berücksichtigenden Monat die Hälfte des auf den Dienstgeber und die versicherte Person entfallenden Beitragsteiles aus Mitteln der Pensionsversicherung zu zahlen\.
+
+> *\(Beachte: Tritt mit dem nach § 675 Abs\. 3 durch Verordnung der Bundesministerin für Gesundheit festgestellten Zeitpunkt außer Kraft \(vgl\. § 690 Abs\. 1 Z 3\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-51-asvg--allgemeine-beiträge-für-vollversicherte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=51) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_82_TextContainer_82) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.009.md#-51-asvg--allgemeine-beiträge-für-vollversicherte) \]
 
@@ -4520,6 +4540,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Versicherte, die im Rahmen eines pensionsversicherungsfreien Dienstverhältnisses gegen Entfall der Bezüge beurlaubt sind \(Karenzurlaub\) und während des Karenzurlaubes eine die Pflichtversicherung in der Pensionsversicherung nach diesem Bundesgesetz begründende Erwerbstätigkeit ausüben, können beantragen, daß ihnen die auf Grund dieser Erwerbstätigkeit für nach dem 31\. Dezember 1994 liegende Zeiten des Karenzurlaubes, soweit diese für die ruhegenußfähige Gesamtdienstzeit angerechnet werden, entrichteten Beiträge erstattet werden; hiebei ist als Beitragssatz jeweils die Hälfte der Summe der Beitragssätze gemäß § 51 Abs\. 1 Z 3 lit\. a und § 51a zur Zeit der Entrichtung heranzuziehen\. Der Antrag auf Erstattung ist beim zuständigen Pensionsversicherungsträger zu stellen und bedarf zu seiner Wirksamkeit einer Bestätigung über die Anrechenbarkeit des Karenzurlaubes für die ruhegenußfähige Gesamtdienstzeit\. Die Beiträge sind aufgewertet mit dem der zeitlichen Lagerung entsprechenden Aufwertungsfaktor \(§ 108 Abs\. 4\) zu erstatten\. Mit der Erstattung der Beiträge erlöschen alle Ansprüche und Berechtigungen aus der Pensionsversicherung, die aus den Versicherungsmonaten erhoben werden können, für die die Beiträge erstattet wurden\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 718 Abs\. 3\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-70-asvg--erstattung-von-beiträgen-in-der-pensionsversicherung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=70) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_112_TextContainer_112) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.009.md#-70-asvg--erstattung-von-beiträgen-in-der-pensionsversicherung) \]
 
 ----
@@ -4531,6 +4553,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Als Monate der Pflichtversicherung in der Krankenversicherung gemäß Abs\. 1 sind alle Kalendermonate zu zählen, in denen der \(die\) Versicherte zumindest für einen Tag in der Krankenversicherung pflichtversichert war\.
 
 > `(3)` Der durch die Richtlinien nach § 30a Abs\. 1 Z 33 festzulegende leistungszuständige Versicherungsträger hat die Beitragserstattung bis zum 30\. Juni des Kalenderjahres, das dem Jahr der gänzlichen Entrichtung der Beiträge zur Krankenversicherung für ein Kalenderjahr folgt, durchzuführen, erstmals bis zum 30\. Juni 2020 für die im Jahr 2019 gänzlich für ein Kalenderjahr entrichteten Beiträge\.
+
+> *\(Beachte: zum Bezugszeitraum vgl\. § 718 Abs\. 3\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-70a-asvg--erstattung-von-beiträgen-in-der-krankenversicherung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=70a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_113_TextContainer_113) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.009.md#-70a-asvg--erstattung-von-beiträgen-in-der-krankenversicherung) \]
 
@@ -4572,6 +4596,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` In der Krankenversicherung der nach § 8 Abs\. 1 Z 1 lit\. b teilversicherten Bezieher einer laufenden Geldleistung aus der zusätzlichen Pensionsversicherung nach § 479 haben die Träger der zusätzlichen Pensionsversicherung 180% der nach Abs\. 3 einbehaltenen Beträge an die Versicherungsanstalt öffentlich Bediensteter, Eisenbahnen und Bergbau zu überweisen\.
 
 > `(5)` Die Beiträge gemäß Abs\. 2 erster Satz sind vorschussweise in monatlichen Raten auf Grund der im vorangegangenen Kalendermonat gemäß Abs\. 1 einbehaltenen Beträge dem Dachverband zu überweisen\. Der Ausgleich zu den gemäß Abs\. 2 erster Satz in einem Kalenderjahr zu überweisenden Beiträgen ist innerhalb der ersten sechs Monate des folgenden Kalenderjahres vorzunehmen\. Der Dachverband teilt die einlangenden Beiträge auf die zuständigen Träger der Krankenversicherung nach einem Schlüssel auf, der von der Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz bis 31\. Oktober des folgenden Kalenderjahres mit Verordnung festzusetzen ist\. Der Schlüssel ist für jedes Geschäftsjahr so zu berechnen, dass die Beiträge unter Berücksichtigung des Verhältnisses, in dem der Pensionsaufwand einschließlich des Aufwandes für Ausgleichszulagen aller nach Abs\. 2 erster Satz beitragspflichtigen Träger der Pensionsversicherung auf die bei den einzelnen Trägern der Krankenversicherung gemäß § 8 Abs\. 1 Z 1 lit\. a oder d krankenversicherten Personen entfällt, aufzuteilen sind\. Der Dachverband hat die vorschussweise einlangenden Beiträge nach dem 20\. eines jeden Kalendermonates vorläufig nach einem Schlüssel aufzuteilen und an die zuständigen Träger der Krankenversicherung zu überweisen, der jährlich bis zum 30\. November für das Folgejahr nach den gleichen Grundsätzen wie der endgültige Schlüssel nach den jeweils aktuellsten Daten festzusetzen ist\. Der Ausgleich ist innerhalb von zwei Monaten nach dem Inkrafttreten der jeweiligen Verordnung vorzunehmen\. Hinsichtlich der Bevorschussung der Beiträge gemäß Abs\. 2 zweiter und dritter Satz und des Ausgleiches für ein Kalenderjahr ist entsprechend vorzugehen\.
+
+> *\(Beachte: 1\. zu Abs\. 2 vgl\. § 690 Abs\. 42\. Tritt mit dem nach § 675 Abs\. 3 durch Verordnung der Bundesministerin für Gesundheit festgestellten Zeitpunkt, jedoch jedenfalls nicht vor Ablauf des 31\.12\.2015, außer Kraft \(vgl\. § 690 Abs\. 1 Z 3\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-73-asvg--beiträge-in-der-krankenversicherung-für-pensionisten-übergangsgeldbezieher) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=73) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_115_TextContainer_115) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.010.md#-73-asvg--beiträge-in-der-krankenversicherung-für-pensionisten-übergangsgeldbezieher) \]
 
@@ -4825,6 +4851,8 @@ Der Nationalrat hat beschlossen:
 > &nbsp; *gemäß BGBl\. II Nr\. 459/2022 für 2023:* *20,74 €*  
 > &nbsp; *gemäß BGBl\. II Nr\. 407/2023 für 2024: 21,47 €*  
 > &nbsp; *gemäß BGBl\. II Nr\. 417/2024 für 2025: 22,82 €\)*
+>
+> *\(Beachte: zum Bezugszeitraum vgl\. § 688 Abs\. 3 und 5\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-76b-asvg--beitragsgrundlage-für-selbstversicherte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=76b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_123_TextContainer_123) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.011.md#-76b-asvg--beitragsgrundlage-für-selbstversicherte) \]
 
@@ -4905,6 +4933,8 @@ Der Nationalrat hat beschlossen:
 > &nbsp; *für 2023: 197,88 €*  
 > &nbsp; *für 2024: 204,81 €*  
 > &nbsp; *für 2025: 217,71 €\)*
+>
+> *\(Beachte: zum Bezugszeitraum vgl\. § 688 Abs\. 4 und 5\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-77-asvg--ausmaß-und-entrichtung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=77) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_124_TextContainer_124) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.011.md#-77-asvg--ausmaß-und-entrichtung) \]
 
@@ -5784,6 +5814,8 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Durch die Satzung kann die Anpassung nach Abs\. 1 auch für das Krankengeld, ausgenommen jenes nach § 141 Abs\. 5 dieses Bundesgesetzes und § 41 Abs\. 1 AlVG, festgelegt werden\.
 
+> *\(Beachte: Ist in den Kalenderjahren 2026 und 2027 nicht anzuwenden \(vgl\. § 810 Abs\. 5\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-108i-asvg--anpassung-von-kranken--rehabilitations--und-wiedereingliederungsgeld) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=108i) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_173_TextContainer_173) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.014.md#-108i-asvg--anpassung-von-kranken--rehabilitations--und-wiedereingliederungsgeld) \]
 
 ----
@@ -6373,6 +6405,8 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Wenn die flächendeckende Versorgung der Versicherten durch Verträge nicht in ausreichendem Maße gesichert ist, so kann in der Satzung des Versicherungsträgers das Ausmaß des Ersatzes der Kosten der Krankenbehandlung gemäß Abs\. 1 mit mehr als 80 vH, höchstens jedoch mit 100 vH des Betrages, der bei Inanspruchnahme der entsprechenden Vertragspartner des Versicherungsträgers von diesem aufzuwenden gewesen wäre, festgesetzt werden\. Die flächendeckende Versorgung ist im Regelfall dann anzunehmen, wenn Gesamtverträge nach dem Sechsten Teil bestehen\.
 
+> *\(Beachte: zum Inkrafttreten vgl\. § 718 Abs\. 1 Z 3 und Abs\. 4\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-131-asvg--erstattung-von-kosten-der-krankenbehandlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=131) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_199_TextContainer_199) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.016.md#-131-asvg--erstattung-von-kosten-der-krankenbehandlung) \]
 
 ----
@@ -6650,6 +6684,8 @@ Der Nationalrat hat beschlossen:
 >> `j)` die nach § 8 Abs\. 1 Z 1 lit\. h Teilversicherten\.
 
 > `(3)` Nach Abs\. 1 Anspruchsberechtigte, die Pflichtmitglieder der Tierärztekammern und die der Österreichischen Zahnärztekammer angehörenden Dentisten/Dentistinnen haben den Beginn der Arbeitsunfähigkeit infolge Krankheit dem Versicherungsträger innerhalb einer Woche zu melden\. Die Meldung der Arbeitsunfähigkeit durch den behandelnden Arzt oder durch eine Krankenanstalt ist der Meldung durch den Anspruchsberechtigten gleichzuhalten\.
+
+> *\(Beachte: zu Abs\. 2 lit\. j: zum Bezugszeitraum vgl\. § 800\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-138-asvg--anspruchsberechtigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=138) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_211_TextContainer_211) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.018.md#-138-asvg--anspruchsberechtigung) \]
 
@@ -6955,6 +6991,8 @@ Der Nationalrat hat beschlossen:
 > `(5)` § 447f Abs\. 7 ist mit der Maßgabe anzuwenden, daß der 10%ige Kostenbeitrag von dem nach § 150 Abs\. 2 zweiter Satz in der Satzung festgesetzten Betrag zu berechnen und an den Träger der Sozialversicherung zu leisten ist, soweit jedoch Abs\. 3 erster Satz anzuwenden ist, vom Träger der Krankenanstalt an den Fonds nach Abs\. 3 zweiter Satz zu überweisen ist; die an den Fonds überwiesenen, tatsächlich eingehobenen Kostenbeiträge sind dem Pauschalbeitrag nach Abs\. 3 gegenzuverrechnen\.
 > *\(Anm\.: Abs\. 6 aufgehoben durch BGBl\. I Nr\. 71/2003\)*
 
+> *\(Beachte: Abs\. 3a tritt nach Ablauf von sechs Monaten nach Außerkrafttreten der Vereinbarung gemäß Art\. 15a B\-VG über die Organisation und Finanzierung des Gesundheitswesens, in der jeweils geltenden Fassung außer Kraft \(vgl\. § 675 Abs\. 3 und § 701 Abs\. 2\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-149-asvg--beziehungen-zu-anderen-als-in--148-genannten-krankenanstalten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=149) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_224_TextContainer_224) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.019.md#-149-asvg--beziehungen-zu-anderen-als-in--148-genannten-krankenanstalten) \]
 
 ----
@@ -7225,6 +7263,8 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Hebammenbeistand nach § 159 ist über die Bestimmungen des § 157 hinaus zu gewähren, wenn eine Fehlgeburt nach Vollendung der 18\. Schwangerschaftswoche eintritt\.
 
+> *\(Beachte: zu Abs\. 5: zum Bezugszeitraum vgl\. § 800\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-158-asvg--anspruchsberechtigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=158) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_237_TextContainer_237) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.021.md#-158-asvg--anspruchsberechtigung) \]
 
 ----
@@ -7312,6 +7352,8 @@ Der Nationalrat hat beschlossen:
 > &nbsp; *gemäß BGBl\. II Nr\. 459/2022 für 2023:* *10,35 €*  
 > &nbsp; *gemäß BGBl\. II Nr\. 407/2023 für 2024: 11,35 €*  
 > &nbsp; *gemäß BGBl\. II Nr\. 417/2024 für 2025: 11,87 €\)*
+>
+> *\(Beachte: zu Abs\. 3a: zum Bezugszeitraum vgl\. § 800\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-162-asvg--wochengeld) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=162) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_241_TextContainer_241) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.021.md#-162-asvg--wochengeld) \]
 
@@ -7326,6 +7368,8 @@ Der Nationalrat hat beschlossen:
 > `(3)` Das Sonderwochengeld gebührt im Ausmaß des erhöhten Krankengeldes nach § 141 Abs\. 2, wobei die Bemessungsgrundlage nach § 125 anhand jenes Arbeitsverdienstes zu ermitteln ist, welcher dem Ende des letzten Entgeltanspruches vorangegangen ist\. Liegt der zuletzt gebührende Arbeitsverdienst zur Gänze in einem vergangenen Kalenderjahr, so ist er mit den Anpassungsfaktoren \(§ 108f\) des laufenden Kalenderjahres und der dazwischenliegenden Kalenderjahre zu vervielfachen\. Bestand der der Karenz vorangegangene Anspruch auf Wochengeld aufgrund einer Selbstversicherung nach § 19a, gebührt Sonderwochengeld in Höhe des in § 141 Abs\. 5 genannten Betrags\. §§ 166 und 167 sind anzuwenden\.
 
 > `(4)` Zuständig ist jener Krankenversicherungsträger, bei welchem aufgrund des karenzierten Dienstverhältnisses eine Pflichtversicherung bestand\.
+
+> *\(Beachte: zum Bezugszeitraum vgl\. § 800\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-163-asvg--sonderwochengeld) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=163) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_242_TextContainer_242) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.021.md#-163-asvg--sonderwochengeld) \]
 
@@ -7370,6 +7414,8 @@ Der Nationalrat hat beschlossen:
 ### § 168 ASVG — Aufwendungen für das Wochengeld
 
 > Die Aufwendungen für das Wochengeld \(§ 162\) und das Sonderwochengeld \(§ 163\) sind unbeschadet des aus Mitteln des Familienlastenausgleichsfonds zu leistenden Ersatzes von den Trägern der Krankenversicherung zu 30 vH zu tragen\.
+>
+> *\(Beachte: zum Bezugszeitraum vgl\. § 800\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-168-asvg--aufwendungen-für-das-wochengeld) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=168) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_246_TextContainer_246) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.021.md#-168-asvg--aufwendungen-für-das-wochengeld) \]
 
@@ -7559,6 +7605,8 @@ Der Nationalrat hat beschlossen:
 > `(2)` Eine Krankheit, die ihrer Art nach nicht in Anlage 1 zu diesem Bundesgesetz enthalten ist, gilt im Einzelfall als Berufskrankheit, wenn der Träger der Unfallversicherung auf Grund gesicherter wissenschaftlicher Erkenntnisse feststellt, daß diese Krankheit ausschließlich oder überwiegend durch die Verwendung schädigender Stoffe oder Strahlen bei einer vom Versicherten ausgeübten Beschäftigung entstanden ist; diese Feststellung bedarf zu ihrer Wirksamkeit der Zustimmung des Bundesministers für soziale Verwaltung\.
 
 > `(3)` In der Unfallversicherung der nach § 8 Abs\. 1 Z 3 lit\. h, i und l Teilversicherten stehen die Schul\(Universitäts\)ausbildung, der Besuch einer institutionellen Kinderbetreuungseinrichtung im letzten Jahr vor Schulpflicht \(§ 175 Abs\. 4\) und die in § 175 Abs\. 5 und § 176 Abs\. 1 Z 11 und 12 angeführten Tätigkeiten einer Beschäftigung im Sinne der Abs\. 1 und 2 gleich\.
+
+> *\(Beachte: zum Bezugszeitraum vgl\. § 671 Abs\. 3\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-177-asvg--berufskrankheiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=177) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_252_TextContainer_252) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.022.md#-177-asvg--berufskrankheiten) \]
 
@@ -8471,6 +8519,8 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Stellen die Pensionsversicherungsträger nach § 367 Abs\. 4 Z 1 fest, dass bei Versicherten mit aufrechtem Dienstverhältnis bei Fortsetzung der bisherigen Erwerbstätigkeit in absehbarer Zeit Invalidität \(Berufsunfähigkeit\) eintreten wird, so ist eine Zuweisung zum Informations\-, Beratungs\- und Unterstützungsangebot nach § 1 Abs\. 1 des Arbeit\-und\-Gesundheit\-Gesetzes \(AGG\), BGBl\. I Nr\. 111/2010, mit dem Ziel vorzunehmen, das Dienstverhältnis zu erhalten\.
 
+> *\(Beachte: Abs\. 1 und 2: zum Bezugszeitraum vgl\. § 669 Abs\. 5\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-222-asvg--leistungen-der-pensionsversicherung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=222) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_306_TextContainer_306) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.026.md#-222-asvg--leistungen-der-pensionsversicherung) \]
 
 ----
@@ -8635,6 +8685,8 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Abs\. 2 gilt nicht für Zeiten, für die aus Anlaß der Aufnahme in das pensionsversicherungsfreie Dienstverhältnis vom Dienstnehmer an den Dienstgeber ein besonderer Pensionsbeitrag geleistet worden ist, sofern für diese Zeiten ein Überweisungsbetrag nach § 311 geleistet worden ist\.
 > *\(Anm\.: Abs\. 6 aufgehoben durch BGBl\. Nr\. 20/1994\)*
+
+> *\(Beachte: Zum Bezugszeitraum: Abs\. 3 vgl\. § 658 Abs\. 5\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-227-asvg--ersatzzeiten-aus-der-zeit-nach-dem-31-dezember-1955-und-vor-dem-1-jänner-2005) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=227) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_311_TextContainer_311) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.026.md#-227-asvg--ersatzzeiten-aus-der-zeit-nach-dem-31-dezember-1955-und-vor-dem-1-jänner-2005) \]
 
@@ -9417,6 +9469,8 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; *\(Anm\.: Z 3 aufgehoben durch BGBl\. I Nr\. 101/2000\)*
 
+> *\(Beachte: Abs\. 1: Zum Bezugszeitraum vgl\. § 669 Abs\. 5\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-251a-asvg--leistungszugehörigkeit-des-versicherten-und-berücksichtigung-von-zeiten-und-beiträgen-bei-erwerb-von-versicherungsmonaten-auch-in-anderen-pensionsversicherungen-wanderversicherung-mehrfachversicherung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=251a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_343_TextContainer_343) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.026.md#-251a-asvg--leistungszugehörigkeit-des-versicherten-und-berücksichtigung-von-zeiten-und-beiträgen-bei-erwerb-von-versicherungsmonaten-auch-in-anderen-pensionsversicherungen-wanderversicherung-mehrfachversicherung) \]
 
 ----
@@ -9635,6 +9689,8 @@ Der Nationalrat hat beschlossen:
 >> `(6)` Wurden dem Versicherten Maßnahmen der Rehabilitation gewährt, durch die das im § 300 Abs\. 3 angestrebte Ziel erreicht worden ist, so gilt er auch als invalid, wenn seine Arbeitsfähigkeit in den Berufen, zu denen ihn die Rehabilitation befähigt hat, infolge seines körperlichen oder geistigen Zustandes auf weniger als die Hälfte derjenigen eines körperlich und geistig gesunden Versicherten von ähnlicher Ausbildung und gleichwertigen Kenntnissen und Fähigkeiten in jedem dieser Berufe herabgesunken ist\.
 >
 >> `(7)` Als invalid im Sinne der Abs\. 1 bis 4 gilt der \(die\) Versicherte auch dann, wenn er \(sie\) bereits vor der erstmaligen Aufnahme einer die Pflichtversicherung begründenden Beschäftigung infolge von Krankheit oder anderen Gebrechen oder Schwäche seiner \(ihrer\) körperlichen oder geistigen Kräfte außer Stande war, einem regelmäßigen Erwerb nachzugehen, dennoch aber mindestens 120 Beitragsmonate der Pflichtversicherung auf Grund einer Erwerbstätigkeit nach diesem oder einem anderen Bundesgesetz erworben hat\.
+>
+> *\(Beachte: Zum Bezugszeitraum:zu Abs\. 4: vgl\. § 666 Abs\. 4\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-255-asvg--begriff-der-invalidität) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=255) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_349_TextContainer_349) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.027.md#-255-asvg--begriff-der-invalidität) \]
 
@@ -9998,6 +10054,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` § 254 Abs\. 3 bis 8 ist entsprechend anzuwenden\.
 
+> *\(Beachte: Abs\. 1 Z 1 und 2 sowie Abs\. 3: zum Bezugszeitraum vgl\. § 669 Abs\. 5\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-271-asvg--berufsunfähigkeitsrente) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=271) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_367_TextContainer_367) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.028.md#-271-asvg--berufsunfähigkeitsrente) \]
 
 ----
@@ -10094,6 +10152,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Anspruch auf Knappschaftspension ruht ab dem Tag des Anfalles einer Knappschaftsvoll\- oder Invaliditäts\- oder Berufsunfähigkeitspension nach diesem Bundesgesetz oder einer Erwerbsunfähigkeitspension nach dem GSVG oder nach dem BSVG, für die Dauer des bescheidmäßig zuerkannten Anspruches auf eine solche Leistung\. Er fällt mit dem Anfall der Alterspension weg; § 100 Abs\. 2 letzter Satz ist entsprechend anzuwenden\.
 
+> *\(Beachte: Abs\. 2: Zum Bezugszeitraum vgl\. § 669 Abs\. 5\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-277-asvg--knappschaftsrente) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=277) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_376_TextContainer_376) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.028.md#-277-asvg--knappschaftsrente) \]
 
 ----
@@ -10121,6 +10181,8 @@ Der Nationalrat hat beschlossen:
 > *\(Anm\.: Abs\. 2 aufgehoben durch BGBl\. I Nr\. 111/2010\)*
 
 > `(3)` § 254 Abs\. 3 bis 8 ist entsprechend anzuwenden\.
+
+> *\(Beachte: Abs\. 1 Z 1 und 2 sowie Abs\. 3: zum Bezugszeitraum vgl\. § 669 Abs\. 5\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-279-asvg--knappschaftsvollrente) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=279) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_378_TextContainer_378) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.028.md#-279-asvg--knappschaftsvollrente) \]
 
@@ -10637,6 +10699,8 @@ Der Nationalrat hat beschlossen:
 > `(1)` Zur Erreichung des im § 300 Abs\. 3 angestrebten Zieles dienen die Maßnahmen nach den §§ 302 bis 304\. Die Pensionsversicherungsträger gewähren diese Maßnahmen – unbeschadet der §§ 253e, 253f, 270a, 270b, 276e und 276f – nach pflichtgemäßem Ermessen\.
 
 > `(2)` Unter Berücksichtigung der Auslastung der eigenen Einrichtungen können die Pensionsversicherungsträger auch Angehörigen \(§ 123\) eines Versicherten oder eines Pensionisten oder Beziehern von Waisenpensionen \(§ 260\), die an einer körperlichen, geistigen oder psychischen Behinderung leiden, Maßnahmen der Rehabilitation gemäß § 302 Abs\. 1 Z\. 1 und § 304 gewähren; ihre Gewährung ist an die Voraussetzung geknüpft, daß ohne diese Maßnahmen dem Versicherten \(Pensionisten\) Auslagen erwachsen würden, die seine wirtschaftlichen Verhältnisse übersteigen\.
+
+> *\(Beachte: Abs\. 1: zum Bezugszeitraum vgl\. § 669 Abs\. 5\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-301-asvg--maßnahmen-der-rehabilitation) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=301) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_403_TextContainer_403) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.030.md#-301-asvg--maßnahmen-der-rehabilitation) \]
 
@@ -11185,6 +11249,8 @@ Der Nationalrat hat beschlossen:
 > `(7)` Übersteigen die Ansprüche nach Abs\. 5 die Summe der Differenzbeträge nach Abs\. 6, hat der Dachverband die betreffenden Krankenversicherungsträger aufzufordern, die entsprechenden Beträge auf das Verrechnungskonto bis 30\. November eines jeden Folgejahres einzuzahlen; er hat ferner die gemäß Abs\. 5 geltend gemachten Ansprüche nach Maßgabe der zur Verfügung stehenden Mittel aus dem Verrechnungskonto anteilig zu befriedigen\.
 
 > `(8)` Übersteigen die Differenzbeträge nach Abs\. 6 die Summe der Ansprüche nach Abs\. 5, hat der Dachverband die betreffenden Krankenversicherungsträger aufzufordern, nur die dem tatsächlichen Erfordernis entsprechend anteilig gekürzten Differenzbeträge \(Abs\. 6\) bis 30\. November eines jeden Folgejahres auf das Verrechnungskonto einzuzahlen; er hat ferner die gemäß Abs\. 5 geltend gemachten Ansprüche voll zu befriedigen\.
+
+> *\(Beachte: Abs\. 2 und 4 treten nach Ablauf von sechs Monaten nach Außerkrafttreten der Vereinbarung gemäß Art\. 15a B\-VG über die Organisation und Finanzierung des Gesundheitswesens, in der jeweils geltenden Fassung außer Kraft \(vgl\. § 675 Abs\. 3 und § 701 Abs\. 2\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-322a-asvg--belastungsausgleich-der-krankenversicherungsträger-für-den-aufwand-für-anstaltspflege) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=322a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_438_TextContainer_438) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.032.md#-322a-asvg--belastungsausgleich-der-krankenversicherungsträger-für-den-aufwand-für-anstaltspflege) \]
 
@@ -12237,6 +12303,8 @@ Der Nationalrat hat beschlossen:
 > *\(\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 >
 > *Anm\. 1: Art\. 1 Z 17 der Novelle BGBl\. I Nr\. 100/2018 wurde sinngemäß eingearbeitet\.\)*
+>
+> *\(Beachte: zum Bezugszeitraum vgl\. § 705\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-351c-asvg--aufnahme-von-arzneispezialitäten-in-den-erstattungskodex) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=351c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_494_TextContainer_494) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.036.md#-351c-asvg--aufnahme-von-arzneispezialitäten-in-den-erstattungskodex) \]
 
@@ -12590,6 +12658,8 @@ Der Nationalrat hat beschlossen:
 >
 >> `2.` das Arbeitsmarktservice zur begründeten Auffassung gelangt, dass die Realisierbarkeit beruflicher Maßnahmen der Rehabilitation nicht oder nicht mehr gegeben ist\.
 
+> *\(Beachte: Abs\. 2: Zum Bezugszeitraum vgl\. § 669 Abs\. 5\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-362-asvg--zurückweisung-von-leistungsanträgen-in-der-unfall--und-pensionsversicherung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=362) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_513_TextContainer_513) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.038.md#-362-asvg--zurückweisung-von-leistungsanträgen-in-der-unfall--und-pensionsversicherung) \]
 
 ----
@@ -12693,6 +12763,8 @@ Der Nationalrat hat beschlossen:
 >> `4.` ob Anspruch auf Rehabilitationsgeld \(§ 255b, § 273b, § 280b\) besteht oder nicht\.
 >
 > &nbsp; Die unter den Z 1 und 2 genannten Feststellungen hat der Versicherungsträger von Amts wegen zu treffen, wenn nach § 255a \(§ 273a, § 280a\) festgestellt wird, dass die Invalidität \(Berufsunfähigkeit\) voraussichtlich nicht dauerhaft vorliegt\. Bei Anspruch auf Rehabilitationsgeld können die Feststellungen nach Z 1 auch erst im Bescheid zur Entziehung des Rehabilitationsgeldes \(§ 99 Abs\. 3 Z 1 lit\. b\) erfolgen\.
+
+> *\(Beachte: Abs\. 1: zum Bezugszeitraum vgl\. § 669 Abs\. 5\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-367-asvg--bescheide-der-versicherungsträger-in-leistungssachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=367) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_519_TextContainer_519) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.038.md#-367-asvg--bescheide-der-versicherungsträger-in-leistungssachen) \]
 
@@ -13021,6 +13093,8 @@ Der Nationalrat hat beschlossen:
 > &nbsp; *\(Anm\.: Z 5 aufgehoben durch Art\. 1 Z 1, BGBl\. I Nr\. 179/2022\)*
 > *\(Anm\.: Abs\. 7 aufgehoben durch VfGH, BGBl\. I Nr\. 3/2020 und BGBl\. I Nr\. 5/2020*
 > *Abs\. 8 aufgehoben durch VfGH, BGBl\. I Nr\. 5/2020\)*
+
+> *\(Beachte: zum Bezugszeitraum vgl\. § 718 Abs\. 7a\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-420-asvg--versicherungsvertreterinnen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=420) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_540_TextContainer_540) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.040.md#-420-asvg--versicherungsvertreterinnen) \]
 
@@ -13806,6 +13880,8 @@ Der Nationalrat hat beschlossen:
 
 > `(18)` Die Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz setzt mit Verordnung für das Jahr 2020 und die folgenden Jahre jene Beträge und Aufteilungsschlüssel der §§ 149 und 447f fest, wie sie in Folge der Strukturreform der Sozialversicherungsträger durch das Bundesgesetz BGBl\. I Nr\. 100/2018 und der sich daraus ergebenden Zuordnung von Versichertengruppen, insbesondere im Zusammenhang mit der Auflösung der Betriebskrankenkassen, neu zu berechnen sind\. In der Verordnung ist festzulegen, dass die Hälfte der nach § 1a GSBG an die Sozialversicherungsanstalt der Selbständigen zugewiesenen Beihilfe für die Beiträge der Träger der Sozialversicherung zur Krankenanstaltenfinanzierung zu widmen ist, wobei gleichzeitig eine Entlastung der Österreichischen Gesundheitskasse um diese Summe zu erfolgen hat\.
 
+> *\(Beachte: Abs\. 1, 6, 14 und 16 treten nach Ablauf von sechs Monaten nach Außerkrafttreten der Vereinbarung gemäß Art\. 15a B\-VG über die Organisation und Finanzierung des Gesundheitswesens, in der jeweils geltenden Fassung außer Kraft \(vgl\. § 675 Abs\. 3 und § 701 Abs\. 2\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-447f-asvg--beiträge-der-träger-der-sozialversicherung-für-die-krankenanstaltenfinanzierung-ausgleichsfonds) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=447f) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_572_TextContainer_572) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.042.md#-447f-asvg--beiträge-der-träger-der-sozialversicherung-für-die-krankenanstaltenfinanzierung-ausgleichsfonds) \]
 
 ----
@@ -14012,6 +14088,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` Die Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz hat bis längstens 1\. April 2019 durch Verordnung für den Verwaltungsrat und die Hauptversammlung gesonderte Mustergeschäftsordnungen aufzustellen, wobei die Mustergeschäftsordnung für den Verwaltungsrat auch einen Anhang nach Abs\. 3 zu enthalten hat\. Diese Mustergeschäftsordnungen gelten so lange unmittelbar als Geschäftsordnungen für die genannten Verwaltungskörper, bis für den einzelnen Verwaltungskörper eine Geschäftsordnung nach Abs\. 1 erlassen worden ist\.
 
 > `(5)` Die Abs\. 3 und 4 sind auf die Verwaltungskörper des Dachverbandes sinngemäß anzuwenden\.
+
+> *\(Beachte: zum Bezugszeitraum vgl\. § 718 Abs\. 19\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-456a-asvg--geschäftsordnungen-der-verwaltungskörper) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=456a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_586_TextContainer_586) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.043.md#-456a-asvg--geschäftsordnungen-der-verwaltungskörper) \]
 
@@ -14315,6 +14393,8 @@ Der Nationalrat hat beschlossen:
 >> `3.` über 80% der monatlichen Höchstbeitragsgrundlage auf 9,0%\.
 >
 > &nbsp; Zu diesem Sicherungsbeitrag ist ein Zusatzbeitrag nach § 30b Abs\. 1 Z 1 zu leisten\.
+>
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 684 Abs\. 3\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-460c-asvg--sicherungsbeitrag-für-pensionen-nach-den-dienstordnungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=460c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_602_TextContainer_602) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.044.md#-460c-asvg--sicherungsbeitrag-für-pensionen-nach-den-dienstordnungen) \]
 
@@ -19948,6 +20028,8 @@ Der Nationalrat hat beschlossen:
 > `(5)` Der Richtsatz nach § 293 Abs\. 1 lit\. a sublit\. cc ist abweichend von den §§ 108 Abs\. 6 und 293 Abs\. 2 erstmals mit 1\. Jänner 2018 mit dem Anpassungsfaktor \(§ 108f\) zu vervielfachen\.
 
 > `(6)` Der Bundesminister für Arbeit, Soziales und Konsumentenschutz hat die Aufwendungen, die durch die Einführung des Richtsatzes nach § 293 Abs\. 1 lit\. a sublit\. cc entstanden sind, bis zum 31\. Dezember 2021 zu evaluieren\.
+
+> *\(Beachte: Abweichend von Abs\. 5 sind die Ausgleichszulagenrichtsätze für das Kalenderjahr 2018 nicht mit dem Anpassungsfaktor, sondern mit dem Faktor 1,022 zu vervielfachen \(vgl\. § 711 Abs\. 4\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-700-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-292017-87-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=700) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_863_TextContainer_863) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-700-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-292017-87-novelle) \]
 

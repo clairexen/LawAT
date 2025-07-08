@@ -128,6 +128,8 @@ die Unterschrift des entscheidenden Organes, bei Kollegialorganen des Vorsitzend
 `§ 70 (4) lit. f SchUG.`
 die Belehrung über die Widerspruchsmöglichkeit, wenn dem Ansuchen nicht vollinhaltlich stattgegeben wird.
 
+*(Beachte: Abs. 4 lit. e ist nach Maßgabe der technischen Möglichkeiten anzuwenden (vgl. § 82 Abs. 26))*
+
 ### § 70a SchUG # Elektronische Kommunikation
 
 `§ 70a (1) SchUG.`  
@@ -204,6 +206,8 @@ Im Falle des Abs. 2 lit. h hat die Schulbehörde erster Instanz die behauptete
 `§ 71 (9) SchUG.`  
 Gegen andere als in Abs. 1 und 2 genannte Entscheidungen von schulischen Organen ist ein Widerspruch an die zuständige Schulbehörde nicht zulässig.
 
+*(Beachte: Abs. 2 lit. h tritt ab der 10. Schulstufe schulstufenweise aufsteigend in Kraft (vgl. § 82 Abs. 18 Z 1).)*
+
 ### § 72 SchUG # Zustellung
 
 `§ 72 (1) SchUG.`  
@@ -227,6 +231,8 @@ Nachweisliche elektronische Zustellungen haben gemäß § 35 des Zustellgesetze
 
 `§ 72a (3) SchUG.`  
 Die Bundesministerin oder der Bundesminister für Bildung, Wissenschaft und Forschung ist ermächtigt, vorzusehen, dass die Echtheit der über das Bildungsportal amtssignierten Urkunden mit Hilfe eines Codes in einem Urkundenarchiv des Bildungsportals gemäß § 6e BilDokG 2020 überprüft werden kann. Personen können aus diesem Urkundenarchiv ihnen zugeordnete Urkunden auch zu einem späteren Zeitpunkt im Wege des Bildungsportals erneut übermittelt bekommen. Die näheren technischen Verfahren sind durch die Bundesministerin oder durch den Bundesminister für Bildung, Wissenschaft und Forschung im Verordnungsweg festzulegen.
+
+*(Beachte: Ist nach Maßgabe der technischen Möglichkeiten anzuwenden (vgl. § 82 Abs. 26).)*
 
 ### § 73 SchUG # Entscheidungspflicht
 
@@ -360,6 +366,8 @@ Klassenbücher einer öffentlichen Pflichtschule, die aufgelassen wird, sind von
 
 `§ 77 (6) SchUG.`  
 Nach Ablauf der Aufbewahrungsfrist gemäß Abs. 4 sind physische Aufzeichnungen zu vernichten und elektronisch gespeicherte Aufzeichnungen zu löschen.
+
+*(Beachte: Abs. 2 ist nach Maßgabe der technischen Möglichkeiten anzuwenden (vgl. § 82 Abs. 26))*
 
 ### § 77a SchUG # Formblätter und Datenmuster; Aufbewahrung von Protokollen und Aufzeichnungen
 

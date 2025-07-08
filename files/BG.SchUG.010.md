@@ -218,6 +218,8 @@ In den Angelegenheiten des Schulgemeinschaftsausschusses obliegt die Vertretung 
 `§ 64 (19) SchUG.`  
 Der zuständige Bundesminister hat durch Verordnung die näheren Bestimmungen über die Durchführung der Wahl der Mitglieder des Schulgemeinschaftsausschusses zu erlassen.
 
+*(Beachte: Findet auf abschließende Prüfungen mit Haupttermin ab dem Schuljahr 2022/23 Anwendung (vgl. § 82 Abs. 19 Z 2).)*
+
 ### § 64a SchUG # Schulclusterbeirat
 
 `§ 64a (1) SchUG.`  

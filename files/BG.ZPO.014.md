@@ -71,6 +71,8 @@ Hat der Berufungsgegner zuvor schon eine Berufungsbeantwortung überreicht, so i
 `§ 473a (5) ZPO.`  
 Das Berufungsgericht kann auch in nicht öffentlicher Sitzung und ohne vorhergehende mündliche Verhandlung eine Mitteilung an den Berufungsgegner nach Abs. 1 beschließen und die erforderlichen Anordnungen treffen.
 
+*(Beachte: Ist anzuwenden, wenn das Datum der Entscheidung erster Instanz nach dem 30. April 2011 liegt (vgl. Art. 39 Abs. 8, BGBl. I Nr. 111/2010).)*
+
 ### § 474 ZPO
 
 `§ 474 (1) ZPO.`  
@@ -92,6 +94,8 @@ Wurde jedoch in erster Instanz mit Unrecht die sachliche oder örtliche Zuständ
 
 `§ 475 (3) ZPO.`  
 Wurde vom Gerichte erster Instanz auf die Streitanhängigkeit mit Unrecht keine Rücksicht genommen oder der Antrag, die Klage ohne Verhandlung zur Hauptsache zurückzuweisen, weil über den Klagsanspruch schon rechtskräftig entschieden sei, unrichtiger Weise verworfen, so ist die Klage unter Aufhebung des ergangenen erstrichterlichen Urtheiles vom Berufungsgerichte zurückzuweisen.
+
+*(Beachte: Nach Art. XXXII Z 8 WGN 1997, BGBl. I Nr. 140/1997, ist die Neufassung der Abs. 1 und 2 auf Verfahren anzuwenden, in denen die Klagen oder verfahrenseinleitenden Anträge bei Gericht nach dem 31. Dezember 1997 angebracht werden.)*
 
 ### § 476 ZPO
 
@@ -129,6 +133,8 @@ Eine nachträgliche Genehmigung der Processführung (Z 5) liegt insbesondere da
 
 `§ 477 (3) ZPO.`  
 Die Nichtigkeit nach Abs. 1 Z 2 liegt nicht vor, wenn an Stelle des Einzelrichters ein Senat entschieden hat.
+
+*(Beachte: Nach Art. XXXII Z 8 WGN 1997, BGBl. I Nr. 140/1997, ist die Neufassung des Abs. 1 Z 3 auf Verfahren anzuwenden, in denen die Klagen oder verfahrenseinleitenden Anträge bei Gericht nach dem 31. Dezember 1997 angebracht werden.)*
 
 ### § 478 ZPO
 

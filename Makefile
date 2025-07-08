@@ -66,7 +66,6 @@ deploy:
 
 purge:
 	rm -rf .venv __pycache__/ __ghpages__/ __rismarkup__/ __webcache__/
-	rm -rf code/lawdoc.json code/RisEnQuery.py code/LawAT_DataSet.json
-	rm -rf LawAT_DataSet.json LawAT_DataSet.zip
+	rm -rf code/__pycache__/ LawAT_DataSet.json LawAT_DataSet.zip lawdoc.json
 
 .PHONY: help venv zip json update check-markup mitmp webapp deploy purge

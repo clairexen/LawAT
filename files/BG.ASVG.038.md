@@ -63,6 +63,8 @@ die Realisierbarkeit medizinischer Maßnahmen der Rehabilitation nicht oder nich
 `§ 362 (4) Z 2 ASVG.`
 das Arbeitsmarktservice zur begründeten Auffassung gelangt, dass die Realisierbarkeit beruflicher Maßnahmen der Rehabilitation nicht oder nicht mehr gegeben ist.
 
+*(Beachte: Abs. 2: Zum Bezugszeitraum vgl. § 669 Abs. 5.)*
+
 ### § 362a ASVG # Feststellung des Sachverhaltes
 
 `§ 362a (1) ASVG.`  
@@ -156,6 +158,8 @@ ob die Invalidität (Berufsunfähigkeit) voraussichtlich mindestens sechs Monate
 `§ 367 (4) Z 4 ASVG.`
 ob Anspruch auf Rehabilitationsgeld (§ 255b, § 273b, § 280b) besteht oder nicht.  
 Die unter den Z 1 und 2 genannten Feststellungen hat der Versicherungsträger von Amts wegen zu treffen, wenn nach § 255a (§ 273a, § 280a) festgestellt wird, dass die Invalidität (Berufsunfähigkeit) voraussichtlich nicht dauerhaft vorliegt. Bei Anspruch auf Rehabilitationsgeld können die Feststellungen nach Z 1 auch erst im Bescheid zur Entziehung des Rehabilitationsgeldes (§ 99 Abs. 3 Z 1 lit. b) erfolgen.
+
+*(Beachte: Abs. 1: zum Bezugszeitraum vgl. § 669 Abs. 5)*
 
 ### § 367a ASVG # Widerspruch gegen Bescheide über die Feststellung der Kontoerstgutschrift (Ergänzungsgutschrift) nach § 15 APG
 

@@ -44,6 +44,8 @@ Der Beschluss nach Abs. 1 ist dem betreibenden Gläubiger, dem Verpflichteten, 
 `§ 99 (3) EO.`  
 Kommt der Verpflichtete dem Auftrag nach Abs. 2 nicht nach, so kann das Exekutionsgericht auf Ersuchen des Verwalters anordnen, dass die Liegenschaft dem Verwalter durch das Vollstreckungsorgan zur Verwaltung und Einziehung der Erträgnisse übergeben wird.
 
+*(Beachte: Ist anzuwenden, wenn der Exekutionsantrag nach dem 29. Februar 2008 bei Gericht einlangt (vgl. § 410 Abs. 3).)*
+
 ### § 99a EO # Bekanntmachung der Enthebung und der Bestellung eines anderen Verwalters
 
 `§ 99a EO.`  
@@ -136,6 +138,8 @@ Der Zwangsverwalter ist kraft seiner Bestellung befugt, alle Nutzungen und Eink�
 
 `§ 110 EO.`  
 Der Verwalter hat dritte Personen, denen Leistungen an den Verpflichteten obliegen, die sich als Einkünfte der verwalteten Liegenschaft darstellen, unter Anschluss einer Ausfertigung der Bestellungsurkunde aufzufordern, diese an den Verwalter zu entrichten. Nach der Aufforderung des Verwalters, Zahlungen nur an ihn zu leisten, können diese nicht mehr gültig an den Verpflichteten leisten. Hierauf ist in der Aufforderung hinzuweisen. Bei früheren Zahlungen einer Schuld an den Verpflichteten wird der Dritte befreit, außer der Zwangsverwalter beweist, dass dem Dritten zur Zeit der Zahlung die Zwangsverwaltung bekannt war.
+
+*(Beachte: Ist anzuwenden, wenn der Exekutionsantrag nach dem 29. Februar 2008 bei Gericht einlangt (vgl. § 410 Abs. 3).)*
 
 ### § 111 EO # Miet- und Pachtverträge
 

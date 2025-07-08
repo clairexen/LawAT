@@ -19,6 +19,8 @@
 `§ 37 AVG.`  
 Zweck des Ermittlungsverfahrens ist, den für die Erledigung einer Verwaltungssache maßgebenden Sachverhalt festzustellen und den Parteien Gelegenheit zur Geltendmachung ihrer Rechte und rechtlichen Interessen zu geben. Nach einer Antragsänderung (§ 13 Abs. 8) hat die Behörde das Ermittlungsverfahren insoweit zu ergänzen, als dies im Hinblick auf seinen Zweck notwendig ist.
 
+*(Beachte: [CELEX-Nr.: 32021L1883])*
+
 ### § 38 AVG
 
 `§ 38 AVG.`  

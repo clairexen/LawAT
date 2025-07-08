@@ -52,6 +52,8 @@ Der im Beglaubigungsarchiv der Justiz gespeicherte Dateninhalt gilt bis zum Nach
 `§ 91b (8) GOG.`  
 Für die durch den Einsatz der automationsunterstützten Datenverarbeitung verursachten Schäden aus Fehlern bei der Führung des Beglaubigungsarchivs der Justiz haftet der Bund. Die Haftung ist ausgeschlossen, wenn der Schaden durch ein unabwendbares Ereignis verursacht wird, das weder auf einem Fehler in der Beschaffenheit noch auf einem Versagen der Mittel der automationsunterstützten Datenverarbeitung beruht. Die Haftung ist auch für Fehler ausgeschlossen, die auf den Inhalt und die Beschaffenheit der Urkunde selbst zurückgehen. Im Übrigen ist das Amtshaftungsgesetz, BGBl. Nr. 20/1949, anzuwenden.
 
+*(Beachte: Abs. 1 ist nach Maßgabe der personellen und technischen Möglichkeiten anzuwenden (vgl. Art. XIII § 16, BGBl. I Nr. 164/2005).)*
+
 ### § 91c GOG # Urkundenarchive von Körperschaften öffentlichen Rechts
 
 `§ 91c (1) GOG.`  
@@ -76,6 +78,8 @@ Die Führung des Justizarchivs und der Archive nach § 91c erfolgt in Vollziehu
 
 `§ 91d (3) GOG.`  
 Zur Einrichtung und Führung der Datenbanken der Archive dürfen Auftragsverarbeiter in Anspruch genommen werden, wenn diese ausreichende Gewähr für eine rechtmäßige und sichere Datenverwendung bieten.
+
+*(Beachte: Abs. 1 ist nach Maßgabe der personellen und technischen Möglichkeiten anzuwenden (vgl. Art. XIII § 16, BGBl. I Nr. 164/2005).)*
 
 ## Sechster Abschnitt.
 

@@ -116,6 +116,8 @@ Die Personalakten der Generalprokuratur sind nach 50 Jahren, alle sonstigen Behe
 `Art. 1 § 51 (2) DV-StAG.`  
 § 28 gilt mit der Maßgabe sinngemäß, daß die in § 50 Z 1 bis 3 und 5 angeführten Register dauernd aufzubewahren sind.
 
+*(Beachte: Inkrafttretensdatum des Abs. 1: 1986/07/01 (s. § 53 Abs. 1).)*
+
 ### Art. 1 § 52 DV-StAG # Bedarfsnachweis
 
 `Art. 1 § 52 DV-StAG.`  

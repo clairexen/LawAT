@@ -324,6 +324,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 8a JN
 
 > Bei den Landes\- und Handelsgerichten sowie den Oberlandesgerichten entscheidet über Rechtsmittel gegen Entscheidungen über die Gebühren der Sachverständigen und Dolmetscher der Einzelrichter\.
+>
+> *\(Beachte: Ist anzuwenden, wenn das Datum der Entscheidung erster Instanz nach dem 30\. April 2011 liegt \(vgl\. Art\. 39 Abs\. 8, BGBl\. I Nr\. 111/2010\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-8a-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=8a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.001.md#-8a-jn) \]
 
@@ -418,6 +420,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Auf Rechtsverletzungen nach den Bestimmungen des Gesetzes vom 12\. Juli 1872, R\. G\. Bl\. Nr\. 112, die vor dem Wirksamkeitsbeginn dieses Gesetzes begangen wurden, wegen deren aber ein Verfahren noch nicht anhängig ist, finden die Bestimmungen dieses Bundesgesetzes Anwendung\.
 
 > `(3)` An Stelle der in anderen Gesetzen enthaltenen Hinweise auf das Gesetz vom 12\. Juli 1872, R\. G\. Bl\. Nr\. 112, treten die entsprechenden Bestimmungen dieses Bundesgesetzes\.
+
+> *\(Beachte: Die Aufhebung des § 80 JN durch § 15 BGBl\. Nr\. 20/1949\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-16-jn--anm-aus-bgbl-nr-201949-zu-rgbl-nr-1111895) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=16) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_159_TextContainer_159) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.001.md#-16-jn--anm-aus-bgbl-nr-201949-zu-rgbl-nr-1111895) \]
 
@@ -591,6 +595,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Der Abs\. 1 gilt nicht, soweit nach Völkerrecht zur Gänze oder zum Teil ausdrücklich anderes bestimmt ist\.
 
+> *\(Beachte: Nach Art\. XXXII Z 8 WGN 1997, BGBl\. I Nr\. 140/1997, ist die Neufassung auf Verfahren anzuwenden, in denen die Klagen oder verfahrenseinleitenden Anträge bei Gericht nach dem 31\. Dezember 1997 angebracht werden\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-27a-jn--inländische-gerichtsbarkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=27a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.001.md#-27a-jn--inländische-gerichtsbarkeit) \]
 
 ----
@@ -611,6 +617,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Die Bestimmung eines zuständigen Gerichts hat in streitigen bürgerlichen Rechtssachen auf Antrag einer Partei, sonst aber von Amts wegen zu geschehen\. In streitigen bürgerlichen Rechtssachen hat der Kläger das Vorliegen der Voraussetzungen nach Abs\. 1 Z 2 oder 3 zu behaupten und zu bescheinigen\.
 
+> *\(Beachte: Nach Art\. XXXII Z 8 WGN 1997, BGBl\. I Nr\. 140/1997, ist die Neufassung auf Verfahren anzuwenden, in denen die Klagen oder verfahrenseinleitenden Anträge bei Gericht nach dem 31\. Dezember 1997 angebracht werden\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-28-jn--bestimmung-der-zuständigkeit-durch-den-obersten-gerichtshof) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=28) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.001.md#-28-jn--bestimmung-der-zuständigkeit-durch-den-obersten-gerichtshof) \]
 
 ----
@@ -620,6 +628,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 29 JN
 
 > Jedes Gericht bleibt in Rechtssachen, welche rechtmäßigerweise bei demselben anhängig gemacht wurden, bis zu deren Beendigung zuständig, wenn sich auch die Umstände, welche bei Einleitung des Verfahrens für die Bestimmung der Zuständigkeit maßgebend waren, während des Verfahrens geändert hätten\. Dies gilt jedoch nicht von solchen Änderungen, auf Grund derer Personen Immunität genießen oder die Rechtssache dem Wirkungskreis der ordentlichen Gerichte entzogen ist\.
+>
+> *\(Beachte: Nach Art\. XXXII Z 8 WGN 1997, BGBl\. I Nr\. 140/1997, ist die Neufassung des zweiten Satzes auf Verfahren anzuwenden, in denen die Klagen oder verfahrenseinleitenden Anträge bei Gericht nach dem 31\. Dezember 1997 angebracht werden\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-29-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=29) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.001.md#-29-jn) \]
 
@@ -669,6 +679,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Das gilt auch, wenn gerichtliche Amtshandlungen gegen Personen, die der inländischen Gerichtsbarkeit unterliegen, in den Wohnungen von Personen vorzunehmen sind, die Immunität genießen\.
 
+> *\(Beachte: Nach Art\. XXXII Z 8 WGN 1997, BGBl\. I Nr\. 140/1997, ist die Neufassung der Abs\. 3 und 4 auf Verfahren anzuwenden, in denen die Klagen oder verfahrenseinleitenden Anträge bei Gericht nach dem 31\. Dezember 1997 angebracht werden\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-32-jn--beschränkung-der-zuständigkeit-auf-den-gerichtsbezirk) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=32) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_35_TextContainer_35) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.001.md#-32-jn--beschränkung-der-zuständigkeit-auf-den-gerichtsbezirk) \]
 
 ----
@@ -689,7 +701,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Die Übertragung gerichtlicher Handlungen an ein Mitglied des Senates oder des zuständigen Gerichtshofes steht, wenn nicht durch die hierauf bezüglichen Vorschriften etwas anderes angeordnet oder insbesondere der Vorsitzende hiezu ermächtigt ist, nur dem zur Verhandlung und Entscheidung der Rechtssache berufenen Senate zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-34-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=34) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_37_TextContainer_37) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.001.md#-34-jn) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-34-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=34) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_37_TextContainer_37) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.002.md#-34-jn) \]
 
 ----
 
@@ -699,7 +711,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Beschlüsse eines beauftragten Richters können, sofern im Gesetze nichts anderes bestimmt ist, von dem Gerichte, welches den Auftrag ertheilt hat, auf Antrag oder von amtswegen abgeändert werden\. Vor der Entscheidung sind die zur Aufklärung des Sachverhaltes erforderlichen Erhebungen zu pflegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-35-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=35) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.001.md#-35-jn) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-35-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=35) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.002.md#-35-jn) \]
 
 ----
 
@@ -712,6 +724,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Die Übertragung des Vollzuges von Amtshandlungen an ein anderes Gericht \(ersuchter Richter\) geschieht durch ein an dasselbe gestelltes Ersuchen\. Wird ein ausländisches Gericht ersucht, so sind dabei die besonderen hierauf bezüglichen Anordnungen \(Staatsverträge, Regierungserklärungen, Ministerialverordnungen\) zu beobachten\.
 
 > `(3)` Um die Aufnahme eines Beweises darf ein Landes\- oder Handelsgericht ein Bezirksgericht seines Sprengels nur dann ersuchen, wenn der Aufnahme des Beweises durch das erkennende Gericht unübersteigliche Hindernisse entgegenstehen oder sie unverhältnismäßige Kosten verursachen würde\.
+
+> *\(Beachte: Es gibt keine Seegerichte mehr: siehe insbesondere Art\. II Z 1, 1a und 2 BGBl\. Nr\. 135/1983\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-36-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=36) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_39_TextContainer_39) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.002.md#-36-jn) \]
 
@@ -843,6 +857,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Die Bestimmungen des Absatzes 1 und 3 haben auch Anwendung zu finden, wenn eine Angelegenheit, welche einen Gegenstand der freiwilligen Gerichtsbarkeit nicht bildet, im Verfahren außer Streitsachen bei Gericht anhängig gemacht wurde\.
 
+> *\(Beachte: Nach Art\. XXXII Z 8 WGN 1997, BGBl\. I Nr\. 140/1997, ist die Neufassung des Abs\. 1 erster Satz und des Abs\. 2 auf Verfahren anzuwenden, in denen die Klagen oder verfahrenseinleitenden Anträge bei Gericht nach dem 31\. Dezember 1997 angebracht werden\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-42-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=42) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_48_TextContainer_48) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.002.md#-42-jn) \]
 
 ----
@@ -954,6 +970,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(4)` Zum Wirkungskreise der Bezirksgerichte gehören auch die Verfügungen über gerichtliche Aufkündigungen von Bestandverträgen über die in Z 5 bezeichneten Gegenstände, die Erlassung von Aufträgen zur Übernahme solcher Bestandgegenstände und die Aufnahme der Seeverklarung\.
 > *\(Anm\.: Abs\. 5 idF des Art\. IV Z 3 BGBl\. Nr\. 280/1978 aufgehoben durch Art\. I, Z 1, lit\. e, BGBl\. Nr\. 70/1985\.\)*
 
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2014 bei Gericht angebracht wird \(vgl\. Z 3, BGBl\. I Nr\. 78/2014\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-49-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=49) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_54_TextContainer_54) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.002.md#-49-jn) \]
 
 ----
@@ -1002,6 +1020,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Wo ein selbständiges Handelsgericht nicht besteht, wird die Gerichtsbarkeit in allen vorgenannten Rechtsstreitigkeiten durch die Handelssenate der Landesgerichte ausgeübt\.
 
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2014 bei Gericht angebracht wird \(vgl\. Z 3, BGBl\. I Nr\. 78/2014\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-51-jn--handelsgerichte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=51) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.002.md#-51-jn--handelsgerichte) \]
 
 ----
@@ -1011,6 +1031,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(1)` An Orten, an denen ein selbständiges Handelsgericht und Bezirksgerichte für Handelssachen bestehen, gehören die im § 51 Abs\. 1 angeführten Streitigkeiten, bei denen der Streitgegenstand an Geld oder Geldeswert die Summe von 15 000 Euro nicht übersteigt, vor die Bezirksgerichte für Handelssachen\.
 
 > `(2)` Im gleichen Umfange sind die etwa an anderen Orten bestehenden besonderen Bezirksgerichte für Handelssachen zur Ausübung der Gerichtsbarkeit in Streitsachen zuständig\.
+
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2014 bei Gericht angebracht wird \(vgl\. Z 3, BGBl\. I Nr\. 78/2014\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-52-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=52) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.002.md#-52-jn) \]
 
@@ -1032,7 +1054,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Zuwachs, Früchte, Zinsen, Schäden und Kosten, die als Nebenforderungen geltend gemacht werden, bleiben bei der Wertberechnung unberücksichtigt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-54-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=54) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_59_TextContainer_59) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.002.md#-54-jn) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-54-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=54) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_59_TextContainer_59) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.003.md#-54-jn) \]
 
 ----
 
@@ -1050,7 +1072,9 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Die Abs\. 1 bis 3 sind auch für die Besetzung des Gerichts \(§ 7a\), die Zulässigkeit von Rechtsmitteln und die Berufungsgründe \(§ 501 ZPO\) maßgebend\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-55-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=55) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.002.md#-55-jn) \]
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2004 bei Gericht eingelangt ist \(vgl\. Art\. XVI Abs\. 2, BGBl\. I Nr\. 128/2004\)\.\)*
+
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-55-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=55) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.003.md#-55-jn) \]
 
 ----
 
@@ -1062,7 +1086,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(3)` Bei der Bewertung des Streitgegenstandes sind die dem Kläger etwa obliegenden Gegenleistungen nicht in Abzug zu bringen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-56-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=56) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.002.md#-56-jn) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-56-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=56) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.003.md#-56-jn) \]
 
 ----
 
@@ -1070,7 +1094,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Bei Streitigkeiten, welche nur die Sicherstellung einer Forderung oder ein Pfandrecht zum Gegenstande haben, ist der Betrag der Forderung, oder wenn der Pfandgegenstand einen geringeren Wert hat, dessen Wert für die Bewertung des Streitgegenstandes maßgebend\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-57-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=57) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.002.md#-57-jn) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-57-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=57) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.003.md#-57-jn) \]
 
 ----
 
@@ -1080,7 +1104,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(2)` Ist das Bestehen eines Pacht\- oder Mietverhältnisses streitig, so ist der Betrag des auf die gesammte streitige Zeit fallenden Zinses der Bewertung zugrunde zu legen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-58-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=58) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.002.md#-58-jn) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-58-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=58) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.003.md#-58-jn) \]
 
 ----
 
@@ -1088,7 +1112,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Bei Klagen auf Vornahme von Arbeiten oder anderen persönlichen Leistungen, auf Duldung oder Unterlassung, auf Abgabe von Willenserklärungen ist die vom Kläger angegebene Höhe seines Interesses als Wert des Streitgegenstandes anzusehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-59-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=59) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_64_TextContainer_64) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.002.md#-59-jn) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-59-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=59) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_64_TextContainer_64) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.003.md#-59-jn) \]
 
 ----
 
@@ -1096,7 +1120,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > Bei Klagen auf Unterlassung nach § 549 ZPO gilt der Betrag von 5 000 Euro als Streitwert\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-59a-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=59a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_65_TextContainer_65) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.002.md#-59a-jn) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-59a-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=59a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_65_TextContainer_65) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.003.md#-59a-jn) \]
 
 ----
 
@@ -1110,7 +1134,7 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 
 > `(4)` Außer dem in Absatz 1 bezeichneten Falle ist die in der Klage enthaltene Bewertung des Streitgegenstandes in Ansehung der Zuständigkeit und der Besetzung des Gerichtes \(§ 7a\) sowohl für das Gericht als für den Gegner bindend\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-60-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=60) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_66_TextContainer_66) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.002.md#-60-jn) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-60-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=60) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_66_TextContainer_66) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.003.md#-60-jn) \]
 
 ----
 
@@ -1123,6 +1147,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Dasselbe kann vermittels Ersatzes des fachmännischen Beisitzers durch einen richterlichen Beamten geschehen, wenn die Unzuständigkeit des Handelssenates deshalb behauptet wird, weil die Rechtssache zur allgemeinen Gerichtsbarkeit gehört\.
 
 > `(3)` Die Entscheidung über die Einrede der Unzuständigkeit ist in diesen Fällen nicht besonders auszufertigen, sondern in die nach Schluss der Verhandlung zur Hauptsache ergehende Entscheidung aufzunehmen\.
+
+> *\(Beachte: Die Berggerichtsbarkeit wurde u\. a\. durch Art\. II Z 5, 28 und 29 BGBl\. Nr\. 135/1983 aufgehoben, daher ist insoweit der Überschrift \(bergrechtliche Senate\) materiell derogiert\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-61-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=61) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_67_TextContainer_67) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.003.md#-61-jn) \]
 
@@ -1205,6 +1231,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 69 JN
 
 > Österreichische Staatsangehörige, welche sich in ständiger amtlicher Stellung als Beamte oder Diener des österreichischen Staates oder der österreichisch\-ungarischen Monarchie außerhalb des Geltungsgebietes dieses Gesetzes aufhalten, behalten den allgemeinen Gerichtsstand, den sie im Geltungsgebiete dieses Gesetzes hatten\. Ist ein solcher nicht begründet oder doch nicht zu ermitteln, so ist für sie der allgemeine Gerichtsstand in Wien, und zwar im Sprengel desjenigen Bezirksgerichtes begründet, in welchem das k\. und k\. Ministerium des Äußeren seinen Sitz hat\.
+>
+> *\(Beachte: 1\. Österreichisch\-ungarische Monarchie gegenstandslos;2\. Statt des k\. und k\. Ministeriums des Äußeren ist der Sitz des Bundesministeriums f\. auswärtige Angelegenheiten maßgebend; es ist sohin das Bezirksgericht Innere Stadt Wien zuständig\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-69-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=69) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_75_TextContainer_75) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.003.md#-69-jn) \]
 
@@ -1293,6 +1321,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(1)` Klagen gegen Personen, die bei dem nach den Bestimmungen über die sachliche und örtliche Zuständigkeit zur Verhandlung und Entscheidung berufenen Bezirksgerichte als Einzelrichter in Verwendung stehen, gehören vor das Landesgericht, in dessen Sprengel sich das Bezirksgericht befindet\. Klagen gegen den Vorsteher eines Gerichtshofes erster Instanz, welche vor diesen Gerichtshof oder vor ein im Sprengel desselben gelegenes Bezirksgericht gehören würden, sind bei einem der Gerichtshöfe erster Instanz anzubringen, deren Sprengel an den jenes ersten Gerichtshofes unmittelbar angrenzt\.
 
 > `(2)` Dieselben Vorschriften haben zur Anwendung zu kommen, wenn ein Einzelrichter eine Klage erhebt, für welche an sich das Bezirksgericht, bei dem er zur Zeit thätig ist, zuständig wäre, oder wenn der Vorsteher eines Gerichtshofes erster Instanz in einer Rechtssache als Kläger auftritt, welche durch die Bestimmungen dieses Gesetzes dem Gerichtshofe, dem er vorsteht, oder einem Bezirksgerichte im Gerichtshofsprengel zugewiesen ist\.
+
+> *\(Beachte: Art\. XIV EGJN, RGBl\. Nr\. 110/1895\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-79-jn--klagen-von-richtern-und-gegen-richter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=79) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_83_TextContainer_83) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.003.md#-79-jn--klagen-von-richtern-und-gegen-richter) \]
 
@@ -1553,6 +1583,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 ### § 101 JN — Klagen aus CMR
 
 > Für Rechtstreitigkeiten aus einer Beförderung, die dem Übereinkommen vom 19\. Mai 1956 über den Beförderungsvertrag im Internationalen Straßengüterverkehr \(CMR\) unterliegt, ist auch das Gericht zuständig, in dessen Sprengel der Ort der Übernahme des Gutes oder der für die Ablieferung des Gutes vorgesehene Ort liegt\.
+>
+> *\(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31\. Dezember 2004 bei Gericht eingelangt ist \(vgl\. Art\. XVI Abs\. 2, BGBl\. I Nr\. 128/2004\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-101-jn--klagen-aus-cmr) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=101) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_110_TextContainer_110) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.004.md#-101-jn--klagen-aus-cmr) \]
 
@@ -1605,6 +1637,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(4)` In Rechtssachen nach den §§ 81, 83, 83b und 92b kann die inländische Gerichtsbarkeit nach den Abs\. 1 oder 3 nicht begründet werden\.
 
 > `(5)` Die Abs\. 1 bis 4 sind insoweit zur Gänze oder zum Teil nicht anzuwenden, als nach Völkerrecht oder besonderen gesetzlichen Anordnungen ausdrücklich anderes bestimmt ist\.
+
+> *\(Beachte: Nach Art\. XXXII Z 8 WGN 1997, BGBl\. I Nr\. 140/1997, ist die Neufassung der Abs\. 1, 3, 4 und 5 auf Verfahren anzuwenden, in denen die Klagen oder verfahrenseinleitenden Anträge bei Gericht nach dem 31\. Dezember 1997 angebracht werden\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-104-jn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=104) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_114_TextContainer_114) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.004.md#-104-jn) \]
 
@@ -1659,6 +1693,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Solange ein Abstammungsverfahren von einem Gericht geführt wird, ist dieses auch für weitere, das gleiche Kind betreffende Abstammungsverfahren zuständig\.
 
 > `(3)` Die inländische Gerichtsbarkeit für die im Abs\. 1 genannten Angelegenheiten ist gegeben, wenn das Kind, der festgestellte oder festzustellende Vater oder die Mutter des Kindes österreichischer Staatsbürger ist oder das Kind oder der festgestellte oder festzustellende Vater seinen gewöhnlichen Aufenthalt im Inland hat\.
+
+> *\(Beachte: Ist anzuwenden, wenn der verfahrenseinleitende Antrag nach dem 31\. Dezember 2004 eingebracht wurde \(vgl\. Art\. XXXII § 3 Abs\. 1, BGBl\. I Nr\. 112/2003\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-108-jn--abstammung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=108) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_119_TextContainer_119) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.005.md#-108-jn--abstammung) \]
 
@@ -1771,6 +1807,8 @@ Mit Zustimmung beider Häuser des Reichsrathes finde Ich anzuordnen, wie folgt:
 > `(2)` Für gesetzliche Unterhaltsansprüche sonstiger in gerader Linie verwandter Personen ist das Gericht zuständig, in dessen Sprengel der Unterhaltsberechtigte seinen allgemeinen Gerichtsstand in Streitsachen hat, mangels eines solchen im Inland das Gericht, in dessen Sprengel der in Anspruch Genommene seinen allgemeinen Gerichtsstand in Streitsachen hat\.
 
 > `(3)` Zur Entscheidung über sonstige aus dem Verhältnis zwischen Kindern und Eltern entspringende Ansprüche ist das Gericht zuständig, in dessen Sprengel das Kind seinen allgemeinen Gerichtsstand in Streitsachen hat, mangels eines solchen im Inland das Gericht, in dessen Sprengel der in Anspruch Genommene seinen allgemeinen Gerichtsstand in Streitsachen hat\.
+
+> *\(Beachte: Ist anzuwenden, wenn der verfahrenseinleitende Antrag nach dem 31\. Dezember 2004 eingebracht wurde \(vgl\. Art\. XXXII § 3 Abs\. 1, BGBl\. I Nr\. 112/2003\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.md#-114-jn--unterhalt-und-sonstige-aus-dem-verhältnis-zwischen-kindern-und-eltern-entspringende-ansprüche) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697&Paragraf=114) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_129_TextContainer_129) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.JN.005.md#-114-jn--unterhalt-und-sonstige-aus-dem-verhältnis-zwischen-kindern-und-eltern-entspringende-ansprüche) \]
 

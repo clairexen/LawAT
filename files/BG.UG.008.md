@@ -99,6 +99,8 @@ Bei Vorliegen einer Vereinbarung gemäß Abs. 1 hat der Senat im Sinne des § 
 `§ 54d (3) UG.`  
 Wenn die beteiligten Bildungseinrichtungen beschließen, die Durchführung eines gemeinsamen Studienprogrammes zu beenden, haben sie Vorsorge zu treffen, dass Studierenden der Abschluss des Studiums innerhalb einer angemessenen Frist, die jedenfalls die Studiendauer zuzüglich zweier Semester zu umfassen hat, möglich ist.
 
+*(Beachte: Ist in dieser Fassung ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme-, Eignungs- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden (vgl. § 143 Abs. 76).)*
+
 ### § 54e UG # Gemeinsam eingerichtete Studien
 
 `§ 54e (1) UG.`  
@@ -128,10 +130,14 @@ Wird ein Studium gemeinsam mit einer Pädagogischen Hochschule eingerichtet, kö
 `§ 54e (9) UG.`  
 Wenn die beteiligten Bildungseinrichtungen beschließen, die Durchführung eines gemeinsam eingerichteten Studiums zu beenden, haben sie Vorsorge zu treffen, dass Studierenden der Abschluss des Studiums innerhalb einer angemessenen Frist, die jedenfalls die Studiendauer zuzüglich zweier Semester zu umfassen hat, möglich ist.
 
+*(Beachte: Zu Abs. 3 und 9: sind in dieser Fassung ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme-, Eignungs- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden (vgl. § 143 Abs. 76).)*
+
 ### § 54f UG # Studien im Ausland
 
 `§ 54f UG.`  
 Die Universitäten sind berechtigt, Studien zur Gänze oder zum Teil im Ausland durchzuführen, sofern der Lehr- und Forschungsbetrieb der betreffenden Universität hierdurch nicht beeinträchtigt wird und dies in der Leistungsvereinbarung festgelegt wurde.
+
+*(Beachte: Ist ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme-, Eignungs- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden (vgl. § 143 Abs. 76).)*
 
 ### § 55 UG # Individuelles Studium
 

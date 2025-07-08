@@ -152,6 +152,8 @@ bis zur Höhe von 50% der monatlichen Höchstbeitragsgrundlage auf 3,3%,
 über 80% der monatlichen Höchstbeitragsgrundlage auf 9,0%.  
 Zu diesem Sicherungsbeitrag ist ein Zusatzbeitrag nach § 30b Abs. 1 Z 1 zu leisten.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 684 Abs. 3.)*
+
 ## ABSCHNITT X
 
 ### § 460d ASVG # Elektronische Datenverarbeitung

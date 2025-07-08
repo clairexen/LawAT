@@ -31,6 +31,8 @@ Das Ausmaß der Kapitalbeteiligung der Gesellschafter an der Gesellschaft bestim
 `§ 1182 (3) ABGB.`  
 Der Beitrag eines Gesellschafters kann sich auch auf die Leistung von Diensten beschränken (Arbeitsgesellschafter). Einem solchen Gesellschafter kann im Gesellschaftsvertrag eine Beteiligungsquote zuerkannt werden, so als ob er einen Kapitalanteil geleistet hätte. Andernfalls steht ihm für seine Mitwirkung bloß ein angemessener Betrag des Jahresgewinns zu (§ 1195 Abs. 4).
 
+*(Beachte: Zum Geltungsbereich vgl. § 1503 Abs. 5.)*
+
 ### § 1183 ABGB # Verzinsungspflicht
 
 `§ 1183 (1) ABGB.`  
@@ -39,6 +41,8 @@ Ein Gesellschafter, der seine Geldeinlage nicht zur rechten Zeit einzahlt, einge
 `§ 1183 (2) ABGB.`  
 Die Geltendmachung eines weiteren Schadens ist nicht ausgeschlossen.
 
+*(Beachte: Zum Geltungsbereich vgl. § 1503 Abs. 5.)*
+
 ### § 1184 ABGB # Nachschuss
 
 `§ 1184 (1) ABGB.`  
@@ -46,6 +50,8 @@ Die Gesellschafter sind nicht verpflichtet, Nachschüsse zur vertraglich zugesag
 
 `§ 1184 (2) ABGB.`  
 Auch ohne Vereinbarung im Gesellschaftsvertrag können die Gesellschafter mit Stimmenmehrheit (§ 1192 Abs. 2) die Leistung von Nachschüssen im Verhältnis ihrer Kapitalanteile beschließen, wenn die Fortführung der Gesellschaft sonst nicht möglich wäre. Ein Gesellschafter, der dem Beschluss nicht zugestimmt hat und den Nachschuss nicht leistet, kann innerhalb angemessener Frist aus der Gesellschaft austreten oder aufgrund einer Klage der übrigen Gesellschafter vom Gericht aus der Gesellschaft ausgeschlossen werden. Auf das Austrittsrecht kann im Vorhinein nicht verzichtet werden. Für die Auseinandersetzung mit dem ausgetretenen oder ausgeschlossenen Gesellschafter und für die Ermittlung seiner Beteiligung an schwebenden Geschäften ist der Zeitpunkt der Beschlussfassung über die Nachschusspflicht maßgeblich.
+
+*(Beachte: Zum Geltungsbereich vgl. § 1503 Abs. 5.)*
 
 ### § 1185 ABGB # Ersatz für Aufwendungen und Verluste, Herausgabepflicht
 
@@ -58,6 +64,8 @@ Für die Aufwendungen, die zur Erledigung der Gesellschaftsangelegenheiten nöti
 `§ 1185 (3) ABGB.`  
 Ein Gesellschafter hat alles, was er zur Führung der Geschäfte erhält und was er aus der Geschäftsführung erlangt, an das Gesellschaftsvermögen abzuführen.
 
+*(Beachte: Zum Geltungsbereich vgl. § 1503 Abs. 5.)*
+
 ### § 1186 ABGB # Mitwirkung, Interessenwahrung und Gleichbehandlung
 
 `§ 1186 (1) ABGB.`  
@@ -66,15 +74,21 @@ Die Gesellschafter haben an der gesellschaftlichen Willensbildung und den zu tre
 `§ 1186 (2) ABGB.`  
 Die Gesellschafter sind unter gleichen Voraussetzungen gleich zu behandeln.
 
+*(Beachte: Zum Geltungsbereich vgl. § 1503 Abs. 5.)*
+
 ### § 1187 ABGB # Verbot schädlicher Nebengeschäfte
 
 `§ 1187 ABGB.`  
 Die Gesellschafter dürfen kein der Gesellschaft schädliches Nebengeschäft unternehmen. Für unternehmerisch tätige Gesellschaften gelten überdies die unternehmensrechtlichen Vorschriften über Wettbewerbsverbote und deren Rechtsfolgen.
 
+*(Beachte: Zum Geltungsbereich vgl. § 1503 Abs. 5.)*
+
 ### § 1188 ABGB # Durchsetzung von Gesellschaftsansprüchen
 
 `§ 1188 ABGB.`  
 Die Erfüllung gesellschaftsbezogener Verpflichtungen eines Gesellschafters kann von jedem Gesellschafter zugunsten aller Gesellschafter gemeinsam eingefordert werden. Davon abweichende Vereinbarungen sind unwirksam.
+
+*(Beachte: Zum Geltungsbereich vgl. § 1503 Abs. 5.)*
 
 ### § 1189 ABGB # Geschäftsführung
 
@@ -90,6 +104,8 @@ Die Geschäfte sind so sorgfältig zu führen, wie es Art und Umfang der Gesells
 `§ 1189 (4) ABGB.`  
 Ein Gesellschafter darf im Zweifel die Führung der Geschäfte nicht einem Dritten übertragen. Ist die Übertragung gestattet, so hat er nur ein ihm bei der Übertragung zur Last fallendes Verschulden zu vertreten. Das Verschulden eines Gehilfen hat er in gleichem Umfang zu vertreten wie eigenes Verschulden.
 
+*(Beachte: Zum Geltungsbereich vgl. § 1503 Abs. 5.)*
+
 ### § 1190 ABGB # Geschäftsführung durch mehrere Gesellschafter, Weisungsgebundenheit
 
 `§ 1190 (1) ABGB.`  
@@ -100,6 +116,8 @@ Ist im Gesellschaftsvertrag bestimmt, dass die Gesellschafter, denen die Geschä
 
 `§ 1190 (3) ABGB.`  
 Ist ein Gesellschafter an die Weisungen der übrigen Gesellschafter gebunden, so kann er von den ihm erteilten Weisungen abweichen, wenn er den Umständen nach annehmen darf, dass die übrigen Gesellschafter bei Kenntnis der Sachlage die Abweichung billigen würden. Er hat die Abweichung den übrigen Gesellschaftern anzuzeigen und ihre Entscheidung abzuwarten, wenn nicht Gefahr im Verzug ist.
+
+*(Beachte: Zum Geltungsbereich vgl. § 1503 Abs. 5.)*
 
 ### § 1191 ABGB # Umfang der Geschäftsführungsbefugnis
 
@@ -112,6 +130,8 @@ Zur Vornahme von Handlungen, die darüber hinausgehen (außergewöhnliche Gesch�
 `§ 1191 (3) ABGB.`  
 Zur Einräumung einer Vollmacht gemäß § 1008 bedarf es der Zustimmung aller geschäftsführenden Gesellschafter, es sei denn, dass Gefahr im Verzug ist. Der Widerruf einer solchen Vollmacht kann von jedem der zur Erteilung oder zur Mitwirkung bei der Erteilung befugten Gesellschafter erfolgen.
 
+*(Beachte: Zum Geltungsbereich vgl. § 1503 Abs. 5.)*
+
 ### § 1192 ABGB # Gesellschafterbeschlüsse
 
 `§ 1192 (1) ABGB.`  
@@ -119,6 +139,8 @@ Gesellschafterbeschlüsse erfordern die Zustimmung aller zur Mitwirkung bei der 
 
 `§ 1192 (2) ABGB.`  
 Hat nach dem Gesellschaftsvertrag die Mehrheit der Stimmen zu entscheiden, so bestimmt sie sich nach den abgegebenen gültigen Stimmen. Das Stimmgewicht entspricht den Beteiligungsverhältnissen. Sind nicht alle Gesellschafter am Kapital beteiligt, wird die Mehrheit nach Köpfen berechnet. Arbeitsgesellschafter, denen der Gesellschaftsvertrag einen am Wert ihrer Arbeit orientierten Kapitalanteil zubilligt, gelten als am Kapital beteiligt.
+
+*(Beachte: Zum Geltungsbereich vgl. § 1503 Abs. 5.)*
 
 ### § 1193 ABGB # Entziehung und Kündigung der Geschäftsführungsbefugnis
 
@@ -128,6 +150,8 @@ Die Befugnis eines Gesellschafters zur Geschäftsführung kann einem Gesellschaf
 `§ 1193 (2) ABGB.`  
 Ein Gesellschafter kann seine Befugnis zur Geschäftsführung kündigen, wenn ein wichtiger Grund vorliegt. Auf dieses Recht kann nicht verzichtet werden. Die Geschäftsführung darf nur in der Art gekündigt werden, dass die Gesellschafter für die Führung der Geschäfte anderweitig Vorsorge treffen können, es sei denn, dass der wichtige Grund auch die unzeitige Kündigung rechtfertigt.
 
+*(Beachte: Zum Geltungsbereich vgl. § 1503 Abs. 5.)*
+
 ### § 1194 ABGB # Kontrollrechte der Gesellschafter
 
 `§ 1194 (1) ABGB.`  
@@ -135,6 +159,8 @@ Ein geschäftsführender Gesellschafter ist verpflichtet, jedem anderen Gesellsc
 
 `§ 1194 (2) ABGB.`  
 Eine Vereinbarung, durch die dieses Recht ausgeschlossen oder beschränkt wird, ist unwirksam.
+
+*(Beachte: Zum Geltungsbereich vgl. § 1503 Abs. 5.)*
 
 ### § 1195 ABGB # Gewinn und Verlust
 
@@ -153,6 +179,8 @@ Einem Arbeitsgesellschafter, dem für seine Dienste keine Beteiligung an der Ges
 `§ 1195 (5) ABGB.`  
 Die Gesellschafterstellung steht der Vereinbarung eines Entgelts für der Gesellschaft geleistete Dienste nicht entgegen.
 
+*(Beachte: Zum Geltungsbereich vgl. § 1503 Abs. 5.)*
+
 ### § 1196 ABGB # Gewinnausschüttung und Entnahmen
 
 `§ 1196 (1) ABGB.`  
@@ -160,6 +188,8 @@ Jeder Gesellschafter hat Anspruch auf Auszahlung seines Gewinnanteils. Der Anspr
 
 `§ 1196 (2) ABGB.`  
 Im Übrigen ist ein Gesellschafter nicht befugt, ohne Einwilligung der anderen Gesellschafter Entnahmen zu tätigen.
+
+*(Beachte: Zum Geltungsbereich vgl. § 1503 Abs. 5.)*
 
 ## 3. Abschnitt # Rechtsverhältnisse zu Dritten
 
@@ -236,6 +266,8 @@ Der ausscheidende Gesellschafter ist von den gesellschaftsbezogenen Verbindlichk
 `§ 1203 (4) ABGB.`  
 Verbleibt dem ausscheidenden Gesellschafter eine Verbindlichkeit aus dem Gesellschaftsverhältnis, so ist er verpflichtet, einen Ausgleich in entsprechender Höhe an die Gesellschafter zu zahlen.
 
+*(Beachte: Zum Geltungsbereich vgl. § 1503 Abs. 5.)*
+
 ### § 1204 ABGB # Beteiligung des Ausscheidenden an schwebenden Geschäften
 
 `§ 1204 (1) ABGB.`  
@@ -243,6 +275,8 @@ Der ausgeschiedene Gesellschafter nimmt am Gewinn und am Verlust teil, der sich 
 
 `§ 1204 (2) ABGB.`  
 Der ausgeschiedene Gesellschafter kann am Schluss jedes Geschäftsjahres Rechenschaft über die inzwischen beendeten Geschäfte, Auszahlung des ihm gebührenden Betrags und Auskunft über den Stand der noch schwebenden Geschäfte verlangen.
+
+*(Beachte: Zum Geltungsbereich vgl. § 1503 Abs. 5.)*
 
 ### § 1205 ABGB # Fortsetzung mit den Erben
 
@@ -260,6 +294,8 @@ Scheidet innerhalb der Frist des Abs. 3 der Erbe aus der Gesellschaft aus oder 
 
 `§ 1205 (5) ABGB.`  
 Der Gesellschaftsvertrag kann die Anwendung der Vorschriften der Abs. 1 bis 4 nicht ausschließen; es kann jedoch für den Fall, dass der Erbe sein Verbleiben von der Einräumung der Stellung eines Kommanditisten abhängig macht, sein Gewinnanteil anders als der des Verstorbenen bestimmt werden.
+
+*(Beachte: Zum Geltungsbereich vgl. § 1503 Abs. 5.)*
 
 ## 5. Abschnitt # Umwandlung
 
@@ -299,6 +335,8 @@ durch Kündigung oder durch gerichtliche Entscheidung;
 `§ 1208 Z 5 ABGB.`
 durch den Tod eines Gesellschafters, sofern sich aus dem Gesellschaftsvertrag nichts anderes ergibt.
 
+*(Beachte: Zum Geltungsbereich vgl. § 1503 Abs. 5.)*
+
 ### § 1209 ABGB # Kündigung durch einen Gesellschafter
 
 `§ 1209 (1) ABGB.`  
@@ -306,6 +344,8 @@ Die Kündigung der Gesellschaft durch einen Gesellschafter kann, wenn die Gesell
 
 `§ 1209 (2) ABGB.`  
 Eine Vereinbarung, durch die das Kündigungsrecht ausgeschlossen oder in anderer Weise als durch angemessene Verlängerung der Kündigungsfrist erschwert wird, ist nichtig. Dies gilt nicht für Innengesellschaften (§ 1176 Abs. 1).
+
+*(Beachte: zum Geltungsbereich vgl. § 1503 Abs. 5)*
 
 ### § 1210 ABGB # Auflösung durch gerichtliche Entscheidung
 
@@ -318,10 +358,14 @@ Ein solcher Grund ist insbesondere vorhanden, wenn ein anderer Gesellschafter ei
 `§ 1210 (3) ABGB.`  
 Eine Vereinbarung, durch die das Recht des Gesellschafters, die Auflösung der Gesellschaft zu verlangen, ausgeschlossen oder diesen Vorschriften zuwider beschränkt wird, ist nichtig.
 
+*(Beachte: Zum Geltungsbereich vgl. § 1503 Abs. 5.)*
+
 ### § 1211 ABGB # Gesellschaft auf Lebenszeit, Befristung
 
 `§ 1211 ABGB.`  
 Eine Gesellschaft, die für die Lebenszeit eines Gesellschafters eingegangen ist oder nach dem Ablauf der für ihre Dauer bestimmten Zeit stillschweigend fortgesetzt wird, steht im Sinn der §§ 1209 und 1210 einer für unbestimmte Zeit eingegangen Gesellschaft gleich.
+
+*(Beachte: Zum Geltungsbereich vgl. § 1503 Abs. 5.)*
 
 ### § 1213 ABGB # Ausschluss statt Auflösung
 
@@ -330,6 +374,8 @@ Tritt in der Person eines Gesellschafters ein Umstand ein, der nach § 1210 fü
 
 `§ 1213 (2) ABGB.`  
 Für die Auseinandersetzung zwischen den verbleibenden Gesellschaftern und dem ausgeschlossenen Gesellschafter ist die Vermögenslage der Gesellschaft in dem Zeitpunkt maßgeblich, in dem die Klage auf Ausschließung erhoben wird.
+
+*(Beachte: Zum Geltungsbereich vgl. § 1503 Abs. 5.)*
 
 ### § 1214 ABGB # Fortsetzungsbeschluss
 
@@ -341,6 +387,8 @@ Im Fall der Kündigung nach § 339 Abs. 1 EO scheidet der betreffende Gesellsc
 
 `§ 1214 (3) ABGB.`  
 Im Fall der Eröffnung des Konkursverfahrens über das Vermögen eines Gesellschafters ist Abs. 1 mit der Maßgabe anzuwenden, dass eine Erklärung gegenüber dem Masseverwalter zu erfolgen hat und der Schuldner mit dem Zeitpunkt der Konkurseröffnung als aus der Gesellschaft ausgeschieden gilt.
+
+*(Beachte: zum Geltungsbereich vgl. § 1503 Abs. 5)*
 
 ### § 1215 ABGB # Übergang des Gesellschaftsvermögens
 

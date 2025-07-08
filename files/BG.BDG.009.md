@@ -159,6 +159,8 @@ unentschuldigter Abwesenheit vom Dienst oder
 Beschäftigungsverbot nach dem MSchG,  
 sobald feststeht, dass der jeweilige Anlass die Dauer eines Monats überschreitet.
 
+*(Beachte: Zum Bezugszeitraum vgl. § 284 Abs. 67.)*
+
 ### § 78f BDG # Dienstfreistellung zur Begleitung von Kindern bei Rehabilitationsaufenthalt
 
 `§ 78f (1) BDG.`  

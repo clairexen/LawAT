@@ -3754,6 +3754,8 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Landespolizeidirektionen haben bei Amtshandlungen nach Abs\. 1 lit\. f und g den Ortsgemeinden Gelegenheit zur Stellungnahme zu geben\.
 
+> *\(Beachte: Tritt in den einzelnen Ländern mit dem In\-Kraft\-Treten des ihm entsprechenden Landesgesetzes, frühestens jedoch mit 1\. Juli 2005 in Kraft\. \(vgl\. § 103 Abs\. 7\)\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StVO.md#-95-stvo--landespolizeidirektionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336&Paragraf=95) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_119_TextContainer_119) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StVO.011.md#-95-stvo--landespolizeidirektionen) \]
 
 ----
@@ -4074,6 +4076,8 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Wegen einer in Abs\. 1 bis 5 genannten Verwaltungsübertretung ist auch strafbar, wer diese auf dem Gebiet einer österreichischen Grenzabfertigungsstelle, die auf ausländischem Gebiet liegt, begeht\. Die Überwachung der Einhaltung straßenpolizeilicher Vorschriften zählt zur Grenzabfertigung\.
 
+> *\(Beachte: Abs\. 1 lit\. c: Verfassungsbestimmung\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StVO.md#-99-stvo--strafbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336&Paragraf=99) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_131_TextContainer_131) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StVO.012.md#-99-stvo--strafbestimmungen) \]
 
 ----
@@ -4355,6 +4359,8 @@ Der Nationalrat hat beschlossen:
 > `(4)` \(Verfassungsbestimmung\) Die Vollziehung der §§ 5 Abs\. 6 und 10 sowie 99 Abs\. 1 lit\. c obliegt den Landesregierungen\.
 
 > `(5)` \(Verfassungsbestimmung\) Mit der Vollziehung des § 29b Abs\. 1a ist die Bundesregierung betraut\.
+
+> *\(Beachte: Abs\. 4 und 5: Verfassungsbestimmung\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.StVO.md#-105-stvo--vollziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336&Paragraf=105) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011336#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_142_TextContainer_142) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.StVO.012.md#-105-stvo--vollziehung) \]
 

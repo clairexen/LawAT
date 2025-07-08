@@ -237,6 +237,8 @@
 
 > `(5)` Deutschförderklassen sind keine Klassen im schulrechtlichen Sinn\. Bestimmungen dieses Bundesgesetzes, die sich auf Klassen beziehen, gelten nicht für Deutschförderklassen\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 82 Abs\. 11 Z 3 und 7\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-2b-schug--begriffsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=2b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.001.md#-2b-schug--begriffsbestimmungen) \]
 
 ----
@@ -324,6 +326,8 @@
 
 > `(7)` Dieses Bundesgesetz ist auf schulpflichtige außerordentliche Schüler sinngemäß, auf die übrigen außerordentlichen Schüler nur insoweit anzuwenden, als dies darin ausdrücklich bestimmt ist\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 82 Abs\. 11 Z 3 und 7\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-4-schug--aufnahme-als-außerordentlicher-schüler) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=4) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.001.md#-4-schug--aufnahme-als-außerordentlicher-schüler) \]
 
 ----
@@ -408,6 +412,8 @@
 
 > `(5)` Bei Bildung von Schülergruppen und an ganztägigen Schulformen bei der Bildung von Gruppen im Betreuungsteil hat der Schulleiter die in Betracht kommenden Schüler in die einzelnen Gruppen einzuteilen \(Gruppenbildung\)\. Ferner hat der Schulleiter den einzelnen Schülergruppen unter sinngemäßer Anwendung der Abs\. 2 und 3 die erforderlichen Lehrer, den einzelnen Gruppen im Betreuungsteil ganztägiger Schulformen die für die Lernzeiten und die Freizeit gemäß § 8 lit\. j des Schulorganisationsgesetzes vorgesehenen Personen zuzuweisen\. Die Zuweisung der Lehrer, Erzieher und Freizeitpädagogen an die einzelnen Gruppen ist der zuständigen Schulbehörde schriftlich zur Kenntnis zu bringen\.
 
+> *\(Beachte: zum Bezugszeitraum vgl\. § 82 Abs\. 11 Z 3 und 7\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-9-schug--klassen--und-gruppenbildung-klassenzuweisung-lehrfächerverteilung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=9) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.002.md#-9-schug--klassen--und-gruppenbildung-klassenzuweisung-lehrfächerverteilung) \]
 
 ----
@@ -459,6 +465,8 @@
 > `(9)` Soweit Lehrpläne Pflichtpraktika oder Praktika außerhalb des schulischen Unterrichtes vorsehen, ist der Schüler verpflichtet, diese in der vorgeschriebenen Zeit zurückzulegen\. Ist dem Schüler die Zurücklegung des Pflichtpraktikums oder Praktikums in der vorgeschriebenen Zeit ohne sein Verschulden nicht möglich, so hat er dieses während der schulfreien Zeit des folgenden Schuljahres zurückzulegen\. Ein Pflichtpraktikum oder Praktikum ist jedenfalls vor Abschluß der lehrplanmäßig letzten Schulstufe zurückzulegen\.
 
 > `(10)` Macht ein Schüler glaubhaft, daß er ein vorgeschriebenes Pflichtpraktikum oder Praktikum nicht zurücklegen kann, weil keine derartige Praxismöglichkeit bestand, oder weist er nach, daß er an der Zurücklegung aus unvorhersehbaren oder unabwendbaren Gründen verhindert war, so entfällt für ihn die Verpflichtung zur Zurücklegung des Pflichtpraktikums bzw\. Praktikums\. Dies gilt nicht für die Höhere Lehranstalt für Pflege und Sozialbetreuung\.
+
+> *\(Beachte: Abs\. 6b: Tritt hinsichtlich der 10\. Schulstufen von zumindest dreijährigen mittleren und höheren Schulen mit 1\. September 2017 und hinsichtlich der weiteren Schulstufen dieser Schularten jeweils mit 1\. September der Folgejahre schulstufenweise aufsteigend in Kraft \(vgl\. § 82 Abs\. 5s Z 6\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-11-schug--pflichtgegenstände-und-verbindliche-übungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=11) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.002.md#-11-schug--pflichtgegenstände-und-verbindliche-übungen) \]
 
@@ -802,6 +810,8 @@
 
 > `(9)` Ist ein Fernbleiben der Schülerin oder des Schülers vom Unterricht in besonderer Weise gegeben, ist mit den Erziehungsberechtigten Verbindung aufzunehmen\.
 
+> *\(Beachte: Abs\. 2 dritter Satz tritt für die 10\. und die 11\. Schulstufe mit 1\. September 2022 und hinsichtlich der weiteren Schulstufen jeweils mit 1\. September der Folgejahre schulstufenweise aufsteigend in Kraft \(vgl\. § 82 Abs\. 21 Z 5\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-19-schug--information-der-schülerinnen-und-schüler-deren-erziehungsberechtigten-und-der-lehrberechtigten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=19) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_27_TextContainer_27) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.003.md#-19-schug--information-der-schülerinnen-und-schüler-deren-erziehungsberechtigten-und-der-lehrberechtigten) \]
 
 ----
@@ -813,6 +823,8 @@
 > `(2)` Die Entscheidung über die individuelle Lernbegleitung \(Einrichtung, Dauer, vorzeitige Beendigung\) hat der Schulleiter, an Schulen mit Abteilungsgliederung der Abteilungsvorstand, nach Beratung mit dem Klassen\- oder Jahrgangsvorstand zu treffen\. Die vorzeitige Beendigung der individuellen Lernbegleitung kann vom Lernbegleiter oder vom Schüler wegen bereits erreichten Zieles oder zu erwartender Erfolglosigkeit der individuellen Lernbegleitung verlangt werden\.
 
 > `(3)` Im Rahmen der individuellen Lernbegleitung sind methodisch\-didaktische Anleitungen und Beratungen zu geben sowie Unterstützung zur Bewältigung der Lehrplananforderungen bereitzustellen\. Bei der Planung von Lernsequenzen und der Sicherstellung einer geeigneten individuellen Lernorganisation ist im Besonderen auch auf die Festlegung von lernökonomisch sinnvoll abgestimmten Prüfungsterminen \(insbesondere von Semesterprüfungen\) zu achten\. Der Lernprozess des Schülers ist laufend zu beobachten und durch didaktische Hinweise zu unterstützen\. In periodischen Abständen sind Beratungsgespräche in der erforderlichen Zahl, allenfalls unter Hinzuziehung anderer Lehrer, der Erziehungsberechtigten oder sonstiger Personen zu führen und Lernüberprüfungen durchzuführen\.
+
+> *\(Beachte: Tritt hinsichtlich der 10\. Schulstufen von zumindest dreijährigen mittleren und höheren Schulen mit 1\. September 2017 und hinsichtlich der weiteren Schulstufen dieser Schularten jeweils mit 1\. September der Folgejahre schulstufenweise aufsteigend in Kraft \(vgl\. § 82 Abs\. 5s Z 6\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-19a-schug--individuelle-lernbegleitung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=19a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_28_TextContainer_28) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.003.md#-19a-schug--individuelle-lernbegleitung) \]
 
@@ -852,6 +864,8 @@
 >> `5.` in Abs\. 6 unter „Unterrichtsjahr“ das Sommersemester zu verstehen ist und die Klassenkonferenz am Ende des Wintersemesters in der letzten Unterrichtswoche vor dem Ende des ersten Semesters abzuhalten ist\.
 
 > `(11)` § 18 Abs\. 6 und § 20 Abs\. 4 sind an Höheren Lehranstalten für Pflege und Sozialbetreuung nicht anzuwenden\.
+
+> *\(Beachte: Der Einleitungssatz des Abs\. 10 tritt für die 10\. und die 11\. Schulstufe mit 1\. September 2022 und hinsichtlich der weiteren Schulstufen jeweils mit 1\. September der Folgejahre schulstufenweise aufsteigend in Kraft \(vgl\. § 82 Abs\. 21 Z 5\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-20-schug--leistungsbeurteilung-für-eine-schulstufe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=20) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.003.md#-20-schug--leistungsbeurteilung-für-eine-schulstufe) \]
 
@@ -938,6 +952,8 @@
 >
 > &nbsp; zu enthalten\. Z 1 gilt nicht in den Fällen des § 4 Abs\. 2 lit\. a, wenn und insoweit die Schülerin oder der Schüler wegen mangelnder Kenntnis der Unterrichtssprache im Sinne des § 3 Abs\. 1 lit\. b die erforderlichen Leistungen nicht erbringt\.
 
+> *\(Beachte: Abs\. 2 lit\. l und Abs\. 9a sind nach Maßgabe der technischen Möglichkeiten anzuwenden \(vgl\. § 82 Abs\. 26\)\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-22-schug--jahreszeugnis-abschlußzeugnis-schulbesuchsbestätigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=22) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.003.md#-22-schug--jahreszeugnis-abschlußzeugnis-schulbesuchsbestätigung) \]
 
 ----
@@ -999,6 +1015,8 @@
 > `(7)` Wenn ein Schüler aus einer Schule zu einem Zeitpunkt ausscheidet, in dem über das Ergebnis des Schulbesuches ein Semesterzeugnis noch nicht ausgestellt werden kann, ist auf sein Verlangen eine Schulbesuchsbestätigung auszustellen, wobei sich die Beurteilung auf die bis zu diesem Zeitpunkt vom Schüler erbrachten Leistungen zu beziehen hat\.
 > *\(Anm\. Abs\. 8 aufgehoben durch Art\. 2 Z 3, BGBl\. I Nr\. 170/2021\)*
 
+> *\(Beachte: Abs\. 2 Z 11 ist nach Maßgabe der technischen Möglichkeiten anzuwenden \(vgl\. § 82 Abs\. 26\)\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-22a-schug--semesterzeugnis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=22a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.003.md#-22a-schug--semesterzeugnis) \]
 
 ----
@@ -1022,6 +1040,8 @@
 >> `7.` Ort und Datum der Ausstellung, Unterschrift der Lehrperson und der Schulleitung oder \(bei Abteilungsgliederung\) des Abteilungsvorstandes sowie Rundsiegel der Schule oder Amtssignatur \(§ 19 Abs\. 1 E\-GovG\) anstelle von Unterschriften und Rundsiegel\.
 
 > `(2)` Wird ein bereits besuchter Unterrichtsgegenstand, ausgenommen bei der Wiederholung einer Schulstufe, erneut besucht und werden die bei diesem Unterrichtsbesuch erbrachten Leistungen besser beurteilt, als beim vorangegangenen Besuch dieses Unterrichtsgegenstandes, verliert das betreffende Zeugnis oder Semesterzeugnis seine Gültigkeit; es ist einzuziehen und es ist ein neues Zeugnis oder Semesterzeugnis mit der besseren Beurteilung auszustellen\.
+
+> *\(Beachte: Abs\. 1 Z 7 ist nach Maßgabe der technischen Möglichkeiten anzuwenden \(vgl\. § 82 Abs\. 26\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-22b-schug--besuch-von-unterrichtsgegenständen-eines-anderen-semesters-oder-einer-anderen-schulstufe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=22b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.003.md#-22b-schug--besuch-von-unterrichtsgegenständen-eines-anderen-semesters-oder-einer-anderen-schulstufe) \]
 
@@ -1056,6 +1076,8 @@
 > `(5)` Die Prüfungen nach Abs\. 1 bis 4 haben sich auf den Lehrstoff des betreffenden Unterrichtsgegenstandes auf der ganzen Schulstufe zu beziehen\. Der zuständige Bundesminister hat durch Verordnung nach der Art des Unterrichtsgegenstandes festzusetzen, ob die Wiederholungsprüfung schriftlich und mündlich, nur schriftlich, nur mündlich oder auch praktisch abzulegen ist\.
 
 > `(6)` Die Beurteilung der Leistungen des Schülers bei der Wiederholungsprüfung hat durch den Lehrer des betreffenden Unterrichtsgegenstandes in der betreffenden Klasse \(Prüfer\) gemeinsam mit einem zweiten vom Schulleiter zu bestimmenden Lehrer \(Beisitzer\) zu erfolgen\. Im Fall der Verhinderung des als Prüfer in Betracht kommenden Lehrers sowie im Falle des Abs\. 3 sind sowohl der Prüfer als auch der Beisitzer vom Schulleiter zu bestellen\. Prüfer und Beisitzer sollen den betreffenden Unterrichtsgegenstand unterrichten oder für ihn lehrbefähigt sein\. Über den Verlauf der Prüfung ist eine schriftliche Aufzeichnung zu führen\. Wenn eine Einigung über die Beurteilung nicht zustande kommt, hat der Schulleiter zu entscheiden\.
+
+> *\(Beachte: 1\. Abs\. 1 tritt für die 10\. und die 11\. Schulstufe mit 1\. September 2022 und hinsichtlich der weiteren Schulstufen jeweils mit 1\. September der Folgejahre schulstufenweise aufsteigend in Kraft \(vgl\. § 82 Abs\. 21 Z 5\)\. 2\. Abs\. 1a: Tritt hinsichtlich dreijähriger mittlerer Schulen mit 1\. September 2018, hinsichtlich vierjähriger mittlerer und höherer Schulen mit 1\. September 2019 und hinsichtlich fünfjähriger höherer Schulen mit 1\. September 2020 in Kraft \(vgl\. § 82 Abs\. 5s Z 8\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-23-schug--wiederholungsprüfung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=23) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.003.md#-23-schug--wiederholungsprüfung) \]
 
@@ -1092,6 +1114,8 @@
 >> `3.` Schülerinnen und Schüler auf Ansuchen berechtigt sind, einen nicht oder mit „Nicht genügend“ beurteilten Wahlpflichtgegenstand im darauffolgenden Semester durch den Besuch eines denselben Pflichtgegenstand betreffenden Wahlpflichtgegenstandes auf der gleichen Schulstufe zu ersetzen, sofern dem nicht pädagogische, didaktische oder organisatorische Gründe entgegenstehen\.
 >
 > &nbsp; Die Ansuchen gemäß Z 2 und Z 3 sind bis zu einem von der Schulleitung festzulegenden Zeitpunkt zu stellen\. Wird ein nicht oder mit „Nicht genügend“ beurteilter Wahlpflichtgegenstand gemäß Z 3 durch einen anderen Wahlpflichtgegenstand ersetzt und wird dieser Wahlpflichtgegenstand erfolgreich abgeschlossen, ist der ersetzende Wahlpflichtgegenstand dem betreffenden Semester zuzurechnen und hat die Beurteilung im ersetzten Wahlpflichtgegenstand keinen Einfluss auf die Berechtigung zum Aufsteigen \(§ 25 Abs\. 11\) oder zur Ablegung der Hauptprüfung gemäß § 36a Abs\. 1a\.
+
+> *\(Beachte: Tritt hinsichtlich der 10\. Schulstufen von zumindest dreijährigen mittleren und höheren Schulen mit 1\. September 2017 und hinsichtlich der weiteren Schulstufen dieser Schularten jeweils mit 1\. September der Folgejahre schulstufenweise aufsteigend in Kraft \(vgl\. § 82 Abs\. 5s Z 6\)\.Tritt ab der 10\. Schulstufe schulstufenweise aufsteigend in Kraft \(vgl\. § 82 Abs\. 18 Z 1\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-23a-schug--semesterprüfung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=23a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_35_TextContainer_35) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.003.md#-23a-schug--semesterprüfung) \]
 
@@ -1130,6 +1154,8 @@
 > `(7)` Wegen vorgetäuschter Leistungen nicht oder mit „Nicht genügend“ beurteilte Semesterprüfungen über noch nicht besuchte Unterrichtsgegenstände dürfen nicht wiederholt werden\. Bei gerechtfertigter Verhinderung ist ein neuer Prüfungstermin möglichst zeitnah zum versäumten Termin anzuberaumen\. Ungerechtfertigte Verhinderung führt zum Verlust des Rechts auf Ablegung der Semesterprüfung\.
 
 > `(8)` § 18 Abs\. 2 bis 8, Abs\. 10 sowie Abs\. 12 mit der Maßgabe, dass an die Stelle des Jahreszeugnisses das Semesterzeugnis tritt, sowie § 23a Abs\. 6 und 10 findet Anwendung\.
+
+> *\(Beachte: Abs\. 6 Z 8 ist nach Maßgabe der technischen Möglichkeiten anzuwenden \(vgl\. § 82 Abs\. 26\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-23b-schug--semesterprüfung-über-noch-nicht-besuchte-unterrichtsgegenstände) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=23b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_36_TextContainer_36) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.003.md#-23b-schug--semesterprüfung-über-noch-nicht-besuchte-unterrichtsgegenstände) \]
 
@@ -1190,6 +1216,8 @@
 >> `2.` wenn die Semesterzeugnisse der betreffenden Schulstufe in den Pflichtgegenständen insgesamt höchstens zwei Beurteilungen mit „Nicht genügend“ oder Nichtbeurteilungen aufweisen, jeder dieser Pflichtgegenstände in einer höheren Schulstufe lehrplanmäßig vorgesehen ist und die Klassenkonferenz unter sinngemäßer Anwendung des Abs\. 2 lit\. c die Berechtigung zum Aufsteigen in die nächsthöhere Schulstufe erteilt, außer wenn in einem Semesterzeugnis oder dem Jahreszeugnis der vorangegangenen Schulstufe einer dieser Pflichtgegenstände nicht oder mit der Note „Nicht genügend“ beurteilt wurde\. Entscheidungen der Klassenkonferenz über die Erteilung der Berechtigung zum Aufsteigen sind den Erziehungsberechtigten unter ausdrücklichem Hinweis auf die einmalige Möglichkeit des Aufsteigens mit insgesamt zwei Beurteilungen mit „Nicht genügend“ oder Nichtbeurteilungen nachweislich zur Kenntnis zu bringen\.
 
 > `(11)` An Schulen, an denen die semestrierte Oberstufe geführt wird und eine Festlegung nach § 36a Abs\. 1a getroffen wurde, sind Schülerinnen und Schüler abweichend von Abs\. 10 dann zum Aufsteigen in die nächsthöhere Schulstufe berechtigt, wenn die Semesterzeugnisse über das Winter\- und das Sommersemester der betreffenden Schulstufe oder der vorangegangenen Schulstufe \(§ 22b Abs\. 2\) in den Pflichtgegenständen je Pflichtgegenstand nicht mehr als eine Nichtbeurteilung oder eine Beurteilung mit „Nicht genügend“ und insgesamt höchstens zwei Nichtbeurteilungen oder Beurteilungen mit „Nicht genügend“ aufweisen\.
+
+> *\(Beachte: Abs\. 10 tritt ab der 10\. Schulstufe schulstufenweise aufsteigend in Kraft \(vgl\. § 82 Abs\. 18 Z 1\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-25-schug--aufsteigen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=25) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.004.md#-25-schug--aufsteigen) \]
 
@@ -1255,6 +1283,8 @@
 
 > `(4)` Erfolgreich abgeschlossene Pflichtgegenstände, die Prüfungsgebiet einer verpflichtend vorgesehenen Vorprüfung waren, sind im Rahmen einer allfälligen Wiederholung der Schulstufe grundsätzlich nicht zu besuchen\. Im Ausmaß der dadurch entfallenen Unterrichtsstunden ist der Schüler mit Zustimmung des Schulleiters jedoch berechtigt, den Unterricht im betreffenden Unterrichtsgegenstand oder in anderen Unterrichtsgegenständen der betreffenden Schulstufe zu besuchen, sofern dadurch keine Klassenteilung erforderlich ist\. Die im Rahmen des Unterrichtes im Sinne des zweiten Satzes erbrachten Leistungen sind nicht zu beurteilen\.
 
+> *\(Beachte: Abs\. 2 vorletzter und letzter Satz und Abs\. 2a treten für die 10\. und die 11\. Schulstufe mit 1\. September 2022 und hinsichtlich der weiteren Schulstufen jeweils mit 1\. September der Folgejahre schulstufenweise aufsteigend in Kraft \(vgl\. § 82 Abs\. 21 Z 5\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-27-schug--wiederholen-von-schulstufen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=27) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_41_TextContainer_41) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.004.md#-27-schug--wiederholen-von-schulstufen) \]
 
 ----
@@ -1307,6 +1337,8 @@
 > `(7)` Für die Aufnahme in eine Sonderschule nach dem Besuch einer Volksschule oder einer Mittelschule und für die Aufnahme in die Volksschule oder die 2\. bis 4\. Stufe der Mittelschule nach dem Besuch einer Sonderschule mit eigenem Lehrplan hat die Schulbehörde im Verfahren nach § 8 bzw\. § 8a des Schulpflichtgesetzes 1985 auf Grund der Leistungen des Schülers festzustellen, welche Stufe der aufnehmenden Schulart zu besuchen ist\. Zeugnisse von Sonderschulen, in denen der Lehrplan der Volksschule, der Mittelschule oder der Polytechnischen Schule angewendet wird, sind für den Übertritt in eine andere Schulart wie Zeugnisse der Volksschule, der Mittelschule oder der Polytechnischen Schule zu werten\.
 
 > `(8)` Der Übertritt in die Polytechnische Schule aus einer mittleren oder höheren Schule ist während des Schuljahres nur bis zum 31\. Dezember zulässig\.
+
+> *\(Beachte: Abs\. 2a und Abs\. 3 treten für die 10\. und die 11\. Schulstufe mit 1\. September 2022 und hinsichtlich der weiteren Schulstufen jeweils mit 1\. September der Folgejahre schulstufenweise aufsteigend in Kraft \(vgl\. § 82 Abs\. 21 Z 5\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-29-schug--übertritt-in-eine-andere-schulart-oder-eine-andere-form-oder-fachrichtung-einer-schulart) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=29) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.004.md#-29-schug--übertritt-in-eine-andere-schulart-oder-eine-andere-form-oder-fachrichtung-einer-schulart) \]
 
@@ -1507,6 +1539,8 @@
 
 > `(8)` Für Privatschulen gelten die vorstehenden Bestimmungen mit der Maßgabe, daß der Privatschulerhalter darüber hinausgehende Gründe für die Beendigung des Schulbesuches anläßlich der Aufnahme vereinbaren kann, soweit dadurch nicht § 4 Abs\. 3 des Schulorganisationsgesetzes berührt wird\.
 
+> *\(Beachte: Abs\. 2 lit\. g tritt für die 10\. und die 11\. Schulstufe mit 1\. September 2022 und hinsichtlich der weiteren Schulstufen jeweils mit 1\. September der Folgejahre schulstufenweise aufsteigend in Kraft \(vgl\. § 82 Abs\. 21 Z 5\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-33-schug--beendigung-des-schulbesuches) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=33) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_52_TextContainer_52) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.005.md#-33-schug--beendigung-des-schulbesuches) \]
 
 ----
@@ -1540,6 +1574,8 @@
 > `(4)` Der zuständige Bundesminister hat für die betreffenden Schularten \(Schulformen, Fachrichtungen\) nach deren Aufgaben und Lehrplänen sowie unter Bedachtnahme auf die Gleichwertigkeit der Prüfung durch Verordnung nähere Festlegungen über die Prüfungsform, einschließlich der Wahl gemäß Abs\. 5 zu treffen\. Im Fall von Übergangslehrplänen oder \-lehrplanabweichungen gemäß § 6 Abs\. 1a des Schulorganisationsgesetzes sind erforderlichenfalls entsprechend abgeänderte Prüfungsordnungen zu erlassen und gemäß § 79 an den betroffenen Schulen kundzumachen\.
 
 > `(5)` An allgemein bildenden höheren Schulen kann bis einschließlich des Schuljahres 2028/29 anstelle der abschließenden Arbeit gemäß Abs\. 3 Z 1 lit\. b eine weitere Klausurarbeit gemäß Abs\. 3 Z 2 oder eine weitere mündliche Teilprüfung gemäß Abs\. 3 Z 3 abgelegt werden\. Die Anmeldezahlen sind an die Schulbehörden zu melden\.
+
+> *\(Beachte: Abs\. 3 Z 1, Abs\. 4 und Abs\. 5 finden auf abschließende Prüfungen ab dem Haupttermin 2026 Anwendung \(vgl\. § 82 Abs\. 26 Z 2\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-34-schug--form-und-umfang-der-abschließenden-prüfungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=34) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_53_TextContainer_53) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.006.md#-34-schug--form-und-umfang-der-abschließenden-prüfungen) \]
 
@@ -1683,6 +1719,8 @@
 
 > `(5)` Die mündliche Prüfung sowie die Präsentation und Diskussion im Rahmen der abschließenden Arbeit sind öffentlich vor der jeweiligen Prüfungskommission abzuhalten\. Dem Vorsitzenden obliegt die Leitung der Prüfung\. Der Schulleiter hat einen Schriftführer mit der Anfertigung eines Prüfungsprotokolls zu betrauen\.
 
+> *\(Beachte: Findet auf abschließende Prüfungen mit Haupttermin ab dem Schuljahr 2022/23 Anwendung \(vgl\. § 82 Abs\. 19 Z 2\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-37-schug--prüfungsgebiete-aufgabenstellungen-prüfungsvorgang) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=37) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.006.md#-37-schug--prüfungsgebiete-aufgabenstellungen-prüfungsvorgang) \]
 
 ----
@@ -1708,6 +1746,8 @@
 >> `3.` „bestanden“, wenn kein Prüfungsgebiet mit „Nicht genügend“ beurteilt wird und die Voraussetzungen nach Z 1 und 2 nicht gegeben sind;
 >
 >> `4.` „nicht bestanden“, wenn die Leistungen in einem oder mehreren Prüfungsgebieten nicht oder mit „Nicht genügend“ beurteilt werden\.
+
+> *\(Beachte: Findet auf abschließende Prüfungen mit Haupttermin ab dem Schuljahr 2022/23 Anwendung \(vgl\. § 82 Abs\. 19 Z 2\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-38-schug--beurteilung-der-leistungen-bei-der-prüfung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=38) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_58_TextContainer_58) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.006.md#-38-schug--beurteilung-der-leistungen-bei-der-prüfung) \]
 
@@ -1739,6 +1779,8 @@
 
 > `(3)` Der zuständige Bundesminister hat durch Verordnung die näheren Bestimmungen über die Gestaltung der Zeugnisformulare zu treffen\.
 
+> *\(Beachte: Abs\. 2 Z 9 ist nach Maßgabe der technischen Möglichkeiten anzuwenden \(vgl\. § 82 Abs\. 26\)\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-39-schug--prüfungszeugnisse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=39) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_59_TextContainer_59) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.006.md#-39-schug--prüfungszeugnisse) \]
 
 ----
@@ -1753,6 +1795,8 @@
 
 > `(4)` Der Schulleiter hat aufgrund eines bis spätestens vier Wochen vor dem gemäß § 36 Abs\. 4 verordneten Prüfungstermin zu stellenden Antrages des Prüfungskandidaten diesem unter Bedachtnahme auf die gemäß § 36 Abs\. 4 festgelegten Termine einen konkreten Prüfungstermin für die Wiederholung der Prüfung zuzuweisen\.
 
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 82 Abs\. 5p Z 2 und § 82b\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-40-schug--wiederholung-von-teilprüfungen-bzw-von-prüfungsgebieten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=40) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.006.md#-40-schug--wiederholung-von-teilprüfungen-bzw-von-prüfungsgebieten) \]
 
 ----
@@ -1764,6 +1808,8 @@
 > `(2)` Personen, die eine Reifeprüfung, eine Reife\- und Diplomprüfung oder eine Reife\- und Befähigungsprüfung einer höheren Schule bereits erfolgreich abgelegt haben, sind auf ihr Ansuchen vom Schulleiter einer in Betracht kommenden höheren Schule zur Ablegung von Zusatzprüfungen zur Reifeprüfung zuzulassen\. Eine solche Zusatzprüfung kann auch außerhalb der Termine für die abschließende Prüfung der betreffenden Schule stattfinden\.
 
 > `(3)` Die §§ 35 bis 40 finden auf die Zusatzprüfungen zur Reifeprüfung sinngemäß Anwendung\.
+
+> *\(Beachte: Zum Bezugszeitraum vgl\. § 82 Abs\. 5p Z 2 und § 82b\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-41-schug--zusatzprüfungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=41) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.006.md#-41-schug--zusatzprüfungen) \]
 
@@ -1816,6 +1862,8 @@
 > `(1)` Die Schüler sind verpflichtet, durch ihre Mitarbeit und ihre Einordnung in die Gemeinschaft der Klasse und der Schule an der Erfüllung der Aufgabe der österreichischen Schule \(§ 2 des Schulorganisationsgesetzes\) mitzuwirken und die Unterrichtsarbeit \(§ 17\) zu fördern\. Sie haben den Unterricht \(und den Betreuungsteil an ganztägigen Schulformen, zu dem sie angemeldet sind\) regelmäßig und pünktlich zu besuchen, die erforderlichen Unterrichtsmittel mitzubringen und die Schulordnung bzw\. die Hausordnung einzuhalten\. Sie haben weiters Anordnungen und Aufträgen im Rahmen der individuellen Lernbegleitung Folge zu leisten und Vereinbarungen, die gemäß § 19 Abs\. 3a im Rahmen des Frühwarnsystems getroffen wurden, zu erfüllen\.
 
 > `(2)` Der Schüler ist über Auftrag des Schulleiters, eines Abteilungsvorstandes, eines Fachvorstandes oder eines Lehrers verpflichtet, vorsätzlich durch ihn herbeigeführte Beschädigungen oder Beschmutzungen der Schulliegenschaft und schulischer Einrichtungen zu beseitigen, sofern dies zumutbar ist\.
+
+> *\(Beachte: Abs\. 1: Tritt hinsichtlich der 10\. Schulstufen von zumindest dreijährigen mittleren und höheren Schulen mit 1\. September 2017 und hinsichtlich der weiteren Schulstufen dieser Schularten jeweils mit 1\. September der Folgejahre schulstufenweise aufsteigend in Kraft \(vgl\. § 82 Abs\. 5s Z 6\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-43-schug--pflichten-der-schüler) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=43) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.007.md#-43-schug--pflichten-der-schüler) \]
 
@@ -2094,6 +2142,8 @@
 
 > `(4)` Der Lernbegleiter hat die für die Dokumentation seiner Tätigkeit erforderlichen Aufzeichnungen zu führen\. Vom Schüler angefertigte Arbeiten sind den Aufzeichnungen über die Lernbegleitung nach Möglichkeit anzuschließen\.
 
+> *\(Beachte: Tritt hinsichtlich der 10\. Schulstufen von zumindest dreijährigen mittleren und höheren Schulen mit 1\. September 2017 und hinsichtlich der weiteren Schulstufen dieser Schularten jeweils mit 1\. September der Folgejahre schulstufenweise aufsteigend in Kraft \(vgl\. § 82 Abs\. 5s Z 6\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-55c-schug--lernbegleiter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=55c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_80_TextContainer_80) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.008.md#-55c-schug--lernbegleiter) \]
 
 ----
@@ -2179,6 +2229,8 @@
 > `(4)` Für den Nachweis in vereinfachter Form gemäß § 4 Abs\. 6 E\-GovG können die Daten gemäß Abs\. 1 für die Dauer von höchstens 14 Monaten zum E\-ID dieser Person gespeichert werden\. Es ist in der Applikation ersichtlich zu machen, wann die Daten zuletzt aktualisiert wurden\.
 
 > `(5)` Zum Zweck der Eintragung der in Abs\. 1 genannten Daten in die Personenbindung gemäß § 4 Abs\. 2 E\-GovG sowie zum Zweck des Nachweises deren Bestands in vereinfachter Form gemäß § 4 Abs\. 6 E\-GovG sind diese aus dem Datenverbund der Schulen gemäß § 6 BilDokG 2020 der Stammzahlenregisterbehörde zugänglich zu machen\.
+
+> *\(Beachte: Ist nach Maßgabe der technischen Möglichkeiten anzuwenden \(vgl\. § 82 Abs\. 26\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-57b-schug--schülerinnen--bzw-schülerkarte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=57b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_85_TextContainer_85) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.009.md#-57b-schug--schülerinnen--bzw-schülerkarte) \]
 
@@ -2361,6 +2413,8 @@
 >>> `c)` das Recht auf Mitentscheidung bei der Festlegung von Unterrichtsmitteln\.
 
 > `(3)` Die Erziehungsberechtigten haben die für die Führung der Amtsschriften der Schule erforderlichen Dokumente vorzulegen und Auskünfte zu geben sowie erhebliche Änderungen dieser Angaben unverzüglich der Schule mitzuteilen\.
+
+> *\(Beachte: Abs\. 1: Tritt hinsichtlich der 10\. Schulstufen von zumindest dreijährigen mittleren und höheren Schulen mit 1\. September 2017 und hinsichtlich der weiteren Schulstufen dieser Schularten jeweils mit 1\. September der Folgejahre schulstufenweise aufsteigend in Kraft \(vgl\. § 82 Abs\. 5s Z 6\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-61-schug--rechte-und-pflichten-der-erziehungsberechtigten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=61) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_91_TextContainer_91) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.009.md#-61-schug--rechte-und-pflichten-der-erziehungsberechtigten) \]
 
@@ -2570,6 +2624,8 @@
 > `(18)` In den Angelegenheiten des Schulgemeinschaftsausschusses obliegt die Vertretung des Schulleiters bei dessen Verhinderung dem Leiterstellvertreter \(§ 56 Abs\. 6\) oder einem vom Schulleiter namhaft gemachten Lehrer und die Vertretung des Schulsprechers seinem Stellvertreter\. Bei Verhinderung eines sonstigen Mitgliedes des Schulgemeinschaftsausschusses hat das verhinderte Mitglied aus den Stellvertretern der betreffenden Gruppe seinen Vertreter zu bestellen; sofern das verhinderte Mitglied seinen Stellvertreter nicht bestimmen kann, hat das älteste nicht verhinderte Mitglied der betreffenden Gruppe den Vertreter für das verhinderte Mitglied zu bestimmen\. Ein Mitglied, das im Sinne des § 7 AVG befangen ist, gilt als verhindert\.
 
 > `(19)` Der zuständige Bundesminister hat durch Verordnung die näheren Bestimmungen über die Durchführung der Wahl der Mitglieder des Schulgemeinschaftsausschusses zu erlassen\.
+
+> *\(Beachte: Findet auf abschließende Prüfungen mit Haupttermin ab dem Schuljahr 2022/23 Anwendung \(vgl\. § 82 Abs\. 19 Z 2\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-64-schug--schulgemeinschaftsausschuss) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=64) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_95_TextContainer_95) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.010.md#-64-schug--schulgemeinschaftsausschuss) \]
 
@@ -2814,6 +2870,8 @@
 >
 >> `f)` die Belehrung über die Widerspruchsmöglichkeit, wenn dem Ansuchen nicht vollinhaltlich stattgegeben wird\.
 
+> *\(Beachte: Abs\. 4 lit\. e ist nach Maßgabe der technischen Möglichkeiten anzuwenden \(vgl\. § 82 Abs\. 26\)\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-70-schug--verfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=70) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_105_TextContainer_105) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.012.md#-70-schug--verfahren) \]
 
 ----
@@ -2888,6 +2946,8 @@
 
 > `(9)` Gegen andere als in Abs\. 1 und 2 genannte Entscheidungen von schulischen Organen ist ein Widerspruch an die zuständige Schulbehörde nicht zulässig\.
 
+> *\(Beachte: Abs\. 2 lit\. h tritt ab der 10\. Schulstufe schulstufenweise aufsteigend in Kraft \(vgl\. § 82 Abs\. 18 Z 1\)\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-71-schug--provisorialverfahren-widerspruch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=71) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_107_TextContainer_107) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.012.md#-71-schug--provisorialverfahren-widerspruch) \]
 
 ----
@@ -2913,6 +2973,8 @@
 > `(2)` Nachweisliche elektronische Zustellungen haben gemäß § 35 des Zustellgesetzes – ZustG, BGBl\. Nr\. 200/1982, im Wege eines zugelassenen Zustelldienstes zu erfolgen\.
 
 > `(3)` Die Bundesministerin oder der Bundesminister für Bildung, Wissenschaft und Forschung ist ermächtigt, vorzusehen, dass die Echtheit der über das Bildungsportal amtssignierten Urkunden mit Hilfe eines Codes in einem Urkundenarchiv des Bildungsportals gemäß § 6e BilDokG 2020 überprüft werden kann\. Personen können aus diesem Urkundenarchiv ihnen zugeordnete Urkunden auch zu einem späteren Zeitpunkt im Wege des Bildungsportals erneut übermittelt bekommen\. Die näheren technischen Verfahren sind durch die Bundesministerin oder durch den Bundesminister für Bildung, Wissenschaft und Forschung im Verordnungsweg festzulegen\.
+
+> *\(Beachte: Ist nach Maßgabe der technischen Möglichkeiten anzuwenden \(vgl\. § 82 Abs\. 26\)\.\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-72a-schug--elektronische-zustellungen-und-urkundenarchiv) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=72a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_109_TextContainer_109) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.012.md#-72a-schug--elektronische-zustellungen-und-urkundenarchiv) \]
 
@@ -3035,6 +3097,8 @@
 > `(5)` Klassenbücher einer öffentlichen Pflichtschule, die aufgelassen wird, sind von jener öffentlichen Pflichtschule zur Aufbewahrung zu übernehmen, in deren Schulsprengel der Standort der aufzulassenden Schule liegt\. Die Aufzeichnungen anderer Schulen, die aufgelassen werden, sind von der zuständigen Schulbehörde zur Aufbewahrung zu übernehmen\.
 
 > `(6)` Nach Ablauf der Aufbewahrungsfrist gemäß Abs\. 4 sind physische Aufzeichnungen zu vernichten und elektronisch gespeicherte Aufzeichnungen zu löschen\.
+
+> *\(Beachte: Abs\. 2 ist nach Maßgabe der technischen Möglichkeiten anzuwenden \(vgl\. § 82 Abs\. 26\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-77-schug--klassenbücher) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=77) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_114_TextContainer_114) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.012.md#-77-schug--klassenbücher) \]
 
@@ -3503,6 +3567,8 @@
 
 > `(27)` § 82i tritt mit dem Ablauf des Tages der Kundmachung in Kraft und mit 31\. März 2026 außer Kraft\.
 
+> *\(Beachte: Die Inkrafttretensbestimmung des Abs\. 1 ist gegenstandslos, da es sich bei dieser Rechtsvorschrift um eine Wiederverlautbarung handelt\.\)*
+
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-82-schug--inkrafttreten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=82) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_121_TextContainer_121) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.013.md#-82-schug--inkrafttreten) \]
 
 ----
@@ -3560,6 +3626,8 @@
 >> `1.` anstelle der abschließenden Arbeit gemäß § 34 Abs\. 3 Z 1 lit\. b eine weitere schriftliche Klausurarbeit oder mündliche Teilprüfung ablegen zu wollen, wobei die Entscheidung gemeinsam mit den Festlegungen gemäß § 34 Abs\. 4 zu treffen ist oder
 >
 >> `2.` im Einvernehmen mit der betreuenden Lehrperson ein bereits festgelegtes und genehmigtes Thema für die abschließende Arbeit durch eine forschende, gestalterische oder künstlerische Arbeit gemäß § 34 Abs\.3 Z 1 lit\. b zu ersetzten\.
+
+> *\(Beachte: Abs\. 1 findet auf abschließende Prüfungen ab dem Haupttermin 2026 Anwendung \(vgl\. § 82 Abs\. 26 Z 2\)\)*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.md#-82d-schug--übergangsrecht-betreffend-die-schülerautonome-entscheidung-über-die-erstellung-einer-vorwissenschaftlichen-arbeit-an-allgemein-bildenden-höheren-schulen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600&Paragraf=82d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10009600#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_125_TextContainer_125) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.SchUG.013.md#-82d-schug--übergangsrecht-betreffend-die-schülerautonome-entscheidung-über-die-erstellung-einer-vorwissenschaftlichen-arbeit-an-allgemein-bildenden-höheren-schulen) \]
 

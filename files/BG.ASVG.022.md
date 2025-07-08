@@ -189,6 +189,8 @@ Eine Krankheit, die ihrer Art nach nicht in Anlage 1 zu diesem Bundesgesetz enth
 `§ 177 (3) ASVG.`  
 In der Unfallversicherung der nach § 8 Abs. 1 Z 3 lit. h, i und l Teilversicherten stehen die Schul(Universitäts)ausbildung, der Besuch einer institutionellen Kinderbetreuungseinrichtung im letzten Jahr vor Schulpflicht (§ 175 Abs. 4) und die in § 175 Abs. 5 und § 176 Abs. 1 Z 11 und 12 angeführten Tätigkeiten einer Beschäftigung im Sinne der Abs. 1 und 2 gleich.
 
+*(Beachte: zum Bezugszeitraum vgl. § 671 Abs. 3)*
+
 ### § 178 ASVG # Bemessungsgrundlage für die Geldleistungen; Allgemeines
 
 `§ 178 (1) ASVG.`  

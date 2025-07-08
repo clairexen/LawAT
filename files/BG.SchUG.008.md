@@ -122,6 +122,8 @@ Sofern er es zur Erfüllung seiner Aufgaben gemäß § 19a für erforderlich er
 `§ 55c (4) SchUG.`  
 Der Lernbegleiter hat die für die Dokumentation seiner Tätigkeit erforderlichen Aufzeichnungen zu führen. Vom Schüler angefertigte Arbeiten sind den Aufzeichnungen über die Lernbegleitung nach Möglichkeit anzuschließen.
 
+*(Beachte: Tritt hinsichtlich der 10. Schulstufen von zumindest dreijährigen mittleren und höheren Schulen mit 1. September 2017 und hinsichtlich der weiteren Schulstufen dieser Schularten jeweils mit 1. September der Folgejahre schulstufenweise aufsteigend in Kraft (vgl. § 82 Abs. 5s Z 6).)*
+
 ### § 55d SchUG # Bereichsleiter, Bereichsleiterin
 
 `§ 55d SchUG.`  

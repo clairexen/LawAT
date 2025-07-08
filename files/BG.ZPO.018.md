@@ -12,6 +12,151 @@
 
 *(Fortsetzg. v. [BG.ZPO.017](BG.ZPO.017.md))*
 
+## Verfahren.
+
+### § 571 ZPO
+
+`§ 571 (1) ZPO.`  
+Über rechtzeitig erhobene Einwendungen ist eine vorbereitende Tagsatzung anzuberaumen. Bei der Anberaumung der ersten und der etwa folgenden Tagsatzungen, sowie bei der Bestimmung von Fristen ist auf die Dringlichkeit der Bestandsachen besonders Bedacht zu nehmen.
+
+`§ 571 (2) ZPO.`  
+Die Partei, von welcher die Kündigung oder die Aufforderung zur Zurückstellung oder zur Zurücknahme des Bestandgegenstandes ausging, ist als Kläger anzusehen.
+
+`§ 571 (3) ZPO.`  
+Verspätet angebrachte Einwendungen wider die Aufkündigung eines Bestandvertrages oder gegen den gerichtlichen Auftrag zur Übergabe oder Übernahme eines Bestandgegenstandes sind von amtswegen ohne Verhandlung zurückzuweisen.
+
+`§ 571 (4) ZPO.`  
+Bleibt eine der Parteien nach rechtzeitig erhobenen Einwendungen von einer Tagsatzung aus, bevor sie sich durch mündliches Vorbringen zur Hauptsache in den Streit eingelassen hat, so ist auf Antrag der erschienenen Partei ein Versäumungsurteil nach § 396 zu fällen.
+
+*(Beachte: Ist auf Verfahren anzuwenden, in denen die Klage oder der verfahrenseinleitende Antrag nach dem 31. Dezember 2002 bei Gericht eingelangt ist. (vgl. Art. XI Abs. 2, BGBl. I Nr. 76/2002))*
+
+### § 572 ZPO
+
+`§ 572 ZPO.`  
+In dem das Verfahren über Einwendungen erledigenden Urtheile ist auszusprechen, ob und inwieweit und – bei Behauptung verspäteter Zustellung – zu welchem Termin die Aufkündigung oder der nach §. 567 erlassene Auftrag als wirksam erkannt oder aufgehoben wird, sowie ob und wann der Beklagte verpflichtet ist, den Bestandgegenstand zu übergeben oder zu übernehmen.
+
+### § 573 ZPO
+
+`§ 573 (1) ZPO.`  
+Wird der Beklagte schuldig erkannt, den Bestandgegenstand zu übergeben oder zu übernehmen, ist jedoch die Bestandzeit zur Zeit der Urteilsfällung bereits verstrichen, so ist in dem Urteile auszusprechen, daß die Übergabe oder Übernahme des von den nicht in Bestand gegebenen Gegenständen geräumten Bestandgegenstandes binnen vierzehn Tagen zu erfolgen habe. Diese Frist beginnt in dem im § 409 letzter Absatz bezeichneten Zeitpunkt zu laufen.
+
+`§ 573 (2) ZPO.`  
+Ist die Bestandzeit noch nicht verstrichen, so ist anzuordnen, daß der Bestandgegenstand längstens binnen vierzehn Tagen nach Ablauf der Bestandzeit von den nicht in Bestand gegebenen Gegenständen geräumt zu übergeben oder zu übernehmen ist. Dieselbe Räumungsfrist gilt auch dann, wenn gegen die gerichtliche Aufkündigung oder gegen den Auftrag zur Übergabe oder Übernahme des Bestandgegenstandes nicht rechtzeitig Einwendungen erhoben worden sind.
+
+`§ 573 (3) ZPO.`  
+Die Exekution kann auf Grund rechtskräftig gewordener Urteile, Aufkündigungen und gerichtlicher Aufträge zur Übergabe oder Übernahme des Bestandgegenstandes bewilligt werden, sobald die Frist verstrichen ist, innerhalb deren nach den vorangehenden Absätzen der Bestandgegenstand zu übergeben war.
+
+### § 574 ZPO
+
+`§ 574 ZPO.`  
+Die Bestimmungen des §. 573 sind auch dann anzuwenden, wenn ein Bestandvertrag ohne vorausgegangene gerichtliche oder außergerichtliche Aufkündigung infolge einer Klage durch Urtheil für aufgehoben oder erloschen erklärt wird.
+
+### § 575 ZPO
+
+`§ 575 ZPO.`  
+*(Anm.: Abs. 1 aufgehoben durch Art. III Z 28, BGBl. Nr. 282/1955)*
+
+`§ 575 (2) ZPO.`  
+Gegen die gerichtlichen Aufträge zur Übergabe oder Übernahme des Bestandgegenstandes, die auf Grund von Aufkündigungen oder infolge eines gemäß §. 567 gestellten Ansuchens ergehen, ist vorbehaltlich der dagegen zu erhebenden Einwendungen ein Rechtsmittel nicht zulässig.
+
+`§ 575 (3) ZPO.`  
+Eine gerichtliche Kündigung oder ein Auftrag zur Übergabe oder Übernahme des Bestandgegenstandes, wider welche nicht rechtzeitig Einwendungen erhoben wurden, desgleichen die über solche Einwendungen ergangenen rechtskräftigen Urtheile treten, vorbehaltlich des über den Kostenersatz ergangenen Ausspruches, außer Kraft, wenn nicht binnen sechs Monaten nach dem Eintritte der in diesen Aufträgen oder im Urtheile für die Räumung oder Übernahme des Bestandgegenstandes bestimmten Zeit wegen dieser Räumung oder Übernahme Execution beantragt wird.
+
+## Verträge gegen Entrichtung eines Zinses in Früchten.
+
+### § 576 ZPO
+
+`§ 576 ZPO.`  
+Die Bestimmungen dieses Abschnittes finden auch auf die im §. 1103 a. b. G. B. bezeichneten Verträge Anwendung. Solche Verträge sind im Sinne dieses Gesetzes als Pachtverträge anzusehen.
+
+## Vierter Abschnitt # Schiedsverfahren # Erster Titel # Allgemeine Bestimmungen
+
+### § 577 ZPO # Anwendungsbereich
+
+`§ 577 (1) ZPO.`  
+Die Bestimmungen dieses Abschnitts sind anzuwenden, wenn der Sitz des Schiedsgerichts in Österreich liegt.
+
+`§ 577 (2) ZPO.`  
+§§ 578, 580, 583, 584, 585, 593 Abs. 3 bis 6, §§ 602, 612 und 614 sind auch anzuwenden, wenn der Sitz des Schiedsgerichts nicht in Österreich liegt oder noch nicht bestimmt ist.
+
+`§ 577 (3) ZPO.`  
+Solange der Sitz des Schiedsgerichts noch nicht bestimmt ist, besteht die inländische Gerichtsbarkeit für die im dritten Titel genannten gerichtlichen Aufgaben, wenn eine der Parteien ihren Sitz, Wohnsitz oder gewöhnlichen Aufenthalt in Österreich hat.
+
+`§ 577 (4) ZPO.`  
+Die Bestimmungen dieses Abschnitts sind nicht auf Einrichtungen nach dem Vereinsgesetz zur Schlichtung von Streitigkeiten aus dem Vereinsverhältnis anwendbar.
+
+### § 578 ZPO # Gerichtliche Tätigkeit
+
+`§ 578 ZPO.`  
+Das Gericht darf in den in diesem Abschnitt geregelten Angelegenheiten nur tätig werden, soweit dieser Abschnitt es vorsieht.
+
+### § 579 ZPO # Rügepflicht
+
+`§ 579 ZPO.`  
+Hat das Schiedsgericht einer Verfahrensbestimmung dieses Abschnitts, von der die Parteien abweichen können, oder einem vereinbarten Verfahrenserfordernis des Schiedsverfahrens nicht entsprochen, so kann eine Partei den Mangel später nicht mehr geltend machen, wenn sie ihn nicht unverzüglich ab Kenntnis oder innerhalb der dafür vorgesehenen Frist gerügt hat.
+
+### § 580 ZPO # Empfang schriftlicher Mitteilungen
+
+`§ 580 (1) ZPO.`  
+Haben die Parteien nichts anderes vereinbart, so gilt eine schriftliche Mitteilung an dem Tag als empfangen, an dem sie dem Empfänger oder einer zum Empfang berechtigten Person persönlich ausgehändigt wurde oder, wenn dies nicht möglich war, an dem sie am Sitz, Wohnsitz oder gewöhnlichen Aufenthalt des Empfängers sonst übergeben wurde.
+
+`§ 580 (2) ZPO.`  
+Hat der Empfänger Kenntnis vom Schiedsverfahren und ist er oder eine zum Empfang berechtigte Person trotz angemessener Nachforschungen unbekannten Aufenthalts, so gilt eine schriftliche Mitteilung an dem Tag als empfangen, an dem eine ordnungsgemäße Übermittlung nachweislich an einem Ort versucht wurde, der bei Abschluss der Schiedsvereinbarung oder in der Folge vom Empfänger der anderen Partei oder dem Schiedsgericht gegenüber als Adresse bekannt gegeben worden ist und bisher nicht unter Angabe einer neuen Adresse widerrufen wurde.
+
+`§ 580 (3) ZPO.`  
+Abs. 1 und 2 gelten nicht für Mitteilungen in gerichtlichen Verfahren.
+
+## Zweiter Titel # Schiedsvereinbarung
+
+### § 581 ZPO # Begriff
+
+`§ 581 (1) ZPO.`  
+Die Schiedsvereinbarung ist eine Vereinbarung der Parteien, alle oder einzelne Streitigkeiten, die zwischen ihnen in Bezug auf ein bestimmtes Rechtsverhältnis vertraglicher oder nichtvertraglicher Art entstanden sind oder künftig entstehen, der Entscheidung durch ein Schiedsgericht zu unterwerfen. Die Schiedsvereinbarung kann in Form einer selbständigen Vereinbarung oder in Form einer Klausel in einem Vertrag geschlossen werden.
+
+`§ 581 (2) ZPO.`  
+Die Bestimmungen dieses Abschnitts sind auch auf Schiedsgerichte sinngemäß anzuwenden, die in gesetzlich zulässiger Weise durch letztwillige Verfügung oder andere nicht auf Vereinbarung der Parteien beruhende Rechtsgeschäfte oder durch Statuten angeordnet werden.
+
+### § 582 ZPO # Schiedsfähigkeit
+
+`§ 582 (1) ZPO.`  
+Jeder vermögensrechtliche Anspruch, über den von den ordentlichen Gerichten zu entscheiden ist, kann Gegenstand einer Schiedsvereinbarung sein. Eine Schiedsvereinbarung über nicht vermögensrechtliche Ansprüche hat insofern rechtliche Wirkung, als die Parteien über den Gegenstand des Streits einen Vergleich abzuschließen fähig sind.
+
+`§ 582 (2) ZPO.`  
+Familienrechtliche Ansprüche sowie alle Ansprüche aus Verträgen, die dem Mietrechtsgesetz oder dem Wohnungsgemeinnützigkeitsgesetz auch nur teilweise unterliegen, einschließlich der Streitigkeiten über die Eingehung, das Bestehen, die Auflösung und die rechtliche Einordnung solcher Verträge, und alle wohnungseigentumsrechtlichen Ansprüche können nicht Gegenstand einer Schiedsvereinbarung sein. Gesetzliche Vorschriften außerhalb dieses Abschnitts, nach denen Streitigkeiten einem Schiedsverfahren nicht oder nur unter bestimmten Voraussetzungen unterworfen werden dürfen, bleiben unberührt.
+
+### § 583 ZPO # Form der Schiedsvereinbarung
+
+`§ 583 (1) ZPO.`  
+Die Schiedsvereinbarung muss entweder in einem von den Parteien unterzeichneten Schriftstück oder in zwischen ihnen gewechselten Schreiben, Telefaxen, e-mails oder anderen Formen der Nachrichtenübermittlung enthalten sein, die einen Nachweis der Vereinbarung sicherstellen.
+
+`§ 583 (2) ZPO.`  
+Nimmt ein den Formerfordernissen des Abs. 1 entsprechender Vertrag auf ein Schriftstück Bezug, das eine Schiedsvereinbarung enthält, so begründet dies eine Schiedsvereinbarung, wenn die Bezugnahme dergestalt ist, dass sie diese Schiedsvereinbarung zu einem Bestandteil des Vertrages macht.
+
+`§ 583 (3) ZPO.`  
+Ein Formmangel der Schiedsvereinbarung wird im Schiedsverfahren durch Einlassung in die Sache geheilt, wenn er nicht spätestens zugleich mit der Einlassung gerügt wird.
+
+### § 584 ZPO # Schiedsvereinbarung und Klage vor Gericht
+
+`§ 584 (1) ZPO.`  
+Wird vor einem Gericht Klage in einer Angelegenheit erhoben, die Gegenstand einer Schiedsvereinbarung ist, so hat das Gericht die Klage zurückzuweisen, sofern der Beklagte nicht zur Sache vorbringt oder mündlich verhandelt, ohne dies zu rügen. Dies gilt nicht, wenn das Gericht feststellt, dass die Schiedsvereinbarung nicht vorhanden oder undurchführbar ist. Ist ein solches Verfahren noch vor einem Gericht anhängig, so kann ein Schiedsverfahren dennoch eingeleitet oder fortgesetzt werden und ein Schiedsspruch ergehen.
+
+`§ 584 (2) ZPO.`  
+Hat ein Schiedsgericht seine Zuständigkeit für den Gegenstand des Streits verneint, weil hierüber keine Schiedsvereinbarung vorhanden ist oder die Schiedsvereinbarung undurchführbar ist, so darf das Gericht eine Klage darüber nicht mit der Begründung zurückweisen, dass für die Angelegenheit ein Schiedsgericht zuständig ist. Mit der Erhebung der Klage bei Gericht erlischt das Recht des Klägers, nach § 611 eine Klage auf Aufhebung der Entscheidung zu erheben, mit welcher das Schiedsgericht seine Zuständigkeit verneint hat.
+
+`§ 584 (3) ZPO.`  
+Ist ein Schiedsverfahren anhängig, so darf über den geltend gemachten Anspruch kein weiterer Rechtsstreit vor einem Gericht oder einem Schiedsgericht durchgeführt werden; eine wegen desselben Anspruches angebrachte Klage ist zurückzuweisen. Dies gilt nicht, wenn die Unzuständigkeit des Schiedsgerichts vor diesem spätestens mit der Einlassung in die Sache gerügt wurde und eine Entscheidung des Schiedsgerichtes hierüber in angemessener Dauer nicht zu erlangen ist.
+
+`§ 584 (4) ZPO.`  
+Wird eine Klage von einem Gericht wegen Zuständigkeit eines Schiedsgerichtes oder von einem Schiedsgericht wegen Zuständigkeit eines Gerichtes oder eines anderen Schiedsgerichtes zurückgewiesen oder wird in einem Aufhebungsverfahren ein Schiedsspruch wegen Unzuständigkeit des Schiedsgerichts aufgehoben, so gilt das Verfahren als gehörig fortgesetzt, wenn unverzüglich Klage vor dem Gericht oder Schiedsgericht erhoben wird.
+
+`§ 584 (5) ZPO.`  
+Eine Partei, die sich zu einem früheren Zeitpunkt in einem Verfahren auf das Vorhandensein einer Schiedsvereinbarung berufen hat, kann später nicht mehr geltend machen, dass diese nicht vorliegt, es sei denn, die maßgebenden Umstände haben sich seither geändert.
+
+### § 585 ZPO # Schiedsvereinbarung und einstweilige gerichtliche Maßnahmen
+
+`§ 585 ZPO.`  
+Eine Schiedsvereinbarung schließt nicht aus, dass eine Partei vor oder während des Schiedsverfahrens bei einem Gericht eine vorläufige oder sichernde Maßnahme beantragt und dass das Gericht eine solche Maßnahme anordnet.
+
 ## Dritter Titel # Bildung des Schiedsgerichts
 
 ### § 586 ZPO # Zusammensetzung des Schiedsgerichts
@@ -161,207 +306,5 @@ das Schiedsgericht die Maßnahme eingeschränkt oder aufgehoben hat;
 ein Fall von § 399 Abs. 1 Z 1 bis 4 EO vorliegt, sofern ein solcher Umstand nicht bereits vor dem Schiedsgericht erfolglos geltend gemacht wurde und der diesbezüglichen Entscheidung des Schiedsgerichts keine Anerkennungshindernisse (Abs. 4) entgegenstehen;  
 `§ 593 (6) Z 4 ZPO.`
 eine Sicherheit nach Abs. 1 geleistet wurde, welche die Vollziehung der Maßnahme entbehrlich macht.
-
-## Fünfter Titel # Durchführung des Schiedsverfahrens
-
-### § 594 ZPO # Allgemeines
-
-`§ 594 (1) ZPO.`  
-Vorbehaltlich der zwingenden Vorschriften dieses Abschnitts können die Parteien die Verfahrensgestaltung frei vereinbaren. Dabei können sie auch auf Verfahrensordnungen Bezug nehmen. Fehlt eine solche Vereinbarung, so hat das Schiedsgericht nach den Bestimmungen dieses Titels, darüber hinaus nach freiem Ermessen vorzugehen.
-
-`§ 594 (2) ZPO.`  
-Die Parteien sind fair zu behandeln. Jeder Partei ist rechtliches Gehör zu gewähren.
-
-`§ 594 (3) ZPO.`  
-Die Parteien können sich durch Personen ihrer Wahl vertreten oder beraten lassen. Dieses Recht kann nicht ausgeschlossen oder eingeschränkt werden.
-
-`§ 594 (4) ZPO.`  
-Ein Schiedsrichter, welcher die durch Annahme der Bestellung übernommene Verpflichtung gar nicht oder nicht rechtzeitig erfüllt, haftet den Parteien für allen durch seine schuldhafte Weigerung oder Verzögerung verursachten Schaden.
-
-### § 595 ZPO # Sitz des Schiedsgerichts
-
-`§ 595 (1) ZPO.`  
-Die Parteien können den Sitz des Schiedsgerichts frei vereinbaren. Sie können die Bestimmung des Sitzes auch einer Schiedsinstitution überlassen. Fehlt eine solche Vereinbarung, so wird der Sitz des Schiedsgerichts vom Schiedsgericht bestimmt; dabei sind die Umstände des Falles einschließlich der Eignung des Ortes für die Parteien zu berücksichtigen.
-
-`§ 595 (2) ZPO.`  
-Haben die Parteien nichts anderes vereinbart, so kann das Schiedsgericht ungeachtet des Abs. 1 an jedem ihm geeignet erscheinenden Ort Verfahrenshandlungen setzen, insbesondere zur Beratung, Beschlussfassung, mündlichen Verhandlung und zur Beweisaufnahme zusammentreten.
-
-### § 596 ZPO # Verfahrenssprache
-
-`§ 596 ZPO.`  
-Die Parteien können die Sprache oder die Sprachen, die im Schiedsverfahren zu verwenden sind, vereinbaren. Fehlt eine solche Vereinbarung, so bestimmt hierüber das Schiedsgericht.
-
-### § 597 ZPO # Klage und Klagebeantwortung
-
-`§ 597 (1) ZPO.`  
-Innerhalb der von den Parteien vereinbarten oder vom Schiedsgericht bestimmten Frist hat der Kläger sein Begehren zu stellen und die Tatsachen, auf welche sich der Anspruch stützt, darzulegen sowie der Beklagte hiezu Stellung zu nehmen. Die Parteien können dabei alle ihnen erheblich erscheinenden Beweismittel vorlegen oder weitere Beweismittel bezeichnen, derer sie sich bedienen wollen.
-
-`§ 597 (2) ZPO.`  
-Haben die Parteien nichts anderes vereinbart, so können beide Parteien im Laufe des Verfahrens ihre Klage oder ihr Vorbringen ändern oder ergänzen, es sei denn, das Schiedsgericht lässt dies wegen Verspätung nicht zu.
-
-### § 598 ZPO # Mündliche Verhandlung und schriftliches Verfahren
-
-`§ 598 ZPO.`  
-Haben die Parteien nichts anderes vereinbart, so entscheidet das Schiedsgericht, ob mündlich verhandelt oder ob das Verfahren schriftlich durchgeführt werden soll. Haben die Parteien eine mündliche Verhandlung nicht ausgeschlossen, so hat das Schiedsgericht auf Antrag einer Partei eine solche in einem geeigneten Abschnitt des Verfahrens durchzuführen.
-
-### § 599 ZPO # Verfahren und Beweisaufnahme
-
-`§ 599 (1) ZPO.`  
-Das Schiedsgericht ist berechtigt, über die Zulässigkeit einer Beweisaufnahme zu entscheiden, diese durchzuführen und ihr Ergebnis frei zu würdigen.
-
-`§ 599 (2) ZPO.`  
-Die Parteien sind von jeder Verhandlung und von jedem Zusammentreffen des Schiedsgerichts zu Zwecken der Beweisaufnahme rechtzeitig in Kenntnis zu setzen.
-
-`§ 599 (3) ZPO.`  
-Alle Schriftsätze, Schriftstücke und sonstigen Mitteilungen, die dem Schiedsgericht von einer Partei vorgelegt werden, sind der anderen Partei zur Kenntnis zu bringen. Gutachten und andere Beweismittel, auf die sich das Schiedsgericht bei seiner Entscheidung stützen kann, sind beiden Parteien zur Kenntnis zu bringen.
-
-### § 600 ZPO # Versäumung einer Verfahrenshandlung
-
-`§ 600 (1) ZPO.`  
-Versäumt es der Kläger, die Klage nach § 597 Abs. 1 einzubringen, so beendet das Schiedsgericht das Verfahren.
-
-`§ 600 (2) ZPO.`  
-Versäumt es der Beklagte nach § 597 Abs. 1 binnen der vereinbarten oder aufgetragenen Frist Stellung zu nehmen, so setzt das Schiedsgericht, wenn die Parteien nichts anderes vereinbart haben, das Verfahren fort, ohne dass allein wegen der Versäumung das Vorbringen des Klägers für wahr zu halten ist. Gleiches gilt, wenn eine Partei eine andere Verfahrenshandlung versäumt. Das Schiedsgericht kann das Verfahren fortsetzen und eine Entscheidung auf Grund der aufgenommenen Beweise fällen. Wird die Versäumung nach Überzeugung des Schiedsgerichts genügend entschuldigt, so kann die versäumte Verfahrenshandlung nachgeholt werden.
-
-### § 601 ZPO # Vom Schiedsgericht bestellter Sachverständiger
-
-`§ 601 (1) ZPO.`  
-Haben die Parteien nichts anderes vereinbart, so kann das Schiedsgericht  
-`§ 601 (1) Z 1 ZPO.`
-einen oder mehrere Sachverständige zur Erstattung eines Gutachtens über bestimmte vom Schiedsgericht festzulegende Fragen bestellen;  
-`§ 601 (1) Z 2 ZPO.`
-die Parteien auffordern, dem Sachverständigen jede sachdienliche Auskunft zu erteilen oder alle für das Verfahren erheblichen Schriftstücke oder Sachen zur Aufnahme eines Befunds vorzulegen oder zugänglich zu machen.
-
-`§ 601 (2) ZPO.`  
-Haben die Parteien nichts anderes vereinbart, so hat der Sachverständige, wenn eine Partei dies beantragt oder das Schiedsgericht es für erforderlich hält, nach Erstattung seines Gutachtens an einer mündlichen Verhandlung teilzunehmen. Bei der Verhandlung können die Parteien Fragen an den Sachverständigen stellen und eigene Sachverständige zu den streitigen Fragen aussagen lassen.
-
-`§ 601 (3) ZPO.`  
-Auf den vom Schiedsgericht bestellten Sachverständigen sind §§ 588 und 589 Abs. 1 und 2 entsprechend anzuwenden.
-
-`§ 601 (4) ZPO.`  
-Haben die Parteien nichts anderes vereinbart, so hat jede Partei das Recht, Gutachten eigener Sachverständiger vorzulegen. Abs. 2 gilt entsprechend.
-
-### § 602 ZPO # Gerichtliche Rechtshilfe
-
-`§ 602 ZPO.`  
-Das Schiedsgericht, vom Schiedsgericht hiezu beauftragte Schiedsrichter oder eine der Parteien mit Zustimmung des Schiedsgerichts können bei Gericht die Vornahme richterlicher Handlungen beantragen, zu deren Vornahme das Schiedsgericht nicht befugt ist. Die Rechtshilfe kann auch darin bestehen, dass das Gericht ein ausländisches Gericht oder eine Behörde um die Vornahme solcher Handlungen ersucht. § 37 Abs. 2 bis 5 und §§ 38, 39 und 40 JN gelten entsprechend mit der Maßgabe, dass die Rechtsmittelbefugnis gemäß § 40 JN dem Schiedsgericht und den Parteien des Schiedsverfahrens zusteht. Das Schiedsgericht oder ein vom Schiedsgericht beauftragter Schiedsrichter und die Parteien sind berechtigt, an einer gerichtlichen Beweisaufnahme teilzunehmen und Fragen zu stellen. § 289 ist sinngemäß anzuwenden.
-
-## Sechster Titel # Schiedsspruch und Beendigung des Verfahrens
-
-### § 603 ZPO # Anzuwendendes Recht
-
-`§ 603 (1) ZPO.`  
-Das Schiedsgericht hat die Streitigkeit in Übereinstimmung mit den Rechtsvorschriften oder Rechtsregeln zu entscheiden, die von den Parteien vereinbart worden sind. Die Vereinbarung des Rechts oder der Rechtsordnung eines bestimmten Staates ist, sofern die Parteien nicht ausdrücklich etwas anderes vereinbart haben, als unmittelbare Verweisung auf das materielle Recht dieses Staates und nicht auf sein Kollisionsrecht zu verstehen.
-
-`§ 603 (2) ZPO.`  
-Haben die Parteien die anzuwendenden Rechtsvorschriften oder Rechtsregeln nicht bestimmt, so hat das Schiedsgericht jene Rechtsvorschriften anzuwenden, die es für angemessen erachtet.
-
-`§ 603 (3) ZPO.`  
-Das Schiedsgericht hat nur dann nach Billigkeit zu entscheiden, wenn die Parteien es ausdrücklich dazu ermächtigt haben.
-
-### § 604 ZPO # Entscheidung durch ein Schiedsrichterkollegium
-
-`§ 604 ZPO.`  
-Haben die Parteien nichts anderes vereinbart, so gilt Folgendes:  
-`§ 604 Z 1 ZPO.`
-In Schiedsverfahren mit mehr als einem Schiedsrichter ist jede Entscheidung des Schiedsgerichts mit Stimmenmehrheit aller Mitglieder zu treffen. In Verfahrensfragen kann der Vorsitzende allein entscheiden, wenn die Parteien oder alle Mitglieder des Schiedsgerichts ihn dazu ermächtigt haben.  
-`§ 604 Z 2 ZPO.`
-Nehmen ein oder mehrere Schiedsrichter an einer Abstimmung ohne rechtfertigenden Grund nicht teil, so können die anderen Schiedsrichter ohne sie entscheiden. Auch in diesem Fall ist die erforderliche Stimmenmehrheit von der Gesamtzahl aller teilnehmenden und nicht teilnehmenden Schiedsrichter zu berechnen. Bei einer Abstimmung über einen Schiedsspruch ist die Absicht, so vorzugehen, den Parteien vorher mitzuteilen. Bei anderen Entscheidungen sind die Parteien von der Nichtteilnahme an der Abstimmung nachträglich in Kenntnis zu setzen.
-
-### § 605 ZPO # Vergleich
-
-`§ 605 ZPO.`  
-Vergleichen sich die Parteien während des Schiedsverfahrens über die Streitigkeit und sind die Parteien fähig, über den Gegenstand des Streits einen Vergleich abzuschließen, so können sie beantragen, dass  
-`§ 605 Z 1 ZPO.`
-das Schiedsgericht den Vergleich protokolliert, sofern der Inhalt des Vergleichs nicht gegen Grundwertungen der österreichischen Rechtsordnung (ordre public) verstößt; es reicht aus, wenn das Protokoll von den Parteien und dem Vorsitzenden unterschrieben wird;  
-`§ 605 Z 2 ZPO.`
-das Schiedsgericht den Vergleich in Form eines Schiedsspruchs mit vereinbartem Wortlaut festhält, sofern der Inhalt des Vergleichs nicht gegen Grundwertungen der österreichischen Rechtsordnung (ordre public) verstößt. Ein solcher Schiedsspruch ist gemäß § 606 zu erlassen. Er hat dieselbe Wirkung wie jeder Schiedsspruch in der Sache.
-
-### § 606 ZPO # Schiedsspruch
-
-`§ 606 (1) ZPO.`  
-Der Schiedsspruch ist schriftlich zu erlassen und durch den Schiedsrichter oder die Schiedsrichter zu unterschreiben. Haben die Parteien nichts anderes vereinbart, so genügen in Schiedsverfahren mit mehr als einem Schiedsrichter die Unterschriften der Mehrheit aller Mitglieder des Schiedsgerichts, sofern der Vorsitzende oder ein anderer Schiedsrichter am Schiedsspruch vermerkt, welches Hindernis fehlenden Unterschriften entgegensteht.
-
-`§ 606 (2) ZPO.`  
-Haben die Parteien nichts anderes vereinbart, so ist der Schiedsspruch zu begründen.
-
-`§ 606 (3) ZPO.`  
-Im Schiedsspruch sind der Tag, an dem er erlassen wurde, und der nach § 595 Abs. 1 bestimmte Sitz des Schiedsgerichts anzugeben. Der Schiedsspruch gilt als an diesem Tag und an diesem Ort erlassen.
-
-`§ 606 (4) ZPO.`  
-Jeder Partei ist ein von den Schiedsrichtern nach Abs. 1 unterschriebenes Exemplar des Schiedsspruchs zu übersenden.
-
-`§ 606 (5) ZPO.`  
-Der Schiedsspruch und die Urkunden über dessen Zustellung sind gemeinschaftliche Urkunden der Parteien und der Schiedsrichter. Das Schiedsgericht hat mit den Parteien eine allfällige Verwahrung des Schiedsspruchs sowie der Urkunden über dessen Zustellung zu erörtern.
-
-`§ 606 (6) ZPO.`  
-Der Vorsitzende, im Falle seiner Verhinderung ein anderer Schiedsrichter, hat auf Verlangen einer Partei die Rechtskraft und Vollstreckbarkeit des Schiedsspruchs auf einem Exemplar des Schiedsspruchs zu bestätigen.
-
-`§ 606 (7) ZPO.`  
-Durch Erlassung eines Schiedsspruchs tritt die zugrunde liegende Schiedsvereinbarung nicht außer Kraft.
-
-### § 607 ZPO # Wirkung des Schiedsspruchs
-
-`§ 607 ZPO.`  
-Der Schiedsspruch hat zwischen den Parteien die Wirkung eines rechtskräftigen gerichtlichen Urteils.
-
-### § 608 ZPO # Beendigung des Schiedsverfahrens
-
-`§ 608 (1) ZPO.`  
-Das Schiedsverfahren wird mit dem Schiedsspruch in der Sache, einem Schiedsvergleich oder mit einem Beschluss des Schiedsgerichts nach Abs. 2 beendet.
-
-`§ 608 (2) ZPO.`  
-Das Schiedsgericht hat das Schiedsverfahren zu beenden, wenn  
-`§ 608 (2) Z 1 ZPO.`
-es der Kläger versäumt, die Klage nach § 597 Abs. 1 einzubringen;  
-`§ 608 (2) Z 2 ZPO.`
-der Kläger seine Klage zurücknimmt, es sei denn, dass der Beklagte dem widerspricht und das Schiedsgericht ein berechtigtes Interesse des Beklagten an der endgültigen Beilegung der Streitigkeit anerkennt;  
-`§ 608 (2) Z 3 ZPO.`
-die Parteien die Beendigung des Verfahrens vereinbaren und dies dem Schiedsgericht mitteilen;  
-`§ 608 (2) Z 4 ZPO.`
-ihm die Fortsetzung des Verfahrens unmöglich geworden ist, insbesondere weil die bisher im Verfahren tätigen Parteien trotz schriftlicher Aufforderung des Schiedsgerichts, mit welcher dieses auf die Möglichkeit einer Beendigung des Schiedsverfahrens hinweist, das Schiedsverfahren nicht weiter betreiben.
-
-`§ 608 (3) ZPO.`  
-Vorbehaltlich der §§ 606 Abs. 4 bis 6, 609 Abs. 5, und 610 sowie der Verpflichtung zur Aufhebung einer angeordneten vorläufigen oder sichernden Maßnahme endet das Amt des Schiedsgerichts mit der Beendigung des Schiedsverfahrens.
-
-### § 609 ZPO # Entscheidung über die Kosten
-
-`§ 609 (1) ZPO.`  
-Wird das Schiedsverfahren beendet, so hat das Schiedsgericht über die Verpflichtung zum Kostenersatz zu entscheiden, sofern die Parteien nichts anderes vereinbart haben. Das Schiedsgericht hat dabei nach seinem Ermessen die Umstände des Einzelfalls, insbesondere den Ausgang des Verfahrens, zu berücksichtigen. Die Ersatzpflicht kann alle zur zweckentsprechenden Rechtsverfolgung oder Rechtsverteidigung angemessenen Kosten umfassen. Im Fall von § 608 Abs. 2 Z 3 hat eine solche Entscheidung nur zu ergehen, wenn eine Partei gleichzeitig mit der Mitteilung der Vereinbarung über die Beendigung des Verfahrens eine solche Entscheidung beantragt.
-
-`§ 609 (2) ZPO.`  
-Das Schiedsgericht kann auf Antrag des Beklagten auch über eine Verpflichtung des Klägers zum Kostenersatz entscheiden, wenn es sich für unzuständig erklärt hat, weil keine Schiedsvereinbarung vorhanden ist.
-
-`§ 609 (3) ZPO.`  
-Gleichzeitig mit der Entscheidung über die Verpflichtung zum Kostenersatz hat das Schiedsgericht, sofern dies bereits möglich ist und die Kosten nicht gegeneinander aufgehoben werden, den Betrag der zu ersetzenden Kosten festzusetzen.
-
-`§ 609 (4) ZPO.`  
-In jedem Fall haben die Entscheidung über die Verpflichtung zum Kostenersatz und die Festsetzung des zu ersetzenden Betrags in Form eines Schiedsspruchs nach § 606 zu erfolgen.
-
-`§ 609 (5) ZPO.`  
-Ist die Entscheidung über die Verpflichtung zum Kostenersatz oder die Festsetzung des zu ersetzenden Betrags unterblieben oder erst nach Beendigung des Schiedsverfahrens möglich, so wird darüber in einem gesonderten Schiedsspruch entschieden.
-
-### § 610 ZPO # Berichtigung, Erläuterung und Ergänzung des Schiedsspruchs
-
-`§ 610 (1) ZPO.`  
-Sofern die Parteien keine andere Frist vereinbart haben, kann jede Partei innerhalb von vier Wochen nach Empfang des Schiedsspruchs beim Schiedsgericht beantragen,  
-`§ 610 (1) Z 1 ZPO.`
-Rechen-, Schreib- und Druckfehler oder Fehler ähnlicher Art im Schiedsspruch zu berichtigen;  
-`§ 610 (1) Z 2 ZPO.`
-bestimmte Teile des Schiedsspruchs zu erläutern, sofern die Parteien dies vereinbart haben;  
-`§ 610 (1) Z 3 ZPO.`
-einen ergänzenden Schiedsspruch über Ansprüche zu erlassen, die im Schiedsverfahren zwar geltend gemacht, im Schiedsspruch aber nicht erledigt worden sind.
-
-`§ 610 (2) ZPO.`  
-Der Antrag nach Abs. 1 ist der anderen Partei zu übersenden. Vor der Entscheidung über einen solchen Antrag ist die andere Partei zu hören.
-
-`§ 610 (3) ZPO.`  
-Das Schiedsgericht soll über die Berichtigung oder Erläuterung des Schiedsspruchs innerhalb von vier Wochen und über die Ergänzung des Schiedsspruchs innerhalb von acht Wochen entscheiden.
-
-`§ 610 (4) ZPO.`  
-Eine Berichtigung des Schiedsspruchs nach Abs. 1 Z 1 kann das Schiedsgericht binnen vier Wochen ab dem Datum des Schiedsspruchs auch ohne Antrag vornehmen.
-
-`§ 610 (5) ZPO.`  
-§ 606 ist auf die Berichtigung, Erläuterung oder Ergänzung des Schiedsspruchs anzuwenden. Die Erläuterung oder Berichtigung ist Bestandteil des Schiedsspruchs.
 
 `END-OF-DATA-FILE` *(fortges. in [BG.ZPO.019](BG.ZPO.019.md))*

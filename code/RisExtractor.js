@@ -450,6 +450,23 @@ class RisExAST {
 		this.set("type", "Par");
 		this.contentElement = this.baseElement.querySelector(
 				":scope > div.embeddedContent > div > div.contentBlock");
+		this.linksElemnt = this.baseElement.querySelector(":scope > .documentLinks");
+		this.umsetzHinwElement = null;
+		this.notesElement = null;
+
+		for (let el of this.baseElement.querySelectorAll(":scope > div.p:not(.embeddedContent)")) {
+			const h3txt = el.querySelector(":scope > h3").textContent;
+			if (h3txt == "Umsetzungshinweis für folgende Bestimmung")
+				this.umsetzHinwElement = el;
+			if (h3txt == "Beachte für folgende Bestimmung")
+				this.notesElement = el;
+		}
+
+		let expectedChildElementCount = 1 + (!!this.contentElement) + (!!this.linksElemnt) +
+				(!!this.umsetzHinwElement) + (!!this.notesElement);
+		if (this.baseElement.childElementCount != expectedChildElementCount)
+			console.log(this.baseElement.childElementCount, this.baseElement.innerHTML);
+
 		this.contentElement.querySelectorAll(":scope > *").forEach(item =>
 				this.visitElement(item));
 	}
@@ -549,6 +566,18 @@ class RisExAST {
 		for (let child of this.children) {
 			let c = child.getJSON(verbose, annotate, partName);
 			if (c !== null) s.push(c);
+		}
+
+		if (this.typeIn("Par") && this.notesElement) {
+			const txt = this.notesElement.textContent.trimStart()
+					.replace("Beachte für folgende Bestimmung\n", "").trim();
+			s.push(["Text", ["Rem", "(Beachte: " + txt + ")"]]);
+		}
+
+		if (this.typeIn("Par") && this.umsetzHinwElement) {
+			const txt = this.umsetzHinwElement.textContent.trimStart()
+					.replace("Umsetzungshinweis für folgende Bestimmung\n", "").trim();
+			s.push(["Text", ["Rem", "(Umsetzungshinweis: " + txt + ")"]]);
 		}
 
 		return s;

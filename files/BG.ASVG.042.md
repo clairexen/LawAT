@@ -302,6 +302,8 @@ Die Landesgesundheitsfonds haben dem Dachverband bis jeweils spätestens 31. M�
 `§ 447f (18) ASVG.`  
 Die Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz setzt mit Verordnung für das Jahr 2020 und die folgenden Jahre jene Beträge und Aufteilungsschlüssel der §§ 149 und 447f fest, wie sie in Folge der Strukturreform der Sozialversicherungsträger durch das Bundesgesetz BGBl. I Nr. 100/2018 und der sich daraus ergebenden Zuordnung von Versichertengruppen, insbesondere im Zusammenhang mit der Auflösung der Betriebskrankenkassen, neu zu berechnen sind. In der Verordnung ist festzulegen, dass die Hälfte der nach § 1a GSBG an die Sozialversicherungsanstalt der Selbständigen zugewiesenen Beihilfe für die Beiträge der Träger der Sozialversicherung zur Krankenanstaltenfinanzierung zu widmen ist, wobei gleichzeitig eine Entlastung der Österreichischen Gesundheitskasse um diese Summe zu erfolgen hat.
 
+*(Beachte: Abs. 1, 6, 14 und 16 treten nach Ablauf von sechs Monaten nach Außerkrafttreten der Vereinbarung gemäß Art. 15a B-VG über die Organisation und Finanzierung des Gesundheitswesens, in der jeweils geltenden Fassung außer Kraft (vgl. § 675 Abs. 3 und § 701 Abs. 2).)*
+
 ### § 447g ASVG # Beiträge nach dem Gesundheits-Zielsteuerungsgesetz – G-ZG
 
 `§ 447g (1) ASVG.`  

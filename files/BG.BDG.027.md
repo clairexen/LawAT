@@ -216,6 +216,8 @@ Abs. 2 ist auch auf die Zeiten anzuwenden, in denen der Beamte zwar nicht die v
 `§ 249b (4) BDG.`  
 Die Bundesministerin oder der Bundesminister für Landwirtschaft, Regionen und Tourismus hat im Einvernehmen mit der Bundesministerin oder dem Bundesminister für Kunst, Kultur, öffentlichen Dienst und Sport für die Beamten der Fernmeldebehörde durch Verordnung zu bestimmen, welche Organisationseinheiten und welche weiteren gleichwertigen Verwendungen den in der Anlage 1 Z 30 bis 35 angeführten Kategorien zuzuordnen sind. Bei der Zuordnung der Organisationseinheiten ist auf ihre Größe, ihre sachliche und personelle Ausstattung, auf die mit ihrer Leitung verbundene Verantwortung und auf die Stellung dieser Organisationseinheit im Betrieb Bedacht zu nehmen. Bei der Zuordnung der Verwendungen sind insbesondere Art und Schwierigkeit der Tätigkeit, der Umfang des Aufgabenbereiches, die dem Arbeitsplatzinhaber in seinem Aufgabenbereich eingeräumte Selbständigkeit, die Verfügungsberechtigung, die Eigenverantwortlichkeit der Tätigkeit, die organisatorische Stellung des Arbeitsplatzes und die für die betreffende Verwendung erforderliche Ausbildung zu berücksichtigen.
 
+*(Beachte: Abs. 4: zum Inkrafttreten vgl. § 284 Abs. 108 Z 3 und 4)*
+
 ### § 249c BDG # Amtstitel und Verwendungsbezeichnungen
 
 `§ 249c (1) BDG.`  

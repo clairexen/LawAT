@@ -45,6 +45,8 @@ die nach § 8 Abs. 1 Z 1 lit. h Teilversicherten.
 `§ 138 (3) ASVG.`  
 Nach Abs. 1 Anspruchsberechtigte, die Pflichtmitglieder der Tierärztekammern und die der Österreichischen Zahnärztekammer angehörenden Dentisten/Dentistinnen haben den Beginn der Arbeitsunfähigkeit infolge Krankheit dem Versicherungsträger innerhalb einer Woche zu melden. Die Meldung der Arbeitsunfähigkeit durch den behandelnden Arzt oder durch eine Krankenanstalt ist der Meldung durch den Anspruchsberechtigten gleichzuhalten.
 
+*(Beachte: zu Abs. 2 lit. j: zum Bezugszeitraum vgl. § 800)*
+
 ### § 139 ASVG # Dauer des Krankengeldanspruches
 
 `§ 139 (1) ASVG.`  

@@ -206,6 +206,8 @@ wenn es in sonstigen Fällen für eine Person eingehoben wurde, die nicht zur Za
 `§ 31c (5) Z 4 ASVG.`
 im Ausmaß des über Abs. 2 hinausgehenden Betrages, wenn es für eine Person für ein Kalenderjahr mehrfach eingehoben wurde.
 
+*(Beachte: zum Bezugszeitraum vgl. § 810 Abs. 4)*
+
 ### § 31d ASVG # Elektronische Gesundheitsakte (ELGA)
 
 `§ 31d (1) ASVG.`  
@@ -261,6 +263,8 @@ Der/Die Leistungserbringer/in, für dessen/deren Leistung Kostenerstattung, Kost
 
 `§ 32b (2) ASVG.`  
 Freiberuflich tätige Ärztinnen und Ärzte sowie ärztliche Gruppenpraxen, für deren Leistungen Kostenerstattungen, Kostenersätze oder Kostenzuschüsse gewährt werden sollen, haben dem Krankenversicherungsträger die von den Patientinnen und Patienten nachweislich bezahlten Honorarnoten nach deren Zustimmung mit einem einheitlichen Datensatz in elektronischer Form zu übermitteln. Der Dachverband hat diesen Datensatz im übertragenen Wirkungsbereich festzusetzen und im Internet kundzumachen. Bei der Festsetzung des Datensatzes unterliegt er den Weisungen des Bundesministers/der Bundesministerin für Soziales, Gesundheit und Konsumentenschutz. Ausgenommen von der Übermittlung sind nur jene Ärztinnen und Ärzte sowie ärztliche Gruppenpraxen, denen dies nicht oder nur mit unverhältnismäßigem Aufwand möglich ist.
+
+*(Beachte: Abs. 1 und 2 sind auf Honorarnoten anzuwenden, die für ab dem 1. Juli 2024 erbrachte Leistungen ausgestellt wurden (vgl. § 795 Abs. 3).)*
 
 ### § 32h ASVG # Vertragspartner-Analyse
 
