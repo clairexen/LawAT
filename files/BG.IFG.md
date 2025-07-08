@@ -3,7 +3,7 @@
 **Kurztitel:** IFG  
 **Langtitel:** Bundesgesetz über den Zugang zu Informationen (Informationsfreiheitsgesetz – IFG)  
 **Gesamte Rechtsvorschrift in der Fassung vom:** 01.01.2026  
-**Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01  
+**Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537  
 **Letzte Änderung im RIS:**   
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md  
 *Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
@@ -70,7 +70,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `5.` der der Kontrolle des Rechnungshofes oder eines Landesrechnungshofes unterliegenden Unternehmungen, sofern im Fall der Beteiligung des Bundes, des Landes oder der Gemeinde allein oder gemeinsam mit anderen der Zuständigkeit des Rechnungshofes unterliegenden Rechtsträgern an der Unternehmung eine Beteiligung von mindestens 50 vH des Stamm\-, Grund\- oder Eigenkapitals besteht oder der Bund, das Land oder die Gemeinde allein oder gemeinsam mit anderen der Zuständigkeit des Rechnungshofes unterliegenden Rechtsträgern durch finanzielle oder sonstige wirtschaftliche oder organisatorische Maßnahmen die Unternehmung tatsächlich beherrscht oder es sich um eine Unternehmung jeder weiteren Stufe, bei der die Voraussetzungen gemäß dieser Ziffer vorliegen, handelt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-1-ifg--anwendungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01&Paragraf=1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-1-ifg--anwendungsbereich) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-1-ifg--anwendungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&Paragraf=1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-1-ifg--anwendungsbereich) \]
 
 ----
 
@@ -80,7 +80,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Informationen von allgemeinem Interesse im Sinne dieses Bundesgesetzes sind Informationen, die einen allgemeinen Personenkreis betreffen oder für einen solchen relevant sind, insbesondere solche Geschäftseinteilungen, Geschäftsordnungen, Tätigkeitsberichte, Amtsblätter, amtliche Statistiken, von informationspflichtigen Stellen erstellte oder in Auftrag gegebene Studien, Gutachten, Umfragen, Stellungnahmen und Verträge\. Verträge über einen Wert \(§§ 13 bis 18 des Bundesvergabegesetzes 2018 – BVergG 2018, BGBl\. I Nr\. 65/2018\) von mindestens 100 000 Euro sind jedenfalls von allgemeinem Interesse\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-2-ifg--begriffsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01&Paragraf=2) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-2-ifg--begriffsbestimmungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-2-ifg--begriffsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&Paragraf=2) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-2-ifg--begriffsbestimmungen) \]
 
 ----
 
@@ -92,7 +92,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Information nach diesem Bundesgesetz ist soweit im eigenen Wirkungsbereich der Gemeinden und der sonstigen Selbstverwaltungskörper zu besorgen, als diese in Angelegenheiten ergeht, die von diesen im eigenen Wirkungsbereich zu besorgen sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-3-ifg--zuständigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01&Paragraf=3) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-3-ifg--zuständigkeit) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-3-ifg--zuständigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&Paragraf=3) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-3-ifg--zuständigkeit) \]
 
 ----
 
@@ -105,7 +105,7 @@ Der Nationalrat hat beschlossen:
 > `(1)` Informationen von allgemeinem Interesse sind von den mit der Besorgung von Geschäften der Bundesverwaltung oder der Landesverwaltung betrauten Organen, von den Organen der ordentlichen Gerichtsbarkeit, von den Verwaltungsgerichten, vom Verwaltungsgerichtshof und vom Verfassungsgerichtshof ehestmöglich in einer für jedermann zugänglichen Art und Weise im Internet zu veröffentlichen und bereit zu halten, soweit und solange sie nicht der Geheimhaltung \(§ 6\) unterliegen und solange ein allgemeines Interesse daran angenommen werden kann\. Gemeinden mit weniger als 5 000 Einwohnern sind nicht zur Veröffentlichung verpflichtet; sie können solche Informationen nach Maßgabe dieser Bestimmung veröffentlichen\.
 > *\(Anm\.: Abs\. 2 tritt mit Ablauf des dritten Monats nach dem Zeitpunkt der Kundmachung der Verfügbarkeit des Informationsregisters gemäß § 5 Abs\. 5 in Kraft\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-4-ifg--proaktive-informationspflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01&Paragraf=4) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-4-ifg--proaktive-informationspflicht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-4-ifg--proaktive-informationspflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&Paragraf=4) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-4-ifg--proaktive-informationspflicht) \]
 
 ----
 
@@ -115,7 +115,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `(5)` Die Verfügbarkeit des Informationsregisters ist vom Bundesminister für Finanzen im Bundesgesetzblatt I kundzumachen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-5-ifg--informationsregister) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01&Paragraf=5) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-5-ifg--informationsregister) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-5-ifg--informationsregister) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&Paragraf=5) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-5-ifg--informationsregister) \]
 
 ----
 
@@ -155,7 +155,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Treffen die Voraussetzungen des Abs\. 1 nur auf einen Teil der Information zu, unterliegt nur dieser der Geheimhaltung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-6-ifg--geheimhaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01&Paragraf=6) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-6-ifg--geheimhaltung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-6-ifg--geheimhaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&Paragraf=6) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-6-ifg--geheimhaltung) \]
 
 ----
 
@@ -173,7 +173,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Das Verfahren über einen Antrag auf Information ist ein behördliches Verfahren gemäß Artikel I Abs\. 2 Z 1 des Einführungsgesetzes zu den Verwaltungsverfahrensgesetzen 2008 – EGVG, BGBl\. I Nr\. 87/2008\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-7-ifg--informationsbegehren-anzuwendendes-recht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01&Paragraf=7) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-7-ifg--informationsbegehren-anzuwendendes-recht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-7-ifg--informationsbegehren-anzuwendendes-recht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&Paragraf=7) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-7-ifg--informationsbegehren-anzuwendendes-recht) \]
 
 ----
 
@@ -183,7 +183,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Kann der Zugang zur Information aus besonderen Gründen sowie im Fall des § 10 nicht innerhalb der Frist gemäß Abs\. 1 gewährt werden, so kann die Frist um weitere vier Wochen verlängert werden\. Dies ist dem Antragsteller unter Angabe der Gründe innerhalb der Frist gemäß Abs\. 1 mitzuteilen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-8-ifg--frist) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01&Paragraf=8) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-8-ifg--frist) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-8-ifg--frist) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&Paragraf=8) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-8-ifg--frist) \]
 
 ----
 
@@ -195,7 +195,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Zugang zur Information ist nicht zu gewähren, wenn der Antrag auf Information offenbar missbräuchlich erfolgt oder wenn bzw\. soweit die Erteilung der Information die sonstige Tätigkeit des Organs wesentlich und unverhältnismäßig beeinträchtigen würde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-9-ifg--information) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01&Paragraf=9) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-9-ifg--information) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-9-ifg--information) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&Paragraf=9) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-9-ifg--information) \]
 
 ----
 
@@ -205,7 +205,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Geht aus dem Antrag \(§ 7\) hervor, dass er nicht nur die Privatinteressen des Antragstellers betrifft, sondern damit ein Recht auf Zugang zu Informationen gemäß Art\. 10 der Konvention zum Schutze der Menschenrechte und Grundfreiheiten, BGBl\. Nr\. 210/1958, oder des Art\. 11 der Charta der Grundrechte der Europäischen Union, ABl\. Nr\. C 83 vom 30\.03\.2010 S\. 389, geltend gemacht wird, hat die Anhörung bzw\. die Verständigung der betroffenen Person zu unterbleiben, soweit dies auf Grund dieser Bestimmungen geboten ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-10-ifg--betroffene-personen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01&Paragraf=10) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-10-ifg--betroffene-personen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-10-ifg--betroffene-personen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&Paragraf=10) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-10-ifg--betroffene-personen) \]
 
 ----
 
@@ -217,7 +217,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Im Fall der rechtswidrigen Nichtgewährung des Zugangs zu Informationen hat das Verwaltungsgericht auszusprechen, dass und in welchem Umfang Zugang zu gewähren ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-11-ifg--rechtsschutz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01&Paragraf=11) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-11-ifg--rechtsschutz) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-11-ifg--rechtsschutz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&Paragraf=11) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-11-ifg--rechtsschutz) \]
 
 ----
 
@@ -227,7 +227,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` \(Verfassungsbestimmung\) Anbringen \(Informationsbegehren\), Anträge auf Informationserteilung und sonstige Anträge im Verfahren zur Informationserteilung, Informationen und Bescheide nach diesem Bundesgesetz sind von den Verwaltungsabgaben der Länder und Gemeinden befreit\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-12-ifg--gebühren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01&Paragraf=12) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-12-ifg--gebühren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-12-ifg--gebühren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&Paragraf=12) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-12-ifg--gebühren) \]
 
 ----
 
@@ -245,7 +245,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Antrag auf Information ist schriftlich einzubringen und als Antrag gemäß diesem Bundesgesetz zu bezeichnen\. Im Antrag ist die begehrte Information zu bezeichnen\. Die Identität des Antragstellers ist in geeigneter Form glaubhaft zu machen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-13-ifg--nicht-mit-der-besorgung-von-geschäften-der-bundesverwaltung-oder-der-landesverwaltung-betraute-stiftungen-fonds-anstalten-und-unternehmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01&Paragraf=13) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-13-ifg--nicht-mit-der-besorgung-von-geschäften-der-bundesverwaltung-oder-der-landesverwaltung-betraute-stiftungen-fonds-anstalten-und-unternehmungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-13-ifg--nicht-mit-der-besorgung-von-geschäften-der-bundesverwaltung-oder-der-landesverwaltung-betraute-stiftungen-fonds-anstalten-und-unternehmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&Paragraf=13) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-13-ifg--nicht-mit-der-besorgung-von-geschäften-der-bundesverwaltung-oder-der-landesverwaltung-betraute-stiftungen-fonds-anstalten-und-unternehmungen) \]
 
 ----
 
@@ -281,7 +281,7 @@ Der Nationalrat hat beschlossen:
 
 > `(8)` Über den Antrag hat das Verwaltungsgericht binnen zwei Monaten nach seinem Einlangen zu entscheiden\. Im Fall der rechtswidrigen Nichtgewährung des Zugangs zu Informationen hat das Verwaltungsgericht auszusprechen, dass und in welchem Umfang Zugang zu gewähren ist\. Die Stiftungen, Fonds, Anstalten und Unternehmungen sind verpflichtet, in der betreffenden Rechtssache mit den ihnen zu Gebote stehenden rechtlichen Mitteln unverzüglich den der Rechtsanschauung des Verwaltungsgerichtes entsprechenden Rechtszustand herzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-14-ifg--rechtsschutz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01&Paragraf=14) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-14-ifg--rechtsschutz) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-14-ifg--rechtsschutz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&Paragraf=14) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-14-ifg--rechtsschutz) \]
 
 ----
 
@@ -295,7 +295,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Datenschutzbehörde hat die Anwendung dieses Gesetzes begleitend zu evaluieren\. Sie informiert die Öffentlichkeit über ihre Tätigkeit nach diesem Gesetz\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-15-ifg--datenschutzbehörde) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01&Paragraf=15) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-15-ifg--datenschutzbehörde) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-15-ifg--datenschutzbehörde) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&Paragraf=15) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-15-ifg--datenschutzbehörde) \]
 
 ----
 
@@ -307,7 +307,7 @@ Der Nationalrat hat beschlossen:
 
 > Soweit in anderen Bundes\- oder Landesgesetzen besondere Informationszugangsregelungen bestehen oder besondere öffentliche elektronische Register eingerichtet sind, ist dieses Bundesgesetz nicht anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-16-ifg--verhältnis-zu-anderen-rechtsvorschriften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01&Paragraf=16) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-16-ifg--verhältnis-zu-anderen-rechtsvorschriften) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-16-ifg--verhältnis-zu-anderen-rechtsvorschriften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&Paragraf=16) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-16-ifg--verhältnis-zu-anderen-rechtsvorschriften) \]
 
 ----
 
@@ -315,7 +315,7 @@ Der Nationalrat hat beschlossen:
 
 > Soweit in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze verwiesen wird, sind diese in ihrer jeweils geltenden Fassung anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-17-ifg--verweisungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01&Paragraf=17) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-17-ifg--verweisungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-17-ifg--verweisungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&Paragraf=17) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-17-ifg--verweisungen) \]
 
 ----
 
@@ -323,7 +323,7 @@ Der Nationalrat hat beschlossen:
 
 > Soweit sich die in diesem Bundesgesetz verwendeten Bezeichnungen auf natürliche Personen beziehen, gilt die gewählte Form unabhängig vom Geschlecht\. Bei der Anwendung dieser Bezeichnungen auf bestimmte natürliche Personen ist die jeweils geschlechtsspezifische Form zu verwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-18-ifg--sprachliche-gleichbehandlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01&Paragraf=18) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-18-ifg--sprachliche-gleichbehandlung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-18-ifg--sprachliche-gleichbehandlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&Paragraf=18) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-18-ifg--sprachliche-gleichbehandlung) \]
 
 ----
 
@@ -343,7 +343,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Erlassung von Durchführungsverordnungen obliegt hinsichtlich des § 5 dem Bundeskanzler im Einvernehmen mit dem Bundesminister für Finanzen, hinsichtlich des § 12 dem Bundesminister für Finanzen und im Übrigen dem Bundeskanzler\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-19-ifg--vollziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01&Paragraf=19) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-19-ifg--vollziehung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-19-ifg--vollziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&Paragraf=19) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-19-ifg--vollziehung) \]
 
 ----
 
@@ -355,4 +355,4 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` § 4 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 5/2024 ist nur auf Informationen von allgemeinem Interesse anzuwenden, die ab dem 1\. September 2025 entstehen; früher entstandene Informationen von allgemeinem Interesse können nach Maßgabe der genannten Bestimmung veröffentlicht werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-20-ifg--in--und-außerkrafttreten-übergangsbestimmung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01&Paragraf=20) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_20_TextContainer_20) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-20-ifg--in--und-außerkrafttreten-übergangsbestimmung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.md#-20-ifg--in--und-außerkrafttreten-übergangsbestimmung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&Paragraf=20) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_20_TextContainer_20) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.001.md#-20-ifg--in--und-außerkrafttreten-übergangsbestimmung) \]

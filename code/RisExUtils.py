@@ -939,56 +939,68 @@ def cli_fetch(*args):
 
     for normkey in args:
         normdata = normindex[normkey]
+        dates = (normdata['idFv'] if 'idFv' in normdata else []) + [""]
 
-        print(f"Loading {normkey} from {normdata['docurl']}")
-        page.goto(normdata["docurl"])
-        page.add_script_tag(path="code/RisExtractor.js")
+        for date in dates:
+            datestr = date if date else "markup"
+            url = normdata["docurl"]
 
-        if 'promulgationsklausel' in normdata:
-            t = normdata['promulgationsklausel'].\
-                    replace('\\', '\\\\').replace('"', '\\"')
-            page.evaluate(f'risUserPromKl = "{t}"')
+            if date:
+                url += f"&FassungVom={date}"
+            elif 'pin' in normdata:
+                url += f"&FassungVom={dates[normdata['pin']]}"
 
-        embed()
+            print(f"Loading {normkey} from {url}")
+            page.goto(url)
+            page.add_script_tag(path="code/RisExtractor.js")
 
-        print(f"  `- writing markup object tree to {flags.filesdir}/{normkey}.markup.json")
-        stopPartJs = f"'{normdata['stop']}'" if 'stop' in normdata else "null"
-        risDocJsonText = page.evaluate(f"prettyJSON(risExtractor(null, {stopPartJs}, '{normkey}'))")
-        risDocJsonText = json.loads(risDocJsonText)
+            if 'promulgationsklausel' in normdata:
+                t = normdata['promulgationsklausel'].\
+                        replace('\\', '\\\\').replace('"', '\\"')
+                page.evaluate(f'risUserPromKl = "{t}"')
 
-        if "remove-headers" in normdata:
-            changecnt = 0
-            def text(el):
-                if not isinstance(el, list):
-                    return el.replace("\u00a0", " ")
-                return " ".join([text(c) for c in el[1:]])
-            def walker(el, pat):
-                nonlocal changecnt
-                if not isinstance(el, list):
-                    return el
-                if el[0].startswith("Head") or el[0].startswith("Title") or \
-                        el[0].startswith("SubHdr"):
-                    t = el[0] + " " + text(el)
-                    if pat.match(t):
-                        changecnt += 1
-                        return None
-                return [c for c in [el[0]] + [walker(c, pat) for c in el[1:]] if c is not None]
-            risDocJsonText = walker(risDocJsonText, re.compile(normdata["remove-headers"]))
-            print(f"  `- removed {changecnt} headers matching /{normdata['remove-headers']}/.")
+            embed()
 
-        risDocJsonText = prettyJSON(risDocJsonText)
+            print(f"  `- writing markup object tree to {flags.filesdir}/{normkey}.{datestr}.json")
+            stopPartJs = f"'{normdata['stop']}'" if 'stop' in normdata else "null"
+            risDocJsonText = page.evaluate(f"prettyJSON(risExtractor(null, {stopPartJs}, '{normkey}'))")
+            risDocJsonText = json.loads(risDocJsonText)
 
-        if not os.access("__rismarkup__", os.F_OK):
-            os.mkdir("__rismarkup__")
-        open(f"__rismarkup__/{normkey}.markup.json", "w").write(risDocJsonText)
+            if "remove-headers" in normdata:
+                changecnt = 0
+                def text(el):
+                    if not isinstance(el, list):
+                        return el.replace("\u00a0", " ")
+                    return " ".join([text(c) for c in el[1:]])
+                def walker(el, pat):
+                    nonlocal changecnt
+                    if not isinstance(el, list):
+                        return el
+                    if el[0].startswith("Head") or el[0].startswith("Title") or \
+                            el[0].startswith("SubHdr"):
+                        t = el[0] + " " + text(el)
+                        if pat.match(t):
+                            changecnt += 1
+                            return None
+                    return [c for c in [el[0]] + [walker(c, pat) for c in el[1:]] if c is not None]
+                risDocJsonText = walker(risDocJsonText, re.compile(normdata["remove-headers"]))
+                print(f"  `- removed {changecnt} headers matching /{normdata['remove-headers']}/.")
 
-        if not os.access(flags.filesdir, os.F_OK):
-            os.mkdir(flags.filesdir)
-        open(f"{flags.filesdir}/{normkey}.markup.json", "w").write(risDocJsonText)
+            risDocJsonText = prettyJSON(risDocJsonText)
 
-        if flags.patch:
-            for patch in sorted(glob.glob(f"patches/{normkey}.c[0-9][0-9][0-9]*.diff")):
-                cli_patch(normkey, patch)
+            if not os.access("__rismarkup__", os.F_OK):
+                os.mkdir("__rismarkup__")
+            open(f"__rismarkup__/{normkey}.{datestr}.json", "w").write(risDocJsonText)
+
+            if not os.access(flags.filesdir, os.F_OK):
+                os.mkdir(flags.filesdir)
+            open(f"{flags.filesdir}/{normkey}.{datestr}.json", "w").write(risDocJsonText)
+
+            if flags.patch:
+                patches = set(glob.glob(f"patches/{normkey}.c[0-9][0-9][0-9]-*.diff"))
+                patches |= set(glob.glob(f"patches/{normkey}.c[0-9][0-9][0-9]_{datestr}-*.diff"))
+                for patch in sorted(patches):
+                    cli_patch(normkey, patch)
 
     print("DONE.")
     stopPlaywright()
