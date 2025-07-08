@@ -4,5 +4,7 @@ https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=Bundesnormen&Index=95%2f01&VonPar
 RAO: https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001673
 RStDG: https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187
 
+BWG: https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10004827
+
 https://ris.bka.gv.at/RisInfo/LawList.pdf
 https://ris.bka.gv.at/RisInfo/AusgewaehlteGesetze.pdf

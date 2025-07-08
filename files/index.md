@@ -41,6 +41,7 @@
 * [Verwaltungsgerichtsverfahrensgesetz (VwGVG)](BG.VwGVG.md)
 * [Verwaltungsstrafgesetz (VStG)](BG.VStG.md)
 * [Verwaltungsvollstreckungsgesetz (VVG)](BG.VVG.md)
+* [Web-Zugänglichkeits-Gesetz (WZG)](BG.WZG.md)
 * [Wechselgesetz (WechselG)](BG.WechselG.md)
 * [Zivilprozessordnung (ZPO)](BG.ZPO.md)
 * [Zustellgesetz (ZustG)](BG.ZustG.md)

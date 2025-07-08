@@ -1,0 +1,26 @@
+{
+  "toc": [
+    ["§ 1 WZG", "BG.WZG:28-32", "BG.WZG.001:17-23", "§ 1 WZG # Gegenstand und Ziele des Gesetzes"],
+    ["§ 2 WZG", "BG.WZG:38-82", "BG.WZG.001:25-70", "§ 2 WZG # Anwendungsbereich"],
+    ["§ 3 WZG", "BG.WZG:88-94", "BG.WZG.001:72-81", "§ 3 WZG # Anforderungen an die Barrierefreiheit von Websites und mobilen Anwendungen"],
+    ["§ 4 WZG", "BG.WZG:100-106", "BG.WZG.001:83-92", "§ 4 WZG # Erklärung zur Barrierefreiheit"],
+    ["§ 5 WZG", "BG.WZG:112-130", "BG.WZG.001:94-116", "§ 5 WZG # Aufgaben im Zusammenhang mit der Web-Zugänglichkeit"],
+    ["§ 6 WZG", "BG.WZG:136-142", "BG.WZG.001:118-127", "§ 6 WZG # Datenschutz"],
+    ["§ 7 WZG", "BG.WZG:148-150", "BG.WZG.001:129-132", "§ 7 WZG # Personenbezogene Bezeichnungen"],
+    ["§ 8 WZG", "BG.WZG:156-158", "BG.WZG.001:134-137", "§ 8 WZG # Verweisungen"],
+    ["§ 9 WZG", "BG.WZG:164-170", "BG.WZG.001:139-146", "§ 9 WZG # Vollziehung"],
+    ["§ 10 WZG", "BG.WZG:176-184", "BG.WZG.001:148-157", "§ 10 WZG # Inkrafttreten"]
+  ],
+  "index": {
+    "§ 1 WZG": 0,
+    "§ 2 WZG": 1,
+    "§ 3 WZG": 2,
+    "§ 4 WZG": 3,
+    "§ 5 WZG": 4,
+    "§ 6 WZG": 5,
+    "§ 7 WZG": 6,
+    "§ 8 WZG": 7,
+    "§ 9 WZG": 8,
+    "§ 10 WZG": 9
+  }
+}
