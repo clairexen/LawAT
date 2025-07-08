@@ -2,8 +2,8 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** IFG  
 **Langtitel:** Bundesgesetz über den Zugang zu Informationen (Informationsfreiheitsgesetz – IFG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 01.09.2025  
-**Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2025-09-01  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 01.01.2026  
+**Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537&FassungVom=2026-01-01  
 **Letzte Änderung im RIS:**   
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.000.md  
 *Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
