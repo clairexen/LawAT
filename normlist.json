@@ -5,7 +5,7 @@
 	"title": "EMRK",
 	"stop": "Art. 59",
 	"caption": "Europäische Menschenrechtskonvention (EMRK)",
-	"docurl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308"
+	"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308"
 },
 "BVG.B-VG": {
 	"type": "BVG",
@@ -146,7 +146,7 @@
 	"type": "BV",
 	"title": "StVZVO",
 	"caption": "BMIMI: Straßenverkehrszeichenverordnung (StVZVO)",
-	"docurl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793"
+	"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793"
 },
 
 "3": "====================================================================================================",
@@ -201,7 +201,7 @@
 	"type": "BG",
 	"title": "UG",
 	"caption": "Universitätsgesetz (UG)",
-	"docurl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128"
+	"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128"
 },
 "BG.KSchG": {
 	"type": "BG",
@@ -216,41 +216,41 @@
 	"title": "AktG",
 	"stop": "Anl. 1",
 	"caption": "Aktiengesetz (AktG)",
-	"docurl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070"
+	"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070"
 },
 "BG.GewO": {
 	"type": "BG",
 	"title": "GewO",
 	"stop": "Anl. 9",
 	"caption": "Gewerbeordnung (GewO)",
-	"docurl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517"
+	"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517"
 },
 "BG.GmbHG": {
 	"type": "BG",
 	"title": "GmbHG",
 	"stop": "§ 127",
 	"caption": "GmbH-Gesetz (GmbHG)",
-	"docurl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720"
+	"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720"
 },
 "BG.ASVG": {
 	"type": "BG",
 	"title": "ASVG",
 	"stop": "Anl. 14",
 	"caption": "Allgemeines Sozialversicherungsgesetz (ASVG)",
-	"docurl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147"
+	"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147"
 },
 "BG.TSchG": {
 	"type": "BG",
 	"title": "TSchG",
 	"caption": "Tierschutzgesetz (TSchG)",
-	"docurl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541"
+	"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541"
 },
 "BG.ZustG": {
 	"type": "BG",
 	"title": "ZustG",
 	"stop": "§ 41",
 	"caption": "Zustellgesetz (ZustG)",
-	"docurl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522"
+	"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522"
 },
 "BG.WZG": {
 	"type": "BG",
@@ -361,7 +361,7 @@
 	"type": "BG",
 	"title": "EGVG",
 	"caption": "Einführungsgesetz zu den Verwaltungsverfahrensgesetzen (EGVG)",
-	"docurl": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005871"
+	"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005871"
 },
 "BG.AVG": {
 	"type": "BG",
