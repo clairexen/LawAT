@@ -1158,7 +1158,7 @@ def cli_index():
                         for normkey in normindex.keys() if normkey.startswith(pf)]))+"\n")
                 f_json.write(f"{json_sep}{json.dumps(header, separators=",:", ensure_ascii=False)}")
                 json_sep = ",\n  "
-                f_json.write((json_sep + "  ").join([""] + sorted([f'[{json.dumps(normindex[normkey]["caption"], separators=",:", ensure_ascii=False)},{json.dumps(normkey, separators=",:", ensure_ascii=False)}]'
+                f_json.write((json_sep + "  ").join([""] + sorted([f'[{json.dumps(normindex[normkey]["caption"], separators=",:", ensure_ascii=False)},{json.dumps(normkey, separators=",:", ensure_ascii=False)}{"".join(","+json.dumps(d, separators=",:", ensure_ascii=False) for d in (normindex[normkey]["idFv"] if "idFv" in normindex[normkey] else []))}]'
                         for normkey in normindex.keys() if normkey.startswith(pf)])))
             f_json.write(f"\n]\n")
 
