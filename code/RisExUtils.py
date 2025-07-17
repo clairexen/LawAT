@@ -1263,7 +1263,7 @@ def cli_rs(*args):
     addFlag("fetch", True)
     args = updateFlags(*args)
 
-    #rsdata = { "items": {}, "index": {} }
+    # rsdata = { "items": {}, "index": {} }
     rsdata = json.load(open("files/rsdata.json"))
 
     if flags.scan:
@@ -1271,15 +1271,15 @@ def cli_rs(*args):
         lastPos = 1
         query = [
             "Abfrage=Justiz", "Gericht=OGH",
-            "AenderungenSeit=EinemJahr",
+            # "AenderungenSeit=EinemJahr",
             # "AenderungenSeit=EinemMonat",
-            # "AenderungenSeit=ZweiWochen",
+            "AenderungenSeit=ZweiWochen",
             # "AenderungenSeit=EinerWoche",
             "SucheNachRechtssatz=True",
             # "Norm=ABGB"
         ]
         while pos <= lastPos:
-            print(f"Scanning positions {pos} - {pos+99}.")
+            print(f"Scanning positions {pos} - {pos+99}{f' / {lastPos}' if lastPos>1 else ''}.")
             htmldata = open(fetchUrl(f"https://ris.bka.gv.at/Ergebnis.wxe?{'&'.join(query)}&ResultPageSize=100&Position={pos}")).read()
             tree = html.fromstring(htmldata)
             lastPos = int(tree.cssselect(".NumberOfDocuments")[0].text_content().strip().removesuffix(".").split(" ")[-1])
@@ -1287,6 +1287,7 @@ def cli_rs(*args):
             for row in tree.cssselect(".bocListDataRow"):
                 a = row.cssselect(":scope a")[0]
                 rsid = a.text_content()
+                if ";" in rsid: rsid = rsid.split(";", 1)[0]
                 if rsid in rsdata["items"]: continue
                 url = f"https://ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&{a.attrib['href'].split('&')[-1]}"
                 print(f"Tagging {rsid}: {url}")
@@ -1294,15 +1295,16 @@ def cli_rs(*args):
 
             pos += 100
 
-        print(f"Finished scan. Updating files/rsdata.json (len={len(rsdata['items'])}).")
+        print("Finished scan. Updating files/rsdata.json.")
         with open("files/rsdata.json", "w") as f:
             json.dump(rsdata, f, ensure_ascii=False, indent=2)
 
     if flags.fetch:
         cnt = 0
+        queue = sum(isinstance(url, str) for url in rsdata["items"].values())
         for rsid, url in rsdata["items"].items():
             if not isinstance(url, str): continue
-            print(f"Fetching {rsid}: {url}")
+            print(f"Fetching {rsid} [{cnt}/{queue}]: {url}")
             tree = html.fromstring(open(fetchUrl(url)).read())
             rsdata["items"][rsid] = {
                 "RS": rsid,
@@ -1314,19 +1316,42 @@ def cli_rs(*args):
                                         getchildren() if it.tag != "div" and it.text_content()][1:])),
                 "Rechtssatz": tree.xpath("//h3[contains(., 'Rechtssatz')]/..")[1].text_content().strip(). \
                                         removeprefix("Rechtssatz\n").strip(),
+                "Datum_Seit": tree.xpath("//h3[contains(., 'Im RIS seit')]/..")[0].text_content().strip(). \
+                                        removeprefix("Im RIS seit\n").strip(),
+                "Datum_Update": tree.xpath("//h3[contains(., 'Zuletzt aktualisiert am')]/..")[0].text_content().strip(). \
+                                        removeprefix("Zuletzt aktualisiert am\n").strip(),
             }
             if res := tree.xpath("//h3[contains(., 'Rechtsgebiet')]/.."):
                 rsdata["items"][rsid]["Rechtsgebiet"] = res[0].text_content(). \
                                 replace(" ", "").strip().split("\n")[1]
             cnt += 1
             if cnt % 100 == 0:
-                print(f"Finished batch. Updating files/rsdata.json (len={len(rsdata['items'])}).")
+                print("Finished batch. Updating files/rsdata.json.")
                 with open("files/rsdata.json", "w") as f:
                     json.dump(rsdata, f, ensure_ascii=False, indent=2)
 
         print(f"Finished fetch. Updating files/rsdata.json (len={len(rsdata['items'])}).")
+        rsdata["items"] = dict(sorted(rsdata["items"].items()))
         with open("files/rsdata.json", "w") as f:
             json.dump(rsdata, f, ensure_ascii=False, indent=2)
+
+    rsdata["index"] = {}
+    for rsitem in rsdata["items"].values():
+        for norm in rsitem["Normen"]:
+            n = norm.split(" ")
+            if len(n) != 2: continue
+            if not n[1].startswith("§"): continue
+            if n[0] not in rsdata["index"]:
+                rsdata["index"][n[0]] = {}
+            partName = f"§ {n[1].removeprefix('§')} {n[0]}"
+            if partName not in rsdata["index"][n[0]]:
+                rsdata["index"][n[0]][partName] = []
+            rsdata["index"][n[0]][partName] = sorted(set(rsdata["index"][n[0]][partName] + [rsitem["RS"]]))
+
+    print(f"Finished indexing. Updating files/rsdata.json.")
+    rsdata["index"] = dict(sorted((k, dict(sorted(v.items()))) for k,v in rsdata["index"].items()))
+    with open("files/rsdata.json", "w") as f:
+        json.dump(rsdata, f, ensure_ascii=False, indent=2)
 
 def cli_mkjson():
     data = dict()

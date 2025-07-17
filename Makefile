@@ -1,6 +1,8 @@
 # RIS Extractor -- Copyright (C) 2025  Claire Xenia Wolf <claire@clairexen.net>
 # Shared freely under ISC license (https://en.wikipedia.org/wiki/ISC_license)
 
+SHELL=/bin/bash
+
 help:
 	@echo ""
 	@echo "Usage:"
@@ -35,7 +37,8 @@ LawAT_DataSet.json: venv normlist.json files/*
 	.venv/bin/python3 code/RisExUtils.py mkwebapp
 
 update:
-	rm -rf files __rismarkup__ __webcache__
+	rm -f files/{BG,BVG,BV,WLG}.*
+	rm -rf __rismarkup__ __webcache__
 	.venv/bin/python3 code/RisExUtils.py fetch
 	.venv/bin/python3 code/RisExUtils.py render --down --index
 	$(MAKE) zip json
