@@ -1247,7 +1247,6 @@ def cli_markup(*args):
         if flags.upd or not flags.diff:
             (open(arg, "w") if flags.upd and arg != "-" else sys.stdout).write(txt)
 
-
     if not args:
         args = (*normindex.keys(),)
 
