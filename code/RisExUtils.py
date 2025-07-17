@@ -10,6 +10,7 @@ from types import SimpleNamespace
 from collections import namedtuple, defaultdict
 from urllib.parse import urljoin
 from pathlib import Path
+from lxml import html
 
 
 # Global flags and command line options
@@ -1253,6 +1254,40 @@ def cli_markup(*args):
     while args:
         handleArg(args[0])
         args = updateFlags(*args[1:])
+
+def cli_rs():
+    if False:
+        rsdata = { "items": {}, "index": {} }
+    else:
+        rsdata = json.load(open("files/rsdata.json"))
+    for pos in range(1, 6900, 100):
+        print(f"Scanning positions {pos} - {pos+99}.")
+        htmldata = open(fetchUrl(f"https://ris.bka.gv.at/Ergebnis.wxe?Abfrage=Justiz&Gericht=OGH&AenderungenSeit=EinemJahr&SucheNachRechtssatz=True&ResultPageSize=100&Position={pos}")).read()
+        for line in htmldata.split("\n"):
+            if 'id="MainContent_DocumentsList_RowSelector_' not in line: continue
+            doc, line = line.split('<a href="', 1)[1].split('" ', 1)
+            rsid = line.split('">', 1)[1].split('<', 1)[0]
+            if rsid in rsdata["items"]: continue
+            url = f"https://ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&{doc.split('&amp;')[-1]}"
+            print(f"Fetching {rsid}: {url}")
+            tree = html.fromstring(open(fetchUrl(url)).read())
+            rsdata["items"][rsid] = {
+                "RS": rsid,
+                "URL": url,
+                "Gericht": tree.xpath("//h3[contains(., 'Gericht')]/..")[0].text_content(). \
+                                replace(" ", "").strip().split("\n")[1],
+                "ET_Count": len(tree.xpath("//h3[contains(., 'Entscheidungstexte')]/../ul/li")),
+                "Normen": sorted([it.text_content() for it in tree.xpath("//h3[contains(., 'Norm')]/..")[0]. \
+                                        getchildren() if it.tag != "div" and it.text_content()][1:]),
+                "Rechtssatz": tree.xpath("//h3[contains(., 'Rechtssatz')]/..")[1].text_content().strip(). \
+                                        removeprefix("Rechtssatz\n").strip(),
+            }
+            if res := tree.xpath("//h3[contains(., 'Rechtsgebiet')]/.."):
+                rsdata["items"][rsid]["Rechtsgebiet"] = res[0].text_content(). \
+                                replace(" ", "").strip().split("\n")[1],
+        print("Updating files/rsdata.json.")
+        with open("files/rsdata.json", "w") as f:
+            json.dump(rsdata, f)
 
 def cli_mkjson():
     data = dict()
