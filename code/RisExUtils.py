@@ -1263,7 +1263,7 @@ def cli_rs(*args):
     addFlag("fetch", True)
     args = updateFlags(*args)
 
-    # rsdata = { "items": {}, "index": {} }
+    #rsdata = { "items": {}, "index": {} }
     rsdata = json.load(open("files/rsdata.json"))
 
     if flags.scan:
@@ -1324,6 +1324,9 @@ def cli_rs(*args):
             if res := tree.xpath("//h3[contains(., 'Rechtsgebiet')]/.."):
                 rsdata["items"][rsid]["Rechtsgebiet"] = res[0].text_content(). \
                                 replace(" ", "").strip().split("\n")[1]
+            if res := tree.xpath("//h3[contains(., 'Schlagworte')]/.."):
+                rsdata["items"][rsid]["Schlagworte"] = sorted(w.strip() for w in \
+                                res[0].text_content().strip().removeprefix("Schlagworte").split(",") if w.strip())
             cnt += 1
             if cnt % 100 == 0:
                 print("Finished batch. Updating files/rsdata.json.")
