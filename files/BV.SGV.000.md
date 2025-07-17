@@ -2,7 +2,7 @@
 **Typ:** Verordnung eines Bundesministeriums  
 **Kurztitel:** RPV  
 **Langtitel:** Verordnung des Bundesministers für Gesundheit über die Grenzmengen der Suchtgifte (Suchtgift-Grenzmengenverordnung – SGV)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011056  
 **Letzte Änderung im RIS:** BGBl. II Nr. 233/2024  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BV.SGV.000.md  

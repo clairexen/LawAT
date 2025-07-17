@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** SPG  
 **Langtitel:** Bundesgesetz über die Organisation der Sicherheitsverwaltung und die Ausübung der Sicherheitspolizei (Sicherheitspolizeigesetz – SPG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005792  
 **Letzte Änderung im RIS:** BGBl. I Nr. 122/2024 (NR: GP XXVII IA 4132/A AB 2639 S. 270. BR: AB 11597 S. 969.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.SPG.md  

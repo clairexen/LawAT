@@ -2,8 +2,8 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** EGVG  
 **Langtitel:** Einführungsgesetz zu den Verwaltungsverfahrensgesetzen 2008 – EGVG  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
-**Quelle:** https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005871  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
+**Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005871  
 **Letzte Änderung im RIS:** BGBl. I Nr. 177/2023 (NR: GP XXVII RV 2285 AB 2340 S. 247. BR: 11364 AB 11395 S. 961.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.EGVG.md  
 *Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
@@ -60,7 +60,7 @@
 >
 >> `6.` auf die Durchführung von Prüfungen, die der Beurteilung der Kenntnisse von Personen auf bestimmten Sachgebieten dienen, soweit es sich nicht um die Zulassung zur Prüfung handelt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EGVG.md#art-1-egvg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=1) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005871#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EGVG.001.md#art-1-egvg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EGVG.md#art-1-egvg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005871&Paragraf=1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005871#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EGVG.001.md#art-1-egvg) \]
 
 ----
 
@@ -74,7 +74,7 @@
 
 > `(3)` Verwaltungsübertretungen im Sinne des VStG sind die von den in Art\. I Abs\. 2 Z 2 genannten Behörden zu ahndenden Übertretungen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EGVG.md#art-2-egvg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=2) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005871#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EGVG.001.md#art-2-egvg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EGVG.md#art-2-egvg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005871&Paragraf=2) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005871#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EGVG.001.md#art-2-egvg) \]
 
 ----
 
@@ -106,7 +106,7 @@
 
 > `(6)` Die Behörden haben rechtskräftige Straferkenntnisse nach Abs\. 1 Z 4 den Sicherheitsbehörden für Zwecke der Sicherheitspolizei zu übermitteln, soweit diese deren Inhalt zur Erfüllung ihrer gesetzmäßigen Aufgaben benötigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EGVG.md#art-3-egvg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=3) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005871#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EGVG.001.md#art-3-egvg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EGVG.md#art-3-egvg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005871&Paragraf=3) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005871#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EGVG.001.md#art-3-egvg) \]
 
 ----
 
@@ -116,7 +116,7 @@
 
 > Mit der Vollziehung dieses Bundesgesetzes ist die Bundesregierung betraut\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EGVG.md#art-4-egvg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=4) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005871#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EGVG.001.md#art-4-egvg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EGVG.md#art-4-egvg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005871&Paragraf=4) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005871#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EGVG.001.md#art-4-egvg) \]
 
 ----
 
@@ -154,4 +154,4 @@
 
 > `(9)` Art\. III Abs\. 1 und 6 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 177/2023 tritt mit 1\. Jänner 2024 in Kraft\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EGVG.md#art-5-egvg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=5) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005871#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EGVG.001.md#art-5-egvg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.EGVG.md#art-5-egvg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005871&Paragraf=5) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005871#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.EGVG.001.md#art-5-egvg) \]

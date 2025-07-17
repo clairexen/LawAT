@@ -2,8 +2,8 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** GmbHG  
 **Langtitel:** Gesetz vom 6. März 1906, über Gesellschaften mit beschränkter Haftung (GmbH-Gesetz – GmbHG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
-**Quelle:** https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
+**Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720  
 **Letzte Änderung im RIS:** BGBl. I Nr. 179/2023 (NR: GP XXVII RV 2320 AB 2342 S. 247. BR: AB 11397 S. 961.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md  
 *Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
@@ -215,7 +215,7 @@
 
 > `(2)` Von dem Betriebe von Versicherungsgeschäften sowie von der Tätigkeit als politische Vereine sind solche Gesellschaften jedoch ausgeschlossen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-1-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=1) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-1-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-1-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-1-gmbhg) \]
 
 ----
 
@@ -227,7 +227,7 @@
 
 > `(3)` Verpflichtungen aus Vereinbarungen über Sacheinlagen können nicht übernommen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-2-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=2) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-2-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-2-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=2) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-2-gmbhg) \]
 
 ----
 
@@ -241,7 +241,7 @@
 
 > `(2)` Wird die Gesellschaft nur durch eine Person errichtet, so wird der Gesellschaftsvertrag durch die Erklärung über die Errichtung der Gesellschaft ersetzt\. Auf diese Erklärung sind die Vorschriften über den Gesellschaftsvertrag sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-3-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=3) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-3-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-3-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=3) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-3-gmbhg) \]
 
 ----
 
@@ -261,7 +261,7 @@
 
 > `(3)` Der Gesellschaftsvertrag bedarf der Form eines Notariatsakts, wobei dieser auch elektronisch unter Nutzung einer elektronischen Kommunikationsmöglichkeit \(§ 69b NO\) errichtet werden kann\. Die Unterzeichnung durch Bevollmächtigte setzt eine besondere, auf dieses einzelne Geschäft ausgestellte beglaubigte Vollmacht voraus, die dem Vertrage anzuschließen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-4-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=4) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-4-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-4-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=4) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-4-gmbhg) \]
 
 ----
 
@@ -275,7 +275,7 @@
 
 > `(4)` *\(Anm\.: aufgehoben durch BGBl\. I Nr\. 120/2005\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-5-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=5) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-5-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-5-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=5) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-5-gmbhg) \]
 
 ----
 
@@ -289,7 +289,7 @@
 
 > `(4)` Soll einem Gesellschafter die Vergütung für Vermögensgegenstände, die von der Gesellschaft übernommen werden, auf die Stammeinlage angerechnet oder sollen einem Gesellschafter besondere Begünstigungen eingeräumt werden, so sind die Person des Gesellschafters, der Gegenstand der Übernahme, der Geldwert, wofür die Vermögensgegenstände übernommen werden, und die besonders eingeräumten Begünstigungen im Gesellschaftsvertrage im einzelnen genau und vollständig festzusetzen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-6-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=6) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-6-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-6-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=6) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-6-gmbhg) \]
 
 ----
 
@@ -303,7 +303,7 @@
 
 > `(4)` Soweit nach dem Gesellschaftsvertrag Stammeinlagen nicht bar zu leisten sind und den aktienrechtlichen Vorschriften über die Gründung mit Sacheinlagen entsprochen wird, ist Abs\. 1 nicht anzuwenden; in diesem Fall sind die §§ 20, 24 bis 27, 29 Abs\. 2 und 4, §§ 39 bis 44 sowie § 25 Abs\. 4 und 5 Aktiengesetz 1965 sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-6a-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=6a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-6a-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-6a-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=6a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-6a-gmbhg) \]
 
 ----
 
@@ -313,7 +313,7 @@
 
 > `(2)` Ersatz der Kosten der Errichtung der Gesellschaft kann nur innerhalb des für die Gründungskosten im Gesellschaftsvertrage festgesetzten Höchstbetrages begehrt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-7-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=7) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-7-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-7-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=7) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-7-gmbhg) \]
 
 ----
 
@@ -323,7 +323,7 @@
 
 > `(2)` Daselbst ist auch festzusetzen, daß die Übertragung von Geschäftsanteilen der Zustimmung der Gesellschaft bedarf\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-8-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=8) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-8-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-8-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=8) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-8-gmbhg) \]
 
 ----
 
@@ -339,7 +339,7 @@
 
 > `(3)` Zugleich mit der Anmeldung haben die Geschäftsführer ihre Unterschrift vor dem Registergerichte zu zeichnen oder die Zeichnung in beglaubigter Form vorzulegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-9-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=9) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-9-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-9-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=9) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-9-gmbhg) \]
 
 ----
 
@@ -361,7 +361,7 @@
 
 > `(8)` Die gemäß Abs\. 4, 5 und 7 übermittelten Dokumente gelten als Originalurkunden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-9a-gmbhg--vereinfachte-gründung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=9a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-9a-gmbhg--vereinfachte-gründung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-9a-gmbhg--vereinfachte-gründung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=9a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-9a-gmbhg--vereinfachte-gründung) \]
 
 ----
 
@@ -379,7 +379,7 @@
 
 > `(6)` Vergleiche und Verzichtleistungen hinsichtlich solcher Ansprüche haben keine rechtliche Wirkung, soweit der Ersatz zur Befriedigung der Gläubiger erforderlich ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-10-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=10) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-10-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-10-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=10) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-10-gmbhg) \]
 
 ----
 
@@ -389,7 +389,7 @@
 
 > `(2)` Der Anspruch der Gesellschaft verjährt in fünf Jahren seit der Eintragung der Gesellschaft in das Firmenbuch\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-10a-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=10a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-10a-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-10a-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=10a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-10a-gmbhg) \]
 
 ----
 
@@ -397,7 +397,7 @@
 
 > Die Eintragung der Gesellschaft wird durch Eintragung des Gesellschaftsvertrags in das Firmenbuch vorgenommen\. Bei der Eintragung sind die Firma, der Sitz sowie die für Zustellungen maßgebliche Geschäftsanschrift der Gesellschaft, der Tag des Abschlusses des Gesellschaftsvertrags, die Höhe des Stammkapitals, Name und Geburtsdatum der Gesellschafter, gegebenenfalls die Firmenbuchnummer, die Höhe ihrer Stammeinlagen und der darauf geleisteten Einzahlungen, Name und Geburtsdatum des Vorsitzenden, seines Stellvertreters und der übrigen Mitglieder des Aufsichtsrats, allfällige Bestimmungen des Gesellschaftsvertrags über die Zeitdauer der Gesellschaft sowie Name und Geburtsdatum der Geschaftsführer anzugeben\. Ferner ist einzutragen, welche Vertretungsbefugnis die Geschäftsführer haben\. Gegebenenfalls sind auch die Inanspruchnahme der Gründungsprivilegierung nach § 10b und die Höhe der für die einzelnen Gesellschafter festgesetzten gründungsprivilegierten Stammeinlagen einzutragen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-11-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=11) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-11-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-11-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=11) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-11-gmbhg) \]
 
 ----
 
@@ -409,7 +409,7 @@
 >
 >> `2.` die in § 6 Abs\. 4 bezeichneten Bestimmungen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-12-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=12) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-12-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-12-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=12) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.001.md#-12-gmbhg) \]
 
 ----
 
@@ -433,7 +433,7 @@
 
 > `(3)` Im Gesellschaftsvertrag kann die Bestellung von Geschäftsführern durch den Bund, ein Land oder durch eine andere öffentlichrechtliche Körperschaft vorbehalten werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-15-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=15) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-15-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-15-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=15) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-15-gmbhg) \]
 
 ----
 
@@ -445,7 +445,7 @@
 
 > `(3)` Der Beschluss über die Bestellung des Geschäftsführers ist mit dessen Zustimmung sowie, sofern im Beschluss nichts anderes angeordnet ist, mit Zustellung an den Geschäftsführer wirksam\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-15a-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=15a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-15a-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-15a-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=15a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-15a-gmbhg) \]
 
 ----
 
@@ -459,7 +459,7 @@
 
 > `(4)` Die Bestimmungen der vorhergehenden Absätze finden keine Anwendung auf Geschäftsführer, die gemäß einer Festsetzung des Gesellschaftsvertrages vom Bund, einem Land oder einer anderen öffentlichrechtlichen Körperschaft bestellt worden sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-16-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=16) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-16-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-16-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=16) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-16-gmbhg) \]
 
 ----
 
@@ -473,7 +473,7 @@
 
 > *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote: Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-16a-gmbhg--rücktritt-der-geschäftsführer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=16a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-16a-gmbhg--rücktritt-der-geschäftsführer) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-16a-gmbhg--rücktritt-der-geschäftsführer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=16a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-16a-gmbhg--rücktritt-der-geschäftsführer) \]
 
 ----
 
@@ -487,7 +487,7 @@
 
 > *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-17-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=17) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_20_TextContainer_20) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-17-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-17-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=17) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_20_TextContainer_20) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-17-gmbhg) \]
 
 ----
 
@@ -505,7 +505,7 @@
 
 > `(6)` Eine Urkunde muß nicht errichtet werden, wenn das Geschäft zum gewöhnlichen Geschäftsbetrieb gehört und zu geschäftsüblichen Bedingungen abgeschlossen wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-18-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=18) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_21_TextContainer_21) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-18-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-18-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=18) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_21_TextContainer_21) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-18-gmbhg) \]
 
 ----
 
@@ -513,7 +513,7 @@
 
 > Die Gesellschaft wird durch die von den Geschäftsführern in ihrem Namen geschlossenen Rechtsgeschäfte berechtigt und verpflichtet; es ist gleichgültig, ob das Geschäft ausdrücklich im Namen der Gesellschaft geschlossen worden ist oder ob die Umstände ergeben, daß es nach dem Willen der Beteiligten für die Gesellschaft geschlossen werden sollte\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-19-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=19) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-19-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-19-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=19) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-19-gmbhg) \]
 
 ----
 
@@ -523,7 +523,7 @@
 
 > `(2)` Gegen dritte Personen hat eine Beschränkung der Vertretungsbefugnis jedoch keine rechtliche Wirkung\. Dies gilt insbesondere für den Fall, daß die Vertretung sich nur auf gewisse Geschäfte oder Arten von Geschäften erstrecken oder nur unter gewissen Umständen oder für eine gewisse Zeit oder an einzelnen Orten stattfinden soll, oder daß die Zustimmung der Gesellschafter, des Aufsichtsrates oder eines anderen Organes der Gesellschaft für einzelne Geschäfte gefordert wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-20-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=20) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_23_TextContainer_23) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-20-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-20-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=20) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_23_TextContainer_23) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-20-gmbhg) \]
 
 ----
 
@@ -533,7 +533,7 @@
 
 > `(2)` Ist nach dem Gesellschaftsvertrage jeder Geschäftsführer für sich allein zur Geschäftsführung berufen, so muß, wenn einer unter ihnen gegen die Vornahme einer zur Geschäftsführung gehörenden Handlung Widerspruch erhebt, dieselbe unterbleiben, es sei denn, daß der Gesellschaftsvertrag etwas anderes bestimmt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-21-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=21) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-21-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-21-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=21) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-21-gmbhg) \]
 
 ----
 
@@ -547,7 +547,7 @@
 
 > *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-22-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=22) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-22-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-22-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=22) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-22-gmbhg) \]
 
 ----
 
@@ -555,7 +555,7 @@
 
 > Auf große Gesellschaften \(§ 221 UGB\) sind § 229 Abs\. 4 bis 7 UGB und § 260 AktG sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-23-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=23) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_26_TextContainer_26) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-23-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-23-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=23) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_26_TextContainer_26) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-23-gmbhg) \]
 
 ----
 
@@ -569,7 +569,7 @@
 
 > `(4)` Die vorstehend bezeichneten Rechte der Gesellschaft erlöschen in drei Monaten von dem Tage, an dem sämtliche Mitglieder des Aufsichtsrates oder, wenn kein Aufsichtsrat besteht, die übrigen Geschäftsführer von der sie begründenden Tatsache Kenntnis erlangt haben, jedenfalls aber in fünf Jahren von ihrem Entstehen an\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-24-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=24) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_27_TextContainer_27) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-24-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-24-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=24) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_27_TextContainer_27) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-24-gmbhg) \]
 
 ----
 
@@ -579,7 +579,7 @@
 >
 > *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-24a-gmbhg--auskunftspflicht-der-geschäftsführer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=24a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_28_TextContainer_28) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-24a-gmbhg--auskunftspflicht-der-geschäftsführer) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-24a-gmbhg--auskunftspflicht-der-geschäftsführer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=24a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_28_TextContainer_28) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-24a-gmbhg--auskunftspflicht-der-geschäftsführer) \]
 
 ----
 
@@ -605,7 +605,7 @@
 
 > `(7)` Auf diese Ersatzansprüche finden die Bestimmungen des § 10, Absatz 6, Anwendung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-25-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=25) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-25-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-25-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=25) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-25-gmbhg) \]
 
 ----
 
@@ -615,7 +615,7 @@
 
 > `(2)` Die Geschäftsführer haften für einen Schaden zur ungeteilten Hand, der durch schuldhaft falsche Angaben nach Abs\. 1 oder eine schuldhaft verzögerte Einreichung dieser Angaben verursacht wurde; für die falsche oder verzögerte Angabe der für Zustellungen maßgeblichen Anschrift eines Gesellschafters jedoch nur bei grobem Verschulden\. Ersatzansprüche der Gesellschaft verjähren in fünf Jahren nach Anmeldung der Angaben nach Abs\. 1 zum Firmenbuch, Ersatzansprüche Dritter nach den allgemeinen Verjährungsregeln\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-26-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=26) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-26-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-26-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=26) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-26-gmbhg) \]
 
 ----
 
@@ -623,7 +623,7 @@
 
 > Die für die Geschäftsführer gegebenen Vorschriften gelten auch für die Stellvertreter der Geschäftsführer\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-27-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=27) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-27-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-27-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=27) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-27-gmbhg) \]
 
 ----
 
@@ -633,7 +633,7 @@
 
 > `(2)` Wenn der Gesellschaftsvertrag nichts anderes bestimmt, kann die Bestellung eines Prokuristen nur durch sämtliche Geschäftsführer, der Widerruf der Prokura durch jeden Geschäftsführer erfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-28-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=28) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-28-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-28-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=28) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-28-gmbhg) \]
 
 ----
 
@@ -645,7 +645,7 @@
 
 > *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.Nach Art\. XII Abs\. 11 IRÄG 1997, BGBl\. I Nr\. 114/1997, ist dieNeufassung erstmalig auf nach dem 30\. September 1997 beginnendeGeschäftsjahre anzuwenden\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-28a-gmbhg--bericht-an-den-aufsichtsrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=28a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-28a-gmbhg--bericht-an-den-aufsichtsrat) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-28a-gmbhg--bericht-an-den-aufsichtsrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=28a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.002.md#-28a-gmbhg--bericht-an-den-aufsichtsrat) \]
 
 ----
 
@@ -681,7 +681,7 @@
 
 > `(6)` In anderen als in den im Abs\. 1 genannten Fällen kann die Bestellung eines Aufsichtsrats im Gesellschaftsvertrag festgesetzt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-29-gmbhg--der-aufsichtsrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=29) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-29-gmbhg--der-aufsichtsrat) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-29-gmbhg--der-aufsichtsrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=29) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-29-gmbhg--der-aufsichtsrat) \]
 
 ----
 
@@ -689,7 +689,7 @@
 
 > Der Aufsichtsrat besteht aus drei Mitgliedern\. Es können auch mehr Mitglieder bestellt werden, soweit dies nicht einer Regelung der Mitgliederzahl im Gesellschaftsvertrag widerspricht\. § 86 Abs\. 7 bis 9 AktG ist sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=30) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_35_TextContainer_35) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=30) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_35_TextContainer_35) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30-gmbhg) \]
 
 ----
 
@@ -713,7 +713,7 @@
 
 > *\(Beachte: zum Bezugszeitraum vgl\. § 127 Abs\. 18\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30a-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=30a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_36_TextContainer_36) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30a-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30a-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=30a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_36_TextContainer_36) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30a-gmbhg) \]
 
 ----
 
@@ -731,7 +731,7 @@
 
 > `(5)` Das Gericht hat auf Antrag einer Minderheit, deren Anteile zusammen den zehnten Teil des Stammkapitals erreichen, ein Aufsichtsratsmitglied abzuberufen, wenn hiefür ein wichtiger Grund vorliegt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30b-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=30b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_37_TextContainer_37) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30b-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30b-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=30b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_37_TextContainer_37) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30b-gmbhg) \]
 
 ----
 
@@ -747,7 +747,7 @@
 
 > *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30c-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=30c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30c-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30c-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=30c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30c-gmbhg) \]
 
 ----
 
@@ -759,7 +759,7 @@
 
 > `(3)` Das Gericht hat die von ihm bestellten Mitglieder abzuberufen, wenn die Voraussetzungen weggefallen sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30d-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=30d) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_39_TextContainer_39) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30d-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30d-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=30d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_39_TextContainer_39) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30d-gmbhg) \]
 
 ----
 
@@ -771,7 +771,7 @@
 
 > *\(Beachte: zum Bezugszeitraum vgl\. § 127 Abs\. 18\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30e-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=30e) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_40_TextContainer_40) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30e-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30e-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=30e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_40_TextContainer_40) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30e-gmbhg) \]
 
 ----
 
@@ -781,7 +781,7 @@
 
 > `(2)` § 26 Abs\. 2 gilt sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30f-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=30f) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_41_TextContainer_41) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30f-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30f-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=30f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_41_TextContainer_41) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30f-gmbhg) \]
 
 ----
 
@@ -825,7 +825,7 @@
 
 > *\(Beachte: zum Bezugszeitraum vgl\. § 127 Abs\. 20\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30g-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=30g) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_42_TextContainer_42) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30g-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30g-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=30g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_42_TextContainer_42) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30g-gmbhg) \]
 
 ----
 
@@ -837,7 +837,7 @@
 
 > `(3)` Der Gesellschaftsvertrag kann zulassen, daß an den Sitzungen des Aufsichtsrats und seiner Ausschüsse Personen, die dem Aufsichtsrat nicht angehören, an Stelle von Aufsichtsratsmitgliedern teilnehmen können, wenn sie von diesen hiezu schriftlich ermächtigt sind\. Sie können auch schriftliche Stimmabgaben der Aufsichtsratsmitglieder überreichen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30h-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=30h) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30h-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30h-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=30h) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30h-gmbhg) \]
 
 ----
 
@@ -851,7 +851,7 @@
 
 > *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.Nach Art\. XII Abs\. 11 IRÄG 1997, BGBl\. I Nr\. 114/1997, ist dieNeufassung von Abs\. 3 erstmalig auf nach dem 30\. September 1997beginnende Geschäftsjahre anzuwenden\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30i-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=30i) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_44_TextContainer_44) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30i-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30i-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=30i) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_44_TextContainer_44) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30i-gmbhg) \]
 
 ----
 
@@ -895,7 +895,7 @@
 
 > *\(Beachte: zum Bezugszeitraum vgl\. § 127 Abs\. 18\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30j-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=30j) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_45_TextContainer_45) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30j-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30j-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=30j) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_45_TextContainer_45) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30j-gmbhg) \]
 
 ----
 
@@ -909,7 +909,7 @@
 
 > *\(Beachte: Ist erstmalig auf Unterlagen für Geschäftsjahre anzuwenden, die nach dem 31\. Dezember 2016 beginnen \(vgl\. § 127 Abs\. 21\)\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30k-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=30k) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_46_TextContainer_46) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30k-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30k-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=30k) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_46_TextContainer_46) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30k-gmbhg) \]
 
 ----
 
@@ -923,7 +923,7 @@
 
 > `(4)` Weitere Obliegenheiten können dem Aufsichtsrat durch den Gesellschaftsvertrag oder durch Gesellschafterbeschluß übertragen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30l-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=30l) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_47_TextContainer_47) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30l-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-30l-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=30l) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_47_TextContainer_47) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-30l-gmbhg) \]
 
 ----
 
@@ -933,7 +933,7 @@
 
 > `(2)` Den Mitgliedern des ersten Aufsichtsrats kann nur durch Gesellschafterbeschluß eine Vergütung für ihre Tätigkeit bewilligt werden\. Der Beschluß kann erst gefaßt werden, sobald über die Entlastung des ersten Aufsichtsrats ein Gesellschafterbeschluß gefaßt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-31-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=31) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_48_TextContainer_48) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-31-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-31-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=31) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_48_TextContainer_48) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-31-gmbhg) \]
 
 ----
 
@@ -941,7 +941,7 @@
 
 > Über die gemäß § 25 Abs\. 4 zwischen der Gesellschaft und Geschäftsführern geschlossenen Geschäfte hat der Aufsichtsrat jeweils der nächsten Generalversammlung zu berichten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-32-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=32) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_49_TextContainer_49) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-32-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-32-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=32) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_49_TextContainer_49) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-32-gmbhg) \]
 
 ----
 
@@ -951,7 +951,7 @@
 
 > `(2)` Sind die Mitglieder des Aufsichtsrates zugleich mit Geschäftsführern zum Ersatze eines Schadens verpflichtet, so haften sie mit diesem zur ungeteilten Hand\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-33-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=33) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_50_TextContainer_50) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-33-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-33-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=33) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_50_TextContainer_50) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.003.md#-33-gmbhg) \]
 
 ----
 
@@ -965,7 +965,7 @@
 
 > `(2)` Bei der Abstimmung im schriftlichen Wege wird die nach dem Gesetze oder dem Gesellschaftsvertrage zu einer Beschlußfassung der Generalversammlung erforderliche Mehrheit nicht nach der Zahl der abgegebenen, sondern nach der Gesamtzahl der allen Gesellschaftern zustehenden Stimmen berechnet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-34-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=34) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_51_TextContainer_51) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-34-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-34-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=34) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_51_TextContainer_51) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-34-gmbhg) \]
 
 ----
 
@@ -989,7 +989,7 @@
 
 > `(2)` Die Gegenstände, die der Beschlußfassung durch die Gesellschafter unterliegen sollen, können im Gesellschaftsvertrag vermehrt oder verringert werden\. Jedoch muß über die in Abs\. 1 Z 1, 3 und 6 bezeichneten Gegenstände immer, über den in Abs\. 1 Z 7 bezeichneten Gegenstand jedenfalls in den ersten zwei Jahren nach der Eintragung der Gesellschaft ein Beschluß der Gesellschafter eingeholt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-35-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=35) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_52_TextContainer_52) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-35-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-35-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=35) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_52_TextContainer_52) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-35-gmbhg) \]
 
 ----
 
@@ -999,7 +999,7 @@
 
 > `(2)` Die Versammlung ist, soweit nicht eine Beschlussfassung außerhalb derselben zulässig ist, mindestens jährlich einmal und außer den im Gesetz oder im Gesellschaftsvertrag ausdrücklich bestimmten Fällen immer dann einzuberufen, wenn es das Interesse der Gesellschaft erfordert\. Dies hat insbesondere ohne Verzug dann zu geschehen wenn sich ergibt, dass die Hälfte des Stammkapitals verloren gegangen ist oder die Eigenmittelquote \(§ 23 URG\) weniger als acht vom Hundert und die fiktive Schuldentilgungsdauer \(§ 24 URG\) mehr als 15 Jahre beträgt\. In diesen Fällen haben die Geschäftsführer die von der Versammlung gefassten Beschlüsse dem Firmenbuchgericht mitzuteilen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-36-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=36) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_53_TextContainer_53) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-36-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-36-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=36) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_53_TextContainer_53) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-36-gmbhg) \]
 
 ----
 
@@ -1009,7 +1009,7 @@
 
 > `(2)` Wird dem Verlangen von den zur Berufung der Versammlung befugten Organen nicht innerhalb vierzehn Tagen nach der Aufforderung entsprochen oder sind solche Organe nicht vorhanden, so können die Berechtigten unter Mitteilung des Sachverhaltes die Berufung selbst bewirken\. Die Versammlung beschließt in diesem Falle darüber, ob die mit der Einberufung verbundenen Kosten von der Gesellschaft zu tragen sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-37-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=37) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_54_TextContainer_54) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-37-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-37-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=37) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_54_TextContainer_54) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-37-gmbhg) \]
 
 ----
 
@@ -1029,7 +1029,7 @@
 
 > `(7)` Im Falle der Beschlußunfähigkeit einer Versammlung ist unter Hinweis auf deren Beschlußunfähigkeit eine zweite Versammlung zu berufen, die auf die Verhandlung der Gegenstände der früheren Versammlung beschränkt und, wenn der Gesellschaftsvertrag nichts anderes bestimmt, ohne Rücksicht auf die Höhe des vertretenen Stammkapitals beschlußfähig ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-38-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=38) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_55_TextContainer_55) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-38-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-38-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=38) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_55_TextContainer_55) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-38-gmbhg) \]
 
 ----
 
@@ -1045,7 +1045,7 @@
 
 > `(5)` Wenn ein Gesellschafter selbst zum Geschäftsführer oder Aufsichtsrat oder Liquidator bestellt oder als solcher abberufen werden soll, so ist er bei der Beschlußfassung in der Ausübung seines Stimmrechtes nicht beschränkt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-39-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=39) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-39-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-39-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=39) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-39-gmbhg) \]
 
 ----
 
@@ -1055,7 +1055,7 @@
 
 > `(2)` Jedem Gesellschafter ist ohne Verzug nach Abhaltung der Generalversammlung oder nach einer auf schriftlichem Wege erfolgten Abstimmung eine Kopie der gefaßten Beschlüsse unter Angabe des Tages der Aufnahme derselben in die Niederschrift mittels eingeschriebenen Briefes zuzusenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-40-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=40) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-40-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-40-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=40) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-40-gmbhg) \]
 
 ----
 
@@ -1073,7 +1073,7 @@
 
 > `(4)` Die Klage muß binnen einem Monat vom Tag der Absendung der Kopie gemäß § 40 Abs\. 2 erhoben werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-41-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=41) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_58_TextContainer_58) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-41-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-41-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=41) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_58_TextContainer_58) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-41-gmbhg) \]
 
 ----
 
@@ -1093,7 +1093,7 @@
 
 > `(7)` Für einen durch ungegründete Anfechtung des Beschlusses der Gesellschaft entstehenden Schaden haften ihr die Kläger, denen böse Absicht oder grobe Fahrlässigkeit zur Last fallen, persönlich zur ungeteilten Hand\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-42-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=42) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_59_TextContainer_59) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-42-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-42-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=42) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_59_TextContainer_59) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-42-gmbhg) \]
 
 ----
 
@@ -1103,7 +1103,7 @@
 
 > `(2)` Hatte der Beschluß eine Abänderung des Gesellschaftsvertrages zum Inhalt, so ist mit dem Urteil der vollständige Wortlaut des Gesellschaftsvertrags, wie er sich unter Berücksichtigung des Urteils und aller bisherigen Gesellschaftsvertragsänderungen ergibt, mit der Beurkundung eines Notars über diese Tatsache zum Firmenbuch einzureichen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-44-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=44) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-44-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-44-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=44) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-44-gmbhg) \]
 
 ----
 
@@ -1125,7 +1125,7 @@
 
 > `(6)` Die Revisoren haben vor Antritt ihres Amtes den Eid zu leisten, daß sie die ihnen obliegenden Pflichten getreu erfüllen und insbesondere die bei der Revision etwa zu ihrer Kenntnis gelangten Geschäfts\- und Betriebsverhältnisse gegenüber jedermann geheimhalten wollen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-45-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=45) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-45-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-45-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=45) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-45-gmbhg) \]
 
 ----
 
@@ -1135,7 +1135,7 @@
 
 > `(2)` Die Entlohnung der Revisoren wird von dem Handelsgerichte bestimmt; sie dürfen keine andere wie immer geartete Vergütung annehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-46-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=46) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-46-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-46-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=46) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-46-gmbhg) \]
 
 ----
 
@@ -1151,7 +1151,7 @@
 
 > `(5)` Erweist sich der Antrag auf Revision nach dem Ergebnisse der Revision als unbegründet, so sind die Antragsteller, denen eine böse Absicht oder grobe Fahrlässigkeit zur Last fällt, für den der Gesellschaft durch den Antrag entstandenen Schaden persönlich zur ungeteilten Hand verhaftet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-47-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=47) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-47-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-47-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=47) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-47-gmbhg) \]
 
 ----
 
@@ -1167,7 +1167,7 @@
 
 > `(5)` Erweist sich die Klage als unbegründet und fällt dem Kläger bei Anstellung der Klage eine böse Absicht oder grobe Fahrlässigkeit zur Last, so hat er dem Beklagten den Schaden zu ersetzen\. Mehrere Kläger haften zur ungeteilten Hand\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-48-gmbhg--48-anm-richtig--48) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=48) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_64_TextContainer_64) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-48-gmbhg--48-anm-richtig--48) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-48-gmbhg--48-anm-richtig--48) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=48) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_64_TextContainer_64) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-48-gmbhg--48-anm-richtig--48) \]
 
 ----
 
@@ -1185,7 +1185,7 @@
 
 > `(2)` Die Abänderung hat keine rechtliche Wirkung, bevor sie in das Firmenbuch eingetragen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-49-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=49) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_65_TextContainer_65) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-49-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-49-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=49) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_65_TextContainer_65) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-49-gmbhg) \]
 
 ----
 
@@ -1201,7 +1201,7 @@
 
 > `(5)` Dies gilt insbesondere von Beschlüssen, durch welche Bestimmungen über das Maß, in dem Einzahlungen auf die Stammeinlagen zu leisten sind, in den Gesellschaftsvertrag aufgenommen oder die darüber in dem Gesellschaftsvertrage enthaltenen Bestimmungen abgeändert werden sollen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-50-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=50) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_66_TextContainer_66) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-50-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-50-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=50) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_66_TextContainer_66) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-50-gmbhg) \]
 
 ----
 
@@ -1213,7 +1213,7 @@
 
 > `(3)` Die Veröffentlichung von Beschlüssen, die eine Änderung der in früheren Bekanntmachungen verlautbarten Bestimmungen nicht enthalten, hat zu entfallen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-51-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=51) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_67_TextContainer_67) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-51-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-51-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=51) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_67_TextContainer_67) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-51-gmbhg) \]
 
 ----
 
@@ -1237,7 +1237,7 @@
 
 > *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote: Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-52-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=52) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_68_TextContainer_68) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-52-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-52-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=52) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_68_TextContainer_68) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-52-gmbhg) \]
 
 ----
 
@@ -1247,7 +1247,7 @@
 
 > `(2)` Der Anmeldung sind die Übernahmserklärungen in notarieller Ausfertigung oder in beglaubigter Abschrift beizuschließen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-53-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=53) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_69_TextContainer_69) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-53-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-53-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=53) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_69_TextContainer_69) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.004.md#-53-gmbhg) \]
 
 ----
 
@@ -1265,7 +1265,7 @@
 
 > `(4)` Das Stammkapital kann jedoch unter den nach § 6 Abs\. 1 zulässigen Mindestnennbetrag herabgesetzt werden, wenn dieser durch eine zugleich mit der Herabsetzung des Stammkapitals beschlossene Erhöhung des Stammkapitals, bei der Sacheinlagen nicht bedungen sind, wieder erreicht wird\. § 181 Abs\. 2 AktG gilt sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-54-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=54) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_70_TextContainer_70) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-54-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-54-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=54) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_70_TextContainer_70) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-54-gmbhg) \]
 
 ----
 
@@ -1275,7 +1275,7 @@
 
 > `(2)` Die Geschäftsführer haben unverzüglich, nachdem sie von der Eintragung benachrichtigt worden sind, die beabsichtigte Herabsetzung des Stammkapitals in den Bekanntmachungsblättern zu veröffentlichen\. Hiebei ist bekanntzugeben, daß die Gesellschaft allen Gläubigern, deren Forderungen am Tage der letzten Veröffentlichung dieser Mitteilung bestehen, auf Verlangen Befriedigung oder Sicherstellung zu leisten bereit sei, und daß Gläubiger, die sich nicht binnen drei Monaten von dem bezeichneten Tag an bei der Gesellschaft melden, als der beabsichtigten Herabsetzung des Stammkapitals zustimmend erachtet würden\. Bekannten Gläubigern ist diese Mitteilung unmittelbar zu machen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-55-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=55) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_71_TextContainer_71) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-55-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-55-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=55) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_71_TextContainer_71) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-55-gmbhg) \]
 
 ----
 
@@ -1295,7 +1295,7 @@
 
 > `(4)` Den Geschäftsführer, der beweist, daß er die Unrichtigkeit des Nachweises oder der Erklärung ungeachtet der Anwendung der Sorgfalt eines ordentlichen Geschäftsmannes nicht gekannt habe, trifft diese Haftung nicht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-56-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=56) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_72_TextContainer_72) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-56-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-56-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=56) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_72_TextContainer_72) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-56-gmbhg) \]
 
 ----
 
@@ -1305,7 +1305,7 @@
 
 > `(2)` In dem gleichen Zeitpunkte erlangt auch eine durch die Herabsetzung bezweckte Befreiung von der Verpflichtung zur Leistung der Einzahlungen auf nicht voll eingezahlte Stammeinlagen Wirksamkeit\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-57-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=57) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_73_TextContainer_73) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-57-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-57-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=57) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_73_TextContainer_73) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-57-gmbhg) \]
 
 ----
 
@@ -1313,7 +1313,7 @@
 
 > Bei Gesellschaften, bei denen die Vermögenssubstanz durch den Geschäftsbetrieb naturgemäß ganz oder größtenteils aufgezehrt werden muß, oder bei denen das Vermögen aus zeitlich beschränkten Rechten besteht, kann die Zurückzahlung von Stammeinlagen im ganzen oder in Teilbeträgen ohne Durchführung des Aufgebotsverfahrens und ohne Rücksicht auf die Höhe des übrig bleibenden Stammkapitals im Gesellschaftsvertrage vorbehalten werden, wenn diese Zurückzahlung nach vollständiger Einzahlung der Stammeinlage und nur aus dem im jeweiligen Bilanzjahre erzielten oder den in den Vorjahren reservierten Reinerträgnissen erfolgt\. Ein den zurückgezahlten Stammeinlagen gleichkommender Betrag muß in der Bilanz als Passivpost aufgeführt werden\. Art und Voraussetzungen der Zurückzahlung müssen im Gesellschaftsvertrage genau bestimmt werden\. Im Fall einer teilweisen Zurückzahlung darf eine Stammeinlage nicht unter 70 Euro herabgesetzt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-58-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=58) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_74_TextContainer_74) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-58-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-58-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=58) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_74_TextContainer_74) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-58-gmbhg) \]
 
 ----
 
@@ -1325,7 +1325,7 @@
 
 > *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-59-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=59) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_75_TextContainer_75) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-59-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-59-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=59) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_75_TextContainer_75) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-59-gmbhg) \]
 
 ----
 
@@ -1339,7 +1339,7 @@
 
 > *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-60-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=60) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_76_TextContainer_76) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-60-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-60-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=60) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_76_TextContainer_76) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-60-gmbhg) \]
 
 ----
 
@@ -1359,7 +1359,7 @@
 
 > `(3)` *\(Anm\.: aufgehoben durch BGBl\. I Nr\. 120/2005\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-61-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=61) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_77_TextContainer_77) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-61-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-61-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=61) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_77_TextContainer_77) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-61-gmbhg) \]
 
 ----
 
@@ -1381,7 +1381,7 @@
 
 > `(6)` Vorbehalte und Einschränkungen bei der Übernahme oder Zahlung von Stammeinlagen sind wirkungslos\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-63-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=63) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_78_TextContainer_78) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-63-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-63-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=63) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_78_TextContainer_78) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-63-gmbhg) \]
 
 ----
 
@@ -1391,7 +1391,7 @@
 
 > `(2)` Für einen durch Unterlassung der Anmeldung oder durch falsche Angaben verursachten Schaden haften die Geschäftsführer dem dadurch Beschädigten persönlich zur ungeteilten Hand\. Diese Ersatzansprüche verjähren in fünf Jahren von dem Tage, an dem die beschädigte Partei von der Einforderung Kenntnis erhalten hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-64-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=64) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_79_TextContainer_79) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-64-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-64-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=64) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_79_TextContainer_79) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-64-gmbhg) \]
 
 ----
 
@@ -1401,7 +1401,7 @@
 
 > `(2)` Enthält der Gesellschaftsvertrag keine besonderen Vorschriften darüber, wie die Aufforderung zur Einzahlung zu geschehen hat, so genügt es, wenn die Aufforderung durch ein mit der Geschäftsführung betrautes Organ mittels rekommandierten Schreibens erfolgt ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-65-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=65) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_80_TextContainer_80) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-65-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-65-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=65) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_80_TextContainer_80) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-65-gmbhg) \]
 
 ----
 
@@ -1411,7 +1411,7 @@
 
 > `(2)` Nach fruchtlosem Ablaufe der Nachfrist sind die säumigen Gesellschafter durch die Geschäftsführer als ausgeschlossen zu erklären und hievon abermals mittels rekommandierten Schreibens zu benachrichtigen\. Mit der Erklärung der Ausschließung ist der Verlust sämtlicher Rechte aus dem Geschäftsanteile, namentlich aller hierauf geleisteten Einzahlungen, verbunden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-66-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=66) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_81_TextContainer_81) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-66-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-66-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=66) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_81_TextContainer_81) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-66-gmbhg) \]
 
 ----
 
@@ -1423,7 +1423,7 @@
 
 > `(3)` Der Rechtsvorgänger erwirbt gegen Zahlung des geschuldeten Betrages den Geschäftsanteil des ausgeschlossenen Gesellschafters\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-67-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=67) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_82_TextContainer_82) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-67-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-67-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=67) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_82_TextContainer_82) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-67-gmbhg) \]
 
 ----
 
@@ -1439,7 +1439,7 @@
 
 > `(5)` Übersteigt der Erlös den geschuldeten Betrag, so ist der Überschuß zunächst auf den noch unberichtigten Teil der Stammeinlage in Anrechnung zu bringen\. Um diesen Betrag vermindert sich die Haftung des ausgeschlossenen Gesellschafters\. Ein weiter gehender Überschuß fließt dem ausgeschlossenen Gesellschafter zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-68-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=68) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_83_TextContainer_83) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-68-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-68-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=68) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_83_TextContainer_83) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-68-gmbhg) \]
 
 ----
 
@@ -1449,7 +1449,7 @@
 
 > `(2)` Ebenso wird durch den Ausschluß die Haftung des säumigen Gesellschafters für weitere Einzahlungen nicht berührt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-69-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=69) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_84_TextContainer_84) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-69-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-69-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=69) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_84_TextContainer_84) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-69-gmbhg) \]
 
 ----
 
@@ -1461,7 +1461,7 @@
 
 > `(3)` Falls der Geschäftsanteil nicht verkauft worden ist, erwerben die Gesellschafter im Verhältnisse ihrer Beitragsleistung einen Anspruch auf den diesem Geschäftsanteile zufallenden Gewinn und Liquidationserlös\. Wenn nachträglich der Verkauf stattfindet, sind aus dem Erlöse den Gesellschaftern die von ihnen geleisteten Beiträge zurückzuerstatten, ein allfälliger Überschuß ist nach Vorschrift des § 68, Absatz 5 zu verwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-70-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=70) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_85_TextContainer_85) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-70-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-70-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=70) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_85_TextContainer_85) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-70-gmbhg) \]
 
 ----
 
@@ -1469,7 +1469,7 @@
 
 > Die in den § 67 und 70 bezeichneten Verpflichtungen können weder ganz noch teilweise erlassen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-71-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=71) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_86_TextContainer_86) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-71-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-71-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=71) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_86_TextContainer_86) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-71-gmbhg) \]
 
 ----
 
@@ -1485,7 +1485,7 @@
 
 > `(3)` Die Einzahlung der Nachschüsse ist von sämtlichen Gesellschaftern nach Verhältnis ihrer Stammeinlagen zu leisten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-72-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=72) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_87_TextContainer_87) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-72-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-72-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=72) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_87_TextContainer_87) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-72-gmbhg) \]
 
 ----
 
@@ -1495,7 +1495,7 @@
 
 > `(2)` Ein Rechtsvorgänger haftet nur bis zu dem Betrage, auf den die Nachschußpflicht zur Zeit der Anmeldung seines Austrittes im Gesellschaftsvertrage beschränkt war\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-73-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=73) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_88_TextContainer_88) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-73-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-73-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=73) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_88_TextContainer_88) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-73-gmbhg) \]
 
 ----
 
@@ -1513,7 +1513,7 @@
 
 > `(6)` In der Bilanz muß den in die Aktiven aufgenommenen Nachschußansprüchen ein gleicher Kapitalsbetrag in den Passiven gegenübergestellt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-74-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=74) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_89_TextContainer_89) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-74-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-74-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=74) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_89_TextContainer_89) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-74-gmbhg) \]
 
 ----
 
@@ -1531,7 +1531,7 @@
 
 > `(4)` Die Ausstellung von Dividendenscheinen, von deren Einlieferung die Auszahlung des jährlichen Gewinnes abhängig gemacht wird, ist verboten und wirkungslos\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-75-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=75) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_90_TextContainer_90) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-75-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-75-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=75) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_90_TextContainer_90) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-75-gmbhg) \]
 
 ----
 
@@ -1544,7 +1544,7 @@
 > `(3)` Die Übertragungsbefugnis schließt auch die Befugnis zur vertragsmäßigen Verpfändung in sich\. Zu letzterer ist ein Notariatsakt nicht erforderlich\.
 > *\(Anm\.: Abs\. 4 aufgehoben durch Art\. 10 Z 1, BGBl\. I Nr\. 86/2021\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-76-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=76) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_91_TextContainer_91) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-76-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-76-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=76) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_91_TextContainer_91) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-76-gmbhg) \]
 
 ----
 
@@ -1552,7 +1552,7 @@
 
 > Wenn der Gesellschaftsvertrag bestimmt, daß die Zustimmung der Gesellschaft zur Übertragung des Geschäftsanteiles notwendig ist, so kann, falls diese Zustimmung versagt wird, dem betreffenden Gesellschafter, wenn er die Stammeinlage vollständig eingezahlt hat, von dem Handelsgerichte des Sitzes der Gesellschaft die Übertragung des Geschäftsanteiles gestattet werden, wenn ausreichende Gründe für die Verweigerung der Zustimmung nicht vorliegen und wenn die Übertragung ohne Schädigung der Gesellschaft, der übrigen Gesellschafter und der Gläubiger erfolgen kann\. Das Gericht hat vor der Entscheidung die Geschäftsführer zu hören\. Auch wenn das Gericht die Zustimmung zur Übertragung erteilt hat, kann diese Übertragung dennoch nicht wirksam stattfinden, wenn die Gesellschaft innerhalb eine Monats nach Rechtskraft der Entscheidung dem betreffenden Gesellschafter mittels rekommandierten Schreibens mitteilt, daß sie die Übertragung des betreffenden Geschäftsanteiles zu den gleichen Bedingungen an einen anderen von ihr bezeichneten Erwerber gestatte\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-77-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=77) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_92_TextContainer_92) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-77-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-77-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=77) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_92_TextContainer_92) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-77-gmbhg) \]
 
 ----
 
@@ -1564,7 +1564,7 @@
 
 > `(3)` Die Ansprüche der Gesellschaft wider den Rechtsvorgänger erlöschen binnen fünf Jahren vom Tage der Anmeldung des Erwerbers\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-78-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=78) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_93_TextContainer_93) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-78-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-78-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=78) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_93_TextContainer_93) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-78-gmbhg) \]
 
 ----
 
@@ -1578,7 +1578,7 @@
 
 > `(4)` Die Vorschriften des § 78, ferner jene über den Mindestbetrag einer Stammeinlage und über die Mindesteinzahlung darauf finden auch bei der Teilung von Geschäftsanteilen Anwendung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-79-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=79) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_94_TextContainer_94) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-79-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-79-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=79) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_94_TextContainer_94) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-79-gmbhg) \]
 
 ----
 
@@ -1588,7 +1588,7 @@
 
 > `(2)` Rechtshandlungen, die von der Gesellschaft gegenüber dem Inhaber des Geschäftsanteiles vorzunehmen sind, geschehen, wenn nicht der Gesellschaft ein gemeinsamer Vertreter bekanngegeben worden ist, mit rechtlicher Wirkung gegenüber jedem der Mitberechtigten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-80-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=80) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_95_TextContainer_95) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-80-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-80-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=80) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_95_TextContainer_95) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-80-gmbhg) \]
 
 ----
 
@@ -1596,7 +1596,7 @@
 
 > Der Erwerb und die Pfandnahme eigener Geschäftsanteile durch die Gesellschaft ist verboten und wirkungslos\. Zulässig ist der Erwerb im Exekutionswege zur Hereinbringung eigener Forderungen der Gesellschaft\. Auf den unentgeltlichen Erwerb eigener Anteile, auf den Erwerb eigener Anteile im Weg der Gesamtrechtsnachfolge und auf den Erwerb eigener Anteile zur Entschädigung von Minderheitsgesellschaftern sind die entsprechenden, für den Erwerb eigener Aktien geltenden Vorschriften sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-81-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=81) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_96_TextContainer_96) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-81-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-81-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=81) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_96_TextContainer_96) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-81-gmbhg) \]
 
 ----
 
@@ -1612,7 +1612,7 @@
 
 > `(5)` Wird den Geschäftsführern oder dem Aufsichtsrate in der Zeit zwischen dem Schlusse des Geschäftsjahres und der Beschlußfassung der Gesellschafter über den Jahresabschluß bekannt, daß der Vermögensstand der Gesellschaft durch eingetretene Verluste oder Wertverminderungen erheblich und voraussichtlich nicht bloß vorübergehend geschmälert worden ist, so ist der nach der Bilanz sich ergebende Gewinn in einem der erlittenen Schmälerung des Vermögens entsprechenden Betrage von der Verteilung ausgeschlossen und auf Rechnung des laufenden Geschäftsjahres zu übertragen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-82-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=82) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_97_TextContainer_97) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-82-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-82-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=82) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_97_TextContainer_97) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-82-gmbhg) \]
 
 ----
 
@@ -1628,7 +1628,7 @@
 
 > `(5)` Die Ansprüche der Gesellschaft verjähren in fünf Jahren, sofern sie nicht beweist, daß der Ersatzpflichtige die Widerrechtlichkeit der Zahlung kannte\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-83-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=83) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_98_TextContainer_98) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-83-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-83-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=83) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_98_TextContainer_98) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.005.md#-83-gmbhg) \]
 
 ----
 
@@ -1658,7 +1658,7 @@
 
 > `(2)` Im Gesellschaftsvertrage können weitere Auflösungsgründe festgesetzt sein\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-84-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=84) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_99_TextContainer_99) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-84-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-84-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=84) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_99_TextContainer_99) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-84-gmbhg) \]
 
 ----
 
@@ -1684,7 +1684,7 @@
 >
 > *Anm\. 1: Gemäß § 105 Abs\. 2 Bankwesengesetz, BGBl\. Nr\. 532/1993, treten bei Verweisungen auf Bestimmungen des Kreditwesengesetzes an deren Stelle die entsprechenden Bestimmungen des Bankwesengesetzes\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-86-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=86) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_100_TextContainer_100) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-86-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-86-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=86) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_100_TextContainer_100) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-86-gmbhg) \]
 
 ----
 
@@ -1696,7 +1696,7 @@
 
 > `(3)` Kommen die Geschäftsführer einer an sie ergangenen Aufforderung des Gerichtes zur Erstattung der ihnen obliegenden Anmeldung der Auflösung nicht nach, so ist die Aufforderung unter Bestimmung einer Frist mit dem Beisatze zu wiederholen, daß nach Ablauf der Frist die Auflösung unter gleichzeitiger Ernennung der Liquidatoren durch das Gericht von Amts wegen eingetragen würde\. Vor Eintragung der Auflösung und Ernennung der Liquidatoren hat das Gericht die Geschäftsführer und nach Ermessen auch einen oder mehrere der mit der Geschäftsführung nicht betrauten Gesellschafter zu vernehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-88-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=88) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_101_TextContainer_101) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-88-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-88-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=88) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_101_TextContainer_101) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-88-gmbhg) \]
 
 ----
 
@@ -1716,7 +1716,7 @@
 
 > `(5)` Das in § 24 für die Geschäftsführer ausgesprochene Verbot findet auf die Liquidatoren keine Anwendung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-89-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=89) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_102_TextContainer_102) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-89-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-89-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=89) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_102_TextContainer_102) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-89-gmbhg) \]
 
 ----
 
@@ -1730,7 +1730,7 @@
 
 > `(4)` Die Verwertung des Gesellschaftsvermögens durch Veräußerung des Vermögens als Ganzes kann nur auf Grund eines mit einer Mehrheit von drei Vierteilen der abgegebenen Stimmen gefaßten Beschlusses der Gesellschafter erfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-90-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=90) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_103_TextContainer_103) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-90-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-90-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=90) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_103_TextContainer_103) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-90-gmbhg) \]
 
 ----
 
@@ -1744,7 +1744,7 @@
 
 > `(4)` Die von Gläubigern oder Gesellschaftern nicht behobenen Beträge sind vor Beendigung der Liquidation zu Gericht zu erlegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-91-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=91) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_104_TextContainer_104) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-91-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-91-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=91) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_104_TextContainer_104) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-91-gmbhg) \]
 
 ----
 
@@ -1754,7 +1754,7 @@
 
 > `(2)` Auch hinsichtlich der Rechtsverhältnisse der Gesellschafter untereinander und gegenüber der Gesellschaft, sowie der Gesellschaft zu dritten Personen, dann der Rechte und Pflichten und der Verantwortlichkeit des Aufsichtsrates kommen die hierüber in diesem Gesetze getroffenen Anordnungen ungeachtet der Auflösung der Gesellschaft bis zur Beendigung der Liquidation zur Anwendung, soweit sich aus den Bestimmungen dieses Abschnittes und dem Zwecke der Liquidation nicht etwas anderes ergibt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-92-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=92) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_105_TextContainer_105) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-92-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-92-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=92) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_105_TextContainer_105) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-92-gmbhg) \]
 
 ----
 
@@ -1770,7 +1770,7 @@
 
 > `(5)` Stellt sich nachträglich noch weiteres, der Verteilung unterliegendes Vermögen heraus, so hat das Handelsgericht der Hauptniederlassung auf Antrag eines Beteiligten die bisherigen Liquidatoren wieder zu berufen oder andere Liquidatoren zu ernennen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-93-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=93) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_106_TextContainer_106) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-93-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-93-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=93) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_106_TextContainer_106) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-93-gmbhg) \]
 
 ----
 
@@ -1782,7 +1782,7 @@
 
 > `(3)` Die Einstellung der Tätigkeit der gesellschaftlichen Organe mit der im zweiten Absatze bezeichneten Wirkung kann von der zur Auflösung zuständigen Verwaltungsbehörde auch gegenüber einer aus anderen Gründen aufgelösten Gesellschaft verfügt werden, wenn einer der in § 86 angeführten Fälle eintritt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-94-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=94) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_107_TextContainer_107) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-94-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-94-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=94) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_107_TextContainer_107) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-94-gmbhg) \]
 
 ----
 
@@ -1794,7 +1794,7 @@
 
 > `(3)` Zugleich mit der Eintragung ist die Firma zu löschen\. Der Übergang des Vermögens der Gesellschaft und er Schulden ist als im Zeitpunkt der Eintragung bewirkt anzusehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-95-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=95) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_108_TextContainer_108) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-95-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-95-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=95) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_108_TextContainer_108) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-95-gmbhg) \]
 
 ----
 
@@ -1812,7 +1812,7 @@
 
 > `(2)` Soweit im folgenden nichts Abweichendes bestimmt wird, sind die §§ 220 bis 233 AktG sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-96-gmbhg--begriff-der-verschmelzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=96) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_109_TextContainer_109) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-96-gmbhg--begriff-der-verschmelzung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-96-gmbhg--begriff-der-verschmelzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=96) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_109_TextContainer_109) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-96-gmbhg--begriff-der-verschmelzung) \]
 
 ----
 
@@ -1822,7 +1822,7 @@
 
 > `(2)` Die Geschäftsführer haben jedem Gesellschafter auf Verlangen ab dem Zeitpunkt der Einberufung jederzeit Auskunft auch über alle für die Verschmelzung wesentlichen Angelegenheiten der anderen Gesellschaft zu geben\. In der Einberufung ist auf dieses Recht ausdrücklich hinzuweisen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-97-gmbhg--vorbereitung-der-verschmelzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=97) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_110_TextContainer_110) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-97-gmbhg--vorbereitung-der-verschmelzung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-97-gmbhg--vorbereitung-der-verschmelzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=97) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_110_TextContainer_110) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-97-gmbhg--vorbereitung-der-verschmelzung) \]
 
 ----
 
@@ -1830,7 +1830,7 @@
 
 > Der Beschluß der Gesellschafter über die Verschmelzung bedarf einer Mehrheit von drei Vierteln der abgegebenen Stimmen\. Er kann im Gesellschaftsvertrag an weitere Erfordernisse geknüpft sein\. Der Beschluß bedarf der notariellen Beurkundung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-98-gmbhg--beschluß-der-gesellschafter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=98) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_111_TextContainer_111) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-98-gmbhg--beschluß-der-gesellschafter) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-98-gmbhg--beschluß-der-gesellschafter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=98) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_111_TextContainer_111) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-98-gmbhg--beschluß-der-gesellschafter) \]
 
 ----
 
@@ -1848,7 +1848,7 @@
 
 > `(6)` Ist nach den vorhergehenden Vorschriften die Zustimmung eines Gesellschafters erforderlich, so kann diese auch außerhalb der Generalversammlung erteilt werden\. In diesem Fall muß sie gerichtlich oder notariell beglaubigt unterfertigt sein und der übernehmenden Gesellschaft spätestens innerhalb einer Frist von drei Monaten nach der Beschlußfassung zugehen; der Verschmelzungsvertrag ist in die Zustimmungserklärung aufzunehmen oder dieser als Anlage beizufügen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-99-gmbhg--besondere-zustimmungserfordernisse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=99) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_112_TextContainer_112) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-99-gmbhg--besondere-zustimmungserfordernisse) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-99-gmbhg--besondere-zustimmungserfordernisse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=99) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_112_TextContainer_112) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-99-gmbhg--besondere-zustimmungserfordernisse) \]
 
 ----
 
@@ -1858,7 +1858,7 @@
 
 > `(2)` Der Verschmelzungsvertrag oder sein Entwurf ist auf Verlangen eines ihrer Gesellschafter gemäß § 220b AktG zu prüfen\. Ist kein Aufsichtsrat bestellt, so bestellt das Gericht den Prüfer auf Antrag der Geschäftsführer\. Die Kosten trägt die Gesellschaft\. Wurde dem Verlangen eines Gesellschafters auf Prüfung der Verschmelzung nicht entsprochen, so hat er dies anläßlich der Beschlußfassung zur Niederschrift zu erklären\. Dies gilt auch als Widerspruch gegen den Verschmelzungsbeschluß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-100-gmbhg--bericht-der-geschäftsführer-prüfung-der-verschmelzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=100) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_113_TextContainer_113) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-100-gmbhg--bericht-der-geschäftsführer-prüfung-der-verschmelzung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-100-gmbhg--bericht-der-geschäftsführer-prüfung-der-verschmelzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=100) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_113_TextContainer_113) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-100-gmbhg--bericht-der-geschäftsführer-prüfung-der-verschmelzung) \]
 
 ----
 
@@ -1866,7 +1866,7 @@
 
 > Erhöht die übernehmende Gesellschaft zur Durchführung der Verschmelzung das Stammkapital, so entfällt die Übernahmserklärung; § 52 Abs\. 2 bis 5 und § 53 Abs\. 2 Z 1 sind nicht anwendbar\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-101-gmbhg--erhöhung-des-stammkapitals) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=101) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_114_TextContainer_114) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-101-gmbhg--erhöhung-des-stammkapitals) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-101-gmbhg--erhöhung-des-stammkapitals) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=101) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_114_TextContainer_114) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-101-gmbhg--erhöhung-des-stammkapitals) \]
 
 ----
 
@@ -1876,7 +1876,7 @@
 
 > Über Angelegenheiten, die in diesem Gesetz dem Gericht zugewiesen sind, verhandelt und entscheidet, sofern es sich nicht um bürgerliche Rechtsstreitigkeiten handelt, die dem Prozeßgericht zugewiesen sind, der für den Sitz der Gesellschaft zuständige, zur Ausübung der Gerichtbarkeit in Handelssachen berufene Gerichtshof erster Instanz im Verfahren außer Streitsachen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-102-gmbhg--behörden-und-verfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=102) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_115_TextContainer_115) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-102-gmbhg--behörden-und-verfahren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-102-gmbhg--behörden-und-verfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=102) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_115_TextContainer_115) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-102-gmbhg--behörden-und-verfahren) \]
 
 ----
 
@@ -1884,7 +1884,7 @@
 
 > Der Bundesminister für Finanzen kann auch bei Gesellschaften mit beschränkter Haftung in den Fällen, in denen sonst kein Staatskommissär und Stellvertreter gemäß § 26 Abs\. 1 Kreditwesengesetz zu bestellen ist, diese Aufsichtsorgane bestellen, wenn dies zur Ausübung des Aufsichtsrechtes des Bundesministers für Finanzen nach dem Kreditwesengesetz erforderlich ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-104-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=104) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_116_TextContainer_116) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-104-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-104-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=104) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_116_TextContainer_116) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-104-gmbhg) \]
 
 ----
 
@@ -1908,7 +1908,7 @@
 
 > `(7)` Für Anmeldungen zur Eintragung in das Firmenbuch, ausgenommen die Anmeldung gemäß Abs\. 1, ist neben den Geschäftsführern auch der Vertreter gemäß Abs\. 2 befugt\. Im übrigen gilt § 12 Abs\. 4 UGB\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-107-gmbhg--zweigniederlassungen-von-gesellschaften-mit-beschränkter-haftung-mit-sitz-im-ausland) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=107) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_117_TextContainer_117) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-107-gmbhg--zweigniederlassungen-von-gesellschaften-mit-beschränkter-haftung-mit-sitz-im-ausland) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-107-gmbhg--zweigniederlassungen-von-gesellschaften-mit-beschränkter-haftung-mit-sitz-im-ausland) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=107) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_117_TextContainer_117) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-107-gmbhg--zweigniederlassungen-von-gesellschaften-mit-beschränkter-haftung-mit-sitz-im-ausland) \]
 
 ----
 
@@ -1916,7 +1916,7 @@
 
 > Die für das Inland bestellte Vertretung hat über die inländischen Geschäfte gesondert Bücher zu führen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-112-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=112) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_118_TextContainer_118) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-112-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-112-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=112) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_118_TextContainer_118) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-112-gmbhg) \]
 
 ----
 
@@ -1926,7 +1926,7 @@
 
 > `(2)` Die Abwicklung der Geschäfte der inländischen Zweigniederlassung hat unter sinngemäßer Anwendung der Bestimmungen über die Abwicklung von Gesellschaften mit beschränkter Haftung zu erfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-113-gmbhg--auflösung-der-niederlassung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=113) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_119_TextContainer_119) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-113-gmbhg--auflösung-der-niederlassung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-113-gmbhg--auflösung-der-niederlassung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=113) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_119_TextContainer_119) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-113-gmbhg--auflösung-der-niederlassung) \]
 
 ----
 
@@ -1934,7 +1934,7 @@
 
 > Der § 102 ist auf ausländische Gesellschaften sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-114-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=114) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_120_TextContainer_120) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-114-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-114-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=114) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_120_TextContainer_120) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-114-gmbhg) \]
 
 ----
 
@@ -1946,7 +1946,7 @@
 
 > `(2)` Steht ein rechtlich selbständiges Unternehmen auf Grund von Beteiligungen oder sonst unmittelbar oder mittelbar unter dem beherrschenden Einfluß eines anderen Unternehmens,so gelten das herrschende und das abhängige Unternehmen zusammen als Konzern und einzeln als Konzernunternehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-115-gmbhg--konzerne) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=115) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_121_TextContainer_121) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-115-gmbhg--konzerne) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-115-gmbhg--konzerne) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=115) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_121_TextContainer_121) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.006.md#-115-gmbhg--konzerne) \]
 
 ----
 
@@ -1958,7 +1958,7 @@
 
 > *\(Anm\.: aufgehoben durch Art\. III Z 17 BGBl\. Nr\. 475/1990\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-121-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=121) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_122_TextContainer_122) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.007.md#-121-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-121-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=121) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_122_TextContainer_122) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.007.md#-121-gmbhg) \]
 
 ----
 
@@ -1968,7 +1968,7 @@
 >
 > *\(Beachte: zum Bezugszeitraum vgl\. § 127 Abs\. 18\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-125-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=125) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_123_TextContainer_123) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.007.md#-125-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-125-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=125) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_123_TextContainer_123) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.007.md#-125-gmbhg) \]
 
 ----
 
@@ -2030,8 +2030,8 @@
 
 > `(30)` Auf Gesellschaften, bei denen die Inanspruchnahme der Gründungsprivilegierung am 1\. Jänner 2024 im Firmenbuch eingetragen ist, ist § 10b mit der Maßgabe weiter anzuwenden, dass es abweichend von § 10b Abs\. 5 zweiter Satz zu keiner Beendigung der Gründungsprivilegierung durch Zeitablauf kommt\. In einer solchen Gesellschaft kann eine Abänderung des Gesellschaftsvertrags, die nach dem 31\. Dezember 2024 zum Firmenbuch angemeldet wird, nur eingetragen werden, wenn im abgeänderten Gesellschaftsvertrag die Bestimmungen über die Gründungsprivilegierung beseitigt wurden\. Wenn die von den einzelnen Gesellschaftern laut abgeändertem Gesellschaftsvertrag übernommenen Stammeinlagen zumindest gleich hoch sind wie ihre bisherigen gründungsprivilegierten Stammeinlagen, ist für die Anmeldung einer solchen Abänderung des Gesellschaftsvertrags zum Firmenbuch ein Gläubigeraufruf nicht erforderlich\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-127-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=127) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_124_TextContainer_124) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.007.md#-127-gmbhg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.md#-127-gmbhg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720&Paragraf=127) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_124_TextContainer_124) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GmbHG.007.md#-127-gmbhg) \]
 
 ----
 
-*(Weitere relevante Bestimmungen finden Sie am Ende der [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_125_TextContainer_125) zu dieser Rechtsvorschrift.)*
+*(Weitere relevante Bestimmungen finden Sie am Ende der [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001720#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_125_TextContainer_125) zu dieser Rechtsvorschrift.)*

@@ -2,8 +2,8 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** TSchG  
 **Langtitel:** Bundesgesetz über den Schutz der Tiere (Tierschutzgesetz – TSchG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
-**Quelle:** https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
+**Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541  
 **Letzte Änderung im RIS:** BGBl. I Nr. 21/2025 (NR: GP XXVIII IA 77/A AB 86 S. 21. BR: AB 11641 S. 978.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md  
 *Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
@@ -109,7 +109,7 @@
 
 > Ziel dieses Bundesgesetzes ist der Schutz des Lebens und des Wohlbefindens der Tiere aus der besonderen Verantwortung des Menschen für das Tier als Mitgeschöpf\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-1-tschg--zielsetzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=1) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-1-tschg--zielsetzung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-1-tschg--zielsetzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-1-tschg--zielsetzung) \]
 
 ----
 
@@ -117,7 +117,7 @@
 
 > Dieses Bundesgesetz dient ferner der Umsetzung und Durchführung von Rechtsakten der Europäischen Union, die den Geltungsbereich dieses Gesetzes betreffen und in der Anlage genannt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-1a-tschg--umsetzung-und-durchführung-von-eu-recht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=1a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-1a-tschg--umsetzung-und-durchführung-von-eu-recht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-1a-tschg--umsetzung-und-durchführung-von-eu-recht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=1a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-1a-tschg--umsetzung-und-durchführung-von-eu-recht) \]
 
 ----
 
@@ -125,7 +125,7 @@
 
 > Bund, Länder und Gemeinden sind verpflichtet, das Verständnis der Öffentlichkeit und insbesondere der Jugend für den Tierschutz zu wecken und zu vertiefen und haben nach Maßgabe budgetärer Möglichkeiten tierfreundliche Haltungssysteme, wissenschaftliche Tierschutzforschung sowie Anliegen des Tierschutzes zu fördern\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-2-tschg--förderung-des-tierschutzes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=2) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-2-tschg--förderung-des-tierschutzes) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-2-tschg--förderung-des-tierschutzes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=2) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-2-tschg--förderung-des-tierschutzes) \]
 
 ----
 
@@ -152,7 +152,7 @@
 >
 >> `3.` die Haltung von Fischen zu anderen Zwecken als der Fischerei\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-3-tschg--geltungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=3) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-3-tschg--geltungsbereich) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-3-tschg--geltungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=3) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-3-tschg--geltungsbereich) \]
 
 ----
 
@@ -164,7 +164,7 @@
 
 > `(3)` Der Bundesminister bzw\. die Bundesministerin für Soziales, Gesundheit, Pflege und Konsumentenschutz kann unter Bedachtnahme auf die Zielsetzung dieses Bundesgesetzes durch Verordnung nähere Vorschriften zur Durchführung der in der Anlage genannten unmittelbar anwendbaren Rechtsakte der Europäischen Union samt Änderungsrechtsakten, delegierten Rechtsakten und Durchführungsrechtsakten in sinngemäßer Anwendung der §§ 24, 27, 31, 32 und 35 erlassen\. Sofern die Haltung landwirtschaftlicher Nutztiere betroffen ist, ist das Einvernehmen mit dem Bundesminister bzw\. die Bundesministerin für Land\- und Forstwirtschaft, Regionen und Wasserwirtschaft herzustellen\. Im Hinblick auf die Ausstattung von Schlachthöfen ist das Einvernehmen mit dem Bundesminister bzw\. die Bundesministerin für Arbeit und Wirtschaft herzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-3a-tschg--vollziehung-von-verordnungen-der-europäischen-union) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=3a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-3a-tschg--vollziehung-von-verordnungen-der-europäischen-union) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-3a-tschg--vollziehung-von-verordnungen-der-europäischen-union) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=3a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-3a-tschg--vollziehung-von-verordnungen-der-europäischen-union) \]
 
 ----
 
@@ -218,7 +218,7 @@
 >
 >> `17.` Qualzuchtmerkmal: ein charakteristisches Anzeichen, dessen Ausprägungsform nach wissenschaftlichen Erkenntnissen mit hoher Wahrscheinlichkeit Symptome im Sinne des § 5 Abs\. 2 Z 1 zur Folge hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-4-tschg--begriffsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=4) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-4-tschg--begriffsbestimmungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-4-tschg--begriffsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=4) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-4-tschg--begriffsbestimmungen) \]
 
 ----
 
@@ -310,7 +310,7 @@
 
 > `(5)` Die Bundesministerin bzw\. der Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz hat durch Verordnung das Nähere in Bezug auf Maßnahmen der Ausbildung von Diensthunden – hinsichtlich der Sicherheitsexekutive im Einvernehmen mit der Bundesministerin bzw\. dem Bundesminister für Inneres und hinsichtlich des Bundesheeres im Einvernehmen mit der Bundesministerin bzw\. dem Bundesminister für Landesverteidigung – festzulegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-5-tschg--verbot-der-tierquälerei) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=5) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-5-tschg--verbot-der-tierquälerei) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-5-tschg--verbot-der-tierquälerei) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=5) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-5-tschg--verbot-der-tierquälerei) \]
 
 ----
 
@@ -342,7 +342,7 @@
 
 > `(5)` Die rituelle Schlachtung von Tieren außerhalb von gemäß § 32 Abs\. 4 zugelassenen Schlachtanlagen oder ohne rechtskräftige Bewilligung gemäß § 32 Abs\. 5 ist verboten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-6-tschg--verbot-der-tötung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=6) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-6-tschg--verbot-der-tötung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-6-tschg--verbot-der-tötung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=6) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-6-tschg--verbot-der-tötung) \]
 
 ----
 
@@ -383,7 +383,7 @@
 
 > `(6)` Das aus ästhetischen oder kommerziellen Gründen vorgenommene Tätowieren oder Verfärben von Haut, Federkleid oder Fell ist verboten, sofern es sich nicht um eine Maßnahme zur fachgerechten Tierkennzeichnung handelt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-7-tschg--verbot-von-eingriffen-an-tieren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=7) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-7-tschg--verbot-von-eingriffen-an-tieren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-7-tschg--verbot-von-eingriffen-an-tieren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=7) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-7-tschg--verbot-von-eingriffen-an-tieren) \]
 
 ----
 
@@ -395,7 +395,7 @@
 
 > `(3)` Der Import, der Erwerb, die Vermittlung und die Weitergabe von Tieren, die keine landwirtschaftlichen Nutztiere sind, die nach dem 1\. Jänner 2008 geboren und an deren Körperteilen Eingriffe vorgenommen wurden, die in Österreich verboten sind, ist verboten\. Davon ausgenommen ist die Vermittlung und die Weitergabe von Tieren im Sinne des § 30 Abs\. 1 sowie von einzelnen, individuell bestimmten Tieren im Sinne des § 8a Abs\. 2 Z 5 durch den Halter oder eine gemäß § 30 mit den Pflichten eines Halters betraute Person und die Weitergabe im Wege der Erbschaft\. Das Verbringen von Tieren ins Ausland zum Zwecke der Vornahme von Eingriffen, die in Österreich verboten sind, ist verboten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-8-tschg--verbot-der-weitergabe-des-erwerbs-sowie-des-imports-bestimmter-tiere) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=8) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-8-tschg--verbot-der-weitergabe-des-erwerbs-sowie-des-imports-bestimmter-tiere) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-8-tschg--verbot-der-weitergabe-des-erwerbs-sowie-des-imports-bestimmter-tiere) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=8) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-8-tschg--verbot-der-weitergabe-des-erwerbs-sowie-des-imports-bestimmter-tiere) \]
 
 ----
 
@@ -419,7 +419,7 @@
 
 > `(3)` Es ist verboten, Tiere, die erkennbar entgegen Abs\. 1 oder 2 zum Kauf oder zur sonstigen Abgabe angeboten werden, zu erwerben oder zu übernehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-8a-tschg--verkaufsverbot-von-tieren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=8a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-8a-tschg--verkaufsverbot-von-tieren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-8a-tschg--verkaufsverbot-von-tieren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=8a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-8a-tschg--verkaufsverbot-von-tieren) \]
 
 ----
 
@@ -431,7 +431,7 @@
 
 > `(3)` Bei Abbildung von Tieren zu Werbezwecken dürfen diese keine Qualzuchtsymptome oder äußerlich erkennbare Qualzuchtmerkmale bzw\. keine äußerlich erkennbaren verbotenen Eingriffe aufweisen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-8b-tschg--verbot-der-ausstellung-und-abbildung-bestimmter-tiere) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=8b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-8b-tschg--verbot-der-ausstellung-und-abbildung-bestimmter-tiere) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-8b-tschg--verbot-der-ausstellung-und-abbildung-bestimmter-tiere) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=8b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-8b-tschg--verbot-der-ausstellung-und-abbildung-bestimmter-tiere) \]
 
 ----
 
@@ -439,7 +439,7 @@
 
 > Wer ein Tier erkennbar verletzt oder in Gefahr gebracht hat, hat, soweit ihm dies zumutbar ist, dem Tier die erforderliche Hilfe zu leisten oder, wenn das nicht möglich ist, eine solche Hilfeleistung zu veranlassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-9-tschg--hilfeleistungspflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=9) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-9-tschg--hilfeleistungspflicht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-9-tschg--hilfeleistungspflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=9) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-9-tschg--hilfeleistungspflicht) \]
 
 ----
 
@@ -447,7 +447,7 @@
 
 > Für Tierversuche \(§ 2 Abs\. 1 Z 1 des Tierversuchsgesetzes 2012, BGBl\. I Nr\. 114/2012\) in Angelegenheiten, die nach dem Bundes\-Verfassungsgesetz in der Vollziehung Landessache sind, gilt das Tierversuchsgesetz 2012 sinngemäß, und zwar mit der Maßgabe, dass an die Stelle des Landeshauptmannes bzw\. der Landeshauptfrau die Landesregierung zu treten hat und ein Instanzenzug an einen Bundesminister bzw\. eine Bundesministerin ausgeschlossen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-10-tschg--tierversuche) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=10) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-10-tschg--tierversuche) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-10-tschg--tierversuche) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=10) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-10-tschg--tierversuche) \]
 
 ----
 
@@ -459,7 +459,7 @@
 
 > `(3)` Die Bundesministerin bzw\. der Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz kann, in Bezug auf landwirtschaftliche Nutztiere im Einvernehmen mit der Bundesministerin bzw\. dem Bundesminister für Land\- und Forstwirtschaft, Regionen und Wasserwirtschaft, unter Bedachtnahme auf die Zielsetzungen und die sonstigen allgemeinen Bestimmungen dieses Bundesgesetzes sowie den anerkannten Stand der wissenschaftlichen Erkenntnisse durch Verordnung nähere Bestimmungen über die Größe, Beschaffenheit und Ausrüstung von Transportbehältnissen, Transportmitteln, bei der Be\- und Entladung zu benützenden Hilfsmitteln sowie über die Behandlung der Tiere während des Transportes erlassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-11-tschg--transport-von-tieren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=11) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-11-tschg--transport-von-tieren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-11-tschg--transport-von-tieren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=11) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.001.md#-11-tschg--transport-von-tieren) \]
 
 ----
 
@@ -483,7 +483,7 @@
 
 > `(3)` Ohne Einwilligung des Erziehungsberechtigten dürfen Tiere an Minderjährige, die das 16\. Lebensjahr nicht vollendet haben, nicht abgegeben werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-12-tschg--anforderungen-an-den-halter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=12) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-12-tschg--anforderungen-an-den-halter) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-12-tschg--anforderungen-an-den-halter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=12) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-12-tschg--anforderungen-an-den-halter) \]
 
 ----
 
@@ -495,7 +495,7 @@
 
 > `(3)` Tiere sind so zu halten, dass ihre Körperfunktionen und ihr Verhalten nicht gestört werden und ihre Anpassungsfähigkeit nicht überfordert wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-13-tschg--grundsätze-der-tierhaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=13) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-13-tschg--grundsätze-der-tierhaltung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-13-tschg--grundsätze-der-tierhaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=13) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-13-tschg--grundsätze-der-tierhaltung) \]
 
 ----
 
@@ -507,7 +507,7 @@
 
 > `(2)` Personen, die Hunde ausbilden und hierfür eine besondere Qualifikation erwerben \(tierschutzqualifizierte Hundetrainer\), müssen hierfür eine Prüfung durch eine Institution nachweisen, die eigene wissenschaftliche Tätigkeit im Bereich Veterinärmedizin, Ethik in der Mensch\-Tier\-Beziehung und Kognitionsforschung, betreibt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-14-tschg--betreuungspersonen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=14) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-14-tschg--betreuungspersonen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-14-tschg--betreuungspersonen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=14) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-14-tschg--betreuungspersonen) \]
 
 ----
 
@@ -515,7 +515,7 @@
 
 > Weist ein Tier Anzeichen einer Krankheit oder Verletzung auf, so muss es unverzüglich ordnungsgemäß versorgt werden, erforderlichenfalls unter Heranziehung eines Tierarztes bzw\. einer Tierärztin\. Kranke oder verletzte Tiere sind diesen besonderen Ansprüchen angemessen und erforderlichenfalls gesondert unterzubringen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-15-tschg--versorgung-bei-krankheit-oder-verletzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=15) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-15-tschg--versorgung-bei-krankheit-oder-verletzung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-15-tschg--versorgung-bei-krankheit-oder-verletzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=15) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-15-tschg--versorgung-bei-krankheit-oder-verletzung) \]
 
 ----
 
@@ -547,7 +547,7 @@
 
 > `(6)` Wildtiere dürfen keinesfalls, auch nicht vorübergehend, angebunden gehalten werden\. Unberührt bleibt die Ausbildung von Greifvögeln im Rahmen der Beizjagd\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-16-tschg--bewegungsfreiheit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=16) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_20_TextContainer_20) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-16-tschg--bewegungsfreiheit) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-16-tschg--bewegungsfreiheit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=16) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_20_TextContainer_20) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-16-tschg--bewegungsfreiheit) \]
 
 ----
 
@@ -563,7 +563,7 @@
 
 > `(5)` Die Fütterungs\- und Tränkeeinrichtungen sind sauber zu halten und müssen so gestaltet sein, dass eine artgemäße Futter\- und Wasseraufnahme möglich ist\. Sie müssen so angeordnet sein und betrieben werden, dass alle Tiere ihren Bedarf decken können\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-17-tschg--füttern-und-tränken) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=17) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_21_TextContainer_21) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-17-tschg--füttern-und-tränken) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-17-tschg--füttern-und-tränken) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=17) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_21_TextContainer_21) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-17-tschg--füttern-und-tränken) \]
 
 ----
 
@@ -615,7 +615,7 @@
 
 > *\(Beachte: Abs\. 2a tritt mit 1\.1\.2023 für alle ab diesem Datum baurechtlich bewilligten neu gebauten oder umgebauten Anlagen in Kraft\. Für alle sonstigen, den bis dahin geltenden tierschutzrechtlichen Bestimmungen entsprechenden bestehenden Haltungseinrichtungen, die zum Zeitpunkt des Inkrafttretens des BGBl\. I Nr\. 130/2022 bestehen, tritt Abs\. 2a mit 1\.6\.2034 in Kraft \(vgl\. § 44 Abs\. 30 idF BGBl\. I Nr\. 21/2025\)\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-18-tschg--bauliche-ausstattung-und-haltungsvorrichtungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=18) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-18-tschg--bauliche-ausstattung-und-haltungsvorrichtungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-18-tschg--bauliche-ausstattung-und-haltungsvorrichtungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=18) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-18-tschg--bauliche-ausstattung-und-haltungsvorrichtungen) \]
 
 ----
 
@@ -689,7 +689,7 @@
 
 > `(14)` Werden Daten gemäß Abs\. 12 zu wissenschaftlichen oder historischen Forschungszwecken oder statistischen Zwecken weiterverarbeitet, hat die Weiterverarbeitung in pseudonymisierter Form zu erfolgen, wenn auch auf diese Weise die Zwecke erreicht werden können\. Soweit der Personenbezug für die Verwirklichung des Zwecks unerlässlich ist, können die Rechte der Betroffenen gemäß Art\. 15, 16, 18 und 21 Datenschutz\-Grundverordnung vom Verantwortlichen insofern ausgeschlossen werden, als diese Rechte die Verwirklichung der spezifischen Zwecke unmöglich machen oder ernsthaft beeinträchtigen würden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-18a-tschg--die-fachstelle-für-tiergerechte-tierhaltung-und-tierschutz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=18a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_23_TextContainer_23) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-18a-tschg--die-fachstelle-für-tiergerechte-tierhaltung-und-tierschutz) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-18a-tschg--die-fachstelle-für-tiergerechte-tierhaltung-und-tierschutz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=18a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_23_TextContainer_23) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-18a-tschg--die-fachstelle-für-tiergerechte-tierhaltung-und-tierschutz) \]
 
 ----
 
@@ -697,7 +697,7 @@
 
 > Tiere, die vorübergehend oder dauernd nicht in Unterkünften untergebracht sind, sind soweit erforderlich vor widrigen Witterungsbedingungen und soweit möglich vor Raubtieren und sonstigen Gefahren für ihr Wohlbefinden zu schützen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-19-tschg--nicht-in-unterkünften-untergebrachte-tiere) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=19) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-19-tschg--nicht-in-unterkünften-untergebrachte-tiere) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-19-tschg--nicht-in-unterkünften-untergebrachte-tiere) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=19) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-19-tschg--nicht-in-unterkünften-untergebrachte-tiere) \]
 
 ----
 
@@ -711,7 +711,7 @@
 
 > `(4)` Alle automatischen oder mechanischen Anlagen und Geräte, von deren Funktionsfähigkeit das Wohlbefinden der Tiere abhängt, sind regelmäßig, im Falle von landwirtschaftlichen Tierhaltungen und Tierhaltungen gemäß § 25 Abs\. 1 zweiter Satz und Abs\. 4, §§ 26, 27, 29 und 31 mindestens einmal am Tag, zu inspizieren\. Defekte sind unverzüglich zu beheben; ist dies nicht möglich, so sind entsprechende Maßnahmen zu treffen, um das Wohlbefinden der Tiere zu schützen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-20-tschg--kontrollen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=20) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-20-tschg--kontrollen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-20-tschg--kontrollen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=20) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-20-tschg--kontrollen) \]
 
 ----
 
@@ -721,7 +721,7 @@
 
 > `(2)` Diese Aufzeichnungen sind, soweit in bundesgesetzlichen Vorschriften nicht längere Fristen vorgesehen sind, für mindestens fünf Jahre aufzubewahren und der Behörde anlässlich einer Kontrolle oder auf Anforderung zur Verfügung zu stellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-21-tschg--aufzeichnungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=21) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_26_TextContainer_26) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-21-tschg--aufzeichnungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-21-tschg--aufzeichnungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=21) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_26_TextContainer_26) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-21-tschg--aufzeichnungen) \]
 
 ----
 
@@ -731,7 +731,7 @@
 
 > `(2)` Diese Bestimmung schließt nicht die Anwendung von Verfahren aus, die nur geringe oder vorübergehende Beeinträchtigungen des Wohlbefindens verursachen\. Die Bundesministerin bzw\. der Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz kann, in Bezug auf landwirtschaftliche Nutztiere im Einvernehmen mit der Bundesministerin bzw\. dem Bundesminister für Land\- und Forstwirtschaft, Regionen und Wasserwirtschaft, unter Berücksichtigung der Ziele und sonstigen Bestimmungen dieses Bundesgesetzes sowie des anerkannten Standes wissenschaftlicher Erkenntnisse durch Verordnung regeln, welche Methoden und Verfahren zur Zucht von Tieren jedenfalls verboten sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-22-tschg--zuchtmethoden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=22) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_27_TextContainer_27) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-22-tschg--zuchtmethoden) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-22-tschg--zuchtmethoden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=22) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_27_TextContainer_27) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-22-tschg--zuchtmethoden) \]
 
 ----
 
@@ -749,7 +749,7 @@
 
 > `(2)` Für Tierhalterinnen bzw\. Tierhalter, die an einem von der gemäß § 22c Abs\. 1 eingerichteten Kommission für tauglich befundenen Zucht\- bzw\. Maßnahmenprogramm gemäß § 22b Abs\. 3 teilnehmen und dieses nachweislich einhalten und umsetzen, gelten die Anforderungen der Abs\. 1 Z 3 und 4 als erfüllt\. Selbiges gilt auch für tauglich befundene Programme und sinngemäß für begutachtete Einzeltiere gemäß § 22c Abs\. 4 Z 10\. Nachweise über die Einhaltung und Umsetzung der im jeweiligen Programm vorgesehenen Maßnahmen sind der Behörde auf Verlangen vorzulegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-22a-tschg--verantwortung-der-züchterin-bzw-des-züchters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=22a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_28_TextContainer_28) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-22a-tschg--verantwortung-der-züchterin-bzw-des-züchters) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-22a-tschg--verantwortung-der-züchterin-bzw-des-züchters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=22a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_28_TextContainer_28) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-22a-tschg--verantwortung-der-züchterin-bzw-des-züchters) \]
 
 ----
 
@@ -777,7 +777,7 @@
 
 > `(6)` Wurden Einzeltiere gemäß § 22c Abs\. 4 Z 10 als tauglich zur Zucht befunden oder ein Programm eines Zuchtverbands oder –vereins gemäß Abs\. 3 für tauglich befunden oder angepasst, und treten dennoch bei derart gezüchteten Tieren Qualzuchtsymptome auf, so liegt kein Verstoß gegen § 5 Abs\. 2 Z 1 vor, wenn nachgewiesen werden kann, dass die Vorgaben des Programmes und der gemäß § 22c Abs\. 1 eingerichteten Kommission eingehalten wurden\. Dies gilt auch für jene Züchterinnen bzw\. Züchter, die ein zum Zeitpunkt des Inkrafttretens des Bundesgesetzes BGBl\. I Nr\. 124/2024 bereits bestehendes Programm eines Zuchtverbands oder –vereins gemäß Abs\. 3 eingereicht oder bis längstens sechs Monate nach Inkrafttreten des Bundesgesetzes BGBl\. I Nr\. 124/2024 einen Antrag auf Erstellung eines Gutachtens für eine bereits vor Inkrafttreten des Bundesgesetzes BGBl\. I Nr\. 124/2024 bestehendes Programm oder Begutachtung eines zuvor zur Zucht eingesetzten Einzeltieres im Sinne des § 22c Abs\. 4 Z 10 gestellt haben, bis zur Entscheidung durch die Kommission, sofern die Vorgaben des § 44 Abs\. 17 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 130/2022 eingehalten werden\. Bis zur Konstituierung der Kommission gemäß § 22c Abs\. 1, längstens jedoch sechs Monate nach Inkrafttreten der gegenständlichen Bestimmung, ist § 44 Abs\. 17 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 130/2022 auf Zuchten sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-22b-tschg--maßnahmen-zur-umsetzung-des-qualzuchtverbots) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=22b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-22b-tschg--maßnahmen-zur-umsetzung-des-qualzuchtverbots) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-22b-tschg--maßnahmen-zur-umsetzung-des-qualzuchtverbots) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=22b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-22b-tschg--maßnahmen-zur-umsetzung-des-qualzuchtverbots) \]
 
 ----
 
@@ -843,7 +843,7 @@
 
 > `(7)` Zur Beratung der Kommission bei der Erfüllung ihrer Aufgaben können von dieser tierartenbezogene Beiräte eingerichtet werden\. Diesen Beiräten können jedenfalls Vertreterinnen bzw\. Vertreter der Österreichischen Tierärztekammer, der Wirtschaftskammer Österreich, der Vereinigung Österreichischer Kleintiermediziner, des Österreichischen Dachverbands sachkundiger Tierhalter, der österreichischen Zuchtverbände sowie des Tierschutzrats angehören\. Die Mitwirkung in diesen Beiräten erfolgt ehrenamtlich\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-22c-tschg--wissenschaftliche-kommission-zur-umsetzung-des-qualzuchtverbots) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=22c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-22c-tschg--wissenschaftliche-kommission-zur-umsetzung-des-qualzuchtverbots) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-22c-tschg--wissenschaftliche-kommission-zur-umsetzung-des-qualzuchtverbots) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=22c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-22c-tschg--wissenschaftliche-kommission-zur-umsetzung-des-qualzuchtverbots) \]
 
 ----
 
@@ -863,7 +863,7 @@
 
 > `(3)` Sind innerhalb von sechs Monaten nach Abnahme von Tieren gemäß Abs\. 2 die Voraussetzungen für eine ordnungsgemäße Haltung geschaffen oder die erforderliche Genehmigung erwirkt, so sind sie zurückzustellen\. Ist dies nicht der Fall oder ist bereits vor Ablauf dieser Frist – frühestens aber zwei Monate nach der Abnahme – erkennbar, dass die Voraussetzungen bis dahin nicht vorliegen werden, so sind die Tiere als verfallen anzusehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-23-tschg--bewilligungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=23) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-23-tschg--bewilligungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-23-tschg--bewilligungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=23) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.002.md#-23-tschg--bewilligungen) \]
 
 ----
 
@@ -885,7 +885,7 @@
 
 > `(3)` Durch Verordnung kann die Bundesministerin bzw\. der Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz – unter Berücksichtigung der Zielsetzungen und der sonstigen Bestimmungen dieses Bundesgesetzes sowie unter Bedachtnahme auf den anerkannten Stand der wissenschaftlichen Erkenntnisse – nähere Bestimmungen über die Ausbildung und das Verhaltenstraining von Hunden, Anforderungen an die auszubildenden Hunde sowie Verbote und Voraussetzungen für Ausnahmen vom Verbot bestimmter tierschutzrelevanter Ausbildungsmaßnahmen festlegen\. Weiters können für Personen, die Hunde ausbilden oder sonst an der Ausbildung mitwirken sowie Personen, die mit ihren Hunden an Ausbildungen teilnehmen oder die Hunde halten, die eine bestimmte Ausbildung erfahren haben, besondere Befähigungsnachweise sowie die Voraussetzung zu deren Erlangung und Entziehung vorgeschrieben werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-24-tschg--tierhaltungsverordnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=24) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.003.md#-24-tschg--tierhaltungsverordnung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-24-tschg--tierhaltungsverordnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=24) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.003.md#-24-tschg--tierhaltungsverordnung) \]
 
 ----
 
@@ -1001,7 +1001,7 @@
 >
 > &nbsp; Die verarbeiteten Daten sind 20 Jahre nach dem Geburtsjahr des Hundes zu löschen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-24a-tschg--kennzeichnung-und-registrierung-von-hunden-und-zuchtkatzen-in-einer-datenbank) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=24a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.003.md#-24a-tschg--kennzeichnung-und-registrierung-von-hunden-und-zuchtkatzen-in-einer-datenbank) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-24a-tschg--kennzeichnung-und-registrierung-von-hunden-und-zuchtkatzen-in-einer-datenbank) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=24a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.003.md#-24a-tschg--kennzeichnung-und-registrierung-von-hunden-und-zuchtkatzen-in-einer-datenbank) \]
 
 ----
 
@@ -1029,7 +1029,7 @@
 
 > `(5)` Die Haltung von Pelztieren zur Pelzgewinnung ist verboten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-25-tschg--wildtiere) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=25) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.003.md#-25-tschg--wildtiere) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-25-tschg--wildtiere) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=25) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.003.md#-25-tschg--wildtiere) \]
 
 ----
 
@@ -1041,7 +1041,7 @@
 
 > `(3)` Wird der Zoo gänzlich oder teilweise geschlossen, so hat die Behörde für den Fall, dass der Eigentümer der Tiere nicht in der Lage ist, für eine diesem Bundesgesetz entsprechende Haltung zu sorgen, zu verfügen, dass die betroffenen Tiere solchen Vereinigungen, Institutionen oder Personen übergeben werden, die Gewähr für eine diesem Bundesgesetz entsprechende oder, sofern die Haltung im Ausland erfolgen soll, gleichwertige Haltung bieten\. Ist all dies nicht möglich, kann das Tier schmerzlos getötet werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-26-tschg--haltung-von-tieren-in-zoos) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=26) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_35_TextContainer_35) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.003.md#-26-tschg--haltung-von-tieren-in-zoos) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-26-tschg--haltung-von-tieren-in-zoos) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=26) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_35_TextContainer_35) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.003.md#-26-tschg--haltung-von-tieren-in-zoos) \]
 
 ----
 
@@ -1065,7 +1065,7 @@
 
 > `(6)` § 26 Abs\. 3 gilt sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-27-tschg--haltung-von-tieren-in-zirkussen-varietés-und-ähnlichen-einrichtungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=27) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_36_TextContainer_36) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.003.md#-27-tschg--haltung-von-tieren-in-zirkussen-varietés-und-ähnlichen-einrichtungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-27-tschg--haltung-von-tieren-in-zirkussen-varietés-und-ähnlichen-einrichtungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=27) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_36_TextContainer_36) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.003.md#-27-tschg--haltung-von-tieren-in-zirkussen-varietés-und-ähnlichen-einrichtungen) \]
 
 ----
 
@@ -1089,7 +1089,7 @@
 
 > `(4)` Bei Veranstaltungen nach Abs\. 1 und der damit verbundenen Tierhaltung sind die in diesem Bundesgesetz und in den darauf gegründeten Verordnungen festgelegten Mindestanforderungen sowie die allenfalls erteilten Bedingungen und Auflagen einzuhalten\. Bei Veranstaltungen, die verboten sind oder die ohne die erforderliche Genehmigung oder in einer nicht den Auflagen und Bedingungen entsprechenden Art und Weise abgehalten werden, kann die Behörde mittels Bescheid die Einstellung der Veranstaltung und die zur Sicherung der Einstellung erforderlichen Maßnahmen verfügen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-28-tschg--verwendung-von-tieren-bei-sonstigen-veranstaltungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=28) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_37_TextContainer_37) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.003.md#-28-tschg--verwendung-von-tieren-bei-sonstigen-veranstaltungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-28-tschg--verwendung-von-tieren-bei-sonstigen-veranstaltungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=28) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_37_TextContainer_37) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.003.md#-28-tschg--verwendung-von-tieren-bei-sonstigen-veranstaltungen) \]
 
 ----
 
@@ -1107,7 +1107,7 @@
 
 > `(4)` Nähere Bestimmungen über die Mindestanforderungen für Tierheime, Tierpensionen, Tierasyle und Gnadenhöfe in Bezug auf die Ausstattung, Betreuung von Tieren, Betriebsführung sowie über die von den mit der Tierhaltung beschäftigten Personen nachzuweisende Ausbildung hat die Bundesministerin bzw\. der Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz unter Bedachtnahme auf die Zielsetzung und die sonstigen Bestimmungen dieses Bundesgesetzes sowie den anerkannten Stand der wissenschaftlichen Erkenntnisse durch Verordnung festzulegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-29-tschg--tierheime-tierpensionen-tierasyle-und-gnadenhöfe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=29) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.003.md#-29-tschg--tierheime-tierpensionen-tierasyle-und-gnadenhöfe) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-29-tschg--tierheime-tierpensionen-tierasyle-und-gnadenhöfe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=29) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.003.md#-29-tschg--tierheime-tierpensionen-tierasyle-und-gnadenhöfe) \]
 
 ----
 
@@ -1129,7 +1129,7 @@
 
 > `(8)` Die Ausfolgung von Tieren im Sinne des Abs\. 1 an Personen, die ein Eigentumsrecht an diesen Tieren geltend machen, bedarf der Zustimmung der Behörde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-30-tschg--entlaufene-ausgesetzte-zurückgelassene-sowie-von-der-behörde-beschlagnahmte-oder-abgenommene-tiere) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=30) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_39_TextContainer_39) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.003.md#-30-tschg--entlaufene-ausgesetzte-zurückgelassene-sowie-von-der-behörde-beschlagnahmte-oder-abgenommene-tiere) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-30-tschg--entlaufene-ausgesetzte-zurückgelassene-sowie-von-der-behörde-beschlagnahmte-oder-abgenommene-tiere) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=30) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_39_TextContainer_39) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.003.md#-30-tschg--entlaufene-ausgesetzte-zurückgelassene-sowie-von-der-behörde-beschlagnahmte-oder-abgenommene-tiere) \]
 
 ----
 
@@ -1145,7 +1145,7 @@
 
 > `(5)` Hunde und Katzen dürfen im Rahmen gewerbsmäßiger Tätigkeiten gemäß Abs\. 1 in Zoofachgeschäften und anderen gewerblichen Einrichtungen, in denen Tiere angeboten werden, zum Zwecke des Verkaufes, der Vermittlung oder sonstiger gewerbsmäßiger Tätigkeiten, nicht gehalten und ausgestellt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-31-tschg--haltung-von-tieren-im-rahmen-einer-gewerbsmäßigen-oder-sonstigen-wirtschaftlichen-tätigkeit-ausgenommen-zur-zucht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=31) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_40_TextContainer_40) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.003.md#-31-tschg--haltung-von-tieren-im-rahmen-einer-gewerbsmäßigen-oder-sonstigen-wirtschaftlichen-tätigkeit-ausgenommen-zur-zucht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-31-tschg--haltung-von-tieren-im-rahmen-einer-gewerbsmäßigen-oder-sonstigen-wirtschaftlichen-tätigkeit-ausgenommen-zur-zucht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=31) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_40_TextContainer_40) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.003.md#-31-tschg--haltung-von-tieren-im-rahmen-einer-gewerbsmäßigen-oder-sonstigen-wirtschaftlichen-tätigkeit-ausgenommen-zur-zucht) \]
 
 ----
 
@@ -1163,7 +1163,7 @@
 
 > `(3)` Inhaberinnen bzw\. Inhaber einer gemäß § 31 Abs\. 1 für eine sonstige wirtschaftliche Tätigkeit ausgestellten Bewilligung haben die Anzahl der aus dem Ausland vermittelten Hunde je Quartal spätestens 14 Tage nach Quartalsende an die örtlich zuständige Behörde zu melden\. Diese hat die Anzahl der gemeldeten Hunde aufgeschlüsselt nach den Inhaberinnen bzw\. Inhabern einer gemäß § 31 Abs\. 1 für eine sonstige wirtschaftliche Tätigkeit ausgestellten Bewilligung zu sammeln\. Dies gilt auch, wenn keine Haltung in Österreich vorliegt, jedoch mit Hunden aus dem Ausland in Österreich gehandelt wird oder Hunde aus dem Ausland nach Österreich vermittelt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-31a-tschg--aufnahme-weitergabe-und-vermittlung-von-tieren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=31a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_41_TextContainer_41) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.003.md#-31a-tschg--aufnahme-weitergabe-und-vermittlung-von-tieren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-31a-tschg--aufnahme-weitergabe-und-vermittlung-von-tieren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=31a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_41_TextContainer_41) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.003.md#-31a-tschg--aufnahme-weitergabe-und-vermittlung-von-tieren) \]
 
 ----
 
@@ -1201,7 +1201,7 @@
 
 > `(5)` Die Behörde hat gemeldete und bewilligte Haltungen zur Zucht regelmäßig zu kontrollieren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-31b-tschg--haltung-von-tieren-zur-zucht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=31b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_42_TextContainer_42) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.003.md#-31b-tschg--haltung-von-tieren-zur-zucht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-31b-tschg--haltung-von-tieren-zur-zucht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=31b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_42_TextContainer_42) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.003.md#-31b-tschg--haltung-von-tieren-zur-zucht) \]
 
 ----
 
@@ -1255,7 +1255,7 @@
 >
 > &nbsp; zu treffen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-32-tschg--schlachtung-oder-tötung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=32) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.003.md#-32-tschg--schlachtung-oder-tötung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-32-tschg--schlachtung-oder-tötung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=32) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.003.md#-32-tschg--schlachtung-oder-tötung) \]
 
 ----
 
@@ -1271,7 +1271,7 @@
 
 > `(3)` Werden von der Wirtschaftskammer Österreich oder der Landwirtschaftskammer Österreich keine Leitfäden vorgelegt, obliegt die Ausarbeitung dieser dem Bundesminister bzw\. der Bundesministerin für Soziales, Gesundheit, Pflege und Konsumentenschutz\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-32a-tschg--leitfäden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=32a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_44_TextContainer_44) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.004.md#-32a-tschg--leitfäden) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-32a-tschg--leitfäden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=32a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_44_TextContainer_44) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.004.md#-32a-tschg--leitfäden) \]
 
 ----
 
@@ -1281,7 +1281,7 @@
 
 > `(2)` Der Bundesminister bzw\. der Bundesministerin für Soziales, Gesundheit, Pflege und Konsumentenschutz sowie die Kontaktstelle gemäß Abs\. 1 kann Personen oder Institutionen mit der Erstellung von wissenschaftlichen Gutachten gemäß Art\. 20 der Verordnung \(EG\) Nr\. 1099/2009 beauftragen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-32b-tschg--kontaktstelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=32b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_45_TextContainer_45) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.004.md#-32b-tschg--kontaktstelle) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-32b-tschg--kontaktstelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=32b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_45_TextContainer_45) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.004.md#-32b-tschg--kontaktstelle) \]
 
 ----
 
@@ -1311,7 +1311,7 @@
 
 > `(9)` Bis 8\. Dezember 2015 ist die Erlangung eines Sachkundenachweises möglich, wenn eine Person mit entsprechenden Kenntnissen und Fähigkeiten gemäß § 7 iVm Anhang I der Tierschutz\-Schlacht\-Verordnung, BGBl\. II Nr\. 488/2004 idF BGBl\. II Nr\. 31/2006, drei Jahre Berufserfahrung nachweist und keine Gründe vorliegen, die gemäß § 32d Abs\. 1 einen Entzug bedeuten würden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-32c-tschg--durchführung-von-schulungen-und-prüfungen-und-ausstellung-von-sachkundenachweisen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=32c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_46_TextContainer_46) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.004.md#-32c-tschg--durchführung-von-schulungen-und-prüfungen-und-ausstellung-von-sachkundenachweisen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-32c-tschg--durchführung-von-schulungen-und-prüfungen-und-ausstellung-von-sachkundenachweisen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=32c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_46_TextContainer_46) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.004.md#-32c-tschg--durchführung-von-schulungen-und-prüfungen-und-ausstellung-von-sachkundenachweisen) \]
 
 ----
 
@@ -1329,7 +1329,7 @@
 
 > `(3)` Die Wiedererlangung ist im Falle eines Entzuges aufgrund von Abs\. 1 Z 1 möglich, wenn durch abermalige positive Absolvierung der Schulung mit Prüfung gemäß § 32c Abs\. 2 nachgewiesen wird, dass ein Entzugsgrund nach Art\. 22 Abs\. 1 lit\. c der Verordnung \(EG\) Nr\. 1099/2009 nicht mehr vorliegt\. Im Falle eines Entzuges gemäß Abs\. 1 Z 2 ist die Wiederholung der Schulung mit Prüfung einmal möglich\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-32d-tschg--entzug-von-sachkundenachweisen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=32d) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_47_TextContainer_47) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.004.md#-32d-tschg--entzug-von-sachkundenachweisen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-32d-tschg--entzug-von-sachkundenachweisen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=32d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_47_TextContainer_47) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.004.md#-32d-tschg--entzug-von-sachkundenachweisen) \]
 
 ----
 
@@ -1341,7 +1341,7 @@
 
 > Soweit nicht ausdrücklich anderes bestimmt ist, ist Behörde im Sinne dieses Bundesgesetzes die Bezirksverwaltungsbehörde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-33-tschg--behörden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=33) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_48_TextContainer_48) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.004.md#-33-tschg--behörden) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-33-tschg--behörden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=33) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_48_TextContainer_48) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.004.md#-33-tschg--behörden) \]
 
 ----
 
@@ -1361,7 +1361,7 @@
 
 > `(2)` Die Organe des öffentlichen Sicherheitsdienstes haben außerdem der nach diesem Bundesgesetz zuständigen Behörde über deren Ersuchen zur Sicherung der Ausübung der Befugnisse gemäß §§ 35 bis 39 im Rahmen ihres gesetzmäßigen Wirkungsbereiches Hilfe zu leisten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-34-tschg--mitwirkung-von-organen-des-öffentlichen-sicherheitsdienstes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=34) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_49_TextContainer_49) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.004.md#-34-tschg--mitwirkung-von-organen-des-öffentlichen-sicherheitsdienstes) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-34-tschg--mitwirkung-von-organen-des-öffentlichen-sicherheitsdienstes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=34) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_49_TextContainer_49) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.004.md#-34-tschg--mitwirkung-von-organen-des-öffentlichen-sicherheitsdienstes) \]
 
 ----
 
@@ -1389,7 +1389,7 @@
 
 > `(7)` Das Bundes\-Berichtspflichtengesetz, BGBl\. I Nr\. 65/2002, ist hinsichtlich der Kontrollen gemäß Abs\. 2 bis 6 auch insoweit anzuwenden, als keine gemeinschaftsrechtlichen oder internationalen Aufzeichnungs\-, Melde\- oder Berichtspflichten zu erfüllen sind, und zwar mit der Maßgabe, dass an die Stelle des Landeshauptmannes die Landesregierung zu treten hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-35-tschg--behördliche-überwachung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=35) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_50_TextContainer_50) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.004.md#-35-tschg--behördliche-überwachung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-35-tschg--behördliche-überwachung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=35) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_50_TextContainer_50) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.004.md#-35-tschg--behördliche-überwachung) \]
 
 ----
 
@@ -1401,7 +1401,7 @@
 
 > `(3)` Die mit der Tierhaltung befassten Personen haben auf Verlangen die erforderlichen Auskünfte zu erteilen\. Die Verpflichtung zur Erteilung von Auskünften besteht nicht, sofern die genannten Personen dadurch sich selbst oder eine der in § 38 des Verwaltungsstrafgesetzes 1991, BGBl\. Nr\. 52, genannten Personen der Gefahr der Strafverfolgung aussetzen würden; derartige Gründe sind glaubhaft zu machen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-36-tschg--betreten-von-liegenschaften-räumen-und-transportmitteln-mitwirkungspflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=36) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_51_TextContainer_51) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.004.md#-36-tschg--betreten-von-liegenschaften-räumen-und-transportmitteln-mitwirkungspflicht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-36-tschg--betreten-von-liegenschaften-räumen-und-transportmitteln-mitwirkungspflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=36) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_51_TextContainer_51) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.004.md#-36-tschg--betreten-von-liegenschaften-räumen-und-transportmitteln-mitwirkungspflicht) \]
 
 ----
 
@@ -1417,7 +1417,7 @@
 
 > `(4)` Die Organe der Behörde sind berechtigt, die Kastration von Einzeltieren gemäß § 35 Abs\. 6a, die trotz behördlich untersagter Zucht bzw\. angeordneter Kastration weiterhin zur Zucht verwendet werden bzw\. nicht kastriert wurden, auf Kosten des Halters vornehmen zu lassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-37-tschg--sofortiger-zwang) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=37) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_52_TextContainer_52) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.004.md#-37-tschg--sofortiger-zwang) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-37-tschg--sofortiger-zwang) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=37) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_52_TextContainer_52) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.004.md#-37-tschg--sofortiger-zwang) \]
 
 ----
 
@@ -1456,7 +1456,7 @@
 > `(7)` Eine Verwaltungsübertretung liegt nicht vor, wenn eine in Abs\. 1 bis 3 bezeichnete Tat den Tatbestand einer in die Zuständigkeit der Gerichte fallenden strafbaren Handlung bildet\.
 > *\(Anm\.: Abs\. 8 aufgehoben durch Art\. I Z 30, BGBl\. I Nr\. 130/2022\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-38-tschg--strafbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=38) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_53_TextContainer_53) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.005.md#-38-tschg--strafbestimmungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-38-tschg--strafbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=38) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_53_TextContainer_53) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.005.md#-38-tschg--strafbestimmungen) \]
 
 ----
 
@@ -1476,7 +1476,7 @@
 
 > `(5)` Tierhaltungsverbote gemäß Abs\. 1 gelten für das gesamte Bundesgebiet\. Die Behörde ist verpflichtet, Tierhaltungsverbote der zuständigen Landesregierung zu melden\. Die Landesregierungen haben einander unverzüglich von rechtskräftigen Bescheiden über Tierhaltungsverbote sowie deren allfällige Aufhebung in Kenntnis zu setzen\. Die Landesregierungen haben ihrerseits die ihnen jeweils unterstellten Behörden über alle Tierhaltungsverbote oder Aufhebungen im gesamten Bundesgebiet in Kenntnis zu setzen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-39-tschg--verbot-der-tierhaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=39) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_54_TextContainer_54) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.005.md#-39-tschg--verbot-der-tierhaltung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-39-tschg--verbot-der-tierhaltung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=39) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_54_TextContainer_54) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.005.md#-39-tschg--verbot-der-tierhaltung) \]
 
 ----
 
@@ -1488,7 +1488,7 @@
 
 > `(3)` Der Täter oder – im Fall eines nach § 37 Abs\. 3 dritter Satz eingetretenen Verfalls – der Halter hat der Behörde die durch die vorläufige Verwahrung verbundenen Kosten sowie die Kosten der Tötung zu ersetzen\. Ist der Verfall nicht Folge einer verwaltungsstrafrechtlichen Verurteilung des bisherigen Eigentümers, hat die Behörde dem bisherigen Eigentümer einen erzielten Erlös unter Abzug der für das Tier aufgewendeten Kosten auszufolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-40-tschg--verfall) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=40) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_55_TextContainer_55) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.005.md#-40-tschg--verfall) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-40-tschg--verfall) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=40) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_55_TextContainer_55) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.005.md#-40-tschg--verfall) \]
 
 ----
 
@@ -1518,7 +1518,7 @@
 
 > `(12)` Die Funktionsperiode der Tierschutzombudsperson endet durch den Ablauf der Bestellungsdauer, durch Verzicht oder durch begründete Abberufung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-41-tschg--tierschutzombudsperson) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=41) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.005.md#-41-tschg--tierschutzombudsperson) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-41-tschg--tierschutzombudsperson) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=41) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.005.md#-41-tschg--tierschutzombudsperson) \]
 
 ----
 
@@ -1548,7 +1548,7 @@
 
 > `(9)` Die Bundesministerin bzw\. der Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz erstellt einen mehrjährigen Arbeitsplan für sämtliche Belange des Tierschutzes und legt alle zwei Jahre dem Nationalrat einen Tierschutzbericht vor\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-41a-tschg--tierschutzkommission-tierschutzarbeitsplan-und-tierschutzbericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=41a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.005.md#-41a-tschg--tierschutzkommission-tierschutzarbeitsplan-und-tierschutzbericht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-41a-tschg--tierschutzkommission-tierschutzarbeitsplan-und-tierschutzbericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=41a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.005.md#-41a-tschg--tierschutzkommission-tierschutzarbeitsplan-und-tierschutzbericht) \]
 
 ----
 
@@ -1621,7 +1621,7 @@
 > `(9)` Vom Bundesminister bzw\. von der Bundesministerin für Soziales, Gesundheit, Pflege und Konsumentenschutz können Stellungnahmen gemäß Abs\. 7 Z 2 und gemäß Abs\. 7 Z 3 nach Anhörung des Tierschutzrates in den Amtlichen Veterinärnachrichten kundgemacht werden\.
 > *\(Anm\.: Abs\. 10 aufgehoben durch BGBl\. I Nr\. 80/2010\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-42-tschg--tierschutzrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=42) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_58_TextContainer_58) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.005.md#-42-tschg--tierschutzrat) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-42-tschg--tierschutzrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=42) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_58_TextContainer_58) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.005.md#-42-tschg--tierschutzrat) \]
 
 ----
 
@@ -1655,7 +1655,7 @@
 >
 >> `3.` Erstattung von Vorschlägen für den mehrjährigen Arbeitsplan der Bundesministerin bzw\. des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz gemäß § 41a Abs\. 9 aus Sicht des Vollzuges\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-42a-tschg--vollzugsbeirat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=42a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_59_TextContainer_59) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.005.md#-42a-tschg--vollzugsbeirat) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-42a-tschg--vollzugsbeirat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=42a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_59_TextContainer_59) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.005.md#-42a-tschg--vollzugsbeirat) \]
 
 ----
 
@@ -1665,7 +1665,7 @@
 
 > `(2)` Alle in diesem Bundesgesetz verwendeten personenbezogenen Bezeichnungen gelten gleichermaßen für Personen sowohl weiblichen als auch männlichen Geschlechts\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-43-tschg--verweisungen-personenbezogene-bezeichnungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=43) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.005.md#-43-tschg--verweisungen-personenbezogene-bezeichnungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-43-tschg--verweisungen-personenbezogene-bezeichnungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=43) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.005.md#-43-tschg--verweisungen-personenbezogene-bezeichnungen) \]
 
 ----
 
@@ -1795,7 +1795,7 @@
 >
 > 1 LGBl\. für Burgenland Nr\. 33/1996, LGBl\. für Kärnten Nr\. 39/1994 idF Nr\. 72/1995, LGBl\. für Niederösterreich 0812, LGBl\. für Oberösterreich Nr\. 71/1995, LGBl\. für Salzburg Nr\. 119/1995, LGBl\. für Steiermark Nr\. 65/1995 idF Nr\. 66/1995, LGBl\. für Tirol Nr\. 72/1995 idF Nr\. 73/1995, LGBl\. für Vorarlberg Nr\. 34/1995 idF Nr\. 68/1995, LGBl\. für Wien Nr\. 23/1994 idF Nr\. 10/1995\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-44-tschg--in-kraft-treten-und-übergangsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=44) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.005.md#-44-tschg--in-kraft-treten-und-übergangsbestimmungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-44-tschg--in-kraft-treten-und-übergangsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=44) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.005.md#-44-tschg--in-kraft-treten-und-übergangsbestimmungen) \]
 
 ----
 
@@ -1803,7 +1803,7 @@
 
 > Verordnungen auf Grund dieses Bundesgesetzes in seiner jeweiligen Fassung dürfen bereits von dem Tag an erlassen werden, der der Kundmachung des durchzuführenden Bundesgesetzes folgt; sie dürfen jedoch nicht vor den durchzuführenden Gesetzesbestimmungen in Kraft treten\. Durchführungsmaßnahmen, die für eine mit dem In\-Kraft\-Treten der neuen bundesgesetzlichen Bestimmungen beginnende Vollziehung erforderlich sind, können von demselben Tag an gesetzt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-45-tschg--vorbereitung-der-vollziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=45) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.005.md#-45-tschg--vorbereitung-der-vollziehung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-45-tschg--vorbereitung-der-vollziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=45) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.005.md#-45-tschg--vorbereitung-der-vollziehung) \]
 
 ----
 
@@ -1826,7 +1826,7 @@
 >
 >> `7.` Richtlinie 2007/43/EG mit Mindestvorschriften zum Schutz von Masthühnern, ABl\. L 182 vom 12\.7\.2007 S\. 19\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-46-tschg--umsetzungshinweis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=46) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.005.md#-46-tschg--umsetzungshinweis) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-46-tschg--umsetzungshinweis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=46) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.005.md#-46-tschg--umsetzungshinweis) \]
 
 ----
 
@@ -1834,7 +1834,7 @@
 
 > Dieses Bundesgesetz wurde unter Einhaltung der Bestimmungen der Richtlinie 98/34/EG über ein Informationsverfahren auf dem Gebiet der Normen und technischen Vorschriften, ABl\. Nr\. L 204 vom 21\.07\.1998 S\. 37, in der Fassung der Richtlinie 98/48/EG, ABl\. Nr\. L 217 vom 05\.08\.1998 S\. 18, notifiziert\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-47-tschg--notifikation) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=47) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_64_TextContainer_64) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.005.md#-47-tschg--notifikation) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-47-tschg--notifikation) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=47) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_64_TextContainer_64) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.005.md#-47-tschg--notifikation) \]
 
 ----
 
@@ -1864,7 +1864,7 @@
 >
 > &nbsp; betraut\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-48-tschg--vollziehungsklausel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=48) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_65_TextContainer_65) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.005.md#-48-tschg--vollziehungsklausel) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#-48-tschg--vollziehungsklausel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=48) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_65_TextContainer_65) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.005.md#-48-tschg--vollziehungsklausel) \]
 
 ----
 
@@ -1876,4 +1876,4 @@
 
 > `undefined` Verordnung \(EU\) 2017/625 über amtliche Kontrollen \(ABl\. Nr\. L 95 vom 7\. April 2017 S\. 1\) soweit diese den Tierschutz in Verbindung mit der Haltung von Tieren sowie dem Schlachten und dem Töten von Tieren betrifft\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#anl-1-tschg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=1) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_66_TextContainer_66) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.006.md#anl-1-tschg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.md#anl-1-tschg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541&Paragraf=1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_66_TextContainer_66) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.006.md#anl-1-tschg) \]

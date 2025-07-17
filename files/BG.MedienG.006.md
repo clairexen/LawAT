@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** MedienG  
 **Langtitel:** Bundesgesetz vom 12. Juni 1981 über die Presse und andere publizistische Medien (Mediengesetz – MedienG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000719  
 **Letzte Änderung im RIS:** BGBl. I Nr. 182/2023 (NR: GP XXVII RV 2309 AB 2344 S. 247. BR: 11366 AB 11400 S. 961.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.MedienG.006.md  

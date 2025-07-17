@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** IFG  
 **Langtitel:** Bundesgesetz über den Zugang zu Informationen (Informationsfreiheitsgesetz – IFG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 01.01.2026  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 01.09.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20012537  
 **Letzte Änderung im RIS:**   
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.IFG.000.md  

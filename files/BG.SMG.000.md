@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** SMG  
 **Langtitel:** Bundesgesetz über Suchtgifte, psychotrope Stoffe und Drogenausgangsstoffe (Suchtmittelgesetz – SMG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011040  
 **Letzte Änderung im RIS:** BGBl. I Nr. 105/2024 (NR: GP XXVII RV 2530 AB 2663 S. 272. BR: 11527 AB 11578 S. 970.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.SMG.000.md  

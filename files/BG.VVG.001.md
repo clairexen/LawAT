@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** VVG  
 **Langtitel:** Verwaltungsvollstreckungsgesetz 1991 – VVG  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005772  
 **Letzte Änderung im RIS:** BGBl. I Nr. 14/2022 (NR: GP XXVII RV 1176 AB 1221 S. 137. BR: AB 10815 S. 936.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.VVG.001.md  

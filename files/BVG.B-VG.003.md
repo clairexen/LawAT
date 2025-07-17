@@ -2,7 +2,7 @@
 **Typ:** Bundesverfassungsgesetz  
 **Kurztitel:** B-VG  
 **Langtitel:** Bundes-Verfassungsgesetz (B-VG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000138  
 **Letzte Änderung im RIS:** BGBl. I Nr. 89/2024 (NR: GP XXVII IA 4013/A AB 2701 S. 270. BR: AB 11590 S. 969.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BVG.B-VG.003.md  

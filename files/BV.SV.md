@@ -2,7 +2,7 @@
 **Typ:** Verordnung eines Bundesministeriums  
 **Kurztitel:** SV  
 **Langtitel:** Verordnung der Bundesministerin für Arbeit, Gesundheit und Soziales über den Verkehr und die Gebarung mit Suchtgiften (Suchtgiftverordnung – SV)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10011053  
 **Letzte Änderung im RIS:** BGBl. II Nr. 10/2025  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BV.SV.md  

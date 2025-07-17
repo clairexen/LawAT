@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** BDG  
 **Langtitel:** Bundesgesetz vom 27. Juni 1979 über das Dienstrecht der Beamten (Beamten-Dienstrechtsgesetz 1979 – BDG 1979)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008470  
 **Letzte Änderung im RIS:** BGBl. I Nr. 25/2025 (NR: GP XXVIII RV 69 und Zu 69 AB 100 S. 30. BR: 11643 AB 11645 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.BDG.001.md  
@@ -14,18 +14,19 @@
 
 Der Nationalrat hat beschlossen:
 
-## Artikel V # Überleitung der Universitäts(Hochschul)professoren
+## Artikel V
 
-### Art. 5 BDG # (Anm.: aus BGBl. Nr. 148/1988, zu §§ 154, 163 und 164 des BDG, BGBl. Nr. 333/1979)
+### Art. 5 BDG # (Anm.: aus BGBl. Nr. 287/1988, zu Anlage 1 Z 23.1 Abs. 6 und Z 24.1 Abs. 4, BGBl. Nr. 333/1979)
 
 `Art. 5 (1) BDG.`  
-Mit 1. Oktober 1988 sind dem Dienststand angehörende Ordentliche Universitätsprofessoren, Ordentliche Hochschulprofessoren und Außerordentliche Universitätsprofessoren Angehörige der gleichnamigen Gruppe von Hochschullehrern gemäß § 154 BDG 1979.
+Das in Z 23.1 Abs. 6 der Anlage 1 zum BDG 1979 angeführte Erfordernis der erfolgreichen Absolvierung des Unterrichtspraktikums wird ersetzt  
+`Art. 5 (1) Z 1 BDG.`
+durch die Einführung in das praktische Lehramt im Sinne der Prüfungsvorschrift für das Lehramt an Mittelschulen, BGBl. Nr. 271/1937, oder  
+`Art. 5 (1) Z 2 BDG.`
+durch eine nach schulrechtlichen Vorschriften gleichgehaltene Einführung, die vor dem 1. September 1988 zurückgelegt worden ist.
 
 `Art. 5 (2) BDG.`  
-In der Rechtsstellung und den Ansprüchen der Ordentlichen Universitäts(Hochschul)professoren und der Außerordentlichen Universitäts(Hochschul)professoren, die vor dem 1. Oktober 1988 emeritiert worden, in den Ruhestand versetzt worden oder in den Ruhestand getreten sind, sowie in den Ansprüchen der Personen, die von solchen Hochschullehrern einen Anspruch auf Versorgungsgenuß ableiten, tritt durch Art. I keine Änderung ein.
-
-`Art. 5 (3) BDG.`  
-Der Ordentliche Universitäts(Hochschul)professor, der in dem Studienjahr (§ 19 Abs. 1 des Allgemeinen Hochschul-Studiengesetzes, BGBl. Nr. 177/1966, bzw. § 22 Abs. 1 des Kunsthochschul-Studiengesetzes, BGBl. Nr. 187/1983), in dem Art. I in Kraft tritt, das 63. Lebensjahr vollendet hat oder vollendet, kann seine Emeritierung gemäß § 163 BDG 1979 beantragen; ein Ordentlicher Universitäts(Hochschul)professor, der in diesem Studienjahr das 69. Lebensjahr vollendet, kann seine Emeritierung mit Ablauf dieses Studienjahres beantragen. Wird kein Antrag gestellt, so sind auf solche Ordentliche Universitäts(Hochschul)professoren die Abschnitte II bis V des Bundesgesetzes vom 18. November 1955, BGBl. Nr. 236, womit Bestimmungen über die Pensionsbehandlung von Hochschulprofessoren und über deren Emeritierung getroffen werden, weiter anzuwenden.
+Anlage 1 Z 24.1 Abs. 4 BDG 1979 gilt nicht für Personen, die vor dem 1. September 1988 eine Ausbildung zum Erwerb einer Lehrbefähigung im Sinne der Anlage 1 Z 24.1 Abs. 1 BDG 1979 für den hauswirtschaftlichen Fachunterricht an berufsbildenden mittleren und höheren Schulen begonnen und danach ununterbrochen fortgesetzt und abgeschlossen haben.
 
 ## Überleitung der Lehrer und der Beamten des wissenschaftlichen Dienstes
 

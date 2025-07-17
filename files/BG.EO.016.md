@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** EO  
 **Langtitel:** Gesetz vom 27. Mai 1896, über das Executions- und Sicherungsverfahren (Exekutionsordnung – EO).  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001700  
 **Letzte Änderung im RIS:** BGBl. I Nr. 136/2023 (NR: GP XXVII RV 2209 AB 2261 S. 233. BR: 11307 AB 11323 S. 959.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.EO.016.md  

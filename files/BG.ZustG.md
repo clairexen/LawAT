@@ -2,8 +2,8 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** ZustG  
 **Langtitel:** Bundesgesetz über die Zustellung behördlicher Dokumente (Zustellgesetz – ZustG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
-**Quelle:** https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
+**Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522  
 **Letzte Änderung im RIS:** [CELEX-Nr.: 32019L1152, 32019L1158]  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md  
 *Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
@@ -78,7 +78,7 @@ Der Nationalrat hat beschlossen:
 
 > Dieses Bundesgesetz regelt die Zustellung der von Gerichten und Verwaltungsbehörden in Vollziehung der Gesetze zu übermittelnden Dokumente sowie die durch sie vorzunehmende Zustellung von Dokumenten ausländischer Behörden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-1-zustg--anwendungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=1) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-1-zustg--anwendungsbereich) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-1-zustg--anwendungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-1-zustg--anwendungsbereich) \]
 
 ----
 
@@ -104,7 +104,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `9.` „Kunde“: Person, gegenüber der sich ein Zustelldienst, der die Leistungen gemäß § 29 Abs\. 1 zu erbringen hat, zur Zustellung behördlicher Dokumente verpflichtet hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-2-zustg--begriffsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=2) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-2-zustg--begriffsbestimmungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-2-zustg--begriffsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=2) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-2-zustg--begriffsbestimmungen) \]
 
 ----
 
@@ -112,7 +112,7 @@ Der Nationalrat hat beschlossen:
 
 > Soweit die für das Verfahren geltenden Vorschriften nicht eine andere Form der Zustellung vorsehen, hat die Zustellung durch einen Zustelldienst, durch Bedienstete der Behörde oder, wenn dies im Interesse der Zweckmäßigkeit, Einfachheit und Raschheit gelegen ist, durch Organe der Gemeinden zu erfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-3-zustg--durchführung-der-zustellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=3) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-3-zustg--durchführung-der-zustellung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-3-zustg--durchführung-der-zustellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=3) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-3-zustg--durchführung-der-zustellung) \]
 
 ----
 
@@ -120,7 +120,7 @@ Der Nationalrat hat beschlossen:
 
 > Wer mit der Zustellung betraut ist \(Zusteller\), handelt hinsichtlich der Wahrung der Gesetzmäßigkeit der Zustellung als Organ der Behörde, deren Dokument zugestellt werden soll\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-4-zustg--stellung-des-zustellers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=4) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-4-zustg--stellung-des-zustellers) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-4-zustg--stellung-des-zustellers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=4) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-4-zustg--stellung-des-zustellers) \]
 
 ----
 
@@ -128,7 +128,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Zustellung ist von der Behörde zu verfügen, deren Dokument zugestellt werden soll\. Die Zustellverfügung hat den Empfänger möglichst eindeutig zu bezeichnen und die für die Zustellung erforderlichen sonstigen Angaben zu enthalten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-5-zustg--zustellverfügung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=5) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-5-zustg--zustellverfügung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-5-zustg--zustellverfügung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=5) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-5-zustg--zustellverfügung) \]
 
 ----
 
@@ -136,7 +136,7 @@ Der Nationalrat hat beschlossen:
 
 > Ist ein Dokument zugestellt, so löst die neuerliche Zustellung des gleichen Dokuments keine Rechtswirkungen aus\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-6-zustg--mehrmalige-zustellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=6) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-6-zustg--mehrmalige-zustellung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-6-zustg--mehrmalige-zustellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=6) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-6-zustg--mehrmalige-zustellung) \]
 
 ----
 
@@ -144,7 +144,7 @@ Der Nationalrat hat beschlossen:
 
 > Unterlaufen im Verfahren der Zustellung Mängel, so gilt die Zustellung als in dem Zeitpunkt dennoch bewirkt, in dem das Dokument dem Empfänger tatsächlich zugekommen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-7-zustg--heilung-von-zustellmängeln) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=7) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-7-zustg--heilung-von-zustellmängeln) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-7-zustg--heilung-von-zustellmängeln) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=7) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-7-zustg--heilung-von-zustellmängeln) \]
 
 ----
 
@@ -154,7 +154,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Wird diese Mitteilung unterlassen, so ist, soweit die Verfahrensvorschriften nicht anderes vorsehen, die Zustellung durch Hinterlegung ohne vorausgehenden Zustellversuch vorzunehmen, falls eine Abgabestelle nicht ohne Schwierigkeiten festgestellt werden kann\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-8-zustg--änderung-der-abgabestelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=8) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-8-zustg--änderung-der-abgabestelle) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-8-zustg--änderung-der-abgabestelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=8) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-8-zustg--änderung-der-abgabestelle) \]
 
 ----
 
@@ -172,7 +172,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` § 8 ist auf den Zustellungsbevollmächtigten sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-9-zustg--zustellungsbevollmächtigter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=9) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-9-zustg--zustellungsbevollmächtigter) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-9-zustg--zustellungsbevollmächtigter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=9) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-9-zustg--zustellungsbevollmächtigter) \]
 
 ----
 
@@ -186,7 +186,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `2.` über eine inländische Abgabestelle verfügt und diese der Behörde bekannt gegeben hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-10-zustg--zustellung-durch-übersendung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=10) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-10-zustg--zustellung-durch-übersendung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-10-zustg--zustellung-durch-übersendung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=10) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-10-zustg--zustellung-durch-übersendung) \]
 
 ----
 
@@ -198,7 +198,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Zustellungen an Personen, die nach den Vorschriften des Bundesverfassungsgesetzes über Kooperation und Solidarität bei der Entsendung von Einheiten und Einzelpersonen in das Ausland \(KSE\-BVG\), BGBl\. I Nr\. 38/1997, in das Ausland entsendet wurden, sind im Wege des zuständigen Bundesministers, sofern aber diese Personen anlässlich ihrer Entsendung zu einer Einheit oder zu mehreren Einheiten zusammengefasst wurden, im Wege des Vorgesetzten der Einheit vorzunehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-11-zustg--besondere-fälle-der-zustellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=11) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-11-zustg--besondere-fälle-der-zustellung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-11-zustg--besondere-fälle-der-zustellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=11) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-11-zustg--besondere-fälle-der-zustellung) \]
 
 ----
 
@@ -216,7 +216,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `2.` Im Übrigen sind das Europäische Übereinkommen über die Zustellung von Schriftstücken in Verwaltungssachen im Ausland, BGBl\. Nr\. 67/1983, und die von der Republik Österreich gemäß diesem Abkommen abgegebenen Erklärungen sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-12-zustg--zustellung-ausländischer-dokumente-im-inland) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=12) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-12-zustg--zustellung-ausländischer-dokumente-im-inland) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-12-zustg--zustellung-ausländischer-dokumente-im-inland) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=12) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-12-zustg--zustellung-ausländischer-dokumente-im-inland) \]
 
 ----
 
@@ -235,7 +235,7 @@ Der Nationalrat hat beschlossen:
 > `(4)` Ist der Empfänger eine zur berufsmäßigen Parteienvertretung befugte Person, so ist das Dokument in deren Kanzlei zuzustellen und darf an jeden dort anwesenden Angestellten des Parteienvertreters zugestellt werden; durch Organe eines Zustelldienstes darf an bestimmte Angestellte nicht oder nur an bestimmte Angestellte zugestellt werden, wenn der Parteienvertreter dies schriftlich beim Zustelldienst verlangt hat\. Die Behörde hat Angestellte des Parteienvertreters wegen ihres Interesses an der Sache oder auf Grund einer zuvor der Behörde schriftlich abgegebenen Erklärung des Parteienvertreters durch einen Vermerk auf dem Dokument und dem Zustellnachweis von der Zustellung auszuschließen; an sie darf nicht zugestellt werden\.
 > *\(Anm\.: Abs\. 5 und 6 aufgehoben durch BGBl\. I Nr\. 10/2004\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-13-zustg--zustellung-an-den-empfänger) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=13) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-13-zustg--zustellung-an-den-empfänger) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-13-zustg--zustellung-an-den-empfänger) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=13) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-13-zustg--zustellung-an-den-empfänger) \]
 
 ----
 
@@ -243,7 +243,7 @@ Der Nationalrat hat beschlossen:
 
 > Untersteht der Empfänger einer Anstaltsordnung und dürfen ihm auf Grund gesetzlicher Bestimmungen Dokumente nur durch den Leiter der Anstalt oder durch eine von diesem bestimmte Person oder durch den Untersuchungsrichter ausgehändigt werden, so ist das Dokument dem Leiter der Anstalt oder der von ihm bestimmten Person vom Zusteller zur Vornahme der Zustellung zu übergeben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-14-zustg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=14) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-14-zustg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-14-zustg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=14) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-14-zustg) \]
 
 ----
 
@@ -253,7 +253,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Bei sonstigen Zustellungen in Kasernen oder auf anderen militärisch genutzten Liegenschaften ist das für deren Verwaltung zuständige Kommando vorher davon in Kenntnis zu setzen\. Auf Verlangen des Kommandos ist ein von ihm zu bestimmender Soldat oder Bediensteter der Heeresverwaltung dem Zusteller beizugeben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-15-zustg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=15) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-15-zustg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-15-zustg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=15) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-15-zustg) \]
 
 ----
 
@@ -269,7 +269,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Eine Ersatzzustellung gilt als nicht bewirkt, wenn sich ergibt, daß der Empfänger oder dessen Vertreter im Sinne des § 13 Abs\. 3 wegen Abwesenheit von der Abgabestelle nicht rechtzeitig vom Zustellvorgang Kenntnis erlangen konnte, doch wird die Zustellung mit dem der Rückkehr an die Abgabestelle folgenden Tag wirksam\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-16-zustg--ersatzzustellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=16) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-16-zustg--ersatzzustellung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-16-zustg--ersatzzustellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=16) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-16-zustg--ersatzzustellung) \]
 
 ----
 
@@ -283,7 +283,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die im Wege der Hinterlegung vorgenommene Zustellung ist auch dann gültig, wenn die im Abs\. 2 genannte Verständigung beschädigt oder entfernt wurde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-17-zustg--hinterlegung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=17) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-17-zustg--hinterlegung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-17-zustg--hinterlegung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=17) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-17-zustg--hinterlegung) \]
 
 ----
 
@@ -297,7 +297,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Dokumente, deren Nachsendung durch einen auf ihnen angebrachten Vermerk ausgeschlossen ist, sind nicht nachzusenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-18-zustg--nachsendung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=18) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-18-zustg--nachsendung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-18-zustg--nachsendung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=18) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-18-zustg--nachsendung) \]
 
 ----
 
@@ -307,7 +307,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Auf dem Zustellnachweis \(Zustellschein, Rückschein\) ist der Grund der Rücksendung, Weitersendung oder Vernichtung zu vermerken\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-19-zustg--rücksendung-weitersendung-und-vernichtung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=19) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-19-zustg--rücksendung-weitersendung-und-vernichtung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-19-zustg--rücksendung-weitersendung-und-vernichtung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=19) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-19-zustg--rücksendung-weitersendung-und-vernichtung) \]
 
 ----
 
@@ -319,7 +319,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wird dem Zusteller der Zugang zur Abgabestelle verwehrt, verleugnet der Empfänger seine Anwesenheit, oder läßt er sich verleugnen, so gilt dies als Verweigerung der Annahme\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-20-zustg--verweigerung-der-annahme) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=20) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_20_TextContainer_20) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-20-zustg--verweigerung-der-annahme) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-20-zustg--verweigerung-der-annahme) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=20) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_20_TextContainer_20) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-20-zustg--verweigerung-der-annahme) \]
 
 ----
 
@@ -327,7 +327,7 @@ Der Nationalrat hat beschlossen:
 
 > Dem Empfänger zu eigenen Handen zuzustellende Dokumente dürfen nicht an einen Ersatzempfänger zugestellt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-21-zustg--zustellung-zu-eigenen-handen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=21) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_21_TextContainer_21) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-21-zustg--zustellung-zu-eigenen-handen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-21-zustg--zustellung-zu-eigenen-handen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=21) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_21_TextContainer_21) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-21-zustg--zustellung-zu-eigenen-handen) \]
 
 ----
 
@@ -341,7 +341,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Liegen die technischen Voraussetzungen dafür vor, so kann die Beurkundung der Zustellung auch elektronisch erfolgen\. In diesem Fall hat der Übernehmer auf einer technischen Vorrichtung zu unterschreiben; an die Stelle der Unterschriftsleistung kann auch die Identifikation und Authentifizierung mit der Bürgerkarte \(§ 2 Z 10 des E\-Government\-Gesetzes – E\-GovG, BGBl\. I Nr\. 10/2004\) treten\. Die die Beurkundung der Zustellung betreffenden Daten sind dem Absender unverzüglich zu übermitteln\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-22-zustg--zustellnachweis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=22) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-22-zustg--zustellnachweis) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-22-zustg--zustellnachweis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=22) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-22-zustg--zustellnachweis) \]
 
 ----
 
@@ -355,7 +355,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Das so hinterlegte Dokument gilt mit dem ersten Tag der Hinterlegung als zugestellt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-23-zustg--hinterlegung-ohne-zustellversuch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=23) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_23_TextContainer_23) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-23-zustg--hinterlegung-ohne-zustellversuch) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-23-zustg--hinterlegung-ohne-zustellversuch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=23) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_23_TextContainer_23) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-23-zustg--hinterlegung-ohne-zustellversuch) \]
 
 ----
 
@@ -369,7 +369,7 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; ausgefolgt werden\. Die Ausfolgung ist von der Behörde bzw\. von der Dienststelle zu beurkunden; § 22 Abs\. 2 bis 4 ist sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-24-zustg--unmittelbare-ausfolgung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=24) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-24-zustg--unmittelbare-ausfolgung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-24-zustg--unmittelbare-ausfolgung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=24) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-24-zustg--unmittelbare-ausfolgung) \]
 
 ----
 
@@ -381,7 +381,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `2.` über keine inländische Abgabestelle verfügt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-24a-zustg--zustellung-am-ort-des-antreffens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=24a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-24a-zustg--zustellung-am-ort-des-antreffens) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-24a-zustg--zustellung-am-ort-des-antreffens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=24a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-24a-zustg--zustellung-am-ort-des-antreffens) \]
 
 ----
 
@@ -391,7 +391,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Behörde kann die öffentliche Bekanntmachung in anderer geeigneter Weise ergänzen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-25-zustg--zustellung-durch-öffentliche-bekanntmachung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=25) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_26_TextContainer_26) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-25-zustg--zustellung-durch-öffentliche-bekanntmachung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-25-zustg--zustellung-durch-öffentliche-bekanntmachung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=25) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_26_TextContainer_26) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-25-zustg--zustellung-durch-öffentliche-bekanntmachung) \]
 
 ----
 
@@ -401,7 +401,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Zustellung gilt als am dritten Werktag nach der Übergabe an das Zustellorgan bewirkt\. Im Zweifel hat die Behörde die Tatsache und den Zeitpunkt der Zustellung von Amts wegen festzustellen\. Die Zustellung wird nicht bewirkt, wenn sich ergibt, dass der Empfänger wegen Abwesenheit von der Abgabestelle nicht rechtzeitig vom Zustellvorgang Kenntnis erlangen konnte, doch wird die Zustellung mit dem der Rückkehr an die Abgabestelle folgenden Tag wirksam\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-26-zustg--zustellung-ohne-zustellnachweis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=26) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_27_TextContainer_27) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-26-zustg--zustellung-ohne-zustellnachweis) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-26-zustg--zustellung-ohne-zustellnachweis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=26) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_27_TextContainer_27) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-26-zustg--zustellung-ohne-zustellnachweis) \]
 
 ----
 
@@ -417,7 +417,7 @@ Der Nationalrat hat beschlossen:
 >
 > &nbsp; zu erlassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-27-zustg--ausstattung-der-dokumente-zustellformulare-zustellnachweise) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=27) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_28_TextContainer_28) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-27-zustg--ausstattung-der-dokumente-zustellformulare-zustellnachweise) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-27-zustg--ausstattung-der-dokumente-zustellformulare-zustellnachweise) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=27) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_28_TextContainer_28) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.001.md#-27-zustg--ausstattung-der-dokumente-zustellformulare-zustellnachweise) \]
 
 ----
 
@@ -444,7 +444,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Elektronische Zustellungen mit Zustellnachweis sind ausschließlich durch Zustellsysteme gemäß Abs\. 3 Z 1 und 3 sowie im Fall des § 37a zweiter Satz zulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-28-zustg--anwendungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=28) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.002.md#-28-zustg--anwendungsbereich) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-28-zustg--anwendungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=28) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.002.md#-28-zustg--anwendungsbereich) \]
 
 ----
 
@@ -470,7 +470,7 @@ Der Nationalrat hat beschlossen:
 >
 > *Anm\. 1: Die Verfügbarkeit des Teilnehmerverzeichnisses wurde am 28\.5\.2019 kundgemacht \(vgl\. BGBl\. II Nr\. 140/2019\)\.*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-28a-zustg--teilnehmerverzeichnis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=28a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.002.md#-28a-zustg--teilnehmerverzeichnis) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-28a-zustg--teilnehmerverzeichnis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=28a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.002.md#-28a-zustg--teilnehmerverzeichnis) \]
 
 ----
 
@@ -514,7 +514,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Soweit die Gesetze nicht anderes bestimmen, kann eine vollständige oder teilweise Abmeldung vom Teilnehmerverzeichnis unter Verwendung der Authentifizierungsmethoden gemäß Abs\. 1 oder durch eine vom Teilnehmer unterschriebene schriftliche Erklärung erfolgen\. Sie wird zwei Wochen nach dem Einlangen beim Teilnehmerverzeichnis wirksam\. Der Teilnehmer ist über seine elektronische Adresse gemäß Abs\. 1 Z 4 über die Abmeldung unverzüglich zu informieren und hat die Möglichkeit, diese binnen zwei Wochen ab Einlangen der Information rückgängig zu machen\. Wird der Tod einer natürlichen Person oder das Ende einer juristischen Person, die Teilnehmer ist, über eine Registerabfrage automationsunterstützt bekannt, ist der Teilnehmer aus dem Teilnehmerverzeichnis unverzüglich zu löschen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-28b-zustg--anmeldung-zum-und-abmeldung-vom-teilnehmerverzeichnis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=28b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.002.md#-28b-zustg--anmeldung-zum-und-abmeldung-vom-teilnehmerverzeichnis) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-28b-zustg--anmeldung-zum-und-abmeldung-vom-teilnehmerverzeichnis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=28b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.002.md#-28b-zustg--anmeldung-zum-und-abmeldung-vom-teilnehmerverzeichnis) \]
 
 ----
 
@@ -546,7 +546,7 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Die Zustellleistung \(Abs\. 1\) ist so zu erbringen, dass für behinderte Menschen ein barrierefreier Zugang zu dieser Leistung nach dem jeweiligen Stand der Technik gewährleistet ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-29-zustg--leistungen-der-zustelldienste) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=29) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.002.md#-29-zustg--leistungen-der-zustelldienste) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-29-zustg--leistungen-der-zustelldienste) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=29) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.002.md#-29-zustg--leistungen-der-zustelldienste) \]
 
 ----
 
@@ -562,7 +562,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Zugelassene Zustelldienste haben ab der Rechtskraft des Zulassungsbescheids alle zwei Jahre ein Gutachten gemäß Abs\. 1 dem Bundesminister für Digitalisierung und Wirtschaftsstandort vorzulegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-30-zustg--zulassung-als-zustelldienst) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=30) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.002.md#-30-zustg--zulassung-als-zustelldienst) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-30-zustg--zulassung-als-zustelldienst) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=30) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.002.md#-30-zustg--zulassung-als-zustelldienst) \]
 
 ----
 
@@ -572,7 +572,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Bundesminister für Digitalisierung und Wirtschaftsstandort hat die Aufsicht über die Zustelldienste dahin auszuüben, dass diese die Gesetze und Verordnungen nicht verletzen, insbesondere ihren Aufgabenbereich nicht überschreiten und die ihnen gesetzlich obliegenden Aufgaben erfüllen\. Zu diesem Zweck ist der Bundesminister für Digitalisierung und Wirtschaftsstandort berechtigt, Auskünfte einzuholen und gegebenenfalls Auflagen vorzuschreiben, wenn die ordnungsgemäße Erbringung der Leistungen sonst nicht gewährleistet ist\. Die Zustelldienste haben dem Bundesminister für Digitalisierung und Wirtschaftsstandort die geforderten Auskünfte unverzüglich, spätestens jedoch binnen zwei Wochen zu erteilen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-31-zustg--aufsicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=31) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.002.md#-31-zustg--aufsicht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-31-zustg--aufsicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=31) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.002.md#-31-zustg--aufsicht) \]
 
 ----
 
@@ -600,7 +600,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Die Betreiber von Internetportalen, die das Anzeigemodul gemäß § 37b Abs\. 4 anbinden dürfen, sowie die Betreiber des Unternehmensserviceportals und des Bürgerserviceportals gemäß § 3 des Unternehmensserviceportalgesetzes – USPG, BGBl\. I Nr\. 52/2009, in die das Anzeigemodul gemäß § 37b Abs\. 4 eingebunden ist, sind berechtigt das Teilnehmerverzeichnis abzufragen, um eine allfällige Anmeldung oder Abmeldung vom Teilnehmerverzeichnis zielgerichtet zu erleichtern\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-34-zustg--abfrage-des-teilnehmerverzeichnisses-und-übermittlung-des-zuzustellenden-dokuments) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=34) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_35_TextContainer_35) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.002.md#-34-zustg--abfrage-des-teilnehmerverzeichnisses-und-übermittlung-des-zuzustellenden-dokuments) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-34-zustg--abfrage-des-teilnehmerverzeichnisses-und-übermittlung-des-zuzustellenden-dokuments) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=34) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_35_TextContainer_35) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.002.md#-34-zustg--abfrage-des-teilnehmerverzeichnisses-und-übermittlung-des-zuzustellenden-dokuments) \]
 
 ----
 
@@ -641,7 +641,7 @@ Der Nationalrat hat beschlossen:
 > `(8)` Wurde dieselbe elektronische Verständigung an mehrere elektronische Adressen versendet, so ist der Zeitpunkt der frühesten Versendung maßgeblich\.
 > *\(Anm\.: Abs\. 9 aufgehoben durch Art\. 6 Z 25, BGBl\. I Nr\. 104/2018\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-35-zustg--zustellung-mit-zustellnachweis-durch-einen-zustelldienst) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=35) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_36_TextContainer_36) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.002.md#-35-zustg--zustellung-mit-zustellnachweis-durch-einen-zustelldienst) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-35-zustg--zustellung-mit-zustellnachweis-durch-einen-zustelldienst) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=35) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_36_TextContainer_36) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.002.md#-35-zustg--zustellung-mit-zustellnachweis-durch-einen-zustelldienst) \]
 
 ----
 
@@ -663,7 +663,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Das Dokument gilt mit dem Zeitpunkt der erstmaligen Bereithaltung zur Abholung als zugestellt\. Bestehen Zweifel darüber, ob bzw\. wann das Dokument für den Empfänger zur Abholung bereitgehalten wurde, hat die Behörde Tatsache und Zeitpunkt der Bereithaltung von Amts wegen festzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-36-zustg--zustellung-ohne-zustellnachweis-durch-ein-zustellsystem) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=36) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_37_TextContainer_37) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.002.md#-36-zustg--zustellung-ohne-zustellnachweis-durch-ein-zustellsystem) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-36-zustg--zustellung-ohne-zustellnachweis-durch-ein-zustellsystem) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=36) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_37_TextContainer_37) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.002.md#-36-zustg--zustellung-ohne-zustellnachweis-durch-ein-zustellsystem) \]
 
 ----
 
@@ -695,7 +695,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Die Zustellleistung \(Abs\. 1\) ist so zu erbringen, dass für behinderte Menschen ein barrierefreier Zugang zu dieser Leistung nach dem jeweiligen Stand der Technik gewährleistet ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-37-zustg--zustellung-an-einer-elektronischen-zustelladresse-oder-über-das-elektronische-kommunikationssystem-der-behörde) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=37) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.002.md#-37-zustg--zustellung-an-einer-elektronischen-zustelladresse-oder-über-das-elektronische-kommunikationssystem-der-behörde) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-37-zustg--zustellung-an-einer-elektronischen-zustelladresse-oder-über-das-elektronische-kommunikationssystem-der-behörde) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=37) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.002.md#-37-zustg--zustellung-an-einer-elektronischen-zustelladresse-oder-über-das-elektronische-kommunikationssystem-der-behörde) \]
 
 ----
 
@@ -703,7 +703,7 @@ Der Nationalrat hat beschlossen:
 
 > Versandbereite Dokumente können dem Empfänger unmittelbar elektronisch ausgefolgt werden, wenn dieser bei der Antragstellung seine Identität und die Authentizität der Kommunikation nachgewiesen hat und die Ausfolgung in einem so engen zeitlichen Zusammenhang mit der Antragstellung steht, dass sie von diesem Nachweis umfasst ist\. Wenn mit Zustellnachweis zuzustellen ist, sind die Identität und die Authentizität der Kommunikation mit der Bürgerkarte \(§ 2 Z 10 E\-GovG\) nachzuweisen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-37a-zustg--unmittelbare-elektronische-ausfolgung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=37a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_39_TextContainer_39) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.002.md#-37a-zustg--unmittelbare-elektronische-ausfolgung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-37a-zustg--unmittelbare-elektronische-ausfolgung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=37a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_39_TextContainer_39) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.002.md#-37a-zustg--unmittelbare-elektronische-ausfolgung) \]
 
 ----
 
@@ -725,7 +725,7 @@ Der Nationalrat hat beschlossen:
 
 > `(8)` Die Verfügbarkeit des Anzeigemoduls ist von dem Bundesminister für Digitalisierung und Wirtschaftsstandort im Bundesgesetzblatt kundzumachen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-37b-zustg--anzeigemodul) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=37b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_40_TextContainer_40) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.002.md#-37b-zustg--anzeigemodul) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-37b-zustg--anzeigemodul) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=37b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_40_TextContainer_40) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.002.md#-37b-zustg--anzeigemodul) \]
 
 ----
 
@@ -739,7 +739,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Soweit in diesem Bundesgesetz auf Bestimmungen anderer Bundesgesetze verwiesen wird, sind diese in ihrer jeweils geltenden Fassung anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-38-zustg--verweisungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=38) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_41_TextContainer_41) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.003.md#-38-zustg--verweisungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-38-zustg--verweisungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=38) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_41_TextContainer_41) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.003.md#-38-zustg--verweisungen) \]
 
 ----
 
@@ -747,7 +747,7 @@ Der Nationalrat hat beschlossen:
 
 > Mit der Vollziehung dieses Bundesgesetzes ist hinsichtlich der §§ 28a, 28b, 30 bis 32 und § 37b der Bundesminister für Digitalisierung und Wirtschaftsstandort, hinsichtlich der übrigen Bestimmungen die Bundesregierung betraut\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-39-zustg--vollziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=39) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_42_TextContainer_42) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.003.md#-39-zustg--vollziehung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-39-zustg--vollziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=39) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_42_TextContainer_42) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.003.md#-39-zustg--vollziehung) \]
 
 ----
 
@@ -798,7 +798,7 @@ Der Nationalrat hat beschlossen:
 >
 > *Anm\. 2: Die Kundmachung erfolgte am 28\.5\.2019 mit BGBl\. II Nr\. 140/2019\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-40-zustg--inkrafttretens--und-übergangsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=40) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.003.md#-40-zustg--inkrafttretens--und-übergangsbestimmungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-40-zustg--inkrafttretens--und-übergangsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=40) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.003.md#-40-zustg--inkrafttretens--und-übergangsbestimmungen) \]
 
 ----
 
@@ -806,8 +806,8 @@ Der Nationalrat hat beschlossen:
 
 > Soweit sich die in diesem Bundesgesetz verwendeten Bezeichnungen auf natürliche Personen beziehen, gilt die gewählte Form für beide Geschlechter\. Bei der Anwendung dieser Bezeichnungen auf bestimmte natürliche Personen ist die jeweils geschlechtsspezifische Form zu verwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-41-zustg--sprachliche-gleichbehandlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=41) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_44_TextContainer_44) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.003.md#-41-zustg--sprachliche-gleichbehandlung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.md#-41-zustg--sprachliche-gleichbehandlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522&Paragraf=41) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_44_TextContainer_44) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ZustG.003.md#-41-zustg--sprachliche-gleichbehandlung) \]
 
 ----
 
-*(Weitere relevante Bestimmungen finden Sie am Ende der [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_45_TextContainer_45) zu dieser Rechtsvorschrift.)*
+*(Weitere relevante Bestimmungen finden Sie am Ende der [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10005522#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_45_TextContainer_45) zu dieser Rechtsvorschrift.)*

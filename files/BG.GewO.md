@@ -2,8 +2,8 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** GewO  
 **Langtitel:** Gewerbeordnung 1994 – GewO 1994  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
-**Quelle:** https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
+**Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517  
 **Letzte Änderung im RIS:** BGBl. I Nr. 150/2024 (NR: GP XXVIII IA 3/A AB 7 S. 3. BR: AB 11609 S. 972.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md  
 *Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
@@ -463,7 +463,7 @@
 
 > `(6)` Bei Vereinen gemäß dem Vereinsgesetz 1951 liegt die Absicht, einen Ertrag oder sonstigen wirtschaftlichen Vorteil zu erzielen, auch dann vor, wenn die Vereinstätigkeit das Erscheinungsbild eines einschlägigen Gewerbebetriebes aufweist und diese Tätigkeit – sei es mittelbar oder unmittelbar – auf Erlangung vermögensrechtlicher Vorteile für die Vereinsmitglieder gerichtet ist\. Übt ein Verein gemäß dem Vereinsgesetz 1951 eine Tätigkeit, die bei Vorliegen der Gewerbsmäßigkeit in den Anwendungsbereich dieses Bundesgesetzes fiele, öfter als einmal in der Woche aus, so wird vermutet, daß die Absicht vorliegt, einen Ertrag oder sonstigen wirtschaftlichen Vorteil zu erzielen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-1-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=1) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.001.md#-1-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-1-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.001.md#-1-gewo) \]
 
 ----
 
@@ -603,7 +603,7 @@
 
 > `(16)` Auf Anlagen zur Erzeugung oder Verarbeitung von Schieß\- und Sprengmitteln im Sinne des § 3 Abs\. 1 Z 1 und Z 4 des Sprengmittelgesetzes 2010, BGBl\. I Nr\. 121/2009, zuletzt geändert durch das Bundesgesetz BGBl\. I Nr\. 161/2013, die die Kriterien der Z 4\.6 der Anlage 3 erfüllen oder auf Anlagen zur Erzeugung, Verarbeitung und bzw\. oder Lagerung von Schieß\- und Sprengmitteln, in denen gefährliche Stoffe in Mengen vorhanden sind, die den in Anlage 5 Teil 1 Spalte 2 oder in Anlage 5 Teil 2 Spalte 2 genannten Mengen entsprechen oder diese überschreiten, finden die Bestimmungen über die Betriebsanlagen und die damit zusammenhängenden Bestimmungen dieses Bundesgesetzes \(§§ 74 bis 84p, 333 bis 338, 353 bis 360, 362, 366 und 371 bis 373\) Anwendung\. Auf diese Anlagen sind die Bestimmungen des Schieß\- und Sprengmittelrechts unbeschadet des § 376 Z 48 nicht anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-2-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=2) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.001.md#-2-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-2-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=2) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.001.md#-2-gewo) \]
 
 ----
 
@@ -621,7 +621,7 @@
 
 > `(4)` Wenn die Voraussetzungen gemäß § 26 oder § 27 sinngemäß zutreffen, so hat die Behörde die Nachsicht von der Untersagung der Ausübung zu erteilen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-3-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=3) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.001.md#-3-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-3-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=3) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.001.md#-3-gewo) \]
 
 ----
 
@@ -647,7 +647,7 @@
 
 > `(4)` Die Bestimmungen dieses Bundesgesetzes sind nicht anzuwenden, wenn Arbeitgeber Einstellräume oder Abstellflächen lediglich an ihre Arbeitnehmer vermieten oder lediglich deren Kraftfahrzeuge abstellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-4-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=4) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.001.md#-4-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-4-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=4) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.001.md#-4-gewo) \]
 
 ----
 
@@ -659,7 +659,7 @@
 
 > `(2)` Freie Gewerbe sind Tätigkeiten im Sinne des § 1 Abs\. 1, die nicht als reglementierte Gewerbe \(§ 94\) oder Teilgewerbe \(§ 31\) ausdrücklich angeführt sind\. Unbeschadet allfälliger Ausübungsvorschriften ist für freie Gewerbe kein Befähigungsnachweis zu erbringen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-5-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=5) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.002.md#-5-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-5-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=5) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.002.md#-5-gewo) \]
 
 ----
 
@@ -667,7 +667,7 @@
 
 > Verbundene Gewerbe sind Gewerbe, die sich aus zwei oder mehreren Gewerben zusammensetzen und die im § 94 ausdrücklich als solche bezeichnet sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-6-gewo--verbundene-gewerbe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=6) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.002.md#-6-gewo--verbundene-gewerbe) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-6-gewo--verbundene-gewerbe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=6) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.002.md#-6-gewo--verbundene-gewerbe) \]
 
 ----
 
@@ -705,7 +705,7 @@
 
 > `(6)` Die Abs\. 1 bis 5 finden auf die Handelsgewerbe, Verkehrsgewerbe, Tourismusgewerbe, ferner auf Gewerbe, die überwiegend an die Einzelperson angepaßte Waren erzeugen, die persönliche oder überwiegend an die Einzelbedürfnisse angepaßte Dienstleistungen erbringen und schließlich auf Gewerbe, die Waren im Wege der Vergabe der Arbeiten an Unternehmer oder unselbständige Heimarbeiter herstellen, jedenfalls keine Anwendung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-7-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=7) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.002.md#-7-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-7-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=7) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.002.md#-7-gewo) \]
 
 ----
 
@@ -723,7 +723,7 @@
 
 > `(5)` Alle personenbezogenen Bezeichnungen sind in der Form zu verwenden, die das Geschlecht des Trägers zum Ausdruck bringt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-8-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=8) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.002.md#-8-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-8-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=8) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.002.md#-8-gewo) \]
 
 ----
 
@@ -741,7 +741,7 @@
 
 > `(6)` Ist eine juristische Person persönlich haftende Gesellschafterin einer eingetragenen Personengesellschaft und ist diese Personengesellschaft persönlich haftende Gesellschafterin einer anderen solchen Personengesellschaft, so wird dem Abs\. 3 auch entsprochen, wenn zum Geschäftsführer \(§ 39\) der zuletzt genannten Personengesellschaft eine Person bestellt wird, die dem zur gesetzlichen Vertretung berufenen Organ der juristischen Person angehört, wenn weiters die juristische Person innerhalb der Mitgliedsgesellschaft die im Abs\. 3 vorgeschriebene Stellung hat und wenn schließlich dieser Mitgliedsgesellschaft innerhalb ihrer Mitgliedsgesellschaft ebenfalls die im Abs\. 3 vorgeschriebene Stellung zukommt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-9-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=9) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.002.md#-9-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-9-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=9) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.002.md#-9-gewo) \]
 
 ----
 
@@ -759,7 +759,7 @@
 
 > `(6)` Die Berechtigung des Nachfolgeunternehmers \(Rechtsnachfolgers\) endigt nach Ablauf von sechs Monaten ab Eintragung der Umgründung im Firmenbuch, wenn er innerhalb dieser Frist den Rechtsübergang nicht angezeigt hat oder im Fall des Abs\. 5 letzter Satz kein Geschäftsführer innerhalb dieser Frist bestellt wurde\. Handelt es sich um ein im § 95 genanntes Gewerbe, so endigt die Gewerbeberechtigung dann nicht nach Ablauf von sechs Monaten, wenn die Genehmigung der Bestellung des Geschäftsführers innerhalb der Frist von sechs Monaten beantragt wurde, jedoch erst nach Ablauf dieser Frist erteilt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-11-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=11) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.002.md#-11-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-11-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=11) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.002.md#-11-gewo) \]
 
 ----
 
@@ -767,7 +767,7 @@
 
 > Die Umwandlung einer offenen Gesellschaft in eine Kommanditgesellschaft oder einer Kommanditgesellschaft in eine offene Gesellschaft berührt nicht die Gewerbeberechtigung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-12-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=12) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.002.md#-12-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-12-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=12) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.002.md#-12-gewo) \]
 
 ----
 
@@ -805,7 +805,7 @@
 
 > `(8)` Natürliche Personen und andere Rechtsträger als natürliche Personen, denen die Gewerbeberechtigung gemäß § 87 Abs\. 1 Z 3a entzogen oder betreffend die ein Feststellungsbescheid gemäß § 344a Abs\. 1 oder 3 erlassen worden ist, sind von der Ausübung eines Gewerbes für die Dauer von fünf Jahren ab Rechtskraft der Entziehung der Gewerbeberechtigung gemäß § 87 Abs\. 1 Z 3a oder des Feststellungsbescheides gemäß § 344a Abs\. 1 oder 3 ausgeschlossen\. Dieser Ausschluss gilt auch für Personen, denen ein maßgebender Einfluss auf den Betrieb der Geschäfte eines gemäß dem ersten Satz ausgeschlossenen anderen Rechtsträgers als einer natürlichen Person zum Zeitpunkt des Eintritts der Wirksamkeit des Ausschlusses zugestanden ist\. Von diesem Ausschluss kann eine Nachsicht gemäß § 26 nicht erteilt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-13-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=13) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.002.md#-13-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-13-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=13) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.002.md#-13-gewo) \]
 
 ----
 
@@ -833,7 +833,7 @@
 >
 >> `3.` bei juristischen Personen und eingetragenen Personengesellschaften der Sitz oder die Hauptniederlassung in der Schweizerischen Eidgenossenschaft oder in einem Vertragsstaat des EWR liegt und die Mitglieder der zur gesetzlichen Vertretung berufenen Organe oder die geschäftsführungs\- und vertretungsbefugten Gesellschafter über die Staatsangehörigkeit der Schweizerischen Eidgenossenschaft oder eines Vertragsstaates des EWR verfügen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-14-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=14) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.002.md#-14-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-14-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=14) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.002.md#-14-gewo) \]
 
 ----
 
@@ -841,7 +841,7 @@
 
 > Eine gewerbliche Tätigkeit darf nicht ausgeübt werden, wenn Bestimmungen dieses Bundesgesetzes oder der hierauf gegründeten Verordnungen dieser Tätigkeit entgegenstehen; die etwa erforderliche Betriebsanlagengenehmigung muss aber im Zeitpunkt der Gewerbeanmeldung oder der Erlassung eines Bescheides gemäß § 340 Abs\. 2 noch nicht vorliegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-15-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=15) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.002.md#-15-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-15-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=15) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.002.md#-15-gewo) \]
 
 ----
 
@@ -859,7 +859,7 @@
 
 > `(4)` Ausländische Prüfungszeugnisse über die Befähigung für einen einem reglementierten Gewerbe entsprechenden Beruf sind den österreichischen Prüfungszeugnissen für ein reglementiertes Gewerbe gleichgehalten, wenn dies in Staatsverträgen oder durch Verordnung des Bundesministers für Wirtschaft und Arbeit, mit der die Gleichwertigkeit festgestellt wurde, festgelegt worden ist\. Hierüber ist über Antrag eine Bestätigung durch die Behörde auszustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-16-gewo--allgemeine-bestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=16) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.003.md#-16-gewo--allgemeine-bestimmungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-16-gewo--allgemeine-bestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=16) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.003.md#-16-gewo--allgemeine-bestimmungen) \]
 
 ----
 
@@ -869,7 +869,7 @@
 
 > `(2)` Bei jenen Gewerben, für die eine Vorschrift im Sinne des § 18 Abs\. 4 gilt, ist die Befähigung auch dann nachzuweisen, wenn die Befähigung bereits früher anläßlich eines gewerberechtlich relevanten Vorganges im Sinne des Abs\. 1 nachgewiesen worden ist\. Das gilt nicht, wenn das betreffende Gewerbe innerhalb der letzten fünf Jahre mindestens drei Jahre als Gewerbeinhaber ausgeübt wurde oder wenn innerhalb der letzten fünf Jahre drei Jahre eine Tätigkeit im betreffenden Gewerbe als Geschäftsführer oder Filialgeschäftsführer erfolgte\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-17-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=17) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.003.md#-17-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-17-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=17) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.003.md#-17-gewo) \]
 
 ----
 
@@ -916,7 +916,7 @@
 
 > `(7)` Der Befähigungsnachweis für das Gewerbe der Gärtner \(§ 94 Z 24\) kann auch durch das Zeugnis über die erfolgreich abgelegte Gärtnermeisterprüfung gemäß den Vorschriften über die land\- und forstwirtschaftliche Berufsausbildung erbracht werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-18-gewo--befähigungsnachweis-für-reglementierte-gewerbe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=18) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.003.md#-18-gewo--befähigungsnachweis-für-reglementierte-gewerbe) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-18-gewo--befähigungsnachweis-für-reglementierte-gewerbe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=18) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.003.md#-18-gewo--befähigungsnachweis-für-reglementierte-gewerbe) \]
 
 ----
 
@@ -924,7 +924,7 @@
 
 > Kann der nach § 18 Abs\. 1 vorgeschriebene Befähigungsnachweis nicht erbracht werden, so hat die Behörde unter Bedachtnahme auf Vorschriften gemäß § 18 Abs\. 4 das Vorliegen der individuellen Befähigung festzustellen, wenn durch die beigebrachten Beweismittel die für die jeweilige Gewerbeausübung erforderlichen Kenntnisse, Fähigkeiten und Erfahrungen nachgewiesen werden\. Die Behörde hat das Vorliegen der individuellen Befähigung mit der Beschränkung auf Teiltätigkeiten des betreffenden Gewerbes auszusprechen, wenn die Befähigung nur in diesem Umfang vorliegt\. § 373d Abs\. 4 ist sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-19-gewo--individueller-befähigungsnachweis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=19) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.003.md#-19-gewo--individueller-befähigungsnachweis) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-19-gewo--individueller-befähigungsnachweis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=19) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.003.md#-19-gewo--individueller-befähigungsnachweis) \]
 
 ----
 
@@ -934,7 +934,7 @@
 
 > `(2)` Personen, die zu einer Meister\- oder Befähigungsprüfung antreten, müssen eigenberechtigt sein\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-20-gewo--meister--und-befähigungsprüfungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=20) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.003.md#-20-gewo--meister--und-befähigungsprüfungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-20-gewo--meister--und-befähigungsprüfungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=20) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.003.md#-20-gewo--meister--und-befähigungsprüfungen) \]
 
 ----
 
@@ -962,7 +962,7 @@
 
 > `(5)` Personen, die die Meisterprüfung erfolgreich abgelegt haben, sind berechtigt, die Bezeichnung „Meisterin“ bzw\. „Meister“ vor ihrem Namen in Kurzform \(„Mst\.“ bzw\. auch „Mst\.in“ oder „Mst\.in“\) oder in vollem Wortlaut zu führen und deren Eintragung gleich einem akademischen Grad in amtlichen Urkunden zu verlangen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-21-gewo--meisterprüfungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=21) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_20_TextContainer_20) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.003.md#-21-gewo--meisterprüfungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-21-gewo--meisterprüfungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=21) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_20_TextContainer_20) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.003.md#-21-gewo--meisterprüfungen) \]
 
 ----
 
@@ -1010,7 +1010,7 @@
 >
 > &nbsp; Unternehmen, die zur Ausübung der in Z 1 bis 4 genannten Gewerbe berechtigt sind, dürfen unbeschadet ihrer Rechte gemäß Abs\. 3, § 99 Abs\. 5 und 6, § 100 Abs\. 3, § 133 Abs\. 5 und § 149 Abs\. 8 alternativ das Gütesiegel gemäß § 21 Abs\. 4 zweiter Satz verwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-22-gewo--befähigungsprüfungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=22) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_21_TextContainer_21) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.003.md#-22-gewo--befähigungsprüfungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-22-gewo--befähigungsprüfungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=22) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_21_TextContainer_21) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.003.md#-22-gewo--befähigungsprüfungen) \]
 
 ----
 
@@ -1018,7 +1018,7 @@
 
 > Personen, die eine Meister\- oder Befähigungsprüfung absolviert haben oder über einen positiven Bescheid über eine Anerkennung gemäß § 373c oder eine Gleichhaltung gemäß § 373d verfügen, können hinsichtlich einer fachlich nahestehenden Meister\- oder Befähigungsprüfung eine Zusatzprüfung ablegen\. In dieser sind die zur Erlangung einer fachlich nahestehenden Meister\- oder Befähigungsprüfung charakteristischen Kenntnisse, Fertigkeiten und Kompetenz zu überprüfen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-23-gewo--zusatzprüfungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=23) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.003.md#-23-gewo--zusatzprüfungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-23-gewo--zusatzprüfungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=23) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.003.md#-23-gewo--zusatzprüfungen) \]
 
 ----
 
@@ -1032,7 +1032,7 @@
 
 > `(4)` Die Prüfungsordnungen sind durch den Bundesminister für Wissenschaft, Forschung und Wirtschaft im Rechtsinformationssystem des Bundes \(RIS\) kundzumachen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-24-gewo--verfahren-zur-erstellung-erlassung-und-kundmachung-der-prüfungsordnungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=24) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_23_TextContainer_23) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.003.md#-24-gewo--verfahren-zur-erstellung-erlassung-und-kundmachung-der-prüfungsordnungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-24-gewo--verfahren-zur-erstellung-erlassung-und-kundmachung-der-prüfungsordnungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=24) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_23_TextContainer_23) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.003.md#-24-gewo--verfahren-zur-erstellung-erlassung-und-kundmachung-der-prüfungsordnungen) \]
 
 ----
 
@@ -1046,7 +1046,7 @@
 
 > `(4)` Personen, die zur Unternehmerprüfung antreten, müssen eigenberechtigt sein\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-25-gewo--unternehmerprüfung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=25) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.003.md#-25-gewo--unternehmerprüfung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-25-gewo--unternehmerprüfung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=25) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.003.md#-25-gewo--unternehmerprüfung) \]
 
 ----
 
@@ -1062,7 +1062,7 @@
 
 > `(4)` Die Nachsicht gemäß Abs\. 1, 2 oder 3 ist nicht zu erteilen, wenn andere Ausschlußgründe gemäß § 13 vorliegen als jene, für die die Nachsicht erteilt werden soll\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-26-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=26) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.003.md#-26-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-26-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=26) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.003.md#-26-gewo) \]
 
 ----
 
@@ -1070,7 +1070,7 @@
 
 > Die Behörde hat im Falle des Ausschlusses von der Gewerbeausübung gemäß § 13 Abs\. 6 die Nachsicht von diesem Ausschluß zu erteilen, wenn sich natürliche Personen, in den Fällen von juristischen Personen und eingetragenen Personengesellschaften die im § 13 Abs\. 7 genannten Personen, später durch längere Zeit einwandfrei verhalten haben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-27-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=27) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_26_TextContainer_26) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.003.md#-27-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-27-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=27) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_26_TextContainer_26) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.003.md#-27-gewo) \]
 
 ----
 
@@ -1078,7 +1078,7 @@
 
 > § 28a entfällt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-28a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=28a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_27_TextContainer_27) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.003.md#-28a-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-28a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=28a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_27_TextContainer_27) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.003.md#-28a-gewo) \]
 
 ----
 
@@ -1088,7 +1088,7 @@
 
 > Für den Umfang der Gewerbeberechtigung ist der Wortlaut der Gewerbeanmeldung \(§ 339\) oder des Bescheides gemäß § 340 Abs\. 2 im Zusammenhalt mit den einschlägigen Rechtsvorschriften maßgebend\. Im Zweifelsfalle sind die den einzelnen Gewerben eigentümlichen Arbeitsvorgänge, die verwendeten Roh\- und Hilfsstoffe sowie Werkzeuge und Maschinen, die historische Entwicklung und die in den beteiligten gewerblichen Kreisen bestehenden Anschauungen und Vereinbarungen zur Beurteilung des Umfanges der Gewerbeberechtigung heranzuziehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-29-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=29) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_28_TextContainer_28) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-29-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-29-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=29) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_28_TextContainer_28) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-29-gewo) \]
 
 ----
 
@@ -1098,7 +1098,7 @@
 
 > `(2)` Die Berechtigung zu fachübergreifenden Leistungen gemäß Abs\. 1 steht dem Gewerbetreibenden auch dann zu, wenn die Behörde das Vorliegen der individuellen Befähigung \(§ 19\) ohne Beschränkung auf Teiltätigkeiten des betreffenden Gewerbes ausgesprochen hat oder wenn ihm eine Anerkennung gemäß § 373c erteilt wurde oder eine Gleichhaltung gemäß § 373d vorliegt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-30-gewo--fachübergreifende-leistungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=30) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-30-gewo--fachübergreifende-leistungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-30-gewo--fachübergreifende-leistungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=30) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-30-gewo--fachübergreifende-leistungen) \]
 
 ----
 
@@ -1120,7 +1120,7 @@
 
 > `(4)` Ob und inwieweit durch ein Zeugnis einer ausländischen Schule oder eines ausländischen Lehrganges die für die Ausübung eines Teilgewerbes erforderlichen fachlichen Fähigkeiten und Fertigkeiten erworben wurden, hat der Bundesminister für Wirtschaft und Arbeit im Einzelfall zu bestimmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-31-gewo--einfache-tätigkeiten-und-teilgewerbe-mit-vereinfachtem-zugang) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=31) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-31-gewo--einfache-tätigkeiten-und-teilgewerbe-mit-vereinfachtem-zugang) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-31-gewo--einfache-tätigkeiten-und-teilgewerbe-mit-vereinfachtem-zugang) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=31) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-31-gewo--einfache-tätigkeiten-und-teilgewerbe-mit-vereinfachtem-zugang) \]
 
 ----
 
@@ -1170,7 +1170,7 @@
 
 > `(6)` Gewerbetreibenden sind, wenn die Versicherung eine Ergänzung der im Rahmen der Haupttätigkeit gelieferten Waren oder erbrachten Dienstleistungen darstellt, gemäß den Bestimmungen der §§ 137 bis 138 und den sonstigen Bestimmungen betreffend Versicherungsvermittlung auch Tätigkeiten der Versicherungsvermittlung erlaubt\. Die Ausübung dieses Rechts steht nur nach Erbringung der Nachweise und Registrierung gemäß den genannten Bestimmungen zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-32-gewo--sonstige-rechte-von-gewerbetreibenden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=32) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-32-gewo--sonstige-rechte-von-gewerbetreibenden) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-32-gewo--sonstige-rechte-von-gewerbetreibenden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=32) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-32-gewo--sonstige-rechte-von-gewerbetreibenden) \]
 
 ----
 
@@ -1180,7 +1180,7 @@
 
 > `(2)` Die im Abs\. 1 angeführten Gewerbetreibenden sowie Unternehmensberater einschließlich der Unternehmensorganisatoren \(§ 94 Z 74\) sind auch zur Ausübung der Tätigkeit einer Sicherheitsfachkraft \(§ 73 Abs\. 1 Z 2 ASchG\) berechtigt, wenn sie die erforderlichen Fachkenntnisse gemäß § 74 ASchG nachweisen\. Dies gilt auch für sicherheitstechnische Zentren \(§ 75 ASchG\), auf die die Merkmale des § 1 zutreffen\. Bei den zur Ausübung des Gewerbes eines Ingenieurbüros berechtigten Gewerbetreibenden ist die Tätigkeit als Sicherheitsfachkraft nicht auf das technische Fachgebiet beschränkt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-33-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=33) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-33-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-33-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=33) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-33-gewo) \]
 
 ----
 
@@ -1188,7 +1188,7 @@
 
 > Keiner besonderen gesetzlichen Ermächtigung bedarf es für die Erbringung von Dienstleistungen auf dem Gebiet des Postwesens mit Ausnahme des Geld\- und Zahlungsverkehrs \(§ 1 Abs\. 1 BWG\), wenn diese von Gewerbetreibenden erbracht werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-34-gewo--dienstleistungen-auf-dem-gebiet-des-postwesens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=34) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-34-gewo--dienstleistungen-auf-dem-gebiet-des-postwesens) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-34-gewo--dienstleistungen-auf-dem-gebiet-des-postwesens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=34) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-34-gewo--dienstleistungen-auf-dem-gebiet-des-postwesens) \]
 
 ----
 
@@ -1206,7 +1206,7 @@
 
 > `(5)` Als Gewerbetreibender im Sinne dieses Bundesgesetzes ist, sofern nicht ausdrücklich anderes bestimmt ist, der Gewerbeinhaber einschließlich des Fortbetriebsberechtigten zu verstehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-38-gewo--wesen-der-rechte-zur-ausübung-von-gewerben) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=38) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-38-gewo--wesen-der-rechte-zur-ausübung-von-gewerben) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-38-gewo--wesen-der-rechte-zur-ausübung-von-gewerben) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=38) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-38-gewo--wesen-der-rechte-zur-ausübung-von-gewerben) \]
 
 ----
 
@@ -1243,7 +1243,7 @@
 > `(5)` Der Gewerbeinhaber ist von seiner Verantwortung für die Einhaltung der gewerberechtlichen Vorschriften im Rahmen des § 370 nur befreit, wenn er die Bestellung eines dem Abs\. 2 entsprechenden Geschäftsführers gemäß Abs\. 4 angezeigt hat\.
 > *\(Anm\.: Abs\. 6 aufgehoben durch BGBl\. I Nr\. 111/2002\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-39-gewo--a-gewerberechtlicher-geschäftsführer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=39) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_35_TextContainer_35) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-39-gewo--a-gewerberechtlicher-geschäftsführer) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-39-gewo--a-gewerberechtlicher-geschäftsführer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=39) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_35_TextContainer_35) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-39-gewo--a-gewerberechtlicher-geschäftsführer) \]
 
 ----
 
@@ -1269,7 +1269,7 @@
 
 > `(5)` Steht das Fortbetriebsrecht der Verlassenschaft oder der Insolvenzmasse zu, tritt der Vertreter der Verlassenschaft oder der Insolvenzverwalter mit dem Einlangen der Anzeige des Fortbetriebes in die Funktion des Geschäftsführers ein\. Er gilt nicht als Geschäftsführer, wenn mit der Ausübung des Gewerbes ohne Geschäftsführer Gefahren für das Leben oder die Gesundheit von Menschen verbunden sind\. In diesem Fall hat der Fortbetriebsberechtigte einen Geschäftsführer zu bestellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-41-gewo--b-fortbetriebsrechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=41) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_36_TextContainer_36) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-41-gewo--b-fortbetriebsrechte) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-41-gewo--b-fortbetriebsrechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=41) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_36_TextContainer_36) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-41-gewo--b-fortbetriebsrechte) \]
 
 ----
 
@@ -1291,7 +1291,7 @@
 >
 >> `6.` mit dem Zeitpunkt, in dem der Gewerbebetrieb des Gewerbeinhabers auf Grund einer Verfügung des Verlassenschaftsgerichtes ganz oder teilweise in den rechtlichen Besitz eines Rechtsnachfolgers von Todes wegen übergeht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-42-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=42) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_37_TextContainer_37) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-42-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-42-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=42) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_37_TextContainer_37) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-42-gewo) \]
 
 ----
 
@@ -1303,7 +1303,7 @@
 
 > `(3)` Der fortbetriebsberechtigte Ehegatte oder eingetragene Partner und die fortbetriebsberechtigten Kinder, Wahlkinder und Kinder der Wahlkinder können spätestens einen Monat nach der Entstehung ihres Fortbetriebsrechtes auf dieses mit der Wirkung verzichten, daß das Fortbetriebsrecht für ihre Person als überhaupt nicht entstanden gilt\. Diese Verzichtserklärung, die bei der Bezirksverwaltungsbehörde zu erstatten ist, ist nach dem Zeitpunkt ihres Einlangens oder ihrer Abgabe bei dieser Behörde unwiderruflich\. Ist der Fortbetriebsberechtigte nicht eigenberechtigt, so kann für ihn nur sein gesetzlicher Vertreter mit Zustimmung des Gerichtes rechtswirksam verzichten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-43-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=43) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-43-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-43-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=43) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-43-gewo) \]
 
 ----
 
@@ -1311,7 +1311,7 @@
 
 > Das Fortbetriebsrecht der Insolvenzmasse entsteht mit der Eröffnung des Insolvenzverfahrens über das Vermögen des Gewerbeinhabers\. Der Insolvenzverwalter hat jedoch den Fortbetrieb ohne unnötigen Aufschub der Bezirksverwaltungsbehörde anzuzeigen \(§ 345 Abs\. 1\)\. Er kann auch nach Maßgabe des § 43 Abs\. 3 auf das Fortbetriebsrecht verzichten\. Das Fortbetriebsrecht der Insolvenzmasse endet mit der Aufhebung des Insolvenzverfahrens\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-44-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=44) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_39_TextContainer_39) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-44-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-44-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=44) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_39_TextContainer_39) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-44-gewo) \]
 
 ----
 
@@ -1319,7 +1319,7 @@
 
 > Das Fortbetriebsrecht des Zwangsverwalters entsteht mit der Bestellung durch das Gericht, das Fortbetriebsrecht des Zwangspächters mit dem Beginn des Pachverhältnisses *\(Anm\.: richtig: Pachtverhältnisses\)*\. Das Gericht hat den Zwangsverwalter oder den Zwangspächter der Bezirksverwaltungsbehörde bekanntzugeben\. Das Fortbetriebsrecht des Zwangsverwalters endet mit der Einstellung der Zwangsverwaltung, das Fortbetriebsrecht des Zwangspächters mit der Beendigung des Pachtverhältnisses\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-45-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=45) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_40_TextContainer_40) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-45-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-45-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=45) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_40_TextContainer_40) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-45-gewo) \]
 
 ----
 
@@ -1351,7 +1351,7 @@
 >
 >> `3.` von den Anzeigen gemäß Abs\. 2 Z 3 die für den letzten Standort der weiteren Betriebsstätte und die für den Standort der Gewerbeberechtigung zuständige Bezirksverwaltungsbehörde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-46-gewo--c-weitere-betriebsstätten-verlegung-des-betriebes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=46) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_41_TextContainer_41) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-46-gewo--c-weitere-betriebsstätten-verlegung-des-betriebes) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-46-gewo--c-weitere-betriebsstätten-verlegung-des-betriebes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=46) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_41_TextContainer_41) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-46-gewo--c-weitere-betriebsstätten-verlegung-des-betriebes) \]
 
 ----
 
@@ -1365,7 +1365,7 @@
 
 > `(4)` Der Gewerbetreibende ist von seiner Verantwortung für die Einhaltung der gewerberechtlichen Vorschriften in der Betriebsstätte, für die der Filialgeschäftsführer bestellt ist, im Rahmen des § 370 befreit, wenn er die Bestellung eines dem Abs\. 2 entsprechenden Filialgeschäftsführers gemäß Abs\. 3 angezeigt hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-47-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=47) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_42_TextContainer_42) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-47-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-47-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=47) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_42_TextContainer_42) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-47-gewo) \]
 
 ----
 
@@ -1373,7 +1373,7 @@
 
 > Das Recht zur Ausübung eines der im § 94 Z 18, 55, 65 und 80 genannten Gewerbe in einer weiteren Betriebsstätte erlischt mit dem Einlangen der Anzeige des Gewerbeinhabers über die Einstellung der Gewerbeausübung in der weiteren Betriebsstätte bei der Behörde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-48-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=48) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-48-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-48-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=48) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.004.md#-48-gewo) \]
 
 ----
 
@@ -1411,7 +1411,7 @@
 
 > `(4)` Als Gifte im Sinne des Abs\. 2 sowie der §§ 57 Abs\. 1, 104 und 116 gelten Stoffe und Zubereitungen, die nach den Vorschriften des Chemikaliengesetzes 1996, BGBl\. I Nr\. 53/1997, als sehr giftig oder giftig einzustufen sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-50-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=50) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_44_TextContainer_44) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.005.md#-50-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-50-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=50) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_44_TextContainer_44) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.005.md#-50-gewo) \]
 
 ----
 
@@ -1431,7 +1431,7 @@
 
 > `(4)` Die Bestimmungen des VI\. Hauptstückes werden durch die Abs\. 1 bis 3 nicht berührt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-51-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=51) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_45_TextContainer_45) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.005.md#-51-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-51-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=51) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_45_TextContainer_45) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.005.md#-51-gewo) \]
 
 ----
 
@@ -1443,7 +1443,7 @@
 
 > `(3)` Abs\. 1 gilt auch für andere Rechtsträger als natürliche Personen, die mit dem Sitz in der Region Trentino\-Südtirol befugt Tätigkeiten ausüben, auf die die Bestimmungen dieses Bundesgesetzes anzuwenden wären\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-51a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=51a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_46_TextContainer_46) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.005.md#-51a-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-51a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=51a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_46_TextContainer_46) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.005.md#-51a-gewo) \]
 
 ----
 
@@ -1467,7 +1467,7 @@
 >
 >> `5.` im näheren Umkreis der in Z 4 angeführten Plätze und Räume untersagen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-52-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=52) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_47_TextContainer_47) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.005.md#-52-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-52-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=52) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_47_TextContainer_47) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.005.md#-52-gewo) \]
 
 ----
 
@@ -1487,7 +1487,7 @@
 
 > `(5)` Land\- und Forstwirten ist das Feilbieten im Umherziehen von Ort zu Ort oder von Haus zu Haus nur hinsichtlich folgender in ihrem land\- und forstwirtschaftlichen Betrieb hervorgebrachter Erzeugnisse gestattet: Obst, Gemüse, Kartoffeln, Naturblumen, Brennholz, Rahm, Topfen, Käse, Butter und Eier\. Abs\. 2 gilt sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-53-gewo--e-feilbieten-im-umherziehen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=53) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_48_TextContainer_48) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.005.md#-53-gewo--e-feilbieten-im-umherziehen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-53-gewo--e-feilbieten-im-umherziehen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=53) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_48_TextContainer_48) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.005.md#-53-gewo--e-feilbieten-im-umherziehen) \]
 
 ----
 
@@ -1495,7 +1495,7 @@
 
 > Bäcker, Fleischer und Lebensmittelhändler dürfen Waren, zu deren Feilhaltung sie auf Grund ihrer diesbezüglichen Gewerbeberechtigung berechtigt sind, im Umherziehen von Ort zu Ort oder von Haus zu Haus feilbieten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-53a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=53a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_49_TextContainer_49) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.005.md#-53a-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-53a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=53a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_49_TextContainer_49) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.005.md#-53a-gewo) \]
 
 ----
 
@@ -1509,7 +1509,7 @@
 
 > `(3)` Werden Bestellungen auf Dienstleistungen entgegen einer Verordnung gemäß Abs\. 2 aufgesucht oder entgegengenommen, so hat der Besteller das Recht, innerhalb einer Woche nach Abschluß des Vertrages zurückzutreten\. Der Rücktritt ist bei sonstiger Rechtsunwirksamkeit schriftlich zu erklären\. Es genügt, wenn die schriftliche Erklärung des Rücktrittes binnen des genannten Zeitraumes abgesendet wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-54-gewo--sammeln-und-entgegennahme-von-bestellungen-auf-dienstleistungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=54) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_50_TextContainer_50) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.005.md#-54-gewo--sammeln-und-entgegennahme-von-bestellungen-auf-dienstleistungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-54-gewo--sammeln-und-entgegennahme-von-bestellungen-auf-dienstleistungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=54) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_50_TextContainer_50) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.005.md#-54-gewo--sammeln-und-entgegennahme-von-bestellungen-auf-dienstleistungen) \]
 
 ----
 
@@ -1553,7 +1553,7 @@
 
 > *\(Beachte: Abs\. 3: zum Inkrafttreten vgl\. § 382 Abs\. 105\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-57-gewo--werbeveranstaltungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=57) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_51_TextContainer_51) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-57-gewo--werbeveranstaltungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-57-gewo--werbeveranstaltungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=57) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_51_TextContainer_51) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-57-gewo--werbeveranstaltungen) \]
 
 ----
 
@@ -1563,7 +1563,7 @@
 >
 > *\(Beachte: zum Inkrafttreten vgl\. § 382 Abs\. 105\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-58-gewo--sammeln-von-bestellungen-auf-druckwerke) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=58) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_52_TextContainer_52) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-58-gewo--sammeln-von-bestellungen-auf-druckwerke) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-58-gewo--sammeln-von-bestellungen-auf-druckwerke) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=58) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_52_TextContainer_52) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-58-gewo--sammeln-von-bestellungen-auf-druckwerke) \]
 
 ----
 
@@ -1581,7 +1581,7 @@
 
 > `(2)` In allen anderen als den im Abs\. 1 genannten Fällen, insbesondere auf der Straße, ist die Entgegennahme von Bestellungen auf Waren von Privatpersonen unzulässig\. Eine unzulässige Entgegennahme von Bestellungen liegt auch vor, wenn die während einer Werbeveranstaltung von den Veranstaltungsbesuchern ausgefüllten Bestellscheine von einem Dritten zur Weiterleitung an den Gewerbetreibenden übernommen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-59-gewo--entgegennahme-von-bestellungen-auf-waren-von-privatpersonen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=59) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_53_TextContainer_53) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-59-gewo--entgegennahme-von-bestellungen-auf-waren-von-privatpersonen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-59-gewo--entgegennahme-von-bestellungen-auf-waren-von-privatpersonen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=59) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_53_TextContainer_53) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-59-gewo--entgegennahme-von-bestellungen-auf-waren-von-privatpersonen) \]
 
 ----
 
@@ -1589,7 +1589,7 @@
 
 > Die Bestimmungen der §§ 57 bis 59 gelten sinngemäß für das Sammeln und die Entgegennahme von Bestellungen auf das Vermieten von Waren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-61-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=61) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_54_TextContainer_54) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-61-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-61-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=61) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_54_TextContainer_54) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-61-gewo) \]
 
 ----
 
@@ -1625,7 +1625,7 @@
 >
 > *\(Beachte: zum Inkrafttreten vgl\. § 382 Abs\. 105\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-62-gewo--gewerbelegitimationen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=62) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_55_TextContainer_55) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-62-gewo--gewerbelegitimationen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-62-gewo--gewerbelegitimationen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=62) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_55_TextContainer_55) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-62-gewo--gewerbelegitimationen) \]
 
 ----
 
@@ -1685,7 +1685,7 @@
 
 > *\(Beachte: zum Inkrafttreten vgl\. § 382 Abs\. 105\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-62a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=62a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-62a-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-62a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=62a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-62a-gewo) \]
 
 ----
 
@@ -1699,7 +1699,7 @@
 
 > `(4)` Änderungen des Namens durch die in Abs\. 1 genannten Gewerbetreibenden sind innerhalb von vier Wochen der Behörde anzuzeigen, sofern die Namensänderung weder im Zentralen Personenstandsregister noch im Zentralen Melderegister verzeichnet wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-63-gewo--g-namensführung-und-bezeichnung-der-betriebsstätten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=63) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-63-gewo--g-namensführung-und-bezeichnung-der-betriebsstätten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-63-gewo--g-namensführung-und-bezeichnung-der-betriebsstätten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=63) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-63-gewo--g-namensführung-und-bezeichnung-der-betriebsstätten) \]
 
 ----
 
@@ -1707,7 +1707,7 @@
 
 > Dem Namen dürfen nach Maßgabe des § 63 Abs\. 1 zweiter und dritter Satz Zusätze beigefügt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-64-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=64) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_58_TextContainer_58) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-64-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-64-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=64) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_58_TextContainer_58) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-64-gewo) \]
 
 ----
 
@@ -1715,7 +1715,7 @@
 
 > Wenn ein Gewerbebetrieb vom überlebenden Ehegatten oder eingetragenen Partner des Gewerbeinhabers, von den Kindern, Wahlkindern oder Kindern der Wahlkinder oder von einem Zwangsverwalter oder auf Rechnung der Verlassenschaft oder der Insolvenzmasse fortgeführt wird, ist er unbeschadet der Bestimmung des § 63 Abs\. 3 vorletzter Satz unter dem bisherigen Namen zu betreiben; ein auf den Fortbetrieb des Gewerbes hinweisender Zusatz ist beizufügen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-65-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=65) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_59_TextContainer_59) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-65-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-65-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=65) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_59_TextContainer_59) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-65-gewo) \]
 
 ----
 
@@ -1729,7 +1729,7 @@
 
 > `(4)` Wird die Tätigkeit eines Gewerbetreibenden in der Stätte einer anderen wenn auch nicht den Bestimmungen dieses Bundesgesetzes unterliegenden regelmäßigen Tätigkeit ausgeübt und ist diese Tätigkeit des Gewerbetreibenden ihrer Art oder ihrem Umfang nach im Verhältnis zu der anderen Tätigkeit von untergeordneter Bedeutung, so ist die Verpflichtung zur äußeren Bezeichnung der Betriebsstätte erfüllt, wenn der Gewerbetreibende eine solche Betriebsstätte mit einer Aufschrift kennzeichnet, die zumindest seinen Namen \(§ 63\) und einen im Rahmen der Gewerbeberechtigung gehaltenen unmißverständlichen Hinweis auf den Gegenstand des Gewerbes in gut sichtbarer Schrift enthält\. Die Kennzeichnung hat so zu erfolgen, daß einer Irreführung über die Person des Gewerbetreibenden und den Gegenstand des Gewerbes vorgebeugt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-66-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=66) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-66-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-66-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=66) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-66-gewo) \]
 
 ----
 
@@ -1737,7 +1737,7 @@
 
 > Zum Zwecke des Schutzes des gewerblichen Verkehrs oder der Verbraucher vor Irreführungen hinsichtlich Art, Umfang und Gegenstand des Gewerbes kann der Bundesminister für wirtschaftliche Angelegenheiten durch Verordnung besondere Vorschriften über die Angabe des Gegenstandes des Gewerbes in der äußeren Geschäftsbezeichnung erlassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-67-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=67) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-67-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-67-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=67) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-67-gewo) \]
 
 ----
 
@@ -1759,7 +1759,7 @@
 
 > `(5)` Gewerbliche Unternehmen, denen die Auszeichnung gemäß Abs\. 1 nicht verliehen worden ist, dürfen das Bundeswappen im geschäftlichen Verkehr nicht führen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-68-gewo--auszeichnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=68) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-68-gewo--auszeichnung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-68-gewo--auszeichnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=68) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-68-gewo--auszeichnung) \]
 
 ----
 
@@ -1787,7 +1787,7 @@
 
 > `(6)` Beziehen sich die Maßnahmen, die gemäß Abs\. 4 mit Bescheid aufgetragen oder gemäß Abs\. 5 mit Bescheid zugelassen werden sollen, nur auf die Gewerbeausübung in einer weiteren Betriebsstätte, so ist zur Erlassung der Bescheide gemäß Abs\. 4 oder 5 die für die weitere Betriebsstätte zuständige Bezirksverwaltungsbehörde berufen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-69-gewo--h-schutzbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=69) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-69-gewo--h-schutzbestimmungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-69-gewo--h-schutzbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=69) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-69-gewo--h-schutzbestimmungen) \]
 
 ----
 
@@ -1795,7 +1795,7 @@
 
 > Belastungen der Umwelt, die durch Verordnungen gemäß § 69 Abs\. 1, § 76 Abs\. 1 und § 82 Abs\. 1 zu vermeiden sind, sind jedenfalls solche nachteiligen Einwirkungen, die geeignet sind, insbesondere den Boden, den Pflanzenbestand oder den Tierbestand bleibend zu schädigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-69a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=69a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_64_TextContainer_64) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-69a-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-69a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=69a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_64_TextContainer_64) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-69a-gewo) \]
 
 ----
 
@@ -1807,7 +1807,7 @@
 
 > `(3)` Eine Verordnung gemäß Abs\. 1 darf nicht erlassen werden, wenn der mit einer solchen Verordnung verfolgte Zweck durch eine Regelung über die Befähigung der Arbeitnehmer auf Grund der Vorschriften zum Schutze der Arbeitnehmer erreicht wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-70-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=70) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_65_TextContainer_65) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-70-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-70-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=70) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_65_TextContainer_65) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-70-gewo) \]
 
 ----
 
@@ -1834,7 +1834,7 @@
 > `(7)` Gewerbetreibende, die den Kauf von gebrauchten Maschinen, Geräten, Ausrüstungen oder deren Teilen oder Zubehör vermitteln oder diese abändern oder instand setzen, haben, wenn diese den auf sie zutreffenden Bestimmungen einer Verordnung gemäß Abs\. 4 oder den in der Übereinstimmungserklärung angeführten Bestimmungen einschlägiger Normen nicht oder nicht mehr entsprechen, den Erwerber oder Auftraggeber nachweislich darauf aufmerksam zu machen\.
 > *\(Anm\.: Abs\. 8 aufgehoben durch BGBl\. I Nr\. 88/2000\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-71-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=71) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_66_TextContainer_66) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-71-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-71-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=71) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_66_TextContainer_66) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-71-gewo) \]
 
 ----
 
@@ -1846,7 +1846,7 @@
 
 > `(3)` Für Anlagen, in denen Abfälle behandelt werden, für die der Stand der Technik nach dem AWG festgelegt ist oder wird, ist dieser maßgebend\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-71a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=71a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_67_TextContainer_67) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-71a-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-71a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=71a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_67_TextContainer_67) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-71a-gewo) \]
 
 ----
 
@@ -1876,7 +1876,7 @@
 >
 >> `11.` „CO2\-Strom“ ein Stofffluss, der sich aus den Verfahren der CO2\-Abscheidung ergibt\. Ein CO2\-Strom besteht ganz überwiegend aus Kohlenstoffdioxid; es dürfen keine Abfälle oder anderen Stoffe zum Zweck der Entsorgung hinzugefügt werden\. Ein CO2\-Strom darf jedoch zufällig anfallende Stoffe aus der Quelle oder aus dem Abscheidungs\- oder Injektionsverfahren enthalten, und es dürfen Spurenstoffe zur Überwachung der CO2\-Migration hinzugefügt werden\. Die Konzentrationen aller zufällig vorhandenen oder hinzugefügten Stoffe dürfen ein Niveau nicht überschreiten, das die Integrität der Speicherstätte oder der einschlägigen Transportinfrastruktur nachteilig beeinflusst oder ein erhebliches Risiko für die Umwelt oder die menschliche Gesundheit darstellen oder gegen geltendes Unionsrecht verstoßen würde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-71b-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=71b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_68_TextContainer_68) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-71b-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-71b-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=71b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_68_TextContainer_68) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-71b-gewo) \]
 
 ----
 
@@ -1886,7 +1886,7 @@
 
 > `(2)` Der Bundesminister für Wirtschaft, Familie und Jugend veröffentlicht die Fundstellen der für IPPC\-Anlagen relevanten BVT\-Schlussfolgerungen und BVT\-Merkblätter auf der Homepage des Bundesministeriums für Wirtschaft, Familie und Jugend\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-71c-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=71c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_69_TextContainer_69) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-71c-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-71c-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=71c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_69_TextContainer_69) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-71c-gewo) \]
 
 ----
 
@@ -1898,7 +1898,7 @@
 
 > `(3)` Werden nicht unter Abs\. 1 fallende Maschinen oder Geräte mit einer Aufschrift über die Geräuschentwicklung in den inländischen Verkehr gebracht, so hat diese Aufschrift, sofern für die in Betracht kommenden Arten von Maschinen oder Geräten eine Verordnung gemäß Abs\. 2 besteht, den A\-bewerteten Schalleistungspegel bei Leerlauf und bzw\. oder bei üblicher Belastung zu enthalten, der entsprechend der Verordnung gemäß Abs\. 2 ermittelt worden ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-72-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=72) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_70_TextContainer_70) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-72-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-72-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=72) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_70_TextContainer_70) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-72-gewo) \]
 
 ----
 
@@ -1915,7 +1915,7 @@
 
 > `(6)` Bis zum Inkrafttreten einer Verordnung gemäß Abs\. 4 und 5 bleibt § 73 Abs\. 6 und 7 in der Fassung der Gewerberechtsnovelle 1988, BGBl\. Nr\. 399, weiterhin in Geltung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-73-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=73) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_71_TextContainer_71) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-73-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-73-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=73) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_71_TextContainer_71) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-73-gewo) \]
 
 ----
 
@@ -1923,7 +1923,7 @@
 
 > Gewerbetreibende, die Waren zum Verkauf feilhalten, deren Preis nach der Masse berechnet wird, oder die Waren zur Entnahme durch den Käufer feilhalten und hiefür eine bestimmte Masse angeben, müssen über eine geeignete Waage verfügen, die es dem Käufer ermöglicht, die Masse der von ihm gekauften Waren in der Verkaufsstelle nachprüfen zu lassen\. Dies gilt nicht für Waren mit Masseangabe, die dem Gewerbetreibenden vorverpackt und originalverschlossen angeliefert werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-73a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=73a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_72_TextContainer_72) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-73a-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-73a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=73a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_72_TextContainer_72) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.006.md#-73a-gewo) \]
 
 ----
 
@@ -1955,7 +1955,7 @@
 
 > `(7)` Der Bundesminister für wirtschaftliche Angelegenheiten kann Arten von Betriebsanlagen, für die jedenfalls keine Genehmigung erforderlich ist, durch Verordnung bezeichnen, wenn von ihnen erwartet werden kann, daß die gemäß § 74 Abs\. 2 wahrzunehmenden Interessen hinreichend geschützt sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-74-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=74) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_73_TextContainer_73) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-74-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-74-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=74) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_73_TextContainer_73) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-74-gewo) \]
 
 ----
 
@@ -1967,7 +1967,7 @@
 
 > `(3)` Als Nachbarn sind auch die im Abs\. 2 erster Satz genannten Personen zu behandeln, die auf grenznahen Grundstücken im Ausland wohnen, wenn in dem betreffenden Staat österreichische Nachbarn in den entsprechenden Verfahren rechtlich oder doch tatsächlich den gleichen Nachbarschaftsschutz genießen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-75-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=75) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_74_TextContainer_74) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-75-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-75-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=75) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_74_TextContainer_74) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-75-gewo) \]
 
 ----
 
@@ -1979,7 +1979,7 @@
 
 > `(3)` Im Genehmigungsverfahren sind unter Abs\. 1 oder Abs\. 2 fallende Maschinen, Geräte oder Ausstattungen nur dann zu berücksichtigen, wenn durch die Verbindung der Maschine, des Gerätes oder der Ausstattung mit anderen Anlageteilen oder durch die Anzahl der Maschinen, Geräte oder Ausstattungen Gefährdungen, Belästigungen, Beeinträchtigungen oder nachteilige Einwirkungen im Sinne des § 74 Abs\. 2 bewirkt werden können\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-76-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=76) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_75_TextContainer_75) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-76-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-76-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=76) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_75_TextContainer_75) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-76-gewo) \]
 
 ----
 
@@ -2011,7 +2011,7 @@
 
 > `(9)` Die Gemeinde kann mit Verordnung abweichende Regelungen betreffend die in Abs\. 1 und Abs\. 2 festgelegten Zeiten für solche Gebiete festlegen, die insbesondere wegen ihrer Flächenwidmung, ihrer Verbauungsdichte, der in ihnen bestehenden Bedürfnisse im Sinne des § 113 Abs\. 1 und ihrer öffentlichen Einrichtungen, wie Krankenhäuser, Altersheime, Bahnhöfe, Theater, Sportplätze und Parks, diese Sonderregelung rechtfertigen\. Im Besonderen kann in der Verordnung auch in Gebieten mit besonderen touristischen Einrichtungen oder Erwartungshaltungen \(Tourismusgebiete\) eine Zeit insbesondere bis 24 Uhr als gerechtfertigt angesehen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-76a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=76a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_76_TextContainer_76) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-76a-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-76a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=76a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_76_TextContainer_76) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-76a-gewo) \]
 
 ----
 
@@ -2050,7 +2050,7 @@
 > `(4)` Die Betriebsanlage ist erforderlichenfalls unter Vorschreibung bestimmter geeigneter Auflagen zu genehmigen, wenn die Abfälle \(§ 2 Abfallwirtschaftsgesetz\) nach dem Stand der Technik \(§ 71a\) vermieden oder verwertet oder, soweit dies wirtschaftlich nicht vertretbar ist, ordnungsgemäß entsorgt werden\. Ausgenommen davon sind Betriebsanlagen, soweit deren Abfälle nach Art und Menge mit denen der privaten Haushalte vergleichbar sind\.
 > *\(Anm\.: Abs\. 5 bis 9 aufgehoben durch BGBl\. I Nr\. 111/2010\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-77-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=77) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_77_TextContainer_77) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-77-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-77-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=77) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_77_TextContainer_77) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-77-gewo) \]
 
 ----
 
@@ -2096,7 +2096,7 @@
 
 > `(9)` Werden in einer Beschwerde gegen den Bescheid betreffend die Genehmigung einer IPPC\-Anlage Einwendungen oder Gründe erstmals vorgebracht, so sind diese nur zulässig, wenn in der Beschwerde begründet wird, warum sie nicht bereits während der Einwendungsfrist im Genehmigungsverfahren geltend gemacht werden konnten, und der Beschwerdeführer glaubhaft macht, dass ihn am Unterbleiben der Geltendmachung während der Einwendungsfrist kein Verschulden oder nur ein minderer Grad des Versehens trifft\. Wenn dies bei sämtlichen Beschwerdegründen nicht glaubhaft gemacht werden kann, ist die Beschwerde als unzulässig zurückzuweisen, wenn jedoch nur teilweise Gründe betroffen sind, ist die Beschwerde in diesen Punkten nicht zu behandeln\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-77a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=77a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_78_TextContainer_78) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-77a-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-77a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=77a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_78_TextContainer_78) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-77a-gewo) \]
 
 ----
 
@@ -2115,7 +2115,7 @@
 
 > `(4)` Die Behörde darf für einen Gesamtzeitraum von höchstens neun Monaten vorübergehende Abweichungen von den Auflagen im Sinne der Absätze 2 und 3 sowie von den gemäß § 77a Abs\. 1 Z 1 zu treffenden Vorsorgemaßnahmen für die Erprobung und Anwendung von Zukunftstechniken genehmigen, sofern nach dem festgelegten Zeitraum die Anwendung der betreffenden Technik beendet wird oder im Rahmen der Tätigkeit mindestens die mit den besten verfügbaren Techniken assoziierten Emissionswerte erreicht werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-77b-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=77b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_79_TextContainer_79) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-77b-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-77b-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=77b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_79_TextContainer_79) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-77b-gewo) \]
 
 ----
 
@@ -2126,7 +2126,7 @@
 
 > `(3)` Die Behörde kann bei der Genehmigung von Rohrleitungsanlagen, mit denen brennbare Gase mit einem den atmosphärischen Druck um mehr als 1 bar übersteigenden Betriebsdruck oder Erdöl oder flüssige Erdölprodukte befördert werden, im Genehmigungsbescheid auch den Abschluß und den Fortbestand einer Haftpflichtversicherung vorschreiben, wenn der Ersatz für Schädigungen, die im Hinblick auf die besondere Gefährlichkeit des Betriebes solcher Anlagen möglich sind, in anderer Weise nicht gesichert ist\. Diese Bestimmung gilt nicht für Rohrleitungsanlagen, die der Verteilung von brennbaren Gasen, Erdöl oder Erdölprodukten innerhalb von Gebäuden oder abgegrenzten Grundstücken dienen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-78-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=78) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_80_TextContainer_80) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-78-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-78-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=78) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_80_TextContainer_80) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-78-gewo) \]
 
 ----
 
@@ -2140,7 +2140,7 @@
 
 > `(4)` Die Behörde hat dem Inhaber einer genehmigten Betriebsanlage, die in einem Sanierungsgebiet liegt und von Anordnungen einer Verordnung gemäß § 10 des Immissionsschutzgesetzes \- Luft, in der jeweils geltenden Fassung, betroffen ist, erforderlichenfalls mit Bescheid aufzutragen, zur Erfüllung dieser Anordnungen innerhalb einer dem hiefür erforderlichen Zeitaufwand angemessenen Frist ein Sanierungskonzept für die Anlage vorzulegen\. Im Bescheid, mit dem die Sanierung, erforderlichenfalls unter Vorschreibung bestimmter Auflagen, genehmigt wird, hat die Behörde dem Anlageninhaber die Durchführung der genehmigten Sanierung innerhalb der Sanierungsfrist aufzutragen, die sich aus der Verordnung gemäß § 10 IG\-L oder aus dem Programm gemäß § 9a IG\-L ergibt\. § 81 Abs\. 1 ist auf diese Sanierung nicht anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-79-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=79) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_81_TextContainer_81) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-79-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-79-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=79) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_81_TextContainer_81) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-79-gewo) \]
 
 ----
 
@@ -2154,7 +2154,7 @@
 
 > `(4)` Durch die Einbringung des dem Abs\. 3 entsprechenden Antrages erlangt der Nachbar Parteistellung\. Der Nachbar ist nicht gemäß § 76 Abs\. 1 AVG zur Kostentragung verpflichtet, wenn auf Grund seines Antrages andere oder zusätzliche Auflagen vorgeschrieben wurden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-79a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=79a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_82_TextContainer_82) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-79a-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-79a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=79a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_82_TextContainer_82) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-79a-gewo) \]
 
 ----
 
@@ -2162,7 +2162,7 @@
 
 > Ergibt sich nach der Genehmigung der Anlage, daß die gemäß § 77 Abs\. 4 wahrzunehmenden Interessen trotz Einhaltung des Abfallwirtschaftskonzeptes \(§ 353 Z 1 lit\. c\) und der im Genehmigungsbescheid vorgeschriebenen Auflagen nicht hinreichend gewahrt sind, so hat die Behörde die nach dem Stand der Technik \(§ 71a\) zur hinreichenden Wahrung dieser Interessen erforderlichen anderen oder zusätzlichen Auflagen im Sinne des § 77 Abs\. 4 vorzuschreiben\. Die Behörde hat solche Auflagen nicht vorzuschreiben, wenn sie unverhältnismäßig sind, vor allem wenn der mit der Erfüllung der Auflagen verbundene Aufwand außer Verhältnis zu dem mit den Auflagen angestrebten Erfolg steht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-79b-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=79b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_83_TextContainer_83) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-79b-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-79b-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=79b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_83_TextContainer_83) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-79b-gewo) \]
 
 ----
 
@@ -2176,7 +2176,7 @@
 
 > `(4)` Die nach diesem Bundesgesetz oder nach anderen Verwaltungsvorschriften des Bundes bei Erteilung der Genehmigung mitanzuwendenden materiellrechtlichen Genehmigungs\-\(Bewilligungs\-\)Regelungen sind in den Verfahren nach Abs\. 1 oder Abs\. 2 mitanzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-79c-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=79c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_84_TextContainer_84) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-79c-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-79c-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=79c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_84_TextContainer_84) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-79c-gewo) \]
 
 ----
 
@@ -2196,7 +2196,7 @@
 
 > `(5)` Wurde ein Antrag nach Abs\. 2 gestellt, so sind andere Verfahren nach diesem Bundesgesetz, bei denen die vom Antrag erfassten Auflagen oder Teile des Genehmigungsbescheides auch anzuwenden sind, bis zur Rechtskraft eines Bescheides über den Antrag nur soweit weiterzuführen, als dies zur Vermeidung einer Gefährdung des Lebens oder der Gesundheit von Personen notwendig ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-79d-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=79d) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_85_TextContainer_85) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-79d-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-79d-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=79d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_85_TextContainer_85) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-79d-gewo) \]
 
 ----
 
@@ -2212,7 +2212,7 @@
 
 > `(5)` Durch einen Wechsel in der Person des Inhabers der Anlage wird die Wirksamkeit der Genehmigung nicht berührt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-80-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=80) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_86_TextContainer_86) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-80-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-80-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=80) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_86_TextContainer_86) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-80-gewo) \]
 
 ----
 
@@ -2248,7 +2248,7 @@
 
 > `(4)` Im Fall einer genehmigungspflichtigen Änderung nach Abs\. 1, jedoch mindestens alle sieben Jahre, ist das Abfallwirtschaftskonzept fortzuschreiben\. Die Fortschreibung einer gültigen Umwelterklärung gemäß der Verordnung \(EG\) Nr\. 1221/2009 über die freiwillige Teilnahme von Organisationen an einem Gemeinschaftssystem für Umweltmanagement und Umweltbetriebsprüfung \(EMAS\), ABl\. Nr\. L 342 vom 22\. 12\. 2009, S\. 1, gilt als Fortschreibung im Sinne dieses Bundesgesetzes\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-81-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=81) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_87_TextContainer_87) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-81-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-81-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=81) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_87_TextContainer_87) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-81-gewo) \]
 
 ----
 
@@ -2262,7 +2262,7 @@
 >
 >> `3.` auf eine weder unter Z 1 noch unter Z 2 fallende Änderung ist § 81 anzuwenden, sofern dessen Voraussetzungen zutreffen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-81a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=81a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_88_TextContainer_88) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-81a-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-81a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=81a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_88_TextContainer_88) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-81a-gewo) \]
 
 ----
 
@@ -2290,7 +2290,7 @@
 
 > `(8)` Ist die durch die Anlage verursachte Umweltverschmutzung \(§ 71b Z 10\) so stark, dass neue Emissionsgrenzwerte festgelegt werden müssen, so hat die Behörde den Inhaber einer IPPC\-Anlage mit Bescheid zur Vorlage eines Konzepts zur Durchführung von Anpassungsmaßnahmen im Sinne des Abs\. 1 innerhalb einer angemessenen Frist aufzufordern; die Vorlage dieses Konzepts gilt als Antrag auf Genehmigung einer wesentlichen Änderung gemäß § 81a Z 1\. Im Änderungsgenehmigungsbescheid hat die Behörde jedenfalls eine angemessene Frist zur Durchführung der Anpassungsmaßnahmen festzulegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-81b-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=81b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_89_TextContainer_89) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-81b-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-81b-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=81b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_89_TextContainer_89) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-81b-gewo) \]
 
 ----
 
@@ -2298,7 +2298,7 @@
 
 > Der Inhaber einer IPPC\-Anlage hat die Behörde unverzüglich über einen nicht unter den Abschnitt 8a fallenden Unfall mit erheblichen Auswirkungen auf die Umwelt oder Vorfall mit erheblichen Auswirkungen auf die Umwelt zu unterrichten\. Er hat unverzüglich Maßnahmen zur Begrenzung der Umweltauswirkungen und zur Vermeidung weiterer möglicher Unfälle oder Vorfälle zu ergreifen\. Die Behörde hat erforderlichenfalls darüber hinausgehende geeignete Maßnahmen zur Begrenzung der Umweltauswirkungen und zur Vermeidung weiterer möglicher Unfälle oder Vorfälle mit Bescheid anzuordnen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-81c-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=81c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_90_TextContainer_90) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-81c-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-81c-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=81c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_90_TextContainer_90) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-81c-gewo) \]
 
 ----
 
@@ -2308,7 +2308,7 @@
 
 > `(2)` Gemäß Abs\. 1 angezeigte Mängel oder Abweichungen, für die in der Information Vorschläge zur unverzüglichen Behebung der Mängel oder zur unverzüglichen Beseitigung der Abweichungen vom konsensgemäßen Zustand enthalten sind, bilden keine Verwaltungsübertretungen im Sinne des § 366 Abs\. 1 Z 3 oder gemäß § 367 Z 25, sofern die Voraussetzungen für eine Maßnahme gemäß § 360 Abs\. 4 nicht vorliegen und die Behebung oder die Beseitigung der Behörde unverzüglich nachgewiesen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-81d-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=81d) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_91_TextContainer_91) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-81d-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-81d-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=81d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_91_TextContainer_91) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-81d-gewo) \]
 
 ----
 
@@ -2326,7 +2326,7 @@
 
 > `(5)` Für die Erfüllung der nicht unter Abs\. 1 dritter Satz fallenden Bestimmungen einer Verordnung gemäß Abs\. 1 darf auf Antrag mit Bescheid eine angemessene, höchstens fünf Jahre betragende Frist eingeräumt werden, wenn die Erfüllung dieser Verordnungsbestimmungen für den Betriebsinhaber erst innerhalb dieser Frist wirtschaftlich zumutbar ist\. Auf IPPC\-Anlagen ist § 77b Abs\. 3 sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-82-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=82) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_92_TextContainer_92) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-82-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-82-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=82) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_92_TextContainer_92) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-82-gewo) \]
 
 ----
 
@@ -2348,7 +2348,7 @@
 
 > `(5)` Nach jeder Vor\-Ort\-Besichtigung hat die Behörde einen Bericht mit relevanten Feststellungen bezüglich der Einhaltung des Genehmigungskonsenses durch die betreffende IPPC\-Anlage und Schlussfolgerungen zur etwaigen Notwendigkeit weiterer Maßnahmen zu erstellen\. Innerhalb von zwei Monaten nach der Vor\-Ort\-Besichtigung muss der Bericht dem IPPC\-Anlageninhaber zur Stellungnahme übermittelt werden; innerhalb von vier Monaten nach der Vor\-Ort\-Besichtigung hat die Behörde den Bericht im Internet bekannt zu geben; diese Bekanntgabe hat jedenfalls eine Zusammenfassung des Berichts zu enthalten sowie den Hinweis, wo weiterführende Informationen zu erhalten sind\. Betriebs\- und Geschäftsgeheimnisse sind zu wahren\. Die Behörde muss sicherstellen, dass der IPPC\-Anlageninhaber die in dem Bericht angeführten Maßnahmen binnen angemessener Frist ergreift\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-82a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=82a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_93_TextContainer_93) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-82a-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-82a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=82a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_93_TextContainer_93) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-82a-gewo) \]
 
 ----
 
@@ -2378,7 +2378,7 @@
 
 > `(6)` Anlageninhaber, deren Betrieb in ein Register gemäß § 15 des Umweltmanagementgesetzes – UMG, BGBl\. I Nr\. 96/2001, in der jeweils geltenden Fassung, eingetragen ist, sind zu einer wiederkehrenden Prüfung im Sinne der Abs\. 1 bis 5 nicht verpflichtet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-82b-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=82b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_94_TextContainer_94) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-82b-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-82b-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=82b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_94_TextContainer_94) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-82b-gewo) \]
 
 ----
 
@@ -2396,7 +2396,7 @@
 
 > `(6)` Reichen die getroffenen Vorkehrungen aus, um den Schutz der im § 74 Abs\. 2 umschriebenen Interessen zu gewährleisten, und sind daher dem auflassenden Anlageninhaber keine weiteren Vorkehrungen im Sinne des Abs\. 3 mit Bescheid aufzutragen, so hat die Genehmigungsbehörde dies mit Bescheid festzustellen\. Dieser Feststellungsbescheid ist außer in begründeten Ausnahmefällen innerhalb von drei Monaten nach Erstattung der im Abs\. 2 angeführten Anzeige bzw\. nach Erlassung des im Abs\. 3 angeführten Bescheides zu erlassen\. Mit Eintritt der Rechtskraft dieses Feststellungsbescheides ist die Auflassung beendet und erlischt im Falle der gänzlichen Auflassung der Anlage die Anlagengenehmigung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-83-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=83) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_95_TextContainer_95) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-83-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-83-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=83) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_95_TextContainer_95) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-83-gewo) \]
 
 ----
 
@@ -2414,7 +2414,7 @@
 
 > `(4)` Die Behörde hat die bei der Auflassung einer IPPC\-Anlage getroffenen Maßnahmen im Internet bekannt zu geben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-83a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=83a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_96_TextContainer_96) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-83a-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-83a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=83a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_96_TextContainer_96) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-83a-gewo) \]
 
 ----
 
@@ -2422,7 +2422,7 @@
 
 > Werden gewerbliche Arbeiten außerhalb der Betriebsanlage \(§ 74 Abs\. 1\) ausgeführt, so hat die Behörde erforderlichenfalls von Amts wegen dem Gewerbetreibenden die für die Ausführung dieser Arbeiten notwendigen Vorkehrungen zur Vorbeugung gegen oder zur Abstellung von Gefährdungen von Menschen oder unzumutbaren Belästigungen der Nachbarn mit Bescheid aufzutragen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=84) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_97_TextContainer_97) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-84-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=84) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_97_TextContainer_97) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.007.md#-84-gewo) \]
 
 ----
 
@@ -2444,7 +2444,7 @@
 >
 >> `2.` Deponien\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84a-gewo--ziel-und-anwendungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=84a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_98_TextContainer_98) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84a-gewo--ziel-und-anwendungsbereich) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84a-gewo--ziel-und-anwendungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=84a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_98_TextContainer_98) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84a-gewo--ziel-und-anwendungsbereich) \]
 
 ----
 
@@ -2500,7 +2500,7 @@
 >
 >> `17.` „Inspektion“ alle Maßnahmen, einschließlich Besichtigungen vor Ort, Überprüfungen von internen Maßnahmen, Systemen, Berichten und Folgedokumenten sowie alle notwendigen Folgemaßnahmen, die von der Behörde durchgeführt werden, um die Einhaltung der Bestimmungen dieses Abschnitts zu überprüfen und zu fördern\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84b-gewo--begriffe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=84b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_99_TextContainer_99) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84b-gewo--begriffe) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84b-gewo--begriffe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=84b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_99_TextContainer_99) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84b-gewo--begriffe) \]
 
 ----
 
@@ -2508,7 +2508,7 @@
 
 > Der Betriebsinhaber hat alle nach dem Stand der Technik \(§ 71a\) notwendigen Maßnahmen zu ergreifen, um schwere Unfälle zu verhüten und deren Folgen für die menschliche Gesundheit und die Umwelt zu begrenzen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84c-gewo--allgemeine-pflichten-des-betriebsinhabers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=84c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_100_TextContainer_100) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84c-gewo--allgemeine-pflichten-des-betriebsinhabers) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84c-gewo--allgemeine-pflichten-des-betriebsinhabers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=84c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_100_TextContainer_100) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84c-gewo--allgemeine-pflichten-des-betriebsinhabers) \]
 
 ----
 
@@ -2550,7 +2550,7 @@
 >
 >> `3.` diese Informationen zu aktualisieren, wenn sich bei einer eingehenderen Untersuchung zusätzliche relevante Fakten ergeben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84d-gewo--mitteilungen-des-betriebsinhabers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=84d) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_101_TextContainer_101) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84d-gewo--mitteilungen-des-betriebsinhabers) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84d-gewo--mitteilungen-des-betriebsinhabers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=84d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_101_TextContainer_101) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84d-gewo--mitteilungen-des-betriebsinhabers) \]
 
 ----
 
@@ -2566,7 +2566,7 @@
 
 > `(3)` Das Sicherheitskonzept muss durch ein Sicherheitsmanagementsystem nach Maßgabe einer Verordnung gemäß § 84m umgesetzt werden\. In Bezug auf Betriebe der unteren Klasse darf die Verpflichtung, das Konzept umzusetzen, durch andere angemessene Mittel, Strukturen und Managementsysteme ersetzt werden, wobei den Grundsätzen eines Sicherheitsmanagementsystems Rechnung getragen werden muss\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84e-gewo--sicherheitskonzept) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=84e) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_102_TextContainer_102) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84e-gewo--sicherheitskonzept) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84e-gewo--sicherheitskonzept) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=84e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_102_TextContainer_102) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84e-gewo--sicherheitskonzept) \]
 
 ----
 
@@ -2592,7 +2592,7 @@
 >
 >> `3.` bei sonstigen Betrieben binnen einer Frist von zwei Jahren ab dem Zeitpunkt, ab dem der Betrieb in den Geltungsbereich dieses Abschnitts fällt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84f-gewo--sicherheitsbericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=84f) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_103_TextContainer_103) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84f-gewo--sicherheitsbericht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84f-gewo--sicherheitsbericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=84f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_103_TextContainer_103) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84f-gewo--sicherheitsbericht) \]
 
 ----
 
@@ -2610,7 +2610,7 @@
 >
 > &nbsp; hat der Betriebsinhaber die Mitteilung im Sinne des § 84d, das Sicherheitskonzept, den Sicherheitsbericht und das Sicherheitsmanagementsystem zu überprüfen und erforderlichenfalls zu ändern\. Der Betriebsinhaber hat die Behörde vor Durchführung der Änderung des Betriebs im Einzelnen über die Änderungen des Sicherheitsberichts zu unterrichten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84g-gewo--überprüfung-und-änderung-von-sicherheitskonzept-oder-sicherheitsbericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=84g) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_104_TextContainer_104) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84g-gewo--überprüfung-und-änderung-von-sicherheitskonzept-oder-sicherheitsbericht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84g-gewo--überprüfung-und-änderung-von-sicherheitskonzept-oder-sicherheitsbericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=84g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_104_TextContainer_104) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84g-gewo--überprüfung-und-änderung-von-sicherheitskonzept-oder-sicherheitsbericht) \]
 
 ----
 
@@ -2626,7 +2626,7 @@
 >
 >> `3.` bei sonstigen Betrieben binnen einer Frist von einem Jahr ab dem Zeitpunkt, ab dem der Betrieb in den Geltungsbereich dieses Abschnitts fällt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84h-gewo--interner-notfallplan) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=84h) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_105_TextContainer_105) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84h-gewo--interner-notfallplan) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84h-gewo--interner-notfallplan) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=84h) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_105_TextContainer_105) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84h-gewo--interner-notfallplan) \]
 
 ----
 
@@ -2634,7 +2634,7 @@
 
 > Zwischen benachbarten Betrieben, bei denen auf Grund ihres Standortes und ihrer Nähe zueinander sowie ihrer gefährlichen Stoffe eine erhöhtes Risiko schwerer Unfälle besteht oder diese Unfälle folgenschwerer sein können \(Domino\-Effekt\), hat ein Austausch zweckdienlicher Informationen stattzufinden, die für das Sicherheitskonzept, für den Sicherheitsbericht, den internen Notfallplan oder das Sicherheitsmanagementsystem von Bedeutung sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84i-gewo--domino-effekt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=84i) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_106_TextContainer_106) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84i-gewo--domino-effekt) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84i-gewo--domino-effekt) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=84i) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_106_TextContainer_106) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84i-gewo--domino-effekt) \]
 
 ----
 
@@ -2642,7 +2642,7 @@
 
 > Der Betriebsinhaber ist verpflichtet, der Behörde auf Verlangen sämtliche Informationen bereitzustellen, die erforderlich sind, um die Möglichkeit des Eintritts eines schweren Unfalls beurteilen zu können, insbesondere soweit sie für die Erfüllung der Verpflichtung zur Durchführung von Inspektionen, zur Beurteilung der Möglichkeit des Auftretens von Domino\-Effekten und zur genaueren Beurteilung der Eigenschaften gefährlicher Stoffe notwendig sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84j-gewo--informationsverpflichtung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=84j) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_107_TextContainer_107) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84j-gewo--informationsverpflichtung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84j-gewo--informationsverpflichtung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=84j) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_107_TextContainer_107) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84j-gewo--informationsverpflichtung) \]
 
 ----
 
@@ -2680,7 +2680,7 @@
 
 > `(6)` Über jede Überprüfung muss eine Niederschrift verfasst werden\. Innerhalb von vier Monaten nach jeder Inspektion muss die Behörde dem Betriebsinhaber ihre Schlussfolgerungen und alle ermittelten erforderlichen Maßnahmen mitteilen\. Der Betriebsinhaber hat diese Maßnahmen innerhalb eines angemessenen Zeitraums nach Erhalt der Schlussfolgerungen der Inspektion einzuleiten\. Innerhalb von vier Monaten nach der Vor\-Ort\-Überprüfung hat die Behörde im Internet bekannt zu geben, wann diese Überprüfung stattgefunden hat und wo weiterführende Informationen zu erhalten sind\. Geschäfts\- und Betriebsgeheimnisse sind zu wahren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84k-gewo--inspektionssystem) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=84k) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_108_TextContainer_108) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84k-gewo--inspektionssystem) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84k-gewo--inspektionssystem) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=84k) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_108_TextContainer_108) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84k-gewo--inspektionssystem) \]
 
 ----
 
@@ -2702,7 +2702,7 @@
 
 > `(8)` Der Bundesminister für Wissenschaft, Forschung und Wirtschaft hat die ihm von der Behörde gemäß Abs\. 1, Abs\. 6 und Abs\. 7 zur Verfügung gestellten Informationen der Erfüllung der Berichtspflichten der Richtlinie 2012/18/EU zur Beherrschung der Gefahren schwerer Unfälle mit gefährlichen Stoffen, zur Änderung und anschließenden Aufhebung der Richtlinie 96/82/EG, ABl\. Nr\. L 197 vom 24\.07\.2012 S\. 1, zugrunde zu legen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84l-gewo--behördenpflichten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=84l) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_109_TextContainer_109) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84l-gewo--behördenpflichten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84l-gewo--behördenpflichten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=84l) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_109_TextContainer_109) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84l-gewo--behördenpflichten) \]
 
 ----
 
@@ -2722,7 +2722,7 @@
 >
 > &nbsp; zu erlassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84m-gewo--verordnungsermächtigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=84m) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_110_TextContainer_110) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84m-gewo--verordnungsermächtigung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84m-gewo--verordnungsermächtigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=84m) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_110_TextContainer_110) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84m-gewo--verordnungsermächtigung) \]
 
 ----
 
@@ -2730,7 +2730,7 @@
 
 > Die Bundeswarnzentrale beim Bundesministerium für Inneres unterrichtet andere EU\-Mitgliedstaaten oder Vertragsstaaten der „Helsinki\-Konvention“ \(des UN\-ECE\-Übereinkommens über die grenzüberschreitenden Auswirkungen von Industrieunfällen, BGBl\. III Nr\. 119/2000\) über im Bundesgebiet eingetretene schwere Unfälle mit möglicherweise grenzüberschreitenden Folgen und hat die Entgegennahme oder Weiterleitung von Ersuchen für internationale Hilfeleistung wahrzunehmen\. Die Behörde hat die Bundeswarnzentrale unverzüglich über eingetretene schwere Unfälle in Kenntnis zu setzen und die Möglichkeit und das Ausmaß grenzüberschreitender Auswirkungen abzuschätzen\. Die Bundeswarnzentrale hat unbeschadet bilateraler Abkommen einzelner Bundesländer eine Benachrichtigung der Rettungs\- und Notfalldienste möglicherweise betroffener Staaten in die Wege zu leiten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84n-gewo--bundeswarnzentrale) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=84n) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_111_TextContainer_111) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84n-gewo--bundeswarnzentrale) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84n-gewo--bundeswarnzentrale) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=84n) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_111_TextContainer_111) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84n-gewo--bundeswarnzentrale) \]
 
 ----
 
@@ -2738,7 +2738,7 @@
 
 > Inhaber bestehender Betriebe müssen der Behörde die Angaben gemäß § 84d Abs\. 1 Z 1, 3 und 4 bis spätestens 31\. Dezember 2015 übermitteln\. Im Übrigen müssen sie den §§ 84d Abs\. 1, 84e, 84f und 84h nur dann und in dem Maß nachkommen, als der Behörde die entsprechenden Informationen noch nicht übermittelt worden sind oder nicht mehr aktuell sind\. Für die Übermittlung der ergänzten bzw\. aktualisierten Unterlagenteile gelten die Fristen des § 84d Abs\. 2 Z 2 \(für Mitteilungen\), des § 84e Abs\. 2 Z 2 \(für Sicherheitskonzepte\), und des § 84f Abs\. 2 Z 2 \(für Sicherheitsberichte\) sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84o-gewo--übergangsbestimmungen-für-bestehende-betriebe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=84o) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_112_TextContainer_112) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84o-gewo--übergangsbestimmungen-für-bestehende-betriebe) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84o-gewo--übergangsbestimmungen-für-bestehende-betriebe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=84o) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_112_TextContainer_112) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.008.md#-84o-gewo--übergangsbestimmungen-für-bestehende-betriebe) \]
 
 ----
 
@@ -2748,7 +2748,7 @@
 
 > Wer nach diesem Bundesgesetz oder auf Grund darauf beruhender behördlicher Anordnungen verpflichtet ist, Messungen oder andere geeignete Verfahren zur Bestimmung von Emissionen aus seiner Betriebsanlage durchzuführen und darüber Aufzeichnungen zu führen oder andere die Betriebsanlage betreffende Daten der Behörde zur Verfügung zu stellen, hat diese Aufzeichnungen und Daten auf Aufforderung der Behörde in geeigneter Form zu übermitteln, soweit dies zur Erfüllung unionsrechtlicher Berichtspflichten erforderlich ist\. Die Vorlage ist gebührenfrei\. Betriebs\- und Geschäftsgeheimnisse sind zu wahren\. Der Bundesminister für Wirtschaft, Familie und Jugend kann im Einvernehmen mit dem Bundesminister für Land\- und Forstwirtschaft, Umwelt und Wasserwirtschaft durch Verordnung nähere Anforderungen an die erforderlichen Messungen oder andere geeignete Verfahren zur Bestimmung von Emissionen entsprechend den jeweiligen Arten von Betriebsanlagen oder Schadstoffen, an die Art, den Aufbau und die Führung von Aufzeichnungen oder Daten sowie die Form der Übermittlung festlegen; soweit es zur Erfüllung gemeinschaftsrechtlicher Berichtspflichten notwendig ist, können in dieser Verordnung Messungen oder andere geeignete Verfahren zur Bestimmung von Emissionen aus Betriebsanlagen und die diesbezüglichen Aufzeichnungspflichten auch für bereits genehmigte Betriebsanlagen festgelegt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84p-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=84p) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_113_TextContainer_113) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.009.md#-84p-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84p-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=84p) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_113_TextContainer_113) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.009.md#-84p-gewo) \]
 
 ----
 
@@ -2760,7 +2760,7 @@
 
 > `(3)` Die von einer in der Anlage 3 zu diesem Bundesgesetz angeführten Betriebsanlage ausgehenden Lärmemissionen sind als Lden \(Tag\-Abend\-Nacht\-Lärmindex\) und als Lnight \(Nachtlärmindex\) im Sinne der Verordnung gemäß § 11 Bundes\-LärmG jeweils an der Betriebsanlagengrenze anzugeben\. Die Angabe des jeweiligen Wertes ist nur für jene Punkte der Betriebsanlagengrenze erforderlich, an denen der Lden den Wert von 55 dB, A\-bewertet, und bzw\. oder der Lnight den Wert von 50 dB, A\-bewertet, erreicht bzw\. übersteigt; sonst genügt die begründete Angabe, dass der Lden den Wert von 55 dB, A\-bewertet, und bzw\. oder der Lnight den Wert von 50 dB, A\-bewertet, unterschreitet\. Es sind auf Verlangen der Behörde die für die Ausbreitungsrechnung erforderlichen weiteren schalltechnischen auf die Betriebsanlage bezogenen Angaben \(zB Schallleistungspegel, Schalldruckpegel, Emissionspunkte und Angaben über auf dem Betriebsanlagengelände befindliche relevante Schallhindernisse\) anzugeben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84q-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=84q) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_114_TextContainer_114) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.009.md#-84q-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84q-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=84q) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_114_TextContainer_114) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.009.md#-84q-gewo) \]
 
 ----
 
@@ -2782,7 +2782,7 @@
 
 > `(4)` Baustellen im Sinne der Abs\. 1 und 2 sind zeitlich begrenzte oder ortsveränderliche Ausführungsstätten, an denen Hoch\- und Tiefbauarbeiten durchgeführt werden\. Dazu zählen insbesondere folgende Arbeiten: Aushub, Erdarbeiten, Bauarbeiten im engeren Sinn, Errichtung und Abbau von Fertigbauelementen, Einrichtung oder Ausstattung, Umbau, Renovierung, Reparatur, Abbauarbeiten, Abbrucharbeiten, Wartung, Instandhaltungs\-, Maler\- und Reinigungsarbeiten, Sanierung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84r-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=84r) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_115_TextContainer_115) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.009.md#-84r-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-84r-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=84r) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_115_TextContainer_115) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.009.md#-84r-gewo) \]
 
 ----
 
@@ -2816,7 +2816,7 @@
 >
 >> `12.` mit Zeitablauf oder mit Eintritt einer auflösenden Bedingung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-85-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=85) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_116_TextContainer_116) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.009.md#-85-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-85-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=85) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_116_TextContainer_116) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.009.md#-85-gewo) \]
 
 ----
 
@@ -2828,7 +2828,7 @@
 
 > `(3)` Die Anzeige über die Zurücklegung der Gewerbeberechtigung durch den Gewerbeinhaber berührt nicht das etwaige Fortbetriebsrecht der Insolvenzmasse, des Zwangsverwalters oder des Zwangspächters\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-86-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=86) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_117_TextContainer_117) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.009.md#-86-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-86-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=86) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_117_TextContainer_117) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.009.md#-86-gewo) \]
 
 ----
 
@@ -2882,7 +2882,7 @@
 
 > `(9)` Die Einleitung des Gewerbeentziehungsverfahrens gemäß Abs\. 1 Z 3a und die Einleitung des Verfahrens des Widerrufs eines Geschäftsführers oder Filialgeschäftsführers gemäß § 91 Abs\. 1 aus dem Grund des Abs\. 1 Z 3a oder der Entfernung einer natürlichen Person, der ein maßgebender Einfluss auf den Betrieb der Geschäfte zusteht, gemäß § 91 Abs\. 2 aus dem Grund des Abs\. 1 Z 3a, ist im GISA zu vermerken\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-87-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=87) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_118_TextContainer_118) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.009.md#-87-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-87-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=87) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_118_TextContainer_118) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.009.md#-87-gewo) \]
 
 ----
 
@@ -2897,7 +2897,7 @@
 
 > `(5)` Die Gewerbeberechtigung für die Ausübung eines Gewerbes in der Form eines Industriebetriebes ist von der Behörde \(§ 361\) zu entziehen, wenn gemäß § 347 Abs\. 2 festgestellt worden ist, daß der Betrieb nicht in der Form eines Industriebetriebes ausgeübt wird, und der Gewerbeinhaber den erforderlichen Befähigungsnachweis nicht erbringen kann\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-88-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=88) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_119_TextContainer_119) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.009.md#-88-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-88-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=88) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_119_TextContainer_119) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.009.md#-88-gewo) \]
 
 ----
 
@@ -2907,7 +2907,7 @@
 
 > `(2)` Die Behörde hat einem Gewerbetreibenden, welcher Tätigkeiten gemäß § 365m1 Abs\. 2 Z 2, 3 oder 4 oder als Edelmetall\- und Edelsteinhändler ausübt und bei dem ein Mittelsmann einer gemäß § 13 Abs\. 1 und 2 ausgeschlossenen Person eine leitende Funktion innehat oder wirtschaftlicher Eigentümer \(§ 2 Wirtschaftliche Eigentümer Registergesetz – WiEReG, BGBl\. I Nr\. 136/2017, in der jeweils geltenden Fassung\) ist, eine Frist bekanntzugeben, innerhalb der der Gewerbetreibende diesen Mittelsmann zu entfernen hat\. Hat der Gewerbetreibende diesen Mittelsmann innerhalb der gesetzten Frist nicht entfernt, so hat die Behörde die Gewerbeberechtigung zu entziehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-89-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=89) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_120_TextContainer_120) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.009.md#-89-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-89-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=89) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_120_TextContainer_120) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.009.md#-89-gewo) \]
 
 ----
 
@@ -2917,7 +2917,7 @@
 
 > `(2)` Die in bundesrechtlichen Vorschriften vorgesehene Entziehung von Berechtigungen wird durch die Bestimmungen dieses Bundesgesetzes nicht berührt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-90-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=90) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_121_TextContainer_121) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.009.md#-90-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-90-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=90) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_121_TextContainer_121) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.009.md#-90-gewo) \]
 
 ----
 
@@ -2927,7 +2927,7 @@
 
 > `(2)` Ist der Gewerbetreibende eine juristische Person oder eine eingetragene Personengesellschaft und beziehen sich die im § 87 angeführten Entziehungsgründe oder der in § 85 Z 2 angeführte Endigungsgrund sinngemäß auf eine natürliche Person, der ein maßgebender Einfluß auf den Betrieb der Geschäfte zusteht, so hat die Behörde \(§ 361\) dem Gewerbetreibenden eine Frist bekanntzugeben, innerhalb der der Gewerbetreibende diese Person zu entfernen hat\. Hat der Gewerbetreibende die genannte natürliche Person innerhalb der gesetzten Frist nicht entfernt, so hat die Behörde die Gewerbeberechtigung zu entziehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-91-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=91) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_122_TextContainer_122) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.009.md#-91-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-91-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=91) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_122_TextContainer_122) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.009.md#-91-gewo) \]
 
 ----
 
@@ -2937,7 +2937,7 @@
 
 > `(2)` Das Versicherungsunternehmen hat der Behörde jeden Umstand, der das Nichtbestehen, das nicht ausreichende Bestehen oder die Beendigung einer nach diesem Bundesgesetz vorgeschriebenen Versicherung zur Folge hat, anzuzeigen\. Im Fall von gemäß diesem Bundesgesetz nach Umsatz abgestuft vorgeschriebenen Versicherungssummen hat das Versicherungsunternehmen der Behörde außerdem jeden Umstand, der das Erreichen der Stufengrenze zur Folge hat, anzuzeigen; diese Anzeige gilt als Nachweis für das Erfüllen der Voraussetzungen für die nach der jeweiligen Stufe vorgeschriebene Versicherungssumme\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-92-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=92) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_123_TextContainer_123) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.009.md#-92-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-92-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=92) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_123_TextContainer_123) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.009.md#-92-gewo) \]
 
 ----
 
@@ -2953,7 +2953,7 @@
 
 > `(5)` Bei Gewerblichen Vermögensberatern im Sinne des § 136a sind das Ruhen und die Wiederaufnahme der Gewerbeausübung der Behörde im Vorhinein anzuzeigen; eine Anzeige im Nachhinein ist unzulässig und unwirksam\. Die Behörde hat ab Einlangen der Mitteilung das Ruhen im GISA \(Versicherungs\- und Kreditvermittlerregister\) einzutragen; eine Gewerbeausübung während des im GISA \(Versicherungs\- und Kreditvermittlerregister\) berücksichtigten Ruhens ist unzulässig\. Während der Zeit des im GISA \(Versicherungs\- und Kreditvermittlerregister\) berücksichtigten Ruhens entfallen das Erfordernis einer Vermögensschadenhaftpflichtversicherung nach § 136a Abs\. 12 sowie die Verpflichtung zur Erfüllung sonstiger mit der Ausübung des Gewerbes verbundener gewerberechtlicher Verpflichtungen und ist das Ablaufen der Nachweise über die Teilnahme an Schulungen gemäß § 136a Abs\. 6 gehemmt\. Ab Einlangen der Meldung der Wiederaufnahme ist die Eintragung des Ruhens im GISA \(Versicherungs\- und Kreditvermittlerregister\) durch die Behörde zu löschen, sofern der Gewerbetreibende gleichzeitig mit der Meldung der Wiederaufnahme den wirksamen Bestand einer Vermögensschadenhaftpflichtversicherung im Sinne des § 136a Abs\. 12, die Erfüllung aller übrigen Eintragungserfordernisse – mit Ausnahme eines neuerlichen Nachweises der notwendigen Befähigung des Gewerbetreibenden – mit Wirkung spätestens ab Ende des Ruhens nachweist\. Zuwiderhandlungen gegen die Bestimmung des zweiten Satzes zweiter Halbsatz sind gemäß § 366 Abs\. 1 Z 1 zu bestrafen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-93-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=93) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_124_TextContainer_124) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.009.md#-93-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-93-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=93) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_124_TextContainer_124) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.009.md#-93-gewo) \]
 
 ----
 
@@ -3135,7 +3135,7 @@
 >
 >> `82.` Holzbau\-Meister
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-94-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=94) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_125_TextContainer_125) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-94-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-94-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=94) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_125_TextContainer_125) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-94-gewo) \]
 
 ----
 
@@ -3145,7 +3145,7 @@
 
 > `(2)` Bei den im Abs\. 1 angeführten Gewerben ist die Bestellung eines Geschäftsführers oder eines Filialgeschäftsführers für die Ausübung des Gewerbes genehmigungspflichtig\. Die Genehmigung ist auf Ansuchen des Gewerbeinhabers zu erteilen, wenn die im § 39 Abs\. 2 bzw\. § 47 Abs\. 2 angeführten Voraussetzungen erfüllt sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-95-gewo--überprüfung-der-zuverlässigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=95) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_126_TextContainer_126) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-95-gewo--überprüfung-der-zuverlässigkeit) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-95-gewo--überprüfung-der-zuverlässigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=95) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_126_TextContainer_126) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-95-gewo--überprüfung-der-zuverlässigkeit) \]
 
 ----
 
@@ -3153,7 +3153,7 @@
 
 > Durch die Neueinstufung einer Tätigkeit als reglementiertes Gewerbe wird der Berechtigungsumfang anderer reglementierter Gewerbe, von deren Berechtigungsumfang diese Tätigkeit auch schon bis zum In\-Kraft\-Treten der Neueinstufung umfasst war, nicht berührt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-96-gewo--neueinstufung-einer-tätigkeit-als-reglementiertes-gewerbe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=96) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_127_TextContainer_127) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-96-gewo--neueinstufung-einer-tätigkeit-als-reglementiertes-gewerbe) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-96-gewo--neueinstufung-einer-tätigkeit-als-reglementiertes-gewerbe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=96) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_127_TextContainer_127) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-96-gewo--neueinstufung-einer-tätigkeit-als-reglementiertes-gewerbe) \]
 
 ----
 
@@ -3165,7 +3165,7 @@
 
 > `(3)` Gewerbetreibende, die sowohl den Befähigungsnachweis für das Gewerbe der Augenoptik als auch für das Gewerbe der Kontaktlinsenoptik erbringen, dürfen die Bezeichnung „Optometrist“ führen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-98-gewo--augenoptik-kontaktlinsenoptik-führung-der-bezeichnung-optometrist) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=98) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_128_TextContainer_128) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-98-gewo--augenoptik-kontaktlinsenoptik-führung-der-bezeichnung-optometrist) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-98-gewo--augenoptik-kontaktlinsenoptik-führung-der-bezeichnung-optometrist) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=98) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_128_TextContainer_128) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-98-gewo--augenoptik-kontaktlinsenoptik-führung-der-bezeichnung-optometrist) \]
 
 ----
 
@@ -3217,7 +3217,7 @@
 
 > `(10)` Bei Wegfall der Haftpflichtversicherung für Personen\-, Sach\- und Vermögensschäden im Sinne von Abs\. 7 hat die Behörde unverzüglich ein Gewerbeentziehungsverfahren einzuleiten und, wenn eine neuerliche Haftpflichtversicherung für Personen\-, Sach\- und Vermögensschäden nicht unverzüglich nachgewiesen wird, die Gewerbeberechtigung längstens binnen zwei Monaten zu entziehen\. § 361 Abs\. 2 ist in diesem Fall nicht anzuwenden\. Beschwerden gegen Entziehungsbescheide kommt keine aufschiebende Wirkung zu\. Die Einleitung des Gewerbeentziehungsverfahrens ist im GISA zu vermerken\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-99-gewo--baumeister) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=99) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_129_TextContainer_129) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-99-gewo--baumeister) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-99-gewo--baumeister) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=99) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_129_TextContainer_129) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-99-gewo--baumeister) \]
 
 ----
 
@@ -3229,7 +3229,7 @@
 
 > `(3)` Unternehmen, die zur Ausübung des Brunnenmeistergewerbes berechtigt sind, dürfen bei der Namensführung und bei der Bezeichnung der Betriebsstätte die Worte „Brunnenmeister“, „Brunnenmeisterbetrieb“ oder sonstige auf die Befähigungsprüfung hinweisende Begriffe verwenden, wenn der Inhaber oder der gewerberechtliche Geschäftsführer die Befähigungsprüfung positiv absolviert hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-100-gewo--brunnenmeister) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=100) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_130_TextContainer_130) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-100-gewo--brunnenmeister) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-100-gewo--brunnenmeister) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=100) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_130_TextContainer_130) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-100-gewo--brunnenmeister) \]
 
 ----
 
@@ -3245,7 +3245,7 @@
 
 > `(5)` Das Aufsuchen von Privatpersonen zum Zwecke des Sammelns von Bestellungen auf Leistungen des Bestattergewerbes ist nur auf ausdrückliche, an den zur Ausübung des Bestattergewerbes berechtigten Gewerbetreibenden gerichtete Aufforderung gestattet\. Die Entgegennahme von Bestellungen auf solche Leistungen ist nur in den Betriebsstätten des Gewerbetreibenden oder anläßlich des gemäß dem vorherigen Satz zulässigen Aufsuchens gestattet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-101-gewo--bestattung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=101) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_131_TextContainer_131) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-101-gewo--bestattung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-101-gewo--bestattung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=101) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_131_TextContainer_131) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-101-gewo--bestattung) \]
 
 ----
 
@@ -3257,7 +3257,7 @@
 >
 >> `2.` die Durchführung chemischer Analysen, chemischer Untersuchungen, die Überwachung und Messung sowie die Interpretation der Ergebnisse auf einschlägigen Fachgebieten gemäß der nachgewiesenen Ausbildung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-103-gewo--chemische-laboratorien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=103) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_132_TextContainer_132) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-103-gewo--chemische-laboratorien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-103-gewo--chemische-laboratorien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=103) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_132_TextContainer_132) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-103-gewo--chemische-laboratorien) \]
 
 ----
 
@@ -3279,7 +3279,7 @@
 
 > `(5)` Gewerbetreibende, die zur Ausübung des Drogistengewerbes berechtigt sind, dürfen sich bei der Ausübung der ihnen vorbehaltenen Tätigkeiten nur hauptberuflich beschäftigter Personen bedienen, die die persönliche und fachliche Eignung zur Erfüllung ihrer jeweiligen Tätigkeiten besitzen; als persönlich und fachlich geeignet zur Erfüllung ihrer Tätigkeiten sind bei der Ausübung der im Abs\. 1 genannten Tätigkeiten nur solche Personen anzusehen, die die Lehrabschlussprüfung im Lehrberuf Drogist erfolgreich abgelegt oder die Studienrichtung Pharmazie an einer inländischen Universität oder eine Schule erfolgreich abgeschlossen haben, in der eine mit der Ausbildung im Lehrberuf Drogist gleichwertige Vermittlung einschlägiger Fertigkeiten und Kenntnisse erfolgt\. Wird das Drogistengewerbe in eingeschränktem Umfang ausgeübt, besitzen auch Personen die persönliche und fachliche Eignung zur Erfüllung der Tätigkeiten, die der eingeschränkten Ausübung des Drogistengewerbes entsprechen, die eine Schule erfolgreich abgeschlossen haben, in der eine für die Ausführung dieser Tätigkeiten ausreichende Ausbildung vermittelt wird\. Der Ausbildung von Lehrlingen im Rahmen der Bestimmungen des Berufsausbildungsgesetzes, BGBl\. Nr\. 142/1969, steht dieses Gebot nicht entgegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-104-gewo--drogisten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=104) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_133_TextContainer_133) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-104-gewo--drogisten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-104-gewo--drogisten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=104) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_133_TextContainer_133) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-104-gewo--drogisten) \]
 
 ----
 
@@ -3297,7 +3297,7 @@
 
 > `(3)` Drucker und Druckformenhersteller sind auch zum Verlag von Schriften und bildlichen Darstellungen berechtigt, die sie mit eigenen Betriebsmitteln und auf eigene Rechnung herstellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-105-gewo--drucker-und-druckformenherstellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=105) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_134_TextContainer_134) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-105-gewo--drucker-und-druckformenherstellung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-105-gewo--drucker-und-druckformenherstellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=105) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_134_TextContainer_134) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-105-gewo--drucker-und-druckformenherstellung) \]
 
 ----
 
@@ -3327,7 +3327,7 @@
 
 > `(6)` Ist auf Grund bestimmter Tatsachen die Zuverlässigkeit einer gemäß Abs\. 5 bekannt gegebenen Person nicht gegeben, so hat die Sicherheitsbehörde dem Gewerbetreibenden ohne unnötigen Aufschub schriftlich mitzuteilen, dass der Betroffene die erforderliche Zuverlässigkeit nicht besitzt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-106-gewo--elektrotechnik) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=106) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_135_TextContainer_135) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-106-gewo--elektrotechnik) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-106-gewo--elektrotechnik) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=106) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_135_TextContainer_135) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-106-gewo--elektrotechnik) \]
 
 ----
 
@@ -3344,7 +3344,7 @@
 
 > `(6)` Hat der Inhaber einer Gewerbeberechtigung für das Gewerbe der Pyrotechnikunternehmen Anzeigen über die Ausübung des Gewerbes in einer weiteren Betriebsstätte oder die Verlegung des Betriebes in einen anderen Standort oder die Verlegung des Betriebes einer weiteren Betriebsstätte in einen anderen Standort erstattet, so hat die Behörde dies mit Bescheid zur Kenntnis zu nehmen oder bei Nichtzutreffen der Voraussetzungen gemäß Abs\. 5 die Gewerbeausübung im neuen Standort zu untersagen\. Der Gewerbetreibende darf mit der Ausübung des Gewerbes im neuen Standort mit Rechtskraft des Bescheides, der die Anzeige zur Kenntnis nimmt, beginnen\. Im Anzeigeverfahren ist Abs\. 5 anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-107-gewo--erzeugung-von-pyrotechnischen-artikeln-und-handel-mit-pyrotechnischen-artikeln-pyrotechnikunternehmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=107) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_136_TextContainer_136) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-107-gewo--erzeugung-von-pyrotechnischen-artikeln-und-handel-mit-pyrotechnischen-artikeln-pyrotechnikunternehmen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-107-gewo--erzeugung-von-pyrotechnischen-artikeln-und-handel-mit-pyrotechnischen-artikeln-pyrotechnikunternehmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=107) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_136_TextContainer_136) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-107-gewo--erzeugung-von-pyrotechnischen-artikeln-und-handel-mit-pyrotechnischen-artikeln-pyrotechnikunternehmen) \]
 
 ----
 
@@ -3381,7 +3381,7 @@
 
 > *\(Beachte: Abs\. 4, 6, 7 und 8: zum Inkrafttreten vgl\. § 382 Abs\. 105\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-108-gewo--fremdenführer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=108) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_137_TextContainer_137) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-108-gewo--fremdenführer) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-108-gewo--fremdenführer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=108) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_137_TextContainer_137) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-108-gewo--fremdenführer) \]
 
 ----
 
@@ -3405,7 +3405,7 @@
 
 > `(6)` Personen, die das Gewerbe der Kosmetik \(Schönheitspflege\) ausüben, sind auch zum Stechen von Ohrläppchen unter Verwendung von sterilen Einweg\-Ohrlochknöpfen nach vorheriger Hautdesinfektion, zur Anbringung eines künstlichen Zahn\- oder Hautschmuckes \(Kristall\) mittels Klebstoff sowie zur Haarentfernung mittels Laser berechtigt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-109-gewo--friseur-und-perückenmacher-stylist-fußpflege-kosmetik-schönheitspflege) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=109) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_138_TextContainer_138) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-109-gewo--friseur-und-perückenmacher-stylist-fußpflege-kosmetik-schönheitspflege) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-109-gewo--friseur-und-perückenmacher-stylist-fußpflege-kosmetik-schönheitspflege) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=109) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_138_TextContainer_138) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-109-gewo--friseur-und-perückenmacher-stylist-fußpflege-kosmetik-schönheitspflege) \]
 
 ----
 
@@ -3421,7 +3421,7 @@
 
 > `(2)` Gewerbetreibende, die zur Ausübung des Gewerbes der Gas\- und Sanitärtechnik gemäß Abs\. 1 Z 1 berechtigt sind, sind unbeschadet der Rechte anderer Gewerbetreibender auch berechtigt, im Zusammenhang mit der Instandsetzung oder Instandhaltung von Geräten im Sinne des Abs\. 1 Z 1 Reinigungsarbeiten an den rauchgasseitigen Flächen dieser Geräte und Abgasmessungen in Rauch\- und Abgasfängen sowie in Rauch\- und Abgasleitungen durchzuführen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-110-gewo--gas--und-sanitärtechnik) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=110) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_139_TextContainer_139) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-110-gewo--gas--und-sanitärtechnik) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-110-gewo--gas--und-sanitärtechnik) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=110) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_139_TextContainer_139) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-110-gewo--gas--und-sanitärtechnik) \]
 
 ----
 
@@ -3471,7 +3471,7 @@
 
 > `(5)` Bei der Gewerbeanmeldung \(§ 339\) ist die Betriebsart zu bezeichnen, in der das Gastgewerbe ausgeübt werden soll\. Änderungen der Betriebsart sind der Behörde anzuzeigen; Änderungen einer in Abs\. 2 genannten Betriebsart auf eine Betriebsart, für die ein Befähigungsnachweis für das reglementierte Gastgewerbe vorgeschrieben ist, sind im Verfahren gemäß § 339 anzumelden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-111-gewo--gastgewerbe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=111) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_140_TextContainer_140) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-111-gewo--gastgewerbe) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-111-gewo--gastgewerbe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=111) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_140_TextContainer_140) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-111-gewo--gastgewerbe) \]
 
 ----
 
@@ -3495,7 +3495,7 @@
 
 > `(6)` Wer das Gastgewerbe in der Form ausübt, dass er Geflügel grillt und dieses mit Beilagen verabreicht, kann diese Tätigkeit im Umgebungsbereich von Lebensmittelgeschäften regelmäßig ausüben, ohne dass er diese Tätigkeit als weitere Betriebsstätte \(§ 46 Abs\. 2\) anzeigen muss\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-112-gewo--vorschriften-über-die-gewerbeausübung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=112) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_141_TextContainer_141) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-112-gewo--vorschriften-über-die-gewerbeausübung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-112-gewo--vorschriften-über-die-gewerbeausübung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=112) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_141_TextContainer_141) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-112-gewo--vorschriften-über-die-gewerbeausübung) \]
 
 ----
 
@@ -3517,7 +3517,7 @@
 
 > `(8)` Abs\. 1 bis 7 sind auf die unter § 111 Abs\. 2 Z 1 und 6 fallenden Tätigkeiten nicht anzuwenden\. Abs\. 6 ist auf die unter § 111 Abs\. 2 Z 2 bis 5 fallenden Tätigkeiten nicht anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-113-gewo--sperrstunde-und-aufsperrstunde) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=113) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_142_TextContainer_142) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-113-gewo--sperrstunde-und-aufsperrstunde) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-113-gewo--sperrstunde-und-aufsperrstunde) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=113) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_142_TextContainer_142) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-113-gewo--sperrstunde-und-aufsperrstunde) \]
 
 ----
 
@@ -3525,7 +3525,7 @@
 
 > Gewerbetreibenden ist es untersagt, selbst oder durch die im Betrieb beschäftigten Personen alkoholische Getränke an Jugendliche auszuschenken oder ausschenken zu lassen, abzugeben oder abgeben zu lassen, wenn Jugendlichen dieses Alters nach den landesrechtlichen Jugendschutzbestimmungen der Genuss von Alkohol verboten ist\. Die Gewerbetreibenden und die im Betrieb beschäftigten Personen müssen die Vorlage eines amtlichen Lichtbildausweises oder einer speziellen Jugendkarte, die nach den jeweiligen landesrechtlichen Jugendschutzbestimmungen zum Nachweis des Alters geeignet ist, verlangen, um das Alter der Jugendlichen festzustellen\. Die Gewerbetreibenden haben an einer geeigneten Stelle der Betriebsräume einen Anschlag anzubringen, auf dem deutlich auf das im ersten Satz angeführte Verbot hingewiesen wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-114-gewo--ausschank-und-abgabe-von-alkohol-an-jugendliche) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=114) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_143_TextContainer_143) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-114-gewo--ausschank-und-abgabe-von-alkohol-an-jugendliche) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-114-gewo--ausschank-und-abgabe-von-alkohol-an-jugendliche) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=114) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_143_TextContainer_143) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-114-gewo--ausschank-und-abgabe-von-alkohol-an-jugendliche) \]
 
 ----
 
@@ -3533,7 +3533,7 @@
 
 > Der Bundesminister für Wirtschaft und Arbeit kann durch Verordnung im Einvernehmen mit dem Bundesminister für Gesundheit, Familie und Jugend festlegen, dass der Handel mit und die Vermietung von Medizinprodukten nicht dem reglementierten Gewerbe gemäß § 94 Z 33 vorbehalten ist, wenn nach der Eigenart der betreffenden Medizinprodukte zu erwarten ist, dass sie bei ihrer bestimmungsgemäßen Verwendung keine Auswirkungen auf die Gesundheit des Verwenders haben\. Ebenso kann der Bundesminister für Wirtschaft und Arbeit durch Verordnung im Einvernehmen mit dem Bundesminister für Gesundheit, Familie und Jugend bestimmte Medizinprodukte bezeichnen, deren Verkauf dem Handel mit und der Vermietung von Medizinprodukten und den Drogisten vorbehalten ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-115-gewo--handel-mit-und-vermietung-von-medizinprodukten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=115) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_144_TextContainer_144) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-115-gewo--handel-mit-und-vermietung-von-medizinprodukten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-115-gewo--handel-mit-und-vermietung-von-medizinprodukten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=115) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_144_TextContainer_144) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-115-gewo--handel-mit-und-vermietung-von-medizinprodukten) \]
 
 ----
 
@@ -3567,7 +3567,7 @@
 
 > `(7)` Ist auf Grund bestimmter Tatsachen die Zuverlässigkeit einer gemäß Abs\. 6 bekannt gegebenen Person nicht gegeben, so hat die Sicherheitsbehörde dem Gewerbetreibenden ohne unnötigen Aufschub schriftlich mitzuteilen, dass der Betroffene die erforderliche Zuverlässigkeit nicht besitzt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-116-gewo--herstellung-von-arzneimitteln-und-giften-und-großhandel-mit-arzneimitteln-und-giften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=116) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_145_TextContainer_145) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-116-gewo--herstellung-von-arzneimitteln-und-giften-und-großhandel-mit-arzneimitteln-und-giften) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-116-gewo--herstellung-von-arzneimitteln-und-giften-und-großhandel-mit-arzneimitteln-und-giften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=116) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_145_TextContainer_145) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-116-gewo--herstellung-von-arzneimitteln-und-giften-und-großhandel-mit-arzneimitteln-und-giften) \]
 
 ----
 
@@ -3614,7 +3614,7 @@
 
 > `(10)` Bei Wegfall einer Vermögensschadenhaftpflichtversicherung im Sinne von Abs\. 7 hat die Behörde unverzüglich ein Gewerbeentziehungsverfahren einzuleiten und, wenn eine neuerliche Vermögensschadenhaftpflichtversicherung nicht unverzüglich nachgewiesen wird, die Gewerbeberechtigung längstens binnen zwei Monaten zu entziehen\. § 361 Abs\. 2 ist in diesem Fall nicht anzuwenden\. Beschwerden gegen Entziehungsbescheide kommt keine aufschiebende Wirkung zu\. Die Einleitung des Gewerbeentziehungsverfahrens ist im GISA zu vermerken\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-117-gewo--immobilientreuhänder) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=117) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_146_TextContainer_146) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-117-gewo--immobilientreuhänder) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-117-gewo--immobilientreuhänder) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=117) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_146_TextContainer_146) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-117-gewo--immobilientreuhänder) \]
 
 ----
 
@@ -3626,7 +3626,7 @@
 
 > `(3)` Die Gewerbetreibenden, die zur Ausübung des Gewerbes der Inkassoinstitute berechtigt sind, sind zur Einziehung einer fremden Forderung, die dem Ersatz eines Schadens ohne Beziehung auf einen Vertrag \(§ 1295 ABGB\) dient, nur berechtigt, wenn diese Forderung unbestritten ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-118-gewo--inkassoinstitute) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=118) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_147_TextContainer_147) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-118-gewo--inkassoinstitute) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-118-gewo--inkassoinstitute) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=118) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_147_TextContainer_147) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-118-gewo--inkassoinstitute) \]
 
 ----
 
@@ -3652,7 +3652,7 @@
 >
 > &nbsp; Zeugnisse nicht genehmigter Lehrgänge sind bei der Anmeldung des Gewerbes nicht zu berücksichtigen\. Die Genehmigung ist zu widerrufen, wenn die Voraussetzungen für ihre Erteilung nicht mehr zur Gänze erfüllt sind\. Die Lehrgangsveranstalter haben jede Änderung des Ausbildungscurriculums und des fachlich qualifizierten Personals der Zertifizierungsstelle anzuzeigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-119-gewo--lebens--und-sozialberatung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=119) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_148_TextContainer_148) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-119-gewo--lebens--und-sozialberatung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-119-gewo--lebens--und-sozialberatung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=119) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_148_TextContainer_148) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-119-gewo--lebens--und-sozialberatung) \]
 
 ----
 
@@ -3668,7 +3668,7 @@
 
 > `(5)` Rauchfangkehrer sind unbeschadet der Rechte anderer Gewerbetreibender berechtigt, anlässlich des Reinigens, Kehrens und Überprüfens von Feuerstätten Öl\- und Gasbrenner ab\- und aufzumontieren sowie die Verbrennungseinrichtungen von Feuerstätten zu warten\. Diese Arbeiten dürfen nur von Personen durchgeführt werden, die zur Ausführung dieser Arbeiten fachlich befähigt sind\. Durch Verordnung des Bundesministers für Wirtschaft und Arbeit ist festzulegen, wie diese fachliche Befähigung nachzuweisen ist\. Hiebei ist auf den Schutz von Leben und Gesundheit von Menschen sowie auf eine fachgemäße Ausführung der Arbeiten auch im Interesse des Umweltschutzes und die Einsparung von Energie Bedacht zu nehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-120-gewo--rauchfangkehrer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=120) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_149_TextContainer_149) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-120-gewo--rauchfangkehrer) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-120-gewo--rauchfangkehrer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=120) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_149_TextContainer_149) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-120-gewo--rauchfangkehrer) \]
 
 ----
 
@@ -3692,7 +3692,7 @@
 
 > `(4)` Eine Ausübung des Rauchfangkehrergewerbes im Sinne des Abs\. 1 Z 1 liegt vor, wenn der Anmelder persönlich haftender Gesellschafter einer eingetragenen Personengesellschaft ist, die zur Ausübung des Rauchfangkehrergewerbes berechtigt ist, oder wenn dem Anmelder sonst ein maßgebender Einfluss auf den Betrieb der Geschäfte einer zur Ausübung des Rauchfangkehrergewerbes berechtigten Personengesellschaft des Handelsrechtes zusteht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-121-gewo--besondere-voraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=121) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_150_TextContainer_150) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-121-gewo--besondere-voraussetzungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-121-gewo--besondere-voraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=121) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_150_TextContainer_150) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-121-gewo--besondere-voraussetzungen) \]
 
 ----
 
@@ -3702,7 +3702,7 @@
 
 > `(2)` Der Rauchfangkehrer hat in den Fällen der Einstellung der Gewerbeausübung oder ihres Ruhens durch mehr als zwei Monate für die Fortführung der notwendigen Arbeiten durch einen anderen Gewerbetreibenden Sorge zu tragen\. Wenn dies dem Gewerbetreibenden nicht möglich ist, hat die Behörde einen anderen Gewerbetreibenden mit der Durchführung der Arbeiten zu beauftragen; § 123 Abs\. 3 gilt sinngemäß\. Der Rauchfangkehrer hat die Einstellung der Gewerbeausübung oder ihr Ruhen durch mehr als zwei Monate der Behörde sechs Wochen vorher anzuzeigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-122-gewo--geschäftsführer-einstellen-oder-ruhen-der-ausübung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=122) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_151_TextContainer_151) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-122-gewo--geschäftsführer-einstellen-oder-ruhen-der-ausübung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-122-gewo--geschäftsführer-einstellen-oder-ruhen-der-ausübung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=122) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_151_TextContainer_151) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-122-gewo--geschäftsführer-einstellen-oder-ruhen-der-ausübung) \]
 
 ----
 
@@ -3716,7 +3716,7 @@
 
 > `(4)` Vor der Verfügung der gebietsweisen Abgrenzung sind die zuständige Landesinnung der Rauchfangkehrer und die berührten Gemeinden zu hören\. Die Anhörung der berührten Gemeinden kann entfallen, wenn vor der Verfügung der gebietsweisen Abgrenzung eine Anhörung der bestehenden Interessenvertretungen der Gemeinden erfolgt ist und jede der berührten Gemeinden Mitglied einer der angehörten Interessenvertretungen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-123-gewo--gebietsweise-abgrenzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=123) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_152_TextContainer_152) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-123-gewo--gebietsweise-abgrenzung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-123-gewo--gebietsweise-abgrenzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=123) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_152_TextContainer_152) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-123-gewo--gebietsweise-abgrenzung) \]
 
 ----
 
@@ -3724,7 +3724,7 @@
 
 > Im Fall des Wechsels des für ein Kehrobjekt beauftragten Rauchfangkehrers hat der bisher beauftragte Rauchfangkehrer unverzüglich einen schriftlichen Bericht über die zuletzt erfolgte Kehrung und über den Zustand des Kehrobjektes an den für die Zukunft beauftragten Rauchfangkehrer, an die Gemeinde und an die Inhaber des Kehrobjektes zu übermitteln\. Der Wechsel des Rauchfangkehrers darf nicht während der Heizperiode und nicht später als vier Wochen vor dem nächstfolgenden Kehrtermin vorgenommen werden\. Gibt es in dem jeweiligen Kehrgebiet nicht mehr als zwei Rauchfangkehrer, so ist der Wechsel in ein anderes Kehrgebiet zulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-124-gewo--wechsel-des-rauchfangkehrers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=124) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_153_TextContainer_153) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-124-gewo--wechsel-des-rauchfangkehrers) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-124-gewo--wechsel-des-rauchfangkehrers) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=124) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_153_TextContainer_153) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-124-gewo--wechsel-des-rauchfangkehrers) \]
 
 ----
 
@@ -3742,7 +3742,7 @@
 
 > `(6)` Die zur Ausübung von sicherheitsrelevanten Tätigkeiten im Sinne des § 120 Abs\. 1 zweiter Satz berechtigten Rauchfangkehrer haben den Leistungsempfänger klar und verständlich zu informieren, zu welchen Tätigkeiten sie durch landesrechtliche Vorschriften verpflichtet sind sowie welche Tätigkeiten ihnen vorbehalten sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-125-gewo--höchsttarife-verfahrensbestimmungen-für-das-sicherheitsrelevante-tätigkeiten-umfassende-rauchfangkehrergewerbe-information) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=125) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_154_TextContainer_154) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-125-gewo--höchsttarife-verfahrensbestimmungen-für-das-sicherheitsrelevante-tätigkeiten-umfassende-rauchfangkehrergewerbe-information) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-125-gewo--höchsttarife-verfahrensbestimmungen-für-das-sicherheitsrelevante-tätigkeiten-umfassende-rauchfangkehrergewerbe-information) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=125) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_154_TextContainer_154) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-125-gewo--höchsttarife-verfahrensbestimmungen-für-das-sicherheitsrelevante-tätigkeiten-umfassende-rauchfangkehrergewerbe-information) \]
 
 ----
 
@@ -3782,7 +3782,7 @@
 
 > `(4)` Gewerbetreibende, die Gesellschaftsfahrten veranstalten oder Reisende gemäß Abs\. 3 Z 1 betreuen, haben bei den von ihnen veranstalteten Gesellschaftsfahrten und bei der Betreuung der Reisenden gemäß Abs\. 3 Z 1 dafür zu sorgen, dass eine geeignete Person die Reisenden betreut \(Reisebetreuer\)\. Der Reisebetreuer ist nach Maßgabe des § 108 Abs\. 3 Z 3 auch berechtigt, Hinweise auf Sehenswürdigkeiten zu geben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-126-gewo--reisebüros) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=126) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_155_TextContainer_155) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-126-gewo--reisebüros) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-126-gewo--reisebüros) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=126) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_155_TextContainer_155) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-126-gewo--reisebüros) \]
 
 ----
 
@@ -3806,7 +3806,7 @@
 
 > `(4)` Anzeigen zur Eintragung der Reiseleistungsausübungsberechtigung in das Reiseinsolvenzabsicherungsverzeichnis \(GISA\) sowie sämtliche im Zusammenhang mit dem Nachweis der Sicherheit von gemäß Abs\. 1 Z 1 und 2 zu erbringende Meldungen an den Bundesminister für Digitalisierung und Wirtschaftsstandort sind im elektronischen Wege über das GISA einzubringen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-127-gewo--pauschalreiseveranstalter-und-vermittler-von-verbundenen-reiseleistungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=127) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_156_TextContainer_156) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-127-gewo--pauschalreiseveranstalter-und-vermittler-von-verbundenen-reiseleistungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-127-gewo--pauschalreiseveranstalter-und-vermittler-von-verbundenen-reiseleistungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=127) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_156_TextContainer_156) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-127-gewo--pauschalreiseveranstalter-und-vermittler-von-verbundenen-reiseleistungen) \]
 
 ----
 
@@ -3814,7 +3814,7 @@
 
 > Hat ein Reiseveranstalter oder ein Vermittler verbundener Reiseleistungen seine Niederlassung in einem anderen Mitgliedstaat der Europäischen Union oder in einem sonstigen Vertragsstaat des Abkommens über den europäischen Wirtschaftsraum, so genügt er seiner Verpflichtung zur Insolvenzabsicherung auch dann, wenn er dem Reisenden Sicherheit in Übereinstimmung mit den Vorschriften dieses anderen Staates zur Umsetzung des Art\. 17 und des Art\. 19 Abs\. 1 der Richtlinie \(EU\) 2015/2302 leistet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-127a-gewo--insolvenzabsicherung-der-im-europäischen-wirtschaftsraum-niedergelassenen-reiseveranstalter-und-vermittler-verbundener-reiseleistungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=127a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_157_TextContainer_157) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-127a-gewo--insolvenzabsicherung-der-im-europäischen-wirtschaftsraum-niedergelassenen-reiseveranstalter-und-vermittler-verbundener-reiseleistungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-127a-gewo--insolvenzabsicherung-der-im-europäischen-wirtschaftsraum-niedergelassenen-reiseveranstalter-und-vermittler-verbundener-reiseleistungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=127a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_157_TextContainer_157) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-127a-gewo--insolvenzabsicherung-der-im-europäischen-wirtschaftsraum-niedergelassenen-reiseveranstalter-und-vermittler-verbundener-reiseleistungen) \]
 
 ----
 
@@ -3822,7 +3822,7 @@
 
 > Hat der Reiseveranstalter seine Niederlassung außerhalb des Europäischen Wirtschaftsraums, so gelten für den Reisevermittler die Pflichten eines Reiseveranstalters gemäß § 127 Abs\. 2, es sei denn, der Reisevermittler weist nach, dass der Veranstalter den Bestimmungen des Kapitels V der Richtlinie \(EU\) 2015/2302 nachkommt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-127b-gewo--besondere-pflichten-des-reisevermittlers-im-falle-eines-außerhalb-des-europäischen-wirtschaftsraums-niedergelassenen-reiseveranstalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=127b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_158_TextContainer_158) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-127b-gewo--besondere-pflichten-des-reisevermittlers-im-falle-eines-außerhalb-des-europäischen-wirtschaftsraums-niedergelassenen-reiseveranstalters) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-127b-gewo--besondere-pflichten-des-reisevermittlers-im-falle-eines-außerhalb-des-europäischen-wirtschaftsraums-niedergelassenen-reiseveranstalters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=127b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_158_TextContainer_158) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-127b-gewo--besondere-pflichten-des-reisevermittlers-im-falle-eines-außerhalb-des-europäischen-wirtschaftsraums-niedergelassenen-reiseveranstalters) \]
 
 ----
 
@@ -3832,7 +3832,7 @@
 
 > `(2)` Ist der Vermittler verbundener Reiseleistungen nicht in einem Mitgliedstaat des europäischen Wirtschaftsraums niedergelassen und vermittelt er in Österreich verbundene Reiseleistungen oder bietet er die Vermittlung verbundener Reiseleistungen in Österreich an oder richtet er in irgendeiner Weise eine solche Tätigkeit auf Österreich aus, so ist er zur Sicherstellung gemäß § 127 Abs\. 1 Z 2 verpflichtet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-127c-gewo--besondere-pflichten-des-außerhalb-des-europäischen-wirtschaftsraums-niedergelassenen-reiseveranstalters-oder-vermittlers-verbundener-reiseleistungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=127c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_159_TextContainer_159) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-127c-gewo--besondere-pflichten-des-außerhalb-des-europäischen-wirtschaftsraums-niedergelassenen-reiseveranstalters-oder-vermittlers-verbundener-reiseleistungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-127c-gewo--besondere-pflichten-des-außerhalb-des-europäischen-wirtschaftsraums-niedergelassenen-reiseveranstalters-oder-vermittlers-verbundener-reiseleistungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=127c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_159_TextContainer_159) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-127c-gewo--besondere-pflichten-des-außerhalb-des-europäischen-wirtschaftsraums-niedergelassenen-reiseveranstalters-oder-vermittlers-verbundener-reiseleistungen) \]
 
 ----
 
@@ -3850,7 +3850,7 @@
 >
 >> `2.` durch Bildhauer, Drechsler, Orgelbauer und Tischler im Zuge von Reparaturarbeiten oder Restaurierungen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-128-gewo--schädlingsbekämpfung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=128) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_160_TextContainer_160) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-128-gewo--schädlingsbekämpfung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-128-gewo--schädlingsbekämpfung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=128) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_160_TextContainer_160) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-128-gewo--schädlingsbekämpfung) \]
 
 ----
 
@@ -3898,7 +3898,7 @@
 
 > *\(Beachte: Abs\. 3: zum Inkrafttreten vgl\. § 382 Abs\. 105\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-129-gewo--sicherheitsgewerbe-berufsdetektive-bewachungsgewerbe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=129) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_161_TextContainer_161) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-129-gewo--sicherheitsgewerbe-berufsdetektive-bewachungsgewerbe) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-129-gewo--sicherheitsgewerbe-berufsdetektive-bewachungsgewerbe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=129) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_161_TextContainer_161) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-129-gewo--sicherheitsgewerbe-berufsdetektive-bewachungsgewerbe) \]
 
 ----
 
@@ -3926,7 +3926,7 @@
 
 > *\(Beachte: Abs\. 6 und 7: zum Inkrafttreten vgl\. § 382 Abs\. 105\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-130-gewo--rechte-und-pflichten-der-berufsdetektive-und-bewacher) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=130) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_162_TextContainer_162) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-130-gewo--rechte-und-pflichten-der-berufsdetektive-und-bewacher) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-130-gewo--rechte-und-pflichten-der-berufsdetektive-und-bewacher) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=130) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_162_TextContainer_162) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-130-gewo--rechte-und-pflichten-der-berufsdetektive-und-bewacher) \]
 
 ----
 
@@ -3942,7 +3942,7 @@
 
 > `(2)` Gewerbetreibenden, die zu einer auf die Tätigkeiten des Transportagenten beschränkten Ausübung des Gewerbes gemäß § 94 Z 63 berechtigt sind, stehen die im Abs\. 1 angeführten Rechte nicht zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-131-gewo--spediteure-einschließlich-der-transportagenten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=131) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_163_TextContainer_163) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-131-gewo--spediteure-einschließlich-der-transportagenten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-131-gewo--spediteure-einschließlich-der-transportagenten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=131) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_163_TextContainer_163) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-131-gewo--spediteure-einschließlich-der-transportagenten) \]
 
 ----
 
@@ -3952,7 +3952,7 @@
 
 > `(2)` Hat der Inhaber einer Gewerbeberechtigung für den Betrieb von Sprengungsunternehmen Anzeigen über die Ausübung des Gewerbes in einer weiteren Betriebsstätte oder die Verlegung des Betriebes in einen anderen Standort oder die Verlegung des Betriebes einer weiteren Betriebsstätte in einen anderen Standort erstattet, so hat die Behörde dies mit Bescheid zur Kenntnis zu nehmen oder bei Nichtvorliegen der Voraussetzungen die Gewerbeausübung im neuen Standort zu untersagen\. Der Gewerbetreibende darf mit der Ausübung des Gewerbes im neuen Standort erst mit Rechtskraft des Bescheides beginnen\. Abs\. 1 ist anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-132-gewo--sprengungsunternehmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=132) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_164_TextContainer_164) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-132-gewo--sprengungsunternehmen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-132-gewo--sprengungsunternehmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=132) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_164_TextContainer_164) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-132-gewo--sprengungsunternehmen) \]
 
 ----
 
@@ -3974,7 +3974,7 @@
 
 > `(5)` Wird das Gewerbe der Steinmetzmeister in einem Umfang angemeldet, der nicht das Recht zur Planung gemäß Abs\. 1 Z 1 beinhaltet, hat der Gewerbeanmelder die Bezeichnung „Steinmetzgewerbetreibender“ unter Beifügung der entsprechenden Einschränkung zu verwenden\. Nur Gewerbetreibende, deren Gewerbeberechtigung das Recht zur Planung gemäß Abs\. 1 Z 1 beinhaltet, dürfen die Bezeichnung „Steinmetzmeister“ verwenden\. Gewerbetreibende, die zur Ausübung des Steinmetzmeistergewerbes eingeschränkt auf die Ausführung berechtigt sind, dürfen keine Bezeichnung verwenden, die den Eindruck erwecken könnte, dass sie zur Planung im Sinne des Abs\. 1 Z 1 berechtigt sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-133-gewo--steinmetzmeister-einschließlich-kunststeinerzeugung-und-terrazzomacher) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=133) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_165_TextContainer_165) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-133-gewo--steinmetzmeister-einschließlich-kunststeinerzeugung-und-terrazzomacher) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-133-gewo--steinmetzmeister-einschließlich-kunststeinerzeugung-und-terrazzomacher) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=133) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_165_TextContainer_165) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-133-gewo--steinmetzmeister-einschließlich-kunststeinerzeugung-und-terrazzomacher) \]
 
 ----
 
@@ -3990,7 +3990,7 @@
 
 > `(5)` Der Berechtigungsumfang von anderen reglementierten Gewerben wird durch Abs\. 1 nicht berührt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-134-gewo--ingenieurbüros-beratende-ingenieure) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=134) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_166_TextContainer_166) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-134-gewo--ingenieurbüros-beratende-ingenieure) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-134-gewo--ingenieurbüros-beratende-ingenieure) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=134) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_166_TextContainer_166) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-134-gewo--ingenieurbüros-beratende-ingenieure) \]
 
 ----
 
@@ -4042,7 +4042,7 @@
 
 > `(7)` Die Abs\. 5 und 6 gelten sinngemäß für Verfahren betreffend den Widerruf nach § 91 Abs\. 1\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-135-gewo--überlassung-von-arbeitskräften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=135) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_167_TextContainer_167) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-135-gewo--überlassung-von-arbeitskräften) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-135-gewo--überlassung-von-arbeitskräften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=135) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_167_TextContainer_167) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-135-gewo--überlassung-von-arbeitskräften) \]
 
 ----
 
@@ -4060,7 +4060,7 @@
 >
 >> `3.` berufsmäßigen Vertretung des Auftraggebers gegenüber Dritten, wie insbesondere Kunden und Lieferanten, sowie vor Behörden und Körperschaften öffentlichen Rechts\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-136-gewo--unternehmensberatung-einschließlich-der-unternehmensorganisation) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=136) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_168_TextContainer_168) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-136-gewo--unternehmensberatung-einschließlich-der-unternehmensorganisation) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-136-gewo--unternehmensberatung-einschließlich-der-unternehmensorganisation) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=136) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_168_TextContainer_168) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-136-gewo--unternehmensberatung-einschließlich-der-unternehmensorganisation) \]
 
 ----
 
@@ -4104,7 +4104,7 @@
 
 > `(12)` Die zur Ausübung des Gewerbes der Vermögensberater berechtigten Gewerbetreibenden haben für ihre Berufstätigkeit eine Vermögensschadenhaftpflichtversicherung mit einer Versicherungssumme von mindestens 1\.111\.675 Euro für jeden einzelnen Schadensfall und von 1\.667\.513 Euro für alle Schadensfälle eines Jahres abzuschließen\. Dies gilt nicht für Tätigkeiten, für die eine Haftungsabsicherung im Sinne von Abs\. 4 oder Abs\. 9 oder § 137c besteht\. Die genannten Mindestversicherungssummen erhöhen oder vermindern sich ab 15\.1\.2013 und danach regelmäßig alle fünf Jahre prozentuell entsprechend den von Eurostat veröffentlichten Änderungen des Europäischen Verbraucherpreisindexes, wobei sie auf den nächst höheren vollen Eurobetrag aufzurunden sind\. Die Bestimmungen des § 117 Abs\. 8 bis 10 sind sinngemäß anzuwenden\. Für Tätigkeiten der Vermittlung von Hypothekarkrediten gemäß Abs\. 1 Z 2 lit\. b muss aus den genannten Deckungssummen die Berufshaftpflichtversicherung oder gleichwertige Garantie gemäß Art\. 1 der Delegierten Verordnung \(EU\) Nr\. 1125/2014 zur Verfügung stehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-136a-gewo--gewerbliche-vermögensberatung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=136a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_169_TextContainer_169) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-136a-gewo--gewerbliche-vermögensberatung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-136a-gewo--gewerbliche-vermögensberatung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=136a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_169_TextContainer_169) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-136a-gewo--gewerbliche-vermögensberatung) \]
 
 ----
 
@@ -4116,7 +4116,7 @@
 
 > `(3)` Der Gewerbetreibende hat der Gewerbebehörde unverzüglich die Endigung des letzten Vertretungsverhältnisses mitzuteilen\. Nach Bekanntwerden des Wegfalls des letzten Vertretungsverhältnisses hat die Behörde unverzüglich ein Entziehungsverfahren einzuleiten und, wenn ein Vertretungsverhältnis nicht unverzüglich nachgewiesen wird, die Gewerbeberechtigung längstens binnen zweier Monate zu entziehen\. § 361 Abs\. 2 erster Satz ist in diesem Fall nicht anzuwenden\. Beschwerden gegen Entziehungsbescheide kommt keine aufschiebende Wirkung zu\. Die Einleitung des Entziehungsverfahrens ist im GISA zu vermerken\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-136b-gewo--wertpapiervermittler) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=136b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_170_TextContainer_170) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-136b-gewo--wertpapiervermittler) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-136b-gewo--wertpapiervermittler) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=136b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_170_TextContainer_170) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-136b-gewo--wertpapiervermittler) \]
 
 ----
 
@@ -4124,7 +4124,7 @@
 
 > Wertpapiervermittler müssen sich ab der Eintragung in das GISA regelmäßig, spätestens jeweils innerhalb von drei Jahren, einer Schulung unterziehen\. Der Nachweis über die Teilnahme an der Schulung ist am Standort des Gewerbes zumindest fünf Jahre zur jederzeitigen Einsichtnahme durch die Behörde bereitzuhalten\. Auch ein bloß einmaliger Verstoß gegen die Verpflichtung, sich einer Schulung zu unterziehen, kann bewirken, dass der Gewerbetreibende die erforderliche Zuverlässigkeit gem\. § 87 Abs\. 1 Z 3 GewO 1994 nicht mehr besitzt\. Als Schulungen im genannten Sinn gelten mindestens vierzig Stunden an einschlägigen Lehrgängen bei einer unabhängigen Ausbildungsinstitution\. Die zuständige Fachorganisation der Wirtschaftskammer Österreich hat einen Lehrplan für den Schulungsinhalt zu erarbeiten, welcher einer Bestätigung des Bundesministers für Wirtschaft, Familie und Jugend bedarf\. Der FMA ist vom Bundesminister für Wirtschaft, Familie und Jugend vor Erteilung der Bestätigung Gelegenheit zur Stellungnahme in angemessener Frist zu geben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-136c-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=136c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_171_TextContainer_171) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-136c-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-136c-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=136c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_171_TextContainer_171) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-136c-gewo) \]
 
 ----
 
@@ -4132,7 +4132,7 @@
 
 > Wertpapiervermittler dürfen für nicht mehr als drei Unternehmen die in § 1 Z 45 WAG 2018 genannten Tätigkeiten erbringen\. Der Wertpapiervermittler hat dem Vertragspartner \(Wertpapierkunden\) bei jeder Geschäftsaufnahme den jeweiligen Geschäftsherrn eindeutig offen zu legen und auf die Eintragung im Register bei der FMA hinzuweisen\. Erfolgt durch den Wertpapiervermittler keine eindeutige Offenlegung des vertragsgegenständlichen Geschäftsherrn, so haften alle gemäß § 37 Abs\. 7 WAG 2018 eingetragenen Geschäftsherren solidarisch\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-136d-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=136d) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_172_TextContainer_172) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-136d-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-136d-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=136d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_172_TextContainer_172) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-136d-gewo) \]
 
 ----
 
@@ -4164,7 +4164,7 @@
 
 > `(4)` Ein ungebundener Kreditvermittler darf sich im Geschäftsverkehr als „unabhängiger Kreditmakler“ bezeichnen, wenn er keinerlei Vergütung von einem oder mehreren Kreditgebern erhält oder die Zahl der vom ungebundenen Kreditvermittler einbezogenen Kreditgeber auf dem Markt eine Mehrheit darstellt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-136e-gewo--kreditvermittlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=136e) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_173_TextContainer_173) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-136e-gewo--kreditvermittlung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-136e-gewo--kreditvermittlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=136e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_173_TextContainer_173) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-136e-gewo--kreditvermittlung) \]
 
 ----
 
@@ -4176,7 +4176,7 @@
 
 > `(3)` Die Behörde hat gleichzeitig mit der Mitteilung gemäß Abs\. 2 den Kreditvermittler darüber zu verständigen, dass die Mitteilung erfolgt ist\. Zu diesem Zweck hat der Kreditvermittler der Behörde entsprechende Kontaktdaten bekannt zu geben\. Der Kreditvermittler darf seine Tätigkeit einen Monat nach dem Zeitpunkt aufnehmen, zu dem er von der Behörde von der Mitteilung verständigt worden ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-136f-gewo--tätigkeiten-österreichischer-kreditvermittler-in-einem-anderen-mitgliedstaat-der-eu-oder-vertragsstaat-des-ewr) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=136f) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_174_TextContainer_174) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-136f-gewo--tätigkeiten-österreichischer-kreditvermittler-in-einem-anderen-mitgliedstaat-der-eu-oder-vertragsstaat-des-ewr) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-136f-gewo--tätigkeiten-österreichischer-kreditvermittler-in-einem-anderen-mitgliedstaat-der-eu-oder-vertragsstaat-des-ewr) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=136f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_174_TextContainer_174) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-136f-gewo--tätigkeiten-österreichischer-kreditvermittler-in-einem-anderen-mitgliedstaat-der-eu-oder-vertragsstaat-des-ewr) \]
 
 ----
 
@@ -4186,7 +4186,7 @@
 
 > `(2)` Bevor der Kreditvermittler seine Tätigkeit aufnimmt oder innerhalb von zwei Monaten nach Eingang der Mitteilung gemäß Abs\. 1 hat der Bundesminister für Wissenschaft, Forschung und Wirtschaft dem Kreditvermittler erforderlichenfalls die Bedingungen mitzuteilen, die in Bereichen, die nicht durch das Unionsrecht harmonisiert sind, für die Ausübung dieser Tätigkeiten gelten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-136g-gewo--tätigkeiten-von-kreditvermittlern-aus-einem-anderen-mitgliedstaat-der-eu-oder-vertragsstaat-des-ewr-in-österreich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=136g) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_175_TextContainer_175) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-136g-gewo--tätigkeiten-von-kreditvermittlern-aus-einem-anderen-mitgliedstaat-der-eu-oder-vertragsstaat-des-ewr-in-österreich) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-136g-gewo--tätigkeiten-von-kreditvermittlern-aus-einem-anderen-mitgliedstaat-der-eu-oder-vertragsstaat-des-ewr-in-österreich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=136g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_175_TextContainer_175) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-136g-gewo--tätigkeiten-von-kreditvermittlern-aus-einem-anderen-mitgliedstaat-der-eu-oder-vertragsstaat-des-ewr-in-österreich) \]
 
 ----
 
@@ -4262,7 +4262,7 @@
 >
 >> `2.` die berufsmäßige Verwaltung der Schadensfälle eines Versicherungsunternehmens oder die Schadensregulierung und Sachverständigenarbeit im Zusammenhang mit Schadensfällen erfolgt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-137-gewo--versicherungsvermittlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=137) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_176_TextContainer_176) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-137-gewo--versicherungsvermittlung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-137-gewo--versicherungsvermittlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=137) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_176_TextContainer_176) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-137-gewo--versicherungsvermittlung) \]
 
 ----
 
@@ -4294,7 +4294,7 @@
 >
 >> `4.` die reine Weitergabe von Informationen über Versicherungs\- oder Rückversicherungsprodukte, einen Versicherungsvermittler, einen Rückversicherungsvermittler oder ein Versicherungsunternehmen oder ein Rückversicherungsunternehmen an potenzielle Versicherungsnehmer, wenn der Anbieter keine weiteren Schritte unternimmt, eine Unterstützung beim Abschluss eines Versicherungs\- oder Rückversicherungsvertrags zu leisten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-137a-gewo--ausnahmen-vom-anwendungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=137a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_177_TextContainer_177) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-137a-gewo--ausnahmen-vom-anwendungsbereich) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-137a-gewo--ausnahmen-vom-anwendungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=137a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_177_TextContainer_177) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.010.md#-137a-gewo--ausnahmen-vom-anwendungsbereich) \]
 
 ----
 
@@ -4318,7 +4318,7 @@
 
 > `(7)` In einem anderen Mitgliedstaat der EU oder in einem Vertragsstaat des EWR eingetragene Versicherungsvermittler dürfen die Tätigkeit der Versicherungsvermittlung im Rahmen der Niederlassungsfreiheit oder im Rahmen des freien Dienstleistungsverkehrs auch in Österreich ausüben\. Dies erfordert eine Verständigung durch die zuständigen Behörden des Herkunftsmitgliedstaates\. Sodann erfolgt die Eintragung im GISA \(Versicherungs\- und Kreditvermittlerregister\)\. Ein Verfahren gemäß dem VI\. Hauptstück entfällt, soweit nicht § 373a Abs\. 1 Schlussteil hinsichtlich der Untersagung und § 373i2 sinngemäß anzuwenden sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-137b-gewo--guter-leumund-und-befähigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=137b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_178_TextContainer_178) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.011.md#-137b-gewo--guter-leumund-und-befähigung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-137b-gewo--guter-leumund-und-befähigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=137b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_178_TextContainer_178) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.011.md#-137b-gewo--guter-leumund-und-befähigung) \]
 
 ----
 
@@ -4336,7 +4336,7 @@
 
 > `(6)` Bei Versicherungsvermittlern ist ein laufendes Entziehungsverfahren im GISA anzumerken\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-137c-gewo--haftpflichtabsicherung-verfahrensbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=137c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_179_TextContainer_179) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.011.md#-137c-gewo--haftpflichtabsicherung-verfahrensbestimmungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-137c-gewo--haftpflichtabsicherung-verfahrensbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=137c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_179_TextContainer_179) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.011.md#-137c-gewo--haftpflichtabsicherung-verfahrensbestimmungen) \]
 
 ----
 
@@ -4364,7 +4364,7 @@
 
 > `(5)` Der Bundesminister für Digitalisierung und Wirtschaftsstandort benennt der Europäischen Kommission alle Behörden, zu deren Wirkungsbereich die Anmeldung, Ausübung und Beendigung des Gewerbes der Versicherungsvermittlung sowie die Überwachung der Einhaltung der gewerberechtlichen Bestimmungen und der Sanktionierung von allfälligen Verletzungen gehören\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-137d-gewo--ausübung-der-dienstleistungsfreiheit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=137d) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_180_TextContainer_180) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-137d-gewo--ausübung-der-dienstleistungsfreiheit) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-137d-gewo--ausübung-der-dienstleistungsfreiheit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=137d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_180_TextContainer_180) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-137d-gewo--ausübung-der-dienstleistungsfreiheit) \]
 
 ----
 
@@ -4392,7 +4392,7 @@
 
 > `(4)` Im Fall einer Änderung der gemäß Abs\. 2 übermittelten Angaben hat der Versicherungsvermittler der Behörde diese Änderung mindestens einen Monat vor deren Eintritt mitzuteilen\. Die Behörde hat den zuständigen Behörden der Aufnahmemitgliedstaaten diese Änderungen unverzüglich, spätestens aber einen Monat nach dem Datum des Eingangs der Information bei der Behörde bekannt zu geben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-137e-gewo--ausübung-der-niederlassungsfreiheit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=137e) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_181_TextContainer_181) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-137e-gewo--ausübung-der-niederlassungsfreiheit) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-137e-gewo--ausübung-der-niederlassungsfreiheit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=137e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_181_TextContainer_181) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-137e-gewo--ausübung-der-niederlassungsfreiheit) \]
 
 ----
 
@@ -4409,7 +4409,7 @@
 
 > `(6)` Jede Änderung der im GISA \(Versicherungs\- und Kreditvermittlerregister\) geführten Daten ist der Behörde unverzüglich anzuzeigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-138-gewo--sonstige-bestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=138) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_182_TextContainer_182) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-138-gewo--sonstige-bestimmungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-138-gewo--sonstige-bestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=138) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_182_TextContainer_182) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-138-gewo--sonstige-bestimmungen) \]
 
 ----
 
@@ -4451,7 +4451,7 @@
 
 > `(4)` Das Vermieten und die Instandsetzung von Schusswaffen sowie der Verkauf des dazugehörigen Schießbedarfes auf behördlich genehmigten Schießstätten ist den gemäß Abs\. 1 Z 1 lit\. a, b oder c oder Z 2 lit\. a oder b berechtigten Gewerbetreibenden gestattet\. Ansonsten ist das Vermieten von militärischen Waffen unzulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-139-gewo--waffengewerbe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=139) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_183_TextContainer_183) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-139-gewo--waffengewerbe) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-139-gewo--waffengewerbe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=139) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_183_TextContainer_183) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-139-gewo--waffengewerbe) \]
 
 ----
 
@@ -4463,7 +4463,7 @@
 
 > `(3)` Militärische Waffen und militärische Munition im Sinne dieses Bundesgesetzes sind die in der Verordnung der Bundesregierung vom 22\. November 1977, BGBl\. Nr\. 624, betreffend Kriegsmaterial bezeichneten Waffen, Munitions\- und Ausrüstungsgegenstände\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-140-gewo--begriffsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=140) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_184_TextContainer_184) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-140-gewo--begriffsbestimmungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-140-gewo--begriffsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=140) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_184_TextContainer_184) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-140-gewo--begriffsbestimmungen) \]
 
 ----
 
@@ -4488,7 +4488,7 @@
 > `(2)` Den im Abs\. 1 bezeichneten Voraussetzungen haben die Gewerbetreibenden auch während der gesamten Dauer der Gewerbeausübung zu entsprechen; sie haben bis zur Wiedererfüllung dieser Voraussetzungen ihren Betrieb einzustellen\.
 > *\(Anm\.: Abs\. 3 aufgehoben durch BGBl\. I Nr\. 81/2015\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-141-gewo--besondere-voraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=141) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_185_TextContainer_185) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-141-gewo--besondere-voraussetzungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-141-gewo--besondere-voraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=141) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_185_TextContainer_185) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-141-gewo--besondere-voraussetzungen) \]
 
 ----
 
@@ -4506,7 +4506,7 @@
 
 > `(6)` Der Bundesminister für Wirtschaft und Arbeit hat im Einvernehmen mit dem Bundesminister für Inneres unter Bedachtnahme auf die Bedürfnisse der Sportschützen und im Hinblick auf die von Schießpulver ausgehenden Gefahren durch Verordnung jene Pulversorten zu bezeichnen, mit denen die in Abs\. 1 genannten Gewerbetreibenden zu handeln berechtigt sind, und jene Maßnahmen festzulegen, die diese Gewerbetreibenden bei dieser Handelstätigkeit zu treffen haben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-142-gewo--rechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=142) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_186_TextContainer_186) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-142-gewo--rechte) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-142-gewo--rechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=142) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_186_TextContainer_186) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-142-gewo--rechte) \]
 
 ----
 
@@ -4528,7 +4528,7 @@
 
 > `(3)` Die zur Erteilung der Gewerbeberechtigung zuständige Behörde kann erforderlichenfalls einem Gewerbetreibenden Maßnahmen im Sinne des Abs\. 2 mit Bescheid auftragen, wenn diesbezüglich keine Regelung in einer Verordnung gemäß Abs\. 1 erlassen worden ist\. Weiters kann die zur Erteilung der Gewerbeberechtigung zuständige Behörde auf Antrag von den Bestimmungen einer Verordnung gemäß Abs\. 1 abweichende Maßnahmen im Sinne des Abs\. 2 mit Bescheid zulassen, wenn hiedurch der gleiche Schutz erreicht wird\. Beziehen sich die Maßnahmen, die mit Bescheid aufgetragen oder zugelassen werden sollen, nur auf die Gewerbeausübung in einer weiteren Betriebsstätte, so ist zur Erlassung der Bescheide die zur Bewilligung der Gewerbeausübung in der weiteren Betriebsstätte zuständige Behörde berufen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-143-gewo--ausübungsvorschriften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=143) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_187_TextContainer_187) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-143-gewo--ausübungsvorschriften) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-143-gewo--ausübungsvorschriften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=143) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_187_TextContainer_187) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-143-gewo--ausübungsvorschriften) \]
 
 ----
 
@@ -4552,7 +4552,7 @@
 
 > `(5)` Der Bundesminister für Wirtschaft und Arbeit hat durch Verordnung im Einvernehmen mit dem Bundesminister für Inneres, hinsichtlich der Schusswaffen und Munition, die Kriegsmaterial sind, auch im Einvernehmen mit dem Bundesminister für Landesverteidigung, nähere Bestimmungen über die Führung der Waffenbücher zu erlassen\. Die Waffenbücher sind nach ihrer Art und Führung so zu gestalten, dass sie den Anforderungen der Beweissicherung und der waffenpolizeilichen Kontrolle entsprechen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-144-gewo--waffenbücher) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=144) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_188_TextContainer_188) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-144-gewo--waffenbücher) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-144-gewo--waffenbücher) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=144) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_188_TextContainer_188) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-144-gewo--waffenbücher) \]
 
 ----
 
@@ -4562,7 +4562,7 @@
 
 > `(2)` Eine nichtmilitärische Feuerwaffe, deren Bezeichnung gemäß Abs\. 1 oder deren Erzeugungsnummer im Zuge der Instandsetzung durch einen befugten Gewerbetreibenden unkenntlich gemacht worden ist, darf in den inländischen Verkehr gebracht werden, wenn sie mit der Bezeichnung dieses Instandsetzers und einer fortlaufenden Nummer, die dieser Gewerbetreibende beizusetzen hat, gekennzeichnet ist\. Der Instandsetzer ist verpflichtet, die ursprüngliche Bezeichnung gemäß Abs\. 1 und die ursprüngliche Erzeugungsnummer im Waffenbuch \(§ 144\) zu verzeichnen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-145-gewo--bezeichnung-der-waffen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=145) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_189_TextContainer_189) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-145-gewo--bezeichnung-der-waffen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-145-gewo--bezeichnung-der-waffen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=145) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_189_TextContainer_189) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-145-gewo--bezeichnung-der-waffen) \]
 
 ----
 
@@ -4578,7 +4578,7 @@
 >
 >> `3.` die für eine Überprüfung erforderlichen Auskünfte zu erteilen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-146-gewo--überprüfung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=146) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_190_TextContainer_190) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-146-gewo--überprüfung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-146-gewo--überprüfung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=146) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_190_TextContainer_190) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-146-gewo--überprüfung) \]
 
 ----
 
@@ -4590,7 +4590,7 @@
 
 > `(3)` Die Bezirksverwaltungsbehörde hat jede Erteilung einer Gewerbeberechtigung für die Ausübung eines Waffengewerbes, jede Bewilligung der Verlegung des Betriebes in einen anderen Standort, jede Anzeige über den Fortbetrieb, die Zurücklegung oder Entziehung einer Gewerbeberechtigung für ein Waffengewerbe im Gebiet einer Gemeinde, für das die Landespolizeidirektion zugleich Sicherheitsbehörde erster Instanz ist, der Landespolizeidirektion, bei Gewerbeberechtigungen betreffend militärische Waffen und militärische Munition \(§ 139 Abs\. 1 Z 2\) auch dem Bundesminister für Landesverteidigung zur Kenntnis zu bringen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-147-gewo--weitere-betriebsstätten-verlegung-des-betriebes-ruhen-der-gewerbeausübung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=147) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_191_TextContainer_191) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-147-gewo--weitere-betriebsstätten-verlegung-des-betriebes-ruhen-der-gewerbeausübung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-147-gewo--weitere-betriebsstätten-verlegung-des-betriebes-ruhen-der-gewerbeausübung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=147) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_191_TextContainer_191) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-147-gewo--weitere-betriebsstätten-verlegung-des-betriebes-ruhen-der-gewerbeausübung) \]
 
 ----
 
@@ -4598,7 +4598,7 @@
 
 > Zur Entscheidung über die Anmeldung eines Waffengewerbes gemäß § 139 Abs\. 1 Z 2, über Ansuchen gemäß § 95 Abs\. 2 und § 19 sowie über Anzeigen gemäß § 11 Abs\. 5 und § 46 Abs\. 2 betreffend ein solches Gewerbe ist der Bundesminister für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesminister für Inneres zuständig\. Die auf eine derartige Entscheidung gerichteten Anbringen sind beim Bundesminister für Wirtschaft und Arbeit zu erstatten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-148-gewo--zuständigkeit-für-waffengewerbe-betreffend-militärische-waffen-und-militärische-munition) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=148) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_192_TextContainer_192) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-148-gewo--zuständigkeit-für-waffengewerbe-betreffend-militärische-waffen-und-militärische-munition) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-148-gewo--zuständigkeit-für-waffengewerbe-betreffend-militärische-waffen-und-militärische-munition) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=148) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_192_TextContainer_192) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-148-gewo--zuständigkeit-für-waffengewerbe-betreffend-militärische-waffen-und-militärische-munition) \]
 
 ----
 
@@ -4606,7 +4606,7 @@
 
 > Personen, die zur Ausübung des Handwerks der Zahntechniker \(§ 94 Z 81\) berechtigt sind und auch die Zahntechnikermeisterprüfung erfolgreich absolviert haben, sind berechtigt, im Einzelfall im Auftrag des Zahnarztes im Rahmen der Herstellung, der Reparatur oder der Eingliederung eines abnehmbaren Zahnersatzes Abformungen und notwendige Bissnahmen im Mund des Menschen vorzunehmen und die notwendigen An\- und Einpassungsarbeiten an diesem Zahnersatz durchzuführen\. Diese Arbeiten sind in der Ordination des beauftragenden Zahnarztes durchzuführen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-148a-gewo--zahntechniker) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=148a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_193_TextContainer_193) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-148a-gewo--zahntechniker) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-148a-gewo--zahntechniker) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=148a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_193_TextContainer_193) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-148a-gewo--zahntechniker) \]
 
 ----
 
@@ -4628,7 +4628,7 @@
 
 > `(8)` Wird das Gewerbe der Holzbau\-Meister in einem Umfang angemeldet, der nicht das Recht zur umfassenden Planung gemäß Abs\. 4 beinhaltet, hat der Gewerbeanmelder die Bezeichnung „Holzbaugewerbetreibender“ unter Beifügung der entsprechenden Einschränkung zu verwenden\. Nur Gewerbetreibende, deren Gewerbeberechtigung das Recht zur Planung gemäß Abs\. 4 beinhaltet, dürfen die Bezeichnung „Holzbau\-Meister“ verwenden\. Gewerbetreibende, die zur Ausübung des Holzbau\-Meistergewerbes eingeschränkt auf die Ausführung von Arbeiten gemäß Abs\. 1 und 2 berechtigt sind, dürfen keine Bezeichnung verwenden, die den Eindruck erwecken könnte, dass sie zu Tätigkeiten gemäß Abs\. 4 berechtigt sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-149-gewo--holzbau-meister) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=149) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_194_TextContainer_194) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-149-gewo--holzbau-meister) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-149-gewo--holzbau-meister) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=149) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_194_TextContainer_194) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-149-gewo--holzbau-meister) \]
 
 ----
 
@@ -4702,7 +4702,7 @@
 
 > `(23)` Wärme\-, Kälte\-, Schall\- und Branddämmer \(§ 94 Z 79\) sind auch zur Ausführung der Tätigkeiten der Schwarzdecker und der Abdichter gegen Feuchtigkeit und Druckwasser berechtigt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-150-gewo--rechte-einzelner-reglementierter-gewerbe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=150) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_195_TextContainer_195) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-150-gewo--rechte-einzelner-reglementierter-gewerbe) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-150-gewo--rechte-einzelner-reglementierter-gewerbe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=150) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_195_TextContainer_195) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.012.md#-150-gewo--rechte-einzelner-reglementierter-gewerbe) \]
 
 ----
 
@@ -4756,7 +4756,7 @@
 
 > `(11)` Das Widerspruchsrecht nach Art\. 21 Abs\. 2 DSGVO kann gegenüber den in Abs\. 1 genannten Gewerbetreibenden auch durch Eintragung in die im Abs\. 9 bezeichnete Liste erfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-151-gewo--adressverlage-und-direktmarketingunternehmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=151) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_196_TextContainer_196) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.013.md#-151-gewo--adressverlage-und-direktmarketingunternehmen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-151-gewo--adressverlage-und-direktmarketingunternehmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=151) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_196_TextContainer_196) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.013.md#-151-gewo--adressverlage-und-direktmarketingunternehmen) \]
 
 ----
 
@@ -4780,7 +4780,7 @@
 
 > `(5)` Personen, die am 30\. Juni 2002 gemäß § 18 oder § 49 des Arbeitsmarktförderungsgesetzes \(AMFG\), BGBl\. Nr\. 31/1969, in der Fassung des Bundesgesetzes BGBl\. I Nr\. 13/1999 zur Durchführung der Künstlervermittlung berechtigt waren, dürfen die Künstlervermittlung jedenfalls weiterhin in jenem Umfang weiter ausüben, zu dem sie am Tag vor Inkrafttreten des Bundesgesetzes BGBl\. I Nr\. 94/2017 berechtigt waren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-151a-gewo--arbeitsvermittlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=151a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_197_TextContainer_197) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.013.md#-151a-gewo--arbeitsvermittlung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-151a-gewo--arbeitsvermittlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=151a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_197_TextContainer_197) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.013.md#-151a-gewo--arbeitsvermittlung) \]
 
 ----
 
@@ -4790,7 +4790,7 @@
 
 > `(2)` Die im Abs\. 1 genannten Gewerbetreibenden sind verpflichtet, ihren geschäftlichen Schriftwechsel und die Geschäftsbücher durch sieben Jahre aufzubewahren\. Die Frist von sieben Jahren läuft vom Schluss des Kalenderjahres, in dem der Schriftwechsel erfolgte oder die letzte Eintragung in das Geschäftsbuch vorgenommen wurde\. Im Falle der Endigung der Gewerbeberechtigung sind der Schriftwechsel und die Geschäftsbücher zu vernichten, auch wenn der Zeitraum von sieben Jahren noch nicht verstrichen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-152-gewo--auskunfteien-über-kreditverhältnisse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=152) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_198_TextContainer_198) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.013.md#-152-gewo--auskunfteien-über-kreditverhältnisse) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-152-gewo--auskunfteien-über-kreditverhältnisse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=152) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_198_TextContainer_198) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.013.md#-152-gewo--auskunfteien-über-kreditverhältnisse) \]
 
 ----
 
@@ -4798,7 +4798,7 @@
 
 > Gewerbetreibende, die zur Ausübung des Gewerbes der Dienstleistungen in der automatischen Datenverarbeitung und Informationstechnik berechtigt sind, sind zur Erstellung von Problemlösungen, insoweit hiezu die Techniken, Verfahren und Methoden der Informationstechnologie angewandt werden, berechtigt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-153-gewo--dienstleistungen-in-der-automatischen-datenverarbeitung-und-informationstechnik) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=153) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_199_TextContainer_199) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.013.md#-153-gewo--dienstleistungen-in-der-automatischen-datenverarbeitung-und-informationstechnik) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-153-gewo--dienstleistungen-in-der-automatischen-datenverarbeitung-und-informationstechnik) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=153) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_199_TextContainer_199) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.013.md#-153-gewo--dienstleistungen-in-der-automatischen-datenverarbeitung-und-informationstechnik) \]
 
 ----
 
@@ -4823,7 +4823,7 @@
 
 > `(7)` Der Tätigkeitsbereich der Handelsagenten umfasst das Vermitteln oder das Abschließen von Warenhandelsgeschäften in fremdem Namen und für fremde Rechnung zwischen selbständig Erwerbstätigen und Personen, die Waren der angebotenen Art zur Ausübung einer selbständigen Erwerbstätigkeit benötigen, ohne Rücksicht darauf, ob das Vermitteln oder Abschließen im Rahmen einer selbständigen Betrauung oder auf Grund einzelner Aufträge ausgeübt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-154-gewo--handelsgewerbe-und-handelsagentengewerbe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=154) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_200_TextContainer_200) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.013.md#-154-gewo--handelsgewerbe-und-handelsagentengewerbe) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-154-gewo--handelsgewerbe-und-handelsagentengewerbe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=154) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_200_TextContainer_200) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.013.md#-154-gewo--handelsgewerbe-und-handelsagentengewerbe) \]
 
 ----
 
@@ -4861,7 +4861,7 @@
 
 > `(4)` Die Vorschriften über den Ausschluss der Eigentumsklage gegen den gutgläubigen Pfandleiher \(§ 4 Abs\. 4 des Gesetzes vom 23\. März 1885, RGBl\. Nr\. 48, in der Fassung des Art\. 16 der Verordnung GBlÖ Nr\. 86/1939\) werden durch dieses Bundesgesetz nicht berührt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-155-gewo--pfandleiher) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=155) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_201_TextContainer_201) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.013.md#-155-gewo--pfandleiher) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-155-gewo--pfandleiher) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=155) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_201_TextContainer_201) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.013.md#-155-gewo--pfandleiher) \]
 
 ----
 
@@ -4869,7 +4869,7 @@
 
 > Die zur Ausübung des Gewerbes der Beförderung von Personen mit Anhängern, bei denen die Zugmaschinen nicht dem Kraftfahrgesetz 1967, BGBl\. Nr\. 267, unterliegen oder gemäß § 1 Abs\. 2 lit\. a und b sowie Abs\. 3 leg\.cit\. von dessen Bestimmungen über die Haftpflichtversicherung ausgeschlossen sind \(Ziehen von mit Personen besetzten Anhängern\), berechtigten Gewerbetreibenden haben eine Haftpflichtversicherung abzuschließen, welche die nach dem Eisenbahn\- und Kraftfahrzeughaftpflichtgesetz, BGBl\. Nr\. 48/1959, in der zum Zeitpunkt des Abschlusses des Versicherungsvertrages jeweils geltenden Fassung vorgesehenen Haftungshöchstbeträge deckt\. Werden die nach dem Eisenbahn\- und Kraftfahrzeughaftpflichtgesetz vorgesehenen Höchstbeträge erhöht, so haben die im ersten Satz genannten Personen die Haftpflichtversicherung den erhöhten Haftungshöchstbeträgen innerhalb eines Jahres nach dem Inkrafttreten der Erhöhung anzupassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-156-gewo--haftpflichtversicherung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=156) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_202_TextContainer_202) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.013.md#-156-gewo--haftpflichtversicherung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-156-gewo--haftpflichtversicherung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=156) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_202_TextContainer_202) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.013.md#-156-gewo--haftpflichtversicherung) \]
 
 ----
 
@@ -4891,7 +4891,7 @@
 
 > `(2)` Bei Ausübung der Rechte gemäß Abs\. 1 muss der Charakter des Betriebes als Tankstelle gewahrt bleiben und es dürfen, soweit es sich nicht um die Ausübung des Kleinhandels mit Heizöl handelt, keine Räumlichkeiten verwendet werden, welche ausschließlich dem Kleinverkauf von Waren gemäß Abs\. 1 Z 2 dienen\. Die dem Verkauf von Waren gemäß Abs\. 1 Z 2 gewidmete Fläche darf 80 Quadratmeter nicht übersteigen\. Die Aufnahme von zusätzlichen Arbeitnehmern für den Warenverkauf kann durch Kollektivvertrag zugelassen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-157-gewo--tankstellen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=157) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_203_TextContainer_203) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.013.md#-157-gewo--tankstellen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-157-gewo--tankstellen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=157) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_203_TextContainer_203) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.013.md#-157-gewo--tankstellen) \]
 
 ----
 
@@ -4903,7 +4903,7 @@
 
 > `(3)` Die zur Versteigerung beweglicher und unbeweglicher Sachen berechtigten Gewerbebetreibenden haben sich einer Geschäftsordnung zu bedienen\. Die Geschäftsordnung ist in den für den Verkehr mit Kunden bestimmten Geschäftsräumen ersichtlich zu machen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-158-gewo--versteigerung-beweglicher-und-unbeweglicher-sachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=158) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_204_TextContainer_204) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.013.md#-158-gewo--versteigerung-beweglicher-und-unbeweglicher-sachen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-158-gewo--versteigerung-beweglicher-und-unbeweglicher-sachen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=158) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_204_TextContainer_204) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.013.md#-158-gewo--versteigerung-beweglicher-und-unbeweglicher-sachen) \]
 
 ----
 
@@ -4961,7 +4961,7 @@
 >
 > &nbsp; an der betreuten Person durchzuführen, wenn sie vom Gewerbetreibenden nicht überwiegend erbracht werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-159-gewo--personenbetreuung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=159) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_205_TextContainer_205) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.013.md#-159-gewo--personenbetreuung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-159-gewo--personenbetreuung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=159) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_205_TextContainer_205) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.013.md#-159-gewo--personenbetreuung) \]
 
 ----
 
@@ -4975,7 +4975,7 @@
 >
 >> `2.` das Haushaltsbuch zu führen und samt der Belegsammlung über einen Zeitraum von zwei Jahren aufzubewahren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-160-gewo--qualitätssicherung-für-die-personenbetreuung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=160) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_206_TextContainer_206) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.013.md#-160-gewo--qualitätssicherung-für-die-personenbetreuung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-160-gewo--qualitätssicherung-für-die-personenbetreuung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=160) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_206_TextContainer_206) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.013.md#-160-gewo--qualitätssicherung-für-die-personenbetreuung) \]
 
 ----
 
@@ -4985,7 +4985,7 @@
 
 > `(2)` Der Tätigkeitsbereich der Organisation von Personenbetreuung umfasst auch die Beratung und Betreuung für die in Abs\. 1 genannten Geschäfte\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-161-gewo--organisation-von-personenbetreuung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=161) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_207_TextContainer_207) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.013.md#-161-gewo--organisation-von-personenbetreuung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-161-gewo--organisation-von-personenbetreuung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=161) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_207_TextContainer_207) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.013.md#-161-gewo--organisation-von-personenbetreuung) \]
 
 ----
 
@@ -5057,7 +5057,7 @@
 >
 >> `12.` Tischler; Modellbauer; Bootsbauer; Binder; Drechsler; Bildhauer \(verbundenes Handwerk\) zum Zusammenbau von Möbelsätzen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-162-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=162) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_208_TextContainer_208) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.013.md#-162-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-162-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=162) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_208_TextContainer_208) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.013.md#-162-gewo) \]
 
 ----
 
@@ -5077,7 +5077,7 @@
 
 > `(6)` Ein Markt oder Gelegenheitsmarkt liegt auch dann vor, wenn die Veranstaltung als Flohmarkt deklariert wird, sofern die Voraussetzungen der Abs\. 1 oder 2 gegeben sind und keine Ausnahme nach den Abs\. 3 bis 5 vorliegt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-286-gewo--märkte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=286) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_209_TextContainer_209) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-286-gewo--märkte) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-286-gewo--märkte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=286) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_209_TextContainer_209) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-286-gewo--märkte) \]
 
 ----
 
@@ -5089,7 +5089,7 @@
 
 > `(3)` Der Bundesminister für wirtschaftliche Angelegenheiten hat die Waren zu bezeichnen, auf die Abs\. 2 anzuwenden ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-287-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=287) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_210_TextContainer_210) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-287-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-287-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=287) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_210_TextContainer_210) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-287-gewo) \]
 
 ----
 
@@ -5101,7 +5101,7 @@
 
 > `(3)` Die Gewerbetreibenden haben beim Feilbieten und beim Verkauf der Waren auf einem Markt oder Gelegenheitsmarkt die Verständigung über die Eintragung im GISA \(§ 340 Abs\. 1\) stets mitzuführen und auf Verlangen der behördlichen Organe vorzuweisen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-288-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=288) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_211_TextContainer_211) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-288-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-288-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=288) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_211_TextContainer_211) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-288-gewo) \]
 
 ----
 
@@ -5117,7 +5117,7 @@
 >
 >> `3.` die Bezeichnung der Waren oder Warengruppen, die den Hauptgegenstand des Marktverkehrs bilden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-289-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=289) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_212_TextContainer_212) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-289-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-289-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=289) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_212_TextContainer_212) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-289-gewo) \]
 
 ----
 
@@ -5127,7 +5127,7 @@
 
 > `(2)` Die Gemeinde hat die Landeskammer der gewerblichen Wirtschaft, die Kammer für Arbeiter und Angestellte und die Landwirtschaftskammer zu verständigen, wenn ein vorgesehener Markt nicht abgehalten wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-290-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=290) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_213_TextContainer_213) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-290-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-290-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=290) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_213_TextContainer_213) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-290-gewo) \]
 
 ----
 
@@ -5139,7 +5139,7 @@
 
 > `(3)` Die Gemeinde hat die im Abs\. 1 genannten Kammern von der Erteilung einer Bewilligung zur Abhaltung eines Gelegenheitsmarktes zu verständigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-291-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=291) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_214_TextContainer_214) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-291-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-291-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=291) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_214_TextContainer_214) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-291-gewo) \]
 
 ----
 
@@ -5149,7 +5149,7 @@
 
 > `(2)` Die Gemeinden dürfen von den Marktbesuchern für die Benützung der Markteinrichtungen nur dann privatrechtliche Entgelte verlangen, wenn sie hiefür keine Abgaben auf Grund des Finanz\-Verfassungsgesetzes 1948, BGBl\. Nr\. 45, und des Finanzausgleichsgesetzes 1993, BGBl\. Nr\. 30, einheben\. Solche Entgelte dürfen nur als Vergütung für den überlassenen Raum, den Gebrauch von Marktständen und Gerätschaften und für andere mit der Abhaltung des Marktes verbundene Auslagen eingehoben und nicht höher bemessen werden, als es zur Verzinsung und Tilgung der für die Errichtung, die Erhaltung und den Betrieb der Markteinrichtungen aufgewendeten Beträge erforderlich ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-292-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=292) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_215_TextContainer_215) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-292-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-292-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=292) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_215_TextContainer_215) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-292-gewo) \]
 
 ----
 
@@ -5181,7 +5181,7 @@
 
 > `(3)` Für einen Gelegenheitsmarkt \(§ 286 Abs\. 2\) ist eine Marktordnung dann zu erlassen, wenn dies wegen der Eigenart, Dauer und besonderen Bedeutung dieser Veranstaltung oder im Interesse der Marktbesucher oder Käufer erforderlich ist\. In diesem Fall sind die Abs\. 1 und 2 sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-293-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=293) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_216_TextContainer_216) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-293-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-293-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=293) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_216_TextContainer_216) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-293-gewo) \]
 
 ----
 
@@ -5189,7 +5189,7 @@
 
 > Veterinärrechtliche Vorschriften werden durch die Bestimmungen des III\. Hauptstückes nicht berührt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-294-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=294) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_217_TextContainer_217) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-294-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-294-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=294) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_217_TextContainer_217) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-294-gewo) \]
 
 ----
 
@@ -5197,7 +5197,7 @@
 
 > §§ 295 bis 332 entfallen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-295-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=295) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_218_TextContainer_218) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-295-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-295-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=295) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_218_TextContainer_218) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-295-gewo) \]
 
 ----
 
@@ -5213,7 +5213,7 @@
 
 > `(2)` Gewerbetreibende können die Meldung, die sie als Pflichtversicherte zu Beginn der Pflichtversicherung bei der Sozialversicherungsanstalt der Selbständigen abzugeben und die Anzeige, die sie als Abgabepflichtige bei Aufnahme ihrer Geschäftstätigkeit an das zuständige Finanzamt zu erstatten haben, auch bei der Gewerbebehörde auf automationsunterstütztem Wege einbringen\. Die Gewerbebehörde hat die Meldung des Pflichtversicherten unverzüglich an die Sozialversicherungsanstalt der Selbständigen und die Anzeige des Abgabepflichtigen an das zuständige Finanzamt zu übermitteln\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-333-gewo--einheitliche-anlaufstelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=333) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_219_TextContainer_219) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-333-gewo--einheitliche-anlaufstelle) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-333-gewo--einheitliche-anlaufstelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=333) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_219_TextContainer_219) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-333-gewo--einheitliche-anlaufstelle) \]
 
 ----
 
@@ -5223,7 +5223,7 @@
 >
 > *\(Beachte: Tritt mit der Maßgabe in Kraft, dass betreffend die Ausstellung von Auszügen aus dem Gewerbeinformationssystem Austria die Befreiung von Stempelgebühren und Verwaltungsabgaben des Bundes frühestens ab 1\. Mai 2018 anzuwenden ist \(vgl\. § 382 Abs\. 86\)\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-333a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=333a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_220_TextContainer_220) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-333a-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-333a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=333a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_220_TextContainer_220) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-333a-gewo) \]
 
 ----
 
@@ -5231,7 +5231,7 @@
 
 > Ist in einer Sache der Bundesminister für Wirtschaft und Arbeit in erster Instanz zuständig, so kann er mit der Durchführung des Verfahrens ganz oder teilweise die nachgeordnete Behörde betrauen und diese auch ermächtigen, in seinem Namen zu entscheiden\. Gesetzliche Mitwirkungs\- und Anhörungsrechte werden hiedurch nicht berührt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-334-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=334) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_221_TextContainer_221) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-334-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-334-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=334) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_221_TextContainer_221) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-334-gewo) \]
 
 ----
 
@@ -5239,7 +5239,7 @@
 
 > Ist in Verfahren betreffend Betriebsanlagen in erster Instanz die örtliche Zuständigkeit mehrerer Bezirksverwaltungsbehörden gegeben \(§ 333\), ist diejenige Bezirksverwaltungsbehörde örtlich zuständig, in deren Bereich sich der größte Teil der Grundfläche der Betriebsanlage befindet\. Die übrigen betroffenen Bezirksverwaltungsbehörden sind zu hören\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-335-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=335) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_222_TextContainer_222) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-335-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-335-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=335) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_222_TextContainer_222) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-335-gewo) \]
 
 ----
 
@@ -5267,7 +5267,7 @@
 >
 > &nbsp; durch Versicherungsvermittler \(§ 94 Z 75 und 76\) gemäß § 338 zu überwachen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-335a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=335a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_223_TextContainer_223) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-335a-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-335a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=335a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_223_TextContainer_223) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-335a-gewo) \]
 
 ----
 
@@ -5281,7 +5281,7 @@
 
 > `(4)` Soweit der Behörde für die im Abs\. 1 angeführten Aufgaben andere geeignete Organe zur Verfügung stehen, hat sie sich dieser anstelle der Organe des öffentlichen Sicherheitsdienstes zu bedienen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-336-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=336) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_224_TextContainer_224) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-336-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-336-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=336) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_224_TextContainer_224) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-336-gewo) \]
 
 ----
 
@@ -5291,7 +5291,7 @@
 
 > `(2)` Die Behörden gemäß Abs\. 1, die auf Grund dieses Bundesgesetzes die Zuverlässigkeit einer Person sicherheitspolizeilich zu überprüfen haben, sind ermächtigt, die personenbezogenen Daten, die sie bei der Vollziehung von Bundes\- oder Landesgesetzen über diese Person ermittelt haben, zu verarbeiten und Daten, die Bedenken an der Zuverlässigkeit des Betroffenen begründen, in den Fällen des Abs\. 1 der Gewerbebehörde mitzuteilen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-336a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=336a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_225_TextContainer_225) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-336a-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-336a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=336a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_225_TextContainer_225) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-336a-gewo) \]
 
 ----
 
@@ -5301,7 +5301,7 @@
 
 > `(2)` Die in diesem Bundesgesetz in den §§ 24 Abs\. 1, 119 Abs\. 5, 136a Abs\. 6a, 136c, 137b Abs\. 3a, 350, 351, 352, 352a Abs\. 2 und 352b festgelegten Aufgaben von Wirtschaftskammern und Fachorganisationen sowie bei diesen eingerichteten Stellen sind solche des übertragenen Wirkungsbereiches der Organisationen der gewerblichen Wirtschaft\. Die jeweils genannten Selbstverwaltungskörper und Stellen sind bei der Besorgung dieser Aufgaben an die Weisungen des Bundesministers für Wissenschaft, Forschung und Wirtschaft gebunden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-337-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=337) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_226_TextContainer_226) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-337-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-337-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=337) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_226_TextContainer_226) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-337-gewo) \]
 
 ----
 
@@ -5327,7 +5327,7 @@
 
 > `(9)` Betreffend die Maschinen\-Sicherheitsverordnung 2010 – MSV 2010, BGBl\. II Nr\. 282/2008 in der jeweils geltenden Fassung, sowie die Verordnung des Bundesministers für Wirtschaft und Arbeit über Geräuschemissionen von zur Verwendung im Freien vorgesehenen Geräten und Maschinen, BGBl\. II Nr\. 249/2001 in der jeweils geltenden Fassung, ist das Bundesamt für Eich\- und Vermessungswesen die gemäß Art\. 10 Abs\. 2 der Verordnung \(EU\) 2019/1020 zuständige Behörde und im Rahmen dessen auch für die Abwicklung von Schutzklauselverfahren zuständig\. Zur Durchführung der Aufgaben des Bundesamtes für Eich\- und Vermessungswesen nach Maßgabe des IV\. und V\. Kapitels der Verordnung \(EU\) 2019/1020 gelten der § 6 Abs\. 2 und 3 sowie die §§ 7 und 10 des Maschinen − Inverkehrbringungs\- und NotifizierungsG \(MING\), BGBl\. I Nr\. 77/2015, in der Fassung des BGBl\. I Nr\. 204/2022, sinngemäß\. Das Bundesamt für Eich\- und Vermessungswesen hat zur Ausübung seiner Befugnis nach Art\. 14 Abs\. 4 lit\. i der Verordnung \(EU\) 2019/1020 die zuständige Bezirksverwaltungsbehörde als andere Behörde im Sinne des Art\. 14 Abs\. 3 lit\. b der Verordnung \(EU\) 2019/1020 zu verständigen, wenn es im Rahmen seiner Tätigkeit zu dem begründeten Verdacht gelangt, dass eine Verwaltungsübertretung begangen wurde\. § 371c und § 33a VStG sind vom Bundesamt für Eich\- und Vermessungswesen sinngemäß mit der Maßgabe anzuwenden, dass bei Erfüllung der schriftlichen Aufforderung innerhalb der gesetzten Frist von der Verständigung der Bezirksverwaltungsbehörde Abstand genommen werden kann und sofern eine Verständigung erfolgt diese einen Hinweis auf den Umstand der Erfüllung zu enthalten hat\. § 371c Abs\. 1 und § 33a VStG sind von der Bezirksverwaltungsbehörde nicht anzuwenden, wenn die Verständigung durch das Bundesamt für Eich\- und Vermessungswesen erfolgt ist\. Das Bundesamt für Eich\- und Vermessungswesen kann zur Anordnung von Maßnahmen nach Art\. 14 Abs\. 4 lit\. k sublit\. ii der Verordnung \(EU\) 2019/1020 die Telekom\-Control\-Kommission als andere Behörde im Sinne des Art\. 14 Abs\. 3 lit\. b der Verordnung \(EU\) 2019/1020 beauftragen, soweit der Wirtschaftsakteur oder falls die Identität des Wirtschaftsakteurs oder sein Aufenthalt unbekannt ist und nicht mit vertretbaren Mitteln festgestellt werden kann, der Anbieter des Dienstes der Informationsgesellschaft einer Anordnung der Marktüberwachungsbehörde gemäß Art\. 14 Abs\. 4 lit\. k sublit\. i der Verordnung \(EU\) 2019/1020 nicht binnen einer angemessenen Frist Folge geleistet hat\. § 7 Abs\. 6 und 8 sowie § 13a MING gelten dabei sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-338-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=338) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_227_TextContainer_227) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-338-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-338-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=338) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_227_TextContainer_227) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.014.md#-338-gewo) \]
 
 ----
 
@@ -5353,7 +5353,7 @@
 >
 >> `2.` sich die Gewerbebehörde über die betreffenden Daten durch automationsunterstützte Abfrage Kenntnis verschaffen kann oder die betreffenden Daten im Sinne des § 342 Abs\. 1 Z 4 durch das GISA automatisiert validiert werden können\. Es dürfen ausschließlich Daten abgefragt oder automationsunterstützt validiert werden, die zur Vollziehung der gewerberechtlichen Vorschriften erforderlich sind und für deren Abfrage eine gesetzliche Ermächtigung besteht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-339-gewo--a-anmeldungsverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=339) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_228_TextContainer_228) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.015.md#-339-gewo--a-anmeldungsverfahren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-339-gewo--a-anmeldungsverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=339) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_228_TextContainer_228) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.015.md#-339-gewo--a-anmeldungsverfahren) \]
 
 ----
 
@@ -5367,7 +5367,7 @@
 
 > `(3)` Liegen die im Abs\. 1 genannten Voraussetzungen nicht vor, so hat die Behörde \- unbeschadet eines Verfahrens nach § 366 Abs\. 1 Z 1 \- dies mit Bescheid festzustellen und die Ausübung des Gewerbes zu untersagen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-340-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=340) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_229_TextContainer_229) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.015.md#-340-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-340-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=340) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_229_TextContainer_229) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.015.md#-340-gewo) \]
 
 ----
 
@@ -5375,7 +5375,7 @@
 
 > Dem Ansuchen um Genehmigung der Bestellung eines Geschäftsführers oder eines Filialgeschäftsführers für die Ausübung eines im § 95 genannten Gewerbes sind die im § 339 Abs\. 3 Z 1 und 2 angeführten Belege betreffend die Person des Geschäftsführers oder des Filialgeschäftsführers anzuschließen\. Das Ansuchen um Genehmigung der Bestellung eines Filialgeschäftsführers für die Ausübung eines im § 95 genannten Gewerbes in einer weiteren Betriebsstätte ist bei der für die weitere Betriebsstätte zuständigen Behörde einzubringen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-341-gewo--b-genehmigungsverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=341) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_230_TextContainer_230) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.015.md#-341-gewo--b-genehmigungsverfahren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-341-gewo--b-genehmigungsverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=341) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_230_TextContainer_230) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.015.md#-341-gewo--b-genehmigungsverfahren) \]
 
 ----
 
@@ -5383,7 +5383,7 @@
 
 > § 343 entfällt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-343-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=343) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_231_TextContainer_231) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.015.md#-343-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-343-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=343) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_231_TextContainer_231) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.015.md#-343-gewo) \]
 
 ----
 
@@ -5395,7 +5395,7 @@
 
 > `(3)` Bei der Erledigung von Anbringen natürlicher Personen ist betreffend die Prüfung des Nichtvorliegens von Ausschlussgründen gemäß § 13 Abs\. 5 die Überprüfung jener anderen Rechtsträger als natürlicher Personen, zu denen der Einschreiter unmittelbar als Person im betreffenden Bestand des Firmenbuchs oder des Zentralen Vereinsregisters eingetragen ist, ausreichend, wenn der Einschreiter im Anbringen eidesstattlich erklärt, dass für ihn kein Gewerbeausschließungsgrund im Sinne des § 13 Abs\. 5 vorliegt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-344-gewo--besondere-verfahrensbestimmungen-betreffend-die-prüfung-des-vorliegens-gesetzlicher-voraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=344) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_232_TextContainer_232) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.015.md#-344-gewo--besondere-verfahrensbestimmungen-betreffend-die-prüfung-des-vorliegens-gesetzlicher-voraussetzungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-344-gewo--besondere-verfahrensbestimmungen-betreffend-die-prüfung-des-vorliegens-gesetzlicher-voraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=344) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_232_TextContainer_232) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.015.md#-344-gewo--besondere-verfahrensbestimmungen-betreffend-die-prüfung-des-vorliegens-gesetzlicher-voraussetzungen) \]
 
 ----
 
@@ -5409,7 +5409,7 @@
 
 > `(4)` Im Fall einer Aufforderung zur Entfernung einer natürlichen Person, der ein maßgebender Einfluss auf den Betrieb der Geschäfte zusteht, gemäß § 91 Abs\. 2 aus dem Grund des § 87 Abs\. 1 Z 3a hat die Behörde gleichzeitig mit der Aufforderung mit Bescheid festzustellen, dass die natürliche Person, der ein maßgebender Einfluss auf den Betrieb der Geschäfte zusteht, eine wahrheitswidrige Eidesstattliche Erklärung im Sinne des § 344 abgegeben hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-344a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=344a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_233_TextContainer_233) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.015.md#-344a-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-344a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=344a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_233_TextContainer_233) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.015.md#-344a-gewo) \]
 
 ----
 
@@ -5435,7 +5435,7 @@
 
 > `(6)` Die Behörde hat Anzeigen gemäß § 81 Abs\. 3 binnen zwei Monaten nach Erstattung der Anzeige mit Bescheid zur Kenntnis zu nehmen, wenn die geforderten Voraussetzungen gegeben sind\. Der Bescheid bildet einen Bestandteil des Genehmigungsbescheides\. Sind die gesetzlichen Voraussetzungen nicht erfüllt, hat die Behörde innerhalb von zwei Monaten nach Erstattung der Anzeige einen Bescheid im Sinne des Abs\. 5 zu erlassen\. Für die den Anzeigen gemäß § 81 Abs\. 3 anzuschließenden Belege gilt § 353\. Mit dem Betrieb der geänderten Betriebsanlage darf erst nach Erlassung des Bescheides im Sinne des ersten Satzes begonnen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-345-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=345) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_234_TextContainer_234) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-345-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-345-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=345) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_234_TextContainer_234) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-345-gewo) \]
 
 ----
 
@@ -5445,7 +5445,7 @@
 
 > `(2)` Der Bescheid ist binnen vier Monaten zu erlassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-346-gewo--d-nachsichtsverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=346) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_235_TextContainer_235) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-346-gewo--d-nachsichtsverfahren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-346-gewo--d-nachsichtsverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=346) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_235_TextContainer_235) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-346-gewo--d-nachsichtsverfahren) \]
 
 ----
 
@@ -5457,7 +5457,7 @@
 
 > `(3)` Gegen den Bescheid steht den beteiligten Gliederungen der Landeskammer der gewerblichen Wirtschaft und dem beteiligten Fachverband der Industrie das Recht der Beschwerde zu, wenn die Entscheidung ihren fristgerecht abgegebenen Gutachten widerspricht oder wenn sie nicht gehört worden sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-347-gewo--e-verfahren-betreffend-die-ausübung-eines-gewerbes-in-der-form-eines-industriebetriebes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=347) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_236_TextContainer_236) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-347-gewo--e-verfahren-betreffend-die-ausübung-eines-gewerbes-in-der-form-eines-industriebetriebes) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-347-gewo--e-verfahren-betreffend-die-ausübung-eines-gewerbes-in-der-form-eines-industriebetriebes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=347) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_236_TextContainer_236) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-347-gewo--e-verfahren-betreffend-die-ausübung-eines-gewerbes-in-der-form-eines-industriebetriebes) \]
 
 ----
 
@@ -5470,7 +5470,7 @@
 
 > `(4)` Die Behörde hat von Amts wegen oder auf Antrag einer Person, die ein rechtliches Interesse an der Feststellung hat, mit Bescheid festzustellen, ob eine Gewerbeberechtigung aufrecht ist und verneinendenfalls, in welchem Zeitpunkt sie geendet hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-348-gewo--f-feststellungsverfahren-der-oberbehörde-über-die-anwendbarkeit-der-gewerberechtlichen-vorschriften-und-über-den-aufrechten-bestand-von-gewerbeberechtigungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=348) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_237_TextContainer_237) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-348-gewo--f-feststellungsverfahren-der-oberbehörde-über-die-anwendbarkeit-der-gewerberechtlichen-vorschriften-und-über-den-aufrechten-bestand-von-gewerbeberechtigungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-348-gewo--f-feststellungsverfahren-der-oberbehörde-über-die-anwendbarkeit-der-gewerberechtlichen-vorschriften-und-über-den-aufrechten-bestand-von-gewerbeberechtigungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=348) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_237_TextContainer_237) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-348-gewo--f-feststellungsverfahren-der-oberbehörde-über-die-anwendbarkeit-der-gewerberechtlichen-vorschriften-und-über-den-aufrechten-bestand-von-gewerbeberechtigungen) \]
 
 ----
 
@@ -5498,7 +5498,7 @@
 
 > `(6)` Im Verfahren sind die im Abs\. 2 Z 1 genannten Personen und die im Abs\. 2 Z 2 und Abs\. 5 genannten Gliederungen der Landeskammer der gewerblichen Wirtschaft Parteien und es steht ihnen das Recht der Beschwerde an das Verwaltungsgericht des Landes und der Revision wegen Rechtswidrigkeit an den Verwaltungsgerichtshof zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-349-gewo--g-verfahren-über-den-umfang-von-gewerbeberechtigungen-und-die-einreihung-von-gewerben) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=349) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_238_TextContainer_238) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-349-gewo--g-verfahren-über-den-umfang-von-gewerbeberechtigungen-und-die-einreihung-von-gewerben) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-349-gewo--g-verfahren-über-den-umfang-von-gewerbeberechtigungen-und-die-einreihung-von-gewerben) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=349) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_238_TextContainer_238) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-349-gewo--g-verfahren-über-den-umfang-von-gewerbeberechtigungen-und-die-einreihung-von-gewerben) \]
 
 ----
 
@@ -5506,7 +5506,7 @@
 
 > Zur Durchführung der Meister\- und Befähigungsprüfungen und der Unternehmerprüfung sind im übertragenen Wirkungsbereich der Landeskammern der gewerblichen Wirtschaft Meisterprüfungsstellen eingerichtet\. Diese werden durch einen Leiter vertreten\. Dieser muss mit den bezüglichen Rechtsvorschriften vertraut sein und über die für diese Tätigkeit erforderlichen Kenntnisse, Fertigkeiten und Kompetenz verfügen\. Die Landeskammer der gewerblichen Wirtschaft hat die Funktion des Leiters der Meisterprüfungsstelle öffentlich in geeigneter Weise auszuschreiben\. Die Bestellung erfolgt durch das satzungsgebende Organ der Landeskammer\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-350-gewo--organisation-und-verfahren-bei-prüfungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=350) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_239_TextContainer_239) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-350-gewo--organisation-und-verfahren-bei-prüfungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-350-gewo--organisation-und-verfahren-bei-prüfungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=350) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_239_TextContainer_239) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-350-gewo--organisation-und-verfahren-bei-prüfungen) \]
 
 ----
 
@@ -5528,7 +5528,7 @@
 
 > `(8)` Der Landeshauptmann kann zur Überwachung des ordnungsgemäßen Vorganges bei der Prüfung einen Vertreter zur Prüfung entsenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-351-gewo--zusammensetzung-und-bestellung-der-prüfungskommissionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=351) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_240_TextContainer_240) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-351-gewo--zusammensetzung-und-bestellung-der-prüfungskommissionen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-351-gewo--zusammensetzung-und-bestellung-der-prüfungskommissionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=351) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_240_TextContainer_240) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-351-gewo--zusammensetzung-und-bestellung-der-prüfungskommissionen) \]
 
 ----
 
@@ -5560,7 +5560,7 @@
 
 > `(13)` Alle Schriften, Zeugnisse und Amtshandlungen in Prüfungsangelegenheiten sind von den Gebühren gemäß dem Gebührengesetz 1957 und den Bundesverwaltungsabgaben befreit\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-352-gewo--anmeldung-zur-prüfung-und-prüfungsverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=352) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_241_TextContainer_241) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-352-gewo--anmeldung-zur-prüfung-und-prüfungsverfahren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-352-gewo--anmeldung-zur-prüfung-und-prüfungsverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=352) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_241_TextContainer_241) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-352-gewo--anmeldung-zur-prüfung-und-prüfungsverfahren) \]
 
 ----
 
@@ -5594,7 +5594,7 @@
 
 > `(3)` Die Prüfungsgebühren gemäß Abs\. 1 Z 5 sind so zu bemessen, dass der Personal\- und Sachaufwand der Meisterprüfungsstelle und eine angemessene Entschädigung der Mitglieder der Prüfungskommission gedeckt sind\. Auf die wirtschaftlichen Verhältnisse der Prüfungskandidaten kann durch Reduktion der Prüfungsgebühren Bedacht genommen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-352a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=352a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_242_TextContainer_242) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-352a-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-352a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=352a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_242_TextContainer_242) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-352a-gewo) \]
 
 ----
 
@@ -5622,7 +5622,7 @@
 >
 >> `10.` Ergebnis der Prüfung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-352b-gewo--datenverarbeitung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=352b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_243_TextContainer_243) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-352b-gewo--datenverarbeitung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-352b-gewo--datenverarbeitung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=352b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_243_TextContainer_243) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-352b-gewo--datenverarbeitung) \]
 
 ----
 
@@ -5654,7 +5654,7 @@
 >
 > &nbsp; Werden die in Z 1 genannten Unterlagen elektronisch eingebracht, genügt der Anschluss in einfacher Ausfertigung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-353-gewo--i-verfahren-betreffend-betriebsanlagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=353) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_244_TextContainer_244) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-353-gewo--i-verfahren-betreffend-betriebsanlagen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-353-gewo--i-verfahren-betreffend-betriebsanlagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=353) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_244_TextContainer_244) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-353-gewo--i-verfahren-betreffend-betriebsanlagen) \]
 
 ----
 
@@ -5696,7 +5696,7 @@
 >
 > &nbsp; enthalten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-353a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=353a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_245_TextContainer_245) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-353a-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-353a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=353a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_245_TextContainer_245) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-353a-gewo) \]
 
 ----
 
@@ -5712,7 +5712,7 @@
 
 > `(5)` Auf eine Verfahrensanordnung gemäß Abs\. 2 ist § 63 Abs\. 2 AVG mit der Maßgabe anzuwenden, dass sie nur hinsichtlich ihrer Höhe und nur dann anfechtbar ist, wenn der Gesamtbetrag der dem Antragsteller aufgetragenen Kostenvorschüsse 4 000 Euro übersteigt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-353b-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=353b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_246_TextContainer_246) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-353b-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-353b-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=353b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_246_TextContainer_246) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-353b-gewo) \]
 
 ----
 
@@ -5720,7 +5720,7 @@
 
 > Wenn sich das Ermittlungsverfahren wegen des außergewöhnlichen Umfangs oder der besonderen Beschaffenheit der Anlage voraussichtlich auf einen längeren Zeitraum erstrecken wird und anzunehmen ist, dass die Errichtung und der Betrieb der Anlage bei Vorschreibung bestimmter Auflagen zulässig sein wird, oder wenn zur Ausarbeitung des Projekts einer Anlage Vorarbeiten erforderlich sind oder wenn das Vorliegen des Ergebnisses bestimmter Vorarbeiten für die Entscheidung der Behörde von wesentlicher Bedeutung ist, kann diese Behörde nach Durchführung einer mündlichen Verhandlung mit Bescheid, erforderlichenfalls unter Vorschreibung bestimmter Auflagen, schon vor der Genehmigung der Errichtung und des Betriebs der Anlage die Durchführung der erforderlichen Arbeiten \(zB eines Versuchsbetriebs\) genehmigen\. Gegen diese Genehmigung ist ein abgesondertes Rechtsmittel nicht zulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-354-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=354) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_247_TextContainer_247) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-354-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-354-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=354) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_247_TextContainer_247) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-354-gewo) \]
 
 ----
 
@@ -5730,7 +5730,7 @@
 
 > `(2)` Im Verfahren zur Genehmigung einer Anlage zur Erzeugung oder Verarbeitung von Schieß\- und Sprengmitteln \(§ 2 Abs\. 16\) und im Verfahren zur Genehmigung einer Anlage zur Lagerung von Schieß\- und Sprengmitteln \(§ 2 Abs\. 16\) ist die Sicherheitsbehörde zum Schutz der öffentlichen Interessen im Sinne des § 74 Abs\. 2 Z 2 bis 5 im Rahmen ihres Wirkungsbereiches zu hören\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-355-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=355) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_248_TextContainer_248) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-355-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-355-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=355) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_248_TextContainer_248) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-355-gewo) \]
 
 ----
 
@@ -5754,7 +5754,7 @@
 
 > `(4)` Nachbarn haben in den Verfahren betreffend die Aufhebung oder Abänderung von Auflagen \(§ 79c Abs\. 1\), Abweichungen vom Genehmigungsbescheid einschließlich seiner Bestandteile \(§ 79c Abs\. 2\) und Betriebsübernahme \(§ 79d\) auch insoweit Parteistellung, als damit neue oder größere nachteilige Wirkungen im Sinne des § 74 Abs\. 2 verbunden sein können\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-356-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=356) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_249_TextContainer_249) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-356-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-356-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=356) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_249_TextContainer_249) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-356-gewo) \]
 
 ----
 
@@ -5784,7 +5784,7 @@
 
 > `(8)` Besondere staatsvertragliche Regelungen bleiben unberührt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-356a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=356a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_250_TextContainer_250) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-356a-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-356a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=356a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_250_TextContainer_250) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-356a-gewo) \]
 
 ----
 
@@ -5832,7 +5832,7 @@
 >>
 >>> `d)` soweit sie während der Auflagefrist gemäß § 356a Abs\. 2 Z 1 schriftliche Einwendungen erhoben haben; die Umweltorganisationen haben das Recht, die Einhaltung von Umweltschutzvorschriften im Verfahren geltend zu machen und Rechtsmittel zu ergreifen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-356b-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=356b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_251_TextContainer_251) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-356b-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-356b-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=356b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_251_TextContainer_251) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-356b-gewo) \]
 
 ----
 
@@ -5840,7 +5840,7 @@
 
 > Liegen von mehr als 20 Personen im wesentlichen gleichgerichtete Einwendungen vor, so kann ihnen die Behörde den Auftrag erteilen, innerhalb einer gleichzeitig zu bestimmenden, angemessenen, mindestens aber zweiwöchigen Frist, einen gemeinsamen Zustellbevollmächtigten namhaft zu machen\. Kommen die Nachbarn diesem Auftrag nicht fristgerecht nach, so hat die Behörde von Amts wegen einen gemeinsamen Zustellbevollmächtigten zu bestellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-356c-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=356c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_252_TextContainer_252) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-356c-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-356c-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=356c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_252_TextContainer_252) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-356c-gewo) \]
 
 ----
 
@@ -5848,7 +5848,7 @@
 
 > Im Fall der Festlegung weniger strenger Emissionsgrenzwerte im Sinne des § 77b Abs\. 3 in einem Anpassungsverfahren gemäß § 81b sind die §§ 77a Abs\. 7 bis 9, § 356a und § 356b Abs\. 7 anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-356d-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=356d) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_253_TextContainer_253) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-356d-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-356d-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=356d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_253_TextContainer_253) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-356d-gewo) \]
 
 ----
 
@@ -5858,7 +5858,7 @@
 
 > `(2)` Mit dem Erlöschen der Generalgenehmigung erlischt auch die Spezialgenehmigung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-356e-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=356e) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_254_TextContainer_254) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-356e-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-356e-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=356e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_254_TextContainer_254) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-356e-gewo) \]
 
 ----
 
@@ -5866,7 +5866,7 @@
 
 > Werden von Nachbarn privatrechtliche Einwendungen gegen die Anlage vorgebracht, so hat der Verhandlungsleiter auf eine Einigung hinzuwirken; die etwa herbeigeführte Einigung ist in der Niederschrift über die Verhandlung zu beurkunden\. Im übrigen ist der Nachbar mit solchen Vorbringen auf den Zivilrechtsweg zu verweisen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-357-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=357) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_255_TextContainer_255) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-357-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-357-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=357) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_255_TextContainer_255) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-357-gewo) \]
 
 ----
 
@@ -5878,7 +5878,7 @@
 
 > `(3)` Abs\. 1 ist sinngemäß anzuwenden, wenn der Inhaber einer gewerblichen Betriebsanlage die Feststellung beantragt, ob eine gemäß § 82 Abs\. 1 erlassene Verordnung oder der Abschnitt 8a betreffend die Beherrschung der Gefahren schwerer Unfälle mit gefährlichen Stoffen auf seine Betriebsanlage anzuwenden ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-358-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=358) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_256_TextContainer_256) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-358-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-358-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=358) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_256_TextContainer_256) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-358-gewo) \]
 
 ----
 
@@ -5894,7 +5894,7 @@
 
 > `(5)` Für Bescheide, mit denen gemäß § 79c Abs\. 2 Abweichungen vom Genehmigungsbescheid einschließlich seiner Bestandteile zugelassen werden, gelten die Abs\. 2 bis 4 sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-359-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=359) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_257_TextContainer_257) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-359-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-359-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=359) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_257_TextContainer_257) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-359-gewo) \]
 
 ----
 
@@ -5904,7 +5904,7 @@
 
 > `(2)` Soweit dieses Bundesgesetz nicht anderes bestimmt, haben die Verwaltungsgerichte der Länder in Verfahren betreffend Betriebsanlagen längstens binnen vier Monaten nach Einlangen der Beschwerde zu entscheiden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-359a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=359a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_258_TextContainer_258) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-359a-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-359a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=359a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_258_TextContainer_258) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-359a-gewo) \]
 
 ----
 
@@ -5932,7 +5932,7 @@
 
 > `(6)` Der Bundesminister für Wissenschaft, Forschung und Wirtschaft hat im Einvernehmen mit dem Bundesminister für Land\- und Forstwirtschaft, Umwelt und Wasserwirtschaft durch Verordnung jene Arten von Betriebsanlagen zu bezeichnen, die aus Gründen des vorsorgenden Umweltschutzes jedenfalls nicht dem vereinfachten Genehmigungsverfahren zu unterziehen sind, auch wenn im Einzelfall eine derartige Anlage die Voraussetzungen für die Anwendung des vereinfachten Genehmigungsverfahrens erfüllt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-359b-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=359b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_259_TextContainer_259) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-359b-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-359b-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=359b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_259_TextContainer_259) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-359b-gewo) \]
 
 ----
 
@@ -5940,7 +5940,7 @@
 
 > Wird ein Genehmigungsbescheid vom Verwaltungsgerichtshof aufgehoben, so darf der Genehmigungswerber die betreffende Anlage bis zur Rechtskraft des Ersatzbescheides, längstens jedoch ein Jahr, weiter betreiben, wenn er die Anlage entsprechend dem aufgehobenen Genehmigungsbescheid betreibt\. Das gilt nicht, wenn der Verwaltungsgerichtshof der Revision, die zur Aufhebung des Genehmigungsbescheides führte, die aufschiebende Wirkung zuerkannt hatte\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-359c-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=359c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_260_TextContainer_260) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-359c-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-359c-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=359c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_260_TextContainer_260) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-359c-gewo) \]
 
 ----
 
@@ -5966,7 +5966,7 @@
 
 > `(6)` Liegen die Voraussetzungen für die Erlassung eines Bescheides gemäß Abs\. 1 zweiter Satz, 2, 3 oder 4 nicht mehr vor und ist zu erwarten, daß in Hinkunft jene gewerberechtlichen Vorschriften, deren Nichteinhaltung für die Maßnahmen nach Abs\. 1 zweiter Satz, 2, 3 oder 4 bestimmend war, von der Person eingehalten werden, die die gewerbliche Tätigkeit ausüben oder die Betriebsanlage betreiben will, so hat die Behörde auf Antrag dieser Person die mit Bescheid gemäß Abs\. 1 zweiter Satz, 2, 3 oder 4 getroffenen Maßnahmen ehestens zu widerrufen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-360-gewo--j-einstweilige-zwangs--und-sicherheitsmaßnahmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=360) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_261_TextContainer_261) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-360-gewo--j-einstweilige-zwangs--und-sicherheitsmaßnahmen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-360-gewo--j-einstweilige-zwangs--und-sicherheitsmaßnahmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=360) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_261_TextContainer_261) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-360-gewo--j-einstweilige-zwangs--und-sicherheitsmaßnahmen) \]
 
 ----
 
@@ -6014,7 +6014,7 @@
 >
 >> `3.` durch Übermittlung einer jährlichen Zusammenfassung von Informationen über alle gemäß § 366c verhängten Verwaltungssanktionen und anderen Maßnahmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-360a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=360a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_262_TextContainer_262) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-360a-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-360a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=360a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_262_TextContainer_262) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-360a-gewo) \]
 
 ----
 
@@ -6026,7 +6026,7 @@
 
 > `(3)` Gegen Maßnahmen gemäß § 91 Abs\. 1 steht das Recht der Beschwerde sowohl dem Gewerbeinhaber als auch dem Geschäftsführer oder Filialgeschäftsführer zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-361-gewo--k-verfahren-bei-entziehung-der-gewerbeberechtigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=361) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_263_TextContainer_263) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-361-gewo--k-verfahren-bei-entziehung-der-gewerbeberechtigung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-361-gewo--k-verfahren-bei-entziehung-der-gewerbeberechtigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=361) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_263_TextContainer_263) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-361-gewo--k-verfahren-bei-entziehung-der-gewerbeberechtigung) \]
 
 ----
 
@@ -6034,7 +6034,7 @@
 
 > Die Wiederaufnahme eines auf Grund dieses Bundesgesetzes durchgeführten Verfahrens von Amts wegen gemäß § 69 Abs\. 1 Z 2 AVG ist nur dann zulässig, wenn die neu hervorgekommenen Tatsachen oder Beweismittel den Mangel einer gesetzlichen Voraussetzung betreffen, der noch fortdauert\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-362-gewo--l-wiederaufnahme-des-verfahrens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=362) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_264_TextContainer_264) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-362-gewo--l-wiederaufnahme-des-verfahrens) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-362-gewo--l-wiederaufnahme-des-verfahrens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=362) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_264_TextContainer_264) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-362-gewo--l-wiederaufnahme-des-verfahrens) \]
 
 ----
 
@@ -6070,7 +6070,7 @@
 >
 > &nbsp; Bis zum Eintritt der Rechtskraft des Löschungsbescheides darf das Gewerbe ausgeübt werden\. Im Löschungsverfahren sind die Abs\. 2 und 3 anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-363-gewo--m-nichtigerklärung-von-bescheiden-und-löschung-aus-dem-gisa) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=363) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_265_TextContainer_265) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-363-gewo--m-nichtigerklärung-von-bescheiden-und-löschung-aus-dem-gisa) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-363-gewo--m-nichtigerklärung-von-bescheiden-und-löschung-aus-dem-gisa) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=363) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_265_TextContainer_265) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-363-gewo--m-nichtigerklärung-von-bescheiden-und-löschung-aus-dem-gisa) \]
 
 ----
 
@@ -6080,7 +6080,7 @@
 >
 > *\(Beachte: zum Inkrafttreten vgl\. § 382 Abs\. 105\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-364-gewo--n-einziehung-von-ausweispapieren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=364) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_266_TextContainer_266) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-364-gewo--n-einziehung-von-ausweispapieren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-364-gewo--n-einziehung-von-ausweispapieren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=364) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_266_TextContainer_266) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-364-gewo--n-einziehung-von-ausweispapieren) \]
 
 ----
 
@@ -6092,7 +6092,7 @@
 
 > `(3)` Die Stadt Wien übt die Funktion des Auftragsverarbeiters gemäß Art\. 4 Z 8 DSGVO aus\. Sie ist in dieser Funktion verpflichtet, die Datenschutzpflichten gemäß Art\. 28 Abs\. 3 DSGVO wahrzunehmen\. Der Bundesminister für Digitalisierung und Wirtschaftsstandort hat unbeschadet des Rechts der betroffenen Person auf Auskunft nach Art\. 15 DSGVO jeder betroffenen Person sowie bei Anfragen von Behörden auf Antrag binnen zwölf Wochen alle Auskünfte zu geben, die notwendig sind, um den für die Verarbeitung ihrer Daten im Gewerbeinformationssystem Austria Verantwortlichen festzustellen\. Sie trifft überdies die Verantwortung für die Umsetzung geeigneter technischer und organisatorischer Maßnahmen zur Gewährleistung der Datensicherheit\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365-gewo--o-gewerbeinformationssystem-austria--gisa) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_267_TextContainer_267) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-365-gewo--o-gewerbeinformationssystem-austria--gisa) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365-gewo--o-gewerbeinformationssystem-austria--gisa) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_267_TextContainer_267) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-365-gewo--o-gewerbeinformationssystem-austria--gisa) \]
 
 ----
 
@@ -6218,7 +6218,7 @@
 >
 > &nbsp; Der Bundesminister für Inneres ist verpflichtet, dem Bundesminister für Wissenschaft, Forschung und Wirtschaft zum Zweck des Aufbaus und der Führung von GISA in geeigneter elektronischer Form aus dem Zentralen Melderegister einmal die in Z 2 genannten Daten über natürliche Personen, die gemäß Abs\. 1 und Abs\. 2 Z 10 und gemäß § 365b Abs\. 2 Z 3 in das GISA einzutragen sind und für die ein bPK berechnet worden ist, zu übermitteln\. Danach ist der Änderungsdienst gemäß § 16c Meldegesetz zu verwenden, wobei die Kosten im Einvernehmen zwischen dem Bundesminister für Inneres und dem Bundesminister für Wissenschaft, Forschung und Wirtschaft vereinbart werden\. Steht zum Zeitpunkt der Inbetriebnahme von GISA der Änderungsdienst noch nicht zur Verfügung, hat der Bundesminister für Inneres dem Bundesminister für Wissenschaft, Forschung und Wirtschaft vor Inanspruchnahme des Änderungsdienstes die in Z 2 genannten Daten über natürliche Personen, die gemäß Abs\. 1 und Abs\. 2 Z 10 und gemäß § 365b Abs\. 2 Z 3 in das GISA einzutragen sind und für die ein bPK berechnet worden ist, aktualisiert in geeigneter elektronischer Form aus dem Zentralen Melderegister nochmals zu übermitteln\. Weiters ist der Bundesminister für Inneres verpflichtet, dem Bundesminister für Wissenschaft, Forschung und Wirtschaft ab Inbetriebnahme von GISA die Daten betreffend den Tag und Ort des Todes von natürlichen Personen, die gemäß Abs\. 1 und Abs\. 2 Z 10 und gemäß § 365b Abs\. 2 Z 3 in das GISA einzutragen sind, aus dem Zentralen Personenstandsregister zu übermitteln\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365a-gewo--daten-über-natürliche-personen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_268_TextContainer_268) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-365a-gewo--daten-über-natürliche-personen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365a-gewo--daten-über-natürliche-personen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_268_TextContainer_268) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-365a-gewo--daten-über-natürliche-personen) \]
 
 ----
 
@@ -6328,7 +6328,7 @@
 >>
 >> &nbsp; Die Behörde hat die Daten aus dem GISA am Folgetag des Endes der Wirksamkeit des Ausschlusses oder am Folgetag, nachdem der Behörde bekannt geworden ist, dass der andere Rechtsträger als die natürliche Person rechtswirksam nicht mehr besteht, zu löschen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365b-gewo--daten-betreffend-andere-rechtsträger-als-natürliche-personen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_269_TextContainer_269) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-365b-gewo--daten-betreffend-andere-rechtsträger-als-natürliche-personen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365b-gewo--daten-betreffend-andere-rechtsträger-als-natürliche-personen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_269_TextContainer_269) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-365b-gewo--daten-betreffend-andere-rechtsträger-als-natürliche-personen) \]
 
 ----
 
@@ -6358,7 +6358,7 @@
 >
 >> `5.` Auszug eines Gewerbeberechtigung aus dem GISA, welche über die in Z 1 genannten Informationen auch Informationen gemäß § 365e Abs\. 1 zweiter Satz enthält, für deren Erteilung der Auskunftswerber ein berechtigtes Interesse an der Auskunft glaubhaft zu machen hat, wobei Informationen, die zum Zeitpunkt der Erstellung des Auszuges nicht mehr aufrecht gültig sind, als historische Information deutlich als historisch hervorzuheben sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365c-gewo--auszüge-aus-dem-gisa) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_270_TextContainer_270) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-365c-gewo--auszüge-aus-dem-gisa) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365c-gewo--auszüge-aus-dem-gisa) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_270_TextContainer_270) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-365c-gewo--auszüge-aus-dem-gisa) \]
 
 ----
 
@@ -6378,7 +6378,7 @@
 >
 >> `6.` die Zahlungsmodalitäten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365d-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365d) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_271_TextContainer_271) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-365d-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365d-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_271_TextContainer_271) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-365d-gewo) \]
 
 ----
 
@@ -6393,7 +6393,7 @@
 > `(4)` Die in § 365a Abs\. 1, § 365b Abs\. 1 und in § 365d Z 1 und Z 3 bis 6 genannten Daten des GISA sind durch das Bundesministerium für Digitalisierung und Wirtschaftsstandort im Internet zur Abfrage unentgeltlich bereitzustellen\. Zusätzlich wird über die Daten nach Maßgabe der vorhandenen technischen Möglichkeiten auch auf telefonische oder schriftliche oder automationsunterstützte oder jede andere Art der Anfrage hin unentgeltlich Auskunft erteilt\.
 > *\(Anm\.: Abs\. 5 aufgehoben durch Z 22, BGBl\. I Nr\. 94/2017\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365e-gewo--erteilung-von-auskünften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365e) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_272_TextContainer_272) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-365e-gewo--erteilung-von-auskünften) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365e-gewo--erteilung-von-auskünften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_272_TextContainer_272) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-365e-gewo--erteilung-von-auskünften) \]
 
 ----
 
@@ -6413,7 +6413,7 @@
 
 > `(5)` Die Behörden, die Wirtschaftskammer Österreich und die Empfänger von gemäß Abs\. 4 zu übermittelnden Daten sind nach Maßgabe der technischen und personellen Möglichkeiten zur Abfrage der in das GISA einzutragenden Daten mittels automationsunterstützter Datenübermittlung befugt\. Ebenso sind die Sicherheitsbehörden zur Erfüllung ihrer Aufgaben im Rahmen der Sicherheitsverwaltung und der Tätigkeit im Dienste der Strafrechtspflege nach Maßgabe der technischen und personellen Möglichkeiten zur Abfrage der in das GISA einzutragenden Daten mittels automationsunterstützter Datenübermittlung ermächtigt\. Weiters ist die Bundesarbeitskammer nach Maßgabe der technischen und personellen Möglichkeiten zur Abfrage der in das GISA einzutragenden Daten mittels automationsunterstützter Datenübermittlung ermächtigt, soweit dies zur Wahrnehmung der den Kammern für Arbeiter und Angestellte und der Bundesarbeitskammer gesetzlich übertragenen Aufgaben eine wesentliche Voraussetzung bildet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365f-gewo--übermittlung-und-abfrage-von-daten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365f) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_273_TextContainer_273) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-365f-gewo--übermittlung-und-abfrage-von-daten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365f-gewo--übermittlung-und-abfrage-von-daten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_273_TextContainer_273) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-365f-gewo--übermittlung-und-abfrage-von-daten) \]
 
 ----
 
@@ -6421,7 +6421,7 @@
 
 > Die Gerichte haben der Behörde Abfragen aus dem Firmenbuch mittels automationsunterstützter Datenverarbeitung zu ermöglichen\. Die zur Bearbeitung des GISA erforderlichen Daten sind dem GISA auf automationsunterstütztem Weg zur Verfügung zu stellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365g-gewo--daten-aus-dem-firmenbuch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365g) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_274_TextContainer_274) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-365g-gewo--daten-aus-dem-firmenbuch) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365g-gewo--daten-aus-dem-firmenbuch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_274_TextContainer_274) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-365g-gewo--daten-aus-dem-firmenbuch) \]
 
 ----
 
@@ -6439,7 +6439,7 @@
 >
 > &nbsp; Sofern diese Stellen entscheiden, daß die betroffenen Produkte, Maschinen, Geräte, Ausrüstungen oder deren Teile oder Zubehör die vorgeschriebenen Sicherheitsanforderungen nicht erfüllen, hat der Bundesminister für wirtschaftliche Angelegenheiten diese Entscheidung auf geeignete Weise kundzumachen und geeignete Vorkehrungen zu treffen, um deren Inverkehrbringen zu verhindern und gegebenenfalls eine Nachrüstung oder Behebung des Mangels bei bereits in Verkehr gebrachten betroffenen Produkten, Maschinen, Geräten, Ausrüstungen oder deren Teilen oder Zubehör, allenfalls auch durch deren Rückruf, vorzuschreiben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365i-gewo--p-schutzklauselverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365i) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_275_TextContainer_275) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-365i-gewo--p-schutzklauselverfahren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365i-gewo--p-schutzklauselverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365i) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_275_TextContainer_275) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-365i-gewo--p-schutzklauselverfahren) \]
 
 ----
 
@@ -6447,7 +6447,7 @@
 
 > Wenn auf Grund einer amtswegigen oder über Antrag vorgenommenen Prüfung festgestellt wird, daß die einschlägigen harmonisierten Europäischen Normen nicht oder nicht zur Gänze den grundlegenden Sicherheitsanforderungen einer Verordnung gemäß § 69 Abs\. 1 oder § 71 Abs\. 4 entsprechen, so hat der Bundesminister für wirtschaftliche Angelegenheiten die jeweils auf Grund der internationalen Verträge eingesetzten Stellen oder Ausschüsse unter Darlegung der Gründe zu befassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365j-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365j) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_276_TextContainer_276) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-365j-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365j-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365j) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_276_TextContainer_276) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-365j-gewo) \]
 
 ----
 
@@ -6455,7 +6455,7 @@
 
 > Sofern in Verordnungen auf Grund des § 69 Abs\. 1 oder § 71 vorgesehen ist, daß zugelassene Stellen \(Zertifizierungsstellen, Prüfstellen, Überwachungsstellen\) im Verfahren betreffend die Übereinstimmungserklärung mitwirken \(wie Baumusterprüfung, Geräteprüfung, Einzelprüfung\) und nach Durchführen dieser Prüfungen feststellen, daß das Produkt, die Maschine, das Gerät oder die Ausrüstung sowie ihre Teile und ihr Zubehör den zutreffenden grundlegenden Sicherheitsanforderungen oder Normen nicht oder nicht mehr entsprechen, haben sie unverzüglich den Bundesminister für wirtschaftliche Angelegenheiten zu befassen\. Der Bundesminister für wirtschaftliche Angelegenheiten hat entsprechend § 365i Abs\. 2 vorzugehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365k-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365k) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_277_TextContainer_277) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-365k-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365k-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365k) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_277_TextContainer_277) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.016.md#-365k-gewo) \]
 
 ----
 
@@ -6465,7 +6465,7 @@
 
 > Die §§ 365m1 bis 365z dienen der Umsetzung der Richtlinie \(EU\) 2015/849 zur Verhinderung der Nutzung des Finanzsystems zum Zwecke der Geldwäsche und der Terrorismusfinanzierung, zur Änderung der Verordnung \(EU\) Nr\. 648/2012 und zur Aufhebung der Richtlinie 2005/60/EG und der Richtlinie 2006/70/EG, ABl\. Nr\. L 141 vom 05\.06\.2015 S\. 73 in der Fassung der Richtlinie \(EU\) 2018/843 zur Änderung der Richtlinie \(EU\) 2015/849 zur Verhinderung der Nutzung des Finanzsystems zum Zwecke der Geldwäsche und der Terrorismusfinanzierung und zur Änderung der Richtlinien 2009/138/EG und 2013/36/EU, ABl\. Nr\. L 156 vom 19\.06\.2018 S\. 43 \(„Geldwäsche\-RL“\) sowie im Sinne der Erwägungsgründe der genannten Richtlinien auch der Empfehlungen der Arbeitsgruppe „Financial Action Task Force“ \(FATF\) auf dem Gebiet der Bekämpfung der Geldwäsche und der Terrorismusfinanzierung\. Die Behörde hat die Einhaltung der Vorschriften dieses Bundesgesetzes durch Gewerbetreibende im Sinne des § 365m1 mit dem Ziel zu überwachen, die Nutzung des Finanzsystems zum Zwecke der Geldwäscherei und der Terrorismusfinanzierung sowie der Nichtumsetzung und Umgehung gezielter finanzieller Sanktionen im Zusammenhang mit Proliferationsfinanzierung zu verhindern\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365m-gewo--ziel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365m) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_278_TextContainer_278) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365m-gewo--ziel) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365m-gewo--ziel) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365m) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_278_TextContainer_278) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365m-gewo--ziel) \]
 
 ----
 
@@ -6559,7 +6559,7 @@
 >
 > *Anm\. 1: Z 10 der Novelle BGBl\. I Nr\. 65/2020 lautet: „In § 365m1 Abs\. 1 Z 1 und Z 3 und Abs\. 6 Z 1, … wird jeweils der Ausdruck „4\. Geldwäsche\-RL“ durch den Ausdruck „Geldwäsche\-RL“ ersetzt\.“\. In § 365m1 Abs\. 6 steht der zu ersetzende Ausdruck nicht in Z 1 sondern im Schlussteil des Absatzes\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365m1-gewo--allgemeines) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365m1) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_279_TextContainer_279) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365m1-gewo--allgemeines) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365m1-gewo--allgemeines) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365m1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_279_TextContainer_279) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365m1-gewo--allgemeines) \]
 
 ----
 
@@ -6622,7 +6622,7 @@
 >
 >> `13.` „gezielte finanzielle Sanktionen im Zusammenhang mit Proliferationsfinanzierung“ die unter Z 12 genannten gezielten finanziellen Sanktionen, die gemäß dem Beschluss \(GASP\) 2016/849 und dem Beschluss 2010/413/GASP sowie gemäß der Verordnung \(EU\) 2017/1509 über restriktive Maßnahmen gegen die Demokratische Volksrepublik Korea und zur Aufhebung der Verordnung \(EG\) Nr\. 329/2007, ABl\. Nr\. L 224 vom 31\. 8\. 2017 S\. 1 verhängt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365n-gewo--definitionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365n) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_280_TextContainer_280) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365n-gewo--definitionen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365n-gewo--definitionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365n) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_280_TextContainer_280) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365n-gewo--definitionen) \]
 
 ----
 
@@ -6640,7 +6640,7 @@
 >
 >> `2.` eine unabhängige Prüfung, die die unter Z 1 genannten internen Strategien, Kontrollen und Verfahren testet, sofern dies im Hinblick auf Art und Umfang der Geschäftstätigkeit angemessen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365n1-gewo--risikobewertung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365n1) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_281_TextContainer_281) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365n1-gewo--risikobewertung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365n1-gewo--risikobewertung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365n1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_281_TextContainer_281) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365n1-gewo--risikobewertung) \]
 
 ----
 
@@ -6662,7 +6662,7 @@
 >
 >> `5.` bei Zweifeln an der Echtheit oder der Angemessenheit von Kundenidentifikationsdaten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365o-gewo--allgemeine-sorgfaltspflichten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365o) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_282_TextContainer_282) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365o-gewo--allgemeine-sorgfaltspflichten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365o-gewo--allgemeine-sorgfaltspflichten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365o) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_282_TextContainer_282) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365o-gewo--allgemeine-sorgfaltspflichten) \]
 
 ----
 
@@ -6704,7 +6704,7 @@
 
 > `(7)` Sofern der Gewerbetreibende nicht in der Lage ist, Abs\. 1 Z 1 bis 4 nachzukommen, ist er verpflichtet, keine Transaktion über ein Bankkonto abzuwickeln, keine Geschäftsbeziehung zu begründen, keine Transaktion abzuwickeln oder eine Geschäftsbeziehung zu beenden\. Weiters hat er die Notwendigkeit einer Verdachtsmeldung an die Geldwäschemeldestelle gemäß § 365t Abs\. 1 Z 1 zu prüfen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365p-gewo--sorgfaltspflichten-gegenüber-kunden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365p) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_283_TextContainer_283) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365p-gewo--sorgfaltspflichten-gegenüber-kunden) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365p-gewo--sorgfaltspflichten-gegenüber-kunden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365p) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_283_TextContainer_283) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365p-gewo--sorgfaltspflichten-gegenüber-kunden) \]
 
 ----
 
@@ -6714,7 +6714,7 @@
 
 > `(2)` Die Überprüfung der Identität des Kunden und des wirtschaftlichen Eigentümers darf entgegen Abs\. 1 auch erst während der Begründung einer Geschäftsbeziehung abgeschlossen werden, wenn dies notwendig ist, um den normalen Geschäftsablauf nicht zu unterbrechen und nur ein geringes Risiko der Geldwäsche oder der Terrorismusfinanzierung besteht\. In diesem Fall haben die betreffenden Identifikationsverfahren möglichst bald nach dem ersten Kontakt abgeschlossen zu werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365q-gewo--zeitpunkt-der-identitätsfeststellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365q) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_284_TextContainer_284) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365q-gewo--zeitpunkt-der-identitätsfeststellung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365q-gewo--zeitpunkt-der-identitätsfeststellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365q) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_284_TextContainer_284) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365q-gewo--zeitpunkt-der-identitätsfeststellung) \]
 
 ----
 
@@ -6730,7 +6730,7 @@
 
 > `(5)` Der Bundesminister für Wissenschaft, Forschung und Wirtschaft ist ermächtigt, aufgrund einer Risikoanalyse, die insbesondere auf Grundlage der gemäß § 365v Abs\. 3 vorliegenden Daten erfolgt, durch Verordnung für bestimmte Arten von Kunden, geografische Gebiete und für bestimmte Produkte, Dienstleistungen, Transaktionen oder Vertriebskanäle vereinfachte Sorgfaltspflichten festzulegen\. Dabei sind zumindest die in Anlage 7 dargelegten Faktoren für ein potenziell geringes Risiko und von den Europäischen Aufsichtsbehörden gegebene Leitlinien zu berücksichtigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365r-gewo--vereinfachte-sorgfaltspflichten-gegenüber-kunden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365r) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_285_TextContainer_285) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365r-gewo--vereinfachte-sorgfaltspflichten-gegenüber-kunden) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365r-gewo--vereinfachte-sorgfaltspflichten-gegenüber-kunden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365r) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_285_TextContainer_285) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365r-gewo--vereinfachte-sorgfaltspflichten-gegenüber-kunden) \]
 
 ----
 
@@ -6800,7 +6800,7 @@
 
 > `(12)` Der Bundesminister für Digitalisierung und Wirtschaftsstandort hat die Europäische Kommission vor dem Erlass der in Abs\. 9 und Abs\. 10 genannten Maßnahmen zu informieren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365s-gewo--verstärkte-sorgfaltspflichten-gegenüber-kunden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365s) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_286_TextContainer_286) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365s-gewo--verstärkte-sorgfaltspflichten-gegenüber-kunden) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365s-gewo--verstärkte-sorgfaltspflichten-gegenüber-kunden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365s) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_286_TextContainer_286) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365s-gewo--verstärkte-sorgfaltspflichten-gegenüber-kunden) \]
 
 ----
 
@@ -6822,7 +6822,7 @@
 
 > `(5)` § 14 und § 15 FM\-GwG gelten sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365s1-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365s1) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_287_TextContainer_287) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365s1-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365s1-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365s1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_287_TextContainer_287) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365s1-gewo) \]
 
 ----
 
@@ -6842,7 +6842,7 @@
 
 > `(3)` Zur Verhinderung oder zur Verfolgung von Geldwäsche oder von Terrorismusfinanzierung ist die Geldwäschemeldestelle ermächtigt, die erforderlichen Daten von natürlichen und juristischen Personen sowie von sonstigen Einrichtungen mit Rechtspersönlichkeit zu ermitteln und gemeinsam mit Daten, die sie in Vollziehung von Bundes\- oder Landesgesetzen verarbeitet hat, in einer Datenanwendung zu verarbeiten, soweit diese den Betroffenenkreisen und Datenarten der Anlage 1, SA037 der Standard und Muster\-Verordnung 2004 – StMV, BGBl\. II Nr\. 312/2004, entsprechen\. Die Daten sind zu löschen, sobald sie für die Erfüllung der Aufgaben nicht mehr benötigt werden, längstens jedoch nach fünf Jahren\. Übermittlungen sind nach Maßgabe des § 4 Abs\. 2 Z 1 und 2 BKA\-G zulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365t-gewo--allgemeine-meldepflichten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365t) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_288_TextContainer_288) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365t-gewo--allgemeine-meldepflichten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365t-gewo--allgemeine-meldepflichten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365t) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_288_TextContainer_288) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365t-gewo--allgemeine-meldepflichten) \]
 
 ----
 
@@ -6872,7 +6872,7 @@
 
 > `(7)` Der Gewerbetreibende darf keine anonymen Geschäftsbeziehungen begründen\. Versicherungsvermittler dürfen darüber hinaus auch keine anonymen Konten führen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365u-gewo--durchführung-von-transaktionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365u) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_289_TextContainer_289) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365u-gewo--durchführung-von-transaktionen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365u-gewo--durchführung-von-transaktionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365u) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_289_TextContainer_289) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365u-gewo--durchführung-von-transaktionen) \]
 
 ----
 
@@ -6883,7 +6883,7 @@
 > `(2)` Die Behörde kann Auskunftsersuchen, die auf Belangen im Zusammenhang mit Geldwäsche, damit im Zusammenhang stehenden Vortaten oder Terrorismusfinanzierung beruhen, an die Geldwäschemeldestelle richten\. Die Behörde hat der Geldwäschemeldestelle Rückmeldung über die Verwendung der von dieser bereitgestellten Informationen und die Ergebnisse der auf Grundlage derselben durchgeführten Ermittlungen oder Prüfungen zu geben\.
 > *\(Anm\.: Abs\. 3 aufgehoben durch Z 29, BGBl\. I Nr\. 65/2020\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365v-gewo--unterrichtung-der-geldwäschemeldestelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365v) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_290_TextContainer_290) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365v-gewo--unterrichtung-der-geldwäschemeldestelle) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365v-gewo--unterrichtung-der-geldwäschemeldestelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365v) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_290_TextContainer_290) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365v-gewo--unterrichtung-der-geldwäschemeldestelle) \]
 
 ----
 
@@ -6895,7 +6895,7 @@
 
 > `(3)` Bei Versicherungsvermittlern \(§ 365m1 Abs\. 2 Z 4\) steht das Verbot nach Abs\. 1 in Fällen, die sich auf denselben Kunden und dieselbe Transaktion beziehen und an denen zwei oder mehr Versicherungsvermittler \(§ 365m1 Abs\. 2 Z 4\) beteiligt sind, einer Informationsweitergabe zwischen diesen nicht entgegen\. Dies setzt voraus, dass es sich bei diesen um Versicherungsvermittler \(§ 365m1 Abs\. 2 Z 4\) aus einem Mitgliedstaat oder um Einrichtungen in einem Drittland, in dem den Regelungen der Geldwäsche\-RL gleichwertige Anforderungen gelten, handelt und sie derselben Berufskategorie angehören und gleichwertigen Verpflichtungen in Bezug auf das Berufsgeheimnis und den Schutz personenbezogener Daten unterliegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365w-gewo--verbot-der-informationsweitergabe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365w) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_291_TextContainer_291) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365w-gewo--verbot-der-informationsweitergabe) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365w-gewo--verbot-der-informationsweitergabe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365w) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_291_TextContainer_291) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365w-gewo--verbot-der-informationsweitergabe) \]
 
 ----
 
@@ -6945,7 +6945,7 @@
 
 > `(11)` Um die wirksame Zusammenarbeit und insbesondere den Informationsaustausch zu erleichtern und zu fördern, hat der Bundesminister für Digitalisierung und Wirtschaftsstandort der Europäischen Kommission die Liste der zuständigen Behörden einschließlich ihrer Kontaktdaten zu übermitteln und dafür Sorge zu tragen, dass die der Kommission übermittelten Informationen auf dem neuesten Stand gehalten werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365y-gewo--datenschutz-aufbewahrung-von-aufzeichnungen-und-statistische-daten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365y) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_292_TextContainer_292) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365y-gewo--datenschutz-aufbewahrung-von-aufzeichnungen-und-statistische-daten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365y-gewo--datenschutz-aufbewahrung-von-aufzeichnungen-und-statistische-daten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365y) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_292_TextContainer_292) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365y-gewo--datenschutz-aufbewahrung-von-aufzeichnungen-und-statistische-daten) \]
 
 ----
 
@@ -6971,7 +6971,7 @@
 
 > `(9)` Die Geldwäschemeldestelle hat dem Gewerbetreibenden eine zeitnahe Rückmeldung in Bezug auf die Wirksamkeit von Verdachtsmeldungen bei Geldwäsche oder Terrorismusfinanzierung und die daraufhin getroffenen Maßnahmen zu geben, soweit dies praktikabel ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365z-gewo--interne-verfahren-schulungen-und-rückmeldung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365z) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_293_TextContainer_293) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365z-gewo--interne-verfahren-schulungen-und-rückmeldung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365z-gewo--interne-verfahren-schulungen-und-rückmeldung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365z) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_293_TextContainer_293) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365z-gewo--interne-verfahren-schulungen-und-rückmeldung) \]
 
 ----
 
@@ -6981,7 +6981,7 @@
 
 > `(2)` Das Bundesministerium für Wirtschaft und Arbeit hat bei der Beilegung grenzüberschreitender Streitigkeiten mit vergleichbaren Stellen anderer Mitgliedstaaten zusammenzuarbeiten und die grenzüberschreitende Zusammenarbeit anderer Beschwerde\- und Schlichtungsstellen zu fördern\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365z1-gewo--s-beschwerden-in-versicherungsvermittlungsangelegenheiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=365z1) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_294_TextContainer_294) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365z1-gewo--s-beschwerden-in-versicherungsvermittlungsangelegenheiten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-365z1-gewo--s-beschwerden-in-versicherungsvermittlungsangelegenheiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=365z1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_294_TextContainer_294) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.017.md#-365z1-gewo--s-beschwerden-in-versicherungsvermittlungsangelegenheiten) \]
 
 ----
 
@@ -7017,7 +7017,7 @@
 
 > `(2)` Abs\. 1 Z 1 ist nicht anzuwenden, wenn eine Gewerbeberechtigung, die auf ein an einen Befähigungsnachweis gebundenes Gewerbe lautet, in der Form eines Industriebetriebes ausgeübt wird; desgleichen ist Abs\. 1 Z 1 nicht anzuwenden, wenn eine Gewerbeberechtigung, die auf ein in der Form eines Industriebetriebes ausgeübtes Gewerbe lautet, nicht in der Form eines Industriebetriebes ausgeübt wird, sofern in diesem Fall der Gewerbeinhaber den für diese Tätigkeit erforderlichen Befähigungsnachweis erbringt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-366-gewo--strafbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=366) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_295_TextContainer_295) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-366-gewo--strafbestimmungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-366-gewo--strafbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=366) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_295_TextContainer_295) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-366-gewo--strafbestimmungen) \]
 
 ----
 
@@ -7025,7 +7025,7 @@
 
 > Die Behörden des Bundes, die Gemeinden und die Träger der Sozialversicherung haben das Recht, der Gewerbebehörde diejenigen Daten bekanntzugeben, die für eine allfällige Entziehung der Gewerbeberechtigung \(§ 87 Abs\. 1 Z 3\) im Zusammenhang mit der rechtswidrigen Beschäftigung von Bedeutung sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-366a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=366a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_296_TextContainer_296) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-366a-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-366a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=366a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_296_TextContainer_296) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-366a-gewo) \]
 
 ----
 
@@ -7063,7 +7063,7 @@
 
 > `(8)` Die Behörde hat die Europäischen Aufsichtsbehörden über alle verwaltungsrechtlichen Sanktionen und Maßnahmen, die gemäß diesem Paragraph gegen Versicherungsvermittler \(§ 365m1 Abs\. 2 Z 4\) bei deren Tätigkeiten im Zusammenhang mit Lebensversicherungen und anderen Dienstleistungen mit Anlagezweck verhängt werden, sowie über alle diesbezüglichen Rechtsmittelverfahren und deren Ergebnisse zu informieren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-366b-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=366b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_297_TextContainer_297) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-366b-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-366b-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=366b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_297_TextContainer_297) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-366b-gewo) \]
 
 ----
 
@@ -7085,7 +7085,7 @@
 >
 > &nbsp; Umsätze, erzielte Gewinne, verhinderte Verluste sowie die sich daraus ergebenden Geldstrafen sind in Euro zu bemessen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-366c-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=366c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_298_TextContainer_298) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-366c-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-366c-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=366c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_298_TextContainer_298) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-366c-gewo) \]
 
 ----
 
@@ -7219,7 +7219,7 @@
 >
 >> `58.` den Bestimmungen der §§ 136a bis 138 zuwiderhandelt, soweit nicht § 366 Abs\. 1 Z 1 vorliegt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-367-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=367) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_299_TextContainer_299) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-367-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-367-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=367) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_299_TextContainer_299) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-367-gewo) \]
 
 ----
 
@@ -7227,7 +7227,7 @@
 
 > Eine Verwaltungsübertretung, die mit Geldstrafe von mindestens 180 Euro bis zu 3 600 Euro zu bestrafen ist, begeht, wer entgegen der Bestimmung des § 114 Alkohol ausschenkt oder abgibt oder ausschenken oder abgeben lässt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-367a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=367a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_300_TextContainer_300) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-367a-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-367a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=367a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_300_TextContainer_300) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-367a-gewo) \]
 
 ----
 
@@ -7235,7 +7235,7 @@
 
 > Eine Verwaltungsübertretung, die mit einer Geldstrafe bis zu 1 090 Euro zu bestrafen ist, begeht, wer andere als in den §§ 366, 367 und 367a genannte Gebote oder Verbote dieses Bundesgesetzes oder der auf Grund dieses Bundesgesetzes erlassenen Verordnungen oder der Bescheide, die auf Grund der Bestimmungen dieses Bundesgesetzes oder auf Grund dieses Bundesgesetzes erlassener Verordnungen ergangen sind, nicht einhält\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-368-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=368) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_301_TextContainer_301) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-368-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-368-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=368) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_301_TextContainer_301) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-368-gewo) \]
 
 ----
 
@@ -7243,7 +7243,7 @@
 
 > Der Verfall von Waren, Eintrittskarten einschließlich Anweisungen auf Eintrittskarten für Theater, Konzerte, Veranstaltungen uä\., Werkzeugen, Maschinen, Geräten, Ausrüstungen oder Transportmitteln \(§§ 10, 17 und 18 VStG\) kann ausgesprochen werden, wenn diese Gegenstände mit einer Verwaltungsübertretung nach § 366 oder nach § 367 Z 15, 16, 17, 18, 19 oder 20 im Zusammenhang stehen; bei einer Verwaltungsübertretung nach § 367 Z 15 kann auch der Verfall des Automaten, mittels dessen die Gewerbeausübung erfolgte, ausgesprochen werden\. Von der Verhängung der Strafe des Verfalles ist jedoch Abstand zu nehmen, wenn es sich um Gegenstände handelt, die der Beschuldigte zur Ausübung seines Berufes oder zur Führung seines Haushaltes benötigt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-369-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=369) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_302_TextContainer_302) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-369-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-369-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=369) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_302_TextContainer_302) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-369-gewo) \]
 
 ----
 
@@ -7269,7 +7269,7 @@
 
 > `(5)` Sofern in Staatsverträgen nicht anderes bestimmt wird, sind Strafbescheide an den gewerberechtlichen Geschäftsführer, der über keinen Wohnsitz im Inland verfügt \(§ 39 Abs\. 2a\) am Sitz des Gewerbebetriebes im Inland zuzustellen\. Ebenso ist in Fällen vorzugehen, in denen Strafbescheide mangels Vorhandenseins eines gewerberechtlichen Geschäftsführers unmittelbar an den Gewerbeinhaber beziehungsweise an dessen zur gesetzlichen Vertretung berufene Organe zuzustellen sind und diese über keinen Wohnsitz im Inland verfügen\. Den Strafbescheiden gleichgestellt sind Verfahrensanordnungen, denen kein Bescheidcharakter zukommt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-370-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=370) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_303_TextContainer_303) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-370-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-370-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=370) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_303_TextContainer_303) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-370-gewo) \]
 
 ----
 
@@ -7279,7 +7279,7 @@
 
 > `(2)` Die Bestrafung wegen einer Verwaltungsübertretung nach § 366 Abs\. 1 Z 1 schließt nicht die Bestrafung wegen bei der gemäß § 366 Abs\. 1 Z 1 strafbaren Gewerbeausübung begangener sonstiger Übertretungen von Vorschriften dieses Bundesgesetzes oder auf Grund dieses Bundesgesetzes erlassener Verordnungen aus\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-371-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=371) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_304_TextContainer_304) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-371-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-371-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=371) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_304_TextContainer_304) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-371-gewo) \]
 
 ----
 
@@ -7287,7 +7287,7 @@
 
 > Der Landeshauptmann ist berechtigt, gegen Erkenntnisse des Verwaltungsgerichtes des Landes in Verfahren nach diesem Bundesgesetz, in denen nicht der Bundesminister für Wirtschaft, Familie und Jugend belangte Behörde des Verfahrens vor dem Verwaltungsgericht ist, Revision wegen Rechtswidrigkeit an den Verwaltungsgerichtshof zu erheben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-371a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=371a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_305_TextContainer_305) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-371a-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-371a-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=371a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_305_TextContainer_305) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-371a-gewo) \]
 
 ----
 
@@ -7295,7 +7295,7 @@
 
 > Stellt die Behörde fest, dass die Tätigkeiten im Bereich freier Gewerbe das von der Gewerbelizenz umfasste Ausmaß angezeigter Gewerbe samt der dem Gewerbetreibenden zustehenden Nebenrechte überschreiten, so hat die Behörde den Gewerbetreibenden schriftlich unter Angabe des festgestellten Sachverhalts aufzufordern, innerhalb einer Frist von drei Wochen die erforderliche Anzeige zu erstatten\. Die schriftliche Aufforderung gilt als Verfolgungshandlung gemäß § 32 Abs\. 2 und 3 VStG\. Wird der schriftlichen Aufforderung innerhalb der von der Behörde festgelegten oder erstreckten Frist entsprochen, dann ist die weitere Verfolgung einer Person wegen der festgestellten überschreitenden Ausübungen, betreffend welche der den Rechtsvorschriften und behördlichen Verfügungen entsprechende Zustand hergestellt worden ist, unzulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-371b-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=371b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_306_TextContainer_306) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-371b-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-371b-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=371b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_306_TextContainer_306) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-371b-gewo) \]
 
 ----
 
@@ -7319,7 +7319,7 @@
 >
 >> `4.` Übertretungen, für welche die Verwaltungsvorschriften die Maßnahme der Entziehung der Gewerbeberechtigung vorsehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-371c-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=371c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_307_TextContainer_307) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-371c-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-371c-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=371c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_307_TextContainer_307) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-371c-gewo) \]
 
 ----
 
@@ -7329,7 +7329,7 @@
 
 > `(2)` Abs\. 1 ist nicht anzuwenden, wenn es sich um Betriebsanlagen betreffende Verwaltungsübertretungen \(§ 366 Abs\. 1 Z 2 und 3, § 367 Z 25, § 368 hinsichtlich der Anzeigen gemäß § 83 oder gemäß einer Anordnung auf Grund des § 359 Abs\. 1\) handelt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-372-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=372) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_308_TextContainer_308) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-372-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-372-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=372) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_308_TextContainer_308) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-372-gewo) \]
 
 ----
 
@@ -7337,7 +7337,7 @@
 
 > Die Bezirksverwaltungsbehörden haben den Landeskammern der gewerblichen Wirtschaft Mitteilungen darüber zu machen, welche Verfügungen über die von den Landeskammern oder deren Gliederungen erstatteten Anzeigen getroffen wurden, und den Kammern für Arbeiter und Angestellte Mitteilungen darüber zu machen, welche Verfügungen über die von ihnen erstatteten Anzeigen getroffen wurden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=373) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_309_TextContainer_309) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-373-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=373) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_309_TextContainer_309) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.018.md#-373-gewo) \]
 
 ----
 
@@ -7419,7 +7419,7 @@
 >
 >> `6.` Einzelheiten zu einem Versicherungsschutz oder einer anderen Art des individuellen oder kollektiven Schutzes in Bezug auf die Berufshaftpflicht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373a-gewo--vorübergehende-grenzüberschreitende-dienstleistung-im-rahmen-der-dienstleistungsfreiheit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=373a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_310_TextContainer_310) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.019.md#-373a-gewo--vorübergehende-grenzüberschreitende-dienstleistung-im-rahmen-der-dienstleistungsfreiheit) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373a-gewo--vorübergehende-grenzüberschreitende-dienstleistung-im-rahmen-der-dienstleistungsfreiheit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=373a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_310_TextContainer_310) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.019.md#-373a-gewo--vorübergehende-grenzüberschreitende-dienstleistung-im-rahmen-der-dienstleistungsfreiheit) \]
 
 ----
 
@@ -7439,7 +7439,7 @@
 
 > `(3)` Hinsichtlich der in den §§ 373c bis 373f angeführten Tätigkeiten und Ausbildungen können Tätigkeiten und Ausbildungen aus einem Mitgliedstaat der EU, einem Vertragsstaat des EWR oder der Schweizerischen Eidgenossenschaft oder gleichgestellte Ausbildungsnachweise gemäß Art\. 3 Abs\. 3 der RL 2005/36/EG geltend gemacht werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373b-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=373b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_311_TextContainer_311) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.019.md#-373b-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373b-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=373b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_311_TextContainer_311) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.019.md#-373b-gewo) \]
 
 ----
 
@@ -7465,7 +7465,7 @@
 
 > `(5)` Werden die in der Verordnung gemäß Abs\. 2 festgelegten Anerkennungsvoraussetzungen nicht erfüllt, kann ein Staatsangehöriger eines Mitgliedstaates der EU oder eines Vertragsstaates des EWR das Verfahren gemäß § 373d in Anspruch nehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373c-gewo--regelungen-für-die-anerkennung-von-ausbildungsnachweisen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=373c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_312_TextContainer_312) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.020.md#-373c-gewo--regelungen-für-die-anerkennung-von-ausbildungsnachweisen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373c-gewo--regelungen-für-die-anerkennung-von-ausbildungsnachweisen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=373c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_312_TextContainer_312) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.020.md#-373c-gewo--regelungen-für-die-anerkennung-von-ausbildungsnachweisen) \]
 
 ----
 
@@ -7511,7 +7511,7 @@
 
 > `(10)` Der Bundesminister für Wissenschaft, Forschung und Wirtschaft kann durch Verordnung weitere Gewerbe gemäß § 94 oder gemäß § 31 bezeichnen, für die Befähigungs\- oder Ausbildungsnachweise gemäß Abs\. 9 vorzulegen sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373d-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=373d) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_313_TextContainer_313) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.020.md#-373d-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373d-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=373d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_313_TextContainer_313) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.020.md#-373d-gewo) \]
 
 ----
 
@@ -7529,7 +7529,7 @@
 
 > `(3)` Der Bundesminister für Wirtschaft und Arbeit hat auf Antrag eine Bescheinigung darüber auszustellen, dass die inländischen Ausbildungsnachweise des Antragstellers, die zumindest zur Planung von Hochbauten nach diesem Bundesgesetz berechtigen, den in Titel III Kapitel III der Richtlinie 2005/36/EG verlangten Nachweisen für Architekten entsprechen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373e-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=373e) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_314_TextContainer_314) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.020.md#-373e-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373e-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=373e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_314_TextContainer_314) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.020.md#-373e-gewo) \]
 
 ----
 
@@ -7539,7 +7539,7 @@
 
 > `(2)` Personen, die auf Grundlage eines Verfahrens nach den §§ 373a, 373c, 373d oder 373e zur Ausübung einer reglementierten gewerblichen Tätigkeit berechtigt sind, dürfen ihre in ihrem Herkunftsmitgliedstaat bestehende rechtmäßige Ausbildungsbezeichnung und die allenfalls bestehende Abkürzung in der Sprache des Herkunftsmitgliedstaates samt Hinweis auf Name und Ort der Lehranstalt, die diese Ausbildungsbezeichnung verliehen hat, oder des Prüfungsausschusses, der diese Ausbildungsbezeichnung verliehen hat, führen\. Dies gilt jedoch im Falle der Niederlassung in Österreich nicht für das Führen einer allfälligen Berufsbezeichnung, die im Herkunftsmitgliedstaat rechtmäßig besteht\. Auf das Führen der Berufsbezeichnung „Meister“ mit Beziehung auf das entsprechende Handwerk ist § 20 anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373f-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=373f) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_315_TextContainer_315) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.020.md#-373f-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373f-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=373f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_315_TextContainer_315) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.020.md#-373f-gewo) \]
 
 ----
 
@@ -7547,7 +7547,7 @@
 
 > Hinsichtlich der inländischen Niederlassung von Finanzinstituten im Sinne des Art\. 1 Z 6 der Richtlinie 89/646/EWG aus anderen Mitgliedstaaten der EU oder des EWR, die Tätigkeiten gemäß Z 2 bis 14 des Anhanges zur genannten Richtlinie, die diesem Bundesgesetz unterliegen, ausüben, und hinsichtlich der grenzüberschreitenden Dienstleistungserbringung durch solche Finanzinstitute nach Österreich gelten die diesbezüglichen Bestimmungen des Bankwesengesetzes\. Den genannten Bestimmungen des Bankwesengesetzes entgegenstehende Bestimmungen dieses Bundesgesetzes sind nicht anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373g-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=373g) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_316_TextContainer_316) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.020.md#-373g-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373g-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=373g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_316_TextContainer_316) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.020.md#-373g-gewo) \]
 
 ----
 
@@ -7559,7 +7559,7 @@
 >
 >> `2.` zum Zweck der Niederlassung oder der Erbringung von Dienstleistungen in einem anderen Mitgliedstaat der EU oder einem anderen Vertragsstaat des EWR eine Bescheinigung über eine inländische Ausbildung oder Befähigung, die zur Ausübung einer in diesem Bundesgesetz geregelten Tätigkeit berechtigt sowie die Ausübung einer selbständigen oder unselbständigen fachlichen Tätigkeit in einem Gewerbe\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373h-gewo--ausstellung-von-bescheinigungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=373h) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_317_TextContainer_317) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.020.md#-373h-gewo--ausstellung-von-bescheinigungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373h-gewo--ausstellung-von-bescheinigungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=373h) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_317_TextContainer_317) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.020.md#-373h-gewo--ausstellung-von-bescheinigungen) \]
 
 ----
 
@@ -7581,7 +7581,7 @@
 >>
 >>> `c)` Informationen darüber, dass keine berufsbezogenen disziplinarischen oder strafrechtlichen Sanktionen vorliegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373i-gewo--verwaltungszusammenarbeit-nach-der-richtlinie-200536eg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=373i) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_318_TextContainer_318) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.020.md#-373i-gewo--verwaltungszusammenarbeit-nach-der-richtlinie-200536eg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373i-gewo--verwaltungszusammenarbeit-nach-der-richtlinie-200536eg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=373i) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_318_TextContainer_318) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.020.md#-373i-gewo--verwaltungszusammenarbeit-nach-der-richtlinie-200536eg) \]
 
 ----
 
@@ -7601,7 +7601,7 @@
 >
 >> `4.` Art und Stellung der ersuchenden zuständigen Behörde unterscheiden sich von Art und Stellung der Behörde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373i1-gewo--verwaltungszusammenarbeit-nach-der-geldwäsche-rl) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=373i1) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_319_TextContainer_319) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.020.md#-373i1-gewo--verwaltungszusammenarbeit-nach-der-geldwäsche-rl) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373i1-gewo--verwaltungszusammenarbeit-nach-der-geldwäsche-rl) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=373i1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_319_TextContainer_319) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.020.md#-373i1-gewo--verwaltungszusammenarbeit-nach-der-geldwäsche-rl) \]
 
 ----
 
@@ -7641,7 +7641,7 @@
 
 > `(7)` Ungeachtet des Abs\. 1 und des Abs\. 3 kann die Behörde Informationen mit Strafverfolgungsbehörden, den Staatsanwaltschaften und den Gerichten für strafrechtliche Zwecke und für die Zwecke der Verhinderung von Geldwäscherei und der Terrorismusfinanzierung austauschen\. Gemäß diesem Absatz ausgetauschte vertrauliche Informationen dürfen aber nur der Erfüllung der gesetzlichen Aufgaben der betreffenden Behörden dienen\. Personen, die Zugang zu diesen Informationen haben, müssen den Anforderungen an eine berufliche Geheimhaltungspflicht unterliegen, die den in Abs\. 1 genannten Anforderungen mindestens gleichwertig sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373i2-gewo--berufsgeheimnis-und-zusammenarbeit-zwischen-der-behörde-und-anderen-behörden-im-rahmen-der-bekämpfung-der-geldwäscherei-und-terrorismusfinanzierung-hinsichtlich-der-versicherungsvermittler) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=373i2) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_320_TextContainer_320) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.020.md#-373i2-gewo--berufsgeheimnis-und-zusammenarbeit-zwischen-der-behörde-und-anderen-behörden-im-rahmen-der-bekämpfung-der-geldwäscherei-und-terrorismusfinanzierung-hinsichtlich-der-versicherungsvermittler) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373i2-gewo--berufsgeheimnis-und-zusammenarbeit-zwischen-der-behörde-und-anderen-behörden-im-rahmen-der-bekämpfung-der-geldwäscherei-und-terrorismusfinanzierung-hinsichtlich-der-versicherungsvermittler) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=373i2) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_320_TextContainer_320) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.020.md#-373i2-gewo--berufsgeheimnis-und-zusammenarbeit-zwischen-der-behörde-und-anderen-behörden-im-rahmen-der-bekämpfung-der-geldwäscherei-und-terrorismusfinanzierung-hinsichtlich-der-versicherungsvermittler) \]
 
 ----
 
@@ -7665,7 +7665,7 @@
 
 > `(7)` Der Bundesminister für Digitalisierung und Wirtschaftsstandort hat der Europäischen Kommission mitzuteilen, wenn Versicherungsvermittler bei ihrer Niederlassung oder der Ausübung von Versicherungs\- oder Rückversicherungsvertriebstätigkeiten in einem Drittland auf allgemeine Schwierigkeiten stoßen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373i3-gewo--informationsaustausch-und-verwaltungszusammenarbeit-nach-der-richtlinie-über-versicherungsvertrieb-eu-201697-und-der-richtlinie-über-wohnimmobilienkreditverträge-201417eu-einschließlich-vorgehen-bei-pflichtverstößen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=373i3) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_321_TextContainer_321) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.020.md#-373i3-gewo--informationsaustausch-und-verwaltungszusammenarbeit-nach-der-richtlinie-über-versicherungsvertrieb-eu-201697-und-der-richtlinie-über-wohnimmobilienkreditverträge-201417eu-einschließlich-vorgehen-bei-pflichtverstößen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373i3-gewo--informationsaustausch-und-verwaltungszusammenarbeit-nach-der-richtlinie-über-versicherungsvertrieb-eu-201697-und-der-richtlinie-über-wohnimmobilienkreditverträge-201417eu-einschließlich-vorgehen-bei-pflichtverstößen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=373i3) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_321_TextContainer_321) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.020.md#-373i3-gewo--informationsaustausch-und-verwaltungszusammenarbeit-nach-der-richtlinie-über-versicherungsvertrieb-eu-201697-und-der-richtlinie-über-wohnimmobilienkreditverträge-201417eu-einschließlich-vorgehen-bei-pflichtverstößen) \]
 
 ----
 
@@ -7675,7 +7675,7 @@
 
 > `(2)` Der Bundesminister für Wissenschaft, Forschung und Wirtschaft kann durch Verordnung nähere Bestimmungen über das Verfahren gemäß Abs\. 1 festlegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373j-gewo--vorwarnmechanismus) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=373j) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_322_TextContainer_322) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.020.md#-373j-gewo--vorwarnmechanismus) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373j-gewo--vorwarnmechanismus) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=373j) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_322_TextContainer_322) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.020.md#-373j-gewo--vorwarnmechanismus) \]
 
 ----
 
@@ -7689,7 +7689,7 @@
 
 > `(4)` Der Bundesminister für Wissenschaft, Forschung und Wirtschaft kann durch Verordnung nähere Bestimmungen über die Verfahren gemäß Abs\. 1 und 3 festlegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373k-gewo--europäischer-berufsausweis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=373k) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_323_TextContainer_323) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.020.md#-373k-gewo--europäischer-berufsausweis) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373k-gewo--europäischer-berufsausweis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=373k) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_323_TextContainer_323) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.020.md#-373k-gewo--europäischer-berufsausweis) \]
 
 ----
 
@@ -7697,7 +7697,7 @@
 
 > Die Verbindungsstelle hat die Behörden bei Schwierigkeiten im Zuge der Verwaltungszusammenarbeit nach den §§ 373i bis 373k zu unterstützen, insbesondere wenn eine zuständige Behörde keinen Zugang zum IMI hat\. § 14 Abs\. 2, § 15 Abs\. 2, Abs\. 3 Z 1 und 3, Abs\. 5 und Abs\. 6 des Dienstleistungsgesetzes – DLG, BGBl\. I Nr\. 100/2011, sind anzuwenden\. Verbindungsstelle ist der örtlich zuständige Landeshauptmann\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373l-gewo--verbindungsstelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=373l) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_324_TextContainer_324) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.020.md#-373l-gewo--verbindungsstelle) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-373l-gewo--verbindungsstelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=373l) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_324_TextContainer_324) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.020.md#-373l-gewo--verbindungsstelle) \]
 
 ----
 
@@ -7707,7 +7707,7 @@
 
 > § 374 entfällt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-374-gewo--übergangsbestimmungen-und-vollziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=374) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_325_TextContainer_325) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.021.md#-374-gewo--übergangsbestimmungen-und-vollziehung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-374-gewo--übergangsbestimmungen-und-vollziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=374) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_325_TextContainer_325) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.021.md#-374-gewo--übergangsbestimmungen-und-vollziehung) \]
 
 ----
 
@@ -7873,7 +7873,7 @@
 
 > `(4)` Bis zu einer entsprechenden Neuregelung im Gelegenheitsverkehrs\-Gesetz 1996 und im Güterbeförderungsgesetz 1995 gelten die Bestimmungen der Gewerbeordnung 1994 in der Fassung vor dem In\-Kraft\-Treten des Bundesgesetzes BGBl\. I Nr\. 111/2002, weiter\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-375-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=375) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_326_TextContainer_326) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.022.md#-375-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-375-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=375) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_326_TextContainer_326) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.022.md#-375-gewo) \]
 
 ----
 
@@ -8352,7 +8352,7 @@
 >
 > *\(Beachte: Z 72 idF BGBl\. I Nr\. 171/2022: zum Inkrafttreten vgl\. § 382 Abs\. 105\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-376-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=376) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_327_TextContainer_327) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.022.md#-376-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-376-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=376) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_327_TextContainer_327) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.022.md#-376-gewo) \]
 
 ----
 
@@ -8378,7 +8378,7 @@
 
 > `(10)` Wer ein Gewerbe gemäß Abs\. 1 und 3 in der Fassung der Gewerbeordnung 1973, BGBl\. Nr\. 50/1974, ausübt, ohne selbst oder durch einen von ihm bestellten Geschäftsführer den erforderlichen Befähigungsnachweis zu erbringen, begeht eine Verwaltungsübertretung, die mit einer Geldstrafe bis zu 2 180 € zu ahnden ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-377-gewo--realgewerbe-und-dominikalgewerbe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=377) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_328_TextContainer_328) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.022.md#-377-gewo--realgewerbe-und-dominikalgewerbe) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-377-gewo--realgewerbe-und-dominikalgewerbe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=377) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_328_TextContainer_328) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.022.md#-377-gewo--realgewerbe-und-dominikalgewerbe) \]
 
 ----
 
@@ -8386,7 +8386,7 @@
 
 > Verlagsindustrielle Unternehmungen der Stickerei\-, Spitzen\-, Gardinen\-, Posamenten\-, Kunstblumen\-, Schmuckfedern\- und Zwirnknopferzeugung und der Konfektion von Textilwaren, die im Zeitpunkt des Inkrafttretens der Gewerberechtsnovelle 1952, BGBl\. Nr\. 179, auf Grund einer entsprechenden Gewerbeberechtigung betrieben worden sind, dürfen – abgesehen von den ihren Inhabern auf Grund der bisherigen Gewerbeberechtigung weiterhin zustehenden Befugnissen – auch von deren Rechtsnachfolgern hinsichtlich des Unternehmens ungeachtet etwaiger einer solchen Gewerbeberechtigung entgegenstehender gewerberechtlicher Bestimmungen auf Grund einer der bisherigen gleichen Gewerbeberechtigung fortbetrieben werden\. Dies gilt sinngemäß auch für den Inhaber im Falle der Verlegung des Betriebes \(§ 49 Abs\. 1\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-378-gewo--verlagsindustrielle-unternehmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=378) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_329_TextContainer_329) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.022.md#-378-gewo--verlagsindustrielle-unternehmungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-378-gewo--verlagsindustrielle-unternehmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=378) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_329_TextContainer_329) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.022.md#-378-gewo--verlagsindustrielle-unternehmungen) \]
 
 ----
 
@@ -8416,7 +8416,7 @@
 
 > `(12)` Für Gewerbetreibende, die zur Ausübung des Gewerbes der Steinmetzmeister in einem Umfang berechtigt sind, der nicht das Recht zur Planung gemäß § 133 Abs\. 1 Z 1 beinhaltet, hat die Bezeichnung der Gewerbeberechtigung „Steinmetzgewerbetreibender“ unter Beifügung der entsprechenden Einschränkung zu lauten\. Sofern eine im GISA eingetragene Gewerbezeichnung nicht den Anforderungen des ersten Satzes entspricht, hat die Behörde von Amts wegen die Richtigstellung der Gewerbebezeichnung im GISA vorzunehmen und den Gewerbetreibenden von der Richtigstellung zu verständigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-379-gewo--anhängige-verfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=379) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_330_TextContainer_330) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.022.md#-379-gewo--anhängige-verfahren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-379-gewo--anhängige-verfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=379) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_330_TextContainer_330) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.022.md#-379-gewo--anhängige-verfahren) \]
 
 ----
 
@@ -8426,7 +8426,7 @@
 
 > `(2)` Auf Angelegenheiten, die durch ausdrücklich aufrechterhaltene oder durch sonst aufrechtgebliebene gewerberechtliche Vorschriften geregelt sind, sind die Bestimmungen dieses Bundesgesetzes – soweit sie nicht schon unmittelbar gelten – anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-380-gewo--anwendbarkeit-der-bestimmungen-dieses-bundesgesetzes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=380) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_331_TextContainer_331) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.022.md#-380-gewo--anwendbarkeit-der-bestimmungen-dieses-bundesgesetzes) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-380-gewo--anwendbarkeit-der-bestimmungen-dieses-bundesgesetzes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=380) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_331_TextContainer_331) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.022.md#-380-gewo--anwendbarkeit-der-bestimmungen-dieses-bundesgesetzes) \]
 
 ----
 
@@ -8460,7 +8460,7 @@
 
 > `(7)` Mit der Vollziehung des § 77a Abs\. 7 zweiter Teilsatz, soweit wasserrechtliche Tatbestände mitvollzogen werden, des sowie des § 84p letzter Satz ist jeweils der Bundesminister für Wirtschaft und Arbeit im Einvernehmen mit dem Bundesminister für Land\- und Forstwirtschaft, Umwelt und Wasserwirtschaft betraut\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-381-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=381) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_332_TextContainer_332) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.023.md#-381-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-381-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=381) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_332_TextContainer_332) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.023.md#-381-gewo) \]
 
 ----
 
@@ -8742,7 +8742,7 @@
 
 > `(117)` §§ 365m, 365m1 Abs\. 5 Z 1 und Z 2 und Abs\. 7, 365n Z 11, Z 12 und Z 13, 365n1 Abs\. 1 und Abs\. 3, § 366b Abs\. 2, 3 und 5 und § 382 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 150/2024 treten mit Ablauf des Tages der Kundmachung im Bundesgesetzblatt in Kraft\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-382-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=382) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_333_TextContainer_333) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.023.md#-382-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#-382-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=382) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_333_TextContainer_333) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.023.md#-382-gewo) \]
 
 ----
 
@@ -8764,7 +8764,7 @@
 >
 > Richtlinie 2006/70/EG der Kommission vom 1\. August 2006 mit Durchführungsbestimmungen für die Richtlinie 2005/60/EG des Europäischen Parlaments und des Rates hinsichtlich der Begriffsbestimmung von „politisch exponierte Personen“ und der Festlegung der technischen Kriterien für vereinfachte Sorgfaltspflichten sowie für die Befreiung in Fällen, in denen nur gelegentlich oder in sehr eingeschränktem Umfang Finanzgeschäfte getätigt werden
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#anl-1-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=1) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_334_TextContainer_334) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.024.md#anl-1-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#anl-1-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_334_TextContainer_334) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.024.md#anl-1-gewo) \]
 
 ----
 
@@ -8853,7 +8853,7 @@
 >
 > 4 Organische Lösungsmittel: flüchtige organische Verbindungen, die bei einer Temperatur von 293,15 Kelvin einen Dampfdruck von mindestens 0,01 Kilopascal haben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#anl-3-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=3) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_335_TextContainer_335) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.024.md#anl-3-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#anl-3-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=3) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_335_TextContainer_335) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.024.md#anl-3-gewo) \]
 
 ----
 
@@ -8933,7 +8933,7 @@
 >
 > 4 Das sind „abfiltrierbare“ oder „absetzbare“ Stoffe\.“
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#anl-4-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=4) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_336_TextContainer_336) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.024.md#anl-4-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#anl-4-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=4) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_336_TextContainer_336) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.024.md#anl-4-gewo) \]
 
 ----
 
@@ -9148,7 +9148,7 @@
 >
 > 3 Ein von Ammoniumnitrat abgeleiteter Stickstoffgehalt von gewichtsmäßig 28 % entspricht 80 % Ammoniumnitrat
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#anl-5-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=5) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_337_TextContainer_337) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.025.md#anl-5-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#anl-5-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=5) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_337_TextContainer_337) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.025.md#anl-5-gewo) \]
 
 ----
 
@@ -9186,7 +9186,7 @@
 >
 >> `12.` in BVT\-Merkblättern enthaltene Informationen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#anl-6-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=6) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_338_TextContainer_338) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.026.md#anl-6-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#anl-6-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=6) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_338_TextContainer_338) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.026.md#anl-6-gewo) \]
 
 ----
 
@@ -9228,7 +9228,7 @@
 >>
 >>> `d)` Drittländer, deren Anforderungen an die Bekämpfung von Geldwäscherei und Terrorismusfinanzierung laut glaubwürdigen Quellen \(zB gegenseitige Evaluierungen, detaillierte Bewertungsberichte oder veröffentlichte Follow\-up\-Berichte\) den überarbeiteten FATF\-Empfehlungen entsprechen und die diese Anforderungen wirksam umsetzen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#anl-7-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=7) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_339_TextContainer_339) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.026.md#anl-7-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#anl-7-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=7) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_339_TextContainer_339) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.026.md#anl-7-gewo) \]
 
 ----
 
@@ -9280,7 +9280,7 @@
 >>
 >>> `d)` Länder, die terroristische Aktivitäten finanziell oder anderweitig unterstützen oder in denen bekannte terroristische Organisationen aktiv sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#anl-8-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=8) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_340_TextContainer_340) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.026.md#anl-8-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#anl-8-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=8) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_340_TextContainer_340) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.026.md#anl-8-gewo) \]
 
 ----
 
@@ -9354,8 +9354,8 @@
 >
 >> `9.` erforderliche Mindestfinanzkompetenz\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#anl-9-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=9) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_341_TextContainer_341) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.026.md#anl-9-gewo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.md#anl-9-gewo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517&Paragraf=9) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_341_TextContainer_341) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.GewO.026.md#anl-9-gewo) \]
 
 ----
 
-*(Weitere relevante Bestimmungen finden Sie am Ende der [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_342_TextContainer_342) zu dieser Rechtsvorschrift.)*
+*(Weitere relevante Bestimmungen finden Sie am Ende der [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10007517#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_342_TextContainer_342) zu dieser Rechtsvorschrift.)*

@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** DSG  
 **Langtitel:** Bundesgesetz zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten (Datenschutzgesetz – DSG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001597  
 **Letzte Änderung im RIS:** BGBl. I Nr. 70/2024 (NR: GP XXVII AB 2594 S. 268. BR: AB 11514 S. 968.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.DSG.004.md  

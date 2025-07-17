@@ -2,8 +2,8 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** EGVG  
 **Langtitel:** Einführungsgesetz zu den Verwaltungsverfahrensgesetzen 2008 – EGVG  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
-**Quelle:** https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005871  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
+**Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20005871  
 **Letzte Änderung im RIS:** BGBl. I Nr. 177/2023 (NR: GP XXVII RV 2285 AB 2340 S. 247. BR: 11364 AB 11395 S. 961.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.EGVG.000.md  
 *Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*

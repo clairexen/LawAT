@@ -2,7 +2,7 @@
 **Typ:** Wiener Landesgesetz  
 **Kurztitel:** WrAuskPG  
 **Langtitel:** Gesetz über die Auskunftspflicht (Wiener Auskunftspflichtgesetz)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrW&Gesetzesnummer=20000332  
 **Letzte Änderung im RIS:** LGBl. Nr. 33/2013  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/WLG.WrAuskPG.md  

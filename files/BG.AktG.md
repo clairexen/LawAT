@@ -2,8 +2,8 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** AktG  
 **Langtitel:** Bundesgesetz über Aktiengesellschaften (Aktiengesetz – AktG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
-**Quelle:** https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
+**Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070  
 **Letzte Änderung im RIS:** [CELEX-Nr.:  32017L1132, 32019L1151]  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md  
 *Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
@@ -443,7 +443,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Aktiengesellschaft ist eine Gesellschaft mit eigener Rechtspersönlichkeit, deren Gesellschafter mit Einlagen auf das in Aktien zerlegte Grundkapital beteiligt sind, ohne persönlich für die Verbindlichkeiten der Gesellschaft zu haften\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-1-aktg--begriff-der-aktiengesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=1) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-1-aktg--begriff-der-aktiengesellschaft) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-1-aktg--begriff-der-aktiengesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-1-aktg--begriff-der-aktiengesellschaft) \]
 
 ----
 
@@ -453,7 +453,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` An der Feststellung der Satzung müssen sich eine oder mehrere Personen beteiligen, die Aktien übernehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-2-aktg--gründer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=2) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-2-aktg--gründer) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-2-aktg--gründer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=2) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-2-aktg--gründer) \]
 
 ----
 
@@ -461,7 +461,7 @@ Der Nationalrat hat beschlossen:
 
 > Eine Aktiengesellschaft ist börsenotiert, wenn Aktien der Gesellschaft zum Handel an einer anerkannten Börse gemäß Art\. 4 Abs\. 1 Nummer 72 der Verordnung \(EU\) Nr\. 575/2013 über Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur Änderung der Verordnung \(EU\) Nr\. 646/2012, ABl\. Nr\. L 176 vom 27\.06\.2013 S\. 1, zuletzt geändert durch die Delegierte Verordnung \(EU\) 2015/62, ABl\. Nr\. L 11 vom 17\.01\.2015 S\. 37, oder einem gleichwertigen Markt mit Sitz in einem Drittland zugelassen sind\. Die Satzung kann vorsehen, dass eine solche Börsenotierung besteht oder beabsichtigt ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-3-aktg--börsenotierung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=3) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-3-aktg--börsenotierung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-3-aktg--börsenotierung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=3) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-3-aktg--börsenotierung) \]
 
 ----
 
@@ -469,7 +469,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Firma der Aktiengesellschaft muss, auch wenn sie nach § 22 UGB oder nach anderen gesetzlichen Vorschriften fortgeführt wird, die Bezeichnung „Aktiengesellschaft“ enthalten; die Bezeichnung kann abgekürzt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-4-aktg--firma) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=4) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-4-aktg--firma) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-4-aktg--firma) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=4) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-4-aktg--firma) \]
 
 ----
 
@@ -477,7 +477,7 @@ Der Nationalrat hat beschlossen:
 
 > Als Sitz der Aktiengesellschaft ist der Ort, wo die Gesellschaft einen Betrieb hat, oder der Ort zu bestimmen, wo sich die Geschäftsleitung befindet oder die Verwaltung geführt wird\. Von dieser Vorschrift darf aus wichtigem Grund abgewichen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-5-aktg--sitz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=5) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-5-aktg--sitz) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-5-aktg--sitz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=5) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-5-aktg--sitz) \]
 
 ----
 
@@ -485,7 +485,7 @@ Der Nationalrat hat beschlossen:
 
 > Das Grundkapital wird in Aktien zerlegt\. Es hat auf einen in Euro bestimmten Nennbetrag zu lauten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-6-aktg--grundkapital) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=6) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-6-aktg--grundkapital) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-6-aktg--grundkapital) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=6) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-6-aktg--grundkapital) \]
 
 ----
 
@@ -493,7 +493,7 @@ Der Nationalrat hat beschlossen:
 
 > Der Mindestnennbetrag des Grundkapitals ist 70 000 Euro\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-7-aktg--mindestnennbetrag-des-grundkapitals) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=7) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-7-aktg--mindestnennbetrag-des-grundkapitals) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-7-aktg--mindestnennbetrag-des-grundkapitals) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=7) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-7-aktg--mindestnennbetrag-des-grundkapitals) \]
 
 ----
 
@@ -510,7 +510,7 @@ Der Nationalrat hat beschlossen:
 > `(5)` Die Aktien sind unteilbar\.
 > *\(Anm\.: Abs\. 6 aufgehoben durch BGBl\.I Nr\. 53/2011\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-8-aktg--art-und-mindestbeträge-der-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=8) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-8-aktg--art-und-mindestbeträge-der-aktien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-8-aktg--art-und-mindestbeträge-der-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=8) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-8-aktg--art-und-mindestbeträge-der-aktien) \]
 
 ----
 
@@ -520,7 +520,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Für einen höheren Betrag ist die Ausgabe zulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-8a-aktg--ausgabebetrag-der-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=8a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-8a-aktg--ausgabebetrag-der-aktien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-8a-aktg--ausgabebetrag-der-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=8a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-8a-aktg--ausgabebetrag-der-aktien) \]
 
 ----
 
@@ -532,7 +532,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` In der Satzung kann der Anspruch des Aktionärs auf Verbriefung seines Anteils ausgeschlossen oder eingeschränkt werden\. Eine diesbezügliche Satzungsänderung bedarf außer den Mehrheitserfordernissen gemäß § 146 auch der Zustimmung jedes Aktionärs, dem nicht zumindest ein Anspruch auf Verbriefung seines Anteils in einer Sammelurkunde verbleibt, es sei denn, die betreffenden Aktien sind börsenotiert im Sinn des § 3\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-9-aktg--namensaktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=9) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-9-aktg--namensaktien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-9-aktg--namensaktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=9) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-9-aktg--namensaktien) \]
 
 ----
 
@@ -552,7 +552,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Satzung kann bestimmen, dass auf Verlangen eines Aktionärs seine Inhaberaktien in Namensaktien und in den Fällen des Abs\. 1 seine Namensaktien in Inhaberaktien umzuwandeln sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-10-aktg--inhaberaktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=10) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-10-aktg--inhaberaktien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-10-aktg--inhaberaktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=10) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-10-aktg--inhaberaktien) \]
 
 ----
 
@@ -580,7 +580,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-10a-aktg--nachweis-der-aktionärseigenschaft-bei-inhaberaktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=10a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-10a-aktg--nachweis-der-aktionärseigenschaft-bei-inhaberaktien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-10a-aktg--nachweis-der-aktionärseigenschaft-bei-inhaberaktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=10a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-10a-aktg--nachweis-der-aktionärseigenschaft-bei-inhaberaktien) \]
 
 ----
 
@@ -588,7 +588,7 @@ Der Nationalrat hat beschlossen:
 
 > Einzelne Gattungen von Aktien können verschiedene Rechte haben, namentlich bei der Verteilung des Gewinns und des Gesellschaftsvermögens\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-11-aktg--aktien-besonderer-gattung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=11) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-11-aktg--aktien-besonderer-gattung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-11-aktg--aktien-besonderer-gattung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=11) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-11-aktg--aktien-besonderer-gattung) \]
 
 ----
 
@@ -600,7 +600,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Mehrstimmrechtsaktien sind unzulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-12-aktg--stimmrecht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=12) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-12-aktg--stimmrecht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-12-aktg--stimmrecht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=12) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-12-aktg--stimmrecht) \]
 
 ----
 
@@ -610,7 +610,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Vorzugsaktien ohne Stimmrecht dürfen nur bis zu einem Drittel des Grundkapitals ausgegeben werden\. Wird der Vorzugsbetrag bei der Verteilung des Gewinns in einem Jahr nicht oder nicht vollständig gezahlt und der Rückstand im darauffolgenden Jahr nicht neben dem vollen Vorzug dieses Jahres nachgezahlt, so haben die Vorzugsaktionäre das Stimmrecht so lange, bis die Rückstände nachgezahlt sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-12a-aktg--vorzugsaktien-ohne-stimmrecht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=12a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-12a-aktg--vorzugsaktien-ohne-stimmrecht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-12a-aktg--vorzugsaktien-ohne-stimmrecht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=12a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-12a-aktg--vorzugsaktien-ohne-stimmrecht) \]
 
 ----
 
@@ -628,7 +628,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Der Samstag ist kein Werktag im Sinn dieses Bundesgesetzes\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-13-aktg--formvorschriften-begriffsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=13) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-13-aktg--formvorschriften-begriffsbestimmungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-13-aktg--formvorschriften-begriffsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=13) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-13-aktg--formvorschriften-begriffsbestimmungen) \]
 
 ----
 
@@ -636,7 +636,7 @@ Der Nationalrat hat beschlossen:
 
 > Über Angelegenheiten, die in diesem Bundesgesetz dem Gericht zugewiesen sind, verhandelt und entscheidet, sofern es sich nicht um bürgerliche Rechtsstreitigkeiten handelt, die dem Prozeßgericht zugewiesen sind, der für den Sitz der Gesellschaft zuständige, zur Ausübung der Gerichtsbarkeit in Handelssachen berufene Gerichtshof erster Instanz im Verfahren außer Streitsachen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-14-aktg--gericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=14) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-14-aktg--gericht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-14-aktg--gericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=14) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-14-aktg--gericht) \]
 
 ----
 
@@ -646,7 +646,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Steht ein rechtlich selbständiges Unternehmen auf Grund von Beteiligungen oder sonst unmittelbar oder mittelbar unter dem beherrschenden Einfluß eines anderen Unternehmens, so gelten das herrschende und das abhängige Unternehmen zusammen als Konzern und einzeln als Konzernunternehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-15-aktg--wesen-des-konzerns-und-des-konzernunternehmens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=15) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-15-aktg--wesen-des-konzerns-und-des-konzernunternehmens) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-15-aktg--wesen-des-konzerns-und-des-konzernunternehmens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=15) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-15-aktg--wesen-des-konzerns-und-des-konzernunternehmens) \]
 
 ----
 
@@ -660,7 +660,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` In der Urkunde sind die Namen der Gründer, bei Nennbetragsaktien der Nennbetrag, bei Stückaktien die Zahl, der Ausgabebetrag und, wenn mehrere Gattungen bestehen, die Gattung der Aktien anzugeben, die jeder Beteiligte übernimmt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-16-aktg--feststellung-der-satzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=16) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-16-aktg--feststellung-der-satzung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-16-aktg--feststellung-der-satzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=16) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-16-aktg--feststellung-der-satzung) \]
 
 ----
 
@@ -680,7 +680,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `6.` die Form der Veröffentlichungen der Gesellschaft\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-17-aktg--inhalt-der-satzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=17) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_20_TextContainer_20) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-17-aktg--inhalt-der-satzung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-17-aktg--inhalt-der-satzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=17) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_20_TextContainer_20) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-17-aktg--inhalt-der-satzung) \]
 
 ----
 
@@ -688,7 +688,7 @@ Der Nationalrat hat beschlossen:
 
 > Bestimmt das Gesetz oder die Satzung, daß eine Veröffentlichung der Gesellschaft zu erfolgen hat, so ist sie in der „Wiener Zeitung“ einzurücken\. Daneben kann die Satzung auch andere Blätter oder elektronische Informationsmedien als Bekanntmachungsblätter bezeichnen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-18-aktg--veröffentlichungen-der-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=18) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_21_TextContainer_21) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-18-aktg--veröffentlichungen-der-gesellschaft) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-18-aktg--veröffentlichungen-der-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=18) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_21_TextContainer_21) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-18-aktg--veröffentlichungen-der-gesellschaft) \]
 
 ----
 
@@ -700,7 +700,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ohne diese Festsetzung sind solche Abkommen und die Rechtshandlungen zu ihrer Ausführung der Gesellschaft gegenüber unwirksam\. Nach Eintragung der Gesellschaft in das Firmenbuch kann die Unwirksamkeit nicht durch Satzungsänderung geheilt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-19-aktg--sondervorteile-gründungsaufwand) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=19) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-19-aktg--sondervorteile-gründungsaufwand) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-19-aktg--sondervorteile-gründungsaufwand) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=19) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-19-aktg--sondervorteile-gründungsaufwand) \]
 
 ----
 
@@ -712,7 +712,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ohne eine Festsetzung gemäß Abs\. 1 sind Vereinbarungen über Sacheinlagen und Sachübernahmen und die Rechtshandlungen zu ihrer Ausführung der Gesellschaft gegenüber unwirksam\. Ist die Gesellschaft eingetragen, so wird die Gültigkeit der Satzung durch diese Unwirksamkeit nicht berührt\. Bei unwirksamer Vereinbarung einer Sacheinlage bleibt der Aktionär verpflichtet, den Ausgabebetrag der Aktie einzuzahlen\. Nach Eintragung der Gesellschaft in das Firmenbuch kann die Unwirksamkeit nicht durch Satzungsänderung geheilt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-20-aktg--sacheinlagen-sachübernahmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=20) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_23_TextContainer_23) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-20-aktg--sacheinlagen-sachübernahmen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-20-aktg--sacheinlagen-sachübernahmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=20) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_23_TextContainer_23) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-20-aktg--sacheinlagen-sachübernahmen) \]
 
 ----
 
@@ -720,7 +720,7 @@ Der Nationalrat hat beschlossen:
 
 > Mit der Übernahme aller Aktien durch die Gründer ist die Gesellschaft errichtet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-21-aktg--errichtung-der-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=21) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-21-aktg--errichtung-der-gesellschaft) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-21-aktg--errichtung-der-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=21) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-21-aktg--errichtung-der-gesellschaft) \]
 
 ----
 
@@ -728,7 +728,7 @@ Der Nationalrat hat beschlossen:
 
 > Übernehmen die Gründer Aktien, die sie bei der Feststellung der Satzung noch nicht übernommen haben, so bedarf es notarieller Beurkundung\. In der Urkunde sind bei Nennbetragsaktien der Nennbetrag, bei Stückaktien die Zahl, der Ausgabebetrag und, wenn mehrere Gattungen bestehen, die Gattung der von jedem Beteiligten übernommenen Aktien anzugeben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-22-aktg--nachträgliche-aktienübernahme-durch-die-gründer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=22) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-22-aktg--nachträgliche-aktienübernahme-durch-die-gründer) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-22-aktg--nachträgliche-aktienübernahme-durch-die-gründer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=22) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-22-aktg--nachträgliche-aktienübernahme-durch-die-gründer) \]
 
 ----
 
@@ -738,7 +738,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Aufsichtsrat bestellt den ersten Vorstand\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-23-aktg--erster-aufsichtsrat-und-vorstand) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=23) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_26_TextContainer_26) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-23-aktg--erster-aufsichtsrat-und-vorstand) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-23-aktg--erster-aufsichtsrat-und-vorstand) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=23) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_26_TextContainer_26) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-23-aktg--erster-aufsichtsrat-und-vorstand) \]
 
 ----
 
@@ -750,7 +750,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Im Gründungsbericht ist ferner anzugeben, ob und in welchem Umfang bei der Gründung für Rechnung eines Mitglieds des Vorstands oder des Aufsichtsrats Aktien übernommen sind und ob und in welcher Weise ein Mitglied des Vorstands oder des Aufsichtsrats sich einen besonderen Vorteil oder für die Gründung oder ihre Vorbereitung eine Entschädigung oder Belohnung ausbedungen hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-24-aktg--gründungsbericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=24) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_27_TextContainer_27) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-24-aktg--gründungsbericht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-24-aktg--gründungsbericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=24) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_27_TextContainer_27) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.001.md#-24-aktg--gründungsbericht) \]
 
 ----
 
@@ -772,7 +772,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Mitglieder des Vorstands und des Aufsichtsrats sowie Angestellte der Gesellschaft dürfen nicht als Gründungsprüfer bestellt werden; gleiches gilt für Personen und Prüfungsgesellschaften, auf deren Geschäftsführung die Gründer oder Personen, für deren Rechnung die Gründer Aktien übernommen haben, oder die Gesellschaft maßgebenden Einfluß haben\. Im übrigen gelten die §§ 271 und 271a UGB sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-25-aktg--allgemeines) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=25) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_28_TextContainer_28) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-25-aktg--allgemeines) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-25-aktg--allgemeines) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=25) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_28_TextContainer_28) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-25-aktg--allgemeines) \]
 
 ----
 
@@ -788,7 +788,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Je ein Stück des Berichts der Gründungsprüfer ist dem Gericht und dem Vorstand einzureichen\. Jedermann kann den Bericht beim Gericht einsehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-26-aktg--umfang-der-gründungsprüfung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=26) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-26-aktg--umfang-der-gründungsprüfung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-26-aktg--umfang-der-gründungsprüfung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=26) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-26-aktg--umfang-der-gründungsprüfung) \]
 
 ----
 
@@ -798,7 +798,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Gründungsprüfer haben Anspruch auf Ersatz der notwendigen baren Auslagen und auf angemessene Entlohnung für ihre Mühewaltung\. Diese Beträge bestimmt das Gericht; gegen die Bestimmung kann Rekurs ergriffen werden, gegen die Entscheidung des Gerichts zweiter Instanz ist der Rekurs ausgeschlossen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-27-aktg--meinungsverschiedenheiten-zwischen-gründern-und-gründungsprüfern-auslagen-und-entlohnung-der-gründungsprüfer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=27) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-27-aktg--meinungsverschiedenheiten-zwischen-gründern-und-gründungsprüfern-auslagen-und-entlohnung-der-gründungsprüfer) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-27-aktg--meinungsverschiedenheiten-zwischen-gründern-und-gründungsprüfern-auslagen-und-entlohnung-der-gründungsprüfer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=27) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-27-aktg--meinungsverschiedenheiten-zwischen-gründern-und-gründungsprüfern-auslagen-und-entlohnung-der-gründungsprüfer) \]
 
 ----
 
@@ -812,7 +812,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `2.` Vermögensgegenstände, die nach der Satzung als Sacheinlagen zu leisten sind, zur freien Verfügung des Vorstands stehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-28-aktg--anmeldung-der-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=28) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-28-aktg--anmeldung-der-gesellschaft) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-28-aktg--anmeldung-der-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=28) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-28-aktg--anmeldung-der-gesellschaft) \]
 
 ----
 
@@ -822,7 +822,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Sacheinlagen müssen sofort in vollem Umfang bewirkt werden\. Der Wert muß den Ausgabebetrag der Aktien erreichen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-28a-aktg--leistung-der-einlagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=28a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-28a-aktg--leistung-der-einlagen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-28a-aktg--leistung-der-einlagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=28a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-28a-aktg--leistung-der-einlagen) \]
 
 ----
 
@@ -846,7 +846,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Dokumente sind in Urschrift, Ausfertigung oder öffentlich beglaubigter Abschrift einzureichen und in die Urkundensammlung \(§ 12 FBG\) aufzunehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-29-aktg--inhalt-der-anmeldung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=29) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-29-aktg--inhalt-der-anmeldung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-29-aktg--inhalt-der-anmeldung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=29) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-29-aktg--inhalt-der-anmeldung) \]
 
 ----
 
@@ -856,7 +856,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Das Gericht hat die Eintragung auch abzulehnen, wenn die Gründungsprüfer erklären oder wenn es offensichtlich ist, daß der Gründungsbericht oder der Prüfungsbericht der Mitglieder des Vorstands und des Aufsichtsrats unrichtig oder unvollständig ist oder den gesetzlichen Vorschriften nicht entspricht; gleiches gilt, wenn die Gründungsprüfer erklären oder wenn es offensichtlich ist, daß der Wert der Sacheinlagen oder Sachübernahmen nicht unwesentlich hinter dem Ausgabebetrag der dafür zu gewährenden Aktien oder dem Wert der dafür zu gewährenden Leistungen zurückbleibt\. Das Gericht hat den Beteiligten vorher Gelegenheit zu geben, den Beanstandungen abzuhelfen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-31-aktg--prüfung-durch-das-gericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=31) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-31-aktg--prüfung-durch-das-gericht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-31-aktg--prüfung-durch-das-gericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=31) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-31-aktg--prüfung-durch-das-gericht) \]
 
 ----
 
@@ -866,7 +866,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Enthält die Satzung Bestimmungen über die Zeitdauer der Gesellschaft oder über das genehmigte Kapital, so sind auch diese Bestimmungen einzutragen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-32-aktg--inhalt-der-eintragung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=32) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_35_TextContainer_35) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-32-aktg--inhalt-der-eintragung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-32-aktg--inhalt-der-eintragung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=32) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_35_TextContainer_35) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-32-aktg--inhalt-der-eintragung) \]
 
 ----
 
@@ -884,7 +884,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Liegt eine Gründung mit Sacheinlagen oder Sachübernahmen \(§ 20\) vor, so hat der Vorstand unverzüglich nach der Eintragung der Gesellschaft die Eröffnungsbilanz, für die im übrigen die allgemeinen unternehmensrechtlichen Vorschriften gelten, auf den Tag der Errichtung der Gesellschaft \(§ 21\) aufzustellen, nach ihrer Bestätigung durch die Prüfer \(§ 25 Abs\. 2 bis 5\) dem Aufsichtsrat vorzulegen und innerhalb von drei Monaten nach der Eintragung der Gesellschaft gemäß § 18 zu veröffentlichen\. Die Veröffentlichung ist zum Firmenbuch einzureichen\. Wird ein Unternehmen \(Betrieb\) auf Grund einer auf einen höchstens neun Monate vor der Errichtung der Gesellschaft liegenden Stichtag aufgestellten Bilanz als Sacheinlage eingebracht, so kann die Eröffnungsbilanz auf diesen Stichtag aufgestellt werden\. Für die zu veröffentlichende Eröffungsbilanz gelten im übrigen die Vorschriften für den Jahresabschluß sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-33-aktg--veröffentlichung-der-eintragung-veröffentlichung-der-eröffnungsbilanz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=33) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_36_TextContainer_36) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-33-aktg--veröffentlichung-der-eintragung-veröffentlichung-der-eröffnungsbilanz) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-33-aktg--veröffentlichung-der-eintragung-veröffentlichung-der-eröffnungsbilanz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=33) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_36_TextContainer_36) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-33-aktg--veröffentlichung-der-eintragung-veröffentlichung-der-eröffnungsbilanz) \]
 
 ----
 
@@ -898,7 +898,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Anteilsrechte dürfen vor der Eintragung der Gesellschaft nicht übertragen, Aktien dürfen vorher nicht ausgegeben werden\. Die vorher ausgegebenen Aktien sind nichtig; für den Schaden aus der Ausgabe sind die Ausgeber den Besitzern als Gesamtschuldner verantwortlich\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-34-aktg--handeln-im-namen-der-gesellschaft-vor-der-eintragung-verbotene-aktienausgabe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=34) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_37_TextContainer_37) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-34-aktg--handeln-im-namen-der-gesellschaft-vor-der-eintragung-verbotene-aktienausgabe) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-34-aktg--handeln-im-namen-der-gesellschaft-vor-der-eintragung-verbotene-aktienausgabe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=34) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_37_TextContainer_37) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-34-aktg--handeln-im-namen-der-gesellschaft-vor-der-eintragung-verbotene-aktienausgabe) \]
 
 ----
 
@@ -910,7 +910,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Erwirbt eine weitere Person Aktien an einer Gesellschaft, die als Einpersonen\-Gesellschaft im Firmenbuch eingetragen ist, so haben der bisherige Alleinaktionär oder seine Rechtsnachfolger hievon den Vorstand zu unterrichten\. Der Vorstand hat die Löschung der Eintragung der Eigenschaft als Einpersonen\-Gesellschaft unverzüglich beim Gericht anzumelden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-35-aktg--einpersonen-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=35) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-35-aktg--einpersonen-gesellschaft) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-35-aktg--einpersonen-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=35) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-35-aktg--einpersonen-gesellschaft) \]
 
 ----
 
@@ -926,7 +926,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Neben den Gründern sind in gleicher Weise Personen verantwortlich, für deren Rechnung die Gründer Aktien übernommen haben\. Sie können sich auf ihre eigene Unkenntnis nicht wegen solcher Umstände berufen, die ein für ihre Rechnung handelnder Gründer kannte oder kennen mußte\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-39-aktg--verantwortlichkeit-der-gründer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=39) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_39_TextContainer_39) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-39-aktg--verantwortlichkeit-der-gründer) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-39-aktg--verantwortlichkeit-der-gründer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=39) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_39_TextContainer_39) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-39-aktg--verantwortlichkeit-der-gründer) \]
 
 ----
 
@@ -940,7 +940,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` wer vor Eintragung der Gesellschaft in das Firmenbuch oder in den ersten zwei Jahren nach der Eintragung die Aktien öffentlich ankündigt, um sie in den Verkehr einzuführen, wenn er die Unrichtigkeit oder Unvollständigkeit der Angaben, die zum Zwecke der Gründung der Gesellschaft gemacht worden sind \(§ 39 Abs\. 1\), oder die Schädigung der Gesellschaft durch Einlagen oder Sachübernahmen kannte oder bei Anwendung der Sorgfalt eines ordentlichen Geschäftsmanns kennen mußte\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-40-aktg--verantwortlichkeit-anderer-personen-neben-den-gründern) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=40) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_40_TextContainer_40) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-40-aktg--verantwortlichkeit-anderer-personen-neben-den-gründern) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-40-aktg--verantwortlichkeit-anderer-personen-neben-den-gründern) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=40) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_40_TextContainer_40) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-40-aktg--verantwortlichkeit-anderer-personen-neben-den-gründern) \]
 
 ----
 
@@ -948,7 +948,7 @@ Der Nationalrat hat beschlossen:
 
 > Mitglieder des Vorstands und des Aufsichtsrats, die bei der Gründung ihre Sorgfaltspflicht außer acht lassen, sind der Gesellschaft für den ihr daraus entstehenden Schaden als Gesamtschuldner verantwortlich; sie sind dafür verantwortlich, daß eine zur Annahme von Einzahlungen auf die Aktien bestimmte Stelle \(§ 49 Abs\. 3\) hiezu geeignet ist, namentlich die eingezahlten Beträge zur freien Verfügung des Vorstands stehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-41-aktg--verantwortlichkeit-des-vorstands-und-des-aufsichtsrats) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=41) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_41_TextContainer_41) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-41-aktg--verantwortlichkeit-des-vorstands-und-des-aufsichtsrats) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-41-aktg--verantwortlichkeit-des-vorstands-und-des-aufsichtsrats) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=41) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_41_TextContainer_41) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-41-aktg--verantwortlichkeit-des-vorstands-und-des-aufsichtsrats) \]
 
 ----
 
@@ -956,7 +956,7 @@ Der Nationalrat hat beschlossen:
 
 > Für die Ersatzpflicht des Gründungsprüfers gilt § 275 Abs\. 1 bis 4 UGB sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-42-aktg--verantwortlichkeit-der-gründungsprüfer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=42) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_42_TextContainer_42) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-42-aktg--verantwortlichkeit-der-gründungsprüfer) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-42-aktg--verantwortlichkeit-der-gründungsprüfer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=42) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_42_TextContainer_42) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-42-aktg--verantwortlichkeit-der-gründungsprüfer) \]
 
 ----
 
@@ -964,7 +964,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Gesellschaft kann auf Ersatzansprüche gegen die Gründer, die neben diesen haftenden Personen und gegen die Mitglieder des Vorstands und des Aufsichtsrats \(§§ 39 bis 41\) erst nach fünf Jahren seit der Eintragung der Gesellschaft in das Firmenbuch und nur dann verzichten oder sich darüber vergleichen, wenn die Hauptversammlung zustimmt und nicht eine Minderheit, deren Anteile zwanzig vom Hundert des Grundkapitals erreichen, widerspricht\. Die zeitliche Beschränkung gilt nicht, wenn der Ersatzpflichtige zahlungsunfähig oder überschuldet ist und sich zur Überwindung der Zahlungsunfähigkeit oder Überschuldung mit seinen Gläubigern vergleicht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-43-aktg--verzicht-und-vergleich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=43) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-43-aktg--verzicht-und-vergleich) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-43-aktg--verzicht-und-vergleich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=43) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-43-aktg--verzicht-und-vergleich) \]
 
 ----
 
@@ -972,7 +972,7 @@ Der Nationalrat hat beschlossen:
 
 > Ersatzansprüche der Gesellschaft nach den §§ 39 bis 42 verjähren in fünf Jahren seit der Eintragung der Gesellschaft in das Firmenbuch\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-44-aktg--verjährung-der-ersatzansprüche) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=44) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_44_TextContainer_44) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-44-aktg--verjährung-der-ersatzansprüche) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-44-aktg--verjährung-der-ersatzansprüche) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=44) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_44_TextContainer_44) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-44-aktg--verjährung-der-ersatzansprüche) \]
 
 ----
 
@@ -988,7 +988,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 34\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-45-aktg--nachgründung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=45) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_45_TextContainer_45) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-45-aktg--nachgründung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-45-aktg--nachgründung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=45) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_45_TextContainer_45) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-45-aktg--nachgründung) \]
 
 ----
 
@@ -1004,7 +1004,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Die Wirksamkeit eines Vertrages nach § 45 Abs\. 1 wird, gleichviel ob er vor oder nach Ablauf von zwei Jahren seit der Eintragung der Gesellschaft in das Firmenbuch geschlossen ist, nicht dadurch ausgeschlossen, daß eine Vereinbarung der Gründer über denselben Gegenstand nach § 20 Abs\. 3 der Gesellschaft gegenüber unwirksam ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-46-aktg--eintragung-der-nachgründung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=46) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_46_TextContainer_46) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-46-aktg--eintragung-der-nachgründung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-46-aktg--eintragung-der-nachgründung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=46) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_46_TextContainer_46) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-46-aktg--eintragung-der-nachgründung) \]
 
 ----
 
@@ -1012,7 +1012,7 @@ Der Nationalrat hat beschlossen:
 
 > Für die Nachgründung gelten die §§ 39, 40, 42 bis 44 über die Ersatzansprüche der Gesellschaft\. An die Stelle der Gründer treten die Mitglieder des Vorstands und des Aufsichtsrats; sie haben die Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-47-aktg--ersatzansprüche-bei-der-nachgründung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=47) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_47_TextContainer_47) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-47-aktg--ersatzansprüche-bei-der-nachgründung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-47-aktg--ersatzansprüche-bei-der-nachgründung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=47) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_47_TextContainer_47) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.002.md#-47-aktg--ersatzansprüche-bei-der-nachgründung) \]
 
 ----
 
@@ -1024,7 +1024,7 @@ Der Nationalrat hat beschlossen:
 
 > Aktionäre sind unter gleichen Voraussetzungen gleich zu behandeln\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-47a-aktg--gleichbehandlung-der-aktionäre) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=47a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_48_TextContainer_48) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-47a-aktg--gleichbehandlung-der-aktionäre) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-47a-aktg--gleichbehandlung-der-aktionäre) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=47a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_48_TextContainer_48) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-47a-aktg--gleichbehandlung-der-aktionäre) \]
 
 ----
 
@@ -1032,7 +1032,7 @@ Der Nationalrat hat beschlossen:
 
 > Für die Verbindlichkeiten der Aktiengesellschaft haftet den Gläubigern nur das Gesellschaftsvermögen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-48-aktg--haftung-für-die-verbindlichkeiten-der-aktiengesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=48) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_49_TextContainer_49) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-48-aktg--haftung-für-die-verbindlichkeiten-der-aktiengesellschaft) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-48-aktg--haftung-für-die-verbindlichkeiten-der-aktiengesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=48) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_49_TextContainer_49) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-48-aktg--haftung-für-die-verbindlichkeiten-der-aktiengesellschaft) \]
 
 ----
 
@@ -1044,7 +1044,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der vor der Anmeldung der Gesellschaft eingeforderte Betrag \(§ 28 Abs\. 2 Z 1 und § 28a Abs\. 1\) kann nur in gesetzlichen Zahlungsmitteln oder durch Gutschrift auf ein Bankkonto im Inland der Gesellschaft oder des Vorstands zu seiner freien Verfügung eingezahlt werden\. Forderungen des Vorstands aus diesen Einzahlungen gegen Kreditinstitute gelten als Forderungen der Gesellschaft\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-49-aktg--hauptverpflichtung-der-aktionäre) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=49) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_50_TextContainer_50) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-49-aktg--hauptverpflichtung-der-aktionäre) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-49-aktg--hauptverpflichtung-der-aktionäre) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=49) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_50_TextContainer_50) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-49-aktg--hauptverpflichtung-der-aktionäre) \]
 
 ----
 
@@ -1054,7 +1054,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Satzung kann Vertragsstrafen festsetzen für den Fall, daß die Verpflichtung nicht oder nicht gehörig erfüllt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-50-aktg--nebenverpflichtungen-der-aktionäre) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=50) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_51_TextContainer_51) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-50-aktg--nebenverpflichtungen-der-aktionäre) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-50-aktg--nebenverpflichtungen-der-aktionäre) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=50) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_51_TextContainer_51) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-50-aktg--nebenverpflichtungen-der-aktionäre) \]
 
 ----
 
@@ -1068,7 +1068,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 34\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-51-aktg--keine-zeichnung-eigener-aktien-aktienübernahme-für-rechnung-der-gesellschaft-oder-durch-ein-tochterunternehmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=51) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_52_TextContainer_52) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-51-aktg--keine-zeichnung-eigener-aktien-aktienübernahme-für-rechnung-der-gesellschaft-oder-durch-ein-tochterunternehmen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-51-aktg--keine-zeichnung-eigener-aktien-aktienübernahme-für-rechnung-der-gesellschaft-oder-durch-ein-tochterunternehmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=51) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_52_TextContainer_52) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-51-aktg--keine-zeichnung-eigener-aktien-aktienübernahme-für-rechnung-der-gesellschaft-oder-durch-ein-tochterunternehmen) \]
 
 ----
 
@@ -1076,7 +1076,7 @@ Der Nationalrat hat beschlossen:
 
 > Den Aktionären dürfen die Einlagen nicht zurückgewährt werden; sie haben, solange die Gesellschaft besteht, nur Anspruch auf den Bilanzgewinn, der sich aus der Jahresbilanz ergibt, soweit er nicht nach Gesetz oder Satzung von der Verteilung ausgeschlossen ist\. Als Rückgewähr von Einlagen gilt nicht die Zahlung des Erwerbspreises beim zulässigen Erwerb eigener Aktien \(§§ 65, 66\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-52-aktg--keine-rückgewähr-der-einlagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=52) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_53_TextContainer_53) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-52-aktg--keine-rückgewähr-der-einlagen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-52-aktg--keine-rückgewähr-der-einlagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=52) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_53_TextContainer_53) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-52-aktg--keine-rückgewähr-der-einlagen) \]
 
 ----
 
@@ -1088,7 +1088,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Satzung kann eine andere Art der Gewinnverteilung bestimmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-53-aktg--gewinnbeteiligung-der-aktionäre) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=53) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_54_TextContainer_54) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-53-aktg--gewinnbeteiligung-der-aktionäre) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-53-aktg--gewinnbeteiligung-der-aktionäre) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=53) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_54_TextContainer_54) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-53-aktg--gewinnbeteiligung-der-aktionäre) \]
 
 ----
 
@@ -1096,7 +1096,7 @@ Der Nationalrat hat beschlossen:
 
 > Unter die Aktionäre darf nur der aus der Jahresbilanz sich ergebende Bilanzgewinn verteilt werden; Zinsen dürfen ihnen weder zugesagt noch ausgezahlt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-54-aktg--keine-verzinsung-der-einlagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=54) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_55_TextContainer_55) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-54-aktg--keine-verzinsung-der-einlagen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-54-aktg--keine-verzinsung-der-einlagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=54) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_55_TextContainer_55) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-54-aktg--keine-verzinsung-der-einlagen) \]
 
 ----
 
@@ -1104,7 +1104,7 @@ Der Nationalrat hat beschlossen:
 
 > Der Vorstand kann mit Zustimmung des Aufsichtsrates nach Ablauf der Hälfte des Geschäftsjahres an die Aktionäre einen Abschlag auf den voraussichtlichen Bilanzgewinn bis zur Hälfte der durchschnittlichen Jahresdividende der letzten drei Jahre zahlen, soweit diese Abschlagszahlungen in dem auf Grund einer Zwischenbilanz festgestellten Ergebnis des abgelaufenen Geschäftshalbjahres zuzüglich eines allfälligen Gewinnvortrags und abzüglich eines allfälligen Verlustvortrags Deckung finden und ausschüttungsfähige Rücklagen in der Höhe der ausgezahlten Beträge bestehen bleiben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-54a-aktg--abschlagszahlung-auf-den-bilanzgewinn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=54a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-54a-aktg--abschlagszahlung-auf-den-bilanzgewinn) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-54a-aktg--abschlagszahlung-auf-den-bilanzgewinn) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=54a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-54a-aktg--abschlagszahlung-auf-den-bilanzgewinn) \]
 
 ----
 
@@ -1112,7 +1112,7 @@ Der Nationalrat hat beschlossen:
 
 > Für wiederkehrende Leistungen, zu denen die Aktionäre nach der Satzung neben den Einlagen auf das Grundkapital verpflichtet sind, darf eine den Wert der Leistungen nicht übersteigende Vergütung ohne Rücksicht darauf gezahlt werden, ob die Jahresbilanz einen Bilanzgewinn ergibt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-55-aktg--vergütung-von-nebenleistungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=55) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-55-aktg--vergütung-von-nebenleistungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-55-aktg--vergütung-von-nebenleistungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=55) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-55-aktg--vergütung-von-nebenleistungen) \]
 
 ----
 
@@ -1126,7 +1126,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Ansprüche nach diesen Vorschriften verjähren in fünf Jahren seit dem Empfang der Zahlung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-56-aktg--haftung-der-aktionäre-beim-empfang-verbotener-zahlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=56) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_58_TextContainer_58) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-56-aktg--haftung-der-aktionäre-beim-empfang-verbotener-zahlungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-56-aktg--haftung-der-aktionäre-beim-empfang-verbotener-zahlungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=56) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_58_TextContainer_58) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-56-aktg--haftung-der-aktionäre-beim-empfang-verbotener-zahlungen) \]
 
 ----
 
@@ -1138,7 +1138,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Für den Fall nicht rechtzeitiger Einzahlung kann die Satzung Vertragsstrafen festsetzen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-57-aktg--folgen-nicht-rechtzeitiger-einzahlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=57) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_59_TextContainer_59) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-57-aktg--folgen-nicht-rechtzeitiger-einzahlung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-57-aktg--folgen-nicht-rechtzeitiger-einzahlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=57) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_59_TextContainer_59) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-57-aktg--folgen-nicht-rechtzeitiger-einzahlung) \]
 
 ----
 
@@ -1152,7 +1152,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` An Stelle der alten Urkunden werden neue ausgegeben; diese haben außer den geleisteten Teilzahlungen den rückständigen Betrag anzugeben\. Für den Ausfall der Gesellschaft an diesem Betrag oder an den später eingeforderten Beträgen haftet ihr der ausgeschlossene Aktionär\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-58-aktg--ausschluß-säumiger-aktionäre) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=58) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-58-aktg--ausschluß-säumiger-aktionäre) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-58-aktg--ausschluß-säumiger-aktionäre) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=58) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-58-aktg--ausschluß-säumiger-aktionäre) \]
 
 ----
 
@@ -1164,7 +1164,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ist die Zahlung des rückständigen Betrags von Vormännern nicht zu erlangen, so hat die Gesellschaft die Aktie zum Börsenpreis durch Vermittlung eines Börsesensals und beim Fehlen eines Börsenpreises durch öffentliche Versteigerung zu verkaufen\. Im übrigen gilt § 179 Abs\. 3 sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-59-aktg--zahlungspflicht-der-vormänner) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=59) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-59-aktg--zahlungspflicht-der-vormänner) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-59-aktg--zahlungspflicht-der-vormänner) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=59) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-59-aktg--zahlungspflicht-der-vormänner) \]
 
 ----
 
@@ -1172,7 +1172,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Aktionäre und ihre Vormänner können von ihren Leistungspflichten nach den §§ 49 und 59 nicht befreit werden, sie können gegen diese Pflichten eine Forderung an die Gesellschaft nicht aufrechnen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-60-aktg--keine-befreiung-der-aktionäre-von-ihren-leistungspflichten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=60) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-60-aktg--keine-befreiung-der-aktionäre-von-ihren-leistungspflichten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-60-aktg--keine-befreiung-der-aktionäre-von-ihren-leistungspflichten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=60) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-60-aktg--keine-befreiung-der-aktionäre-von-ihren-leistungspflichten) \]
 
 ----
 
@@ -1196,7 +1196,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Dividendenansprüche aus Namensaktien, für die niemand als Aktionär im Aktienbuch eingetragen ist, verfallen mit Ablauf des Geschäftsjahres, in dem der betreffende Gewinnverwendungsbeschluss gefasst wurde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-61-aktg--eintragung-von-namensaktien-im-aktienbuch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=61) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-61-aktg--eintragung-von-namensaktien-im-aktienbuch) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-61-aktg--eintragung-von-namensaktien-im-aktienbuch) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=61) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-61-aktg--eintragung-von-namensaktien-im-aktienbuch) \]
 
 ----
 
@@ -1210,7 +1210,7 @@ Der Nationalrat hat beschlossen:
 > *\(Anm\.: Abs\. 4 aufgehoben durch Art\. 11 Z 2, BGBl\. I Nr\. 86/2021\)*
 > *\(Anm\.: Abs\. 5 aufgehoben durch BGBl\. I Nr\. 53/2011\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-62-aktg--übertragung-von-namensaktien-vinkulierung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=62) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_64_TextContainer_64) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-62-aktg--übertragung-von-namensaktien-vinkulierung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-62-aktg--übertragung-von-namensaktien-vinkulierung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=62) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_64_TextContainer_64) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-62-aktg--übertragung-von-namensaktien-vinkulierung) \]
 
 ----
 
@@ -1222,7 +1222,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Hat die Gesellschaft eine Willenserklärung dem Aktionär gegenüber abzugeben, so genügt, wenn die Berechtigten keinen gemeinschaftlichen Vertreter haben, die Abgabe der Erklärung gegenüber einem Berechtigten\. Dies gilt gegenüber mehreren erbserklärten Erben nur dann, wenn ihnen die Besorgung und Verwaltung der Verlassenschaft überlassen wurde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-63-aktg--rechtsgemeinschaft-an-einer-aktie) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=63) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_65_TextContainer_65) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-63-aktg--rechtsgemeinschaft-an-einer-aktie) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-63-aktg--rechtsgemeinschaft-an-einer-aktie) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=63) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_65_TextContainer_65) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-63-aktg--rechtsgemeinschaft-an-einer-aktie) \]
 
 ----
 
@@ -1230,7 +1230,7 @@ Der Nationalrat hat beschlossen:
 
 > Ist die Ausübung von Rechten aus der Aktie davon abhängig, daß der Aktionär während eines bestimmten Zeitraums Inhaber der Aktie gewesen ist, so steht dem Eigentum ein Anspruch auf Übereignung gegen ein Kreditinstitut gleich\. Die Eigentumszeit eines Rechtsvorgängers wird dem Aktionär zugerechnet, wenn er die Aktie unentgeltlich von seinem Treuhänder, als Gesamtrechtsnachfolger, bei Auseinandersetzung einer Gemeinschaft oder im Zug einer durch die Versicherungsaufsichtsbehörde genehmigten Vermögensübertragung erworben hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-64-aktg--berechnung-der-aktienbesitzzeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=64) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_66_TextContainer_66) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-64-aktg--berechnung-der-aktienbesitzzeit) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-64-aktg--berechnung-der-aktienbesitzzeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=64) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_66_TextContainer_66) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-64-aktg--berechnung-der-aktienbesitzzeit) \]
 
 ----
 
@@ -1268,7 +1268,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 34\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-65-aktg--erwerb-eigener-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=65) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_67_TextContainer_67) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-65-aktg--erwerb-eigener-aktien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-65-aktg--erwerb-eigener-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=65) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_67_TextContainer_67) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-65-aktg--erwerb-eigener-aktien) \]
 
 ----
 
@@ -1280,7 +1280,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Sind eigene Aktien innerhalb der in Abs\. 1 und 2 vorgesehenen Fristen nicht veräußert worden, so sind sie gemäß § 192 einzuziehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-65a-aktg--veräußerung-und-einziehung-eigener-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=65a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_68_TextContainer_68) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-65a-aktg--veräußerung-und-einziehung-eigener-aktien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-65a-aktg--veräußerung-und-einziehung-eigener-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=65a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_68_TextContainer_68) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-65a-aktg--veräußerung-und-einziehung-eigener-aktien) \]
 
 ----
 
@@ -1290,7 +1290,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ein Verstoß gegen Abs\. 1 macht die Verpfändung eigener Aktien nicht rechtsunwirksam\. Das schuldrechtliche Geschäft über die Verpfändung ist rechtsunwirksam, soweit die Verpfändung gegen Abs\. 1 verstößt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-65b-aktg--inpfandnahme-eigener-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=65b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_69_TextContainer_69) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-65b-aktg--inpfandnahme-eigener-aktien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-65b-aktg--inpfandnahme-eigener-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=65b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_69_TextContainer_69) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-65b-aktg--inpfandnahme-eigener-aktien) \]
 
 ----
 
@@ -1302,7 +1302,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 34\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-66-aktg--erwerb-eigener-aktien-durch-dritte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=66) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_70_TextContainer_70) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-66-aktg--erwerb-eigener-aktien-durch-dritte) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-66-aktg--erwerb-eigener-aktien-durch-dritte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=66) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_70_TextContainer_70) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-66-aktg--erwerb-eigener-aktien-durch-dritte) \]
 
 ----
 
@@ -1312,7 +1312,7 @@ Der Nationalrat hat beschlossen:
 >
 > *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 34\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-66a-aktg--finanzierung-des-erwerbs-von-aktien-der-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=66a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_71_TextContainer_71) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-66a-aktg--finanzierung-des-erwerbs-von-aktien-der-gesellschaft) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-66a-aktg--finanzierung-des-erwerbs-von-aktien-der-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=66a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_71_TextContainer_71) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-66a-aktg--finanzierung-des-erwerbs-von-aktien-der-gesellschaft) \]
 
 ----
 
@@ -1326,7 +1326,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Soweit zur Herabsetzung des Grundkapitals Aktien zusammengelegt werden, gilt § 179\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-67-aktg--kraftloserklärung-von-aktien-durch-die-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=67) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_72_TextContainer_72) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-67-aktg--kraftloserklärung-von-aktien-durch-die-gesellschaft) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-67-aktg--kraftloserklärung-von-aktien-durch-die-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=67) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_72_TextContainer_72) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-67-aktg--kraftloserklärung-von-aktien-durch-die-gesellschaft) \]
 
 ----
 
@@ -1334,7 +1334,7 @@ Der Nationalrat hat beschlossen:
 
 > Ist eine Aktie infolge einer Beschädigung oder einer Verunstaltung zum Umlauf nicht mehr geeignet, so kann der Berechtigte, wenn der wesentliche Inhalt und die Unterscheidungsmerkmale der Urkunde noch mit Sicherheit erkennbar sind, von der Gesellschaft die Erteilung einer neuen Urkunde gegen Aushändigung der alten verlangen\. Die Kosten hat er zu tragen und vorzuschießen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-68-aktg--neue-urkunden-an-stelle-beschädigter-oder-verunstalteter-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=68) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_73_TextContainer_73) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-68-aktg--neue-urkunden-an-stelle-beschädigter-oder-verunstalteter-aktien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-68-aktg--neue-urkunden-an-stelle-beschädigter-oder-verunstalteter-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=68) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_73_TextContainer_73) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-68-aktg--neue-urkunden-an-stelle-beschädigter-oder-verunstalteter-aktien) \]
 
 ----
 
@@ -1342,7 +1342,7 @@ Der Nationalrat hat beschlossen:
 
 > Neue Gewinnanteilscheine dürfen an den Inhaber des Erneuerungsscheins nicht ausgegeben werden, wenn der Besitzer der Aktie der Ausgabe widerspricht\. In diesem Fall sind die Scheine dem Besitzer der Aktie auszuhändigen, wenn er die Haupturkunde vorlegt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-69-aktg--neue-gewinnanteilscheine) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=69) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_74_TextContainer_74) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-69-aktg--neue-gewinnanteilscheine) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-69-aktg--neue-gewinnanteilscheine) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=69) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_74_TextContainer_74) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.003.md#-69-aktg--neue-gewinnanteilscheine) \]
 
 ----
 
@@ -1360,7 +1360,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Vorstand kann aus einer oder mehreren Personen bestehen\. Ist ein Vorstandsmitglied zum Vorsitzenden des Vorstands ernannt, so gibt, wenn die Satzung nichts anderes bestimmt, seine Stimme bei Stimmengleichheit den Ausschlag\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-70-aktg--leitung-der-aktiengesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=70) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_75_TextContainer_75) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-70-aktg--leitung-der-aktiengesellschaft) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-70-aktg--leitung-der-aktiengesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=70) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_75_TextContainer_75) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-70-aktg--leitung-der-aktiengesellschaft) \]
 
 ----
 
@@ -1372,7 +1372,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Satzung kann, wenn der Vorstand aus mehreren Personen besteht, auch bestimmen daß einzelne von diesen allein oder in Gemeinschaft mit einem Prokuristen zur Vertretung der Gesellschaft befugt sind; es muß aber in jedem Fall die Möglichkeit bestehen, daß die Gesellschaft vom Vorstand auch ohne die Mitwirkung eines Prokuristen vertreten werden kann\. Gleiches kann der Aufsichtsrat bestimmen, wenn die Satzung ihn hiezu ermächtigt hat\. Abs\. 2 Satz 2 und 3 gilt in diesem Fällen sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-71-aktg--vertretung-der-aktiengesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=71) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_76_TextContainer_76) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-71-aktg--vertretung-der-aktiengesellschaft) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-71-aktg--vertretung-der-aktiengesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=71) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_76_TextContainer_76) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-71-aktg--vertretung-der-aktiengesellschaft) \]
 
 ----
 
@@ -1380,7 +1380,7 @@ Der Nationalrat hat beschlossen:
 
 > Der Vorstand hat in der Weise zu zeichnen, daß die Zeichnenden zu der Firma der Gesellschaft oder zu der Benennung des Vorstands ihre Namensunterschrift hinzufügen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-72-aktg--zeichnung-des-vorstands) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=72) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_77_TextContainer_77) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-72-aktg--zeichnung-des-vorstands) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-72-aktg--zeichnung-des-vorstands) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=72) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_77_TextContainer_77) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-72-aktg--zeichnung-des-vorstands) \]
 
 ----
 
@@ -1394,7 +1394,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Ist eine Person als Vorstandsmitglied eingetragen oder bekanntgemacht, so kann ein Mangel ihrer Bestellung einem Dritten nur entgegengehalten werden, wenn der Mangel diesem bekannt war\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-73-aktg--änderung-des-vorstands-und-der-vertretungsbefugnis-seiner-mitglieder) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=73) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_78_TextContainer_78) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-73-aktg--änderung-des-vorstands-und-der-vertretungsbefugnis-seiner-mitglieder) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-73-aktg--änderung-des-vorstands-und-der-vertretungsbefugnis-seiner-mitglieder) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=73) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_78_TextContainer_78) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-73-aktg--änderung-des-vorstands-und-der-vertretungsbefugnis-seiner-mitglieder) \]
 
 ----
 
@@ -1404,7 +1404,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Dritten gegenüber ist eine Beschränkung der Vertretungsbefugnis des Vorstands unwirksam\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-74-aktg--beschränkung-der-vertretungsbefugnis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=74) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_79_TextContainer_79) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-74-aktg--beschränkung-der-vertretungsbefugnis) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-74-aktg--beschränkung-der-vertretungsbefugnis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=74) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_79_TextContainer_79) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-74-aktg--beschränkung-der-vertretungsbefugnis) \]
 
 ----
 
@@ -1424,7 +1424,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Aufsichtsrat kann die Bestellung zum Vorstandsmitglied und die Ernennung zum Vorsitzenden des Vorstands widerrufen, wenn ein wichtiger Grund vorliegt\. Ein solcher Grund ist namentlich grobe Pflichtverletzung, Unfähigkeit zur ordnungsgemäßen Geschäftsführung oder Entziehung des Vertrauens durch die Hauptversammlung, es sei denn, daß das Vertrauen aus offenbar unsachlichen Gründen entzogen worden ist\. Dies gilt auch für den vom ersten Aufsichtsrat bestellten Vorstand\. Der Widerruf ist wirksam, solange nicht über seine Unwirksamkeit rechtskräftig entschieden ist\. Ansprüche aus dem Anstellungsvertrag werden hiedurch nicht berührt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-75-aktg--bestellung-und-abberufung-des-vorstands) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=75) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_80_TextContainer_80) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-75-aktg--bestellung-und-abberufung-des-vorstands) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-75-aktg--bestellung-und-abberufung-des-vorstands) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=75) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_80_TextContainer_80) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-75-aktg--bestellung-und-abberufung-des-vorstands) \]
 
 ----
 
@@ -1434,7 +1434,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Beschluss über die Bestellung des Vorstandsmitglieds ist mit dessen Zustimmung sowie, sofern im Beschluss nichts anderes angeordnet ist, mit Zustellung an das Vorstandsmitglied wirksam\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-76-aktg--bestellung-durch-das-gericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=76) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_81_TextContainer_81) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-76-aktg--bestellung-durch-das-gericht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-76-aktg--bestellung-durch-das-gericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=76) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_81_TextContainer_81) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-76-aktg--bestellung-durch-das-gericht) \]
 
 ----
 
@@ -1446,7 +1446,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 31\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-78-aktg--grundsätze-für-die-bezüge-der-vorstandsmitglieder) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=78) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_82_TextContainer_82) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-78-aktg--grundsätze-für-die-bezüge-der-vorstandsmitglieder) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-78-aktg--grundsätze-für-die-bezüge-der-vorstandsmitglieder) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=78) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_82_TextContainer_82) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-78-aktg--grundsätze-für-die-bezüge-der-vorstandsmitglieder) \]
 
 ----
 
@@ -1472,7 +1472,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 41\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-78a-aktg--grundsätze-für-die-bezüge-der-vorstandsmitglieder-in-börsenotierten-gesellschaften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=78a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_83_TextContainer_83) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-78a-aktg--grundsätze-für-die-bezüge-der-vorstandsmitglieder-in-börsenotierten-gesellschaften) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-78a-aktg--grundsätze-für-die-bezüge-der-vorstandsmitglieder-in-börsenotierten-gesellschaften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=78a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_83_TextContainer_83) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-78a-aktg--grundsätze-für-die-bezüge-der-vorstandsmitglieder-in-börsenotierten-gesellschaften) \]
 
 ----
 
@@ -1486,7 +1486,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 41\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-78b-aktg--abstimmung-über-die-vergütungspolitik-und-veröffentlichung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=78b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_84_TextContainer_84) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-78b-aktg--abstimmung-über-die-vergütungspolitik-und-veröffentlichung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-78b-aktg--abstimmung-über-die-vergütungspolitik-und-veröffentlichung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=78b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_84_TextContainer_84) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-78b-aktg--abstimmung-über-die-vergütungspolitik-und-veröffentlichung) \]
 
 ----
 
@@ -1514,7 +1514,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 41\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-78c-aktg--erstellung-eines-vergütungsberichts-für-die-bezüge-der-vorstandsmitglieder-in-börsenotierten-gesellschaften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=78c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_85_TextContainer_85) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-78c-aktg--erstellung-eines-vergütungsberichts-für-die-bezüge-der-vorstandsmitglieder-in-börsenotierten-gesellschaften) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-78c-aktg--erstellung-eines-vergütungsberichts-für-die-bezüge-der-vorstandsmitglieder-in-börsenotierten-gesellschaften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=78c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_85_TextContainer_85) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-78c-aktg--erstellung-eines-vergütungsberichts-für-die-bezüge-der-vorstandsmitglieder-in-börsenotierten-gesellschaften) \]
 
 ----
 
@@ -1526,7 +1526,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 41\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-78d-aktg--recht-auf-abstimmung-über-den-vergütungsbericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=78d) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_86_TextContainer_86) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-78d-aktg--recht-auf-abstimmung-über-den-vergütungsbericht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-78d-aktg--recht-auf-abstimmung-über-den-vergütungsbericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=78d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_86_TextContainer_86) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-78d-aktg--recht-auf-abstimmung-über-den-vergütungsbericht) \]
 
 ----
 
@@ -1540,7 +1540,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 41\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-78e-aktg--veröffentlichung-des-vergütungsberichts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=78e) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_87_TextContainer_87) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-78e-aktg--veröffentlichung-des-vergütungsberichts) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-78e-aktg--veröffentlichung-des-vergütungsberichts) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=78e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_87_TextContainer_87) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-78e-aktg--veröffentlichung-des-vergütungsberichts) \]
 
 ----
 
@@ -1554,7 +1554,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 34\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-79-aktg--wettbewerbsverbot) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=79) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_88_TextContainer_88) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-79-aktg--wettbewerbsverbot) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-79-aktg--wettbewerbsverbot) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=79) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_88_TextContainer_88) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-79-aktg--wettbewerbsverbot) \]
 
 ----
 
@@ -1568,7 +1568,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wird entgegen Abs\. 1 bis 3 Kredit gewährt, so ist der Kredit ohne Rücksicht auf entgegenstehende Vereinbarungen sofort zurückzuzahlen, wenn nicht der Aufsichtsrat nachträglich zustimmt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-80-aktg--kreditgewährung-an-vorstandsmitglieder) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=80) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_89_TextContainer_89) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-80-aktg--kreditgewährung-an-vorstandsmitglieder) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-80-aktg--kreditgewährung-an-vorstandsmitglieder) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=80) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_89_TextContainer_89) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-80-aktg--kreditgewährung-an-vorstandsmitglieder) \]
 
 ----
 
@@ -1580,7 +1580,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.Nach Art\. XII Abs\. 11 IRÄG 1997, BGBl\. I Nr\. 114/1997, ist die Neufassung erst auf Geschäftsjahre anzuwenden, die nach dem 30\.9\.1997 beginnen\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-81-aktg--bericht-an-den-aufsichtsrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=81) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_90_TextContainer_90) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-81-aktg--bericht-an-den-aufsichtsrat) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-81-aktg--bericht-an-den-aufsichtsrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=81) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_90_TextContainer_90) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-81-aktg--bericht-an-den-aufsichtsrat) \]
 
 ----
 
@@ -1590,7 +1590,7 @@ Der Nationalrat hat beschlossen:
 >
 > *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-82-aktg--rechnungswesen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=82) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_91_TextContainer_91) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-82-aktg--rechnungswesen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-82-aktg--rechnungswesen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=82) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_91_TextContainer_91) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-82-aktg--rechnungswesen) \]
 
 ----
 
@@ -1598,7 +1598,7 @@ Der Nationalrat hat beschlossen:
 
 > Ergibt sich bei Aufstellung der Jahresbilanz oder einer Zwischenbilanz oder ist anzunehmen, daß ein Verlust in der Höhe des halben Grundkapitals besteht, so hat der Vorstand unverzüglich die Hauptversammlung einzuberufen und dieser davon Anzeige zu machen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-83-aktg--vorstandspflichten-bei-verlust) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=83) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_92_TextContainer_92) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-83-aktg--vorstandspflichten-bei-verlust) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-83-aktg--vorstandspflichten-bei-verlust) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=83) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_92_TextContainer_92) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-83-aktg--vorstandspflichten-bei-verlust) \]
 
 ----
 
@@ -1634,7 +1634,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Die Ansprüche aus diesen Vorschriften verjähren in fünf Jahren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-84-aktg--sorgfaltspflicht-und-verantwortlichkeit-der-vorstandsmitglieder) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=84) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_93_TextContainer_93) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-84-aktg--sorgfaltspflicht-und-verantwortlichkeit-der-vorstandsmitglieder) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-84-aktg--sorgfaltspflicht-und-verantwortlichkeit-der-vorstandsmitglieder) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=84) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_93_TextContainer_93) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-84-aktg--sorgfaltspflicht-und-verantwortlichkeit-der-vorstandsmitglieder) \]
 
 ----
 
@@ -1642,7 +1642,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Vorschriften für die Vorstandsmitglieder gelten auch für ihre Stellvertreter\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-85-aktg--stellvertreter-von-vorstandsmitgliedern) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=85) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_94_TextContainer_94) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-85-aktg--stellvertreter-von-vorstandsmitgliedern) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-85-aktg--stellvertreter-von-vorstandsmitgliedern) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=85) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_94_TextContainer_94) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.004.md#-85-aktg--stellvertreter-von-vorstandsmitgliedern) \]
 
 ----
 
@@ -1682,7 +1682,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 34\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-86-aktg--zusammensetzung-des-aufsichtsrats) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=86) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_95_TextContainer_95) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-86-aktg--zusammensetzung-des-aufsichtsrats) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-86-aktg--zusammensetzung-des-aufsichtsrats) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=86) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_95_TextContainer_95) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-86-aktg--zusammensetzung-des-aufsichtsrats) \]
 
 ----
 
@@ -1712,7 +1712,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 31\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-87-aktg--wahl-und-abberufung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=87) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_96_TextContainer_96) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-87-aktg--wahl-und-abberufung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-87-aktg--wahl-und-abberufung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=87) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_96_TextContainer_96) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-87-aktg--wahl-und-abberufung) \]
 
 ----
 
@@ -1728,7 +1728,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Sind die in der Satzung bestimmten Voraussetzungen des Entsendungsrechts weggefallen, so kann die Hauptversammlung das entsandte Mitglied mit einfacher Stimmenmehrheit abberufen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-88-aktg--entsendung-von-mitgliedern-in-den-aufsichtsrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=88) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_97_TextContainer_97) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-88-aktg--entsendung-von-mitgliedern-in-den-aufsichtsrat) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-88-aktg--entsendung-von-mitgliedern-in-den-aufsichtsrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=88) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_97_TextContainer_97) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-88-aktg--entsendung-von-mitgliedern-in-den-aufsichtsrat) \]
 
 ----
 
@@ -1738,7 +1738,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Das Gericht hat die von ihm bestellten Mitglieder abzuberufen, wenn die Voraussetzungen weggefallen sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-89-aktg--bestellung-durch-das-gericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=89) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_98_TextContainer_98) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-89-aktg--bestellung-durch-das-gericht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-89-aktg--bestellung-durch-das-gericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=89) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_98_TextContainer_98) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-89-aktg--bestellung-durch-das-gericht) \]
 
 ----
 
@@ -1750,7 +1750,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 34\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-90-aktg--unvereinbarkeit-der-zugehörigkeit-zum-vorstand-und-zum-aufsichtsrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=90) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_99_TextContainer_99) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-90-aktg--unvereinbarkeit-der-zugehörigkeit-zum-vorstand-und-zum-aufsichtsrat) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-90-aktg--unvereinbarkeit-der-zugehörigkeit-zum-vorstand-und-zum-aufsichtsrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=90) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_99_TextContainer_99) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-90-aktg--unvereinbarkeit-der-zugehörigkeit-zum-vorstand-und-zum-aufsichtsrat) \]
 
 ----
 
@@ -1758,7 +1758,7 @@ Der Nationalrat hat beschlossen:
 
 > Der Vorstand hat jeden Wechsel der Aufsichtsratsmitglieder unverzüglich zur Eintragung in das Firmenbuch anzumelden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-91-aktg--veröffentlichung-der-änderungen-im-aufsichtsrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=91) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_100_TextContainer_100) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-91-aktg--veröffentlichung-der-änderungen-im-aufsichtsrat) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-91-aktg--veröffentlichung-der-änderungen-im-aufsichtsrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=91) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_100_TextContainer_100) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-91-aktg--veröffentlichung-der-änderungen-im-aufsichtsrat) \]
 
 ----
 
@@ -1804,7 +1804,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 36\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-92-aktg--innere-ordnung-des-aufsichtsrats) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=92) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_101_TextContainer_101) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-92-aktg--innere-ordnung-des-aufsichtsrats) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-92-aktg--innere-ordnung-des-aufsichtsrats) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=92) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_101_TextContainer_101) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-92-aktg--innere-ordnung-des-aufsichtsrats) \]
 
 ----
 
@@ -1818,7 +1818,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Abweichende gesetzliche Vorschriften bleiben unberührt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-93-aktg--teilnahme-an-sitzungen-des-aufsichtsrats-und-seiner-ausschüsse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=93) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_102_TextContainer_102) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-93-aktg--teilnahme-an-sitzungen-des-aufsichtsrats-und-seiner-ausschüsse) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-93-aktg--teilnahme-an-sitzungen-des-aufsichtsrats-und-seiner-ausschüsse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=93) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_102_TextContainer_102) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-93-aktg--teilnahme-an-sitzungen-des-aufsichtsrats-und-seiner-ausschüsse) \]
 
 ----
 
@@ -1830,7 +1830,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Aufsichtsrat muß mindestens viermal im Geschäftsjahr eine Sitzung abhalten\. Die Sitzungen haben vierteljährlich stattzufinden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-94-aktg--einberufung-des-aufsichtsrats) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=94) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_103_TextContainer_103) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-94-aktg--einberufung-des-aufsichtsrats) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-94-aktg--einberufung-des-aufsichtsrats) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=94) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_103_TextContainer_103) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-94-aktg--einberufung-des-aufsichtsrats) \]
 
 ----
 
@@ -1882,7 +1882,7 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Die Aufsichtsratsmitglieder können ihre Obliegenheiten nicht durch andere ausüben lassen\. Die Satzung kann aber zulassen, daß ein Aufsichtsratsmitglied ein anderes schriftlich mit seiner Vertretung bei einer einzelnen Sitzung betraut; ein so vertretenes Mitglied ist bei der Feststellung der Beschlußfähigkeit einer Sitzung \(§ 92 Abs\. 5\) nicht mitzuzählen\. Das Recht, den Vorsitz zu führen, kann nicht übertragen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-95-aktg--aufgaben-und-rechte-des-aufsichtsrats) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=95) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_104_TextContainer_104) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-95-aktg--aufgaben-und-rechte-des-aufsichtsrats) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-95-aktg--aufgaben-und-rechte-des-aufsichtsrats) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=95) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_104_TextContainer_104) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-95-aktg--aufgaben-und-rechte-des-aufsichtsrats) \]
 
 ----
 
@@ -1922,7 +1922,7 @@ Der Nationalrat hat beschlossen:
 
 > `(9)` Sonstige gesetzliche Zustimmungspflichten des Aufsichtsrats bleiben unberührt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-95a-aktg--geschäfte-mit-nahestehenden-unternehmen-und-personen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=95a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_105_TextContainer_105) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-95a-aktg--geschäfte-mit-nahestehenden-unternehmen-und-personen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-95a-aktg--geschäfte-mit-nahestehenden-unternehmen-und-personen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=95a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_105_TextContainer_105) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-95a-aktg--geschäfte-mit-nahestehenden-unternehmen-und-personen) \]
 
 ----
 
@@ -1938,7 +1938,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Abs\. 1 bis 3 sind erstmalig auf Unterlagen für Geschäftsjahre anzuwenden, die nach dem 31\. Dezember 2016 beginnen \(vgl\. § 262 Abs\. 37\)\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-96-aktg--bericht-an-die-hauptversammlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=96) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_106_TextContainer_106) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-96-aktg--bericht-an-die-hauptversammlung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-96-aktg--bericht-an-die-hauptversammlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=96) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_106_TextContainer_106) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-96-aktg--bericht-an-die-hauptversammlung) \]
 
 ----
 
@@ -1948,7 +1948,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Aufsichtsrat kann, wenn die Verantwortlichkeit eines seiner Mitglieder in Frage kommt, ohne und selbst gegen den Beschluß der Hauptversammlung gegen die Vorstandsmitglieder klagen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-97-aktg--vertretung-der-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=97) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_107_TextContainer_107) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-97-aktg--vertretung-der-gesellschaft) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-97-aktg--vertretung-der-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=97) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_107_TextContainer_107) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-97-aktg--vertretung-der-gesellschaft) \]
 
 ----
 
@@ -1960,7 +1960,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Sollen mit eigenen Aktien oder mit Aktien von dritten nicht unter § 66 fallenden Personen zu bedienende Optionen Aufsichtsratsmitgliedern der Gesellschaft oder eines verbundenen Unternehmens eingeräumt werden, so hat der Vorstand der Hauptversammlung einen Bericht gemäß § 159 Abs\. 2 Z 3 zu erstatten und offenzulegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-98-aktg--vergütung-der-aufsichtsratsmitglieder) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=98) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_108_TextContainer_108) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-98-aktg--vergütung-der-aufsichtsratsmitglieder) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-98-aktg--vergütung-der-aufsichtsratsmitglieder) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=98) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_108_TextContainer_108) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-98-aktg--vergütung-der-aufsichtsratsmitglieder) \]
 
 ----
 
@@ -1968,7 +1968,7 @@ Der Nationalrat hat beschlossen:
 
 > In einer börsenotierten Gesellschaft sind die Vergütungspolitik und der Vergütungsbericht auch hinsichtlich der Vergütung der Mitglieder des Aufsichtsrats zu erstellen; dabei sind die §§ 78a bis 78e sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-98a-aktg--grundsätze-für-die-bezüge-der-aufsichtsratsmitglieder-in-börsenotierten-gesellschaften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=98a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_109_TextContainer_109) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-98a-aktg--grundsätze-für-die-bezüge-der-aufsichtsratsmitglieder-in-börsenotierten-gesellschaften) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-98a-aktg--grundsätze-für-die-bezüge-der-aufsichtsratsmitglieder-in-börsenotierten-gesellschaften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=98a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_109_TextContainer_109) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-98a-aktg--grundsätze-für-die-bezüge-der-aufsichtsratsmitglieder-in-börsenotierten-gesellschaften) \]
 
 ----
 
@@ -1976,7 +1976,7 @@ Der Nationalrat hat beschlossen:
 
 > Für die Sorgfaltspflicht und Verantwortlichkeit der Aufsichtsratsmitglieder gilt § 84 über die Sorgfaltspflicht und Verantwortlichkeit der Vorstandsmitglieder sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-99-aktg--sorgfaltspflicht-und-verantwortlichkeit-der-aufsichtsratsmitglieder) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=99) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_110_TextContainer_110) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-99-aktg--sorgfaltspflicht-und-verantwortlichkeit-der-aufsichtsratsmitglieder) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-99-aktg--sorgfaltspflicht-und-verantwortlichkeit-der-aufsichtsratsmitglieder) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=99) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_110_TextContainer_110) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.005.md#-99-aktg--sorgfaltspflicht-und-verantwortlichkeit-der-aufsichtsratsmitglieder) \]
 
 ----
 
@@ -1994,7 +1994,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Für die Aufhebung der Ersatzpflicht gegenüber der Gesellschaft gilt sinngemäß § 84 Abs\. 4 Satz 3 und 4\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-100-aktg--handeln-zum-schaden-der-gesellschaft-zwecks-erlangung-gesellschaftsfremder-vorteile) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=100) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_111_TextContainer_111) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-100-aktg--handeln-zum-schaden-der-gesellschaft-zwecks-erlangung-gesellschaftsfremder-vorteile) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-100-aktg--handeln-zum-schaden-der-gesellschaft-zwecks-erlangung-gesellschaftsfremder-vorteile) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=100) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_111_TextContainer_111) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-100-aktg--handeln-zum-schaden-der-gesellschaft-zwecks-erlangung-gesellschaftsfremder-vorteile) \]
 
 ----
 
@@ -2006,7 +2006,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Vorschriften dieses Abschnittes gelten nicht, wenn gesellschaftsfremde Sondervorteile durch Stimmrechtsausübung verfolgt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-101-aktg--ersatzansprüche-der-gläubiger) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=101) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_112_TextContainer_112) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-101-aktg--ersatzansprüche-der-gläubiger) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-101-aktg--ersatzansprüche-der-gläubiger) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=101) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_112_TextContainer_112) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-101-aktg--ersatzansprüche-der-gläubiger) \]
 
 ----
 
@@ -2040,7 +2040,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-102-aktg--funktion-der-hauptversammlung-formen-der-teilnahme) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=102) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_113_TextContainer_113) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-102-aktg--funktion-der-hauptversammlung-formen-der-teilnahme) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-102-aktg--funktion-der-hauptversammlung-formen-der-teilnahme) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=102) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_113_TextContainer_113) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-102-aktg--funktion-der-hauptversammlung-formen-der-teilnahme) \]
 
 ----
 
@@ -2052,7 +2052,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-103-aktg--zuständigkeit-der-hauptversammlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=103) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_114_TextContainer_114) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-103-aktg--zuständigkeit-der-hauptversammlung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-103-aktg--zuständigkeit-der-hauptversammlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=103) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_114_TextContainer_114) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-103-aktg--zuständigkeit-der-hauptversammlung) \]
 
 ----
 
@@ -2080,7 +2080,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Bei der Beschlussfassung über die Verwendung des Bilanzgewinns ist die Hauptversammlung an den vom Vorstand mit Billigung des Aufsichtsrats festgestellten Jahresabschluss gebunden\. Sie kann jedoch den Bilanzgewinn ganz oder teilweise von der Verteilung ausschließen, soweit sie auf Grund der Satzung hiezu ermächtigt ist\. Die Änderungen des Jahresabschlusses, die hierdurch nötig werden, hat der Vorstand vorzunehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-104-aktg--ordentliche-hauptversammlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=104) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_115_TextContainer_115) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-104-aktg--ordentliche-hauptversammlung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-104-aktg--ordentliche-hauptversammlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=104) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_115_TextContainer_115) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-104-aktg--ordentliche-hauptversammlung) \]
 
 ----
 
@@ -2104,7 +2104,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-105-aktg--einberufung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=105) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_116_TextContainer_116) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-105-aktg--einberufung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-105-aktg--einberufung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=105) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_116_TextContainer_116) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-105-aktg--einberufung) \]
 
 ----
 
@@ -2140,7 +2140,7 @@ Der Nationalrat hat beschlossen:
 >
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-106-aktg--inhalt-der-einberufung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=106) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_117_TextContainer_117) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-106-aktg--inhalt-der-einberufung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-106-aktg--inhalt-der-einberufung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=106) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_117_TextContainer_117) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-106-aktg--inhalt-der-einberufung) \]
 
 ----
 
@@ -2154,7 +2154,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wenn die Einberufung nicht vom Vorstand oder vom Aufsichtsrat ausgeht, ist sie auch der Gesellschaft zur Kenntnis zu bringen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-107-aktg--bekanntmachung-frist) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=107) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_118_TextContainer_118) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-107-aktg--bekanntmachung-frist) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-107-aktg--bekanntmachung-frist) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=107) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_118_TextContainer_118) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-107-aktg--bekanntmachung-frist) \]
 
 ----
 
@@ -2188,7 +2188,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Eine nicht börsenotierte Gesellschaft hat jedem Aktionär auf Verlangen unverzüglich und kostenlos eine Abschrift der in Abs\. 3 genannten Unterlagen zu erteilen; jeder Aktionär kann auch verlangen, dass ihm die Einberufung und eine Abschrift der Unterlagen gemäß Abs\. 3 spätestens am 21\. Tag vor der Hauptversammlung durch eingeschriebenen Brief oder im Weg der elektronischen Post an die der Gesellschaft bekannt gegebene Adresse übersendet werden\. Diese Verpflichtungen entfallen, wenn die Gesellschaft diese Unterlagen auf ihrer im Firmenbuch eingetragenen Internetseite zugänglich macht\. Für die Dauer des Zugänglichmachens gilt Abs\. 4 sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-108-aktg--bereitstellung-von-informationen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=108) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_119_TextContainer_119) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-108-aktg--bereitstellung-von-informationen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-108-aktg--bereitstellung-von-informationen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=108) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_119_TextContainer_119) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-108-aktg--bereitstellung-von-informationen) \]
 
 ----
 
@@ -2200,7 +2200,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-109-aktg--beantragung-von-tagesordnungspunkten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=109) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_120_TextContainer_120) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-109-aktg--beantragung-von-tagesordnungspunkten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-109-aktg--beantragung-von-tagesordnungspunkten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=109) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_120_TextContainer_120) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-109-aktg--beantragung-von-tagesordnungspunkten) \]
 
 ----
 
@@ -2230,7 +2230,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Die Gesellschaft haftet nicht für Schäden, die allein aus der Tatsache der Bekanntmachung von Beschlussvorschlägen von Aktionären entstehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-110-aktg--beschlussvorschläge-von-aktionären) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=110) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_121_TextContainer_121) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-110-aktg--beschlussvorschläge-von-aktionären) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-110-aktg--beschlussvorschläge-von-aktionären) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=110) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_121_TextContainer_121) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-110-aktg--beschlussvorschläge-von-aktionären) \]
 
 ----
 
@@ -2252,7 +2252,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-111-aktg--teilnahmeberechtigung-bei-einer-börsenotierten-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=111) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_122_TextContainer_122) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-111-aktg--teilnahmeberechtigung-bei-einer-börsenotierten-gesellschaft) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-111-aktg--teilnahmeberechtigung-bei-einer-börsenotierten-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=111) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_122_TextContainer_122) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-111-aktg--teilnahmeberechtigung-bei-einer-börsenotierten-gesellschaft) \]
 
 ----
 
@@ -2267,7 +2267,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-112-aktg--teilnahmeberechtigung-bei-einer-nicht-börsenotierten-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=112) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_123_TextContainer_123) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-112-aktg--teilnahmeberechtigung-bei-einer-nicht-börsenotierten-gesellschaft) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-112-aktg--teilnahmeberechtigung-bei-einer-nicht-börsenotierten-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=112) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_123_TextContainer_123) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-112-aktg--teilnahmeberechtigung-bei-einer-nicht-börsenotierten-gesellschaft) \]
 
 ----
 
@@ -2281,7 +2281,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-113-aktg--vertretung-durch-bevollmächtigte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=113) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_124_TextContainer_124) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-113-aktg--vertretung-durch-bevollmächtigte) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-113-aktg--vertretung-durch-bevollmächtigte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=113) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_124_TextContainer_124) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-113-aktg--vertretung-durch-bevollmächtigte) \]
 
 ----
 
@@ -2297,7 +2297,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-114-aktg--erteilung-und-widerruf-der-vollmacht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=114) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_125_TextContainer_125) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-114-aktg--erteilung-und-widerruf-der-vollmacht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-114-aktg--erteilung-und-widerruf-der-vollmacht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=114) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_125_TextContainer_125) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-114-aktg--erteilung-und-widerruf-der-vollmacht) \]
 
 ----
 
@@ -2307,7 +2307,7 @@ Der Nationalrat hat beschlossen:
 >
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-115-aktg--ausschluss-anderer-formen-der-stimmrechtsübertragung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=115) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_126_TextContainer_126) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-115-aktg--ausschluss-anderer-formen-der-stimmrechtsübertragung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-115-aktg--ausschluss-anderer-formen-der-stimmrechtsübertragung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=115) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_126_TextContainer_126) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.006.md#-115-aktg--ausschluss-anderer-formen-der-stimmrechtsübertragung) \]
 
 ----
 
@@ -2323,7 +2323,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-116-aktg--vorsitz-teilnahme-von-vorstand-und-aufsichtsrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=116) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_127_TextContainer_127) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-116-aktg--vorsitz-teilnahme-von-vorstand-und-aufsichtsrat) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-116-aktg--vorsitz-teilnahme-von-vorstand-und-aufsichtsrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=116) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_127_TextContainer_127) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-116-aktg--vorsitz-teilnahme-von-vorstand-und-aufsichtsrat) \]
 
 ----
 
@@ -2333,7 +2333,7 @@ Der Nationalrat hat beschlossen:
 >
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-117-aktg--verzeichnis-der-anwesenden-teilnehmer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=117) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_128_TextContainer_128) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-117-aktg--verzeichnis-der-anwesenden-teilnehmer) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-117-aktg--verzeichnis-der-anwesenden-teilnehmer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=117) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_128_TextContainer_128) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-117-aktg--verzeichnis-der-anwesenden-teilnehmer) \]
 
 ----
 
@@ -2353,7 +2353,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 34\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-118-aktg--auskunftsrecht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=118) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_129_TextContainer_129) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-118-aktg--auskunftsrecht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-118-aktg--auskunftsrecht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=118) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_129_TextContainer_129) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-118-aktg--auskunftsrecht) \]
 
 ----
 
@@ -2367,7 +2367,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-119-aktg--anträge-in-der-hauptversammlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=119) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_130_TextContainer_130) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-119-aktg--anträge-in-der-hauptversammlung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-119-aktg--anträge-in-der-hauptversammlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=119) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_130_TextContainer_130) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-119-aktg--anträge-in-der-hauptversammlung) \]
 
 ----
 
@@ -2389,7 +2389,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-120-aktg--niederschrift) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=120) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_131_TextContainer_131) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-120-aktg--niederschrift) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-120-aktg--niederschrift) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=120) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_131_TextContainer_131) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-120-aktg--niederschrift) \]
 
 ----
 
@@ -2405,7 +2405,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-121-aktg--beschlussfähigkeit-beschlussmehrheit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=121) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_132_TextContainer_132) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-121-aktg--beschlussfähigkeit-beschlussmehrheit) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-121-aktg--beschlussfähigkeit-beschlussmehrheit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=121) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_132_TextContainer_132) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-121-aktg--beschlussfähigkeit-beschlussmehrheit) \]
 
 ----
 
@@ -2415,7 +2415,7 @@ Der Nationalrat hat beschlossen:
 >
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-122-aktg--verfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=122) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_133_TextContainer_133) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-122-aktg--verfahren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-122-aktg--verfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=122) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_133_TextContainer_133) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-122-aktg--verfahren) \]
 
 ----
 
@@ -2433,7 +2433,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-123-aktg--stimmrecht-bei-teileingezahlten-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=123) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_134_TextContainer_134) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-123-aktg--stimmrecht-bei-teileingezahlten-aktien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-123-aktg--stimmrecht-bei-teileingezahlten-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=123) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_134_TextContainer_134) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-123-aktg--stimmrecht-bei-teileingezahlten-aktien) \]
 
 ----
 
@@ -2443,7 +2443,7 @@ Der Nationalrat hat beschlossen:
 >
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-124-aktg--ruhen-des-stimmrechts-bei-verstoß-gegen-meldepflichten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=124) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_135_TextContainer_135) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-124-aktg--ruhen-des-stimmrechts-bei-verstoß-gegen-meldepflichten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-124-aktg--ruhen-des-stimmrechts-bei-verstoß-gegen-meldepflichten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=124) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_135_TextContainer_135) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-124-aktg--ruhen-des-stimmrechts-bei-verstoß-gegen-meldepflichten) \]
 
 ----
 
@@ -2453,7 +2453,7 @@ Der Nationalrat hat beschlossen:
 >
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-125-aktg--ausschluss-des-stimmrechts-bei-interessenkonflikten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=125) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_136_TextContainer_136) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-125-aktg--ausschluss-des-stimmrechts-bei-interessenkonflikten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-125-aktg--ausschluss-des-stimmrechts-bei-interessenkonflikten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=125) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_136_TextContainer_136) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-125-aktg--ausschluss-des-stimmrechts-bei-interessenkonflikten) \]
 
 ----
 
@@ -2469,7 +2469,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-126-aktg--fernabstimmung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=126) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_137_TextContainer_137) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-126-aktg--fernabstimmung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-126-aktg--fernabstimmung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=126) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_137_TextContainer_137) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-126-aktg--fernabstimmung) \]
 
 ----
 
@@ -2485,7 +2485,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-127-aktg--abstimmung-per-brief) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=127) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_138_TextContainer_138) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-127-aktg--abstimmung-per-brief) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-127-aktg--abstimmung-per-brief) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=127) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_138_TextContainer_138) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-127-aktg--abstimmung-per-brief) \]
 
 ----
 
@@ -2511,7 +2511,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Wird den Aktionären ein in der Hauptversammlung zu fassender Beschluss in einer anderen als der deutschen Sprache vorgelegt, so ist jedenfalls auch eine deutsche Sprachfassung vorzulegen; für die Beurteilung von Inhalt und Gültigkeit des Beschlusses ist stets die deutsche Sprachfassung maßgeblich\. Gleiches gilt für Bekanntmachungen, Berichte oder sonstige Unterlagen der Gesellschaft, soweit die Gültigkeit eines Beschlusses von deren Inhalt abhängt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-128-aktg--abstimmungsergebnis-beschluss) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=128) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_139_TextContainer_139) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-128-aktg--abstimmungsergebnis-beschluss) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-128-aktg--abstimmungsergebnis-beschluss) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=128) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_139_TextContainer_139) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-128-aktg--abstimmungsergebnis-beschluss) \]
 
 ----
 
@@ -2527,7 +2527,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-129-aktg--sonderbeschluss-über-die-aufhebung-oder-beschränkung-des-vorzugs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=129) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_140_TextContainer_140) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-129-aktg--sonderbeschluss-über-die-aufhebung-oder-beschränkung-des-vorzugs) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-129-aktg--sonderbeschluss-über-die-aufhebung-oder-beschränkung-des-vorzugs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=129) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_140_TextContainer_140) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-129-aktg--sonderbeschluss-über-die-aufhebung-oder-beschränkung-des-vorzugs) \]
 
 ----
 
@@ -2547,7 +2547,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-130-aktg--bestellung-der-sonderprüfer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=130) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_141_TextContainer_141) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-130-aktg--bestellung-der-sonderprüfer) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-130-aktg--bestellung-der-sonderprüfer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=130) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_141_TextContainer_141) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-130-aktg--bestellung-der-sonderprüfer) \]
 
 ----
 
@@ -2559,7 +2559,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-131-aktg--auswahl-der-sonderprüfer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=131) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_142_TextContainer_142) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-131-aktg--auswahl-der-sonderprüfer) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-131-aktg--auswahl-der-sonderprüfer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=131) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_142_TextContainer_142) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-131-aktg--auswahl-der-sonderprüfer) \]
 
 ----
 
@@ -2569,7 +2569,7 @@ Der Nationalrat hat beschlossen:
 >
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-132-aktg--verantwortlichkeit-der-sonderprüfer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=132) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_143_TextContainer_143) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-132-aktg--verantwortlichkeit-der-sonderprüfer) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-132-aktg--verantwortlichkeit-der-sonderprüfer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=132) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_143_TextContainer_143) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-132-aktg--verantwortlichkeit-der-sonderprüfer) \]
 
 ----
 
@@ -2585,7 +2585,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-133-aktg--rechte-der-sonderprüfer-prüfungsbericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=133) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_144_TextContainer_144) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-133-aktg--rechte-der-sonderprüfer-prüfungsbericht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-133-aktg--rechte-der-sonderprüfer-prüfungsbericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=133) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_144_TextContainer_144) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-133-aktg--rechte-der-sonderprüfer-prüfungsbericht) \]
 
 ----
 
@@ -2601,7 +2601,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-134-aktg--verpflichtung-zur-geltendmachung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=134) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_145_TextContainer_145) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-134-aktg--verpflichtung-zur-geltendmachung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-134-aktg--verpflichtung-zur-geltendmachung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=134) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_145_TextContainer_145) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-134-aktg--verpflichtung-zur-geltendmachung) \]
 
 ----
 
@@ -2619,7 +2619,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-135-aktg--geltendmachung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=135) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_146_TextContainer_146) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-135-aktg--geltendmachung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-135-aktg--geltendmachung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=135) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_146_TextContainer_146) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-135-aktg--geltendmachung) \]
 
 ----
 
@@ -2629,7 +2629,7 @@ Der Nationalrat hat beschlossen:
 >
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-136-aktg--verzicht-und-vergleich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=136) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_147_TextContainer_147) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-136-aktg--verzicht-und-vergleich) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-136-aktg--verzicht-und-vergleich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=136) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_147_TextContainer_147) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-136-aktg--verzicht-und-vergleich) \]
 
 ----
 
@@ -2648,7 +2648,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die rechtswirksam getroffenen Festsetzungen über Sondervorteile, Gründungsaufwand, Sacheinlagen und Sachübernahmen \(§§ 19, 20\) können erst nach Ablauf der Verjährungsfrist des § 44 geändert werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-145-aktg--allgemeines) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=145) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_148_TextContainer_148) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-145-aktg--allgemeines) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-145-aktg--allgemeines) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=145) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_148_TextContainer_148) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-145-aktg--allgemeines) \]
 
 ----
 
@@ -2658,7 +2658,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Soll das bisherige Verhältnis mehrerer Gattungen von Aktien \(§ 11\) zum Nachteil einer Gattung geändert werden, so bedarf der Beschluß der Hauptversammlung zu seiner Wirksamkeit eines in gesonderter Abstimmung gefaßten Beschlusses der benachteiligten Aktionäre; für diesen gilt Abs\. 1\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-146-aktg--beschluß-der-hauptversammlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=146) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_149_TextContainer_149) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-146-aktg--beschluß-der-hauptversammlung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-146-aktg--beschluß-der-hauptversammlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=146) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_149_TextContainer_149) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-146-aktg--beschluß-der-hauptversammlung) \]
 
 ----
 
@@ -2666,7 +2666,7 @@ Der Nationalrat hat beschlossen:
 
 > Ein Beschluß, der Aktionären Nebenverpflichtungen \(§ 50\) auferlegt, bedarf zu seiner Wirksamkeit der Zustimmung aller betroffenen Aktionäre\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-147-aktg--begründung-von-nebenverpflichtungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=147) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_150_TextContainer_150) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-147-aktg--begründung-von-nebenverpflichtungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-147-aktg--begründung-von-nebenverpflichtungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=147) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_150_TextContainer_150) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-147-aktg--begründung-von-nebenverpflichtungen) \]
 
 ----
 
@@ -2680,7 +2680,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Änderung hat keine Wirkung, bevor sie in das Firmenbuch des Sitzes der Gesellschaft eingetragen worden ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-148-aktg--eintragung-der-satzungsänderung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=148) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_151_TextContainer_151) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-148-aktg--eintragung-der-satzungsänderung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-148-aktg--eintragung-der-satzungsänderung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=148) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_151_TextContainer_151) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.007.md#-148-aktg--eintragung-der-satzungsänderung) \]
 
 ----
 
@@ -2702,7 +2702,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Das Grundkapital darf nicht erhöht werden, solange noch ausstehende Einlagen auf das bisherige Grundkapital geleistet werden können\. Für Versicherungsgesellschaften kann die Satzung etwas anderes bestimmen\. Stehen Einlagen in verhältnismäßig unerheblichem Umfang aus, so hindert dies die Erhöhung des Grundkapitals nicht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-149-aktg--voraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=149) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_152_TextContainer_152) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-149-aktg--voraussetzungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-149-aktg--voraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=149) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_152_TextContainer_152) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-149-aktg--voraussetzungen) \]
 
 ----
 
@@ -2716,7 +2716,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-150-aktg--kapitalerhöhung-mit-sacheinlagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=150) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_153_TextContainer_153) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-150-aktg--kapitalerhöhung-mit-sacheinlagen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-150-aktg--kapitalerhöhung-mit-sacheinlagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=150) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_153_TextContainer_153) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-150-aktg--kapitalerhöhung-mit-sacheinlagen) \]
 
 ----
 
@@ -2728,7 +2728,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Das Gericht hat die Eintragung abzulehnen, wenn die Prüfer erklären oder wenn es offensichtlich ist, daß der Wert der Sacheinlagen nicht unwesentlich hinter dem Ausgabebetrag der dafür zu gewährenden Aktien zurückbleibt\. Das Gericht hat den Beteiligten vorher Gelegenheit zu geben, den Beanstandungen abzuhelfen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-151-aktg--anmeldung-und-prüfung-des-beschlusses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=151) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_154_TextContainer_154) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-151-aktg--anmeldung-und-prüfung-des-beschlusses) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-151-aktg--anmeldung-und-prüfung-des-beschlusses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=151) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_154_TextContainer_154) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-151-aktg--anmeldung-und-prüfung-des-beschlusses) \]
 
 ----
 
@@ -2752,7 +2752,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Jede nicht im Zeichnungsschein enthaltene Beschränkung ist der Gesellschaft gegenüber unwirksam\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-152-aktg--zeichnung-der-neuen-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=152) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_155_TextContainer_155) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-152-aktg--zeichnung-der-neuen-aktien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-152-aktg--zeichnung-der-neuen-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=152) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_155_TextContainer_155) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-152-aktg--zeichnung-der-neuen-aktien) \]
 
 ----
 
@@ -2772,7 +2772,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-153-aktg--bezugsrecht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=153) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_156_TextContainer_156) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-153-aktg--bezugsrecht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-153-aktg--bezugsrecht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=153) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_156_TextContainer_156) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-153-aktg--bezugsrecht) \]
 
 ----
 
@@ -2782,7 +2782,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Zusicherungen vor dem Beschluß über die Erhöhung des Grundkapitals sind der Gesellschaft gegenüber unwirksam\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-154-aktg--zusicherungen-von-rechten-auf-den-bezug-neuer-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=154) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_157_TextContainer_157) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-154-aktg--zusicherungen-von-rechten-auf-den-bezug-neuer-aktien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-154-aktg--zusicherungen-von-rechten-auf-den-bezug-neuer-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=154) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_157_TextContainer_157) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-154-aktg--zusicherungen-von-rechten-auf-den-bezug-neuer-aktien) \]
 
 ----
 
@@ -2806,7 +2806,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Die Dokumente sind in Urschrift, Ausfertigung oder öffentlich beglaubigter Abschrift einzureichen und in die Urkundensammlung \(§ 12 FBG\) aufzunehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-155-aktg--anmeldung-und-eintragung-der-durchführung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=155) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_158_TextContainer_158) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-155-aktg--anmeldung-und-eintragung-der-durchführung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-155-aktg--anmeldung-und-eintragung-der-durchführung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=155) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_158_TextContainer_158) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-155-aktg--anmeldung-und-eintragung-der-durchführung) \]
 
 ----
 
@@ -2814,7 +2814,7 @@ Der Nationalrat hat beschlossen:
 
 > Mit der Eintragung der Durchführung der Erhöhung des Grundkapitals ist das Grundkapital erhöht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-156-aktg--wirksamwerden-der-kapitalerhöhung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=156) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_159_TextContainer_159) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-156-aktg--wirksamwerden-der-kapitalerhöhung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-156-aktg--wirksamwerden-der-kapitalerhöhung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=156) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_159_TextContainer_159) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-156-aktg--wirksamwerden-der-kapitalerhöhung) \]
 
 ----
 
@@ -2822,7 +2822,7 @@ Der Nationalrat hat beschlossen:
 
 > In die Veröffentlichung der Eintragung der Durchführung der Erhöhung des Grundkapitals sind außer deren Inhalt der Ausgabebetrag der Aktien, die bei einer Kapitalerhöhung mit Sacheinlagen vorgesehenen Festsetzungen und ein Hinweis auf den Bericht über die Prüfung von Sacheinlagen \(§ 150 Abs\. 3\) aufzunehmen\. Bei der Veröffentlichung dieser Festsetzungen genügt die Bezugnahme auf die beim Gericht eingereichten Urkunden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-157-aktg--veröffentlichung-der-eintragung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=157) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_160_TextContainer_160) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-157-aktg--veröffentlichung-der-eintragung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-157-aktg--veröffentlichung-der-eintragung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=157) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_160_TextContainer_160) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-157-aktg--veröffentlichung-der-eintragung) \]
 
 ----
 
@@ -2830,7 +2830,7 @@ Der Nationalrat hat beschlossen:
 
 > Die neuen Anteilscheine können vor Eintragung der Durchführung der Erhöhung des Grundkapitals nicht übertragen, neue Aktien können vorher nicht ausgegeben werden\. Die vorher ausgegebenen neuen Aktien sind nichtig; für den Schaden aus der Ausgabe sind die Ausgeber den Besitzern als Gesamtschuldner verantwortlich\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-158-aktg--verbotene-ausgabe-von-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=158) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_161_TextContainer_161) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-158-aktg--verbotene-ausgabe-von-aktien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-158-aktg--verbotene-ausgabe-von-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=158) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_161_TextContainer_161) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-158-aktg--verbotene-ausgabe-von-aktien) \]
 
 ----
 
@@ -2862,7 +2862,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-159-aktg--voraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=159) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_162_TextContainer_162) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-159-aktg--voraussetzungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-159-aktg--voraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=159) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_162_TextContainer_162) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-159-aktg--voraussetzungen) \]
 
 ----
 
@@ -2878,7 +2878,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `3.` der Ausgabebetrag oder die Grundlagen, wonach dieser Betrag errechnet wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-160-aktg--erfordernisse-des-beschlusses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=160) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_163_TextContainer_163) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-160-aktg--erfordernisse-des-beschlusses) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-160-aktg--erfordernisse-des-beschlusses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=160) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_163_TextContainer_163) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-160-aktg--erfordernisse-des-beschlusses) \]
 
 ----
 
@@ -2892,7 +2892,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-161-aktg--bedingte-kapitalerhöhung-mit-sacheinlagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=161) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_164_TextContainer_164) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-161-aktg--bedingte-kapitalerhöhung-mit-sacheinlagen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-161-aktg--bedingte-kapitalerhöhung-mit-sacheinlagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=161) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_164_TextContainer_164) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-161-aktg--bedingte-kapitalerhöhung-mit-sacheinlagen) \]
 
 ----
 
@@ -2912,7 +2912,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Dokumente sind in Urschrift, Ausfertigung oder öffentlich beglaubigter Abschrift einzureichen und in die Urkundensammlung \(§ 12 FBG\) aufzunehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-162-aktg--anmeldung-und-prüfung-des-beschlusses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=162) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_165_TextContainer_165) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-162-aktg--anmeldung-und-prüfung-des-beschlusses) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-162-aktg--anmeldung-und-prüfung-des-beschlusses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=162) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_165_TextContainer_165) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-162-aktg--anmeldung-und-prüfung-des-beschlusses) \]
 
 ----
 
@@ -2920,7 +2920,7 @@ Der Nationalrat hat beschlossen:
 
 > In die Veröffentlichung der Eintragung des Beschlusses über die bedingte Kapitalerhöhung sind außer deren Inhalt die Angaben im § 160 Abs\. 2, die im § 161 für den Fall der Einbringung von Sacheinlagen vorgesehenen Festsetzungen und ein Hinweis auf den Bericht über die Prüfung von Sacheinlagen \(§ 161 Abs\. 3\) aufzunehmen\. Für die Festsetzungen gemäß § 161 genügt die Bezugnahme auf die beim Gericht eingereichten Urkunden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-163-aktg--veröffentlichung-der-eintragung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=163) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_166_TextContainer_166) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-163-aktg--veröffentlichung-der-eintragung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-163-aktg--veröffentlichung-der-eintragung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=163) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_166_TextContainer_166) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-163-aktg--veröffentlichung-der-eintragung) \]
 
 ----
 
@@ -2928,7 +2928,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Bezugsaktien dürfen nicht vor Eintragung des Beschlusses über die bedingte Kapitalerhöhung ausgegeben werden\. Ein Anspruch des Bezugsberechtigten entsteht vor diesem Zeitpunkt nicht\. Die vorher ausgegebenen Bezugsaktien sind nichtig; für den Schaden aus der Ausgabe sind die Ausgeber den Besitzern als Gesamtschuldner verantwortlich\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-164-aktg--verbotene-aktienausgabe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=164) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_167_TextContainer_167) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-164-aktg--verbotene-aktienausgabe) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-164-aktg--verbotene-aktienausgabe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=164) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_167_TextContainer_167) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-164-aktg--verbotene-aktienausgabe) \]
 
 ----
 
@@ -2942,7 +2942,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Jede nicht in der Bezugserklärung enthaltene Beschränkung ist der Gesellschaft gegenüber unwirksam\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-165-aktg--bezugserklärung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=165) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_168_TextContainer_168) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-165-aktg--bezugserklärung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-165-aktg--bezugserklärung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=165) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_168_TextContainer_168) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-165-aktg--bezugserklärung) \]
 
 ----
 
@@ -2952,7 +2952,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Ausgabe gegen Wandelschuldverschreibungen darf nur geschehen, wenn der Unterschied zwischen dem Ausgabebetrag der zum Umtausch eingereichten Schuldverschreibungen und dem höheren geringsten Ausgabebetrag der für sie zu gewährenden Bezugsaktien gedeckt ist aus dem Bilanzgewinn, einer freien Rücklage oder durch Zuzahlung des Umtauschberechtigten\. Dies gilt nicht, wenn der Gesamtbetrag, zu dem die Schuldverschreibungen ausgegeben sind, den geringsten Ausgabebetrag der Bezugsaktien insgesamt erreicht oder übersteigt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-166-aktg--ausgabe-der-bezugsaktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=166) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_169_TextContainer_169) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-166-aktg--ausgabe-der-bezugsaktien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-166-aktg--ausgabe-der-bezugsaktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=166) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_169_TextContainer_169) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-166-aktg--ausgabe-der-bezugsaktien) \]
 
 ----
 
@@ -2960,7 +2960,7 @@ Der Nationalrat hat beschlossen:
 
 > Mit der Ausgabe der Bezugsaktien ist das Grundkapital erhöht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-167-aktg--wirksamwerden-der-bedingten-kapitalerhöhung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=167) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_170_TextContainer_170) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-167-aktg--wirksamwerden-der-bedingten-kapitalerhöhung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-167-aktg--wirksamwerden-der-bedingten-kapitalerhöhung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=167) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_170_TextContainer_170) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-167-aktg--wirksamwerden-der-bedingten-kapitalerhöhung) \]
 
 ----
 
@@ -2974,7 +2974,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die eingereichten Schriftstücke werden beim Gericht in Urschrift, Ausfertigung oder öffentlich beglaubigter Abschrift aufbewahrt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-168-aktg--anmeldung-der-ausgabe-von-bezugsaktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=168) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_171_TextContainer_171) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-168-aktg--anmeldung-der-ausgabe-von-bezugsaktien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-168-aktg--anmeldung-der-ausgabe-von-bezugsaktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=168) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_171_TextContainer_171) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-168-aktg--anmeldung-der-ausgabe-von-bezugsaktien) \]
 
 ----
 
@@ -2990,7 +2990,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Der Nennbetrag des genehmigten Kapitals darf nicht höher sein als die Hälfte des zur Zeit der Ermächtigung vorhandenen Grundkapitals\. Die neuen Aktien dürfen nur mit Zustimmung des Aufsichtsrats ausgegeben werden\. Bei Gesellschaften mit Stückaktien muß sich die Gesamtzahl der Aktien im Verhältnis des Erhöhungsbetrags zum bisherigen Grundkapital vergrößern\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-169-aktg--voraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=169) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_172_TextContainer_172) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-169-aktg--voraussetzungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-169-aktg--voraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=169) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_172_TextContainer_172) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-169-aktg--voraussetzungen) \]
 
 ----
 
@@ -3002,7 +3002,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die neuen Aktien dürfen nicht ausgegeben werden, solange noch ausstehende Einlagen auf das bisherige Grundkapital geleistet werden können\. Für Versicherungsgesellschaften kann die Satzung etwas anderes bestimmen\. Stehen Einlagen in verhältnismäßig unerheblichem Umfang aus, so hindert dies die Ausgabe der neuen Aktien nicht\. In der ersten Anmeldung der Durchführung der Erhöhung des Grundkapitals ist anzugeben, welche Einlagen auf das bisherige Grundkapital rückständig sind und warum sie nicht geleistet werden können\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-170-aktg--ausgabe-der-neuen-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=170) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_173_TextContainer_173) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-170-aktg--ausgabe-der-neuen-aktien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-170-aktg--ausgabe-der-neuen-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=170) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_173_TextContainer_173) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-170-aktg--ausgabe-der-neuen-aktien) \]
 
 ----
 
@@ -3012,7 +3012,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Sind Vorzugsaktien ohne Stimmrecht vorhanden, so können Aktien mit vorhergehenden oder gleichstehenden Rechten nur ausgegeben werden, wenn die Ermächtigung dies vorsieht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-171-aktg--bedingungen-der-aktienausgabe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=171) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_174_TextContainer_174) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-171-aktg--bedingungen-der-aktienausgabe) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-171-aktg--bedingungen-der-aktienausgabe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=171) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_174_TextContainer_174) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-171-aktg--bedingungen-der-aktienausgabe) \]
 
 ----
 
@@ -3026,7 +3026,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Ohne die vorgeschriebene Festsetzung sind Vereinbarungen über Sacheinlagen und die Rechtshandlungen zu ihrer Ausführung der Gesellschaft gegenüber unwirksam\. Gleiches gilt, wenn die Festsetzung des Vorstands nicht in den Zeichnungsschein aufgenommen ist\. Ist die Durchführung der Erhöhung des Grundkapitals eingetragen, so wird ihre Gültigkeit durch diese Unwirksamkeit nicht berührt\. Der Aktionär bleibt verpflichtet, den Ausgabebetrag der Aktien einzuzahlen\. Die Unwirksamkeit kann durch Satzungsänderung nicht geheilt werden, nachdem die Durchführung der Erhöhung des Grundkapitals in das Firmenbuch eingetragen worden ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-172-aktg--ausgabe-gegen-sacheinlagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=172) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_175_TextContainer_175) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-172-aktg--ausgabe-gegen-sacheinlagen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-172-aktg--ausgabe-gegen-sacheinlagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=172) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_175_TextContainer_175) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-172-aktg--ausgabe-gegen-sacheinlagen) \]
 
 ----
 
@@ -3034,7 +3034,7 @@ Der Nationalrat hat beschlossen:
 
 > Sind vor Eintragung der Gesellschaft Vereinbarungen getroffen worden, wonach auf das genehmigte Kapital eine Sacheinlage zu leisten ist, so muß die Satzung die im Fall der Ausgabe gegen Sacheinlagen bezeichneten Festsetzungen enthalten\. Dabei gelten sinngemäß § 20 Abs\. 3, §§ 24 bis 27, § 29 Abs\. 2 Z 2, 4 und 5, § 42 über die Gründung der Gesellschaft; an die Stelle der Gründer tritt der Vorstand und an die Stelle der Anmeldung und Eintragung der Gesellschaft die Anmeldung und Eintragung der Durchführung der Erhöhung des Grundkapitals\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-173-aktg--vereinbarungen-über-sacheinlagen-vor-eintragung-der-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=173) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_176_TextContainer_176) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-173-aktg--vereinbarungen-über-sacheinlagen-vor-eintragung-der-gesellschaft) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-173-aktg--vereinbarungen-über-sacheinlagen-vor-eintragung-der-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=173) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_176_TextContainer_176) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-173-aktg--vereinbarungen-über-sacheinlagen-vor-eintragung-der-gesellschaft) \]
 
 ----
 
@@ -3050,7 +3050,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Auf Wandelschuldverschreibungen, Gewinnschuldverschreibungen und Genußrechte haben die Aktionäre ein Bezugsrecht; § 153 gilt sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-174-aktg--wandelschuldverschreibungen-gewinnschuldverschreibungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=174) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_177_TextContainer_177) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-174-aktg--wandelschuldverschreibungen-gewinnschuldverschreibungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-174-aktg--wandelschuldverschreibungen-gewinnschuldverschreibungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=174) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_177_TextContainer_177) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.008.md#-174-aktg--wandelschuldverschreibungen-gewinnschuldverschreibungen) \]
 
 ----
 
@@ -3072,7 +3072,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Herabsetzung des Grundkapitals erfordert bei Gesellschaften mit Nennbetragsaktien die Herabsetzung des Nennbetrags der Aktien\. Soweit der auf die einzelne Aktie entfallende anteilige Betrag des herabgesetzten Grundkapitals den Mindestbetrag nach § 8 Abs\. 2 oder Abs\. 3 unterschreiten würde, erfolgt die Herabsetzung durch Zusammenlegung der Aktien\. Der Beschluß muß die Art der Herabsetzung angeben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-175-aktg--voraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=175) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_178_TextContainer_178) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-175-aktg--voraussetzungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-175-aktg--voraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=175) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_178_TextContainer_178) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-175-aktg--voraussetzungen) \]
 
 ----
 
@@ -3080,7 +3080,7 @@ Der Nationalrat hat beschlossen:
 
 > Der Vorstand und der Vorsitzende des Aufsichtsrats oder dessen Stellvertreter haben den Beschluß über die Herabsetzung des Grundkapitals zur Eintragung in das Firmenbuch anzumelden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-176-aktg--anmeldung-des-beschlusses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=176) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_179_TextContainer_179) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-176-aktg--anmeldung-des-beschlusses) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-176-aktg--anmeldung-des-beschlusses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=176) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_179_TextContainer_179) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-176-aktg--anmeldung-des-beschlusses) \]
 
 ----
 
@@ -3088,7 +3088,7 @@ Der Nationalrat hat beschlossen:
 
 > Mit der Eintragung des Beschlusses über die Herabsetzung des Grundkapitals ist das Grundkapital herabgesetzt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-177-aktg--wirksamwerden-der-kapitalherabsetzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=177) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_180_TextContainer_180) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-177-aktg--wirksamwerden-der-kapitalherabsetzung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-177-aktg--wirksamwerden-der-kapitalherabsetzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=177) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_180_TextContainer_180) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-177-aktg--wirksamwerden-der-kapitalherabsetzung) \]
 
 ----
 
@@ -3100,7 +3100,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Das Recht der Gläubiger, Sicherheitsleistung zu verlangen, ist unabhängig davon, ob Zahlungen an die Aktionäre auf Grund der Herabsetzung des Grundkapitals geleistet werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-178-aktg--gläubigerschutz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=178) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_181_TextContainer_181) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-178-aktg--gläubigerschutz) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-178-aktg--gläubigerschutz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=178) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_181_TextContainer_181) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-178-aktg--gläubigerschutz) \]
 
 ----
 
@@ -3112,7 +3112,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die an Stelle der für kraftlos erklärten Aktien auszugebenden neuen Aktien hat die Gesellschaft unverzüglich für Rechnung der Beteiligten zum Börsenpreis durch Vermittlung eines Börsesensals und beim Fehlen eines Börsenpreises durch öffentliche Versteigerung zu verkaufen\. Ist von der Versteigerung am Sitz der Gesellschaft kein angemessener Erfolg zu erwarten, so sind die Aktien zwecks Erzielung eines höheren Erlöses an einen anderen Ort zur Versteigerung zu übersenden\. Zeit, Ort und Gegenstand der Versteigerung sind zu veröffentlichen\. Die Beteiligten sind besonders zu benachrichtigen; die Benachrichtigung kann unterbleiben, wenn sie untunlich ist\. Veröffentlichung und Benachrichtigung müssen mindestens vierzehn Tage vor der Versteigerung ergehen\. Der Erlös ist den Beteiligten auszuzahlen oder, wenn ein Recht zur Hinterlegung besteht, zu hinterlegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-179-aktg--kraftloserklärung-von-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=179) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_182_TextContainer_182) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-179-aktg--kraftloserklärung-von-aktien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-179-aktg--kraftloserklärung-von-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=179) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_182_TextContainer_182) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-179-aktg--kraftloserklärung-von-aktien) \]
 
 ----
 
@@ -3122,7 +3122,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Anmeldung und Eintragung der Durchführung der Herabsetzung des Grundkapitals können mit Anmeldung und Eintragung des Beschlusses über die Herabsetzung verbunden werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-180-aktg--anmeldung-der-durchführung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=180) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_183_TextContainer_183) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-180-aktg--anmeldung-der-durchführung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-180-aktg--anmeldung-der-durchführung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=180) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_183_TextContainer_183) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-180-aktg--anmeldung-der-durchführung) \]
 
 ----
 
@@ -3132,7 +3132,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Beschlüsse sind nichtig, wenn sie und die Durchführung der Erhöhung nicht binnen sechs Monaten nach der Beschlußfassung in das Firmenbuch eingetragen worden sind; der Lauf der Frist ist gehemmt, solange eine Anfechtungs\- oder Nichtigkeitsklage anhängig ist oder eine zur Kapitalherabsetzung oder Kapitalerhöhung beantragte behördliche Genehmigung noch nicht erteilt ist\. Die Beschlüsse und die Durchführung der Erhöhung des Grundkapitals sind gemeinsam in das Firmenbuch einzutragen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-181-aktg--herabsetzung-unter-den-mindestnennbetrag) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=181) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_184_TextContainer_184) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-181-aktg--herabsetzung-unter-den-mindestnennbetrag) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-181-aktg--herabsetzung-unter-den-mindestnennbetrag) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=181) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_184_TextContainer_184) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-181-aktg--herabsetzung-unter-den-mindestnennbetrag) \]
 
 ----
 
@@ -3146,7 +3146,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` § 175 Abs\. 1, 2 und 4, §§ 176, 177, 179 bis 181 über die ordentliche Kapitalherabsetzung gelten sinngemäß\. Daneben gelten die Vorschriften dieses Unterabschnitts\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-182-aktg--voraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=182) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_185_TextContainer_185) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-182-aktg--voraussetzungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-182-aktg--voraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=182) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_185_TextContainer_185) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-182-aktg--voraussetzungen) \]
 
 ----
 
@@ -3156,7 +3156,7 @@ Der Nationalrat hat beschlossen:
 >
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-183-aktg--auflösung-von-rücklagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=183) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_186_TextContainer_186) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-183-aktg--auflösung-von-rücklagen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-183-aktg--auflösung-von-rücklagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=183) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_186_TextContainer_186) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-183-aktg--auflösung-von-rücklagen) \]
 
 ----
 
@@ -3164,7 +3164,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Beträge, die aus der Auflösung der Rücklagen und aus der Kapitalherabsetzung gewonnen werden, dürfen nicht zu Zahlungen an die Aktionäre und nicht dazu verwendet werden, die Aktionäre von der Verpflichtung zur Leistung von Einlagen zu befreien\. Diese Beträge dürfen nur zur Abdeckung eines sonst auszuweisenden Bilanzverlustes und allenfalls zur Einstellung von Beträgen in die gebundene Kapitalrücklage verwendet werden; dies ist nur zulässig, soweit die Einstellung im Beschluß als Zweck der Herabsetzung angegeben ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-184-aktg--verbot-von-zahlungen-an-die-aktionäre) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=184) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_187_TextContainer_187) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-184-aktg--verbot-von-zahlungen-an-die-aktionäre) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-184-aktg--verbot-von-zahlungen-an-die-aktionäre) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=184) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_187_TextContainer_187) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-184-aktg--verbot-von-zahlungen-an-die-aktionäre) \]
 
 ----
 
@@ -3174,7 +3174,7 @@ Der Nationalrat hat beschlossen:
 >
 > *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-185-aktg--einstellung-von-beträgen-in-die-gebundene-kapitalrücklage-bei-zu-hoch-angenommenen-verlusten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=185) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_188_TextContainer_188) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-185-aktg--einstellung-von-beträgen-in-die-gebundene-kapitalrücklage-bei-zu-hoch-angenommenen-verlusten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-185-aktg--einstellung-von-beträgen-in-die-gebundene-kapitalrücklage-bei-zu-hoch-angenommenen-verlusten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=185) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_188_TextContainer_188) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-185-aktg--einstellung-von-beträgen-in-die-gebundene-kapitalrücklage-bei-zu-hoch-angenommenen-verlusten) \]
 
 ----
 
@@ -3182,7 +3182,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Beträge, die aus der Auflösung der Rücklagen und aus der Kapitalherabsetzung gewonnen werden, dürfen in die gebundenen Rücklagen nur eingestellt werden, soweit diese zehn vom Hundert des Grundkapitals nicht übersteigen; als Grundkapital gilt dabei der Nennbetrag, der sich durch die Herabsetzung ergibt, mindestens aber der nach § 7 zulässige Mindestnennbetrag\. Bei der Bemessung der zulässigen Höhe bleiben Beträge, die nach der Beschlußfassung über die Kapitalherabsetzung nach § 229 Abs\. 2 Z 2 bis 4 UGB in die gebundenen Rücklagen einzustellen sind, auch dann außer Betracht, wenn ihre Zahlung auf einem Beschluß beruht, der zugleich mit dem Beschluß über die Kapitalherabsetzung gefaßt wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-186-aktg--beschränkung-der-einstellung-von-beträgen-in-die-gebundenen-rücklagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=186) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_189_TextContainer_189) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-186-aktg--beschränkung-der-einstellung-von-beträgen-in-die-gebundenen-rücklagen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-186-aktg--beschränkung-der-einstellung-von-beträgen-in-die-gebundenen-rücklagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=186) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_189_TextContainer_189) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-186-aktg--beschränkung-der-einstellung-von-beträgen-in-die-gebundenen-rücklagen) \]
 
 ----
 
@@ -3194,7 +3194,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Beträge, die aus der Auflösung von Rücklagen und aus der Kapitalherabsetzung gewonnen sind, dürfen auch nach diesen Vorschriften nicht als Gewinn ausgeschüttet werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-187-aktg--gewinnausschüttung-gläubigerschutz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=187) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_190_TextContainer_190) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-187-aktg--gewinnausschüttung-gläubigerschutz) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-187-aktg--gewinnausschüttung-gläubigerschutz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=187) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_190_TextContainer_190) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-187-aktg--gewinnausschüttung-gläubigerschutz) \]
 
 ----
 
@@ -3208,7 +3208,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-188-aktg--rückwirkung-der-kapitalherabsetzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=188) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_191_TextContainer_191) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-188-aktg--rückwirkung-der-kapitalherabsetzung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-188-aktg--rückwirkung-der-kapitalherabsetzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=188) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_191_TextContainer_191) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-188-aktg--rückwirkung-der-kapitalherabsetzung) \]
 
 ----
 
@@ -3218,7 +3218,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Sämtliche Beschlüsse sind nichtig, wenn die Beschlüsse über die Kapitalherabsetzung und die Kapitalerhöhung und die Durchführung der Erhöhung nicht binnen drei Monaten nach der Beschlußfassung in das Firmenbuch eingetragen worden sind; der Lauf der Frist ist gehemmt, solange eine Anfechtungs\- oder Nichtigkeitsklage anhängig ist oder eine zur Kapitalherabsetzung oder Kapitalerhöhung beantragte behördliche Genehmigung noch nicht erteilt ist\. Die Beschlüsse und die Durchführung der Erhöhung des Grundkapitals sind gemeinsam in das Firmenbuch einzutragen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-189-aktg--rückwirkung-der-kapitalherabsetzung-bei-gleichzeitiger-kapitalerhöhung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=189) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_192_TextContainer_192) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-189-aktg--rückwirkung-der-kapitalherabsetzung-bei-gleichzeitiger-kapitalerhöhung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-189-aktg--rückwirkung-der-kapitalherabsetzung-bei-gleichzeitiger-kapitalerhöhung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=189) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_192_TextContainer_192) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-189-aktg--rückwirkung-der-kapitalherabsetzung-bei-gleichzeitiger-kapitalerhöhung) \]
 
 ----
 
@@ -3228,7 +3228,7 @@ Der Nationalrat hat beschlossen:
 >
 > *\(Beachte: Im Titel der BGBl\. I Nr\. 114/1997 findet sich folgende Fußnote:Diese Kundmachung ersetzt die Kundmachung BGBl\. I Nr\. 106/1997\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-190-aktg--gewinn--und-verlustrechnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=190) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_193_TextContainer_193) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-190-aktg--gewinn--und-verlustrechnung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-190-aktg--gewinn--und-verlustrechnung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=190) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_193_TextContainer_193) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-190-aktg--gewinn--und-verlustrechnung) \]
 
 ----
 
@@ -3236,7 +3236,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Veröffentlichung des Jahresabschlusses nach § 277 UGB darf im Fall des § 188 erst nach Eintragung des Beschlusses über die Kapitalherabsetzung, im Fall des § 189 erst ergehen, nachdem die Beschlüsse über die Kapitalherabsetzung und Kapitalerhöhung und die Durchführung der Kapitalerhöhung eingetragen worden sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-191-aktg--veröffentlichung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=191) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_194_TextContainer_194) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-191-aktg--veröffentlichung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-191-aktg--veröffentlichung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=191) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_194_TextContainer_194) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-191-aktg--veröffentlichung) \]
 
 ----
 
@@ -3264,7 +3264,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 34\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-192-aktg--voraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=192) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_195_TextContainer_195) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-192-aktg--voraussetzungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-192-aktg--voraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=192) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_195_TextContainer_195) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-192-aktg--voraussetzungen) \]
 
 ----
 
@@ -3272,7 +3272,7 @@ Der Nationalrat hat beschlossen:
 
 > Mit der Eintragung des Beschlusses oder, wenn die Einziehung nachfolgt, mit der Einziehung ist das Grundkapital um den auf die eingezogenen Aktien entfallenden Betrag herabgesetzt\. Handelt es sich um eine durch die Satzung angeordnete Zwangseinziehung, so ist, wenn die Hauptversammlung nicht über die Kapitalherabsetzung beschließt, das Grundkapital mit der Zwangseinziehung herabgesetzt\. Zur Einziehung bedarf es einer auf Vernichtung der Rechte aus bestimmten Aktien gerichteten Handlung der Gesellschaft\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-193-aktg--wirksamwerden-der-einziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=193) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_196_TextContainer_196) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-193-aktg--wirksamwerden-der-einziehung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-193-aktg--wirksamwerden-der-einziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=193) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_196_TextContainer_196) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-193-aktg--wirksamwerden-der-einziehung) \]
 
 ----
 
@@ -3282,7 +3282,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Anmeldung und Eintragung der Durchführung der Herabsetzung können mit Anmeldung und Eintragung des Beschlusses über die Herabsetzung verbunden werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-194-aktg--anmeldung-der-durchführung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=194) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_197_TextContainer_197) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-194-aktg--anmeldung-der-durchführung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-194-aktg--anmeldung-der-durchführung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=194) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_197_TextContainer_197) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-194-aktg--anmeldung-der-durchführung) \]
 
 ----
 
@@ -3308,7 +3308,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-195-aktg--anfechtungsgründe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=195) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_198_TextContainer_198) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-195-aktg--anfechtungsgründe) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-195-aktg--anfechtungsgründe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=195) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_198_TextContainer_198) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-195-aktg--anfechtungsgründe) \]
 
 ----
 
@@ -3338,7 +3338,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-196-aktg--anfechtungsbefugnis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=196) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_199_TextContainer_199) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-196-aktg--anfechtungsbefugnis) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-196-aktg--anfechtungsbefugnis) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=196) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_199_TextContainer_199) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-196-aktg--anfechtungsbefugnis) \]
 
 ----
 
@@ -3356,7 +3356,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Das Prozeßgericht hat auf Antrag einer Partei den Wert des Streitgegenstandes nach den gesamten im einzelnen Fall gegebenen Verhältnissen unter Berücksichtigung des Interesses der Gesellschaft an der Aufrechterhaltung des angefochtenen Beschlusses festzusetzen; das Prozeßgericht ist an den vom Kläger in der Klage angegebenen Wert hiebei nicht gebunden\. Der Antrag kann bis zum Schluß der Verhandlung \(§ 193 Zivilprozeßordnung\) gestellt werden; gegen den den Wert des Streitgegenstandes festgesetzten Beschluß ist in jedem Fall der Rekurs zulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-197-aktg--anfechtungsklage) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=197) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_200_TextContainer_200) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-197-aktg--anfechtungsklage) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-197-aktg--anfechtungsklage) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=197) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_200_TextContainer_200) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-197-aktg--anfechtungsklage) \]
 
 ----
 
@@ -3366,7 +3366,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Für einen Schaden aus unbegründeter Anfechtung sind der Gesellschaft die Kläger, denen Vorsatz oder grobe Fahrlässigkeit zur Last fällt, als Gesamtschuldner verantwortlich\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-198-aktg--urteilswirkung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=198) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_201_TextContainer_201) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-198-aktg--urteilswirkung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-198-aktg--urteilswirkung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=198) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_201_TextContainer_201) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-198-aktg--urteilswirkung) \]
 
 ----
 
@@ -3390,7 +3390,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-199-aktg--nichtigkeitsgründe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=199) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_202_TextContainer_202) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-199-aktg--nichtigkeitsgründe) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-199-aktg--nichtigkeitsgründe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=199) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_202_TextContainer_202) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-199-aktg--nichtigkeitsgründe) \]
 
 ----
 
@@ -3404,7 +3404,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-200-aktg--heilung-der-nichtigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=200) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_203_TextContainer_203) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-200-aktg--heilung-der-nichtigkeit) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-200-aktg--heilung-der-nichtigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=200) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_203_TextContainer_203) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-200-aktg--heilung-der-nichtigkeit) \]
 
 ----
 
@@ -3414,7 +3414,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Mehrere Nichtigkeitsprozesse sind zur gemeinsamen Verhandlung und Entscheidung zu verbinden\. Nichtigkeits\- und Anfechtungsprozesse können verbunden werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-201-aktg--nichtigkeitsklage) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=201) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_204_TextContainer_204) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-201-aktg--nichtigkeitsklage) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-201-aktg--nichtigkeitsklage) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=201) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_204_TextContainer_204) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-201-aktg--nichtigkeitsklage) \]
 
 ----
 
@@ -3434,7 +3434,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Für die Klage auf Feststellung der Nichtigkeit eines Jahresabschlusses gegen die Gesellschaft gilt § 201 sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-202-aktg--nichtigkeit-des-vom-vorstand-festgestellten-jahresabschlusses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=202) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_205_TextContainer_205) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-202-aktg--nichtigkeit-des-vom-vorstand-festgestellten-jahresabschlusses) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-202-aktg--nichtigkeit-des-vom-vorstand-festgestellten-jahresabschlusses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=202) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_205_TextContainer_205) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-202-aktg--nichtigkeit-des-vom-vorstand-festgestellten-jahresabschlusses) \]
 
 ----
 
@@ -3464,7 +3464,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Dieser Abschnitt gilt auch, wenn die Aktiengesellschaft aus anderen Gründen aufgelöst wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-203-aktg--auflösungsgründe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=203) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_206_TextContainer_206) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-203-aktg--auflösungsgründe) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-203-aktg--auflösungsgründe) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=203) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_206_TextContainer_206) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-203-aktg--auflösungsgründe) \]
 
 ----
 
@@ -3472,7 +3472,7 @@ Der Nationalrat hat beschlossen:
 
 > Der Vorstand hat die Auflösung der Gesellschaft zur Eintragung in das Firmenbuch anzumelden\. Die Eröffnung des Konkursverfahrens und die Nichteröffnung oder Aufhebung des Insolvenzverfahrens mangels kostendeckenden Vermögens \(§ 203 Abs\. 1 Z 3 und 4\) hat das Gericht von Amts wegen einzutragen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-204-aktg--anmeldung-und-eintragung-der-auflösung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=204) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_207_TextContainer_207) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-204-aktg--anmeldung-und-eintragung-der-auflösung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-204-aktg--anmeldung-und-eintragung-der-auflösung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=204) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_207_TextContainer_207) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.009.md#-204-aktg--anmeldung-und-eintragung-der-auflösung) \]
 
 ----
 
@@ -3486,7 +3486,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Bis zum Schluß der Abwicklung sind die Vorschriften der vorausgehenden Teile anzuwenden, soweit sich aus diesem Unterabschnitt oder aus dem Zweck der Abwicklung nichts anderes ergibt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-205-aktg--notwendigkeit-der-abwicklung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=205) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_208_TextContainer_208) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-205-aktg--notwendigkeit-der-abwicklung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-205-aktg--notwendigkeit-der-abwicklung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=205) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_208_TextContainer_208) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-205-aktg--notwendigkeit-der-abwicklung) \]
 
 ----
 
@@ -3496,7 +3496,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Auf Antrag des Aufsichtsrats oder einer Minderheit von Aktionären, deren Anteile zusammen fünf vom Hundert des Grundkapitals erreichen, hat das Gericht aus wichtigem Grund die Abwickler zu bestellen und abzuberufen\. Die Aktionäre haben glaubhaft zu machen, daß sie seit mindestens drei Monaten Inhaber der Aktien sind; zur Glaubhaftmachung genügt eine eidesstättige Versicherung vor einem Notar\. Abwickler, die nicht vom Gericht bestellt sind, kann die Hauptversammlung jederzeit abberufen\. Ansprüche aus dem Anstellungsvertrag werden hiedurch nicht berührt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-206-aktg--abwickler) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=206) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_209_TextContainer_209) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-206-aktg--abwickler) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-206-aktg--abwickler) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=206) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_209_TextContainer_209) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-206-aktg--abwickler) \]
 
 ----
 
@@ -3512,7 +3512,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Ist eine Person als Abwickler eingetragen oder bekanntgemacht, so kann ein Mangel ihrer Bestellung einem Dritten nur entgegengehalten werden, wenn der Mangel diesem bekannt war\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-207-aktg--anmeldung-der-abwickler) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=207) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_210_TextContainer_210) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-207-aktg--anmeldung-der-abwickler) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-207-aktg--anmeldung-der-abwickler) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=207) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_210_TextContainer_210) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-207-aktg--anmeldung-der-abwickler) \]
 
 ----
 
@@ -3520,7 +3520,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Abwickler haben unter Hinweis auf die Auflösung der Gesellschaft die Gläubiger der Gesellschaft aufzufordern, ihre Ansprüche anzumelden\. Die Aufforderung ist dreimal gemäß § 18 zu veröffentlichen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-208-aktg--aufruf-der-gläubiger) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=208) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_211_TextContainer_211) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-208-aktg--aufruf-der-gläubiger) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-208-aktg--aufruf-der-gläubiger) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=208) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_211_TextContainer_211) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-208-aktg--aufruf-der-gläubiger) \]
 
 ----
 
@@ -3532,7 +3532,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Das Wettbewerbsverbot des § 79 gilt für sie nicht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-209-aktg--pflichten-der-abwickler) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=209) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_212_TextContainer_212) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-209-aktg--pflichten-der-abwickler) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-209-aktg--pflichten-der-abwickler) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=209) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_212_TextContainer_212) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-209-aktg--pflichten-der-abwickler) \]
 
 ----
 
@@ -3548,7 +3548,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Prokuristen können nicht bestellt werden\. Bestehende Prokuren erlöschen und gelten als Handlungsvollmachten\. Das Erlöschen der Prokuren ist zum Firmenbuch anzumelden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-210-aktg--vertretung-der-aufgelösten-gesellschaft-durch-die-abwickler) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=210) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_213_TextContainer_213) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-210-aktg--vertretung-der-aufgelösten-gesellschaft-durch-die-abwickler) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-210-aktg--vertretung-der-aufgelösten-gesellschaft-durch-die-abwickler) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=210) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_213_TextContainer_213) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-210-aktg--vertretung-der-aufgelösten-gesellschaft-durch-die-abwickler) \]
 
 ----
 
@@ -3566,7 +3566,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 34\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-211-aktg--eröffnungsbilanz-jahresabschluss-lagebericht-und-corporate-governance-bericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=211) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_214_TextContainer_214) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-211-aktg--eröffnungsbilanz-jahresabschluss-lagebericht-und-corporate-governance-bericht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-211-aktg--eröffnungsbilanz-jahresabschluss-lagebericht-und-corporate-governance-bericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=211) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_214_TextContainer_214) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-211-aktg--eröffnungsbilanz-jahresabschluss-lagebericht-und-corporate-governance-bericht) \]
 
 ----
 
@@ -3578,7 +3578,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Sind die Einlagen nicht auf alle Aktien in demselben Verhältnis geleistet, so werden die auf Grundkapital geleisteten Einlagen erstattet und ein Überschuß nach den Anteilen am Grundkapital verteilt\. Reicht das Vermögen zur Erstattung der Einlagen nicht aus, so haben die Aktionäre den Verlust nach ihren Anteilen am Grundkapital zu tragen; die noch ausstehenden Einlagen sind, soweit nötig, einzuziehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-212-aktg--verteilung-des-vermögens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=212) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_215_TextContainer_215) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-212-aktg--verteilung-des-vermögens) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-212-aktg--verteilung-des-vermögens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=212) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_215_TextContainer_215) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-212-aktg--verteilung-des-vermögens) \]
 
 ----
 
@@ -3590,7 +3590,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Kann eine Verbindlichkeit zurzeit nicht berichtigt werden oder ist sie streitig, so darf das Vermögen nur verteilt werden, wenn dem Gläubiger Sicherheit geleistet ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-213-aktg--gläubigerschutz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=213) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_216_TextContainer_216) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-213-aktg--gläubigerschutz) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-213-aktg--gläubigerschutz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=213) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_216_TextContainer_216) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-213-aktg--gläubigerschutz) \]
 
 ----
 
@@ -3604,7 +3604,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Stellt sich nachträglich heraus, daß weitere Abwicklungsmaßnahmen nötig sind, so hat auf Antrag eines Beteiligten das Gericht die bisherigen Abwickler neu zu bestellen oder andere Abwickler zu berufen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-214-aktg--schluß-der-abwicklung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=214) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_217_TextContainer_217) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-214-aktg--schluß-der-abwicklung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-214-aktg--schluß-der-abwicklung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=214) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_217_TextContainer_217) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-214-aktg--schluß-der-abwicklung) \]
 
 ----
 
@@ -3620,7 +3620,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Ist anzuwenden, wenn das Insolvenzverfahren nach dem 30\. Juni 2010 eröffnet oder wieder aufgenommen \(§ 158 Abs\. 2 IO\) wurde \(vgl\. § 262 Abs\. 21\)\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-215-aktg--fortsetzung-einer-aufgelösten-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=215) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_218_TextContainer_218) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-215-aktg--fortsetzung-einer-aufgelösten-gesellschaft) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-215-aktg--fortsetzung-einer-aufgelösten-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=215) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_218_TextContainer_218) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-215-aktg--fortsetzung-einer-aufgelösten-gesellschaft) \]
 
 ----
 
@@ -3644,7 +3644,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Für die Klage gelten § 197 Abs\. 1, Abs\. 2 Satz 2 und 3, Abs\. 3 bis 6, § 198 Abs\. 1 Satz 1, Abs\. 2, § 201 Abs\. 2 sinngemäß; der Vorstand hat eine Abschrift der Klage und des rechtskräftigen Urteils zum Firmenbuch einzureichen\. Die Nichtigkeit der Gesellschaft auf Grund rechtskräftigen Urteils ist einzutragen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-216-aktg--klage-auf-nichtigerklärung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=216) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_219_TextContainer_219) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-216-aktg--klage-auf-nichtigerklärung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-216-aktg--klage-auf-nichtigerklärung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=216) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_219_TextContainer_219) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-216-aktg--klage-auf-nichtigerklärung) \]
 
 ----
 
@@ -3652,7 +3652,7 @@ Der Nationalrat hat beschlossen:
 
 > Ein Mangel, der die Bestimmungen über die Firma der Gesellschaft oder den Gegenstand des Unternehmens betrifft, kann unter Beachtung der Vorschriften über Satzungsänderungen geheilt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-217-aktg--heilung-der-nichtigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=217) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_220_TextContainer_220) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-217-aktg--heilung-der-nichtigkeit) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-217-aktg--heilung-der-nichtigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=217) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_220_TextContainer_220) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-217-aktg--heilung-der-nichtigkeit) \]
 
 ----
 
@@ -3664,7 +3664,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Gesellschafter haben die bedungenen Einlagen zu leisten, soweit es zur Erfüllung der eingegangenen Verbindlichkeiten nötig ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-218-aktg--wirkung-der-eintragung-der-nichtigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=218) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_221_TextContainer_221) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-218-aktg--wirkung-der-eintragung-der-nichtigkeit) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-218-aktg--wirkung-der-eintragung-der-nichtigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=218) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_221_TextContainer_221) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-218-aktg--wirkung-der-eintragung-der-nichtigkeit) \]
 
 ----
 
@@ -3684,7 +3684,7 @@ Der Nationalrat hat beschlossen:
 >
 >> `2.` durch Übertragung der Vermögen zweier oder mehrerer Gesellschaften \(übertragende Gesellschaften\) im Weg der Gesamtrechtsnachfolge auf eine von ihnen dadurch gegründete neue Gesellschaft gegen Gewährung von Aktien dieser Gesellschaft \(Verschmelzung durch Neugründung\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-219-aktg--begriff-der-verschmelzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=219) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_222_TextContainer_222) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-219-aktg--begriff-der-verschmelzung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-219-aktg--begriff-der-verschmelzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=219) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_222_TextContainer_222) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.010.md#-219-aktg--begriff-der-verschmelzung) \]
 
 ----
 
@@ -3714,7 +3714,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Jede übertragende Gesellschaft hat auf den Verschmelzungsstichtag eine Schlußbilanz aufzustellen\. Für sie gelten die Vorschriften des UGB über den Jahresabschluß und dessen Prüfung sinngemäß; sie braucht nicht veröffentlicht zu werden\. Die Schlußbilanzen müssen auf einen höchstens neun Monate vor der Anmeldung der Verschmelzung liegenden Stichtag aufgestellt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-220-aktg--vorbereitung-der-verschmelzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=220) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_223_TextContainer_223) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-220-aktg--vorbereitung-der-verschmelzung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-220-aktg--vorbereitung-der-verschmelzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=220) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_223_TextContainer_223) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-220-aktg--vorbereitung-der-verschmelzung) \]
 
 ----
 
@@ -3724,7 +3724,7 @@ Der Nationalrat hat beschlossen:
 >
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-220a-aktg--verschmelzungsbericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=220a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_224_TextContainer_224) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-220a-aktg--verschmelzungsbericht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-220a-aktg--verschmelzungsbericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=220a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_224_TextContainer_224) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-220a-aktg--verschmelzungsbericht) \]
 
 ----
 
@@ -3750,7 +3750,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-220b-aktg--prüfung-der-verschmelzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=220b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_225_TextContainer_225) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-220b-aktg--prüfung-der-verschmelzung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-220b-aktg--prüfung-der-verschmelzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=220b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_225_TextContainer_225) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-220b-aktg--prüfung-der-verschmelzung) \]
 
 ----
 
@@ -3760,7 +3760,7 @@ Der Nationalrat hat beschlossen:
 >
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-220c-aktg--prüfung-durch-den-aufsichtsrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=220c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_226_TextContainer_226) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-220c-aktg--prüfung-durch-den-aufsichtsrat) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-220c-aktg--prüfung-durch-den-aufsichtsrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=220c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_226_TextContainer_226) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-220c-aktg--prüfung-durch-den-aufsichtsrat) \]
 
 ----
 
@@ -3774,7 +3774,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Verschmelzungsvertrag \(dessen Entwurf\) ist in die Niederschrift über den Beschluß aufzunehmen oder dieser als Anlage beizufügen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-221-aktg--beschlüsse-der-hauptversammlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=221) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_227_TextContainer_227) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-221-aktg--beschlüsse-der-hauptversammlung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-221-aktg--beschlüsse-der-hauptversammlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=221) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_227_TextContainer_227) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-221-aktg--beschlüsse-der-hauptversammlung) \]
 
 ----
 
@@ -3806,7 +3806,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Jedem Aktionär ist auf Verlangen in der Hauptversammlung Auskunft auch über alle für die Verschmelzung wesentlichen Angelegenheiten der anderen beteiligten Gesellschaften zu geben\. § 118 Abs\. 3 ist sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-221a-aktg--vorbereitung-und-durchführung-der-hauptversammlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=221a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_228_TextContainer_228) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-221a-aktg--vorbereitung-und-durchführung-der-hauptversammlung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-221a-aktg--vorbereitung-und-durchführung-der-hauptversammlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=221a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_228_TextContainer_228) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-221a-aktg--vorbereitung-und-durchführung-der-hauptversammlung) \]
 
 ----
 
@@ -3814,7 +3814,7 @@ Der Nationalrat hat beschlossen:
 
 > Der Verschmelzungsvertrag bedarf der notariellen Beurkundung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-222-aktg--notarielle-beurkundung-des-verschmelzungsvertrags) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=222) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_229_TextContainer_229) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-222-aktg--notarielle-beurkundung-des-verschmelzungsvertrags) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-222-aktg--notarielle-beurkundung-des-verschmelzungsvertrags) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=222) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_229_TextContainer_229) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-222-aktg--notarielle-beurkundung-des-verschmelzungsvertrags) \]
 
 ----
 
@@ -3824,7 +3824,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Im Fall einer Kapitalerhöhung nach Abs\. 1 hat bei der übernehmenden Gesellschaft eine Prüfung durch einen oder mehrere Prüfer stattzufinden; § 25 Abs\. 3 bis 5, §§ 26, 27, 42 und 44 gelten sinngemäß\. Der Prüfer kann gleichzeitig Verschmelzungsprüfer sein\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-223-aktg--erhöhung-des-grundkapitals-zur-durchführung-der-verschmelzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=223) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_230_TextContainer_230) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-223-aktg--erhöhung-des-grundkapitals-zur-durchführung-der-verschmelzung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-223-aktg--erhöhung-des-grundkapitals-zur-durchführung-der-verschmelzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=223) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_230_TextContainer_230) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-223-aktg--erhöhung-des-grundkapitals-zur-durchführung-der-verschmelzung) \]
 
 ----
 
@@ -3848,7 +3848,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Leistet die übernehmende Gesellschaft bare Zuzahlungen, so dürfen diese zehn vom Hundert des auf die gewährten Aktien der übernehmenden Gesellschaft entfallenden anteiligen Betrages ihres Grundkapitals nicht übersteigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-224-aktg--unterbleiben-der-gewährung-von-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=224) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_231_TextContainer_231) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-224-aktg--unterbleiben-der-gewährung-von-aktien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-224-aktg--unterbleiben-der-gewährung-von-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=224) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_231_TextContainer_231) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-224-aktg--unterbleiben-der-gewährung-von-aktien) \]
 
 ----
 
@@ -3876,7 +3876,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wenn die übertragende und die übernehmende Gesellschaft ihren Sitz nicht im selben Sprengel haben, hat das Gericht, in dessen Sprengel die übertragende Gesellschaft ihren Sitz hat, die Beendigung seiner Zuständigkeit auszusprechen und dies dem Gericht, in dessen Sprengel die übernehmende Gesellschaft ihren Sitz hat, mitzuteilen\. Weiters hat es diesem Gericht von Amts wegen die bei ihm aufbewahrten Urkunden und sonstigen Schriftstücke zu übersenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225-aktg--anmeldung-der-verschmelzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=225) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_232_TextContainer_232) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225-aktg--anmeldung-der-verschmelzung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225-aktg--anmeldung-der-verschmelzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=225) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_232_TextContainer_232) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225-aktg--anmeldung-der-verschmelzung) \]
 
 ----
 
@@ -3898,7 +3898,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Für den Umtausch der Aktien der übertragenden Gesellschaft gilt § 67, bei Zusammenlegung von Aktien § 179 über die Kraftloserklärung von Aktien sinngemäß; einer Genehmigung des Gerichts bedarf es nicht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225a-aktg--eintragung-der-verschmelzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=225a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_233_TextContainer_233) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225a-aktg--eintragung-der-verschmelzung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225a-aktg--eintragung-der-verschmelzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=225a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_233_TextContainer_233) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225a-aktg--eintragung-der-verschmelzung) \]
 
 ----
 
@@ -3906,7 +3906,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Anfechtung des Beschlusses, durch den die Hauptversammlung einer beteiligten Gesellschaft dem Verschmelzungsvertrag zugestimmt hat, kann nicht darauf gestützt werden, daß das Umtauschverhältnis oder die allfälligen baren Zuzahlungen nicht angemessen festgelegt sind oder daß die in den Verschmelzungsberichten \(§ 220a\), den Prüfungsberichten \(§ 220b\) oder den Berichten der Aufsichtsräte \(§ 220c\) enthaltenen Erläuterungen des Umtauschverhältnisses oder der baren Zuzahlungen den gesetzlichen Bestimmungen nicht entsprechen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225b-aktg--ausschluß-von-anfechtungsklagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=225b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_234_TextContainer_234) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225b-aktg--ausschluß-von-anfechtungsklagen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225b-aktg--ausschluß-von-anfechtungsklagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=225b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_234_TextContainer_234) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225b-aktg--ausschluß-von-anfechtungsklagen) \]
 
 ----
 
@@ -3924,7 +3924,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Voraussetzung gemäß Abs\. 3 Z 1 lit\. a ist glaubhaft zu machen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225c-aktg--gerichtliche-überprüfung-des-umtauschverhältnisses-antragsberechtigte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=225c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_235_TextContainer_235) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225c-aktg--gerichtliche-überprüfung-des-umtauschverhältnisses-antragsberechtigte) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225c-aktg--gerichtliche-überprüfung-des-umtauschverhältnisses-antragsberechtigte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=225c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_235_TextContainer_235) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225c-aktg--gerichtliche-überprüfung-des-umtauschverhältnisses-antragsberechtigte) \]
 
 ----
 
@@ -3932,7 +3932,7 @@ Der Nationalrat hat beschlossen:
 
 > Die Aktionäre können auf ihren Ausgleichsanspruch verzichten\. Ein solcher Verzicht ist nur wirksam, wenn er schriftlich oder zur Niederschrift in der Hauptversammlung erklärt worden ist; er wirkt auch gegen Erwerber dieser Aktien\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225d-aktg--verzicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=225d) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_236_TextContainer_236) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225d-aktg--verzicht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225d-aktg--verzicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=225d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_236_TextContainer_236) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225d-aktg--verzicht) \]
 
 ----
 
@@ -3946,7 +3946,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Gegen eine Entscheidung über einen Antrag gemäß § 225c Abs\. 2 steht nur der übernehmenden Gesellschaft, jedem Antragsteller und jedem gemeinsamen Vertreter \(§ 225f\) der Rekurs zu\. Das Rechtsmittel der Vorstellung ist ausgeschlossen\. Die Rekursfrist beträgt vier Wochen\. Erhobene Rekurse sind den anderen Parteien zuzustellen; sie können binnen vier Wochen nach der Zustellung des Rekurses eine Rekursbeantwortung einbringen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225e-aktg--verfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=225e) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_237_TextContainer_237) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225e-aktg--verfahren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225e-aktg--verfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=225e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_237_TextContainer_237) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225e-aktg--verfahren) \]
 
 ----
 
@@ -3964,7 +3964,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Der gemeinsame Vertreter hat das Verfahren nach Rücknahme sämtlicher Anträge von Aktionären weiterzuführen, soweit nach seiner pflichtgemäßen Beurteilung ein Erfolg seines Antrags zu erwarten ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225f-aktg--gemeinsamer-vertreter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=225f) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_238_TextContainer_238) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225f-aktg--gemeinsamer-vertreter) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225f-aktg--gemeinsamer-vertreter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=225f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_238_TextContainer_238) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225f-aktg--gemeinsamer-vertreter) \]
 
 ----
 
@@ -3984,7 +3984,7 @@ Der Nationalrat hat beschlossen:
 
 > `(7)` Das Gremium ist befugt, von allen an der Verschmelzung beteiligten Gesellschaften Auskünfte zu verlangen; § 272 UGB gilt sinngemäß\. Die Auskunftspflicht gilt auch gegenüber einem vom Gremium beauftragten Sachverständigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225g-aktg--gremium-zur-überprüfung-des-umtauschverhältnisses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=225g) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_239_TextContainer_239) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225g-aktg--gremium-zur-überprüfung-des-umtauschverhältnisses) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225g-aktg--gremium-zur-überprüfung-des-umtauschverhältnisses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=225g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_239_TextContainer_239) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225g-aktg--gremium-zur-überprüfung-des-umtauschverhältnisses) \]
 
 ----
 
@@ -3994,7 +3994,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Die Urschrift eines Vergleichs gemäß Abs\. 1 ist unverzüglich dem Gericht zur Genehmigung zu übermitteln\. Die Genehmigung ist zu erteilen, wenn die Voraussetzungen gemäß Abs\. 1 zweiter Satz eingehalten worden sind\. Ein genehmigter Vergleich ist einem vor Gericht abgeschlossenen Vergleich gleichzuhalten\. Das Gericht hat die erforderlichen Vergleichsausfertigungen herzustellen und diese an die Parteien zuzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225h-aktg--streitschlichtung-durch-das-gremium) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=225h) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_240_TextContainer_240) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225h-aktg--streitschlichtung-durch-das-gremium) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225h-aktg--streitschlichtung-durch-das-gremium) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=225h) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_240_TextContainer_240) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225h-aktg--streitschlichtung-durch-das-gremium) \]
 
 ----
 
@@ -4006,7 +4006,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Das Gericht hat in der Entscheidung oder im Beschluss, mit dem der Vergleich genehmigt wird, den Gesamtwert der Zuzahlungen oder der Aktien, die an Stelle der Zuzahlungen an die Aktionäre zu leisten sind, festzuhalten\. Dieser Gesamtwert ist Maßstab für den Ersatz der Kosten rechtsfreundlicher Vertretung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225i-aktg--wirksamkeit-von-entscheidungen-und-vergleichen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=225i) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_241_TextContainer_241) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225i-aktg--wirksamkeit-von-entscheidungen-und-vergleichen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225i-aktg--wirksamkeit-von-entscheidungen-und-vergleichen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=225i) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_241_TextContainer_241) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225i-aktg--wirksamkeit-von-entscheidungen-und-vergleichen) \]
 
 ----
 
@@ -4016,7 +4016,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Ist die übernehmende Gesellschaft gemäß § 225e Abs\. 3 ermächtigt worden, an Stelle von baren Zuzahlungen zusätzliche Aktien zu leisten, so sind hiefür vorhandene eigene Aktien zu verwenden\. Reichen diese nicht aus, so kann die Gesellschaft neue Aktien ausgeben; diese Aktien stehen ausschließlich den nach der gerichtlichen Entscheidung anspruchsberechtigten Aktionären zu; die Leistung von Einlagen entfällt\. Die Ausgabe der neuen Aktien ist nur zulässig, soweit deren geringster Ausgabebetrag in freien Rücklagen oder einem Gewinnvortrag Deckung findet oder das erhöhte Grundkapital und die gebundenen Rücklagen durch den Wert des Nettoaktivvermögens gedeckt sind\. Im letzteren Fall hat eine Prüfung in sinngemäßer Anwendung von § 25 Abs\. 3 bis 5, §§ 26, 27, 42 und 44 stattzufinden\. Im übrigen ist § 223 Abs\. 1 sinngemäß anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225j-aktg--verzinsung-barer-zuzahlungen-ausgabe-zusätzlicher-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=225j) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_242_TextContainer_242) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225j-aktg--verzinsung-barer-zuzahlungen-ausgabe-zusätzlicher-aktien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225j-aktg--verzinsung-barer-zuzahlungen-ausgabe-zusätzlicher-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=225j) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_242_TextContainer_242) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225j-aktg--verzinsung-barer-zuzahlungen-ausgabe-zusätzlicher-aktien) \]
 
 ----
 
@@ -4024,7 +4024,7 @@ Der Nationalrat hat beschlossen:
 
 > Der Vorstand der übernehmenden Gesellschaft hat die rechtskräftige Entscheidung über einen Antrag gemäß § 225c Abs\. 2 ohne Gründe oder einen in einem solchen Verfahren vor Gericht abgeschlossenen oder gemäß § 225h Abs\. 2 gerichtlich genehmigten Vergleich unverzüglich in den Bekanntmachungsblättern \(§ 18\) aller an der Verschmelzung beteiligten Gesellschaften bekanntzumachen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225k-aktg--bekanntmachungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=225k) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_243_TextContainer_243) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225k-aktg--bekanntmachungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225k-aktg--bekanntmachungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=225k) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_243_TextContainer_243) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225k-aktg--bekanntmachungen) \]
 
 ----
 
@@ -4036,7 +4036,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Entsprechen die in den Verschmelzungsberichten \(§ 220a\), den Prüfungsberichten \(§ 220b\) oder den Berichten der Aufsichtsräte \(§ 220c\) enthaltenen Erläuterungen des Umtauschverhältnisses oder der baren Zuzahlungen nicht den gesetzlichen Bestimmungen, so ist ein Antrag gemäß § 225c Abs\. 2 jedenfalls als zur zweckentsprechenden Rechtsverfolgung gestellt anzusehen \(Abs\. 1\) und hat die übernehmende Gesellschaft überdies die Kosten der rechtsfreundlichen Vertretung der antragstellenden Aktionäre bis zu jenem Zeitpunkt zur Gänze zu tragen, ab dem diese voraussehen konnten, daß sie einen nicht zweckentsprechenden Verfahrensaufwand verursachen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225l-aktg--kosten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=225l) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_244_TextContainer_244) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225l-aktg--kosten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225l-aktg--kosten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=225l) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_244_TextContainer_244) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225l-aktg--kosten) \]
 
 ----
 
@@ -4064,7 +4064,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` Für jede angefangene halbe Stunde einer Sitzung des Gremiums haben der Vorsitzende und der Berichterstatter einen Anspruch auf eine Vergütung im Betrag von 200 Euro, die übrigen Mitglieder des Gremiums einen solchen im Betrag von 100 Euro\. Für die Erstattung eines Berichts gemäß § 225g Abs\. 6 steht den Mitgliedern des Gremiums überdies ein Betrag von insgesamt 2500 Euro, im Fall der Beteiligung einer börsenotierten Gesellschaft von insgesamt 4000 Euro zu; der Vorsitzende hat einen Vorschlag für die Verteilung dieses Betrags auf einzelne oder alle Mitglieder entsprechend ihrem individuellen Zeitaufwand für die Vorbereitung des Berichts zu erstatten\. Die Vergütungen für das Gremium bilden Verfahrenskosten im Sinn des § 225l Abs\. 1\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225m-aktg--bestellung-verschwiegenheitspflicht-und-vergütungsansprüche-der-mitglieder-des-gremiums) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=225m) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_245_TextContainer_245) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225m-aktg--bestellung-verschwiegenheitspflicht-und-vergütungsansprüche-der-mitglieder-des-gremiums) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-225m-aktg--bestellung-verschwiegenheitspflicht-und-vergütungsansprüche-der-mitglieder-des-gremiums) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=225m) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_245_TextContainer_245) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-225m-aktg--bestellung-verschwiegenheitspflicht-und-vergütungsansprüche-der-mitglieder-des-gremiums) \]
 
 ----
 
@@ -4076,7 +4076,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Den Inhabern von Schuldverschreibungen und Genußrechten sind gleichwertige Rechte zu gewähren oder die Änderung der Rechte oder das Recht selbst angemessen abzugelten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-226-aktg--gläubigerschutz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=226) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_246_TextContainer_246) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-226-aktg--gläubigerschutz) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-226-aktg--gläubigerschutz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=226) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_246_TextContainer_246) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-226-aktg--gläubigerschutz) \]
 
 ----
 
@@ -4088,7 +4088,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Ansprüche aus Abs\. 1 verjähren in fünf Jahren seit dem Tage, an dem die Eintragung der Verschmelzung in das Firmenbuch gemäß § 10 UGB als bekanntgemacht gilt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-227-aktg--schadenersatzpflicht-der-verwaltungsträger-der-übertragenden-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=227) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_247_TextContainer_247) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-227-aktg--schadenersatzpflicht-der-verwaltungsträger-der-übertragenden-gesellschaft) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-227-aktg--schadenersatzpflicht-der-verwaltungsträger-der-übertragenden-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=227) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_247_TextContainer_247) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-227-aktg--schadenersatzpflicht-der-verwaltungsträger-der-übertragenden-gesellschaft) \]
 
 ----
 
@@ -4102,7 +4102,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der besondere Vertreter hat Anspruch auf Ersatz der notwendigen baren Auslagen sowie auf Belohnung für seine Mühewaltung\. Diese Beträge bestimmt das Gericht\. Es bestimmt nach den gesamten Verhältnissen des einzelnen Falls, in welchem Umfang die Auslagen und die Entlohnung von beteiligten Aktionären und Gläubigern zu tragen sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-228-aktg--durchführung-des-schadenersatzanspruchs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=228) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_248_TextContainer_248) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-228-aktg--durchführung-des-schadenersatzanspruchs) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-228-aktg--durchführung-des-schadenersatzanspruchs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=228) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_248_TextContainer_248) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-228-aktg--durchführung-des-schadenersatzanspruchs) \]
 
 ----
 
@@ -4110,7 +4110,7 @@ Der Nationalrat hat beschlossen:
 
 > Ansprüche auf Schadenersatz, die sich auf Grund der Verschmelzung gegen ein Mitglied des Vorstands oder des Aufsichtsrats der übernehmenden Gesellschaft ergeben, verjähren in fünf Jahren seit dem Tag, an dem die Eintragung der Verschmelzung in das Firmenbuch gemäß § 10 UGB als bekanntgemacht gilt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-229-aktg--schadenersatzpflicht-der-verwaltungsträger-der-übernehmenden-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=229) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_249_TextContainer_249) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-229-aktg--schadenersatzpflicht-der-verwaltungsträger-der-übernehmenden-gesellschaft) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-229-aktg--schadenersatzpflicht-der-verwaltungsträger-der-übernehmenden-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=229) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_249_TextContainer_249) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-229-aktg--schadenersatzpflicht-der-verwaltungsträger-der-übernehmenden-gesellschaft) \]
 
 ----
 
@@ -4120,7 +4120,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Mängel der Verschmelzung lassen die Wirkungen der Eintragung gemäß § 225a Abs\. 3 unberührt\. Das auf Anfechtung oder Feststellung der Nichtigkeit eines Verschmelzungsbeschlusses gerichtete Begehren kann ohne Vorliegen der Voraussetzungen des § 235 ZPO auf den Ersatz des Schadens, der dem Kläger aus der auf dem Beschluß beruhenden Eintragung der Verschmelzung im Firmenbuch entstanden ist, abgeändert oder auf Ersatz der Prozeßkosten eingeschränkt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-230-aktg--anfechtung-des-verschmelzungsbeschlusses-der-übertragenden-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=230) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_250_TextContainer_250) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-230-aktg--anfechtung-des-verschmelzungsbeschlusses-der-übertragenden-gesellschaft) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-230-aktg--anfechtung-des-verschmelzungsbeschlusses-der-übertragenden-gesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=230) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_250_TextContainer_250) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-230-aktg--anfechtung-des-verschmelzungsbeschlusses-der-übertragenden-gesellschaft) \]
 
 ----
 
@@ -4136,7 +4136,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Aktionäre der übernehmenden Gesellschaft, deren Anteile zusammen fünf vom Hundert des Grundkapitals dieser Gesellschaft erreichen, können bis zum Ablauf eines Monats nach der Beschlußfassung der Hauptversammlung der übertragenden Gesellschaft die Einberufung einer Hauptversammlung verlangen, in der über die Zustimmung zu der Verschmelzung beschlossen wird\. Die Satzung kann das Recht, die Einberufung der Hauptversammlung zu verlangen, an den Besitz eines geringeren Anteils am Grundkapital knüpfen\. In der Veröffentlichung gemäß § 221a Abs\. 1 sind die Aktionäre auf dieses Recht hinzuweisen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-231-aktg--vereinfachte-verschmelzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=231) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_251_TextContainer_251) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-231-aktg--vereinfachte-verschmelzung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-231-aktg--vereinfachte-verschmelzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=231) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_251_TextContainer_251) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-231-aktg--vereinfachte-verschmelzung) \]
 
 ----
 
@@ -4150,7 +4150,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Sofern keine Prüfung durch den Aufsichtsrat \(§ 220c\) erfolgen soll, hat der Vorstand den Aufsichtsrat unverzüglich über die geplante Verschmelzung zu informieren\. Gehören dem Aufsichtsrat gemäß § 110 ArbVG entsandte Mitglieder an, so hat der Vorstand gegebenenfalls auch darüber zu informieren, welche Auswirkungen für die Arbeitnehmer \(betreffend Arbeitsplätze, Beschäftigungsbedingungen und Standorte\) die Verschmelzung voraussichtlich haben wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-232-aktg--vereinfachte-verschmelzung-bei-aufnahme-durch-den-alleingesellschafter-oder-bei-verzicht-aller-aktionäre) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=232) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_252_TextContainer_252) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-232-aktg--vereinfachte-verschmelzung-bei-aufnahme-durch-den-alleingesellschafter-oder-bei-verzicht-aller-aktionäre) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-232-aktg--vereinfachte-verschmelzung-bei-aufnahme-durch-den-alleingesellschafter-oder-bei-verzicht-aller-aktionäre) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=232) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_252_TextContainer_252) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.011.md#-232-aktg--vereinfachte-verschmelzung-bei-aufnahme-durch-den-alleingesellschafter-oder-bei-verzicht-aller-aktionäre) \]
 
 ----
 
@@ -4170,7 +4170,7 @@ Der Nationalrat hat beschlossen:
 
 > `(6)` In die Veröffentlichung der Eintragung der neuen Gesellschaft sind außer deren Inhalt \(§ 33 Abs\. 1\) die Bestimmungen des Verschmelzungsvertrags über die Zahl und, wenn mehrere Gattungen bestehen, die Gattung der Aktien, die die neue Gesellschaft den Aktionären der übertragenden Gesellschaft gewährt, und über die Art und den Zeitraum der Zuteilung dieser Aktien aufzunehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-233-aktg--verschmelzung-durch-neugründung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=233) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_253_TextContainer_253) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-233-aktg--verschmelzung-durch-neugründung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-233-aktg--verschmelzung-durch-neugründung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=233) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_253_TextContainer_253) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-233-aktg--verschmelzung-durch-neugründung) \]
 
 ----
 
@@ -4190,7 +4190,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Wird bei der übernehmenden Aktiengesellschaft auf Grund der Verschmelzung das Grundkapital erhöht oder eine Verschmelzung durch Neugründung vorgenommen, so ist eine Prüfung gemäß § 223 Abs\. 2 jedenfalls dann vorzunehmen, wenn für die übertragende Gesellschaft nach den Vorschriften des UGB eine Abschlußprüfung nicht vorgeschrieben war\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-234-aktg--haftung-mit-einer-aktiengesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=234) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_254_TextContainer_254) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-234-aktg--haftung-mit-einer-aktiengesellschaft) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-234-aktg--haftung-mit-einer-aktiengesellschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=234) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_254_TextContainer_254) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-234-aktg--haftung-mit-einer-aktiengesellschaft) \]
 
 ----
 
@@ -4204,7 +4204,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 13\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-234a-aktg--verschmelzung-einer-aktiengesellschaft-mit-einer-gesellschaft-mit-beschränkter-haftung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=234a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_255_TextContainer_255) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-234a-aktg--verschmelzung-einer-aktiengesellschaft-mit-einer-gesellschaft-mit-beschränkter-haftung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-234a-aktg--verschmelzung-einer-aktiengesellschaft-mit-einer-gesellschaft-mit-beschränkter-haftung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=234a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_255_TextContainer_255) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-234a-aktg--verschmelzung-einer-aktiengesellschaft-mit-einer-gesellschaft-mit-beschränkter-haftung) \]
 
 ----
 
@@ -4232,7 +4232,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 13\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-234b-aktg--barabfindung-bei-rechtsformübergreifender-verschmelzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=234b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_256_TextContainer_256) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-234b-aktg--barabfindung-bei-rechtsformübergreifender-verschmelzung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-234b-aktg--barabfindung-bei-rechtsformübergreifender-verschmelzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=234b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_256_TextContainer_256) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-234b-aktg--barabfindung-bei-rechtsformübergreifender-verschmelzung) \]
 
 ----
 
@@ -4250,7 +4250,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Mit der Eintragung der Vermögensübertragung bei der übertragenden Gesellschaft treten die Rechtswirkungen gemäß § 225a Abs\. 3 Z 1, 2 und 4 ein\. Im übrigen gelten § 222, §§ 225b bis 226, ausgenommen § 225e Abs\. 3 zweiter Satz, § 230 sowie § 232 sinngemäß\. An die Stelle der übernehmenden Gesellschaft tritt die beteiligte Gebietskörperschaft\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-235-aktg--vermögensübertragung-auf-eine-gebietskörperschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=235) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_257_TextContainer_257) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-235-aktg--vermögensübertragung-auf-eine-gebietskörperschaft) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-235-aktg--vermögensübertragung-auf-eine-gebietskörperschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=235) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_257_TextContainer_257) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-235-aktg--vermögensübertragung-auf-eine-gebietskörperschaft) \]
 
 ----
 
@@ -4266,7 +4266,7 @@ Der Nationalrat hat beschlossen:
 
 > `(5)` Der die Vermögensübertragung genehmigende Bescheid der Versicherungsaufsichtsbehörde ist zum Firmenbuch einzureichen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-236-aktg--vermögensübertragung-auf-einen-versicherungsverein-auf-gegenseitigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=236) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_258_TextContainer_258) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-236-aktg--vermögensübertragung-auf-einen-versicherungsverein-auf-gegenseitigkeit) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-236-aktg--vermögensübertragung-auf-einen-versicherungsverein-auf-gegenseitigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=236) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_258_TextContainer_258) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-236-aktg--vermögensübertragung-auf-einen-versicherungsverein-auf-gegenseitigkeit) \]
 
 ----
 
@@ -4278,7 +4278,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Wird aus Anlaß der Übertragung des Gesellschaftsvermögens die Auflösung der Gesellschaft beschlossen, so gelten die §§ 205 bis 214; die Abwickler sind zu den Geschäften und Rechtshandlungen befugt, die die Ausführung der beschlossenen Maßregel mit sich bringt\. Der Anmeldung der Auflösung der Gesellschaft ist der Vertrag in Ausfertigung oder öffentlich beglaubigter Abschrift beizufügen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-237-aktg--vermögensübertragung-in-anderer-weise) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=237) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_259_TextContainer_259) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-237-aktg--vermögensübertragung-in-anderer-weise) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-237-aktg--vermögensübertragung-in-anderer-weise) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=237) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_259_TextContainer_259) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-237-aktg--vermögensübertragung-in-anderer-weise) \]
 
 ----
 
@@ -4290,7 +4290,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Beschlüsse bedürfen einer Mehrheit, die mindestens drei Viertel des bei der Beschlußfassung vertretenen Grundkapitals umfaßt\. Die Satzung kann diese Mehrheit durch eine größere Kapitalmehrheit ersetzen und noch andere Erfordernisse aufstellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-238-aktg--gewinngemeinschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=238) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_260_TextContainer_260) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-238-aktg--gewinngemeinschaft) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-238-aktg--gewinngemeinschaft) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=238) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_260_TextContainer_260) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-238-aktg--gewinngemeinschaft) \]
 
 ----
 
@@ -4310,7 +4310,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Der Nennbetrag der Geschäftsanteile kann abweichend von dem Betrag festgesetzt werden, der auf die Aktien als anteiliger Betrag des Grundkapitals entfällt\. Der abweichenden Festsetzung muß jeder Aktionär zustimmen, der durch sie gehindert wird, sich mit seinem gesamten Anteil zu beteiligen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-239-aktg--voraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=239) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_261_TextContainer_261) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-239-aktg--voraussetzungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-239-aktg--voraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=239) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_261_TextContainer_261) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-239-aktg--voraussetzungen) \]
 
 ----
 
@@ -4322,7 +4322,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Ist die übertragende Aktiengesellschaft im Inland börsenotiert, so darf die Umwandlung erst zur Eintragung angemeldet werden, nachdem unter Hinweis auf die geplante Umwandlung innerhalb der letzten sechs Monate vor der Anmeldung oder unter Hinweis auf den gefassten Umwandlungsbeschluss eine Angebotsunterlage nach dem 5\. Teil des ÜbG veröffentlicht wurde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-240-aktg--anmeldung-des-umwandlungsbeschlusses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=240) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_262_TextContainer_262) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-240-aktg--anmeldung-des-umwandlungsbeschlusses) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-240-aktg--anmeldung-des-umwandlungsbeschlusses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=240) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_262_TextContainer_262) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-240-aktg--anmeldung-des-umwandlungsbeschlusses) \]
 
 ----
 
@@ -4330,7 +4330,7 @@ Der Nationalrat hat beschlossen:
 
 > Von der Eintragung der Umwandlung an besteht die Gesellschaft als Gesellschaft mit beschränkter Haftung weiter\. Das Grundkapital ist zum Stammkapital, die Aktien sind zu Geschäftsanteilen geworden, die an einer Aktie bestehenden Rechte Dritter bestehen an dem Geschäftsanteil weiter, der an ihre Stelle tritt\. Sieht der Gesellschaftsvertrag einen Aufsichtsrat vor, so bleiben die Mitglieder des bisherigen Aufsichtsrats im Amt, wenn die Hauptversammlung nichts anderes beschließt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-241-aktg--wirkung-der-eintragung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=241) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_263_TextContainer_263) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-241-aktg--wirkung-der-eintragung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-241-aktg--wirkung-der-eintragung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=241) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_263_TextContainer_263) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-241-aktg--wirkung-der-eintragung) \]
 
 ----
 
@@ -4338,7 +4338,7 @@ Der Nationalrat hat beschlossen:
 
 > Für den Umtausch der Aktien gegen Geschäftsanteile gilt § 67, bei Zusammenlegung von Aktien § 179 über die Kraftloserklärung von Aktien sinngemäß; einer Genehmigung des Gerichts bedarf es nicht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-242-aktg--umtausch-der-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=242) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_264_TextContainer_264) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-242-aktg--umtausch-der-aktien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-242-aktg--umtausch-der-aktien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=242) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_264_TextContainer_264) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-242-aktg--umtausch-der-aktien) \]
 
 ----
 
@@ -4346,7 +4346,7 @@ Der Nationalrat hat beschlossen:
 
 > Den Gläubigern der Gesellschaft, deren Forderungen vor der Eintragung der Umwandlung begründet worden sind, ist, wenn sie sich binnen sechs Monaten nach der Eintragung zu diesem Zweck melden, Sicherheit zu leisten, soweit sie nicht Befriedigung verlangen können\. Die Gläubiger sind in der Veröffentlichung der Eintragung auf dieses Recht hinzuweisen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-243-aktg--gläubigerschutz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=243) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_265_TextContainer_265) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-243-aktg--gläubigerschutz) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-243-aktg--gläubigerschutz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=243) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_265_TextContainer_265) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-243-aktg--gläubigerschutz) \]
 
 ----
 
@@ -4362,7 +4362,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 16\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-244-aktg--barabfindung-widersprechender-aktionäre) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=244) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_266_TextContainer_266) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-244-aktg--barabfindung-widersprechender-aktionäre) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-244-aktg--barabfindung-widersprechender-aktionäre) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=244) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_266_TextContainer_266) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-244-aktg--barabfindung-widersprechender-aktionäre) \]
 
 ----
 
@@ -4378,7 +4378,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Im Beschluß sind die Firma, die Art der Zusammensetzung des Vorstands und des Aufsichtsrats und die weiteren zur Durchführung der Umwandlung nötigen Abänderungen des Gesellschaftsvertrags festzusetzen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-245-aktg--voraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=245) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_267_TextContainer_267) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-245-aktg--voraussetzungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-245-aktg--voraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=245) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_267_TextContainer_267) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-245-aktg--voraussetzungen) \]
 
 ----
 
@@ -4390,7 +4390,7 @@ Der Nationalrat hat beschlossen:
 
 > `(3)` Die Geschäftsführer haben eine Bilanz aufzustellen, § 220 Abs\. 3 gilt sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-246-aktg--durchführung-der-umwandlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=246) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_268_TextContainer_268) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-246-aktg--durchführung-der-umwandlung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-246-aktg--durchführung-der-umwandlung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=246) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_268_TextContainer_268) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-246-aktg--durchführung-der-umwandlung) \]
 
 ----
 
@@ -4404,7 +4404,7 @@ Der Nationalrat hat beschlossen:
 
 > `(4)` Die Frist von zwei Jahren nach § 45 Abs\. 1 wird von der Eintragung der Umwandlung in das Firmenbuch gerechnet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-247-aktg--gründungsprüfung-und-verantwortlichkeit-der-gesellschafter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=247) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_269_TextContainer_269) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-247-aktg--gründungsprüfung-und-verantwortlichkeit-der-gesellschafter) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-247-aktg--gründungsprüfung-und-verantwortlichkeit-der-gesellschafter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=247) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_269_TextContainer_269) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-247-aktg--gründungsprüfung-und-verantwortlichkeit-der-gesellschafter) \]
 
 ----
 
@@ -4414,7 +4414,7 @@ Der Nationalrat hat beschlossen:
 
 > `(2)` Der Anmeldung ist die Bilanz des § 246 Abs\. 3 beizufügen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-248-aktg--anmeldung-des-umwandlungsbeschlusses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=248) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_270_TextContainer_270) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-248-aktg--anmeldung-des-umwandlungsbeschlusses) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-248-aktg--anmeldung-des-umwandlungsbeschlusses) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=248) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_270_TextContainer_270) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-248-aktg--anmeldung-des-umwandlungsbeschlusses) \]
 
 ----
 
@@ -4422,7 +4422,7 @@ Der Nationalrat hat beschlossen:
 
 > In die Veröffentlichung der Eintragung der Umwandlung sind ihr Inhalt und die Mitteilung nach dem sinngemäß anzuwendenden § 33 Abs\. 2 aufzunehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-249-aktg--inhalt-der-veröffentlichung-der-eintragung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=249) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_271_TextContainer_271) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-249-aktg--inhalt-der-veröffentlichung-der-eintragung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-249-aktg--inhalt-der-veröffentlichung-der-eintragung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=249) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_271_TextContainer_271) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-249-aktg--inhalt-der-veröffentlichung-der-eintragung) \]
 
 ----
 
@@ -4430,7 +4430,7 @@ Der Nationalrat hat beschlossen:
 
 > Von der Eintragung der Umwandlung an besteht die Gesellschaft als Aktiengesellschaft weiter\. Das Stammkapital ist zum Grundkapital, die Geschäftsanteile sind zu Aktien geworden; die an einem Geschäftsanteil bestehenden Rechte Dritter bestehen an der Aktie weiter, die an seine Stelle tritt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-250-aktg--wirkung-der-eintragung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=250) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_272_TextContainer_272) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-250-aktg--wirkung-der-eintragung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-250-aktg--wirkung-der-eintragung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=250) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_272_TextContainer_272) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-250-aktg--wirkung-der-eintragung) \]
 
 ----
 
@@ -4438,7 +4438,7 @@ Der Nationalrat hat beschlossen:
 
 > Unverzüglich nach der Eintragung hat der Vorstand die gemäß § 246 Abs\. 3 aufzustellende Bilanz gemäß § 18 zu veröffentlichen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-251-aktg--veröffentlichung-der-bilanz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=251) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_273_TextContainer_273) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-251-aktg--veröffentlichung-der-bilanz) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-251-aktg--veröffentlichung-der-bilanz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=251) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_273_TextContainer_273) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-251-aktg--veröffentlichung-der-bilanz) \]
 
 ----
 
@@ -4446,7 +4446,7 @@ Der Nationalrat hat beschlossen:
 
 > Für den Umtausch der Geschäftsanteile gegen Aktien gilt § 67, bei Zusammenlegung von Geschäftsanteilen § 179 über die Kraftloserklärung von Aktien sinngemäß; einer Genehmigung des Gerichts bedarf es nicht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-252-aktg--umtausch-der-geschäftsanteile) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=252) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_274_TextContainer_274) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-252-aktg--umtausch-der-geschäftsanteile) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-252-aktg--umtausch-der-geschäftsanteile) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=252) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_274_TextContainer_274) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-252-aktg--umtausch-der-geschäftsanteile) \]
 
 ----
 
@@ -4456,7 +4456,7 @@ Der Nationalrat hat beschlossen:
 >
 > *\(Beachte: Zum Bezugszeitraum vgl\. § 262 Abs\. 13\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-253-aktg--barabfindung-widersprechender-gesellschafter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=253) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_275_TextContainer_275) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-253-aktg--barabfindung-widersprechender-gesellschafter) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-253-aktg--barabfindung-widersprechender-gesellschafter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=253) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_275_TextContainer_275) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-253-aktg--barabfindung-widersprechender-gesellschafter) \]
 
 ----
 
@@ -4480,7 +4480,7 @@ Der Nationalrat hat beschlossen:
 
 > `(8)` Die Abwicklung der Geschäfte der inländischen Zweigniederlassung hat unter sinngemäßer Anwendung der Bestimmungen über die Abwicklung von Aktiengesellschaften zu erfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-254-aktg--inländische-zweigniederlassungen-ausländischer-aktiengesellschaften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=254) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_276_TextContainer_276) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-254-aktg--inländische-zweigniederlassungen-ausländischer-aktiengesellschaften) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-254-aktg--inländische-zweigniederlassungen-ausländischer-aktiengesellschaften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=254) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_276_TextContainer_276) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-254-aktg--inländische-zweigniederlassungen-ausländischer-aktiengesellschaften) \]
 
 ----
 
@@ -4492,7 +4492,7 @@ Der Nationalrat hat beschlossen:
 
 > *\(Beachte: zum Bezugszeitraum vgl\. § 262 Abs\. 34\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-258-aktg--zwangsstrafen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=258) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_277_TextContainer_277) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-258-aktg--zwangsstrafen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-258-aktg--zwangsstrafen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=258) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_277_TextContainer_277) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-258-aktg--zwangsstrafen) \]
 
 ----
 
@@ -4509,7 +4509,7 @@ Der Nationalrat hat beschlossen:
 > `(3)` An den Versammlungen und Sitzungen der Organe von im Abs\. 1 genannten Aktiengesellschaften können Vertreter der Aufsichtsbehörde teilnehmen\. Sie überwachen die Einhaltung der Rechtsvorschriften und der sich aus den Genehmigungen und der Satzung ergebenden Verpflichtungen\. Für die im Abs\. 2 genannten Aktiengesellschaften gilt § 13 des Eisenbahngesetzes 1957\.
 > *\(Anm\.: Abs\. 4 aufgehoben durch BGBl\. I Nr\. 98/2001\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-259-aktg--öffentliche-verkehrsunternehmungen-unternehmungen-des-post--und-fernmeldewesens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=259) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_278_TextContainer_278) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-259-aktg--öffentliche-verkehrsunternehmungen-unternehmungen-des-post--und-fernmeldewesens) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-259-aktg--öffentliche-verkehrsunternehmungen-unternehmungen-des-post--und-fernmeldewesens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=259) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_278_TextContainer_278) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-259-aktg--öffentliche-verkehrsunternehmungen-unternehmungen-des-post--und-fernmeldewesens) \]
 
 ----
 
@@ -4517,7 +4517,7 @@ Der Nationalrat hat beschlossen:
 
 > Für Aktiengesellschaften, die auf Grund der hiefür geltenden gesetzlichen Bestimmungen als gemeinnützige Bauvereinigungen anerkannt sind, gelten die §§ 201 bis 211, 260, 274 und 275 UGB sinngemäß, die §§ 268 bis 273 und 276 UGB gelten nicht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-260-aktg--gemeinnützige-bauvereinigungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=260) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_279_TextContainer_279) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-260-aktg--gemeinnützige-bauvereinigungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-260-aktg--gemeinnützige-bauvereinigungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=260) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_279_TextContainer_279) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.012.md#-260-aktg--gemeinnützige-bauvereinigungen) \]
 
 ----
 
@@ -4621,7 +4621,7 @@ Der Nationalrat hat beschlossen:
 
 > `(46)` § 75 Abs\. 2a, 2b und 2c tritt mit 1\. Jänner 2024 in Kraft und ist auf Verurteilungen anzuwenden, deren Rechtskraft nach dem 31\. Dezember 2023 eingetreten ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-262-aktg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=262) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_280_TextContainer_280) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.013.md#-262-aktg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-262-aktg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=262) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_280_TextContainer_280) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.013.md#-262-aktg) \]
 
 ----
 
@@ -4633,7 +4633,7 @@ Der Nationalrat hat beschlossen:
 
 > Ein bei Inkrafttreten dieses Bundesgesetzes im Firmenbuch eingetragener Sitz einer Aktiengesellschaft kann beibehalten werden, auch wenn er den Vorschriften des § 5 nicht entspricht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-266-aktg--sitz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=266) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_281_TextContainer_281) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.013.md#-266-aktg--sitz) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-266-aktg--sitz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=266) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_281_TextContainer_281) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.013.md#-266-aktg--sitz) \]
 
 ----
 
@@ -4641,7 +4641,7 @@ Der Nationalrat hat beschlossen:
 
 > Von der Vorschrift des § 86 Abs\. 1 ausgenommen sind Aktiengesellschaften, insoweit sie nach den bisherigen Bestimmungen berechtigt waren, in ihrer Satzung eine höhere Zahl der Ausichtsratsmitglieder festzusetzen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-268-aktg--höchstzahl-der-aufsichtsratsmitglieder) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=268) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_282_TextContainer_282) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.013.md#-268-aktg--höchstzahl-der-aufsichtsratsmitglieder) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-268-aktg--höchstzahl-der-aufsichtsratsmitglieder) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=268) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_282_TextContainer_282) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.013.md#-268-aktg--höchstzahl-der-aufsichtsratsmitglieder) \]
 
 ----
 
@@ -4649,7 +4649,7 @@ Der Nationalrat hat beschlossen:
 
 > Soweit in anderen bundesgesetzlichen Vorschriften auf Bestimmungen verwiesen ist, die durch dieses Bundesgesetz abgeändert oder aufgehoben werden, erhält die Verweisung ihren Inhalt aus den entsprechenden Bestimmungen dieses Bundesgesetzes\. Für Ordnungsstrafen nach dem Aktiengesetz festgesetzte Bestimmungen gelten sinngemäß für die Zwangsstrafen \(§ 258\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-271-aktg--verweisung-in-anderen-bundesgesetzlichen-vorschriften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=271) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_283_TextContainer_283) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.013.md#-271-aktg--verweisung-in-anderen-bundesgesetzlichen-vorschriften) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-271-aktg--verweisung-in-anderen-bundesgesetzlichen-vorschriften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=271) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_283_TextContainer_283) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.013.md#-271-aktg--verweisung-in-anderen-bundesgesetzlichen-vorschriften) \]
 
 ----
 
@@ -4659,7 +4659,7 @@ Der Nationalrat hat beschlossen:
 
 > Mit der Vollziehung dieses Bundesgesetzes ist, soweit in ihm nichts anderes bestimmt ist, das Bundesminsterium für Justiz betraut\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-273-aktg--vollziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=273) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_284_TextContainer_284) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.013.md#-273-aktg--vollziehung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#-273-aktg--vollziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=273) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_284_TextContainer_284) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.013.md#-273-aktg--vollziehung) \]
 
 ----
 
@@ -5210,8 +5210,8 @@ Der Nationalrat hat beschlossen:
 >
 > \*\) Aufwand für Eigenleistung ist in Z 1 \- 3 und 5 enthalten
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#anl-1-aktg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=1) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_285_TextContainer_285) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.014.md#anl-1-aktg) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.md#anl-1-aktg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070&Paragraf=1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_285_TextContainer_285) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.AktG.014.md#anl-1-aktg) \]
 
 ----
 
-*(Weitere relevante Bestimmungen finden Sie am Ende der [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_286_TextContainer_286) zu dieser Rechtsvorschrift.)*
+*(Weitere relevante Bestimmungen finden Sie am Ende der [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002070#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_286_TextContainer_286) zu dieser Rechtsvorschrift.)*

@@ -2,9 +2,9 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** StVG  
 **Langtitel:** Bundesgesetz vom 26. März 1969 über den Vollzug der Freiheitsstrafen und der mit Freiheitsentziehung verbundenen vorbeugenden Maßnahmen (Strafvollzugsgesetz – StVG.)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002135  
-**Letzte Änderung im RIS:** [CELEX-Nr.: 32012L0029]  
+**Letzte Änderung im RIS:** BGBl. I Nr. 25/2025 (NR: GP XXVIII RV 69 und Zu 69 AB 100 S. 30. BR: 11643 AB 11645 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.StVG.012.md  
 *Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
@@ -203,4 +203,43 @@ Die §§ 3 Abs. 2, 5 Abs. 3 Z 3, 6 Abs. 1, 152 Abs. 2a, 157a bis 157k samt
 `§ 181 (33) StVG.`  
 Der Titel, § 3 Abs. 2, § 101a samt Überschrift, § 102b Abs. 2a und 3, § 103 Abs. 2 Z 5 und Abs. 3 und 4, § 105 Abs. 1 bis 3, § 156b Abs. 4, § 156c Abs. 1 Z 1 und 2 lit. d und Abs. 1a sowie § 156d Abs. 4 in der Fassung des Budgetbegleitgesetzes 2025, BGBl. I Nr. 25/2025 treten mit 1. September 2025 in Kraft. Die §§ 18c und 18d samt Überschriften, § 144 Abs. 3 und 4, § 145 Abs. 1, § 148 Abs. 2 und 3, § 152a Abs. 1, § 152b samt Überschrift, § 153 sowie § 156 Abs. 2 in der Fassung des genannten Bundesgesetzes treten mit 1. Jänner 2026 in Kraft.
 
-`END-OF-DATA-FILE` *(fortges. in [BG.StVG.013](BG.StVG.013.md))*
+### § 181a StVG # Übergangsbestimmungen
+
+`§ 181a (1) StVG.`  
+Die Zuständigkeit zur Weiterführung der mit Ablauf des 31. Dezember 2013 bei den Vollzugskammern anhängigen Verfahren geht mit Ausnahme von Verfahren wegen gegen die Person des Anstaltsleiters gerichteter Ordnungswidrigkeiten (§ 116 Abs. 1) mit 1. Jänner 2014 auf das Vollzugsgericht (§ 16 Abs. 3) über; dies gilt auch für die bei der Vollzugsdirektion anhängigen Verfahren, in denen diese Behörde sachlich in Betracht kommende Oberbehörde ist.
+
+`§ 181a (2) StVG.`  
+Die Zuständigkeit zur Weiterführung der mit Ablauf des 31. Dezember 2013 bei den Vollzugskammern anhängigen Verfahren wegen gegen die Person des Anstaltsleiters gerichteter Ordnungswidrigkeiten (§ 116 Abs. 1) geht mit 1. Jänner 2014 auf die Vollzugsdirektion über.
+
+`§ 181a (3) StVG.`  
+Im Fall des Übergangs der Zuständigkeit nach Abs. 1 und 2 sind die Akten des Verfahrens an die mit 1. Jänner 2014 zuständige Behörde zu übermitteln.
+
+`§ 181a (4) StVG.`  
+Der Verwaltungsgerichtshof bleibt zur Weiterführung der mit Ablauf des 31. Dezember 2013 anhängigen Verfahren über Beschwerden nach diesem Bundesgesetz zuständig.
+
+`§ 181a (5) StVG.`  
+Ist der Bescheid einer Vollzugskammer oder einer Vollzugsbehörde, die mit Ende des 31. Dezember 2013 zur Erlassung dieses Bescheides zuständig ist, die mit 1. Jänner 2014 zur Erlassung dieses Bescheides jedoch nicht mehr zuständig ist, dessen Zustellung vor dem Ablauf des 31. Dezember 2013 veranlasst worden ist, bis zum Ablauf dieses Tages nicht gültig zugestellt worden, so gilt dieser Bescheid dennoch gegenüber allen Parteien, denen gegenüber die Zustellung veranlasst worden ist, als zugestellt.
+
+`§ 181a (6) StVG.`  
+Wird durch die Zustellung der Lauf einer Frist bestimmt, so beginnt diese Frist mit jenem Zeitpunkt zu laufen, in dem der Bescheid nach den Bestimmungen des Zustellgesetzes – ZustG, BGBl. Nr. 200/1982, als zugestellt gelten würde. Der Vollzug des Bescheides ist bis zu diesem Zeitpunkt gehemmt. Tritt der im ersten Satz genannte Fall nicht bis zum Ablauf des 30. Juni 2014 ein, tritt der Bescheid von Gesetzes wegen außer Kraft.
+
+`§ 181a (7) StVG.`  
+Ist ein Bescheid nach diesem Bundesgesetz, gegen den eine Beschwerde an die Vollzugskammer oder eine Berufung zulässig ist, vor Ablauf des 31. Dezember 2013 erlassen worden, läuft die Berufungs- oder Beschwerdefrist mit Ende des 31. Dezember 2013 noch und wurde gegen diesen Bescheid nicht bereits bis zum Ablauf des 31. Dezember 2013 Berufung oder Beschwerde erhoben, so kann gegen ihn vom 1. Jänner bis zum Ablauf des 15. Jänner 2014 Beschwerde an das nach den §§ 16 Abs. 3 und 16a Abs. 1 zuständige Gericht erhoben werden. Eine gegen einen solchen Bescheid bis zum Ablauf des 31. Dezember 2013 erhobene Berufung gilt als rechtzeitig erhobene Beschwerde nach den §§ 16 Abs. 3 und 16a Abs. 1.
+
+`§ 181a (8) StVG.`  
+Ist ein Bescheid nach diesem Bundesgesetz, gegen den eine Beschwerde nach Art. 130 Abs. 1 lit. a B-VG in der bis zum Ablauf des 31. Dezember 2013 geltenden Fassung beim Verwaltungsgerichtshof zulässig ist, vor Ablauf des 31. Dezember 2013 erlassen worden, läuft die Beschwerdefrist mit Ende des 31. Dezember 2013 noch und wurde gegen diesen Bescheid nicht bereits bis zum Ablauf des 31. Dezember 2013 Beschwerde beim Verwaltungsgerichtshof erhoben, so kann gegen ihn vom 1. Jänner bis zum Ablauf des 12. Februar 2014 Beschwerde an das Oberlandesgericht Wien erhoben werden.
+
+`§ 181a (9) StVG.`  
+Jeder Bescheid, der nach Ablauf des 31. Oktober 2013 genehmigt wird, hat einen Hinweis auf die Rechtsfolgen des Abs. 7 und 8 zu enthalten.
+
+### § 181b StVG # Umsetzung von Richtlinien der Europäischen Union
+
+`§ 181b StVG.`  
+§§ 106 Abs. 4 und 149 Abs. 5 in der Fassung des Bundesgesetzblattes BGBl. I Nr. 26/2016 dienen der Umsetzung der Richtlinie 2012/29/EU über Mindeststandards für die Rechte, die Unterstützung und den Schutz von Opfern von Straftaten sowie zur Ersetzung des Rahmenbeschlusses 2001/220/JI ABl. Nr. L 315 vom 14.11.2012 S 57.
+
+### § 182 StVG # Vollziehung
+
+`§ 182 StVG.`  
+Mit der Vollziehung dieses Bundesgesetzes ist der Bundesminister für Verfassung, Reformen, Deregulierung und Justiz betraut. Der Bundesminister für Verfassung, Reformen, Deregulierung und Justiz hat bei der Vollziehung der §§ 44 bis 55, 66 bis 84 und 164 bis 170 das Einvernehmen mit der Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz zu pflegen.
+
+`END-OF-DATA-SET`

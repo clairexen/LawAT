@@ -2,8 +2,8 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** EMRK  
 **Langtitel:** (Übersetzung)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
-**Quelle:** https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
+**Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308  
 **Letzte Änderung im RIS:** BGBl. III Nr. 171/2023 (K – Geltungsbereich P13)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md  
 *Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
@@ -94,7 +94,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 >
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-1-emrk--artikel-1--verpflichtung-zur-achtung-der-menschenrechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=1) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-1-emrk--artikel-1--verpflichtung-zur-achtung-der-menschenrechte) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-1-emrk--artikel-1--verpflichtung-zur-achtung-der-menschenrechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-1-emrk--artikel-1--verpflichtung-zur-achtung-der-menschenrechte) \]
 
 ----
 
@@ -114,7 +114,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-2-emrk--artikel-2--recht-auf-leben) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=2) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-2-emrk--artikel-2--recht-auf-leben) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-2-emrk--artikel-2--recht-auf-leben) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=2) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-2-emrk--artikel-2--recht-auf-leben) \]
 
 ----
 
@@ -124,7 +124,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 >
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-3-emrk--artikel-3--verbot-der-folter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=3) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-3-emrk--artikel-3--verbot-der-folter) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-3-emrk--artikel-3--verbot-der-folter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=3) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-3-emrk--artikel-3--verbot-der-folter) \]
 
 ----
 
@@ -146,7 +146,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-4-emrk--artikel-4--verbot-der-sklaverei-und-der-zwangsarbeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=4) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-4-emrk--artikel-4--verbot-der-sklaverei-und-der-zwangsarbeit) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-4-emrk--artikel-4--verbot-der-sklaverei-und-der-zwangsarbeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=4) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-4-emrk--artikel-4--verbot-der-sklaverei-und-der-zwangsarbeit) \]
 
 ----
 
@@ -166,7 +166,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > `(6)` Beim Ministerkomitee anhängige Rechtssachen, die bis zum Tag des Inkrafttretens dieses Protokolls noch nicht nach dem bisherigen Artikel 32 der Konvention entschieden sind, werden vom Ministerkomitee nach jenem Artikel abgeschlossen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-5-emrk--anm-aus-bgbl-iii-nr-301998-zu-bgbl-nr-2101958) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=5) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-5-emrk--anm-aus-bgbl-iii-nr-301998-zu-bgbl-nr-2101958) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-5-emrk--anm-aus-bgbl-iii-nr-301998-zu-bgbl-nr-2101958) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=5) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-5-emrk--anm-aus-bgbl-iii-nr-301998-zu-bgbl-nr-2101958) \]
 
 ----
 
@@ -176,7 +176,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > Hat ein Hoher Vertragschließender Teil eine Erklärung abgegeben, mit der er nach den bisherigen Artikeln 25 oder 46 der Konvention die Zuständigkeit der Kommission oder die Gerichtsbarkeit des Gerichtshofs nur für Angelegenheiten anerkennt, die sich nach dieser Erklärung ergeben oder auf Sachverhalten beruhen, die nach dieser Erklärung eintreten, so bleibt diese Beschränkung für die Gerichtsbarkeit des Gerichtshofs nach diesem Protokoll gültig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-6-emrk--anm-aus-bgbl-iii-nr-301998-zu-bgbl-nr-2101958) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=6) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-6-emrk--anm-aus-bgbl-iii-nr-301998-zu-bgbl-nr-2101958) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-6-emrk--anm-aus-bgbl-iii-nr-301998-zu-bgbl-nr-2101958) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=6) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-6-emrk--anm-aus-bgbl-iii-nr-301998-zu-bgbl-nr-2101958) \]
 
 ----
 
@@ -188,7 +188,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-7-emrk--artikel-7--keine-strafe-ohne-gesetz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=7) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-7-emrk--artikel-7--keine-strafe-ohne-gesetz) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-7-emrk--artikel-7--keine-strafe-ohne-gesetz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=7) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-7-emrk--artikel-7--keine-strafe-ohne-gesetz) \]
 
 ----
 
@@ -200,7 +200,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-8-emrk--artikel-8--recht-auf-achtung-des-privat--und-familienlebens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=8) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-8-emrk--artikel-8--recht-auf-achtung-des-privat--und-familienlebens) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-8-emrk--artikel-8--recht-auf-achtung-des-privat--und-familienlebens) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=8) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-8-emrk--artikel-8--recht-auf-achtung-des-privat--und-familienlebens) \]
 
 ----
 
@@ -212,7 +212,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-9-emrk--artikel-9--gedanken--gewissens--und-religionsfreiheit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=9) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-9-emrk--artikel-9--gedanken--gewissens--und-religionsfreiheit) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-9-emrk--artikel-9--gedanken--gewissens--und-religionsfreiheit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=9) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-9-emrk--artikel-9--gedanken--gewissens--und-religionsfreiheit) \]
 
 ----
 
@@ -224,7 +224,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-10-emrk--artikel-10--freiheit-der-meinungsäußerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=10) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-10-emrk--artikel-10--freiheit-der-meinungsäußerung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-10-emrk--artikel-10--freiheit-der-meinungsäußerung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=10) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-10-emrk--artikel-10--freiheit-der-meinungsäußerung) \]
 
 ----
 
@@ -236,7 +236,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-11-emrk--artikel-11--versammlungs--und-vereinigungsfreiheit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=11) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-11-emrk--artikel-11--versammlungs--und-vereinigungsfreiheit) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-11-emrk--artikel-11--versammlungs--und-vereinigungsfreiheit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=11) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-11-emrk--artikel-11--versammlungs--und-vereinigungsfreiheit) \]
 
 ----
 
@@ -246,7 +246,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 >
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-12-emrk--artikel-12--recht-auf-eheschließung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=12) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-12-emrk--artikel-12--recht-auf-eheschließung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-12-emrk--artikel-12--recht-auf-eheschließung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=12) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-12-emrk--artikel-12--recht-auf-eheschließung) \]
 
 ----
 
@@ -256,7 +256,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 >
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-13-emrk--artikel-13--recht-auf-wirksame-beschwerde) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=13) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-13-emrk--artikel-13--recht-auf-wirksame-beschwerde) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-13-emrk--artikel-13--recht-auf-wirksame-beschwerde) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=13) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-13-emrk--artikel-13--recht-auf-wirksame-beschwerde) \]
 
 ----
 
@@ -266,7 +266,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 >
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-14-emrk--artikel-14--verbot-der-benachteiligung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=14) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-14-emrk--artikel-14--verbot-der-benachteiligung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-14-emrk--artikel-14--verbot-der-benachteiligung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=14) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-14-emrk--artikel-14--verbot-der-benachteiligung) \]
 
 ----
 
@@ -280,7 +280,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-15-emrk--artikel-15--außerkraftsetzen-im-notstandsfall) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=15) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-15-emrk--artikel-15--außerkraftsetzen-im-notstandsfall) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-15-emrk--artikel-15--außerkraftsetzen-im-notstandsfall) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=15) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-15-emrk--artikel-15--außerkraftsetzen-im-notstandsfall) \]
 
 ----
 
@@ -290,7 +290,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 >
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-16-emrk--artikel-16--beschränkungen-der-politischen-tätigkeit-von-ausländern) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=16) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-16-emrk--artikel-16--beschränkungen-der-politischen-tätigkeit-von-ausländern) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-16-emrk--artikel-16--beschränkungen-der-politischen-tätigkeit-von-ausländern) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=16) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-16-emrk--artikel-16--beschränkungen-der-politischen-tätigkeit-von-ausländern) \]
 
 ----
 
@@ -300,7 +300,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 >
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-17-emrk--artikel-17--verbot-des-mißbrauchs-der-rechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=17) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-17-emrk--artikel-17--verbot-des-mißbrauchs-der-rechte) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-17-emrk--artikel-17--verbot-des-mißbrauchs-der-rechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=17) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-17-emrk--artikel-17--verbot-des-mißbrauchs-der-rechte) \]
 
 ----
 
@@ -310,7 +310,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 >
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-18-emrk--artikel-18--begrenzung-der-rechtseinschränkungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=18) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-18-emrk--artikel-18--begrenzung-der-rechtseinschränkungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-18-emrk--artikel-18--begrenzung-der-rechtseinschränkungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=18) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-18-emrk--artikel-18--begrenzung-der-rechtseinschränkungen) \]
 
 ----
 
@@ -322,7 +322,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 >
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-19-emrk--artikel-19--errichtung-des-gerichtshofs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=19) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-19-emrk--artikel-19--errichtung-des-gerichtshofs) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-19-emrk--artikel-19--errichtung-des-gerichtshofs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=19) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-19-emrk--artikel-19--errichtung-des-gerichtshofs) \]
 
 ----
 
@@ -334,7 +334,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > `(2)` Auf Beschwerden, die vor Inkrafttreten dieses Protokolls für zulässig erklärt worden sind, ist die neue Zulässigkeitsvoraussetzung, die durch Artikel 12 dieses Protokolls in Artikel 35 Absatz 3 Buchstabe b der Konvention eingefügt wird, nicht anzuwenden\. In den ersten zwei Jahren nach Inkrafttreten dieses ProtokolIs darf die neue Zulässigkeitsvoraussetzung nur von Kammern und der Grossen Kammer des Gerichtshofs angewendet werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-20-emrk--anm-aus-bgbl-iii-nr-472010-zu-bgbl-nr-2101958) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=20) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-20-emrk--anm-aus-bgbl-iii-nr-472010-zu-bgbl-nr-2101958) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-20-emrk--anm-aus-bgbl-iii-nr-472010-zu-bgbl-nr-2101958) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=20) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.001.md#art-20-emrk--anm-aus-bgbl-iii-nr-472010-zu-bgbl-nr-2101958) \]
 
 ----
 
@@ -344,7 +344,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > Mit Inkrafttreten dieses Protokolls verlängert sich die Amtszeit der Richter, deren erste Amtszeit zu jenem Zeitpunkt noch nicht abgelaufen ist, ohne weiteres auf insgesamt neun Jahre\. Die übrigen Richter bleiben für ihre restliche Amtszeit, die sich ohne weiteres um zwei Jahre verlängert, im Amt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-21-emrk--anm-aus-bgbl-iii-nr-472010-zu-bgbl-nr-2101958) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=21) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-21-emrk--anm-aus-bgbl-iii-nr-472010-zu-bgbl-nr-2101958) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-21-emrk--anm-aus-bgbl-iii-nr-472010-zu-bgbl-nr-2101958) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=21) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-21-emrk--anm-aus-bgbl-iii-nr-472010-zu-bgbl-nr-2101958) \]
 
 ----
 
@@ -355,7 +355,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-22-emrk--artikel-22--wahl-der-richter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=22) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-22-emrk--artikel-22--wahl-der-richter) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-22-emrk--artikel-22--wahl-der-richter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=22) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-22-emrk--artikel-22--wahl-der-richter) \]
 
 ----
 
@@ -369,7 +369,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: 1\. Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.2\. Die Änderungen des Protokolls Nr\. 15 gelten nur für Kandidaten auf Listen, die nach dem Inkrafttreten dieses Protokolls der Parlamentarischen Versammlung gemäß Artikel 22 der Konvention vorgelegt werden \(vgl\. Art\. 8 Abs\. 1, BGBl\. III Nr\. 68/2021\)\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-23-emrk--artikel-23--amtszeit-und-entlassung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=23) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_23_TextContainer_23) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-23-emrk--artikel-23--amtszeit-und-entlassung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-23-emrk--artikel-23--amtszeit-und-entlassung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=23) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_23_TextContainer_23) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-23-emrk--artikel-23--amtszeit-und-entlassung) \]
 
 ----
 
@@ -381,7 +381,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-24-emrk--artikel-24--kanzlei-und-berichterstatter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=24) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-24-emrk--artikel-24--kanzlei-und-berichterstatter) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-24-emrk--artikel-24--kanzlei-und-berichterstatter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=24) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-24-emrk--artikel-24--kanzlei-und-berichterstatter) \]
 
 ----
 
@@ -403,7 +403,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 >
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-25-emrk--artikel-25--plenum-des-gerichtshofs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=25) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-25-emrk--artikel-25--plenum-des-gerichtshofs) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-25-emrk--artikel-25--plenum-des-gerichtshofs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=25) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-25-emrk--artikel-25--plenum-des-gerichtshofs) \]
 
 ----
 
@@ -421,7 +421,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-26-emrk--artikel-26--einzelrichterbesetzung-ausschüsse-kammern-und-grosse-kammer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=26) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_26_TextContainer_26) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-26-emrk--artikel-26--einzelrichterbesetzung-ausschüsse-kammern-und-grosse-kammer) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-26-emrk--artikel-26--einzelrichterbesetzung-ausschüsse-kammern-und-grosse-kammer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=26) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_26_TextContainer_26) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-26-emrk--artikel-26--einzelrichterbesetzung-ausschüsse-kammern-und-grosse-kammer) \]
 
 ----
 
@@ -435,7 +435,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-27-emrk--artikel-27-befugnisse-des-einzelrichters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=27) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_27_TextContainer_27) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-27-emrk--artikel-27-befugnisse-des-einzelrichters) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-27-emrk--artikel-27-befugnisse-des-einzelrichters) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=27) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_27_TextContainer_27) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-27-emrk--artikel-27-befugnisse-des-einzelrichters) \]
 
 ----
 
@@ -453,7 +453,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-28-emrk--artikel-28--befugnisse-der-ausschüsse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=28) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_28_TextContainer_28) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-28-emrk--artikel-28--befugnisse-der-ausschüsse) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-28-emrk--artikel-28--befugnisse-der-ausschüsse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=28) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_28_TextContainer_28) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-28-emrk--artikel-28--befugnisse-der-ausschüsse) \]
 
 ----
 
@@ -466,7 +466,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-29-emrk--artikel-29--entscheidungen-der-kammern-über-die-zulässigkeit-und-begründetheit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=29) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-29-emrk--artikel-29--entscheidungen-der-kammern-über-die-zulässigkeit-und-begründetheit) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-29-emrk--artikel-29--entscheidungen-der-kammern-über-die-zulässigkeit-und-begründetheit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=29) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-29-emrk--artikel-29--entscheidungen-der-kammern-über-die-zulässigkeit-und-begründetheit) \]
 
 ----
 
@@ -476,7 +476,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 >
 > *\(Beachte: 1\. Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.2\. zum Bezugszeitraum vgl\. Art\. 8 Abs\. 2 des Protokoll Nr\. 15, BGBl\. III Nr\. 68/2021\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-30-emrk--artikel-30--abgabe-der-rechtssache-an-die-große-kammer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=30) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-30-emrk--artikel-30--abgabe-der-rechtssache-an-die-große-kammer) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-30-emrk--artikel-30--abgabe-der-rechtssache-an-die-große-kammer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=30) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-30-emrk--artikel-30--abgabe-der-rechtssache-an-die-große-kammer) \]
 
 ----
 
@@ -492,7 +492,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 >
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-31-emrk--artikel-31--befugnisse-der-großen-kammer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=31) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-31-emrk--artikel-31--befugnisse-der-großen-kammer) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-31-emrk--artikel-31--befugnisse-der-großen-kammer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=31) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-31-emrk--artikel-31--befugnisse-der-großen-kammer) \]
 
 ----
 
@@ -504,7 +504,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-32-emrk--artikel-32--zuständigkeit-des-gerichtshofs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=32) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-32-emrk--artikel-32--zuständigkeit-des-gerichtshofs) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-32-emrk--artikel-32--zuständigkeit-des-gerichtshofs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=32) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-32-emrk--artikel-32--zuständigkeit-des-gerichtshofs) \]
 
 ----
 
@@ -514,7 +514,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 >
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-33-emrk--artikel-33--staatenbeschwerden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=33) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-33-emrk--artikel-33--staatenbeschwerden) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-33-emrk--artikel-33--staatenbeschwerden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=33) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-33-emrk--artikel-33--staatenbeschwerden) \]
 
 ----
 
@@ -524,7 +524,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 >
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-34-emrk--artikel-34--individualbeschwerden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=34) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-34-emrk--artikel-34--individualbeschwerden) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-34-emrk--artikel-34--individualbeschwerden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=34) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-34-emrk--artikel-34--individualbeschwerden) \]
 
 ----
 
@@ -548,7 +548,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: 1\. Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.2\. zum Bezugszeitraum vgl\. Art\. 8 Abs\. 3 des Protokoll Nr\. 15, BGBl\. III Nr\. 68/2021\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-35-emrk--artikel-35--zulässigkeitsvoraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=35) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_35_TextContainer_35) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-35-emrk--artikel-35--zulässigkeitsvoraussetzungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-35-emrk--artikel-35--zulässigkeitsvoraussetzungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=35) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_35_TextContainer_35) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-35-emrk--artikel-35--zulässigkeitsvoraussetzungen) \]
 
 ----
 
@@ -562,7 +562,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-36-emrk--artikel-36--beteiligung-dritter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=36) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_36_TextContainer_36) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-36-emrk--artikel-36--beteiligung-dritter) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-36-emrk--artikel-36--beteiligung-dritter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=36) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_36_TextContainer_36) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-36-emrk--artikel-36--beteiligung-dritter) \]
 
 ----
 
@@ -582,7 +582,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-37-emrk--artikel-37--streichung-von-beschwerden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=37) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_37_TextContainer_37) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-37-emrk--artikel-37--streichung-von-beschwerden) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-37-emrk--artikel-37--streichung-von-beschwerden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=37) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_37_TextContainer_37) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-37-emrk--artikel-37--streichung-von-beschwerden) \]
 
 ----
 
@@ -592,7 +592,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 >
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-38-emrk--artikel-38--prüfung-der-rechtssache) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=38) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-38-emrk--artikel-38--prüfung-der-rechtssache) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-38-emrk--artikel-38--prüfung-der-rechtssache) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=38) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-38-emrk--artikel-38--prüfung-der-rechtssache) \]
 
 ----
 
@@ -608,7 +608,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-39-emrk--artikel-39--gütliche-einigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=39) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_39_TextContainer_39) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-39-emrk--artikel-39--gütliche-einigung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-39-emrk--artikel-39--gütliche-einigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=39) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_39_TextContainer_39) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-39-emrk--artikel-39--gütliche-einigung) \]
 
 ----
 
@@ -620,7 +620,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-40-emrk--artikel-40--öffentliche-verhandlung-und-akteneinsicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=40) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_40_TextContainer_40) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-40-emrk--artikel-40--öffentliche-verhandlung-und-akteneinsicht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-40-emrk--artikel-40--öffentliche-verhandlung-und-akteneinsicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=40) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_40_TextContainer_40) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-40-emrk--artikel-40--öffentliche-verhandlung-und-akteneinsicht) \]
 
 ----
 
@@ -630,7 +630,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 >
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-41-emrk--artikel-41--gerechte-entschädigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=41) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_41_TextContainer_41) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-41-emrk--artikel-41--gerechte-entschädigung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-41-emrk--artikel-41--gerechte-entschädigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=41) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_41_TextContainer_41) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-41-emrk--artikel-41--gerechte-entschädigung) \]
 
 ----
 
@@ -640,7 +640,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 >
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-42-emrk--artikel-42--urteile-der-kammern) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=42) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_42_TextContainer_42) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-42-emrk--artikel-42--urteile-der-kammern) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-42-emrk--artikel-42--urteile-der-kammern) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=42) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_42_TextContainer_42) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-42-emrk--artikel-42--urteile-der-kammern) \]
 
 ----
 
@@ -654,7 +654,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-43-emrk--artikel-43--verweisung-an-die-große-kammer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=43) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-43-emrk--artikel-43--verweisung-an-die-große-kammer) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-43-emrk--artikel-43--verweisung-an-die-große-kammer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=43) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-43-emrk--artikel-43--verweisung-an-die-große-kammer) \]
 
 ----
 
@@ -674,7 +674,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-44-emrk--artikel-44--endgültige-urteile) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=44) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_44_TextContainer_44) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-44-emrk--artikel-44--endgültige-urteile) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-44-emrk--artikel-44--endgültige-urteile) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=44) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_44_TextContainer_44) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-44-emrk--artikel-44--endgültige-urteile) \]
 
 ----
 
@@ -686,7 +686,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-45-emrk--artikel-45--begründung-der-urteile-und-entscheidungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=45) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_45_TextContainer_45) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-45-emrk--artikel-45--begründung-der-urteile-und-entscheidungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-45-emrk--artikel-45--begründung-der-urteile-und-entscheidungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=45) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_45_TextContainer_45) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-45-emrk--artikel-45--begründung-der-urteile-und-entscheidungen) \]
 
 ----
 
@@ -704,7 +704,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-46-emrk--artikel-46--verbindlichkeit-und-durchführung-der-urteile) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=46) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_46_TextContainer_46) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-46-emrk--artikel-46--verbindlichkeit-und-durchführung-der-urteile) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-46-emrk--artikel-46--verbindlichkeit-und-durchführung-der-urteile) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=46) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_46_TextContainer_46) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-46-emrk--artikel-46--verbindlichkeit-und-durchführung-der-urteile) \]
 
 ----
 
@@ -718,7 +718,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-47-emrk--artikel-47--gutachten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=47) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_47_TextContainer_47) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-47-emrk--artikel-47--gutachten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-47-emrk--artikel-47--gutachten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=47) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_47_TextContainer_47) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-47-emrk--artikel-47--gutachten) \]
 
 ----
 
@@ -728,7 +728,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 >
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-48-emrk--artikel-48--gutachterliche-zuständigkeit-des-gerichtshofs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=48) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_48_TextContainer_48) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-48-emrk--artikel-48--gutachterliche-zuständigkeit-des-gerichtshofs) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-48-emrk--artikel-48--gutachterliche-zuständigkeit-des-gerichtshofs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=48) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_48_TextContainer_48) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-48-emrk--artikel-48--gutachterliche-zuständigkeit-des-gerichtshofs) \]
 
 ----
 
@@ -742,7 +742,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-49-emrk--artikel-49--begründung-der-gutachten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=49) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_49_TextContainer_49) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-49-emrk--artikel-49--begründung-der-gutachten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-49-emrk--artikel-49--begründung-der-gutachten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=49) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_49_TextContainer_49) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-49-emrk--artikel-49--begründung-der-gutachten) \]
 
 ----
 
@@ -752,7 +752,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 >
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-50-emrk--artikel-50--kosten-des-gerichtshofs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=50) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_50_TextContainer_50) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-50-emrk--artikel-50--kosten-des-gerichtshofs) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-50-emrk--artikel-50--kosten-des-gerichtshofs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=50) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_50_TextContainer_50) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-50-emrk--artikel-50--kosten-des-gerichtshofs) \]
 
 ----
 
@@ -762,7 +762,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 >
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-51-emrk--artikel-51--privilegien-und-immunitäten-der-richter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=51) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_51_TextContainer_51) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-51-emrk--artikel-51--privilegien-und-immunitäten-der-richter) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-51-emrk--artikel-51--privilegien-und-immunitäten-der-richter) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=51) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_51_TextContainer_51) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.002.md#art-51-emrk--artikel-51--privilegien-und-immunitäten-der-richter) \]
 
 ----
 
@@ -774,7 +774,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 >
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-52-emrk--artikel-52--anfragen-des-generalsekretärs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=52) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_52_TextContainer_52) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.003.md#art-52-emrk--artikel-52--anfragen-des-generalsekretärs) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-52-emrk--artikel-52--anfragen-des-generalsekretärs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=52) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_52_TextContainer_52) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.003.md#art-52-emrk--artikel-52--anfragen-des-generalsekretärs) \]
 
 ----
 
@@ -784,7 +784,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 >
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-53-emrk--artikel-53--wahrung-anerkannter-menschenrechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=53) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_53_TextContainer_53) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.003.md#art-53-emrk--artikel-53--wahrung-anerkannter-menschenrechte) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-53-emrk--artikel-53--wahrung-anerkannter-menschenrechte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=53) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_53_TextContainer_53) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.003.md#art-53-emrk--artikel-53--wahrung-anerkannter-menschenrechte) \]
 
 ----
 
@@ -794,7 +794,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 >
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-54-emrk--artikel-54--befugnisse-des-ministerkomitees) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=54) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_54_TextContainer_54) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.003.md#art-54-emrk--artikel-54--befugnisse-des-ministerkomitees) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-54-emrk--artikel-54--befugnisse-des-ministerkomitees) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=54) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_54_TextContainer_54) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.003.md#art-54-emrk--artikel-54--befugnisse-des-ministerkomitees) \]
 
 ----
 
@@ -804,7 +804,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 >
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-55-emrk--artikel-55--ausschluß-anderer-verfahren-zur-streitbeilegung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=55) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_55_TextContainer_55) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.003.md#art-55-emrk--artikel-55--ausschluß-anderer-verfahren-zur-streitbeilegung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-55-emrk--artikel-55--ausschluß-anderer-verfahren-zur-streitbeilegung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=55) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_55_TextContainer_55) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.003.md#art-55-emrk--artikel-55--ausschluß-anderer-verfahren-zur-streitbeilegung) \]
 
 ----
 
@@ -820,7 +820,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-56-emrk--artikel-56--räumlicher-geltungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=56) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.003.md#art-56-emrk--artikel-56--räumlicher-geltungsbereich) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-56-emrk--artikel-56--räumlicher-geltungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=56) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.003.md#art-56-emrk--artikel-56--räumlicher-geltungsbereich) \]
 
 ----
 
@@ -832,7 +832,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-57-emrk--artikel-57--vorbehalte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=57) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.003.md#art-57-emrk--artikel-57--vorbehalte) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-57-emrk--artikel-57--vorbehalte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=57) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.003.md#art-57-emrk--artikel-57--vorbehalte) \]
 
 ----
 
@@ -848,7 +848,7 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-58-emrk--artikel-58--kündigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=58) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_58_TextContainer_58) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.003.md#art-58-emrk--artikel-58--kündigung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-58-emrk--artikel-58--kündigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=58) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_58_TextContainer_58) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.003.md#art-58-emrk--artikel-58--kündigung) \]
 
 ----
 
@@ -868,8 +868,8 @@ Die vorliegende Konvention und das Zusatzprotokoll traten gemäß Artikel 66 de
 >
 > *\(Beachte: Verfassungsbestimmung: Die Europäische Menschenrechtskonvention ist gemäß BVG BGBl\. Nr\. 59/1964 mit Verfassungsrang ausgestattet\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-59-emrk--artikel-59--unterzeichnung-und-ratifikation) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=59) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_59_TextContainer_59) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.003.md#art-59-emrk--artikel-59--unterzeichnung-und-ratifikation) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.md#art-59-emrk--artikel-59--unterzeichnung-und-ratifikation) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308&Paragraf=59) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_59_TextContainer_59) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BVG.EMRK.003.md#art-59-emrk--artikel-59--unterzeichnung-und-ratifikation) \]
 
 ----
 
-*(Weitere relevante Bestimmungen finden Sie am Ende der [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) zu dieser Rechtsvorschrift.)*
+*(Weitere relevante Bestimmungen finden Sie am Ende der [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000308#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) zu dieser Rechtsvorschrift.)*

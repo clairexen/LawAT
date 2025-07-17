@@ -2,7 +2,7 @@
 **Typ:** Verordnung eines Bundesministeriums  
 **Kurztitel:** DV-StAG  
 **Langtitel:** Verordnung des Bundesministers für Justiz vom 16. Juni 1986 zur Durchführung des Staatsanwaltschaftsgesetzes (DV-StAG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000872  
 **Letzte Änderung im RIS:** BGBl. II Nr. 14/2022  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BV.DV-StAG.000.md  

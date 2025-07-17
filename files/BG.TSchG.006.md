@@ -2,8 +2,8 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** TSchG  
 **Langtitel:** Bundesgesetz über den Schutz der Tiere (Tierschutzgesetz – TSchG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
-**Quelle:** https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
+**Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003541  
 **Letzte Änderung im RIS:** BGBl. I Nr. 21/2025 (NR: GP XXVIII IA 77/A AB 86 S. 21. BR: AB 11641 S. 978.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.TSchG.006.md  
 *Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*

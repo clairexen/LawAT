@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** BDG  
 **Langtitel:** Bundesgesetz vom 27. Juni 1979 über das Dienstrecht der Beamten (Beamten-Dienstrechtsgesetz 1979 – BDG 1979)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008470  
 **Letzte Änderung im RIS:** BGBl. I Nr. 25/2025 (NR: GP XXVIII RV 69 und Zu 69 AB 100 S. 30. BR: 11643 AB 11645 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.BDG.000.md  
@@ -12,8 +12,8 @@
 
 ## Inhaltsverzeichnis
 
-**Artikel V # Überleitung der Universitäts(Hochschul)professoren**  
-* [Art. 5 BDG # (Anm.: aus BGBl. Nr. 148/1988, zu §§ 154, 163 und 164 des BDG, BGBl. Nr. 333/1979)](BG.BDG.001.md#art-5-bdg--anm-aus-bgbl-nr-1481988-zu--154-163-und-164-des-bdg-bgbl-nr-3331979)
+**Artikel V**  
+* [Art. 5 BDG # (Anm.: aus BGBl. Nr. 287/1988, zu Anlage 1 Z 23.1 Abs. 6 und Z 24.1 Abs. 4, BGBl. Nr. 333/1979)](BG.BDG.001.md#art-5-bdg--anm-aus-bgbl-nr-2871988-zu-anlage-1-z-231-abs-6-und-z-241-abs-4-bgbl-nr-3331979)
 
 **Überleitung der Lehrer und der Beamten des wissenschaftlichen Dienstes**  
 * [Art. 7 BDG # Artikel VII # (Anm.: aus BGBl. Nr. 148/1988, zu §§ 137a, 190 und 194, BGBl. Nr. 333/1979)](BG.BDG.001.md#art-7-bdg--artikel-vii--anm-aus-bgbl-nr-1481988-zu--137a-190-und-194-bgbl-nr-3331979)

@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** WZG  
 **Langtitel:** Bundesgesetz über den barrierefreien Zugang zu Websites und mobilen Anwendungen des Bundes (Web-Zugänglichkeits-Gesetz – WZG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20010727  
 **Letzte Änderung im RIS:**   
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.WZG.md  

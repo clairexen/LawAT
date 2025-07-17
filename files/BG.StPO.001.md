@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** StPO  
 **Langtitel:** Strafprozeßordnung 1975 (StPO)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002326  
 **Letzte Änderung im RIS:** [CELEX-Nr.: 32012L0029, 32016L0343, 32016L0680, 32024L1260]  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.StPO.001.md  
@@ -12,6 +12,7 @@
 
 *(Fortsetzg. v. [BG.StPO.000](BG.StPO.000.md))*
 
+Der Nationalrat hat beschlossen:
 
 ## 1. Teil # Allgemeines und Grundsätze des Verfahrens # 1. Hauptstück # Das Strafverfahren und seine Grundsätze
 

@@ -2,8 +2,8 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** UG  
 **Langtitel:** Bundesgesetz über die Organisation der Universitäten und ihre Studien (Universitätsgesetz 2002 – UG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
-**Quelle:** https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
+**Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128  
 **Letzte Änderung im RIS:** BGBl. I Nr. 28/2025 (NR: GP XXVIII RV 96 AB 103 S. 30. BR: AB 11648 S. 979.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md  
 *Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
@@ -364,7 +364,7 @@
 
 > Die Universitäten sind berufen, der wissenschaftlichen Forschung und Lehre, der Entwicklung und der Erschließung der Künste sowie der Lehre der Kunst zu dienen und hiedurch auch verantwortlich zur Lösung der Probleme des Menschen sowie zur gedeihlichen Entwicklung der Gesellschaft und der natürlichen Umwelt beizutragen\. Universitäten sind Bildungseinrichtungen des öffentlichen Rechts, die in Forschung und in forschungsgeleiteter akademischer Lehre auf die Hervorbringung neuer wissenschaftlicher Erkenntnisse sowie auf die Erschließung neuer Zugänge zu den Künsten ausgerichtet sind\. Im gemeinsamen Wirken von Lehrenden und Studierenden wird in einer aufgeklärten Wissensgesellschaft das Streben nach Bildung und Autonomie des Individuums durch Wissenschaft vollzogen\. Die Förderung des wissenschaftlichen Nachwuchses geht mit der Erarbeitung von Fähigkeiten und Qualifikationen sowohl im Bereich der wissenschaftlichen und künstlerischen Inhalte als auch im Bereich der methodischen Fertigkeiten mit dem Ziel einher, zur Bewältigung der gesellschaftlichen Herausforderungen in einer sich wandelnden humanen und geschlechtergerechten Gesellschaft beizutragen\. Um den sich ständig wandelnden Erfordernissen organisatorisch, studien\- und personalrechtlich Rechnung zu tragen, konstituieren sich die Universitäten und ihre Organe in größtmöglicher Autonomie und Selbstverwaltung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-1-ug--ziele) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=1) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.001.md#-1-ug--ziele) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-1-ug--ziele) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.001.md#-1-ug--ziele) \]
 
 ----
 
@@ -402,7 +402,7 @@
 >
 >> `14.` Nachhaltige Nutzung von Ressourcen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-2-ug--leitende-grundsätze) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=2) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.001.md#-2-ug--leitende-grundsätze) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-2-ug--leitende-grundsätze) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=2) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.001.md#-2-ug--leitende-grundsätze) \]
 
 ----
 
@@ -434,7 +434,7 @@
 >
 >> `12.` Sicherstellung der Integrität im wissenschaftlichen und künstlerischen Studien\-, Lehr\- und Forschungsbetrieb, insbesondere durch Vermittlung entsprechender Regeln\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-3-ug--aufgaben) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=3) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.001.md#-3-ug--aufgaben) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-3-ug--aufgaben) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=3) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.001.md#-3-ug--aufgaben) \]
 
 ----
 
@@ -442,7 +442,7 @@
 
 > Die Universitäten sind juristische Personen des öffentlichen Rechts\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-4-ug--rechtsform) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=4) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.001.md#-4-ug--rechtsform) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-4-ug--rechtsform) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=4) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.001.md#-4-ug--rechtsform) \]
 
 ----
 
@@ -450,7 +450,7 @@
 
 > Die Universitäten erfüllen ihre Aufgaben gemäß § 3 im Rahmen der Gesetze und Verordnungen weisungsfrei und geben sich ihre Satzung im Rahmen der Gesetze nach Maßgabe des Art\. 81c Abs\. 1 des Bundes\-Verfassungsgesetzes \(B\-VG\), BGBl\. Nr\. 1/1930, in der Fassung des Bundesgesetzes BGBl\. I Nr\. 2/2008\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-5-ug--weisungsfreiheit-und-satzungsfreiheit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=5) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.001.md#-5-ug--weisungsfreiheit-und-satzungsfreiheit) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-5-ug--weisungsfreiheit-und-satzungsfreiheit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=5) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.001.md#-5-ug--weisungsfreiheit-und-satzungsfreiheit) \]
 
 ----
 
@@ -530,7 +530,7 @@
 
 > `(9)` Hinsichtlich der Verarbeitung personenbezogener Daten durch die Universität und der universitären Organe ist die Universität Verantwortlicher im Sinne des Art\. 4 Z 7 der Verordnung \(EU\) 2016/679 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG \[Datenschutz\-Grundverordnung\], ABl\. Nr\. L 119 vom 04\.05\.2016 S\. 1, \[im Folgenden: DSGVO\]\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-6-ug--geltungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=6) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.001.md#-6-ug--geltungsbereich) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-6-ug--geltungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=6) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.001.md#-6-ug--geltungsbereich) \]
 
 ----
 
@@ -542,7 +542,7 @@
 
 > `(3)` Änderungen der Wirkungsbereiche der Universitäten sind nur im Wege der Leistungsvereinbarungen gemäß § 13 oder durch Verordnung der Bundesregierung gemäß § 8 zulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-7-ug--wirkungsbereich-der-universitäten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=7) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.001.md#-7-ug--wirkungsbereich-der-universitäten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-7-ug--wirkungsbereich-der-universitäten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=7) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.001.md#-7-ug--wirkungsbereich-der-universitäten) \]
 
 ----
 
@@ -550,7 +550,7 @@
 
 > Die Bundesregierung kann auf Vorschlag der Bundesministerin oder des Bundesministers einer Universität oder mehreren Universitäten durch Verordnung die Einrichtung eines Studiums auftragen, wenn dies aus übergeordneten bildungspolitischen oder wissenschaftspolitischen Gründen erforderlich ist und keine diesbezügliche Einigung im Rahmen einer Leistungsvereinbarung erfolgt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-8-ug--sicherung-von-forschungs--und-lehrbereichen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=8) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.001.md#-8-ug--sicherung-von-forschungs--und-lehrbereichen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-8-ug--sicherung-von-forschungs--und-lehrbereichen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=8) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.001.md#-8-ug--sicherung-von-forschungs--und-lehrbereichen) \]
 
 ----
 
@@ -558,7 +558,7 @@
 
 > Die Universitäten, die von ihnen gemäß § 10 Abs\. 1 gegründeten Gesellschaften, Stiftungen und Vereine sowie jene Gesellschaften, deren Geschäftsanteile die Universität mittelbar oder unmittelbar zu mindestens 50 vH hält, unterliegen der Aufsicht des Bundes\. Diese umfasst die Aufsicht über die Einhaltung der Gesetze und Verordnungen einschließlich der Satzung \(Rechtsaufsicht\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-9-ug--rechtsaufsicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=9) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.001.md#-9-ug--rechtsaufsicht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-9-ug--rechtsaufsicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=9) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.001.md#-9-ug--rechtsaufsicht) \]
 
 ----
 
@@ -568,7 +568,7 @@
 
 > `(2)` Jede Universität ist überdies berechtigt, sonstige Vermögenswerte – unbeschadet §§ 26 und 27 – insbesondere auch in Form von Spenden, Schenkungen und Sponsoring einzuwerben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-10-ug--gesellschaften-stiftungen-vereine) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=10) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.001.md#-10-ug--gesellschaften-stiftungen-vereine) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-10-ug--gesellschaften-stiftungen-vereine) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=10) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.001.md#-10-ug--gesellschaften-stiftungen-vereine) \]
 
 ----
 
@@ -576,7 +576,7 @@
 
 > Die Bundesministerin oder der Bundesminister hat dem Nationalrat ab dem Jahr 2005 auf der Grundlage der Wissensbilanzen der Universitäten mindestens alle drei Jahre einen Bericht über die bisherige Entwicklung und die künftige Ausrichtung der Universitäten vorzulegen\. Dabei ist unter anderem auch auf die Nachwuchsförderung, auf die Entwicklung der Personalstruktur der Universitäten und auf die Lage der Studierenden einzugehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-11-ug--universitätsbericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=11) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.001.md#-11-ug--universitätsbericht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-11-ug--universitätsbericht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=11) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.001.md#-11-ug--universitätsbericht) \]
 
 ----
 
@@ -654,7 +654,7 @@
 
 > *\(Beachte: zum Bezugszeitraum vgl\. § 143 Abs\. 49\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-12-ug--universitätsfinanzierung-aus-bundesmitteln) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=12) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.002.md#-12-ug--universitätsfinanzierung-aus-bundesmitteln) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-12-ug--universitätsfinanzierung-aus-bundesmitteln) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=12) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.002.md#-12-ug--universitätsfinanzierung-aus-bundesmitteln) \]
 
 ----
 
@@ -685,7 +685,7 @@
 
 > *\(Beachte: Ist erstmals auf die Leistungsvereinbarungsperiode 2019 bis 2021 anzuwenden \(vgl\. § 143 Abs\. 49\)\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-12a-ug--festlegung-der-globalbudgets-der-universitäten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=12a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.002.md#-12a-ug--festlegung-der-globalbudgets-der-universitäten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-12a-ug--festlegung-der-globalbudgets-der-universitäten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=12a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.002.md#-12a-ug--festlegung-der-globalbudgets-der-universitäten) \]
 
 ----
 
@@ -699,7 +699,7 @@
 
 > *\(Beachte: Ist erstmals auf die Leistungsvereinbarungsperiode 2019 bis 2021 anzuwenden \(vgl\. § 143 Abs\. 49\)\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-12b-ug--gesamtösterreichischer-universitätsentwicklungsplan) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=12b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.002.md#-12b-ug--gesamtösterreichischer-universitätsentwicklungsplan) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-12b-ug--gesamtösterreichischer-universitätsentwicklungsplan) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=12b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.002.md#-12b-ug--gesamtösterreichischer-universitätsentwicklungsplan) \]
 
 ----
 
@@ -776,7 +776,7 @@
 
 > `(10)` Die Bundesministerin oder der Bundesminister stellt von Amts wegen oder auf Antrag bescheidmäßig die aus einer Leistungsvereinbarung nach Abs\. 1 oder Abs\. 8 folgenden Verpflichtungen fest\. Die Universität hat in diesem Verfahren Parteistellung sowie das Recht, gegen den das Verfahren abschließenden Bescheid vor dem Verwaltungsgerichtshof Beschwerde zu führen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-13-ug--leistungsvereinbarung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=13) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.002.md#-13-ug--leistungsvereinbarung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-13-ug--leistungsvereinbarung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=13) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.002.md#-13-ug--leistungsvereinbarung) \]
 
 ----
 
@@ -796,7 +796,7 @@
 
 > `(7)` Die Mitglieder der Schlichtungskommission haben Anspruch auf Ersatz der angemessenen Reisekosten und Barauslagen sowie auf eine dem Zeit\- und Arbeitsaufwand entsprechende Vergütung, die von der Bundesministerin oder vom Bundesminister durch Verordnung unter Bedachtnahme auf die Bedeutung und den Umfang der zu besorgenden Aufgaben festzusetzen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-13a-ug--schlichtungskommission) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=13a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.002.md#-13a-ug--schlichtungskommission) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-13a-ug--schlichtungskommission) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=13a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.002.md#-13a-ug--schlichtungskommission) \]
 
 ----
 
@@ -830,7 +830,7 @@
 >
 >> `11.` Anzahl jener Stellen, die im Sinne des § 27 Abs\. 1 des gemäß § 108 Abs\. 3 abgeschlossenen Kollektivvertrages in der am 1\. Oktober 2015 geltenden Fassung für eine Qualifizierungsvereinbarung in Betracht kommen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-13b-ug--entwicklungsplan) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=13b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.002.md#-13b-ug--entwicklungsplan) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-13b-ug--entwicklungsplan) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=13b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.002.md#-13b-ug--entwicklungsplan) \]
 
 ----
 
@@ -860,7 +860,7 @@
 
 > `(9)` Der Aufwand für von der Bundesministerin oder vom Bundesminister veranlasste Evaluierungen ist vom Bund zu tragen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-14-ug--evaluierung-und-qualitätssicherung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=14) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.002.md#-14-ug--evaluierung-und-qualitätssicherung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-14-ug--evaluierung-und-qualitätssicherung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=14) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.002.md#-14-ug--evaluierung-und-qualitätssicherung) \]
 
 ----
 
@@ -886,7 +886,7 @@
 
 > `(7)` Die Universitäten unterliegen dem Beteiligungs\- und Finanzcontrolling gemäß § 67 BHG 2013\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-15-ug--gebarung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=15) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.003.md#-15-ug--gebarung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-15-ug--gebarung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=15) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.003.md#-15-ug--gebarung) \]
 
 ----
 
@@ -906,7 +906,7 @@
 
 > `(6)` Die Bundesministerin oder der Bundesminister kann durch Verordnung festlegen, dass die Universitäten ihr oder ihm laufend automationsunterstützt und in technisch geeigneter Form den Zugang zu den für die Planung, die Steuerung und die Statistik benötigten standardisierten personenbezogenen Daten \(Art\. 4 Nr\. 1 DSGVO\) und sonstigen Informationen, insbesondere für die Berechnung der Indikatoren gemäß § 12 Abs\. 8, ermöglichen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-16-ug--rechnungswesen-und-berichte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=16) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_20_TextContainer_20) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.003.md#-16-ug--rechnungswesen-und-berichte) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-16-ug--rechnungswesen-und-berichte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=16) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_20_TextContainer_20) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.003.md#-16-ug--rechnungswesen-und-berichte) \]
 
 ----
 
@@ -916,7 +916,7 @@
 
 > `(2)` Für die Personalverrechnung der Beamtinnen und Beamten sind die von der Bundesrechenzentrum GmbH betriebenen diesbezüglichen IT\-Verfahren jedenfalls in Anspruch zu nehmen\. Aufgrund der Verarbeitung personenbezogener Daten wird die Bundesrechenzentrum GmbH dabei als Auftragsverarbeiter im Sinne des Art\. 28 DSGVO tätig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-17-ug--inanspruchnahme-von-dienstleistungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=17) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_21_TextContainer_21) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.003.md#-17-ug--inanspruchnahme-von-dienstleistungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-17-ug--inanspruchnahme-von-dienstleistungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=17) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_21_TextContainer_21) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.003.md#-17-ug--inanspruchnahme-von-dienstleistungen) \]
 
 ----
 
@@ -926,7 +926,7 @@
 
 > `(2)` Alle dem Bund auf Grund bundesgesetzlicher Bestimmungen eingeräumten abgaben\- und gebührenrechtlichen Begünstigungen finden auch auf die Universitäten Anwendung, soweit diese in Erfüllung ihrer gesetzlichen Aufgaben tätig werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-18-ug--gewerbe--und-abgabenrechtliche-stellung-der-universitäten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=18) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.003.md#-18-ug--gewerbe--und-abgabenrechtliche-stellung-der-universitäten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-18-ug--gewerbe--und-abgabenrechtliche-stellung-der-universitäten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=18) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_22_TextContainer_22) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.003.md#-18-ug--gewerbe--und-abgabenrechtliche-stellung-der-universitäten) \]
 
 ----
 
@@ -968,7 +968,7 @@
 
 > `(3)` Wahlen sind geheim durchzuführen, das Wahlrecht ist persönlich und unmittelbar auszuüben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-19-ug--satzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=19) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_23_TextContainer_23) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.004.md#-19-ug--satzung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-19-ug--satzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=19) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_23_TextContainer_23) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.004.md#-19-ug--satzung) \]
 
 ----
 
@@ -1024,7 +1024,7 @@
 
 > `(7)` Personen ohne österreichische Staatsbürgerschaft können – unbeschadet anderer in diesem Bundesgesetz geregelter Voraussetzungen – Organfunktionen im Rahmen von monokratischen und kollegialen Universitätsorganen übernehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-20-ug--leitung-und-innere-organisation) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=20) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.004.md#-20-ug--leitung-und-innere-organisation) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-20-ug--leitung-und-innere-organisation) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=20) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_24_TextContainer_24) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.004.md#-20-ug--leitung-und-innere-organisation) \]
 
 ----
 
@@ -1038,7 +1038,7 @@
 
 > `(4)` Die Erstellung der Liste der Kandidatinnen und Kandidaten als Teil der Wahlvorschläge für die zu wählenden Vertreterinnen und Vertreter der Gruppen gemäß § 25 Abs\. 4 Z 1, 2 und 3 hat so zu erfolgen, dass mindestens 50 vH Frauen an wählbarer Stelle zu reihen sind\. Dies gilt auch für die zu wählenden Ersatzmitglieder\. Abs\. 2 zweiter Satz ist anzuwenden\. Erhebt der Arbeitskreis für Gleichbehandlungsfragen keine Einreden der Mangelhaftigkeit der Wahlvorschläge gemäß § 42 Abs\. 8d, gilt der auf Grund dieser Wahlvorschläge gewählte Senat jedenfalls im Hinblick auf Abs\. 2 als richtig zusammengesetzt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-20a-ug--geschlechtergerechte-zusammensetzung-von-kollegialorganen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=20a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.004.md#-20a-ug--geschlechtergerechte-zusammensetzung-von-kollegialorganen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-20a-ug--geschlechtergerechte-zusammensetzung-von-kollegialorganen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=20a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_25_TextContainer_25) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.004.md#-20a-ug--geschlechtergerechte-zusammensetzung-von-kollegialorganen) \]
 
 ----
 
@@ -1048,7 +1048,7 @@
 
 > `(2)` Der Frauenförderungsplan und der Gleichstellungsplan dienen der Umsetzung der verfassungsrechtlichen Vorgaben zur tatsächlichen Gleichstellung gemäß Art\. 7 Abs\. 2 und 3 B\-VG sowie des Bundes\-Gleichbehandlungsgesetzes – B\-GlBG, BGBl\. Nr\. 100/1993, im Hinblick auf die Universitäten und die Bestimmungen dieses Bundesgesetzes zur Gleichstellung und Gleichbehandlung von Frauen und Männern\. Zusätzlich zum Frauenförderungsplan gemäß § 11a B\-GlBG sind in einem eigenen Gleichstellungsplan insbesondere die Bereiche Vereinbarkeit \(§ 2 Z 13\) sowie Antidiskriminierung \(2\. Hauptstück des I\. Teils B\-GlBG\) zu regeln\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-20b-ug--frauenförderungsplan-und-gleichstellungsplan) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=20b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_26_TextContainer_26) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.004.md#-20b-ug--frauenförderungsplan-und-gleichstellungsplan) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-20b-ug--frauenförderungsplan-und-gleichstellungsplan) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=20b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_26_TextContainer_26) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.004.md#-20b-ug--frauenförderungsplan-und-gleichstellungsplan) \]
 
 ----
 
@@ -1088,7 +1088,7 @@
 
 > `(7)` Für Kooperationen in der Lehre sind die Bestimmungen über die gemeinsam eingerichteten Studien oder gemeinsamen Studienprogramme anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-20c-ug--interuniversitäre-organisationseinheiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=20c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_27_TextContainer_27) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.004.md#-20c-ug--interuniversitäre-organisationseinheiten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-20c-ug--interuniversitäre-organisationseinheiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=20c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_27_TextContainer_27) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.004.md#-20c-ug--interuniversitäre-organisationseinheiten) \]
 
 ----
 
@@ -1120,7 +1120,7 @@
 
 > `(5)` Geldwerte Leistungen für interhochschulische Organisationseinheiten, die nach Maßgabe der Leistungsvereinbarung im Interesse des Bundes eingerichtet wurden, unterliegen nicht § 6 Abs\. 1 PrivHG\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-20d-ug--interhochschulische-organisationseinheiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=20d) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_28_TextContainer_28) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.004.md#-20d-ug--interhochschulische-organisationseinheiten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-20d-ug--interhochschulische-organisationseinheiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=20d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_28_TextContainer_28) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.004.md#-20d-ug--interhochschulische-organisationseinheiten) \]
 
 ----
 
@@ -1213,7 +1213,7 @@
 
 > `(16)` Das Rektorat hat dem Universitätsrat die für die Erfüllung seiner Aufgaben entsprechenden Personal\- und Sachressourcen sowie die erforderlichen Räume zur Verfügung zu stellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-21-ug--universitätsrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=21) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.004.md#-21-ug--universitätsrat) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-21-ug--universitätsrat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=21) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_29_TextContainer_29) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.004.md#-21-ug--universitätsrat) \]
 
 ----
 
@@ -1276,7 +1276,7 @@
 
 > `(7)` Die Mitglieder des Rektorats sind in dieser Funktion an keine Weisungen oder Aufträge gebunden \(Art\. 81c Abs\. 1 B\-VG\); die Vizerektorinnen und Vizerektoren sind in dieser Funktion auch an keine Weisungen oder Aufträge der Rektorin oder des Rektors gebunden\. Die Mitglieder des Rektorats sind bei ihrer Tätigkeit zu entsprechender Sorgfalt verpflichtet\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-22-ug--rektorat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=22) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.004.md#-22-ug--rektorat) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-22-ug--rektorat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=22) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_30_TextContainer_30) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.004.md#-22-ug--rektorat) \]
 
 ----
 
@@ -1312,7 +1312,7 @@
 
 > `(5)` Die Rektorin oder der Rektor kann vom Universitätsrat wegen einer schweren Pflichtverletzung, einer strafgerichtlichen Verurteilung, wegen mangelnder gesundheitlicher Eignung oder wegen eines begründeten Vertrauensverlusts durch Bescheid von der Funktion abberufen werden\. Die Abberufung kann auf Antrag des Senats oder von Amts wegen durch den Universitätsrat erfolgen\. Im ersten Fall ist in beiden Organen jeweils die einfache Mehrheit aller Mitglieder erforderlich; im zweiten Fall bedarf der Beschluss im Universitätsrat der Zweidrittelmehrheit aller Mitglieder, der Senat ist anzuhören\. Mit der Wirksamkeit der Abberufung endet das Arbeitsverhältnis der Rektorin oder des Rektors zur Universität\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-23-ug--rektorin-oder-rektor) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=23) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.004.md#-23-ug--rektorin-oder-rektor) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-23-ug--rektorin-oder-rektor) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=23) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_31_TextContainer_31) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.004.md#-23-ug--rektorin-oder-rektor) \]
 
 ----
 
@@ -1344,7 +1344,7 @@
 
 > `(6)` Ist die Findungskommission im Sinne des Abs\. 2 Z 3 säumig, hat der Universitätsrat innerhalb von vier Wochen die Ersatzvornahme vorzunehmen\. Der vom Universitätsrat im Rahmen der Ersatzvornahme erstellte Dreiervorschlag ist nicht bindend\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-23a-ug--findungskommission) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=23a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.004.md#-23a-ug--findungskommission) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-23a-ug--findungskommission) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=23a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_32_TextContainer_32) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.004.md#-23a-ug--findungskommission) \]
 
 ----
 
@@ -1354,7 +1354,7 @@
 
 > `(2)` Gibt die amtierende Rektorin oder der amtierende Rektor rechtzeitig vor der Ausschreibung der Funktion ihr oder sein Interesse bekannt, diese Funktion für eine dritte Funktionsperiode auszuüben, kann eine Wiederbestellung ohne Ausschreibung erfolgen, wenn der Senat und der Universitätsrat jeweils mit Zweidrittelmehrheit zustimmen, wobei der Senat zuerst abzustimmen hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-23b-ug--wiederbestellung-der-rektorin-oder-des-rektors) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=23b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.004.md#-23b-ug--wiederbestellung-der-rektorin-oder-des-rektors) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-23b-ug--wiederbestellung-der-rektorin-oder-des-rektors) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=23b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_33_TextContainer_33) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.004.md#-23b-ug--wiederbestellung-der-rektorin-oder-des-rektors) \]
 
 ----
 
@@ -1368,7 +1368,7 @@
 
 > `(4)` Eine Vizerektorin oder ein Vizerektor kann vom Universitätsrat wegen einer schweren Pflichtverletzung, einer strafgerichtlichen Verurteilung, wegen mangelnder gesundheitlicher Eignung oder wegen eines begründeten Vertrauensverlusts von der Funktion abberufen werden\. Die Rektorin oder der Rektor kann die Abberufung einer Vizerektorin oder eines Vizerektors beim Universitätsrat anregen\. Die Abberufung bedarf der Zweidrittelmehrheit aller Mitglieder des Universitätsrats, der Senat ist anzuhören\. Mit der Wirksamkeit der Abberufung endet das Arbeitsverhältnis der Vizerektorin oder des Vizerektors zur Universität\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-24-ug--vizerektorinnen-und-vizerektoren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=24) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.004.md#-24-ug--vizerektorinnen-und-vizerektoren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-24-ug--vizerektorinnen-und-vizerektoren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=24) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_34_TextContainer_34) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.004.md#-24-ug--vizerektorinnen-und-vizerektoren) \]
 
 ----
 
@@ -1481,7 +1481,7 @@
 > `(10)` Die Kollegialorgane gemäß Abs\. 7 und Abs\. 8 Z 3 sind längstens für die Dauer der Funktionsperiode des Senats einzurichten\. Diese Kollegialorgane sind an die Richtlinien des Senats gebunden und entscheiden in dessen Namen\. Der Senat kann eine gemäß Abs\. 7 erteilte Entscheidungsvollmacht jederzeit widerrufen\. Die Beschlüsse der Kollegialorgane gemäß Abs\. 7 und Abs\. 8 Z 3 bedürfen der Genehmigung des Senats\.
 > *\(Anm\.: Abs\. 11 aufgehoben durch Art\. 5 Z 9, BGBl\. I Nr\. 129/2017\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-25-ug--senat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=25) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_35_TextContainer_35) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.004.md#-25-ug--senat) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-25-ug--senat) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=25) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_35_TextContainer_35) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.004.md#-25-ug--senat) \]
 
 ----
 
@@ -1511,7 +1511,7 @@
 
 > `(6)` Mitarbeiterinnen und Mitarbeiter an einem Vorhaben gemäß Abs\. 1 sind auf Vorschlag der oder des Universitätsangehörigen, die oder der dieses Vorhaben durchführt, gegen Ersatz der Personalkosten in ein zeitlich befristetes Arbeitsverhältnis zur Universität aufzunehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-26-ug--forschungsförderung-und-auftragsforschung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=26) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_36_TextContainer_36) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-26-ug--forschungsförderung-und-auftragsforschung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-26-ug--forschungsförderung-und-auftragsforschung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=26) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_36_TextContainer_36) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-26-ug--forschungsförderung-und-auftragsforschung) \]
 
 ----
 
@@ -1539,7 +1539,7 @@
 
 > `(5)` Die gemäß Abs\. 1 berechtigten oder gemäß Abs\. 2 bevollmächtigten Universitätsangehörigen haben dem Rektorat über die Durchführung der von ihnen abgeschlossenen Rechtsgeschäfte zu berichten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-27-ug--vollmachten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=27) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_37_TextContainer_37) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-27-ug--vollmachten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-27-ug--vollmachten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=27) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_37_TextContainer_37) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-27-ug--vollmachten) \]
 
 ----
 
@@ -1549,7 +1549,7 @@
 
 > `(2)` § 27 Abs\. 4 und 5 gelten sinngemäß\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-28-ug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=28) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-28-ug) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-28-ug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=28) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_38_TextContainer_38) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-28-ug) \]
 
 ----
 
@@ -1583,7 +1583,7 @@
 
 > `(9)` Die Medizinische Universität bzw\. die Universität, an der eine Medizinische Fakultät eingerichtet ist, kann sich zur Erfüllung ihrer Aufgaben nach Abs\. 1 auch der Bediensteten des Rechtsträgers der Krankenanstalt bedienen\. Diesbezüglich ist nach Zustimmung der Bundesministerin oder des Bundesministers durch die Medizinische Universität bzw\. die Universität, an der eine Medizinische Fakultät eingerichtet ist, unter Bedachtnahme auf die Leistungsvereinbarungen gemäß § 13 mit dem Rechtsträger der Krankenanstalt eine Vereinbarung zu treffen, die insbesondere sowohl die Eignung der Bediensteten, als auch das Ausmaß der Tätigkeit in Lehre und Forschung, den dafür notwendigen Kostenersatz und Ausführungen über das Weisungsrecht der Rektorin oder des Rektors hinsichtlich der für Aufgaben der Universität konkret betrauten Bediensteten des Rechtsträgers der Krankenanstalt enthält\. Der Bedarf der Medizinischen Universität bzw\. der Universität, an der eine Medizinische Fakultät eingerichtet ist, und die Qualifikation der Bediensteten sind zu berücksichtigen\. Für die Tätigkeit dieser Bediensteten im Rahmen von Forschung und Lehre ist § 2 Z 1 bis 3 anzuwenden\. Die konkrete Betrauung der oder des Bediensteten erfolgt durch die Rektorin oder den Rektor auf Basis der Qualifikation der betreffenden Person in Forschung und Lehre\. Ein Arbeitsverhältnis zur Medizinischen Universität bzw\. der Universität, an der eine Medizinische Fakultät eingerichtet ist, wird dadurch nichtbegründet\. Die von der Rektorin oder dem Rektor konkret mit wissenschaftlichen Aufgaben betrauten Bediensteten des Rechtsträgers der Krankenanstalt sind den Angehörigen der Universität gemäß § 94 Abs\. 2 Z 2 gleichgestellt\. Vor Vorlage der Vereinbarung an die Bundesministerin oder den Bundesminister ist eine Stellungnahme des Senates einzuholen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-29-ug--organisation) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=29) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_39_TextContainer_39) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-29-ug--organisation) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-29-ug--organisation) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=29) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_39_TextContainer_39) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-29-ug--organisation) \]
 
 ----
 
@@ -1597,7 +1597,7 @@
 
 > `(4)` Die Mitglieder der Ethikkommission unterliegen in dieser Funktion weder Weisungen der Organe der Krankenanstalt noch Weisungen der Organe der Universität\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-30-ug--ethikkommission) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=30) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_40_TextContainer_40) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-30-ug--ethikkommission) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-30-ug--ethikkommission) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=30) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_40_TextContainer_40) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-30-ug--ethikkommission) \]
 
 ----
 
@@ -1611,7 +1611,7 @@
 
 > `(4)` Die Universitätskliniken und Klinischen Institute können in „Klinische Abteilungen“ gegliedert werden\. In diesem Fall obliegt der Leiterin oder dem Leiter der Klinischen Abteilung die Verantwortung für die zu erfüllenden ärztlichen Aufgaben gemäß § 7b Abs\. 1 KAKuG\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-31-ug--gliederung-des-klinischen-bereichs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=31) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_41_TextContainer_41) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-31-ug--gliederung-des-klinischen-bereichs) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-31-ug--gliederung-des-klinischen-bereichs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=31) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_41_TextContainer_41) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-31-ug--gliederung-des-klinischen-bereichs) \]
 
 ----
 
@@ -1625,7 +1625,7 @@
 
 > `(3)` Die erstmalige Einbeziehung von Organisationseinheiten einer Krankenanstalt in den Klinischen Bereich einer Medizinischen Universität bzw\. einer Universität, an der eine Medizinische Fakultät eingerichtet ist, wird jeweils erst zeitgleich mit der Bestellung einer Universitätsprofessorin oder eines Universitätsprofessors gemäß § 98 zur Leiterin oder zum Leiter der betreffenden Organisationseinheit \(Universitätsklinik, Klinisches Institut, Klinische Abteilung\) gemäß Abs\. 1 wirksam\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-32-ug--leitungsfunktionen-im-klinischen-bereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=32) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_42_TextContainer_42) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-32-ug--leitungsfunktionen-im-klinischen-bereich) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-32-ug--leitungsfunktionen-im-klinischen-bereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=32) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_42_TextContainer_42) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-32-ug--leitungsfunktionen-im-klinischen-bereich) \]
 
 ----
 
@@ -1633,7 +1633,7 @@
 
 > Die Medizinischen Universitäten bzw\. die Universitäten, an denen eine Medizinische Fakultät eingerichtet ist, sind verpflichtet, die Kostenersätze gemäß § 55 KAKuG namens des Bundes an den jeweiligen Rechtsträger der Krankenanstalt zu leisten\. Ausgenommen davon sind die Kostenersätze des Bundes für Klinikneubauten und Klinikumbauten sowie für die Ersteinrichtung dieser Gebäude\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-33-ug--kostenersatz-an-den-krankenanstaltenträger) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=33) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-33-ug--kostenersatz-an-den-krankenanstaltenträger) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-33-ug--kostenersatz-an-den-krankenanstaltenträger) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=33) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_43_TextContainer_43) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-33-ug--kostenersatz-an-den-krankenanstaltenträger) \]
 
 ----
 
@@ -1641,7 +1641,7 @@
 
 > Die im Klinischen Bereich einer Medizinischen Universität bzw\. einer Medizinischen Fakultät tätigen Ärztinnen und Ärzte sowie Zahnärztinnen und Zahnärzte mit Ausnahme der Leiterinnen und Leiter von Organisationseinheiten \(§ 32\) haben zur Wahrnehmung der Aufgaben gemäß § 3 Abs\. 3 des Krankenanstalten\-Arbeitszeitgesetzes, BGBl\. I Nr\. 8/1997, aus ihrer Mitte fünf Vertreterinnen oder Vertreter zu wählen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-34-ug--vertreterinnen-und-vertreter-der-ärzte-und-zahnärzte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=34) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_44_TextContainer_44) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-34-ug--vertreterinnen-und-vertreter-der-ärzte-und-zahnärzte) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-34-ug--vertreterinnen-und-vertreter-der-ärzte-und-zahnärzte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=34) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_44_TextContainer_44) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-34-ug--vertreterinnen-und-vertreter-der-ärzte-und-zahnärzte) \]
 
 ----
 
@@ -1651,7 +1651,7 @@
 
 > `(2)` Ärztliche Einrichtungen im niedergelassenen Bereich können von den Medizinischen Universitäten bzw\. den Universitäten, an denen eine Medizinische Fakultät eingerichtet ist, mit deren Zustimmung zur Verbesserung und Intensivierung des praktisch\-medizinischen Unterrichts herangezogen werden\. Diesen Einrichtungen kann von der betreffenden Medizinischen Universität bzw\. von der betreffenden Universität, an der eine Medizinische Fakultät eingerichtet ist, die Bezeichnung „Lehrordination“ verliehen werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-35-ug--lehreinrichtungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=35) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_45_TextContainer_45) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-35-ug--lehreinrichtungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-35-ug--lehreinrichtungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=35) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_45_TextContainer_45) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-35-ug--lehreinrichtungen) \]
 
 ----
 
@@ -1663,7 +1663,7 @@
 
 > `(3)` Bloße Unterstützungsleistungen zur Lebensführung der Studierenden durch den Rechtsträger der Lehreinrichtung begründen kein Dienst\- oder Arbeitsverhältnis\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-35a-ug--klinisch-praktisches-jahr) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=35a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_46_TextContainer_46) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-35a-ug--klinisch-praktisches-jahr) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-35a-ug--klinisch-praktisches-jahr) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=35a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_46_TextContainer_46) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-35a-ug--klinisch-praktisches-jahr) \]
 
 ----
 
@@ -1675,7 +1675,7 @@
 
 > `(3)` Bloße Unterstützungsleistungen zur Lebensführung der Studierenden durch den Rechtsträger der Lehreinrichtung begründen kein Dienst\- oder Arbeitsverhältnis\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-35b-ug--zahnmedizinisch-klinisches-praktikum) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=35b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_47_TextContainer_47) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-35b-ug--zahnmedizinisch-klinisches-praktikum) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-35b-ug--zahnmedizinisch-klinisches-praktikum) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=35b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_47_TextContainer_47) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-35b-ug--zahnmedizinisch-klinisches-praktikum) \]
 
 ----
 
@@ -1697,7 +1697,7 @@
 
 > `(6)` Die Wahrnehmung der tierärztlichen Aufgaben im Rahmen des Tierspitals ist von der autonomen Besorgung durch die Universität gemäß § 5 ausgenommen \(§ 70 Abs\. 4 UOG 1993\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-36-ug--tierspital) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=36) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_48_TextContainer_48) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-36-ug--tierspital) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-36-ug--tierspital) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=36) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_48_TextContainer_48) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-36-ug--tierspital) \]
 
 ----
 
@@ -1709,7 +1709,7 @@
 
 > `(3)` Die im Abs\. 2 genannte Organisationseinheit ist in der Leistungsvereinbarung und im Rechnungsabschluss gesondert auszuweisen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-37-ug--veterinärmedizinische-lehrinstitute-und-organisationseinheit-für-wildtierkunde-und-ökologie) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=37) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_49_TextContainer_49) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-37-ug--veterinärmedizinische-lehrinstitute-und-organisationseinheit-für-wildtierkunde-und-ökologie) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-37-ug--veterinärmedizinische-lehrinstitute-und-organisationseinheit-für-wildtierkunde-und-ökologie) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=37) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_49_TextContainer_49) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-37-ug--veterinärmedizinische-lehrinstitute-und-organisationseinheit-für-wildtierkunde-und-ökologie) \]
 
 ----
 
@@ -1723,7 +1723,7 @@
 
 > `(2)` Die Universität, deren Wirkungsbereich sich auch auf Studien der Evangelischen Theologie erstreckt, hat bei der Gestaltung ihrer internen Organisation und der Studienvorschriften sowie bei der Sicherstellung des Lehr\- und Forschungsbetriebs § 15 des Bundesgesetzes über äußere Rechtsverhältnisse der Evangelischen Kirche, BGBl\. Nr\. 182/1961, zu beachten\. Die Verpflichtung, gemäß § 15 Abs\. 4 des Bundesgesetzes über äußere Rechtsverhältnisse der Evangelischen Kirche vor der Auswahl aus dem Besetzungsvorschlag mit der Evangelischen Kirche Kontakt aufzunehmen, obliegt der Rektorin oder dem Rektor\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-38-ug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=38) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_50_TextContainer_50) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-38-ug) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-38-ug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=38) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_50_TextContainer_50) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-38-ug) \]
 
 ----
 
@@ -1749,7 +1749,7 @@
 
 > `(5)` Die Gemäldegalerie und das Kupferstichkabinett sind in der Leistungsvereinbarung und im Rechnungsabschluss der Akademie der bildenden Künste Wien gesondert auszuweisen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-39-ug--gemäldegalerie-und-kupferstichkabinett) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=39) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_51_TextContainer_51) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-39-ug--gemäldegalerie-und-kupferstichkabinett) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-39-ug--gemäldegalerie-und-kupferstichkabinett) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=39) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_51_TextContainer_51) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-39-ug--gemäldegalerie-und-kupferstichkabinett) \]
 
 ----
 
@@ -1769,7 +1769,7 @@
 
 > `(5)` Das Rektorat einer Universität mit Universitäts\-Sportinstitut kann Richtlinien zur Aufnahme von sonstigen Personengruppen in den Teilnehmerinnen\- und Teilnehmerkreis des Universitäts\-Sportinstituts der Universität zu marktüblichen Preisen erlassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-40-ug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=40) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_52_TextContainer_52) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-40-ug) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-40-ug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=40) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_52_TextContainer_52) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.005.md#-40-ug) \]
 
 ----
 
@@ -1787,7 +1787,7 @@
 
 > `(4)` Das Institut für Österreichische Geschichtsforschung ist in der Leistungsvereinbarung und im Rechnungsabschluss der Universität Wien gesondert auszuweisen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-40a-ug--institut-für-österreichische-geschichtsforschung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=40a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_53_TextContainer_53) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-40a-ug--institut-für-österreichische-geschichtsforschung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-40a-ug--institut-für-österreichische-geschichtsforschung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=40a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_53_TextContainer_53) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-40a-ug--institut-für-österreichische-geschichtsforschung) \]
 
 ----
 
@@ -1803,7 +1803,7 @@
 
 > `(3)` Änderungen des Wirkungsbereiches sind nur im Wege der Leistungsvereinbarung gemäß § 13 oder durch Verordnung der Bundesregierung gemäß § 8 zulässig und haben unter Berücksichtigung der Vereinbarung gemäß Art\. 15a B\-VG zwischen dem Bund und dem Land Niederösterreich über die Errichtung und den Betrieb des Universitätszentrums für Weiterbildung \(Donau\-Universität Krems\), BGBl\. Nr\. 501/1994, Abschnitt V, der Vereinbarung gemäß Art\. 15a B\-VG zwischen dem Bund und dem Land Niederösterreich über den Ausbau des Universitätszentrums für Weiterbildung \(Donau\-Universität Krems\) samt Anlage, BGBl\. I Nr\. 81/2004, sowie der Vereinbarung gemäß Art\. 15a B\-VG zwischen dem Bund und dem Land Niederösterreich über die weitere Entwicklung der Universität für Weiterbildung Krems, BGBl\. I Nr\. 9/2019, zu erfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-40b-ug--geltungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=40b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_54_TextContainer_54) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-40b-ug--geltungsbereich) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-40b-ug--geltungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=40b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_54_TextContainer_54) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-40b-ug--geltungsbereich) \]
 
 ----
 
@@ -1825,7 +1825,7 @@
 >
 >> `6.` Heranbildung und Förderung des wissenschaftlichen Nachwuchses, insbesondere durch Doktoratsstudien gemäß § 40d Abs\. 1\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-40c-ug--aufgaben) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=40c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_55_TextContainer_55) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-40c-ug--aufgaben) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-40c-ug--aufgaben) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=40c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_55_TextContainer_55) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-40c-ug--aufgaben) \]
 
 ----
 
@@ -1836,7 +1836,7 @@
 
 > `(3)` Die Bestimmungen dieses Bundesgesetzes über die Bestellung der Mitglieder des Universitätsrates durch die Bundesregierung gelten mit der Maßgabe, dass die Bundesministerin oder der Bundesminister ein Mitglied auf Vorschlag der Niederösterreichischen Landesregierung der Bundesregierung zur Bestellung vorzuschlagen hat\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-40d-ug--studien-und-organisation) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=40d) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-40d-ug--studien-und-organisation) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-40d-ug--studien-und-organisation) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=40d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_56_TextContainer_56) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-40d-ug--studien-und-organisation) \]
 
 ----
 
@@ -1850,7 +1850,7 @@
 
 > `(4)` Abweichend von § 56 Abs\. 3 ist der Lehrgangsbeitrag für die an der Universität für Weiterbildung Krems angebotenen Universitätslehrgänge kostendeckend festzulegen, wobei die Kostendeckung in der Gesamtheit der angebotenen Universitätslehrgänge an der Universität für Weiterbildung Krems zu erreichen ist\. Als Kosten in diesem Sinn gelten die angebotsabhängigen variablen Lehrgangskosten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-40e-ug--finanzierung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=40e) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-40e-ug--finanzierung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-40e-ug--finanzierung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=40e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_57_TextContainer_57) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-40e-ug--finanzierung) \]
 
 ----
 
@@ -1862,7 +1862,7 @@
 
 > Alle Organe der Universität haben darauf hinzuwirken, dass in allen universitären Arbeitsbereichen ein ausgewogenes Zahlenverhältnis zwischen den an der Universität tätigen Frauen und Männern erreicht wird\. Die Erreichung dieses Ziels ist durch geeignete Maßnahmen, insbesondere durch die Erlassung und Umsetzung eines Frauenförderungsplans, anzustreben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-41-ug--frauenfördergebot) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=41) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_58_TextContainer_58) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-41-ug--frauenfördergebot) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-41-ug--frauenfördergebot) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=41) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_58_TextContainer_58) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-41-ug--frauenfördergebot) \]
 
 ----
 
@@ -1920,7 +1920,7 @@
 
 > *\(Beachte: zum Bezugszeitraum vgl\. § 143 Abs\. 74\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-42-ug--arbeitskreis-für-gleichbehandlungsfragen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=42) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_59_TextContainer_59) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-42-ug--arbeitskreis-für-gleichbehandlungsfragen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-42-ug--arbeitskreis-für-gleichbehandlungsfragen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=42) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_59_TextContainer_59) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-42-ug--arbeitskreis-für-gleichbehandlungsfragen) \]
 
 ----
 
@@ -1958,7 +1958,7 @@
 
 > `(12)` Dem Universitätsrat und dem Rektorat ist jährlich ein Tätigkeitsbericht der Schiedskommission zu übermitteln\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-43-ug--schiedskommission) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=43) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-43-ug--schiedskommission) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-43-ug--schiedskommission) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=43) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_60_TextContainer_60) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-43-ug--schiedskommission) \]
 
 ----
 
@@ -1966,7 +1966,7 @@
 
 > Auf alle Angehörigen der Universität sowie auf die Bewerberinnen und Bewerber um Aufnahme in ein Arbeitsverhältnis zur Universität oder um Aufnahme als Studierende ist das B\-GlBG mit Ausnahme des dritten und vierten Abschnitts des ersten Hauptstücks des zweiten Teils und der §§ 12 und 12a mit der Maßgabe anzuwenden, dass die Universität als Dienststelle und als Zentralstelle \(§ 2 Abs\. 1 und 2 B\-GlBG\) gilt und sie die Pflicht zur Leistung von Schadenersatz gemäß §§ 17 bis 19b B\-GlBG trifft\. Das Recht zur Erstellung eines Vorschlags für den Frauenförderungsplan \(§ 11a Abs\. 1 B\-GlBG\) steht dem Arbeitskreis für Gleichbehandlungsfragen zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-44-ug--anwendung-des-bundes-gleichbehandlungsgesetzes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=44) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-44-ug--anwendung-des-bundes-gleichbehandlungsgesetzes) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-44-ug--anwendung-des-bundes-gleichbehandlungsgesetzes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=44) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_61_TextContainer_61) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-44-ug--anwendung-des-bundes-gleichbehandlungsgesetzes) \]
 
 ----
 
@@ -1990,7 +1990,7 @@
 
 > `(7)` Im aufsichtsbehördlichen Verfahren haben die Universitätsorgane Parteistellung sowie das Recht, gegen den das Verfahren abschließenden Bescheid vor dem Bundesverwaltungsgericht Beschwerde zu führen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-45-ug--aufsicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=45) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-45-ug--aufsicht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-45-ug--aufsicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=45) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_62_TextContainer_62) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-45-ug--aufsicht) \]
 
 ----
 
@@ -2008,7 +2008,7 @@
 
 > `(6)` Die Universitäten haben den Verwaltungs\- und Strafvollzugsbehörden, den Gerichten sowie den anderen Universitäten und Pädagogischen Hochschulen auf deren Ersuchen die zur Feststellung des Sachverhaltes erforderlichen Auskünfte zu erteilen sowie die dafür notwendigen Unterlagen zu übermitteln\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-46-ug--verfahren-in-behördlichen-angelegenheiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=46) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-46-ug--verfahren-in-behördlichen-angelegenheiten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-46-ug--verfahren-in-behördlichen-angelegenheiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=46) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_63_TextContainer_63) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-46-ug--verfahren-in-behördlichen-angelegenheiten) \]
 
 ----
 
@@ -2020,7 +2020,7 @@
 
 > `(3)` Ist der Universitätsrat im Sinne des Abs\. 2 oder in einer Angelegenheit des § 21 Abs\. 1 säumig, hat die Bundesministerin oder der Bundesminister die Ersatzvornahme vorzunehmen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-47-ug--säumnis-von-organen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=47) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_64_TextContainer_64) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-47-ug--säumnis-von-organen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-47-ug--säumnis-von-organen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=47) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_64_TextContainer_64) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-47-ug--säumnis-von-organen) \]
 
 ----
 
@@ -2028,7 +2028,7 @@
 
 > Die Mitglieder von Kollegialorganen und andere Universitätsorgane sind zur Amtsverschwiegenheit verpflichtet \(Art\. 20 Abs\. 3 B\-VG\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-48-ug--verschwiegenheitspflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=48) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_65_TextContainer_65) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-48-ug--verschwiegenheitspflicht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-48-ug--verschwiegenheitspflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=48) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_65_TextContainer_65) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-48-ug--verschwiegenheitspflicht) \]
 
 ----
 
@@ -2042,7 +2042,7 @@
 
 > `(4)` Für die von Organen oder Arbeitnehmerinnen oder Arbeitnehmern der Universität oder von anderen Personen im Auftrag der Universität in Wahrnehmung der hoheitlichen Aufgaben dem Bund schuldhaft unmittelbar zugefügten Schäden haften diese Organe dem Bund nach den Bestimmungen des Organhaftpflichtgesetzes, BGBl\. Nr\. 181/1967, mit der Maßgabe, dass die zur Haftung herangezogenen Personen von der Verschwiegenheitspflicht befreit sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-49-ug--haftung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=49) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_66_TextContainer_66) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-49-ug--haftung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-49-ug--haftung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=49) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_66_TextContainer_66) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-49-ug--haftung) \]
 
 ----
 
@@ -2050,7 +2050,7 @@
 
 > Die Universität sowie Gesellschaften, deren Geschäftsanteile die Universität mittelbar oder unmittelbar zu mindestens 50 vH hält, sind berechtigt, sich von der Finanzprokuratur gemäß dem Prokuraturgesetz, StGBl\. Nr\. 172/1945, gegen Entgelt rechtlich beraten und vertreten zu lassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-50-ug--rechtsvertretung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=50) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_67_TextContainer_67) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-50-ug--rechtsvertretung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-50-ug--rechtsvertretung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=50) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_67_TextContainer_67) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.006.md#-50-ug--rechtsvertretung) \]
 
 ----
 
@@ -2170,7 +2170,7 @@
 >
 >> `37.` Kurzzeitmobilität von Studierenden ist der Besuch einzelner Lehrveranstaltungen in physischer bzw\. virtueller Form bis zu insgesamt 15 ECTS\-Anrechnungspunkten, die den Studierenden eine internationale Lernerfahrung im Rahmen des Programms Erasmus\+ \(zB Blended Intensive Programmes\), der „European Universities“\-Allianzen oder der Absolvierung von Microcredentials ermöglichen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-51-ug--begriffsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=51) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_68_TextContainer_68) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.007.md#-51-ug--begriffsbestimmungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-51-ug--begriffsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=51) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_68_TextContainer_68) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.007.md#-51-ug--begriffsbestimmungen) \]
 
 ----
 
@@ -2184,7 +2184,7 @@
 
 > *\(Beachte: Zu Abs\. 1: ist in dieser Fassung ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme\-, Eignungs\- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden \(vgl\. § 143 Abs\. 76\)\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-52-ug--einteilung-des-studienjahres) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=52) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_69_TextContainer_69) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.007.md#-52-ug--einteilung-des-studienjahres) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-52-ug--einteilung-des-studienjahres) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=52) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_69_TextContainer_69) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.007.md#-52-ug--einteilung-des-studienjahres) \]
 
 ----
 
@@ -2204,7 +2204,7 @@
 >
 >> `6.` der Name und die Matrikelnummer der oder des Studierenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-53-ug--aufbewahrung-von-universitätsspezifischen-daten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=53) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_70_TextContainer_70) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.007.md#-53-ug--aufbewahrung-von-universitätsspezifischen-daten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-53-ug--aufbewahrung-von-universitätsspezifischen-daten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=53) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_70_TextContainer_70) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.007.md#-53-ug--aufbewahrung-von-universitätsspezifischen-daten) \]
 
 ----
 
@@ -2253,7 +2253,7 @@
 
 > `(8)` Angebote von Bachelor\- und Masterstudien zur Erlangung eines Lehramtes für Volksschulen, Sonderschulen, Polytechnische Schulen, Hauptschulen, Neue Mittelschulen oder für den Bereich der Berufsbildung können nur in Form eines mit einer \(oder mehreren\) Pädagogischen Hochschulen gemeinsam eingerichteten Studiums angeboten und geführt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-54-ug--ordentliche-studien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=54) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_71_TextContainer_71) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.008.md#-54-ug--ordentliche-studien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-54-ug--ordentliche-studien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=54) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_71_TextContainer_71) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.008.md#-54-ug--ordentliche-studien) \]
 
 ----
 
@@ -2265,7 +2265,7 @@
 
 > `(3)` Die Einrichtung von Erweiterungsstudien zur Erweiterung eines Doktoratsstudiums sowie eines kombinierten Master\- und Doktoratsstudiums ist nicht zulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-54a-ug--erweiterungsstudien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=54a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_72_TextContainer_72) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.008.md#-54a-ug--erweiterungsstudien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-54a-ug--erweiterungsstudien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=54a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_72_TextContainer_72) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.008.md#-54a-ug--erweiterungsstudien) \]
 
 ----
 
@@ -2279,7 +2279,7 @@
 
 > `(4)` Für Erweiterungsstudien zur Erweiterung eines Lehramtsstudiums sind abweichend von §§ 54a Abs\. 1 und 58 Abs\. 1 keine gesonderten Curricula zu erlassen, sofern die Inhalte und Anforderungen in dem dem Unterrichtsfach, der Spezialisierung oder dem Fächerbündel \(Allgemeinbildung\) zugrunde liegenden Curriculum gekennzeichnet sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-54b-ug--erweiterungsstudien-zur-erweiterung-von-lehramtsstudien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=54b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_73_TextContainer_73) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.008.md#-54b-ug--erweiterungsstudien-zur-erweiterung-von-lehramtsstudien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-54b-ug--erweiterungsstudien-zur-erweiterung-von-lehramtsstudien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=54b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_73_TextContainer_73) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.008.md#-54b-ug--erweiterungsstudien-zur-erweiterung-von-lehramtsstudien) \]
 
 ----
 
@@ -2293,7 +2293,7 @@
 
 > *\(Beachte: Ist in dieser Fassung ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme\-, Eignungs\- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden \(vgl\. § 143 Abs\. 76\)\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-54d-ug--gemeinsame-studienprogramme) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=54d) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_74_TextContainer_74) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.008.md#-54d-ug--gemeinsame-studienprogramme) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-54d-ug--gemeinsame-studienprogramme) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=54d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_74_TextContainer_74) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.008.md#-54d-ug--gemeinsame-studienprogramme) \]
 
 ----
 
@@ -2319,7 +2319,7 @@
 
 > *\(Beachte: Zu Abs\. 3 und 9: sind in dieser Fassung ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme\-, Eignungs\- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden \(vgl\. § 143 Abs\. 76\)\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-54e-ug--gemeinsam-eingerichtete-studien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=54e) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_75_TextContainer_75) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.008.md#-54e-ug--gemeinsam-eingerichtete-studien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-54e-ug--gemeinsam-eingerichtete-studien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=54e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_75_TextContainer_75) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.008.md#-54e-ug--gemeinsam-eingerichtete-studien) \]
 
 ----
 
@@ -2329,7 +2329,7 @@
 >
 > *\(Beachte: Ist ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme\-, Eignungs\- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden \(vgl\. § 143 Abs\. 76\)\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-54f-ug--studien-im-ausland) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=54f) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_76_TextContainer_76) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.008.md#-54f-ug--studien-im-ausland) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-54f-ug--studien-im-ausland) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=54f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_76_TextContainer_76) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.008.md#-54f-ug--studien-im-ausland) \]
 
 ----
 
@@ -2351,7 +2351,7 @@
 
 > `(4)` Absolventinnen und Absolventen individueller Bachelorstudien ist vom für die studienrechtlichen Angelegenheiten zuständigen Organ jener Universität, an welcher der Schwerpunkt des Studiums gelegen ist, der akademische Grad „Bachelor“, abgekürzt, „BA“, Absolventinnen und Absolventen individueller Diplomstudien ist der akademische Grad „Magistra“ bzw\. „Magister“, abgekürzt, jeweils „Mag\.“ zu verleihen, Absolventinnen und Absolventen individueller Masterstudien ist der akademische Grad „Master“, abgekürzt, „MA“ zu verleihen\. Überwiegen in einem individuellen Diplom\- oder Masterstudium die Fächer aus ingenieurwissenschaftlichen Studien, ist den Absolventinnen und Absolventen der akademische Grad „Diplom\-Ingenieurin“ bzw\. „Diplom\-Ingenieur“, abgekürzt, jeweils „Dipl\.\-Ing\.“ oder „DI“ zu verleihen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-55-ug--individuelles-studium) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=55) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_77_TextContainer_77) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.008.md#-55-ug--individuelles-studium) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-55-ug--individuelles-studium) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=55) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_77_TextContainer_77) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.008.md#-55-ug--individuelles-studium) \]
 
 ----
 
@@ -2371,7 +2371,7 @@
 
 > `(7)` Im Curriculum eines Universitätslehrgangs kann eine Höchststudiendauer vorgesehen werden, die mindestens die vorgesehene Studienzeit zuzüglich zwei Semester umfasst\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-56-ug--universitätslehrgänge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=56) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_78_TextContainer_78) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.008.md#-56-ug--universitätslehrgänge) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-56-ug--universitätslehrgänge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=56) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_78_TextContainer_78) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.008.md#-56-ug--universitätslehrgänge) \]
 
 ----
 
@@ -2379,7 +2379,7 @@
 
 > Die Universitäten gemäß § 6 Abs\. 1 Z 16 bis 21 sind berechtigt, Vorbereitungslehrgänge zur Vorbereitung auf ein künstlerisches Bachelor\- oder Diplomstudium einzurichten\. Für Vorbereitungslehrgänge ist kein Lehrgangsbeitrag und kein Studienbeitrag einzuheben\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-57-ug--vorbereitungslehrgänge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=57) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_79_TextContainer_79) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.008.md#-57-ug--vorbereitungslehrgänge) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-57-ug--vorbereitungslehrgänge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=57) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_79_TextContainer_79) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.008.md#-57-ug--vorbereitungslehrgänge) \]
 
 ----
 
@@ -2409,7 +2409,7 @@
 
 > `(12)` Curricula sind so zu gestalten, dass die Verteilung der ECTS\-Anrechnungspunkte dem tatsächlichen Arbeitsaufwand entspricht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-58-ug--curricula) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=58) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_80_TextContainer_80) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.008.md#-58-ug--curricula) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-58-ug--curricula) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=58) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_80_TextContainer_80) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.008.md#-58-ug--curricula) \]
 
 ----
 
@@ -2467,7 +2467,7 @@
 
 > `(5)` Das Recht, als Vertreterin oder als Vertreter der Studierenden in Kollegialorganen tätig zu werden, richtet sich nach den Bestimmungen des HSG 2014\. Für Entsendungen in Kollegialorgane des Senates gemäß § 25 Abs\. 8 Z 1 bis 3 kann die Universität in der Satzung festlegen, dass fachlich in Frage kommende Kenntnisse im Ausmaß von bis zu 60 ECTS\-Anrechnungspunkten nachgewiesen werden müssen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-59-ug--rechte-und-pflichten-der-studierenden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=59) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_81_TextContainer_81) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-59-ug--rechte-und-pflichten-der-studierenden) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-59-ug--rechte-und-pflichten-der-studierenden) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=59) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_81_TextContainer_81) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-59-ug--rechte-und-pflichten-der-studierenden) \]
 
 ----
 
@@ -2483,7 +2483,7 @@
 
 > `(5)` Diese Bestimmung gilt nicht für Studierende mit einer Behinderung gemäß § 3 BGStG\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-59a-ug--mindeststudienleistung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=59a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_82_TextContainer_82) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-59a-ug--mindeststudienleistung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-59a-ug--mindeststudienleistung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=59a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_82_TextContainer_82) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-59a-ug--mindeststudienleistung) \]
 
 ----
 
@@ -2503,7 +2503,7 @@
 
 > *\(Beachte: 1\. Ist ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme\-, Eignungs\- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden \(vgl\. § 143 Abs\. 76\)\.2\. Ist für jene Studierenden anzuwenden, die ab dem Wintersemester 2022/23 zu einem Bachelor\- oder Diplomstudium zugelassen werden \(vgl\. § 143 Abs\. 78\)\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-59b-ug--unterstützungsleistungen-seitens-der-universität) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=59b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_83_TextContainer_83) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-59b-ug--unterstützungsleistungen-seitens-der-universität) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-59b-ug--unterstützungsleistungen-seitens-der-universität) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=59b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_83_TextContainer_83) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-59b-ug--unterstützungsleistungen-seitens-der-universität) \]
 
 ----
 
@@ -2567,7 +2567,7 @@
 
 > *\(Umsetzungshinweis: CELEX\-Nr\. 32021L1883\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-60-ug--zulassung-zum-studium) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=60) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_84_TextContainer_84) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-60-ug--zulassung-zum-studium) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-60-ug--zulassung-zum-studium) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=60) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_84_TextContainer_84) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-60-ug--zulassung-zum-studium) \]
 
 ----
 
@@ -2599,7 +2599,7 @@
 
 > *\(Beachte: Ist ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme\-, Eignungs\- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden \(vgl\. § 143 Abs\. 76\)\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-61-ug--zulassungsfristen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=61) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_85_TextContainer_85) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-61-ug--zulassungsfristen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-61-ug--zulassungsfristen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=61) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_85_TextContainer_85) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-61-ug--zulassungsfristen) \]
 
 ----
 
@@ -2617,7 +2617,7 @@
 
 > *\(Beachte: Zu Abs\. 1 und 3: sind ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme\-, Eignungs\- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden \(vgl\. § 143 Abs\. 76\)\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-62-ug--meldung-der-fortsetzung-des-studiums) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=62) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_86_TextContainer_86) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-62-ug--meldung-der-fortsetzung-des-studiums) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-62-ug--meldung-der-fortsetzung-des-studiums) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=62) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_86_TextContainer_86) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-62-ug--meldung-der-fortsetzung-des-studiums) \]
 
 ----
 
@@ -2693,7 +2693,7 @@
 
 > *\(Beachte: \[CELEX\-Nr\. 32021L1883\]\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-63-ug--zulassung-zu-ordentlichen-studien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=63) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_87_TextContainer_87) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-63-ug--zulassung-zu-ordentlichen-studien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-63-ug--zulassung-zu-ordentlichen-studien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=63) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_87_TextContainer_87) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-63-ug--zulassung-zu-ordentlichen-studien) \]
 
 ----
 
@@ -2717,7 +2717,7 @@
 
 > `(9)` § 71b Abs\. 7 ist mit Ausnahme der Z 4 anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-63a-ug--sonderbestimmung-für-die-zulassung-zu-master--und-doktoratsstudien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=63a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_88_TextContainer_88) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-63a-ug--sonderbestimmung-für-die-zulassung-zu-master--und-doktoratsstudien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-63a-ug--sonderbestimmung-für-die-zulassung-zu-master--und-doktoratsstudien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=63a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_88_TextContainer_88) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-63a-ug--sonderbestimmung-für-die-zulassung-zu-master--und-doktoratsstudien) \]
 
 ----
 
@@ -2755,7 +2755,7 @@
 
 > `(6)` Für die Zulassung zu kombinierten Master\- und Doktoratsstudien ist Abs\. 3 anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-64-ug--allgemeine-universitätsreife-universitätszugang) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=64) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_89_TextContainer_89) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-64-ug--allgemeine-universitätsreife-universitätszugang) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-64-ug--allgemeine-universitätsreife-universitätszugang) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=64) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_89_TextContainer_89) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-64-ug--allgemeine-universitätsreife-universitätszugang) \]
 
 ----
 
@@ -2829,7 +2829,7 @@
 
 > `(16)` Die Festlegung der Anzahl der Prüfungen nach Abs\. 5 Z 2 und 3 und die Festlegung der Pflichtfächer gemäß Abs\. 5 Z 2 für die jeweilige Studienrichtungsgruppe erfolgen durch Verordnung des Rektorates\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-64a-ug--studienberechtigungsprüfung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=64a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_90_TextContainer_90) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-64a-ug--studienberechtigungsprüfung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-64a-ug--studienberechtigungsprüfung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=64a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_90_TextContainer_90) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-64a-ug--studienberechtigungsprüfung) \]
 
 ----
 
@@ -2837,7 +2837,7 @@
 
 > Zusätzlich zur allgemeinen Universitätsreife sind die in der Universitätsberechtigungsverordnung – UBVO 1998, BGBl\. II Nr\. 44/1998, festgelegten Zusatzprüfungen zur Reifeprüfung für die darin festgelegten Studien nachzuweisen oder als Ergänzungsprüfungen abzulegen \(besondere Universitätsreife\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-65-ug--besondere-universitätsreife) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=65) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_91_TextContainer_91) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-65-ug--besondere-universitätsreife) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-65-ug--besondere-universitätsreife) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=65) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_91_TextContainer_91) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-65-ug--besondere-universitätsreife) \]
 
 ----
 
@@ -2853,7 +2853,7 @@
 
 > `(5)` Die näheren Bestimmungen über das Aufnahmeverfahren einschließlich der Feststellung der Eignung sind durch Verordnung des Rektorats festzulegen\. Bei gemeinsam eingerichteten Studien haben die Rektorate der beteiligten Bildungseinrichtungen gleichlautende Verordnungen zu erlassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-65a-ug--eignung-für-lehramtsstudien-und-studien-für-berufstätigkeiten-an-elementarpädagogischen-bildungseinrichtungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=65a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_92_TextContainer_92) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-65a-ug--eignung-für-lehramtsstudien-und-studien-für-berufstätigkeiten-an-elementarpädagogischen-bildungseinrichtungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-65a-ug--eignung-für-lehramtsstudien-und-studien-für-berufstätigkeiten-an-elementarpädagogischen-bildungseinrichtungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=65a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_92_TextContainer_92) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-65a-ug--eignung-für-lehramtsstudien-und-studien-für-berufstätigkeiten-an-elementarpädagogischen-bildungseinrichtungen) \]
 
 ----
 
@@ -2863,7 +2863,7 @@
 
 > `(2)` Aufnahmeverfahren für Studien sind unbeschränkt wiederholbar\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-65b-ug--rechtsschutz-bei-aufnahmeverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=65b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_93_TextContainer_93) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-65b-ug--rechtsschutz-bei-aufnahmeverfahren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-65b-ug--rechtsschutz-bei-aufnahmeverfahren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=65b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_93_TextContainer_93) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-65b-ug--rechtsschutz-bei-aufnahmeverfahren) \]
 
 ----
 
@@ -2883,7 +2883,7 @@
 
 > `(5)` Die Studieneingangs\- und Orientierungsphase dient der Orientierung über die wesentlichen Studieninhalte und nicht als quantitative Zugangsbeschränkung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-66-ug--studieneingangs--und-orientierungsphase) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=66) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_94_TextContainer_94) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-66-ug--studieneingangs--und-orientierungsphase) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-66-ug--studieneingangs--und-orientierungsphase) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=66) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_94_TextContainer_94) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-66-ug--studieneingangs--und-orientierungsphase) \]
 
 ----
 
@@ -2917,7 +2917,7 @@
 
 > *\(Beachte: Zu Abs\. 1 Z 6 und Abs\. 2: sind ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme\-, Eignungs\- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden \(vgl\. § 143 Abs\. 76\)\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-67-ug--beurlaubung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=67) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_95_TextContainer_95) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-67-ug--beurlaubung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-67-ug--beurlaubung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=67) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_95_TextContainer_95) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-67-ug--beurlaubung) \]
 
 ----
 
@@ -2947,7 +2947,7 @@
 
 > `(3)` Das Erlöschen der Zulassung in den Fällen des Abs\. 1 Z 3 und 7 sowie Abs\. 2 ist der oder dem betroffenen Studierenden schriftlich mitzuteilen\. Das Rektorat hat auf Antrag der oder des Studierenden einen Feststellungsbescheid zu erlassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-68-ug--erlöschen-der-zulassung-zu-ordentlichen-studien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=68) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_96_TextContainer_96) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-68-ug--erlöschen-der-zulassung-zu-ordentlichen-studien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-68-ug--erlöschen-der-zulassung-zu-ordentlichen-studien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=68) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_96_TextContainer_96) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-68-ug--erlöschen-der-zulassung-zu-ordentlichen-studien) \]
 
 ----
 
@@ -2955,7 +2955,7 @@
 
 > Beendet die oder der Studierende ein Studium, ohne das Studium erfolgreich abgeschlossen zu haben, so ist auf Antrag eine Abgangsbescheinigung auszustellen\. Diese hat alle Prüfungen, zu denen die oder der Studierende in diesem Studium angetreten ist, und deren Beurteilungen anzugeben\. Hinsichtlich der positiv beurteilten Prüfungen ist nur die positive Beurteilung anzugeben\. Zur Unterstützung der internationalen Mobilität der Studierenden ist der Anschluss einer fremdsprachigen Übersetzung zulässig, wobei die Benennung der Universität und des ausstellenden Organs nicht zu übersetzen sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-69-ug--abgangsbescheinigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=69) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_97_TextContainer_97) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-69-ug--abgangsbescheinigung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-69-ug--abgangsbescheinigung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=69) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_97_TextContainer_97) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-69-ug--abgangsbescheinigung) \]
 
 ----
 
@@ -2975,7 +2975,7 @@
 
 > `(3)` Nach dem Erlöschen der Zulassung wegen der negativen Beurteilung bei der letzten zulässigen Wiederholung einer Prüfung ist die neuerliche Zulassung für diesen Universitätslehrgang ausgeschlossen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-70-ug--zulassung-zu-außerordentlichen-studien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=70) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_98_TextContainer_98) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-70-ug--zulassung-zu-außerordentlichen-studien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-70-ug--zulassung-zu-außerordentlichen-studien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=70) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_98_TextContainer_98) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-70-ug--zulassung-zu-außerordentlichen-studien) \]
 
 ----
 
@@ -2999,7 +2999,7 @@
 
 > `(2)` Das Erlöschen der Zulassung ist in den Fällen des Abs\. 1 Z 3, 4 und 6 der oder dem betroffenen Studierenden schriftlich mitzuteilen\. Das Rektorat hat auf Antrag einen Feststellungsbescheid zu erlassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-71-ug--erlöschen-der-zulassung-zu-außerordentlichen-studien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=71) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_99_TextContainer_99) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-71-ug--erlöschen-der-zulassung-zu-außerordentlichen-studien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-71-ug--erlöschen-der-zulassung-zu-außerordentlichen-studien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=71) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_99_TextContainer_99) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.009.md#-71-ug--erlöschen-der-zulassung-zu-außerordentlichen-studien) \]
 
 ----
 
@@ -3013,7 +3013,7 @@
 >
 > *\(Beachte: zum Bezugszeitraum vgl\. § 143 Abs\. 50\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-71a-ug--ziele) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=71a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_100_TextContainer_100) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.010.md#-71a-ug--ziele) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-71a-ug--ziele) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=71a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_100_TextContainer_100) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.010.md#-71a-ug--ziele) \]
 
 ----
 
@@ -3069,7 +3069,7 @@
 
 > *\(Beachte: Zu Abs\. 7 Z 5  und Schlussteil: ist in dieser Fassung ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme\-, Eignungs\- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden \(vgl\. § 143 Abs\. 76\)\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-71b-ug--zulassung-zu-besonders-stark-nachgefragten-bachelor--und-diplomstudien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=71b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_101_TextContainer_101) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.010.md#-71b-ug--zulassung-zu-besonders-stark-nachgefragten-bachelor--und-diplomstudien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-71b-ug--zulassung-zu-besonders-stark-nachgefragten-bachelor--und-diplomstudien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=71b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_101_TextContainer_101) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.010.md#-71b-ug--zulassung-zu-besonders-stark-nachgefragten-bachelor--und-diplomstudien) \]
 
 ----
 
@@ -3101,7 +3101,7 @@
 
 > `(7)` Sofern in den Auswahlverfahren Prüfungen vorgesehen sind, gelten für die Wiederholungen die Bestimmungen dieses Bundesgesetzes\. Auch die Wiederholung positiv beurteilter Prüfungen ist zulässig\. Prüfungstermine sind grundsätzlich einmal im Semester anzubieten\. § 58 Abs\. 8 ist nicht anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-71c-ug--ergänzende-bestimmungen-für-die-zulassung-zu-den-vom-deutschen-numerus-clausus-betroffenen-studien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=71c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_102_TextContainer_102) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.010.md#-71c-ug--ergänzende-bestimmungen-für-die-zulassung-zu-den-vom-deutschen-numerus-clausus-betroffenen-studien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-71c-ug--ergänzende-bestimmungen-für-die-zulassung-zu-den-vom-deutschen-numerus-clausus-betroffenen-studien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=71c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_102_TextContainer_102) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.010.md#-71c-ug--ergänzende-bestimmungen-für-die-zulassung-zu-den-vom-deutschen-numerus-clausus-betroffenen-studien) \]
 
 ----
 
@@ -3128,7 +3128,7 @@
 
 > *\(Beachte: zum Bezugszeitraum vgl\. § 143 Abs\. 50\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-71d-ug--zulassung-zu-an-einer-universität-besonders-stark-nachgefragten-bachelor--und-diplomstudien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=71d) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_103_TextContainer_103) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.010.md#-71d-ug--zulassung-zu-an-einer-universität-besonders-stark-nachgefragten-bachelor--und-diplomstudien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-71d-ug--zulassung-zu-an-einer-universität-besonders-stark-nachgefragten-bachelor--und-diplomstudien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=71d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_103_TextContainer_103) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.010.md#-71d-ug--zulassung-zu-an-einer-universität-besonders-stark-nachgefragten-bachelor--und-diplomstudien) \]
 
 ----
 
@@ -3144,7 +3144,7 @@
 
 > `(5)` Es ist sicherzustellen, dass die Absolvierung eines Bachelorstudiums an der jeweiligen Universität jedenfalls ohne weitere Voraussetzungen zur Zulassung zu mindestens einem fachlich in Frage kommenden Masterstudium an der Universität oder bei gemeinsam eingerichteten Studien an einer der beteiligten Bildungseinrichtungen im Sinne von § 63a Abs\. 2 berechtigt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-71e-ug--zulassung-zu-an-einer-universität-besonders-stark-nachgefragten-masterstudien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=71e) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_104_TextContainer_104) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.010.md#-71e-ug--zulassung-zu-an-einer-universität-besonders-stark-nachgefragten-masterstudien) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-71e-ug--zulassung-zu-an-einer-universität-besonders-stark-nachgefragten-masterstudien) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=71e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_104_TextContainer_104) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.010.md#-71e-ug--zulassung-zu-an-einer-universität-besonders-stark-nachgefragten-masterstudien) \]
 
 ----
 
@@ -3162,7 +3162,7 @@
 
 > `(4)` Die Beurteilung der Praktika im Rahmen der pädagogisch\-praktischen Studien erfolgt durch die Lehrveranstaltungsleiterin oder den Lehrveranstaltungsleiter auf der Grundlage der schriftlichen Leistungsbeschreibung der Praxislehrerin oder des Praxislehrers oder der Mentorin oder des Mentors\. Führt die schriftliche Leistungsbeschreibung voraussichtlich zu einer negativen Beurteilung, hat die oder der Studierende das Recht, eine schriftliche Stellungnahme abzugeben\. § 46 Abs\. 1 bis 4 sowie § 214 des Beamten\-Dienstrechtsgesetzes 1979, BGBl\. Nr\. 333/1979, gilt für Studierende hinsichtlich im Curriculum verankerter Praktika an Schulen sinngemäß, wobei an die Stelle der Beamtin oder des Beamten bzw\. der Lehrerin oder des Lehrers die oder der Studierende tritt und an die Stelle der Dienstbehörde die zuständige Schulbehörde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-72-ug--feststellung-und-beurteilung-des-studienerfolgs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=72) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_105_TextContainer_105) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-72-ug--feststellung-und-beurteilung-des-studienerfolgs) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-72-ug--feststellung-und-beurteilung-des-studienerfolgs) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=72) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_105_TextContainer_105) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-72-ug--feststellung-und-beurteilung-des-studienerfolgs) \]
 
 ----
 
@@ -3180,7 +3180,7 @@
 
 > *\(Beachte: Ist ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme\-, Eignungs\- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden \(vgl\. § 143 Abs\. 76\)\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-72a-ug--gesamtnote) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=72a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_106_TextContainer_106) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-72a-ug--gesamtnote) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-72a-ug--gesamtnote) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=72a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_106_TextContainer_106) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-72a-ug--gesamtnote) \]
 
 ----
 
@@ -3196,7 +3196,7 @@
 
 > `(3)` Prüfungen, die außerhalb des Wirkungsbereiches einer Fortsetzungsmeldung abgelegt wurden, und Beurteilungen wissenschaftlicher sowie künstlerischer Arbeiten, die außerhalb des Wirkungsbereiches einer Fortsetzungsmeldung erfolgten, sind absolut nichtig\. Eine Anrechnung auf die Gesamtzahl der Wiederholungen erfolgt nicht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-73-ug--nichtigerklärung-von-beurteilungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=73) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_107_TextContainer_107) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-73-ug--nichtigerklärung-von-beurteilungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-73-ug--nichtigerklärung-von-beurteilungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=73) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_107_TextContainer_107) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-73-ug--nichtigerklärung-von-beurteilungen) \]
 
 ----
 
@@ -3233,7 +3233,7 @@
 
 > `(7)` Erfolgreich absolvierte Studien gemäß § 58 Abs\. 11 sind im studienabschließenden Zeugnis durch einen Hinweis auf die mit Bescheid modifizierten Anforderungen zu kennzeichnen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-74-ug--zeugnisse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=74) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_108_TextContainer_108) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-74-ug--zeugnisse) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-74-ug--zeugnisse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=74) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_108_TextContainer_108) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-74-ug--zeugnisse) \]
 
 ----
 
@@ -3249,7 +3249,7 @@
 
 > `(3)` Zulassungsprüfungen sind unbeschränkt wiederholbar\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-75-ug--zulassungs--und-ergänzungsprüfungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=75) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_109_TextContainer_109) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-75-ug--zulassungs--und-ergänzungsprüfungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-75-ug--zulassungs--und-ergänzungsprüfungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=75) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_109_TextContainer_109) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-75-ug--zulassungs--und-ergänzungsprüfungen) \]
 
 ----
 
@@ -3267,7 +3267,7 @@
 
 > *\(Beachte: Ist für Lehrveranstaltungen und Prüfungen ab dem Wintersemester 2021/22 anzuwenden \(vgl\. § 143 Abs\. 80\)\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-76-ug--lehrveranstaltungen-und-prüfungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=76) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_110_TextContainer_110) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-76-ug--lehrveranstaltungen-und-prüfungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-76-ug--lehrveranstaltungen-und-prüfungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=76) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_110_TextContainer_110) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-76-ug--lehrveranstaltungen-und-prüfungen) \]
 
 ----
 
@@ -3283,7 +3283,7 @@
 >
 > *\(Beachte: Ist für Lehrveranstaltungen und Prüfungen ab dem Wintersemester 2021/22 anzuwenden \(vgl\. § 143 Abs\. 80\)\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-76a-ug--sondervorschrift-für-die-durchführung-von-prüfungen-mit-mitteln-der-elektronischen-kommunikation) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=76a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_111_TextContainer_111) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-76a-ug--sondervorschrift-für-die-durchführung-von-prüfungen-mit-mitteln-der-elektronischen-kommunikation) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-76a-ug--sondervorschrift-für-die-durchführung-von-prüfungen-mit-mitteln-der-elektronischen-kommunikation) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=76a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_111_TextContainer_111) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-76a-ug--sondervorschrift-für-die-durchführung-von-prüfungen-mit-mitteln-der-elektronischen-kommunikation) \]
 
 ----
 
@@ -3301,7 +3301,7 @@
 
 > *\(Beachte: Zu Abs\. 2 letzter Satz, Abs\. 3 und 4: sind ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme\-, Eignungs\- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden \(vgl\. § 143 Abs\. 76\)\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-77-ug--wiederholung-von-prüfungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=77) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_112_TextContainer_112) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-77-ug--wiederholung-von-prüfungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-77-ug--wiederholung-von-prüfungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=77) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_112_TextContainer_112) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-77-ug--wiederholung-von-prüfungen) \]
 
 ----
 
@@ -3354,7 +3354,7 @@
 > `(5)` Auf Antrag ordentlicher Studierender, die Teile ihres Studiums im Ausland durchführen wollen, ist im Voraus mit Bescheid festzustellen, welche der geplanten Prüfungen und anderen Studienleistungen anerkannt werden\.
 > *\(Anm\.: Abs\. 6 aufgehoben durch Art\. 1 Z 70, BGBl\. I Nr\. 50/2024\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-78-ug--anerkennung-von-prüfungen-anderen-studienleistungen-tätigkeiten-und-kompetenzen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=78) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_113_TextContainer_113) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-78-ug--anerkennung-von-prüfungen-anderen-studienleistungen-tätigkeiten-und-kompetenzen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-78-ug--anerkennung-von-prüfungen-anderen-studienleistungen-tätigkeiten-und-kompetenzen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=78) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_113_TextContainer_113) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-78-ug--anerkennung-von-prüfungen-anderen-studienleistungen-tätigkeiten-und-kompetenzen) \]
 
 ----
 
@@ -3370,7 +3370,7 @@
 
 > `(5)` Der oder dem Studierenden ist Einsicht in die Beurteilungsunterlagen und in die Prüfungsprotokolle zu gewähren, wenn sie oder er dies innerhalb von sechs Monaten ab Bekanntgabe der Beurteilung verlangt\. Die Beurteilungsunterlagen umfassen auch die bei der betreffenden Prüfung gestellten Prüfungsfragen\. Die oder der Studierende ist berechtigt, diese Unterlagen zu vervielfältigen\. Vom Recht auf Vervielfältigung und einer Einsichtnahme mit Mitteln der elektronischen Kommunikation ausgenommen sind Multiple Choice\-Fragen sowie Fragen von strukturierten mündlichen Prüfungen inklusive der jeweiligen Antwortmöglichkeiten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-79-ug--rechtsschutz-bei-prüfungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=79) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_114_TextContainer_114) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-79-ug--rechtsschutz-bei-prüfungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-79-ug--rechtsschutz-bei-prüfungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=79) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_114_TextContainer_114) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-79-ug--rechtsschutz-bei-prüfungen) \]
 
 ----
 
@@ -3384,7 +3384,7 @@
 
 > `(2)` Bei der Bearbeitung des Themas und der Betreuung der Studierenden sind die Bestimmungen des Urheberrechtsgesetzes, BGBl\. Nr\. 111/1936, zu beachten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-80-ug--bachelorarbeiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=80) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_115_TextContainer_115) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-80-ug--bachelorarbeiten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-80-ug--bachelorarbeiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=80) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_115_TextContainer_115) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-80-ug--bachelorarbeiten) \]
 
 ----
 
@@ -3398,7 +3398,7 @@
 
 > `(4)` § 80 Abs\. 2 gilt auch für Diplom\- und Masterarbeiten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-81-ug--diplom--und-masterarbeiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=81) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_116_TextContainer_116) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-81-ug--diplom--und-masterarbeiten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-81-ug--diplom--und-masterarbeiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=81) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_116_TextContainer_116) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-81-ug--diplom--und-masterarbeiten) \]
 
 ----
 
@@ -3410,7 +3410,7 @@
 
 > `(3)` § 80 Abs\. 2 und § 81 Abs\. 3 gelten auch für künstlerische Diplom\- und Masterarbeiten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-82-ug--künstlerische-diplom--und-masterarbeiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=82) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_117_TextContainer_117) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-82-ug--künstlerische-diplom--und-masterarbeiten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-82-ug--künstlerische-diplom--und-masterarbeiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=82) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_117_TextContainer_117) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-82-ug--künstlerische-diplom--und-masterarbeiten) \]
 
 ----
 
@@ -3422,7 +3422,7 @@
 
 > *\(Beachte: Zu Abs\. 1 erster Satz: ist ab dem Studienjahr 2022/23 und die dafür durchzuführenden Aufnahme\-, Eignungs\- und Zulassungsverfahren und die Zulassungen für Studien für das Studienjahr 2022/23 anzuwenden \(vgl\. § 143 Abs\. 76\)\.\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-83-ug--dissertationen-und-künstlerische-dissertationen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=83) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_118_TextContainer_118) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-83-ug--dissertationen-und-künstlerische-dissertationen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-83-ug--dissertationen-und-künstlerische-dissertationen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=83) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_118_TextContainer_118) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-83-ug--dissertationen-und-künstlerische-dissertationen) \]
 
 ----
 
@@ -3432,7 +3432,7 @@
 
 > `(2)` Der oder dem Studierenden ist Einsicht in die Beurteilungsunterlagen zu gewähren, wenn sie oder er dies innerhalb von sechs Monaten ab Bekanntgabe der Beurteilung beantragt\. Die oder der Studierende ist berechtigt, diese Unterlagen zu vervielfältigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-84-ug--einsicht-in-die-beurteilungsunterlagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=84) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_119_TextContainer_119) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-84-ug--einsicht-in-die-beurteilungsunterlagen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-84-ug--einsicht-in-die-beurteilungsunterlagen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=84) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_119_TextContainer_119) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-84-ug--einsicht-in-die-beurteilungsunterlagen) \]
 
 ----
 
@@ -3442,7 +3442,7 @@
 
 > `(2)` Positiv beurteilte wissenschaftliche und künstlerische Arbeiten, die Studierende in einem Studium verfasst haben, das sie aus rechtlichen Gründen nicht mehr erfolgreich abschließen können, sind auf Antrag der oder des Studierenden von dem für die studienrechtlichen Angelegenheiten zuständigen Organ bescheidmäßig anzuerkennen, wenn sie den im Curriculum des Studiums, für das die Arbeit anerkannt werden soll, festgelegten Anforderungen einer wissenschaftlichen oder künstlerischen Arbeit entsprechen\. Die Anerkennung derartiger Arbeiten für mehr als ein Studium ist unzulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-85-ug--anerkennung-von-wissenschaftlichen-und-künstlerischen-arbeiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=85) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_120_TextContainer_120) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-85-ug--anerkennung-von-wissenschaftlichen-und-künstlerischen-arbeiten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-85-ug--anerkennung-von-wissenschaftlichen-und-künstlerischen-arbeiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=85) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_120_TextContainer_120) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-85-ug--anerkennung-von-wissenschaftlichen-und-künstlerischen-arbeiten) \]
 
 ----
 
@@ -3456,7 +3456,7 @@
 
 > `(4)` Anlässlich der Übergabe einer wissenschaftlichen oder künstlerischen Arbeit oder der Dokumentation der künstlerischen Arbeit ist die Verfasserin oder der Verfasser berechtigt, den Ausschluss der Benützung der abgelieferten Exemplare für längstens fünf Jahre nach der Übergabe zu beantragen\. Dem Antrag ist vom für die studienrechtlichen Angelegenheiten zuständigen Organ stattzugeben, wenn die oder der Studierende glaubhaft macht, dass wichtige rechtliche oder wirtschaftliche Interessen der oder des Studierenden gefährdet sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-86-ug--veröffentlichungspflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=86) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_121_TextContainer_121) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-86-ug--veröffentlichungspflicht) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-86-ug--veröffentlichungspflicht) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=86) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_121_TextContainer_121) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.011.md#-86-ug--veröffentlichungspflicht) \]
 
 ----
 
@@ -3508,7 +3508,7 @@
 
 > `(7)` Zur Unterstützung der internationalen Mobilität der Studierenden sowie der Absolventinnen und Absolventen ist dem Verleihungsbescheid ein Anhang \(Diploma Supplement\) gemäß Art\. IX\.3 des Übereinkommens über die Anerkennung von Qualifikationen im Hochschulbereich in der europäischen Region, BGBl\. III Nr\. 71/1999, anzuschließen\. Die Bundesministerin oder der Bundesminister für Frauen, Wissenschaft und Forschung hat durch eine Verordnung festzulegen, in welcher Form das Diploma Supplement auszustellen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-87-ug--verleihung-akademischer-grade) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=87) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_122_TextContainer_122) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.012.md#-87-ug--verleihung-akademischer-grade) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-87-ug--verleihung-akademischer-grade) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=87) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_122_TextContainer_122) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.012.md#-87-ug--verleihung-akademischer-grade) \]
 
 ----
 
@@ -3520,7 +3520,7 @@
 
 > `(3)` Den Urkunden über die Verleihung der Bezeichnung dürfen fremdsprachige Übersetzungen angeschlossen werden, wobei die Benennung der Universität und des ausstellenden Organs sowie die Bezeichnung selbst nicht zu übersetzen sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-87a-ug--festlegung-akademischer-bezeichnungen-für-die-absolventinnen-und-absolventen-von-universitätslehrgängen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=87a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_123_TextContainer_123) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.012.md#-87a-ug--festlegung-akademischer-bezeichnungen-für-die-absolventinnen-und-absolventen-von-universitätslehrgängen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-87a-ug--festlegung-akademischer-bezeichnungen-für-die-absolventinnen-und-absolventen-von-universitätslehrgängen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=87a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_123_TextContainer_123) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.012.md#-87a-ug--festlegung-akademischer-bezeichnungen-für-die-absolventinnen-und-absolventen-von-universitätslehrgängen) \]
 
 ----
 
@@ -3532,7 +3532,7 @@
 
 > `(2)` „Mag\.“, „Dr\.“ und „Dipl\.\-Ing\.“ \(„DI“\) sind im Falle der Führung dem Namen voranzustellen, die übrigen akademischen Grade sind dem Namen nachzustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-88-ug--führung-akademischer-grade) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=88) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_124_TextContainer_124) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.012.md#-88-ug--führung-akademischer-grade) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-88-ug--führung-akademischer-grade) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=88) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_124_TextContainer_124) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.012.md#-88-ug--führung-akademischer-grade) \]
 
 ----
 
@@ -3558,7 +3558,7 @@
 
 > `(2)` Die Aufhebung und Einziehung des Verleihungsbescheides aufgrund eines Plagiats in einer Bachelor\-, Diplom\- oder Masterarbeit ist nur im Zeitraum von zehn Jahren ab dem Zeitpunkt der Beurteilung der Bachelor\-, Diplom\- oder Masterarbeit zulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-89-ug--widerruf-inländischer-akademischer-grade-oder-akademischer-bezeichnungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=89) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_125_TextContainer_125) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.012.md#-89-ug--widerruf-inländischer-akademischer-grade-oder-akademischer-bezeichnungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-89-ug--widerruf-inländischer-akademischer-grade-oder-akademischer-bezeichnungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=89) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_125_TextContainer_125) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.012.md#-89-ug--widerruf-inländischer-akademischer-grade-oder-akademischer-bezeichnungen) \]
 
 ----
 
@@ -3582,7 +3582,7 @@
 
 > *\(Beachte: \[CELEX\-Nr\. 32021L1883\]\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-90-ug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=90) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_126_TextContainer_126) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.012.md#-90-ug) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-90-ug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=90) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_126_TextContainer_126) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.012.md#-90-ug) \]
 
 ----
 
@@ -3617,7 +3617,7 @@
 
 > *\(Umsetzungshinweis: CELEX\-Nr\. 32021L1883\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-91-ug--studienbeitrag) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=91) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_127_TextContainer_127) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.012.md#-91-ug--studienbeitrag) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-91-ug--studienbeitrag) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=91) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_127_TextContainer_127) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.012.md#-91-ug--studienbeitrag) \]
 
 ----
 
@@ -3655,7 +3655,7 @@
 
 > `(6)` Die Bundesministerin oder der Bundesminister für Frauen, Wissenschaft und Forschung ist berechtigt, entsprechend den Schwerpunktsetzungen Österreichs bei den Maßnahmen zur Unterstützung und Förderung der wirtschaftlichen und sozialen Entwicklung durch eine Verordnung Staaten festzulegen, deren Angehörige von der Entrichtung des Studienbeitrages befreit werden können\. Die Befreiung erfolgt im Rahmen der Privatwirtschaftsverwaltung auf Grund von Anträgen der Studierenden\. Über die Befreiung hat das Rektorat binnen vier Wochen ab Antragstellung zu entscheiden\. Auf die Befreiung besteht kein Rechtsanspruch\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-92-ug--erlass-und-rückerstattung-des-studienbeitrages) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=92) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_128_TextContainer_128) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.012.md#-92-ug--erlass-und-rückerstattung-des-studienbeitrages) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-92-ug--erlass-und-rückerstattung-des-studienbeitrages) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=92) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_128_TextContainer_128) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.012.md#-92-ug--erlass-und-rückerstattung-des-studienbeitrages) \]
 
 ----
 
@@ -3683,7 +3683,7 @@
 
 > `(2)` Für die Verleihung des akademischen Grades ist diesfalls die Zulassung zum Studium an der Universität nicht erforderlich\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-93-ug--sonderbestimmungen-für-die-katholische-theologie) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=93) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_129_TextContainer_129) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.012.md#-93-ug--sonderbestimmungen-für-die-katholische-theologie) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-93-ug--sonderbestimmungen-für-die-katholische-theologie) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=93) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_129_TextContainer_129) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.012.md#-93-ug--sonderbestimmungen-für-die-katholische-theologie) \]
 
 ----
 
@@ -3693,7 +3693,7 @@
 
 > `(2)` Die Einrichtung des gemeinsamen Bachelorstudiums der Humanmedizin gemäß Abs\. 1 steht abweichend von § 124 Abs\. 5 einer weiteren Zulassung zum Diplomstudium Humanmedizin an der Medizinischen Universität Graz nicht entgegen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-93a-ug--sonderbestimmungen-für-das-gemeinsame-studium-der-humanmedizin-an-der-universität-linz-und-der-medizinischen-universität-graz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=93a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_130_TextContainer_130) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.012.md#-93a-ug--sonderbestimmungen-für-das-gemeinsame-studium-der-humanmedizin-an-der-universität-linz-und-der-medizinischen-universität-graz) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-93a-ug--sonderbestimmungen-für-das-gemeinsame-studium-der-humanmedizin-an-der-universität-linz-und-der-medizinischen-universität-graz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=93a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_130_TextContainer_130) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.012.md#-93a-ug--sonderbestimmungen-für-das-gemeinsame-studium-der-humanmedizin-an-der-universität-linz-und-der-medizinischen-universität-graz) \]
 
 ----
 
@@ -3743,7 +3743,7 @@
 >
 >> `5.` die Ärztinnen und Ärzte zur ausschließlichen Erfüllung von Aufgaben im Rahmen einer öffentlichen Krankenanstalt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-94-ug--einteilung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=94) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_131_TextContainer_131) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.012.md#-94-ug--einteilung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-94-ug--einteilung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=94) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_131_TextContainer_131) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.012.md#-94-ug--einteilung) \]
 
 ----
 
@@ -3755,7 +3755,7 @@
 
 > Forschungsstipendiatinnen und Forschungsstipendiaten sind Studierende oder Absolventinnen und Absolventen eines Doktoratsstudiums \(post docs\), die an der Universität im Rahmen eines Stipendiums an einem Forschungsprojekt arbeiten\. Durch die Zuerkennung des Stipendiums wird kein Arbeitsverhältnis zur Universität begründet und ein bestehendes Arbeitsverhältnis nicht verändert\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-95-ug--forschungsstipendiatinnen-und-forschungsstipendiaten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=95) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_132_TextContainer_132) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.012.md#-95-ug--forschungsstipendiatinnen-und-forschungsstipendiaten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-95-ug--forschungsstipendiatinnen-und-forschungsstipendiaten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=95) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_132_TextContainer_132) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.012.md#-95-ug--forschungsstipendiatinnen-und-forschungsstipendiaten) \]
 
 ----
 
@@ -3765,7 +3765,7 @@
 
 > `(2)` In Ausbildungsverhältnissen gemäß Abs\. 1 verbrachte Zeiten sind für die höchstzulässige Anzahl von Befristungen und die höchstzulässige Gesamtdauer gemäß § 109 nicht zu berücksichtigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-96-ug--ärztinnen-und-ärzte-in-ausbildung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=96) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_133_TextContainer_133) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.012.md#-96-ug--ärztinnen-und-ärzte-in-ausbildung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-96-ug--ärztinnen-und-ärzte-in-ausbildung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=96) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_133_TextContainer_133) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.012.md#-96-ug--ärztinnen-und-ärzte-in-ausbildung) \]
 
 ----
 
@@ -3781,7 +3781,7 @@
 
 > `(3)` Universitätsprofessorinnen und Universitätsprofessoren werden von der Rektorin oder vom Rektor nach Durchführung eines Berufungsverfahrens gemäß § 98 oder § 99 bestellt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-97-ug--universitätsprofessorinnen-und-universitätsprofessoren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=97) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_134_TextContainer_134) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.013.md#-97-ug--universitätsprofessorinnen-und-universitätsprofessoren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-97-ug--universitätsprofessorinnen-und-universitätsprofessoren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=97) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_134_TextContainer_134) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.013.md#-97-ug--universitätsprofessorinnen-und-universitätsprofessoren) \]
 
 ----
 
@@ -3815,7 +3815,7 @@
 
 > `(13)` Die Lehrbefugnis \(venia docendi\) einer Universitätsprofessorin oder eines Universitätsprofessors in einem zeitlich befristeten Arbeitsverhältnis erlischt mit dem Ende des Arbeitsverhältnisses\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-98-ug--berufungsverfahren-für-universitätsprofessorinnen-und-universitätsprofessoren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=98) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_135_TextContainer_135) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.013.md#-98-ug--berufungsverfahren-für-universitätsprofessorinnen-und-universitätsprofessoren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-98-ug--berufungsverfahren-für-universitätsprofessorinnen-und-universitätsprofessoren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=98) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_135_TextContainer_135) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.013.md#-98-ug--berufungsverfahren-für-universitätsprofessorinnen-und-universitätsprofessoren) \]
 
 ----
 
@@ -3836,7 +3836,7 @@
 
 > `(7)` Die gemäß Abs\. 4 und 5 durchgeführten Verfahren sind im Abstand von fünf Jahren einer Evaluierung zu unterziehen\. Diese Evaluierung ist durch die Bundesministerin oder den Bundesminister zu veranlassen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-99-ug--abgekürztes-berufungsverfahren-für-universitätsprofessorinnen-und-universitätsprofessoren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=99) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_136_TextContainer_136) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.013.md#-99-ug--abgekürztes-berufungsverfahren-für-universitätsprofessorinnen-und-universitätsprofessoren) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-99-ug--abgekürztes-berufungsverfahren-für-universitätsprofessorinnen-und-universitätsprofessoren) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=99) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_136_TextContainer_136) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.013.md#-99-ug--abgekürztes-berufungsverfahren-für-universitätsprofessorinnen-und-universitätsprofessoren) \]
 
 ----
 
@@ -3848,7 +3848,7 @@
 
 > `(3)` Wurde ein befristeter Arbeitsvertrag abgeschlossen, so ist eine unbefristete Verlängerung durch die Rektorin oder den Rektor nur nach Durchführung einer Qualifikationsprüfung zulässig\. Inhalt der Qualifikationsprüfung ist die Qualität der wissenschaftlichen, wissenschaftlich\-künstlerischen oder künstlerischen Leistungen, der Leistungen in der Lehre sowie der sonstigen Tätigkeiten\. Die Durchführung der Qualifikationsprüfung hat internationalen Standards zu entsprechen, wobei die näheren Bestimmungen dafür in der Satzung festzulegen sind\. Der Antrag auf unbefristete Verlängerung kann nach dem vollendeten vierten Jahr gestellt werden\. Der Arbeitskreis für Gleichbehandlungsfragen ist in das Verfahren einzubeziehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-99a-ug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=99a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_137_TextContainer_137) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.013.md#-99a-ug) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-99a-ug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=99a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_137_TextContainer_137) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.013.md#-99a-ug) \]
 
 ----
 
@@ -3872,7 +3872,7 @@
 
 > `(6)` § 98 ArbVG \(personelles Informationsrecht\) gilt auch für die Gruppe der nebenberuflich tätigen Personen, selbst wenn ein freies Dienstverhältnis oder eine selbständige Tätigkeit vorliegt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-100-ug--wissenschaftliche-und-künstlerische-mitarbeiterinnen-und-mitarbeiter-im-forschungs--kunst--und-lehrbetrieb) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=100) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_138_TextContainer_138) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.013.md#-100-ug--wissenschaftliche-und-künstlerische-mitarbeiterinnen-und-mitarbeiter-im-forschungs--kunst--und-lehrbetrieb) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-100-ug--wissenschaftliche-und-künstlerische-mitarbeiterinnen-und-mitarbeiter-im-forschungs--kunst--und-lehrbetrieb) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=100) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_138_TextContainer_138) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.013.md#-100-ug--wissenschaftliche-und-künstlerische-mitarbeiterinnen-und-mitarbeiter-im-forschungs--kunst--und-lehrbetrieb) \]
 
 ----
 
@@ -3888,7 +3888,7 @@
 
 > `(3)` Für das Bibliothekspersonal aller Universitäten ist eine einheitliche Ausbildung aus dem Bereich Bibliotheks\-, Informations\- und Dokumentationswesen vorzusehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-101-ug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=101) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_139_TextContainer_139) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.013.md#-101-ug) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-101-ug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=101) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_139_TextContainer_139) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.013.md#-101-ug) \]
 
 ----
 
@@ -3900,7 +3900,7 @@
 
 > Privatdozentinnen und Privatdozenten sind Personen, denen auf Grund ihrer wissenschaftlichen oder künstlerischen Qualifikation von der Universität die Lehrbefugnis \(venia docendi\) für ein wissenschaftliches oder künstlerisches Fach verliehen wurde\. Sie stehen in dieser Funktion in keinem Arbeitsverhältnis zur Universität\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-102-ug--privatdozentinnen-und-privatdozenten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=102) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_140_TextContainer_140) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.013.md#-102-ug--privatdozentinnen-und-privatdozenten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-102-ug--privatdozentinnen-und-privatdozenten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=102) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_140_TextContainer_140) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.013.md#-102-ug--privatdozentinnen-und-privatdozenten) \]
 
 ----
 
@@ -3936,7 +3936,7 @@
 
 > `(11)` Durch die Erteilung der Lehrbefugnis \(venia docendi\) wird weder ein Arbeitsverhältnis begründet, noch ein bestehendes Arbeitsverhältnis zur Universität verändert \(Privatdozentin oder Privatdozent\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-103-ug--habilitation) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=103) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_141_TextContainer_141) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.013.md#-103-ug--habilitation) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-103-ug--habilitation) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=103) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_141_TextContainer_141) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.013.md#-103-ug--habilitation) \]
 
 ----
 
@@ -3946,7 +3946,7 @@
 
 > `(2)` Sie haben das Recht, ihre Lehrbefugnis \(venia docendi\) an der Universität, an der sie vor ihrer Emeritierung oder vor ihrem Übertritt oder ihrer Versetzung in den Ruhestand in einem aktiven Arbeitsverhältnis tätig waren, weiter auszuüben und im Rahmen ihrer Lehrbefugnis Lehrveranstaltungen und Prüfungen abzuhalten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-104-ug--emeritierte-universitätsprofessorinnen-und-universitätsprofessoren-sowie-universitätsprofessorinnen-und-universitätsprofessoren-im-ruhestand) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=104) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_142_TextContainer_142) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.013.md#-104-ug--emeritierte-universitätsprofessorinnen-und-universitätsprofessoren-sowie-universitätsprofessorinnen-und-universitätsprofessoren-im-ruhestand) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-104-ug--emeritierte-universitätsprofessorinnen-und-universitätsprofessoren-sowie-universitätsprofessorinnen-und-universitätsprofessoren-im-ruhestand) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=104) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_142_TextContainer_142) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.013.md#-104-ug--emeritierte-universitätsprofessorinnen-und-universitätsprofessoren-sowie-universitätsprofessorinnen-und-universitätsprofessoren-im-ruhestand) \]
 
 ----
 
@@ -3958,7 +3958,7 @@
 
 > Keine Universitätsangehörige und kein Universitätsangehöriger darf gegen ihr oder sein Gewissen zur Mitwirkung bei einzelnen wissenschaftlichen oder künstlerischen Arbeiten verhalten werden\. Aus einer Weigerung zur Mitwirkung darf ihr oder ihm kein Nachteil erwachsen\. Die oder der betroffene Universitätsangehörige hat jedoch ihre oder seine Vorgesetzte oder ihren oder seinen Vorgesetzten von ihrer oder seiner Weigerung schriftlich zu informieren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-105-ug--gewissensfreiheit-und-forschungsfreiheit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=105) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_143_TextContainer_143) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.013.md#-105-ug--gewissensfreiheit-und-forschungsfreiheit) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-105-ug--gewissensfreiheit-und-forschungsfreiheit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=105) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_143_TextContainer_143) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.013.md#-105-ug--gewissensfreiheit-und-forschungsfreiheit) \]
 
 ----
 
@@ -3970,7 +3970,7 @@
 
 > `(3)` Jede Diensterfindung ist dem Rektorat unverzüglich zur Kenntnis zu bringen\. Will die Universität die Diensterfindung zur Gänze oder ein Benützungsrecht daran für sich in Anspruch nehmen, hat das Rektorat dies der Erfinderin oder dem Erfinder innerhalb von drei Monaten mitzuteilen\. Andernfalls steht dieses Recht der Erfinderin oder dem Erfinder zu\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-106-ug--verwertung-von-geistigem-eigentum) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=106) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_144_TextContainer_144) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.013.md#-106-ug--verwertung-von-geistigem-eigentum) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-106-ug--verwertung-von-geistigem-eigentum) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=106) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_144_TextContainer_144) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.013.md#-106-ug--verwertung-von-geistigem-eigentum) \]
 
 ----
 
@@ -3996,7 +3996,7 @@
 
 > `(5)` Arbeitsverträge von Universitätsprofessorinnen und Universitätsprofessoren sind von der Rektorin oder vom Rektor nach Durchführung des Berufungsverfahrens gemäß §§ 98 oder 99 abzuschließen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-107-ug--ausschreibung-und-aufnahme) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=107) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_145_TextContainer_145) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-107-ug--ausschreibung-und-aufnahme) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-107-ug--ausschreibung-und-aufnahme) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=107) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_145_TextContainer_145) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-107-ug--ausschreibung-und-aufnahme) \]
 
 ----
 
@@ -4013,7 +4013,7 @@
 
 > *\(Beachte: Abs\. 2 und 3 sind für die Universität für Weiterbildung Krems insofern ab dem 1\. Jänner 2022 anzuwenden, als die Universität für Weiterbildung Krems ab dem 1\. Jänner 2022 dem Dachverband der Universitäten angehört \(vgl\. § 143 Abs\. 71\)\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-108-ug--rechtsgrundlagen-der-arbeitsverhältnisse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=108) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_146_TextContainer_146) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-108-ug--rechtsgrundlagen-der-arbeitsverhältnisse) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-108-ug--rechtsgrundlagen-der-arbeitsverhältnisse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=108) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_146_TextContainer_146) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-108-ug--rechtsgrundlagen-der-arbeitsverhältnisse) \]
 
 ----
 
@@ -4021,7 +4021,7 @@
 
 > Arbeitnehmerinnen und Arbeitnehmer, die einer Einrichtung für Gerichtliche Medizin zugeordnet sind, haben im Rahmen ihrer Aufgaben an der Erstellung von Gutachten und Befunden im gerichtlichen Verfahren mitzuwirken\. Auftraggeberin für die Gutachten und Befunde ist die jeweils zuständige Ermittlungs\- oder Justizbehörde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-108a-ug--gesetzliche-sonderregelung-für-angehörige-von-einrichtungen-für-gerichtliche-medizin) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=108a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_147_TextContainer_147) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-108a-ug--gesetzliche-sonderregelung-für-angehörige-von-einrichtungen-für-gerichtliche-medizin) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-108a-ug--gesetzliche-sonderregelung-für-angehörige-von-einrichtungen-für-gerichtliche-medizin) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=108a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_147_TextContainer_147) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-108a-ug--gesetzliche-sonderregelung-für-angehörige-von-einrichtungen-für-gerichtliche-medizin) \]
 
 ----
 
@@ -4047,7 +4047,7 @@
 
 > *\(Beachte: zum Bezugszeitraum vgl\. § 143 Abs\. 83\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-109-ug--dauer-der-arbeitsverhältnisse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=109) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_148_TextContainer_148) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-109-ug--dauer-der-arbeitsverhältnisse) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-109-ug--dauer-der-arbeitsverhältnisse) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=109) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_148_TextContainer_148) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-109-ug--dauer-der-arbeitsverhältnisse) \]
 
 ----
 
@@ -4099,7 +4099,7 @@
 >
 >> `3.` der Gesundheitszustand von Nachtarbeitnehmerinnen oder Nachtarbeitnehmern nicht entsprechend den Bestimmungen des Abs\. 9 untersucht wird\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-110-ug--gesetzliche-sonderregelungen-zur-arbeitszeit-und-arbeitsruhe-für-das-wissenschaftliche-und-künstlerische-universitätspersonal) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=110) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_149_TextContainer_149) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-110-ug--gesetzliche-sonderregelungen-zur-arbeitszeit-und-arbeitsruhe-für-das-wissenschaftliche-und-künstlerische-universitätspersonal) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-110-ug--gesetzliche-sonderregelungen-zur-arbeitszeit-und-arbeitsruhe-für-das-wissenschaftliche-und-künstlerische-universitätspersonal) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=110) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_149_TextContainer_149) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-110-ug--gesetzliche-sonderregelungen-zur-arbeitszeit-und-arbeitsruhe-für-das-wissenschaftliche-und-künstlerische-universitätspersonal) \]
 
 ----
 
@@ -4107,7 +4107,7 @@
 
 > Das allgemeine Universitätspersonal, dessen Mitarbeit zur Unterstützung und Aufrechterhaltung des Lehrbetriebs oder des Forschungs\- oder Kunstbetriebs unbedingt erforderlich ist, darf während der Wochenend\- und Feiertagsruhe gemäß §§ 3 und 7 ARG beschäftigt werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-111-ug--gesetzliche-sonderregelungen-zur-arbeitsruhe-für-das-allgemeine-universitätspersonal) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=111) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_150_TextContainer_150) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-111-ug--gesetzliche-sonderregelungen-zur-arbeitsruhe-für-das-allgemeine-universitätspersonal) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-111-ug--gesetzliche-sonderregelungen-zur-arbeitsruhe-für-das-allgemeine-universitätspersonal) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=111) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_150_TextContainer_150) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-111-ug--gesetzliche-sonderregelungen-zur-arbeitsruhe-für-das-allgemeine-universitätspersonal) \]
 
 ----
 
@@ -4115,7 +4115,7 @@
 
 > Eine Kündigung oder Entlassung einer oder eines Angehörigen des wissenschaftlichen oder künstlerischen Universitätspersonals ist unwirksam, wenn die Kündigung wegen einer von ihr oder ihm in Forschung \(Entwicklung und Erschließung der Künste\) oder Lehre vertretenen Auffassung oder Methode erfolgt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-113-ug--erweiterter-kündigungs--und-entlassungsschutz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=113) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_151_TextContainer_151) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-113-ug--erweiterter-kündigungs--und-entlassungsschutz) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-113-ug--erweiterter-kündigungs--und-entlassungsschutz) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=113) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_151_TextContainer_151) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-113-ug--erweiterter-kündigungs--und-entlassungsschutz) \]
 
 ----
 
@@ -4125,7 +4125,7 @@
 
 > `(2)` Ist eine Ausübung des öffentlichen Amtes neben der Erfüllung der Pflichten aus dem Arbeitsverhältnis zur Universität nicht möglich, ist die Arbeitnehmerin oder der Arbeitnehmer auf Antrag gänzlich oder teilweise bei entsprechender Kürzung oder Entfall des Entgelts freizustellen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-114-ug--übernahme-von-öffentlichen-ämtern) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=114) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_152_TextContainer_152) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-114-ug--übernahme-von-öffentlichen-ämtern) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-114-ug--übernahme-von-öffentlichen-ämtern) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=114) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_152_TextContainer_152) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-114-ug--übernahme-von-öffentlichen-ämtern) \]
 
 ----
 
@@ -4133,7 +4133,7 @@
 
 > Durch Kollektivvertrag ist jedenfalls für das wissenschaftliche und künstlerische Universitätspersonal eine Pensionskassenzusage oder die Zusage einer betrieblichen Kollektivversicherung im Sinne des Betriebspensionsgesetzes, BGBl\. Nr\. 282/1990, vorzusehen\. Auch für das allgemeine Universitätspersonal kann eine Pensionskassenzusage oder die Zusage einer betrieblichen Kollektivversicherung im Sinne des Betriebspensionsgesetzes vorgesehen werden\. An jeder Universität kann nur jeweils eines der genannten Systeme zur Anwendung kommen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-115-ug--pensionskassensystem-und-betriebliche-kollektivversicherung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=115) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_153_TextContainer_153) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-115-ug--pensionskassensystem-und-betriebliche-kollektivversicherung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-115-ug--pensionskassensystem-und-betriebliche-kollektivversicherung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=115) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_153_TextContainer_153) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-115-ug--pensionskassensystem-und-betriebliche-kollektivversicherung) \]
 
 ----
 
@@ -4165,7 +4165,7 @@
 
 > `(3)` Unberechtigt ist die Führung insbesondere dann, wenn der akademische Grad oder die gleiche oder ähnliche Bezeichnung nicht auf Grund entsprechender Studien\- und Prüfungsleistungen oder wissenschaftlicher oder künstlerischer Leistungen, sondern aufgrund eines Plagiates erlangt wurde\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-116-ug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=116) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_154_TextContainer_154) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-116-ug) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-116-ug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=116) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_154_TextContainer_154) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-116-ug) \]
 
 ----
 
@@ -4185,7 +4185,7 @@
 
 > `(7)` Wer eine Tat gemäß Abs\. 1, 3 oder 4 ausführt, begeht, wenn die Tat nicht den Tatbestand einer in die Zuständigkeit der Gerichte fallenden strafbaren Handlung bildet oder nach anderen Verwaltungsbestimmungen mit strengerer Strafe bedroht ist, eine Verwaltungsübertretung, die von der örtlich zuständigen Bezirksverwaltungsbehörde zu bestrafen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-116a-ug--ghostwriting) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=116a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_155_TextContainer_155) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-116a-ug--ghostwriting) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-116a-ug--ghostwriting) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=116a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_155_TextContainer_155) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-116a-ug--ghostwriting) \]
 
 ----
 
@@ -4197,7 +4197,7 @@
 
 > Die Universitäten sind insbesondere im Rahmen ihrer Mietrechte verpflichtet, für eine optimale Raumnutzung zu universitären Zwecken zu sorgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-117-ug--raumnutzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=117) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_156_TextContainer_156) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-117-ug--raumnutzung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-117-ug--raumnutzung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=117) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_156_TextContainer_156) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-117-ug--raumnutzung) \]
 
 ----
 
@@ -4205,7 +4205,7 @@
 
 > Von der BIG oder von anderen Dritten angemietete Liegenschaften, Bauwerke und Räumlichkeiten, die kurzfristig nicht zu universitären Zwecken benötigt werden, dürfen an Dritte weitergegeben werden, soweit dies auf Grund des Mietvertrags und des Mietrechtsgesetzes – MRG, BGBl\. Nr\. 520/1981 zulässig ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-118-ug--mietrechte-an-objekten-der-big-und-anderer-eigentümer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=118) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_157_TextContainer_157) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-118-ug--mietrechte-an-objekten-der-big-und-anderer-eigentümer) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-118-ug--mietrechte-an-objekten-der-big-und-anderer-eigentümer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=118) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_157_TextContainer_157) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-118-ug--mietrechte-an-objekten-der-big-und-anderer-eigentümer) \]
 
 ----
 
@@ -4231,7 +4231,7 @@
 
 > `(10)` Die Bundesministerin oder der Bundesminister hat mit Bescheid die Rechtswidrigkeit einer Handlung eines Universitätsorgans festzustellen, wenn diese Handlung im Widerspruch zu dieser Bestimmung oder der Verordnung des Bundesministers für Bildung, Wissenschaft und Forschung über das Verfahren zur Planung und Abwicklung von Immobilienprojekten an Universitäten \(Universitäten\-Immobilienverordnung – Uni\-ImmoV\) steht oder wenn das Universitätsorgan die Vornahme einer gebotenen Handlung im Sinne der zitierten Bestimmungen unterlassen hat\. Im Bescheid kann eine vorzeitige Beendigung oder eine zeitliche Nachreihung des betroffenen Immobilienprojekts oder nachfolgender Immobilienprojekte der Universität bei der Einordnung in den gesamtösterreichischen Bauleitplan angeordnet werden\. Frustrierte Aufwendungen sind grundsätzlich von der Universität zu tragen\. Bei wesentlichen Änderungen der dem Immobilienprojekt zugrundeliegenden Voraussetzungen kann eine neuerliche Bewertung durch die Bundesministerin oder den Bundesminister erfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-118a-ug--immobilienbewirtschaftung-der-universitäten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=118a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_158_TextContainer_158) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-118a-ug--immobilienbewirtschaftung-der-universitäten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-118a-ug--immobilienbewirtschaftung-der-universitäten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=118a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_158_TextContainer_158) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.014.md#-118a-ug--immobilienbewirtschaftung-der-universitäten) \]
 
 ----
 
@@ -4277,7 +4277,7 @@
 
 > `(12)` Die Funktion des Gründungskonvents endet mit Ablauf des 31\. Dezember 2003\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-120-ug--gründungskonvent) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=120) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_159_TextContainer_159) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.015.md#-120-ug--gründungskonvent) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-120-ug--gründungskonvent) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=120) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_159_TextContainer_159) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.015.md#-120-ug--gründungskonvent) \]
 
 ----
 
@@ -4335,7 +4335,7 @@
 
 > `(25)` Die Bestimmungen dieses Bundesgesetzes werden an den Universitäten mit 1\. Jänner 2004 voll wirksam\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-121-ug--implementierungsschritte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=121) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_160_TextContainer_160) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.015.md#-121-ug--implementierungsschritte) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-121-ug--implementierungsschritte) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=121) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_160_TextContainer_160) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.015.md#-121-ug--implementierungsschritte) \]
 
 ----
 
@@ -4403,7 +4403,7 @@
 
 > `(7)` Universitätsdozentinnen und Universitätsdozenten gemäß Abs\. 2 Z 14 sowie Honorarprofessorinnen und Honorarprofessoren gemäß Abs\. 2 Z 15 bleibt das Recht gewahrt, die wissenschaftliche oder künstlerische Lehre in ihrem Fach an der Universität, die ihnen die Lehrbefugnis verliehen hat, mittels der Einrichtungen der Universität frei auszuüben sowie wissenschaftliche oder künstlerische Arbeiten \(§§ 81 bis 83, § 124\) zu betreuen und zu beurteilen\. Darüber hinaus haben sie das Recht, auf dem Gebiet ihrer Lehrbefugnis Lehrveranstaltungen auch an anderen Universitäten, zu deren Wirkungsbereich das Fachgebiet ihrer Lehrbefugnis gehört, anzukündigen und nach Maßgabe der räumlichen Möglichkeiten abzuhalten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-122-ug--überleitung-der-universitätsangehörigen-gemäß-uog-1993-und-kuog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=122) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_161_TextContainer_161) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.015.md#-122-ug--überleitung-der-universitätsangehörigen-gemäß-uog-1993-und-kuog) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-122-ug--überleitung-der-universitätsangehörigen-gemäß-uog-1993-und-kuog) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=122) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_161_TextContainer_161) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.015.md#-122-ug--überleitung-der-universitätsangehörigen-gemäß-uog-1993-und-kuog) \]
 
 ----
 
@@ -4411,7 +4411,7 @@
 
 > Berufungskommissionen, Habilitationskommissionen und besondere Habilitationskommissionen, die vor dem vollen Wirksamwerden dieses Bundesgesetzes an der betreffenden Universität oder Universität der Künste konstituiert wurden und ihre Tätigkeit bereits aufgenommen haben, haben das Verfahren in ihrer bisherigen Zusammensetzung und nach den bisherigen Bestimmungen durchzuführen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-123-ug--übergangsbestimmungen-für-berufungskommissionen-habilitationskommissionen-und-besondere-habilitationskommissionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=123) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_162_TextContainer_162) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.015.md#-123-ug--übergangsbestimmungen-für-berufungskommissionen-habilitationskommissionen-und-besondere-habilitationskommissionen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-123-ug--übergangsbestimmungen-für-berufungskommissionen-habilitationskommissionen-und-besondere-habilitationskommissionen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=123) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_162_TextContainer_162) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.015.md#-123-ug--übergangsbestimmungen-für-berufungskommissionen-habilitationskommissionen-und-besondere-habilitationskommissionen) \]
 
 ----
 
@@ -4419,7 +4419,7 @@
 
 > Die gemäß § 29 Abs\. 9 vorletzter Satz konkret betrauten Bediensteten des Rechtsträgers einer Krankenanstalt sind in den ersten drei Jahren ab dem im Organisationsplan der Universität vorgesehenen Zeitpunkt der Einrichtung einer Medizinischen Fakultät organisationsrechtlich nur dann den Universitätsangehörigen gemäß § 94 Abs\. 2 Z 2 gleichgestellt, wenn sie in einem Durchrechnungszeitraum von 26 Wochen mindestens 30 vH der Normalarbeitszeit bezogen auf die jeweilige Organisationseinheit mit Aufgaben der universitären Lehre und Forschung betraut werden\. In Ausnahmefällen kann das Rektorat auf Antrag von gemäß § 29 Abs\. 9 vorletzter Satz konkret betrauten Bediensteten des Rechtsträgers einer Krankenanstalt in den ersten drei Jahren ab dem im Organisationsplan der Universität vorgesehenen Zeitpunkt der Einrichtung einer Medizinischen Fakultät diesen die Angehörigeneigenschaft zuerkennen, wenn dies im universitären Interesse ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-123a-ug--übergangsbestimmungen-für-die-errichtung-einer-medizinischen-fakultät) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=123a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_163_TextContainer_163) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.015.md#-123a-ug--übergangsbestimmungen-für-die-errichtung-einer-medizinischen-fakultät) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-123a-ug--übergangsbestimmungen-für-die-errichtung-einer-medizinischen-fakultät) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=123a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_163_TextContainer_163) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.015.md#-123a-ug--übergangsbestimmungen-für-die-errichtung-einer-medizinischen-fakultät) \]
 
 ----
 
@@ -4437,7 +4437,7 @@
 
 > `(6)` Die Abs\. 2 und 3 gelten sinngemäß auch für Habilitationsverfahren gemäß § 103, solange an der Medizinischen Fakultät noch kein entsprechender Fachbereich besteht\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-123b-ug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=123b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_164_TextContainer_164) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.015.md#-123b-ug) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-123b-ug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=123b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_164_TextContainer_164) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.015.md#-123b-ug) \]
 
 ----
 
@@ -4480,7 +4480,7 @@
 
 > `(15)` Ordentliche Studierende, die Doktoratsstudien betreiben, welche mit einem Arbeitsaufwand von mindestens 120 ECTS\-Anrechnungspunkten vor dem Inkrafttreten des § 54 Abs\. 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 74/2006 eingerichtet wurden, sind berechtigt, diese Studien bis längstens 30\. November 2017 nach diesen Vorschriften abzuschließen\. Ab dem Studienjahr 2009/10 darf eine Zulassung zu einem Doktoratsstudium, dessen Mindeststudiendauer weniger als drei Jahre beträgt, nicht mehr erfolgen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-124-ug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=124) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_165_TextContainer_165) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.015.md#-124-ug) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-124-ug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=124) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_165_TextContainer_165) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.015.md#-124-ug) \]
 
 ----
 
@@ -4520,7 +4520,7 @@
 
 > `(15)` Soll eine Universitätsdozentin oder ein Universitätsdozent an jener Universität, der sie oder er zur Dienstleistung zugewiesen ist, in ein Arbeitsverhältnis als Universitätsprofessorin oder Universitätsprofessor gemäß §§ 97 ff aufgenommen werden, ist die Anwendung des § 160 BDG 1979 zulässig\. Im Falle der Gewährung einer Freistellung unter Beibehaltung der Bezüge gelten aus dem Arbeitsverhältnis gebührende, den fortgezahlten Bezug übersteigende Leistungen als Entgelt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-125-ug--beamtinnen-und-beamte-des-bundes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=125) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_166_TextContainer_166) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.016.md#-125-ug--beamtinnen-und-beamte-des-bundes) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-125-ug--beamtinnen-und-beamte-des-bundes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=125) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_166_TextContainer_166) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.016.md#-125-ug--beamtinnen-und-beamte-des-bundes) \]
 
 ----
 
@@ -4542,7 +4542,7 @@
 
 > `(8)` Aus Anlass des Ausscheidens aus dem Bundesdienstverhältnis gemäß Abs\. 1 bis 3 und des Übertritts gemäß Abs\. 5 oder 7 gebührt keine Abfertigung gemäß § 35 des Vertragsbedienstetengesetzes 1948\. Die im vorangegangenen Dienstverhältnis zurückgelegte Dienstzeit ist für alle zeitabhängigen Rechte zu berücksichtigen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-126-ug--vertragsbedienstete-des-bundes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=126) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_167_TextContainer_167) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.016.md#-126-ug--vertragsbedienstete-des-bundes) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-126-ug--vertragsbedienstete-des-bundes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=126) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_167_TextContainer_167) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.016.md#-126-ug--vertragsbedienstete-des-bundes) \]
 
 ----
 
@@ -4550,7 +4550,7 @@
 
 > Hinsichtlich der Rechtsstellung der Lehrlinge des Bundes, die am Tag vor dem vollen Wirksamwerden dieses Bundesgesetzes an der Universität in einem Ausbildungsverhältnis gemäß Berufsausbildungsgesetz, BGBl\. Nr\. 142/1969, stehen, tritt nach dem Stichtag keine Änderung ein\. Die Universität tritt in die Ausbildungsverpflichtung des Bundes ein\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-127-ug--lehrlinge-des-bundes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=127) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_168_TextContainer_168) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.016.md#-127-ug--lehrlinge-des-bundes) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-127-ug--lehrlinge-des-bundes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=127) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_168_TextContainer_168) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.016.md#-127-ug--lehrlinge-des-bundes) \]
 
 ----
 
@@ -4558,7 +4558,7 @@
 
 > Für ab dem Zeitpunkt des vollen Wirksamwerdens dieses Bundesgesetzes an der Universität neu aufgenommene Arbeitnehmerinnen und Arbeitnehmer gilt bis zum In\-Kraft\-Treten eines Kollektivvertrags gemäß § 108 Abs\. 3 das Vertragsbedienstetengesetz 1948 mit Ausnahme der §§ 4, 32 und 34 als Inhalt des Arbeitsvertrags mit der Universität\. § 108a ist anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-128-ug--neuaufnahmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=128) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_169_TextContainer_169) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.016.md#-128-ug--neuaufnahmen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-128-ug--neuaufnahmen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=128) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_169_TextContainer_169) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.016.md#-128-ug--neuaufnahmen) \]
 
 ----
 
@@ -4568,7 +4568,7 @@
 
 > `(2)` Anwartschaften auf Abfertigungen und Jubiläumszuwendungen von Arbeitnehmerinnen und Arbeitnehmern gemäß Abs\. 1 werden von der Universität übernommen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-129-ug--haftungen-des-bundes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=129) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_170_TextContainer_170) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.016.md#-129-ug--haftungen-des-bundes) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-129-ug--haftungen-des-bundes) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=129) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_170_TextContainer_170) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.016.md#-129-ug--haftungen-des-bundes) \]
 
 ----
 
@@ -4576,7 +4576,7 @@
 
 > Die am Tag vor dem vollen Wirksamwerden dieses Bundesgesetzes an der Universität bestehenden Forderungen des Bundes aus dem Titel gewährter Vorschüsse sowie allfällige Rückersatzansprüche nach dem Amtshaftungsgesetz, BGBl\. Nr\. 20/1949, Organhaftpflichtgesetz, BGBl\. Nr\. 181/1967, oder Dienstnehmerhaftpflichtgesetz, BGBl\. Nr\. 80/1965, gegenüber Arbeitnehmerinnen und Arbeitnehmern der Universität, die aus einem Beamtendienstverhältnis in ein Arbeitsverhältnis zur Universität überwechseln oder aus einem Dienstverhältnis als Vertragsbedienstete oder Vertragsbediensteter in ein Arbeitsverhältnis zur Universität übergeführt werden, gehen mit dem Entstehen dieser Arbeitnehmerschaft auf die Universität über und sind von dieser dem Bund zu refundieren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-130-ug--forderungen-des-bundes-gegenüber-den-bediensteten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=130) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_171_TextContainer_171) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.016.md#-130-ug--forderungen-des-bundes-gegenüber-den-bediensteten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-130-ug--forderungen-des-bundes-gegenüber-den-bediensteten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=130) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_171_TextContainer_171) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.016.md#-130-ug--forderungen-des-bundes-gegenüber-den-bediensteten) \]
 
 ----
 
@@ -4584,7 +4584,7 @@
 
 > Beamtinnen oder Beamte, die in ein Arbeitsverhältnis zur Universität überwechseln, und Vertragsbedienstete, die in ein Arbeitsverhältnis zur Universität überführt werden, sind hinsichtlich der Nutzung von Dienst\- oder Naturalwohnungen so zu behandeln, als ob sie Bundesbedienstete wären\. Dadurch wird kein Bestandsverhältnis an der Wohnung begründet, die Bestimmungen des § 80 des Beamten\-Dienstrechtsgesetzes 1979, BGBl\. Nr\. 333, und der §§ 24a bis 24c des Gehaltsgesetzes 1956, BGBl\. Nr\. 54, finden weiterhin sinngemäß Anwendung\. Die Rechte des Dienstgebers im Sinne des § 80 des Beamten\-Dienstrechtsgesetzes 1979 nimmt die Bundesministerin oder der Bundesminister wahr\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-131-ug--übergang-der-dienst--und-naturalwohnungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=131) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_172_TextContainer_172) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.016.md#-131-ug--übergang-der-dienst--und-naturalwohnungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-131-ug--übergang-der-dienst--und-naturalwohnungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=131) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_172_TextContainer_172) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.016.md#-131-ug--übergang-der-dienst--und-naturalwohnungen) \]
 
 ----
 
@@ -4594,7 +4594,7 @@
 
 > `(2)` Die §§ 6 bis 6g und 7 des Bundesgesetzes über die Abgeltung von wissenschaftlichen und künstlerischen Tätigkeiten an Universitäten und Universitäten der Künste, BGBl\. Nr\. 463/1974, sind auf die im Abs\. 1 genannten Mitarbeiterinnen und Mitarbeiter bis zum Ablauf ihres Ausbildungsverhältnisses weiter anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-132-ug--wissenschaftliche-künstlerische-mitarbeiterinnen-und-mitarbeiter-in-ausbildung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=132) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_173_TextContainer_173) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.016.md#-132-ug--wissenschaftliche-künstlerische-mitarbeiterinnen-und-mitarbeiter-in-ausbildung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-132-ug--wissenschaftliche-künstlerische-mitarbeiterinnen-und-mitarbeiter-in-ausbildung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=132) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_173_TextContainer_173) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.016.md#-132-ug--wissenschaftliche-künstlerische-mitarbeiterinnen-und-mitarbeiter-in-ausbildung) \]
 
 ----
 
@@ -4606,7 +4606,7 @@
 
 > `(3)` Die §§ 1, 1a, 1b, 2, 2a, 3 und 7 des Bundesgesetzes über die Abgeltung von wissenschaftlichen und künstlerischen Tätigkeiten an Universitäten und Universitäten der Künste sind auf die im Abs\. 1 genannten Personen bis zum Ablauf ihres besonderen Rechtsverhältnisses weiter anzuwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-133-ug--personen-in-einem-besonderen-rechtsverhältnis-zum-bund) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=133) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_174_TextContainer_174) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.016.md#-133-ug--personen-in-einem-besonderen-rechtsverhältnis-zum-bund) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-133-ug--personen-in-einem-besonderen-rechtsverhältnis-zum-bund) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=133) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_174_TextContainer_174) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.016.md#-133-ug--personen-in-einem-besonderen-rechtsverhältnis-zum-bund) \]
 
 ----
 
@@ -4618,7 +4618,7 @@
 
 > `(3)` Angestellte, die in einem Arbeitsverhältnis zu einer teilrechtsfähigen Interuniversitären Einrichtung stehen, werden mit dem Tag des vollen Wirksamwerdens dieses Bundesgesetzes an jener Universität, welche die Nachfolgeeinrichtung dieser Interuniversitären Einrichtung ist, zu deren Arbeitnehmerinnen oder Arbeitnehmern\. Ab diesem Zeitpunkt setzt diese Universität als Arbeitgeberin die Rechte und Pflichten der teilrechtsfähigen Interuniversitären Einrichtung fort\. Ein im Rahmen der Teilrechtsfähigkeit befristet abgeschlossenes Arbeitsverhältnis endet mit Zeitablauf\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-134-ug--angestellte-im-rahmen-der-teilrechtsfähigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=134) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_175_TextContainer_175) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.016.md#-134-ug--angestellte-im-rahmen-der-teilrechtsfähigkeit) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-134-ug--angestellte-im-rahmen-der-teilrechtsfähigkeit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=134) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_175_TextContainer_175) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.016.md#-134-ug--angestellte-im-rahmen-der-teilrechtsfähigkeit) \]
 
 ----
 
@@ -4648,7 +4648,7 @@
 
 > `(10)` Die Vorsitzenden der beiden in Abs\. 3 genannten Betriebsräte jeder Universität gemäß § 6 Abs\. 1 sind berechtigt, bei Bedarf zum Zweck des Erfahrungs\- und Meinungsaustausches über die beruflichen, wirtschaftlichen, sozialen, kulturellen und gesundheitlichen Interessen der von diesen Betriebsräten zu vertretenden Arbeitnehmerinnen bzw\. Arbeitnehmer zu einer Konferenz der Vorsitzenden der Betriebsräte für das wissenschaftliche und künstlerische Universitätspersonal bzw\. einer Konferenz der Vorsitzenden der Betriebsräte für das allgemeine Universitätspersonal zusammenzutreten\. Nähere Regelungen treffen die betreffenden Vorsitzenden jeweils durch eine Geschäftsordnung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-135-ug--interessenvertretung-der-arbeitnehmerinnen-und-arbeitnehmer-der-universität) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=135) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_176_TextContainer_176) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.016.md#-135-ug--interessenvertretung-der-arbeitnehmerinnen-und-arbeitnehmer-der-universität) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-135-ug--interessenvertretung-der-arbeitnehmerinnen-und-arbeitnehmer-der-universität) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=135) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_176_TextContainer_176) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.016.md#-135-ug--interessenvertretung-der-arbeitnehmerinnen-und-arbeitnehmer-der-universität) \]
 
 ----
 
@@ -4680,7 +4680,7 @@
 
 > `(11)` Die Universität Graz ist die Gesamtrechtsnachfolgerin des Interuniversitären Universitäts\-Sportinstituts in Graz\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-136-ug--nachfolgeeinrichtungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=136) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_177_TextContainer_177) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-136-ug--nachfolgeeinrichtungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-136-ug--nachfolgeeinrichtungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=136) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_177_TextContainer_177) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-136-ug--nachfolgeeinrichtungen) \]
 
 ----
 
@@ -4690,7 +4690,7 @@
 
 > `(2)` Zu dem im Abs\. 1 genannten Stichtag tritt die Universität auch als Verpächterin oder Leihgeberin an Stelle des Bundes in die bestehenden Pacht\- und Leihverträge ein\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-137-ug--übergang-von-mietrechten-an-liegenschaften-bauwerken-und-räumlichkeiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=137) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_178_TextContainer_178) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-137-ug--übergang-von-mietrechten-an-liegenschaften-bauwerken-und-räumlichkeiten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-137-ug--übergang-von-mietrechten-an-liegenschaften-bauwerken-und-räumlichkeiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=137) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_178_TextContainer_178) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-137-ug--übergang-von-mietrechten-an-liegenschaften-bauwerken-und-räumlichkeiten) \]
 
 ----
 
@@ -4698,7 +4698,7 @@
 
 > Das Mietrecht geht auf jene Universität über, der die Liegenschaft, das Gebäude oder die einzelnen Räumlichkeiten am Tag vor dem Stichtag zur ausschließlichen und dauerhaften Nutzung zugeordnet war oder waren\. Ist eine Liegenschaft, ein Bauwerk oder sind einzelne Räumlichkeiten mehreren Universitäten zur gemeinsamen dauerhaften Nutzung überlassen, geht das Mietrecht auf jene Universität über, die das Objekt im Beobachtungszeitraum zwischen 1\. Jänner 2001 und 30\. September 2003 überwiegend genutzt hat\. Für die Medizinischen Universitäten gelten für diesen Beobachtungszeitraum die Nutzungen der jeweiligen Medizinischen Fakultät\. Ist eine Liegenschaft, ein Bauwerk oder sind einzelne Räumlichkeiten mehreren Universitäten zur gemeinsamen dauerhaften Nutzung überlassen, wird jener Universität das Hauptmietrecht eingeräumt, die das Objekt im Beobachtungszeitraum zwischen dem 1\. Jänner 2001 und dem 30\. September 2003 überwiegend genutzt hat\. Die anderen Universitäten erhalten ein Untermietrecht und bezahlen einen Untermietzins in der Höhe des Hauptmietzinses\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-138-ug--rechtsnachfolge-bei-gemeinsam-genutzten-liegenschaften-bauwerken-und-räumlichkeiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=138) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_179_TextContainer_179) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-138-ug--rechtsnachfolge-bei-gemeinsam-genutzten-liegenschaften-bauwerken-und-räumlichkeiten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-138-ug--rechtsnachfolge-bei-gemeinsam-genutzten-liegenschaften-bauwerken-und-räumlichkeiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=138) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_179_TextContainer_179) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-138-ug--rechtsnachfolge-bei-gemeinsam-genutzten-liegenschaften-bauwerken-und-räumlichkeiten) \]
 
 ----
 
@@ -4714,7 +4714,7 @@
 
 > `(5)` Hinsichtlich des Eigentums an den Sammlungen der Gemäldegalerie und des Kupferstichkabinetts der Akademie der bildenden Künste Wien tritt abweichend von Abs\. 1 bis 3 keine Änderung ein\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-139-ug--übertragung-der-im-eigentum-des-bundes-stehenden-mobilien-auf-die-universitäten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=139) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_180_TextContainer_180) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-139-ug--übertragung-der-im-eigentum-des-bundes-stehenden-mobilien-auf-die-universitäten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-139-ug--übertragung-der-im-eigentum-des-bundes-stehenden-mobilien-auf-die-universitäten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=139) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_180_TextContainer_180) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-139-ug--übertragung-der-im-eigentum-des-bundes-stehenden-mobilien-auf-die-universitäten) \]
 
 ----
 
@@ -4728,7 +4728,7 @@
 
 > `(4)` Die Universitäten haben dafür zu sorgen, dass bestehenden Auflagen, Bedingungen und Widmungen bestmöglich entsprochen wird\. Eine interne personenbezogene Drittmittel\-Zuweisung des damit verbundenen Vermögenswertes ist dadurch nicht ausgeschlossen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-140-ug--übertragung-der-im-eigentum-teilrechtsfähiger-einrichtungen-der-universitäten-und-universitäten-der-künste-stehenden-immobilien-mobilien-und-rechte-auf-die-universitäten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=140) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_181_TextContainer_181) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-140-ug--übertragung-der-im-eigentum-teilrechtsfähiger-einrichtungen-der-universitäten-und-universitäten-der-künste-stehenden-immobilien-mobilien-und-rechte-auf-die-universitäten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-140-ug--übertragung-der-im-eigentum-teilrechtsfähiger-einrichtungen-der-universitäten-und-universitäten-der-künste-stehenden-immobilien-mobilien-und-rechte-auf-die-universitäten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=140) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_181_TextContainer_181) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-140-ug--übertragung-der-im-eigentum-teilrechtsfähiger-einrichtungen-der-universitäten-und-universitäten-der-künste-stehenden-immobilien-mobilien-und-rechte-auf-die-universitäten) \]
 
 ----
 
@@ -4744,7 +4744,7 @@
 
 > `(3)` Die Rechte und Pflichten aus den Leistungsvereinbarungen der beteiligten Universitäten gehen mit dem Zeitpunkt des Wirksamwerdens der Vereinigung gemäß § 6 Abs\. 3 bis 6 auf die rechtsnachfolgende Universität über\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-140a-ug--rechtsnachfolge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=140a) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_182_TextContainer_182) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-140a-ug--rechtsnachfolge) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-140a-ug--rechtsnachfolge) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=140a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_182_TextContainer_182) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-140a-ug--rechtsnachfolge) \]
 
 ----
 
@@ -4754,7 +4754,7 @@
 
 > `(2)` Bis längstens drei Jahre ab dem Zeitpunkt des Wirksamwerdens der Vereinigung gemäß § 6 Abs\. 3 bis 6 sind von den zuständigen Organen der rechtsnachfolgenden Universität eine Satzung, ein Entwicklungs\- sowie ein Organisationsplan zu beschließen und im Mitteilungsblatt zu verlautbaren\. Die vorläufige gemeinsame Satzung gemäß Abs\. 1 sowie der vorläufige Organisations\- sowie Entwicklungsplan gemäß § 6 Abs\. 5 Z 3 bleiben bis zu diesem Zeitpunkt in Geltung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-140b-ug--übergangsbestimmungen-für-die-satzung-den-organisations--und-den-entwicklungsplan) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=140b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_183_TextContainer_183) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-140b-ug--übergangsbestimmungen-für-die-satzung-den-organisations--und-den-entwicklungsplan) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-140b-ug--übergangsbestimmungen-für-die-satzung-den-organisations--und-den-entwicklungsplan) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=140b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_183_TextContainer_183) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-140b-ug--übergangsbestimmungen-für-die-satzung-den-organisations--und-den-entwicklungsplan) \]
 
 ----
 
@@ -4764,7 +4764,7 @@
 
 > `(2)` Zu dem im Abs\. 1 genannten Stichtag tritt die rechtsnachfolgende Universität auch als Verpächterin oder Leihgeberin anstelle der beteiligten Universitäten in die bestehenden Pacht\- und Leihverträge ein\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-140c-ug--übergang-von-mietrechten-an-liegenschaften-bauwerken-und-räumlichkeiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=140c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_184_TextContainer_184) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-140c-ug--übergang-von-mietrechten-an-liegenschaften-bauwerken-und-räumlichkeiten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-140c-ug--übergang-von-mietrechten-an-liegenschaften-bauwerken-und-räumlichkeiten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=140c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_184_TextContainer_184) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-140c-ug--übergang-von-mietrechten-an-liegenschaften-bauwerken-und-räumlichkeiten) \]
 
 ----
 
@@ -4776,7 +4776,7 @@
 
 > `(3)` Eine an einer beteiligten Universität verliehene Lehrbefugnis \(§ 103\) gilt ab dem Zeitpunkt des Wirksamwerdens der Vereinigung gemäß § 6 Abs\. 3 bis 6 als von der rechtsnachfolgenden Universität verliehene Lehrbefugnis\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-140d-ug--überleitung-des-personals) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=140d) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_185_TextContainer_185) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-140d-ug--überleitung-des-personals) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-140d-ug--überleitung-des-personals) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=140d) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_185_TextContainer_185) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-140d-ug--überleitung-des-personals) \]
 
 ----
 
@@ -4786,7 +4786,7 @@
 
 > `(2)` Hinsichtlich der Betriebsvereinbarungen der beteiligten Universitäten gilt § 31 Abs\. 7 ArbVG\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-140e-ug--übergangsbestimmungen-für-die-interessenvertretung-der-arbeitnehmerinnen-und-arbeitnehmer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=140e) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_186_TextContainer_186) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-140e-ug--übergangsbestimmungen-für-die-interessenvertretung-der-arbeitnehmerinnen-und-arbeitnehmer) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-140e-ug--übergangsbestimmungen-für-die-interessenvertretung-der-arbeitnehmerinnen-und-arbeitnehmer) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=140e) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_186_TextContainer_186) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-140e-ug--übergangsbestimmungen-für-die-interessenvertretung-der-arbeitnehmerinnen-und-arbeitnehmer) \]
 
 ----
 
@@ -4794,7 +4794,7 @@
 
 > Die an den beteiligten Universitäten eingerichteten Diplom\-, Bachelor\-, Master\- und Doktoratsstudien gelten ab dem Wirksamwerden der Vereinigung gemäß § 6 Abs\. 3 bis 6 als an der rechtsnachfolgenden Universität eingerichtet\. Auf diese Studien sind die jeweiligen Curricula in der zum Zeitpunkt des Wirksamwerdens der Vereinigung geltenden Fassung weiterhin anzuwenden, und diese Studienpläne dürfen gemäß § 25 Abs\. 1 Z 10 auch abgeändert werden\. An Absolventinnen und Absolventen dieser Studien sind jeweils jene akademischen Grade zu verleihen, die zum Zeitpunkt des Wirksamwerdens der Vereinigung für die jeweiligen Studien vorgesehen sind\. § 80 bis § 80b UniStG sind sinngemäß anzuwenden\. Werden an Stelle bestehender Studien gemäß § 54 Abs\. 1 Bachelor\- und Masterstudien eingerichtet, so sind in den Curricula den § 80 Abs\. 2 und § 80a Abs\. 2 UniStG entsprechende Übergangsbestimmungen vorzusehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-140f-ug--studienrechtliche-übergangsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=140f) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_187_TextContainer_187) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-140f-ug--studienrechtliche-übergangsbestimmungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-140f-ug--studienrechtliche-übergangsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=140f) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_187_TextContainer_187) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-140f-ug--studienrechtliche-übergangsbestimmungen) \]
 
 ----
 
@@ -4802,7 +4802,7 @@
 
 > Die rechtsnachfolgende Universität und die beteiligten Universitäten gemäß § 6 Abs\. 3 bis 6 sind hinsichtlich der Vereinigung von allen dadurch entstehenden Gebühren und Abgaben befreit\. Davon ausgenommen sind Gerichts\- und Justizverwaltungsgebühren\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-140g-ug--sonstige-bestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=140g) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_188_TextContainer_188) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-140g-ug--sonstige-bestimmungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-140g-ug--sonstige-bestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=140g) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_188_TextContainer_188) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-140g-ug--sonstige-bestimmungen) \]
 
 ----
 
@@ -4810,7 +4810,7 @@
 
 > Zivilrechtliche Vertragsverhältnisse zwischen der rechtsnachfolgenden Universität und den beteiligten Universitäten erlöschen mit dem Wirksamwerden der Vereinigung \(§ 1445 Abs\. 1 ABGB\)\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-140h-ug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=140h) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_189_TextContainer_189) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-140h-ug) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-140h-ug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=140h) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_189_TextContainer_189) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-140h-ug) \]
 
 ----
 
@@ -4841,7 +4841,7 @@
 
 > *\(Beachte: zum Bezugszeitraum vgl\. § 143 Abs\. 49\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-141-ug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=141) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_190_TextContainer_190) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-141-ug) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-141-ug) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=141) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_190_TextContainer_190) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-141-ug) \]
 
 ----
 
@@ -4853,7 +4853,7 @@
 
 > Der Gesamtbetrag zur Finanzierung der Universitäten \(§ 12 Abs\. 2\) beträgt für die Leistungsvereinbarungsperiode 2019 bis 2021 11 004 600 000 €\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-141b-ug--leistungsvereinbarungen-für-den-zeitraum-2019-bis-2021) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=141b) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_191_TextContainer_191) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-141b-ug--leistungsvereinbarungen-für-den-zeitraum-2019-bis-2021) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-141b-ug--leistungsvereinbarungen-für-den-zeitraum-2019-bis-2021) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=141b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_191_TextContainer_191) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-141b-ug--leistungsvereinbarungen-für-den-zeitraum-2019-bis-2021) \]
 
 ----
 
@@ -4863,7 +4863,7 @@
 >
 > *\(Anm\.: Abs\. 2 und 3 aufgehoben durch BGBl\. I Nr 8/2018\)*
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-141c-ug--implementierung-der-kapazitätsorientierten-studierendenbezogenen-universitätsfinanzierung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=141c) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_192_TextContainer_192) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-141c-ug--implementierung-der-kapazitätsorientierten-studierendenbezogenen-universitätsfinanzierung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-141c-ug--implementierung-der-kapazitätsorientierten-studierendenbezogenen-universitätsfinanzierung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=141c) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_192_TextContainer_192) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.017.md#-141c-ug--implementierung-der-kapazitätsorientierten-studierendenbezogenen-universitätsfinanzierung) \]
 
 ----
 
@@ -4879,7 +4879,7 @@
 
 > `(3)` Wird in anderen Bundesgesetzen auf Bestimmungen verwiesen, an deren Stelle mit dem In\-Kraft\-Treten dieses Bundesgesetzes neue Bestimmungen wirksam werden, sind diese Verweisungen auf die entsprechenden neuen Bestimmungen zu beziehen\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-142-ug--verweisungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=142) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_193_TextContainer_193) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.018.md#-142-ug--verweisungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-142-ug--verweisungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=142) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_193_TextContainer_193) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.018.md#-142-ug--verweisungen) \]
 
 ----
 
@@ -5136,7 +5136,7 @@
 
 > `(105)` Beim Abschluss von Arbeitsverträgen für Angehörige des wissenschaftlichen und künstlerischen Personals gemäß § 94 Abs\. 2 im Zeitraum vom 1\. Juli 2025 bis 30\. September 2026 mit Personen, deren Mittelpunkt ihrer Forschungs\- und Lehrtätigkeit in den vergangenen 24 Monaten vor Abschluss des Arbeitsvertrages in den Vereinigten Staaten von Amerika lag, kann die Rektorin oder der Rektor von der Anwendung der Bestimmungen des § 13b Abs\. 3 Z 8, des § 98 Abs\. 2 und des § 107 Abs\. 1 absehen\. Der Abschluss von Arbeitsverträgen gemäß § 99a ist im genannten Zeitraum für die betreffende Personengruppe bis höchstens 10 vH der Stellen der Universitätsprofessorinnen und Universitätsprofessoren gemäß § 98 zulässig, auch wenn eine entsprechende Festlegung im Entwicklungsplan gemäß § 13b Abs\. 3 Z 10 nicht erfolgt ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-143-ug--inkrafttreten-und-außerkrafttreten-von-rechtsvorschriften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=143) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_194_TextContainer_194) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.018.md#-143-ug--inkrafttreten-und-außerkrafttreten-von-rechtsvorschriften) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-143-ug--inkrafttreten-und-außerkrafttreten-von-rechtsvorschriften) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=143) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_194_TextContainer_194) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.018.md#-143-ug--inkrafttreten-und-außerkrafttreten-von-rechtsvorschriften) \]
 
 ----
 
@@ -5162,4 +5162,4 @@
 >
 >> `9.` im Übrigen die Bundesministerin oder der Bundesminister für Frauen, Wissenschaft und Forschung\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-144-ug--vollziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=144) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_195_TextContainer_195) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.018.md#-144-ug--vollziehung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.md#-144-ug--vollziehung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128&Paragraf=144) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20002128#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_195_TextContainer_195) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.UG.018.md#-144-ug--vollziehung) \]

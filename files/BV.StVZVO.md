@@ -2,8 +2,8 @@
 **Typ:** Verordnung eines Bundesministeriums  
 **Kurztitel:** StVZVO  
 **Langtitel:** Verordnung des Bundesministers für Wissenschaft und Verkehr über Straßenverkehrszeichen (Straßenverkehrszeichenverordnung 1998 – StVZVO 1998)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
-**Quelle:** https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
+**Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793  
 **Letzte Änderung im RIS:** BGBl. II Nr. 292/2013  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md  
 *Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
@@ -57,7 +57,7 @@ Auf Grund des § 34 Abs. 1 Straßenverkehrsordnung 1960, BGBl. Nr. 159, zule
 
 > Diese Verordnung findet auf alle Straßenverkehrszeichen Anwendung, die nach Maßgabe des § 32 StVO 1960 angebracht werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#-1-stvzvo--anwendungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=1) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.001.md#-1-stvzvo--anwendungsbereich) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#-1-stvzvo--anwendungsbereich) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793&Paragraf=1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_1_TextContainer_1) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.001.md#-1-stvzvo--anwendungsbereich) \]
 
 ----
 
@@ -65,7 +65,7 @@ Auf Grund des § 34 Abs. 1 Straßenverkehrsordnung 1960, BGBl. Nr. 159, zule
 
 > Die Straßenverkehrszeichen sind als Schilder aus form\- und witterungsbeständigem Material herzustellen, wobei die Rückseite blendfrei sein muß; Reflexstoffe \(§ 4\) sind auf solchem Material anzubringen\. Straßenverkehrszeichen können beleuchtet \(§ 5\), rückstrahlend \(§ 4\) oder als optische oder elektronische Anzeigevorrichtung \(§ 48 Abs\. 1a StVO\) ausgeführt sein\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#-2-stvzvo--allgemeine-beschaffenheit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=2) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.001.md#-2-stvzvo--allgemeine-beschaffenheit) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#-2-stvzvo--allgemeine-beschaffenheit) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793&Paragraf=2) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_2_TextContainer_2) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.001.md#-2-stvzvo--allgemeine-beschaffenheit) \]
 
 ----
 
@@ -77,7 +77,7 @@ Auf Grund des § 34 Abs. 1 Straßenverkehrsordnung 1960, BGBl. Nr. 159, zule
 
 > `(3)` Das verwendete Farbmaterial muß lichtecht und entsprechend dauerhaft sein\. Der Farbton darf sich nach dem Aufbringen des Farbmaterials auf das Straßenverkehrszeichen nur in einem solchen Ausmaß ändern, daß er immer noch innerhalb der in Anlage 1 Tabelle 1 angegebenen Farbbereiche liegt\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#-3-stvzvo--farben) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=3) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.001.md#-3-stvzvo--farben) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#-3-stvzvo--farben) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793&Paragraf=3) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_3_TextContainer_3) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.001.md#-3-stvzvo--farben) \]
 
 ----
 
@@ -99,7 +99,7 @@ Auf Grund des § 34 Abs. 1 Straßenverkehrsordnung 1960, BGBl. Nr. 159, zule
 
 > `(5)` Für Straßenverkehrszeichen gemäß § 50 Z 6a bis d, 11, 11a und 12, § 52 lit\. a Z 2, 4a, 4c, lit\. b Z 15, 23 und 24 sowie § 53 Z 2a, 2b, 2c, 8a und 8c StVO 1960 sind, sofern sie nicht beleuchtet oder als optische oder elektronische Anzeigevorrichtungen ausgeführt sind, Reflexstoffe vom Typ 2 oder Typ 3 zu verwenden\. Dies gilt sinngemäß für Straßenverkehrszeichen, die als Überkopfwegweiser ausgeführt sind\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#-4-stvzvo--rückstrahlwirkung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=4) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.001.md#-4-stvzvo--rückstrahlwirkung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#-4-stvzvo--rückstrahlwirkung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793&Paragraf=4) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_4_TextContainer_4) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.001.md#-4-stvzvo--rückstrahlwirkung) \]
 
 ----
 
@@ -119,7 +119,7 @@ Auf Grund des § 34 Abs. 1 Straßenverkehrsordnung 1960, BGBl. Nr. 159, zule
 
 > `(2)` Die Leuchtdichte darf bei optischen oder elektronischen Anzeigevorrichtungen einen Wert von 2 000 cd/m2 nicht überschreiten\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#-5-stvzvo--beleuchtung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=5) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.001.md#-5-stvzvo--beleuchtung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#-5-stvzvo--beleuchtung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793&Paragraf=5) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_5_TextContainer_5) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.001.md#-5-stvzvo--beleuchtung) \]
 
 ----
 
@@ -127,7 +127,7 @@ Auf Grund des § 34 Abs. 1 Straßenverkehrsordnung 1960, BGBl. Nr. 159, zule
 
 > Die Straßenverkehrszeichen sind nach den Maßangaben der in Anlage 3 angefügten Tabelle herzustellen\. Abweichungen bis zu \+/\-3% der Maßangaben sind zulässig\. Bei Hinweiszeichen sind dabei je nach Größe Eckabrundungen mit einem Radius bis zu 100 mm zulässig\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#-6-stvzvo--abmessungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=6) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.001.md#-6-stvzvo--abmessungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#-6-stvzvo--abmessungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793&Paragraf=6) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_6_TextContainer_6) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.001.md#-6-stvzvo--abmessungen) \]
 
 ----
 
@@ -135,7 +135,7 @@ Auf Grund des § 34 Abs. 1 Straßenverkehrsordnung 1960, BGBl. Nr. 159, zule
 
 > Die Straßenverkehrszeichen sind in ihrer bildlichen Darstellung verhältnismäßig entsprechend den in Anlage 4, 5, 6 und 7 angeführten Abbildungen auszuführen\. Das Anbringen eines bis zu 10 mm breiten weißen oder grauen Außenrandes ist zulässig, sofern nicht schon nach der Abbildung eine andere Umrandung des Straßenverkehrszeichens vorgesehen ist\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#-7-stvzvo--bildliche-darstellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=7) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.001.md#-7-stvzvo--bildliche-darstellung) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#-7-stvzvo--bildliche-darstellung) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793&Paragraf=7) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_7_TextContainer_7) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.001.md#-7-stvzvo--bildliche-darstellung) \]
 
 ----
 
@@ -143,7 +143,7 @@ Auf Grund des § 34 Abs. 1 Straßenverkehrsordnung 1960, BGBl. Nr. 159, zule
 
 > Für Aufschriften auf Straßenverkehrszeichen sind Schriftzeichen nach der Anlage 8 zu verwenden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#-8-stvzvo--schriftzeichen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=8) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.001.md#-8-stvzvo--schriftzeichen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#-8-stvzvo--schriftzeichen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793&Paragraf=8) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_8_TextContainer_8) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.001.md#-8-stvzvo--schriftzeichen) \]
 
 ----
 
@@ -157,7 +157,7 @@ Auf Grund des § 34 Abs. 1 Straßenverkehrsordnung 1960, BGBl. Nr. 159, zule
 
 > `(4)` Straßenverkehrszeichen, deren Ausführung den Bestimmungen der Straßenverkehrszeichenverordnung 1998, BGBl II Nr\. 238/1998, entsprechen, können bis zum 31\. Dezember 2014 angebracht werden; bereits angebrachte Straßenverkehrszeichen sind erst bei ihrer Erneuerung durch Straßenverkehrszeichen, die dieser Verordnung in der Fassung des BGBl\. II Nr\. 292/2013 entsprechen, zu ersetzen\. Straßenverkehrszeichen, die vorübergehend angebracht werden, insbesondere im Zuge von Baustellen, und deren Ausführung den Bestimmungen der Straßenverkehrszeichenverordnung 1998, BGBl II Nr\. 238/1998, entspricht, dürfen weiterhin angebracht werden\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#-9-stvzvo--übergangsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=9) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.001.md#-9-stvzvo--übergangsbestimmungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#-9-stvzvo--übergangsbestimmungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793&Paragraf=9) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_9_TextContainer_9) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.001.md#-9-stvzvo--übergangsbestimmungen) \]
 
 ----
 
@@ -165,7 +165,7 @@ Auf Grund des § 34 Abs. 1 Straßenverkehrsordnung 1960, BGBl. Nr. 159, zule
 
 > Diese Verordnung tritt mit 1\. August 1998 in Kraft\. Mit Inkrafttreten dieser Verordnung tritt die Straßenverkehrszeichenverordnung 1995 – StVZVO 1995, BGBl\. Nr\. 770/1995, außer Kraft\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#-10-stvzvo--inkrafttreten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=10) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.001.md#-10-stvzvo--inkrafttreten) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#-10-stvzvo--inkrafttreten) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793&Paragraf=10) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_10_TextContainer_10) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.001.md#-10-stvzvo--inkrafttreten) \]
 
 ----
 
@@ -173,7 +173,7 @@ Auf Grund des § 34 Abs. 1 Straßenverkehrsordnung 1960, BGBl. Nr. 159, zule
 
 > Die Verordnung in der Fassung des BGBl\. II Nr\. 292/2013 wurde unter Einhaltung der Bestimmungen der Richtlinie 98/34/EG über ein Informationsverfahren auf dem Gebiet der Normen und technischen Vorschriften, welches das Verfahren nach der Richtlinie 83/189/EWG kodifiziert, unter der Notifikationsnummer 2013/170/A notifiziert\.
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#-11-stvzvo--notifizierungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=11) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.001.md#-11-stvzvo--notifizierungen) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#-11-stvzvo--notifizierungen) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793&Paragraf=11) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_11_TextContainer_11) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.001.md#-11-stvzvo--notifizierungen) \]
 
 ----
 
@@ -221,7 +221,7 @@ Auf Grund des § 34 Abs. 1 Straßenverkehrsordnung 1960, BGBl. Nr. 159, zule
 > <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 > </tbody></table>
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#anl-1-stvzvo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=1) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.002.md#anl-1-stvzvo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#anl-1-stvzvo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793&Paragraf=1) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_12_TextContainer_12) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.002.md#anl-1-stvzvo) \]
 
 ----
 
@@ -258,7 +258,7 @@ Auf Grund des § 34 Abs. 1 Straßenverkehrsordnung 1960, BGBl. Nr. 159, zule
 <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </tbody></table>
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#anl-2-stvzvo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=2) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.002.md#anl-2-stvzvo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#anl-2-stvzvo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793&Paragraf=2) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_13_TextContainer_13) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.002.md#anl-2-stvzvo) \]
 
 ----
 
@@ -500,7 +500,7 @@ Auf Grund des § 34 Abs. 1 Straßenverkehrsordnung 1960, BGBl. Nr. 159, zule
 <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </tbody></table>
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#anl-3-stvzvo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=3) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.002.md#anl-3-stvzvo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#anl-3-stvzvo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793&Paragraf=3) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_14_TextContainer_14) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.002.md#anl-3-stvzvo) \]
 
 ----
 
@@ -514,7 +514,7 @@ Auf Grund des § 34 Abs. 1 Straßenverkehrsordnung 1960, BGBl. Nr. 159, zule
 >
 > ![BV.StVZVO.obj.BN.NOR40156589.image002.png](BV.StVZVO.obj.BN.NOR40156589.image002.png "~/Dokumente/Bundesnormen/NOR40156589/image002.png")
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#anl-4-stvzvo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=4) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.003.md#anl-4-stvzvo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#anl-4-stvzvo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793&Paragraf=4) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_15_TextContainer_15) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.003.md#anl-4-stvzvo) \]
 
 ----
 
@@ -530,7 +530,7 @@ Auf Grund des § 34 Abs. 1 Straßenverkehrsordnung 1960, BGBl. Nr. 159, zule
 > ![BV.StVZVO.obj.BN.NOR40156590.image002.png](BV.StVZVO.obj.BN.NOR40156590.image002.png "~/Dokumente/Bundesnormen/NOR40156590/image002.png")  
 > ![BV.StVZVO.obj.BN.NOR40156590.image003.png](BV.StVZVO.obj.BN.NOR40156590.image003.png "~/Dokumente/Bundesnormen/NOR40156590/image003.png")
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#anl-5-stvzvo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=5) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.003.md#anl-5-stvzvo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#anl-5-stvzvo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793&Paragraf=5) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_16_TextContainer_16) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.003.md#anl-5-stvzvo) \]
 
 ----
 
@@ -547,7 +547,7 @@ Auf Grund des § 34 Abs. 1 Straßenverkehrsordnung 1960, BGBl. Nr. 159, zule
 > ![BV.StVZVO.obj.BN.NOR40156591.image005.png](BV.StVZVO.obj.BN.NOR40156591.image005.png "~/Dokumente/Bundesnormen/NOR40156591/image005.png")  
 > ![BV.StVZVO.obj.BN.NOR40156591.image006.png](BV.StVZVO.obj.BN.NOR40156591.image006.png "~/Dokumente/Bundesnormen/NOR40156591/image006.png")
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#anl-6-stvzvo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=6) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.003.md#anl-6-stvzvo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#anl-6-stvzvo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793&Paragraf=6) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_17_TextContainer_17) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.003.md#anl-6-stvzvo) \]
 
 ----
 
@@ -559,7 +559,7 @@ Auf Grund des § 34 Abs. 1 Straßenverkehrsordnung 1960, BGBl. Nr. 159, zule
 
 > ![BV.StVZVO.obj.BN.NOR40156592.image001.png](BV.StVZVO.obj.BN.NOR40156592.image001.png "~/Dokumente/Bundesnormen/NOR40156592/image001.png")
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#anl-7-stvzvo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=7) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.003.md#anl-7-stvzvo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#anl-7-stvzvo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793&Paragraf=7) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_18_TextContainer_18) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.003.md#anl-7-stvzvo) \]
 
 ----
 
@@ -571,4 +571,4 @@ Auf Grund des § 34 Abs. 1 Straßenverkehrsordnung 1960, BGBl. Nr. 159, zule
 
 > ![BV.StVZVO.obj.BN.NOR40156593.image001.png](BV.StVZVO.obj.BN.NOR40156593.image001.png "~/Dokumente/Bundesnormen/NOR40156593/image001.png")
 
-\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#anl-8-stvzvo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=None&Paragraf=8) | [📖 RIS-Gesamtansicht](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.003.md#anl-8-stvzvo) \]
+\[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.md#anl-8-stvzvo) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793&Paragraf=8) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10012793#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_19_TextContainer_19) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BV.StVZVO.003.md#anl-8-stvzvo) \]

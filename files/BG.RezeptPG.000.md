@@ -2,7 +2,7 @@
 **Typ:** Bundesgesetz  
 **Kurztitel:** RezeptPG  
 **Langtitel:** Bundesgesetz über die Abgabe von Arzneimitteln und Tierarzneimitteln auf Grund ärztlicher oder tierärztlicher Verschreibung (Rezeptpflichtgesetz – RezeptPG)  
-**Gesamte Rechtsvorschrift in der Fassung vom:** 08.07.2025  
+**Gesamte Rechtsvorschrift in der Fassung vom:** 17.07.2025  
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10010351  
 **Letzte Änderung im RIS:** BGBl. I Nr. 100/2024 (NR: GP XXVII IA 4095/A AB 2660 S. 272. BR: 11525 AB 11575 S. 970.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.RezeptPG.000.md  
