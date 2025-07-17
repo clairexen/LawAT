@@ -1271,10 +1271,12 @@ def cli_rs(*args):
         lastPos = 1
         query = [
             "Abfrage=Justiz", "Gericht=OGH",
-            # "AenderungenSeit=EinemJahr",
-            "AenderungenSeit=EinemMonat",
+            "AenderungenSeit=EinemJahr",
+            # "AenderungenSeit=EinemMonat",
+            # "AenderungenSeit=ZweiWochen",
             # "AenderungenSeit=EinerWoche",
-            "SucheNachRechtssatz=True"
+            "SucheNachRechtssatz=True",
+            # "Norm=ABGB"
         ]
         while pos <= lastPos:
             print(f"Scanning positions {pos} - {pos+99}.")
