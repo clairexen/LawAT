@@ -21,6 +21,7 @@ venv: .venv/bin/activate
 	.venv/bin/pip install playwright
 	.venv/bin/pip install pcre2
 	.venv/bin/pip install lxml
+	.venv/bin/pip install cssselect
 	.venv/bin/playwright install
 
 zip: LawAT_DataSet.zip
