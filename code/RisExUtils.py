@@ -152,6 +152,24 @@ def downloadFile(file, url, par):
     response.raise_for_status()
     open(f"{flags.filesdir}/{file}", "wb").write(response.content)
 
+def fetchUrl(url):
+    def _sanitize(url: str) -> str:
+        """Return a filesystem‑safe filename derived from *url*."""
+        safe = re.sub(r"[^a-zA-Z0-9\.-]", "_", url)
+        if len(safe) > 200:
+            digest = hashlib.sha256(url.encode()).hexdigest()[:16]
+            safe = f"{safe[:200]}_{digest}"
+        return safe
+    cached_file = os.path.join("__webcache__", f"{_sanitize(url)}.content")
+    if not os.access(cached_file, os.F_OK):
+        urllib3.disable_warnings()
+        proxies = { "http": flags.proxy, "https": flags.proxy } if flags.proxy else {}
+        response = requests.get(url, proxies=proxies, verify=False)
+        response.raise_for_status()
+        if not os.access(cached_file, os.F_OK):
+            open(cached_file, "wb").write(response.content)
+    return cached_file
+
 def foldSoftPreserve(s, width=80):
     out, start, last_space = [], 0, -1
     for i, c in enumerate(s):
@@ -952,8 +970,8 @@ def cli_fetch(*args):
             elif 'pin' in normdata:
                 url += f"&FassungVom={dates[normdata['pin']]}"
 
+            print(f"Loading {normkey} from {url}")
             if flags.play:
-                print(f"Loading {normkey} from {url}")
                 page.goto(url)
                 page.add_script_tag(path="code/RisExtractor.js")
 
@@ -964,23 +982,15 @@ def cli_fetch(*args):
 
                 embed()
 
-            print(f"  `- writing markup object tree to {flags.filesdir}/{normkey}.{datestr}.json")
             stopPartJs = f"'{normdata['stop']}'" if 'stop' in normdata else "null"
             if flags.play:
+                print(f"  `- writing markup object tree to {flags.filesdir}/{normkey}.{datestr}.json")
                 risDocJsonText = page.evaluate(f"prettyJSON(risExtractor(null, {stopPartJs}, '{normkey}'))")
                 risDocJsonText = json.loads(risDocJsonText)
             else:
-                def _sanitize(url: str) -> str:
-                    """Return a filesystem‑safe filename derived from *url*."""
-                    safe = re.sub(r"[^a-zA-Z0-9\.-]", "_", url)
-                    if len(safe) > 200:
-                        digest = hashlib.sha256(url.encode()).hexdigest()[:16]
-                        safe = f"{safe[:200]}_{digest}"
-                    return safe
-                cached_file = os.path.join("__webcache__", f"{_sanitize(url)}.content")
-                if not os.access(cached_file, os.F_OK):
-                    os.system(f"https_proxy='{flags.proxy}' wget -O /dev/null --no-check-certificate '{url}'")
-                risDocJsonText = os.popen(f"node code/RisExtractor.js '{cached_file}'").read()
+                cached_file = fetchUrl(url)
+                print(f"  `- writing markup object tree to {flags.filesdir}/{normkey}.{datestr}.json")
+                risDocJsonText = os.popen(f"node code/RisExtractor.js '{cached_file}' {stopPartJs}").read()
                 risDocJsonText = json.loads(risDocJsonText)
                 if risDocJsonText[0] == "LawDoc":
                     risDocJsonText[0] = f"LawDoc {normkey}"

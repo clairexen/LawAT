@@ -688,5 +688,5 @@ if (isNode) {
 	});
 	global.document = dom.window.document; // make it global if your code expects it
 	global.Element = dom.window.Element;
-	process.stdout.write(prettyJSON(risExtractor()))
+	process.stdout.write(prettyJSON(risExtractor(null, process.argv[3])))
 }
