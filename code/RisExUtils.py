@@ -28,6 +28,7 @@ GlobalFlagDefaults = {
     "logdown": True,
     "verbose": False,
     "forai": True,
+    "play": False,
     "limit": 30000,
     "filesdir": "files",
     "proxy": "http://127.0.0.1:8080",
@@ -65,7 +66,7 @@ def updateFlags(*opts):
 
         if val is None:
             flags = flags._replace(**{key: defBoolVal})
-        elif type(FlagDefaults["proxy"]) == str:
+        elif type(FlagDefaults[key]) == str:
             flags = flags._replace(**{key: val})
         else:
             flags = flags._replace(**{key: eval(val)})
@@ -935,7 +936,8 @@ def cli_fetch(*args):
     if not len(args):
         args = normindex.keys()
 
-    page = startPlaywright()
+    if flags.play:
+        page = startPlaywright()
 
     for normkey in args:
         normdata = normindex[normkey]
@@ -950,21 +952,46 @@ def cli_fetch(*args):
             elif 'pin' in normdata:
                 url += f"&FassungVom={dates[normdata['pin']]}"
 
-            print(f"Loading {normkey} from {url}")
-            page.goto(url)
-            page.add_script_tag(path="code/RisExtractor.js")
+            if flags.play:
+                print(f"Loading {normkey} from {url}")
+                page.goto(url)
+                page.add_script_tag(path="code/RisExtractor.js")
 
-            if 'promulgationsklausel' in normdata:
-                t = normdata['promulgationsklausel'].\
-                        replace('\\', '\\\\').replace('"', '\\"')
-                page.evaluate(f'risUserPromKl = "{t}"')
+                if 'promulgationsklausel' in normdata:
+                    t = normdata['promulgationsklausel'].\
+                            replace('\\', '\\\\').replace('"', '\\"')
+                    page.evaluate(f'risUserPromKl = "{t}"')
 
-            embed()
+                embed()
 
             print(f"  `- writing markup object tree to {flags.filesdir}/{normkey}.{datestr}.json")
             stopPartJs = f"'{normdata['stop']}'" if 'stop' in normdata else "null"
-            risDocJsonText = page.evaluate(f"prettyJSON(risExtractor(null, {stopPartJs}, '{normkey}'))")
-            risDocJsonText = json.loads(risDocJsonText)
+            if flags.play:
+                risDocJsonText = page.evaluate(f"prettyJSON(risExtractor(null, {stopPartJs}, '{normkey}'))")
+                risDocJsonText = json.loads(risDocJsonText)
+            else:
+                def _sanitize(url: str) -> str:
+                    """Return a filesystem‑safe filename derived from *url*."""
+                    safe = re.sub(r"[^a-zA-Z0-9\.-]", "_", url)
+                    if len(safe) > 200:
+                        digest = hashlib.sha256(url.encode()).hexdigest()[:16]
+                        safe = f"{safe[:200]}_{digest}"
+                    return safe
+                cached_file = os.path.join("__webcache__", f"{_sanitize(url)}.content")
+                if not os.access(cached_file, os.F_OK):
+                    os.system(f"https_proxy='{flags.proxy}' wget -O /dev/null --no-check-certificate '{url}'")
+                risDocJsonText = os.popen(f"node code/RisExtractor.js '{cached_file}'").read()
+                risDocJsonText = json.loads(risDocJsonText)
+                if risDocJsonText[0] == "LawDoc":
+                    risDocJsonText[0] = f"LawDoc {normkey}"
+                for item in risDocJsonText:
+                    if isinstance(item, list):
+                        if item[0] == "Meta RisSrcLink":
+                            item[1] = url
+                        if item[0] == "Meta Promulgation" and 'promulgationsklausel' in normdata:
+                            t = normdata['promulgationsklausel'].\
+                                    replace('\\', '\\\\').replace('"', '\\"')
+                            item[1] = t
 
             if "remove-headers" in normdata:
                 changecnt = 0
@@ -1002,8 +1029,9 @@ def cli_fetch(*args):
                 for patch in sorted(patches):
                     cli_patch(normkey, patch)
 
+    if flags.play:
+        stopPlaywright()
     print("DONE.")
-    stopPlaywright()
 
 def cli_render(*args):
     addFlag("prdemo", False)

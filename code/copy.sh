@@ -14,7 +14,9 @@ files=()
 #files+=(copy.sh)
 #files+=(lawdoc.{html,css,js})
 #files+=(tocui.{html,css,js})
-files+=(risen.{html,js})
+#files+=(risen.{html,js})
+#files+=(httpsrv.py)
+#files+=(mitmp.py)
 
 { echo "#!/bin/bash"; echo "history -a";
   for file in "${files[@]}"; do
