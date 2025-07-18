@@ -49,7 +49,8 @@ const lawdoc = (() => {
 						lawDocTag == "PartBody")
 					el.classList.add(lawDocTag);
 				else if (lawDocTag == "Part" || lawDocTag == "Text" ||
-						lawDocTag == "Err" || lawDocTag == "Src")
+						lawDocTag == "Err" || lawDocTag == "Src" ||
+						lawDocTag == "RS")
 					el.classList.add("Law" + lawDocTag);
 				// el.classList.add("_" + lawDocTag);
 				return el;
@@ -83,7 +84,7 @@ const lawdoc = (() => {
 						el.appendChild(worker(item));
 				});
 
-				refSuffix = " " + infoStr.replace(/^[A-Z]+\./, '')
+				refSuffix = infoStr.replace(/^[A-Z]+\./, '')
 				let h1 = genElement('H1', tag + 'Title');
 				h1.appendChild(document.createTextNode(metaData["Langtitel"][0] +
 						"; i.d.F.v. " + metaData["FassungVom"][0]));
@@ -111,12 +112,12 @@ const lawdoc = (() => {
 			if (tag == "Part") {
 				let el = genElement('DIV'), body = el;
 				let sp = genElement('SPAN', tag + 'Name');
-				sp.setAttribute('id', getIdForPartRef(infoStr + refSuffix) + "_");
+				sp.setAttribute('id', getIdForPartRef(infoStr + " " + refSuffix) + "_");
 				sp.innerText = infoStr;
 				tail.forEach(item => {
 					if (body.children.length)
 						body.appendChild(document.createTextNode("\n"));
-					c = worker(item);
+					let c = worker(item);
 					if (c.tagName != 'H2' && sp) {
 						body = genElement('DIV', 'PartBody');
 						el.appendChild(body);
@@ -132,6 +133,39 @@ const lawdoc = (() => {
 					}
 					body.appendChild(c);
 				});
+				if (refSuffix in zip["rsdata.json"]["index"]) {
+					let key = infoStr + " " + refSuffix;
+					let idPrefix = getIdForPartRef(key);
+					if (key in zip["rsdata.json"]["index"][refSuffix]) {
+						let rslist = zip["rsdata.json"]["index"][refSuffix][key];
+						rslistCache[idPrefix] = rslist;
+
+						let c = genElement('DIV', 'RS');
+						c.setAttribute('id', `${idPrefix}_RS`);
+						body.appendChild(c);
+						body.appendChild(genElement('P'));
+
+						c = genElement('A', 'RS');
+						if (rslist.length > 1)
+							c.text = `(+) ${rslist.length} Rechtssätze zu dieser Bestimmung anzeigen`;
+						else
+							c.text = `(+) ${rslist.length} Rechtssatz zu dieser Bestimmung anzeigen`;
+						c.setAttribute('href', `javascript:showRS('${idPrefix}')`);
+						c.setAttribute('id', `${idPrefix}_showRS`);
+						c.style.display = 'block';
+						body.appendChild(c);
+
+						c = genElement('A', 'RS');
+						if (rslist.length > 1)
+							c.text = `(-) ${rslist.length} Rechtssätze zu dieser Bestimmung ausblenden`;
+						else
+							c.text = `(-) ${rslist.length} Rechtssatz zu dieser Bestimmung ausblenden`;
+						c.setAttribute('href', `javascript:hideRS('${idPrefix}')`);
+						c.setAttribute('id', `${idPrefix}_hideRS`);
+						c.style.display = 'none';
+						body.appendChild(c);
+					}
+				}
 				return el;
 			}
 
