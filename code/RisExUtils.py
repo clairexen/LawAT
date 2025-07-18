@@ -2,7 +2,7 @@
 # RIS Extractor -- Copyright (C) 2025  Claire Xenia Wolf <claire@clairexen.net>
 # Shared freely under ISC license (https://en.wikipedia.org/wiki/ISC_license)
 
-import ptpython, inspect, traceback
+import ptpython, inspect, traceback, hashlib
 import re, pcre2, glob, fnmatch, requests
 import time, sys, json, os, tempfile, shutil
 import unicodedata, urllib3, types, pprint
@@ -1261,6 +1261,7 @@ def cli_markup(*args):
 def cli_rs(*args):
     addFlag("scan", True)
     addFlag("fetch", True)
+    addFlag("refetch", False)
     addFlag("purge", False)
     args = updateFlags(*args)
 
@@ -1272,16 +1273,21 @@ def cli_rs(*args):
         lastPos = 1
         query = [
             "Abfrage=Justiz", "Gericht=OGH",
-            # "AenderungenSeit=EinemJahr",
-            # "AenderungenSeit=EinemMonat",
+            #"AenderungenSeit=EinemJahr",
+            #"AenderungenSeit=EinemMonat",
             "AenderungenSeit=ZweiWochen",
-            # "AenderungenSeit=EinerWoche",
+            #"AenderungenSeit=EinerWoche",
             "SucheNachRechtssatz=True",
-            # "Norm=VerG"
+            #"Norm=VerG",
+
+            #"Abfrage=Gesamtabfrage",
+            #"SearchInJustiz=True",
+            #"Suchworte=%c3%bcberlanger+RS",
         ]
         while pos <= lastPos:
-            print(f"Scanning positions {pos} - {pos+99}{f' / {lastPos}' if lastPos>1 else ''}.")
-            htmldata = open(fetchUrl(f"https://ris.bka.gv.at/Ergebnis.wxe?{'&'.join(query)}&ResultPageSize=100&Position={pos}")).read()
+            pageUrl = f"https://ris.bka.gv.at/Ergebnis.wxe?{'&'.join(query)}&ResultPageSize=100&Position={pos}"
+            print(f"Scanning positions {pos} - {pos+99}{f' / {lastPos}' if lastPos>1 else ''}.\nFetching {pageUrl}")
+            htmldata = open(fetchUrl(pageUrl)).read()
             tree = html.fromstring(htmldata)
             lastPos = int(tree.cssselect(".NumberOfDocuments")[0].text_content().strip().removesuffix(".").split(" ")[-1])
 
@@ -1289,7 +1295,8 @@ def cli_rs(*args):
                 a = row.cssselect(":scope a")[0]
                 rsid = a.text_content()
                 if ";" in rsid: rsid = rsid.split(";", 1)[0]
-                if rsid in rsdata["items"] and not flags.purge: continue
+                if not rsid.startswith("RS"): continue
+                if rsid in rsdata["items"] and not flags.refetch: continue
                 url = f"https://ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&{a.attrib['href'].split('&')[-1]}"
                 print(f"Tagging {rsid}: {url}")
                 rsdata["items"][rsid] = url
