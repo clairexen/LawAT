@@ -64,3 +64,15 @@ body {
 .LawDoc h3 {
   margin-block-start: 0em;
 }
+
+.LawRS > div {
+  padding-top: 1em;
+}
+
+.LawRS > div > div {
+  background-color: #f8f8f8; /* almost white */
+  padding: 0.2em;
+  border-radius: 0.3em;
+  border: 1px solid #888;
+  box-shadow: 0 0.2em 0.5em rgba(0, 0, 0, 0.1);
+}

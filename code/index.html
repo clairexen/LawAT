@@ -32,6 +32,35 @@
   </div>
   <div id="loading">Loading Dataset...<br/>Please wait a moment.</div>
   <script>//<!--
+    let rslistCache = {};
+
+    function showRS(id) {
+      let show_el = document.getElementById(id + "_showRS");
+      let hide_el = document.getElementById(id + "_hideRS");
+      let div_el = document.getElementById(id + "_RS");
+      show_el.style.display = "none";
+      hide_el.style.display = "block";
+
+      let htmlText = "";
+      let rslist = rslistCache[id];
+      for (let rs of rslist) {
+        let rsdat = lawdoc.zip["rsdata.json"]["items"][rs];
+        htmlText += `<div><b><a href="${rsdat["URL"]}" target="_blank">${rs}</a></b><br/>\n`;
+        htmlText += `<div>${rsdat["Rechtssatz"].replaceAll("&", "&amp;").
+                        replaceAll("<", "&lt;").replaceAll(">", "&gt;")}</div></div>`;
+      }
+      div_el.innerHTML = htmlText;
+    }
+
+    function hideRS(id) {
+      let show_el = document.getElementById(id + "_showRS");
+      let hide_el = document.getElementById(id + "_hideRS");
+      let div_el = document.getElementById(id + "_RS");
+      show_el.style.display = "block";
+      hide_el.style.display = "none";
+      div_el.innerHTML = "";
+    }
+
     window.addEventListener("DOMContentLoaded", () => {
       const mainDiv = document.getElementById("main");
       const infomsgDiv = document.getElementById("infomsg");
@@ -53,7 +82,7 @@
         if (!noPushHistory)
           history.pushState(null, '', "#");
         currentNorm = null;
-	infomsgDiv.style.display = "block";
+        infomsgDiv.style.display = "block";
       }
 
       tocui.addDoc("Index der Normen", () => selIndex());
@@ -89,7 +118,7 @@
           if (!noPushHistory)
             history.pushState(null, '', `#${strippedNorm}`);
           currentNorm = strippedNorm;
-	  infomsgDiv.style.display = "none";
+          infomsgDiv.style.display = "none";
         }
 
         function scrollTo(targetId) {
