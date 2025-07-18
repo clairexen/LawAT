@@ -61,7 +61,7 @@ deploy:
 	.venv/bin/python3 code/RisExUtils.py mkwebapp
 	[ -d __ghpages__ ] || git clone -b gh-pages git@github.com:clairexen/LawAT.git __ghpages__
 	-cd __ghpages__ && git rm -rf .
-	cp -vt __ghpages__/ LawAT_DataSet.json LawAT_DataSet.zip lawdoc.json
+	cp -vt __ghpages__/ LawAT_DataSet.json LawAT_DataSet.zip webapp.json
 	cp -vt __ghpages__/ code/RisEnQuery.py code/risen.js
 	cp -vt __ghpages__/ code/index.html code/style.css
 	cp -vt __ghpages__/ code/lawdoc.js code/lawdoc.css
@@ -71,6 +71,6 @@ deploy:
 
 purge:
 	rm -rf .venv __pycache__/ __ghpages__/ __rismarkup__/ __webcache__/
-	rm -rf code/__pycache__/ LawAT_DataSet.json LawAT_DataSet.zip lawdoc.json
+	rm -rf code/__pycache__/ LawAT_DataSet.json LawAT_DataSet.zip webapp.json
 
 .PHONY: help venv zip json update check-markup mitmp webapp deploy purge

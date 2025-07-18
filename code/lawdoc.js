@@ -2,7 +2,7 @@ const lawdoc = (() => {
 	// -----------------------------------------------------------------------
 	// load dataset
 	// -----------------------------------------------------------------------
-	let zip, zipPromise = fetch('lawdoc.json') .then(res => res.json())
+	let zip, zipPromise = fetch('webapp.json') .then(res => res.json())
 			.then(json => { zip = json; lawdoc.zip = json; });
 
 	// -----------------------------------------------------------------------
