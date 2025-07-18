@@ -1261,6 +1261,7 @@ def cli_markup(*args):
 def cli_rs(*args):
     addFlag("scan", True)
     addFlag("fetch", True)
+    addFlag("purge", False)
     args = updateFlags(*args)
 
     #rsdata = { "items": {}, "index": {} }
@@ -1276,7 +1277,7 @@ def cli_rs(*args):
             "AenderungenSeit=ZweiWochen",
             # "AenderungenSeit=EinerWoche",
             "SucheNachRechtssatz=True",
-            # "Norm=ABGB"
+            # "Norm=VerG"
         ]
         while pos <= lastPos:
             print(f"Scanning positions {pos} - {pos+99}{f' / {lastPos}' if lastPos>1 else ''}.")
@@ -1288,7 +1289,7 @@ def cli_rs(*args):
                 a = row.cssselect(":scope a")[0]
                 rsid = a.text_content()
                 if ";" in rsid: rsid = rsid.split(";", 1)[0]
-                if rsid in rsdata["items"]: continue
+                if rsid in rsdata["items"] and not flags.purge: continue
                 url = f"https://ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&{a.attrib['href'].split('&')[-1]}"
                 print(f"Tagging {rsid}: {url}")
                 rsdata["items"][rsid] = url
@@ -1306,6 +1307,8 @@ def cli_rs(*args):
             if not isinstance(url, str): continue
             print(f"Fetching {rsid} [{cnt}/{queue}]: {url}")
             tree = html.fromstring(open(fetchUrl(url)).read())
+            for el in tree.cssselect(".sr-only"):
+                el.find("..").remove(el)
             rsdata["items"][rsid] = {
                 "RS": rsid,
                 "URL": url,
@@ -1315,12 +1318,17 @@ def cli_rs(*args):
                 "Normen": sorted(set([it.text_content() for it in tree.xpath("//h3[contains(., 'Norm')]/..")[0]. \
                                         getchildren() if it.tag != "div" and it.text_content()][1:])),
                 "Rechtssatz": tree.xpath("//h3[contains(., 'Rechtssatz')]/..")[1].text_content().strip(). \
-                                        removeprefix("Rechtssatz\n").strip(),
-                "Datum_Seit": tree.xpath("//h3[contains(., 'Im RIS seit')]/..")[0].text_content().strip(). \
-                                        removeprefix("Im RIS seit\n").strip(),
-                "Datum_Update": tree.xpath("//h3[contains(., 'Zuletzt aktualisiert am')]/..")[0].text_content().strip(). \
-                                        removeprefix("Zuletzt aktualisiert am\n").strip(),
+                                        removeprefix("Rechtssatz\n").strip()
             }
+            if res := tree.xpath("//h3[contains(., 'Im RIS seit')]/.."):
+                rsdata["items"][rsid]["Datum_Seit"] = res[0].text_content().strip(). \
+                                        removeprefix("Im RIS seit\n").strip()
+            if res := tree.xpath("//h3[contains(., 'Zuletzt aktualisiert am')]/.."):
+                rsdata["items"][rsid]["Datum_Update"] = res[0].text_content().strip(). \
+                                        removeprefix("Zuletzt aktualisiert am\n").strip()
+            if res := tree.xpath("//h3[contains(., 'Entscheidungsdatum')]/.."):
+                rsdata["items"][rsid]["Datum_Entscheidung"] = res[0].text_content().strip(). \
+                                        removeprefix("Entscheidungsdatum\n").strip()
             if res := tree.xpath("//h3[contains(., 'Rechtsgebiet')]/.."):
                 rsdata["items"][rsid]["Rechtsgebiet"] = res[0].text_content(). \
                                 replace(" ", "").strip().split("\n")[1]
