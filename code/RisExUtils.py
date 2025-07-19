@@ -43,6 +43,7 @@ flags = FlagsType()
 
 def addFlag(name, defVal):
     global FlagsType, flags
+    assert name not in FlagsType._fields
     FlagsType = namedtuple("FlagsType", (*FlagsType._fields, name),
             defaults=(*FlagsType._field_defaults.values(), defVal))
     flags = FlagsType(**flags._asdict())
@@ -1263,45 +1264,88 @@ def cli_rs(*args):
     addFlag("fetch", True)
     addFlag("refetch", False)
     addFlag("purge", False)
-    args = updateFlags(*args)
+    addFlag("init", False)
+    args = set(updateFlags(*args))
 
-    #rsdata = { "items": {}, "index": {} }
-    rsdata = json.load(open("files/rsdata.json"))
+    if flags.init:
+        rsdata = { "items": {}, "index": {} }
+    else:
+        rsdata = json.load(open("files/rsdata.json"))
+
+    if flags.purge:
+        for rsid, url in rsdata["items"].items():
+            if not isinstance(url, str): continue
+            del rsdata["items"]["rsid"]
 
     if flags.scan:
-        pos = 1
-        lastPos = 1
-        query = [
-            "Abfrage=Justiz", "Gericht=OGH",
-            #"AenderungenSeit=EinemJahr",
-            #"AenderungenSeit=EinemMonat",
-            "AenderungenSeit=ZweiWochen",
-            #"AenderungenSeit=EinerWoche",
-            "SucheNachRechtssatz=True",
-            #"Norm=VerG",
+        queries = {
+            "Weekly": {
+                "Abfrage": "Justiz",
+                "Gericht": "OGH",
+                "SucheNachRechtssatz": "True",
+                #"AenderungenSeit": "EinemJahr",
+                #"AenderungenSeit": "EinemMonat",
+                "AenderungenSeit": "ZweiWochen",
+                #"AenderungenSeit": "EinerWoche",
+            },
+            "LastYear": {
+                "Abfrage": "Justiz",
+                "Gericht": "OGH",
+                "SucheNachRechtssatz": "True",
+                "AenderungenSeit": "EinemJahr",
+            },
+            "Since2024": {
+                "Abfrage": "Justiz",
+                "Gericht": "OGH",
+                "SucheNachRechtssatz": "True",
+                "VonDatum": "01.01.2024",
+            },
+            "VerG": {
+                "Abfrage": "Justiz",
+                "Gericht": "OGH",
+                "SucheNachRechtssatz": "True",
+                "VonDatum": "01.01.2004",
+                "Norm": "VerG",
+            },
+            "Whales": {
+                "Abfrage": "Gesamtabfrage",
+                "SearchInJustiz": "True",
+                "Suchworte": "%c3%bcberlanger+RS",
+                "_VonJahr": 2022,
+            },
+        }
+        if args:
+            queries = {k: v for k,v in queries.items() if k in args}
+        elif not flags.init:
+            queries = { "Weekly": queries["Weekly"] }
+        for qn, query in queries.items():
+            print(f"\nRunning Query '{qn}'...")
+            pos = 1
+            lastPos = 1
+            vonJahr = query.get("_VonJahr")
+            query_str = "&".join(f"{k}={v}" for k,v in query.items() if not k.startswith("_"))
+            while pos <= lastPos:
+                pageUrl = f"https://ris.bka.gv.at/Ergebnis.wxe?{query_str}&ResultPageSize=100&Position={pos}"
+                print(f"Scanning positions {pos} - {pos+99}{f' / {lastPos}' if lastPos>1 else ''}.\nFetching {pageUrl}")
+                htmldata = open(fetchUrl(pageUrl)).read()
+                tree = html.fromstring(htmldata)
+                lastPos = int(tree.cssselect(".NumberOfDocuments")[0].text_content().strip().removesuffix(".").split(" ")[-1])
 
-            #"Abfrage=Gesamtabfrage",
-            #"SearchInJustiz=True",
-            #"Suchworte=%c3%bcberlanger+RS",
-        ]
-        while pos <= lastPos:
-            pageUrl = f"https://ris.bka.gv.at/Ergebnis.wxe?{'&'.join(query)}&ResultPageSize=100&Position={pos}"
-            print(f"Scanning positions {pos} - {pos+99}{f' / {lastPos}' if lastPos>1 else ''}.\nFetching {pageUrl}")
-            htmldata = open(fetchUrl(pageUrl)).read()
-            tree = html.fromstring(htmldata)
-            lastPos = int(tree.cssselect(".NumberOfDocuments")[0].text_content().strip().removesuffix(".").split(" ")[-1])
+                for row in tree.cssselect(".bocListDataRow"):
+                    a = row.cssselect(":scope a")[0]
+                    rsid = a.text_content()
+                    dateStr = row.cssselect(":scope .bocListCommandText")[0].text_content()
+                    dateYear = int(dateStr.split(".")[2])
+                    assert 1900 <= dateYear <= 2100
+                    if vonJahr and vonJahr > dateYear: continue
+                    if ";" in rsid: rsid = rsid.split(";", 1)[0]
+                    if not rsid.startswith("RS"): continue
+                    if rsid in rsdata["items"] and not flags.refetch: continue
+                    url = f"https://ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&{a.attrib['href'].split('&')[-1]}"
+                    print(f"Tagging {rsid}: {url}")
+                    rsdata["items"][rsid] = url
 
-            for row in tree.cssselect(".bocListDataRow"):
-                a = row.cssselect(":scope a")[0]
-                rsid = a.text_content()
-                if ";" in rsid: rsid = rsid.split(";", 1)[0]
-                if not rsid.startswith("RS"): continue
-                if rsid in rsdata["items"] and not flags.refetch: continue
-                url = f"https://ris.bka.gv.at/Dokument.wxe?Abfrage=Justiz&{a.attrib['href'].split('&')[-1]}"
-                print(f"Tagging {rsid}: {url}")
-                rsdata["items"][rsid] = url
-
-            pos += 100
+                pos += 100
 
         print("Finished scan. Updating files/rsdata.json.")
         with open("files/rsdata.json", "w") as f:
@@ -1310,6 +1354,7 @@ def cli_rs(*args):
     if flags.fetch:
         cnt = 0
         queue = sum(isinstance(url, str) for url in rsdata["items"].values())
+        print(f"\nFetching {queue} items...")
         for rsid, url in rsdata["items"].items():
             if not isinstance(url, str): continue
             print(f"Fetching {rsid} [{cnt}/{queue}]: {url}")
