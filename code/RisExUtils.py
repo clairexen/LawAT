@@ -1048,13 +1048,14 @@ def cli_fetch(*args):
                     return " ".join([text(c) for c in el[1:]])
                 def walker(el):
                     nonlocal changecnt, schlussBest
-                    if schlussBest:
-                        return None
                     if not isinstance(el, list):
                         return el
-                    if el[0].startswith("Title") and "Schlussbestimmungen" in text(el):
+                    if el[0].startswith("Head") or el[0].startswith("Title"):
+                        if "Schlussbestimmung" in text(el):
                             schlussBest = text(el)
-                            return el
+                        return el
+                    if schlussBest:
+                        return None
                     ret = [c for c in [el[0]] + [walker(c) for c in el[1:]] if c is not None]
                     if schlussBest and el[0].startswith("Part"):
                         print(f"  `- removing '{schlussBest}'")

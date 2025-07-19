@@ -17,7 +17,7 @@
 ### § 749 ASVG
 
 `§ 749 ASVG.`  
-§ 748 in der Fassung des Bundesgesetzes BGBl. I Nr. 22/2021 tritt mit 1. Jänner 2021 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 751 ASVG # Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 35/2021
 
@@ -32,29 +32,22 @@
 ### § 753 ASVG # Schlussbestimmung zu Art. 4 des Bundesgesetzes BGBl. I Nr. 78/2021
 
 `§ 753 ASVG.`  
-§ 43a in der Fassung des Bundesgesetzes BGBl. I Nr. 78/2021 tritt mit 1. Juli 2021 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 754 ASVG # Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 68/2021
 
-`§ 754 (1) ASVG.`  
-§ 679 Abs. 3, die Überschrift zu § 742a sowie § 742a Abs. 1 erster Satz in der Fassung des Bundesgesetzes BGBl. I Nr. 68/2021 treten mit 1. April 2021 in Kraft.
-
-`§ 754 (2) ASVG.`  
-§ 679 Abs. 2 und 3 tritt mit 1. Jänner 2022 außer Kraft.
+`§ 754 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 755 ASVG # Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 99/2021
 
 `§ 755 ASVG.`  
-Es treten in der Fassung des Bundesgesetzes BGBl. I Nr. 99/2021 in Kraft:  
-`§ 755 Z 1 ASVG.`
-rückwirkend mit 19. Mai 2021 § 747 Abs. 2b;  
-`§ 755 Z 2 ASVG.`
-rückwirkend mit 15. Februar 2021 § 747 Abs. 2a.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 756 ASVG # Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 85/2021
 
 `§ 756 ASVG.`  
-Die §§ 742b Abs. 2 und 751 Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 85/2021 treten mit 1. Juni 2021 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 757 ASVG # Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 114/2021
 
@@ -64,7 +57,7 @@ Die §§ 742b Abs. 2 und 751 Abs. 2 in der Fassung des Bundesgesetzes BGBl. 
 ### § 758 ASVG # Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 179/2021
 
 `§ 758 ASVG.`  
-§ 747 Abs. 2 erster Satz und Abs. 3 letzter Satz in der Fassung des Bundesgesetzes BGBl. I Nr. 179/2021 tritt rückwirkend mit 1. September 2021 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 759 ASVG # Pensionsanpassung 2022
 
@@ -153,15 +146,8 @@ Die Abs. 1 bis 6 sind auch auf den von § 84 B-KUVG erfassten Personenkreis an
 
 ### § 760 ASVG # Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 197/2021
 
-`§ 760 (1) ASVG.`  
-Es treten in der Fassung des Bundesgesetzes BGBl. I Nr. 197/2021 in Kraft:  
-`§ 760 (1) Z 1 ASVG.`
-mit dem auf den Tag der Kundmachung folgenden Tag § 750 Abs. 1a und Abs. 2;  
-`§ 760 (1) Z 2 ASVG.`
-mit 3. Dezember 2021 § 735 Abs. 2, 2a, 3a bis 3d und 6.
-
-`§ 760 (2) ASVG.`  
-Eine Verordnung nach § 735 Abs. 3b kann bereits ab dem 3. Dezember 2021 erlassen werden, sie darf jedoch frühestens mit 15. Dezember 2021 in Kraft treten.
+`§ 760 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 761 ASVG # Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 238/2021
 
@@ -171,7 +157,7 @@ Eine Verordnung nach § 735 Abs. 3b kann bereits ab dem 3. Dezember 2021 erla
 ### § 761a ASVG # Schlussbestimmung zu Artikel 5 des Bundesgesetzes BGBl. I Nr. 15/2022
 
 `§ 761a ASVG.`  
-Die §§ 4 Abs. 1 Z 5 und 5 Abs. 1 Z 16 lit. b in der Fassung des Bundesgesetzes BGBl. I Nr. 15/2022 treten mit 1. Juli 2022 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 762 ASVG # Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 31/2022
 
@@ -181,7 +167,7 @@ Die §§ 4 Abs. 1 Z 5 und 5 Abs. 1 Z 16 lit. b in der Fassung des Bundesge
 ### § 763 ASVG # Schlussbestimmung zu Art. 2 des Bundesgesetzes BGBl. I Nr. 29/2022
 
 `§ 763 ASVG.`  
-§ 117 Z 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 29/2022 tritt mit 1. Jänner 2022 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 766 ASVG # Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 32/2022
 
@@ -191,7 +177,7 @@ Die §§ 4 Abs. 1 Z 5 und 5 Abs. 1 Z 16 lit. b in der Fassung des Bundesge
 ### § 767 ASVG # Schlussbestimmung zu Art. 2 des Bundesgesetzes BGBl. I Nr. 60/2022
 
 `§ 767 ASVG.`  
-Die §§ 5 Abs. 1 Z 17 bis 19, 7 Z 4 und 53a Abs. 3a in der Fassung des Bundesgesetzes BGBl. I Nr. 60/2022 treten mit 1. Jänner 2023 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 768 ASVG # Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 42/2022
 
@@ -201,15 +187,12 @@ Die §§ 5 Abs. 1 Z 17 bis 19, 7 Z 4 und 53a Abs. 3a in der Fassung des Bun
 ### § 769 ASVG # Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 81/2022
 
 `§ 769 ASVG.`  
-§ 759b Abs. 5 in der Fassung des Bundesgesetzes BGBl. I Nr. 81/2022 tritt rückwirkend mit 19. März 2022 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 770 ASVG # Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 92/2022
 
-`§ 770 (1) ASVG.`  
-§ 742c erster Satz in der Fassung des Bundesgesetzes BGBl. I Nr. 92/2022 tritt rückwirkend mit 21. März 2022 in Kraft und mit Ablauf des 30. Juni 2023 außer Kraft.
-
-`§ 770 (2) ASVG.`  
-§ 718 Abs. 7a in der Fassung des Bundesgesetzes BGBl. I Nr. 92/2022 tritt rückwirkend mit 1. Jänner 2022 in Kraft.
+`§ 770 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 771 ASVG # Teuerungsausgleich
 
@@ -262,7 +245,7 @@ Die Abs. 1 bis 7 sind auch auf den von § 84 B-KUVG erfassten Personenkreis an
 ### § 772 ASVG # Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 93/2022
 
 `§ 772 ASVG.`  
-Die §§ 51 Abs. 1 Z 2, 53a Abs. 1 und 319a samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 93/2022 treten mit 1. Jänner 2023 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 772a ASVG # Außerordentliche Einmalzahlung
 
@@ -298,7 +281,7 @@ Die außerordentliche Einmalzahlung gilt nicht als Nettoeinkommen im Sinne des �
 ### § 774 ASVG # Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 174/2022
 
 `§ 774 ASVG.`  
-Die §§ 108 Abs. 5 erster Satz, 108i samt Überschrift und 108k in der Fassung des Bundesgesetzes BGBl. I Nr. 174/2022 treten mit 1. Oktober 2022 in Kraft. Die Anpassung nach § 108i hat erstmalig mit 1. Jänner 2023 zu erfolgen.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 775 ASVG # Pensionsanpassung 2023
 
@@ -362,12 +345,12 @@ Die Direktzahlung gilt nicht als Nettoeinkommen im Sinne des § 292 Abs. 3. Vo
 ### § 777 ASVG # Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 175/2022
 
 `§ 777 ASVG.`  
-§ 293 Abs. 1 und 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 175/2022 tritt mit 1. Jänner 2023 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 778 ASVG # Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 177/2022
 
 `§ 778 ASVG.`  
-Die §§ 742a samt Überschrift sowie 742c Abs. 1 und 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 177/2022 treten rückwirkend mit 1. September 2022 in Kraft und mit Ablauf des 30. Juni 2023 außer Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 779 ASVG # Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 179/2022
 
@@ -377,16 +360,12 @@ Die §§ 742a samt Überschrift sowie 742c Abs. 1 und 2 in der Fassung des Bun
 ### § 780 ASVG # Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 217/2022
 
 `§ 780 ASVG.`  
-Es treten in der Fassung des Bundesgesetzes BGBl. I Nr. 217/2022 in Kraft:  
-`§ 780 Z 1 ASVG.`
-mit 1. Jänner 2023 die §§ 18a Abs. 2 und 18b Abs. 1a;  
-`§ 780 Z 2 ASVG.`
-rückwirkend mit 25. Mai 2018 die §§ 30c Abs. 1a und 460e.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 781 ASVG # Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 236/2022
 
 `§ 781 ASVG.`  
-§ 49 Abs. 3 Z 28 in der Fassung des Bundesgesetzes BGBl. I Nr. 236/2022 tritt mit 1. Jänner 2023 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 782 ASVG # Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 11/2023
 
@@ -401,7 +380,7 @@ rückwirkend mit 25. Mai 2018 die §§ 30c Abs. 1a und 460e.
 ### § 784 ASVG # Schlussbestimmung zu Art. 2 des Bundesgesetzes BGBl. I Nr. 81/2023
 
 `§ 784 ASVG.`  
-§ 342 Abs. 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 81/2023 tritt mit 1. August 2023 in Kraft und ist auf Auswahlverfahren anzuwenden, die ab diesem Zeitpunkt eingeleitet wurden.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 785 ASVG # Übergangsbestimmung zur Beschaffung von Schutzausrüstung
 
@@ -422,7 +401,7 @@ Die beruflichen und gesetzlichen Interessenvertretungen der Leistungserbringer/i
 ### § 787 ASVG # Schlussbestimmung zu Art. 3 des Bundesgesetzes BGBl. I Nr. 82/2023
 
 `§ 787 ASVG.`  
-§ 31a Abs. 4 Z 6 und 7 in der Fassung des Bundesgesetzes BGBl. I Nr. 82/2023 tritt mit 30. Juni 2023 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 788 ASVG # Schlussbestimmungen zu Art. 3 des Bundesgesetzes BGBl. I Nr. 108/2023
 
@@ -432,7 +411,7 @@ Die beruflichen und gesetzlichen Interessenvertretungen der Leistungserbringer/i
 ### § 789 ASVG # Schlussbestimmung zu Art. 18 des Bundesgesetzes BGBl. I Nr. 110/2023
 
 `§ 789 ASVG.`  
-§ 49 Abs. 3 Z 26b in der Fassung des Bundesgesetzes BGBl. I Nr. 110/2023 tritt mit 1. Jänner 2024 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 790 ASVG # Pensionsanpassung 2024
 
@@ -476,7 +455,7 @@ Rechtsträger, die Leistungen nach Abs. 2 dritter und letzter Satz auszahlen, h
 ### § 793 ASVG # Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 190/2023
 
 `§ 793 ASVG.`  
-Der 8. Unterabschnitt des Ersten Teils, Abschnitt V in der Fassung des Bundesgesetzes BGBl. I Nr. 190/2023, tritt mit 1. Jänner 2024 in Kraft und mit Ablauf des 31. Dezember 2028 außer Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 794 ASVG # Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 189/2023
 
@@ -523,19 +502,13 @@ Für vom Bund angeschaffte COVID-19-Arzneimittel gilt Abs. 1 mit der Maßgabe, 
 
 ### § 800 ASVG # Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 64/2024
 
-`§ 800 (1) ASVG.`  
-Die §§ 5 Abs. 3 Z 2, 8 Abs. 1 Z 1 lit. h und Abs. 1 Z 2 lit. a, 10 Abs. 6a und Abs. 6b Z 1, 31c Abs. 3 Z 3 lit. e, 36 Abs. 1 Z 11, 44 Abs. 1 Z 12, 138 Abs. 2 lit. i und j, 158 Abs. 5, 162 Abs. 1, Abs. 3a und Abs. 3b, 163 samt Überschrift und 168 in der Fassung des Bundesgesetzes BGBl. I Nr. 64/2024 treten rückwirkend mit 1. September 2022 in Kraft und sind anzuwenden, wenn der in § 120 Z 3 festgelegte Zeitpunkt nach Ablauf des 31. August 2022 eintrat.
-
-`§ 800 (2) ASVG.`  
-Trat der in § 120 Z 3 festgelegte Zeitpunkt vor dem Tag der Kundmachung des Bundesgesetzes BGBl. I Nr. 64/2024 ein, so kann ein Antrag auf Sonderwochengeld nach § 163 oder auf Nachbemessung des Wochengeldes aufgrund § 162 Abs. 3a in der Fassung des Bundesgesetzes BGBl. I Nr. 64/2024 bis 30. Juni 2025 gestellt werden. Besteht ein rückwirkender Anspruch auf Sonderwochengeld für Zeiträume, in welchen das Entgelt nach § 14 Abs. 2 MSchG oder vergleichbaren österreichischen Rechtsvorschriften fortgezahlt wurde, so ruht das Sonderwochengeld.
-
-`§ 800 (3) ASVG.`  
-§ 162 Abs. 3 lit. c tritt rückwirkend mit 1. November 2023 in Kraft.
+`§ 800 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 801 ASVG # Schlussbestimmung zu Art. 2 des Bundesgesetzes BGBl. I Nr. 105/2024
 
-`§ 801 (1) ASVG.`  
-§ 31d Abs. 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 105/2024 tritt mit 30. September 2024 in Kraft.
+`§ 801 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 802 ASVG # Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 65/2024
 
@@ -550,17 +523,17 @@ Trat der in § 120 Z 3 festgelegte Zeitpunkt vor dem Tag der Kundmachung des B
 ### § 804 ASVG # Schlussbestimmung zu Art. 3 des BGBl. I Nr. 107/2024
 
 `§ 804 ASVG.`  
-§ 111a Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 107/2024 tritt am 1. September 2024 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 805 ASVG # Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 109/2024
 
 `§ 805 ASVG.`  
-§ 292 Abs. 4 lit. o in der Fassung des Bundesgesetzes BGBl. I Nr. 109/2024 tritt mit 1. Jänner 2025 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 806 ASVG # Schlussbestimmung zu Art. 5 des Bundesgesetzes BGBl. I Nr. 110/2024
 
 `§ 806 ASVG.`  
-§ 49 Abs. 3 Z 31 sowie § 175 Abs. 1a und 1b in der Fassung des Bundesgesetzes BGBl. I Nr. 110/2024 treten mit 1. Jänner 2025 in Kraft.“
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 807 ASVG # Pensionsanpassung 2025
 
@@ -603,27 +576,7 @@ Rechtsträger, die Leistungen nach Abs. 2 dritter und letzter Satz auszahlen, h
 
 ### § 810 ASVG # Schlussbestimmung zu Art. 28 des Bundesgesetzes BGBl. I Nr. 25/2025
 
-`§ 810 (1) ASVG.`  
-Es treten in der Fassung des Budgetbegleitgesetzes 2025, BGBl. I Nr. 25/2025, in Kraft:  
-`§ 810 (1) Z 1 ASVG.`
-mit dem auf die Kundmachung folgenden Tag die §§ 31c Abs. 2 und Abs. 3 Z 3a sowie 108h Abs. 1a;  
-`§ 810 (1) Z 2 ASVG.`
-mit 1. Jänner 2026 § 33 Abs. 1a Z 1.
-
-`§ 810 (2) ASVG.`  
-Es treten außer Kraft:  
-`§ 810 (2) Z 1 ASVG.`
-mit Ablauf des Tages der Kundmachung die §§ 31c Abs. 2 Z 1 und 808 Abs. 3;  
-`§ 810 (2) Z 2 ASVG.`
-mit 1. April 2026 § 31c Abs. 5 Z 2.
-
-`§ 810 (3) ASVG.`  
-Der Betrag nach § 5 Abs. 2 erster Satz ist abweichend von § 5 Abs. 2 zweiter Satz für das Kalenderjahr 2026 nicht zu vervielfachen.
-
-`§ 810 (4) ASVG.`  
-Abweichend von § 31c Abs. 2 ist für das Jahr 2026 von Beziehern und Bezieherinnen einer Pension nach diesem Bundesgesetz oder dem GSVG kein e-card Service-Entgelt zu zahlen.
-
-`§ 810 (5) ASVG.`  
-§ 108i ist in den Kalenderjahren 2026 und 2027 nicht anzuwenden.
+`§ 810 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 `END-OF-DATA-FILE` *(fortges. in [BG.ASVG.053](BG.ASVG.053.md))*

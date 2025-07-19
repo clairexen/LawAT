@@ -1221,22 +1221,22 @@ Die §§ 44 Abs. 1, 227 Abs. 1 Z 5, 253c Abs. 2 Z 4, Abs. 7 und Abs. 9 b
 ### § 585 ASVG # Schlussbestimmung zu Art. 1 des Sozialversicherungs-Änderungsgesetzes 1999, BGBl. I Nr. 2/2000
 
 `§ 585 ASVG.`  
-§ 44 Abs. 1 Z 10 in der Fassung des Bundesgesetzes BGBl. I Nr. 2/2000 tritt mit 1. Jänner 2000 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 585a ASVG # Schlussbestimmung zu Art. 25 des Bundesgesetzes BGBl. I Nr. 26/2000
 
 `§ 585a ASVG.`  
-§ 80a Abs. 6 in der Fassung des Bundesgesetzes BGBl. I Nr. 26/2000 tritt mit 1. Juni 2000 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 585b ASVG # Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 35/2000
 
 `§ 585b ASVG.`  
-§ 7 Z 1 lit. f in der Fassung des Bundesgesetzes BGBl. I Nr. 35/2000 tritt mit 1. Juli 2000 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 586 ASVG # Schlussbestimmung zu Art. 12 des Bundesgesetzes BGBl. I Nr. 44/2000
 
 `§ 586 ASVG.`  
-Die §§ 11 Abs. 2, 51 Abs. 1 Z 1 lit. b, d, e und f sowie Abs. 3, 52 Abs. 2, 253a Abs. 2 Z 4, 253b Abs. 1 Z 4 und Abs. 3, 276a Abs. 2 Z 4, 276b Abs. 1 Z 4 und Abs. 3 sowie 474 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 44/2000 treten mit 1. Jänner 2001 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 587 ASVG # Schlussbestimmungen zu Art. 1 des Sozialversicherungs-Änderungsgesetzes 2000, BGBl. I Nr. 43
 
@@ -1306,7 +1306,7 @@ gebührt zu der für Februar 2001 auszuzahlenden Pension eine zusätzliche Ausgl
 ### § 599 ASVG # Schlussbestimmung zu Art. 29 des Bundesgesetzes BGBl. I Nr. 100/2002
 
 `§ 599 ASVG.`  
-Die §§ 34 Abs. 1, 34b samt Überschrift, 41 Abs. 2 Z 4 und 5 sowie 49 Abs. 3 Z 18 lit. b in der Fassung des Bundesgesetzes BGBl. I Nr. 100/2002 treten mit 1. Juli 2002 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 600 ASVG # Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 140/2002 (60. Novelle)
 
@@ -1321,7 +1321,7 @@ Die §§ 34 Abs. 1, 34b samt Überschrift, 41 Abs. 2 Z 4 und 5 sowie 49 Abs.
 ### § 602 ASVG # Schlussbestimmung zu Art. VII des Bundesgesetzes BGBl. I Nr. 169/2002
 
 `§ 602 ASVG.`  
-Die §§ 135 Abs. 1 und 338 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 169/2002 treten mit 1. März 2003, jedoch nicht vor dem vierten der Kundmachung des Bundesgesetzes BGBl. I Nr. 169/2002 folgenden Monatsersten, in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 603 ASVG # Schlussbestimmungen zu Art. 6 des Bundesgesetzes BGBl. I Nr. 155/2002
 
@@ -1331,12 +1331,12 @@ Die §§ 135 Abs. 1 und 338 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I
 ### § 604 ASVG # Schlussbestimmung zu Art. 1 des Sozialversicherungs-Änderungsgesetzes 2003, BGBl. I Nr. 8/2003
 
 `§ 604 ASVG.`  
-§ 293 Abs. 1 lit. a sublit. aa in der Fassung des Bundesgesetzes BGBl. I Nr. 8/2003 tritt mit 1. Jänner 2003 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 605 ASVG # Schlussbestimmung zu Art. 2 des Bundesgesetzes BGBl. I Nr. 28/2003
 
 `§ 605 ASVG.`  
-Die §§ 53a Abs. 1, 54 Abs. 5 und 447g Abs. 2 lit. a in der Fassung des Bundesgesetzes BGBl. I Nr. 28/2003 treten mit 1. Juni 2003 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 606 ASVG # Schlussbestimmungen zu Art. 73 Teil 1 des Budgetbegleitgesetzes 2003, BGBl. I Nr. 71
 
@@ -1351,7 +1351,7 @@ Die §§ 53a Abs. 1, 54 Abs. 5 und 447g Abs. 2 lit. a in der Fassung des Bu
 ### § 608 ASVG # Schlussbestimmung zu Art. 73 Teil 3 des Budgetbegleitgesetzes 2003, BGBl. I Nr. 71
 
 `§ 608 ASVG.`  
-Die §§ 31 Abs. 3 Z 13 und 4 Z 2, 32a Abs. 3, 32b Abs. 2 Z 2 und 4 sowie Abs. 3, 32d Abs. 1 bis 3, 81 Abs. 3, 81a, 108e Abs. 2, 415 Abs. 1 und 3, 416 samt Überschrift, 420 Abs. 5 Z 2 und 3, 421 Abs. 1 und 4 Z 2, 423 Abs. 5, 441b Abs. 1 und 7, 441d Abs. 1 und 2, 442a Abs. 2 Z 1, 3 und 8 sowie Abs. 9, 442c, 444 Abs. 1 und 6, 446 Abs. 3, 446a, 447 Abs. 1 und 3, 448 Abs. 1 bis 5, 449 Abs. 2 und 5, 450 Abs. 1, 452, 455 Abs. 1 und 2, 456 Abs. 1, 456a Abs. 2 bis 4 und 460 Abs. 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 71/2003 treten rückwirkend mit 1. Mai 2003 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 609 ASVG # Schlussbestimmungen zu Art. 1 Teil 1 des Bundesgesetzes BGBl. I Nr. 145/2003 (61. Novelle)
 
@@ -1396,7 +1396,7 @@ Der Pensionsversicherungsträger hat die Beträge, die er zur Befriedigung des E
 ### § 614 ASVG # Schlussbestimmung zu Art. 1 des 2. Sozialversicherungs-Änderungsgesetzes 2004, BGBl. I Nr. 78
 
 `§ 614 ASVG.`  
-§ 264 Abs. 2 bis 6a in der Fassung des Bundesgesetzes BGBl. I Nr. 78/2004 tritt mit 1. Juli 2004 in Kraft und ist auf Versicherungsfälle des Todes anzuwenden, die nach dem 1. Juni 2004 eingetreten sind.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 615 ASVG # Schlussbestimmungen zu Art. 3 des Bundesgesetzes BGBl. I Nr. 106/2004
 
@@ -1441,7 +1441,7 @@ Der Pensionsversicherungsträger hat die Beträge, die er zur Befriedigung des E
 ### § 623 ASVG # Schlussbestimmung zu Art. 2 des Bundesgesetzes BGBl. I Nr. 45/2005
 
 `§ 623 ASVG.`  
-Die §§ 4 Abs. 2, 5 Abs. 2, 12 Abs. 7, 19a Abs. 2, Abs. 3 Z 1 und Abs. 5, 30 Abs. 4, 35 Abs. 4 lit. b und c, 41 Abs. 6, 53a Abs. 3, 85, 471f, 471g, 471h und 471m samt Überschrift sowie die Überschrift zu Abschnitt Ib des Neunten Teiles in der Fassung des Bundesgesetzes BGBl. I Nr. 45/2005 treten mit 1. Jänner 2006 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 624 ASVG # Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 71/2005 (64. Novelle)
 
@@ -1494,7 +1494,7 @@ Die Einmalzahlung gilt nicht als Nettoeinkommen im Sinne des § 292 Abs. 3. Vo
 ### § 633 ASVG # Schlussbestimmung zu Artikel 3 des Bundesgesetzes BGBl. I Nr. 76/2007
 
 `§ 633 ASVG.`  
-§ 162 Abs. 3a Z 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 76/2007 tritt mit 1. Jänner 2008 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 634 ASVG # Schlussbestimmungen zu Art. 4 des Bundesgesetzes BGBl. I Nr. 101/2007 (68. Novelle)
 
@@ -1616,7 +1616,7 @@ Die in Abs. 1 Z 1 und 2 jeweils zweitgenannten Beträge sind erstmals ab 1. J
 ### § 646 ASVG # Schlussbestimmung zu Art. 8 des Bundesgesetzes BGBl. I Nr. 116/2009
 
 `§ 646 ASVG.`  
-§ 162 Abs. 3a Z 2 und 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 116/2009 tritt mit 1. Jänner 2010 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 647 ASVG # Schlussbestimmungen zu Art. 1 Teil 1 des Bundesgesetzes BGBl. I Nr. 147/2009 (71. Novelle)
 
@@ -1626,7 +1626,7 @@ Die in Abs. 1 Z 1 und 2 jeweils zweitgenannten Beträge sind erstmals ab 1. J
 ### § 648 ASVG # Schlussbestimmung zu Art. 1 Teil 2 des Bundesgesetzes BGBl. I Nr. 147/2009 (71. Novelle)
 
 `§ 648 ASVG.`  
-Die §§ 31 Abs. 4 Z 2 bis 4 und Abs. 5 Z 23, 49 Abs. 3 Z 28, 104 Abs. 6, 108a Abs. 1, 292 Abs. 14, 298 Abs. 2 sowie 625 Abs. 12 Z 4 und 5 und Abs. 15 sowie Abschnitt VIIIb des Achten Teiles in der Fassung des Bundesgesetzes BGBl. I Nr. 147/2009 treten mit 1. Jänner 2010 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 649 ASVG # Einmalzahlung
 
@@ -1647,7 +1647,7 @@ Die Einmalzahlung gilt nicht als Nettoeinkommen im Sinne des § 292 Abs. 3. Vo
 ### § 650 ASVG # Schlussbestimmung zu Art. 22 des Bundesgesetzes BGBl. I Nr. 135/2009
 
 `§ 650 ASVG.`  
-Die §§ 19 Abs. 1 Z 2, 49 Abs. 3 Z 11, 67 Abs. 7 Z 1, 76 Abs. 2 und 3, 89 Abs. 5, 100 Abs. 1 lit. b, 107a Abs. 1, 121 Abs. 4 Z 7 lit. c und d, 123 Abs. 2 Z 1 sowie Abs. 7, 7a und 7b, 124 Abs. 1, 197 Abs. 2, 213 Abs. 1, 216 samt Überschrift, 217, 259 samt Überschrift, 269 Abs. 1 Z 1 und Abs. 3, 281 Abs. 2, 292 Abs. 2, 3 und 8, 293 Abs. 1 lit. a sublit. aa und lit. b sowie Abs. 4, 294 Abs. 4, 296 Abs. 4, 306 Abs. 2, 311 Abs. 3 lit. b, 360 Abs. 5 Z 3 und 408 in der Fassung des Bundesgesetzes BGBl. I Nr. 135/2009 treten mit 1. Jänner 2010 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 651 ASVG # Schlussbestimmungen zu Art. 3 des Bundesgesetzes BGBl. I Nr. 63/2010
 
@@ -1667,17 +1667,17 @@ Die §§ 19 Abs. 1 Z 2, 49 Abs. 3 Z 11, 67 Abs. 7 Z 1, 76 Abs. 2 und 3, 
 ### § 654 ASVG # Schlussbestimmung zu Art. 4 des Bundesgesetzes BGBl. I Nr. 64/2010
 
 `§ 654 ASVG.`  
-§ 89 Abs. 2a in der Fassung des Bundesgesetzes BGBl. I Nr. 64/2010 tritt mit 1. September 2010 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 655 ASVG # Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 58/2010
 
 `§ 655 ASVG.`  
-Die §§ 65 Überschrift und Abs. 1, 67 Abs. 5 und 7 Z 6, 67a Abs. 4 und 68 Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 58/2010 treten mit 1. August 2010 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 656 ASVG # Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 92/2010
 
 `§ 656 ASVG.`  
-§ 572 Abs. 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 92/2010 tritt mit 1. Jänner 2011 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 657 ASVG # Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 102/2010 (74. Novelle)
 
@@ -1697,16 +1697,12 @@ Die §§ 65 Überschrift und Abs. 1, 67 Abs. 5 und 7 Z 6, 67a Abs. 4 und 68
 ### § 660 ASVG # Schlussbestimmung zu Art. 5 des Bundesgesetzes BGBl. I Nr. 24/2011
 
 `§ 660 ASVG.`  
-§ 31 Abs. 5 Z 34 und 35 in der Fassung des Bundesgesetzes BGBl. I Nr. 24/2011 tritt mit 1. Mai 2011 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 661 ASVG # Schlussbestimmung zu Art. 2 des Bundesgesetzes BGBl. I Nr. 52/2011
 
 `§ 661 ASVG.`  
-Es treten in Kraft:  
-`§ 661 Z 1 ASVG.`
-mit 1. Juli 2011 § 91 Abs. 1a in der Fassung des Bundesgesetzes BGBl. I Nr. 52/2011;  
-`§ 661 Z 2 ASVG.`
-mit 1. Jänner 2012 die §§ 70 Abs. 4 und 248c Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 52/2011.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 662 ASVG # Auflösung des Pensionsinstitutes für Verkehr und öffentliche Einrichtungen
 
@@ -1724,7 +1720,7 @@ Die Übertragung von Zuschussleistungen und Anwartschaften aus dem beitragsorien
 ### § 664 ASVG # Schlussbestimmung zu Art. 3 des Bundesgesetzes BGBl. I Nr. 17/2012
 
 `§ 664 ASVG.`  
-Die §§ 4 Abs. 1 Z 11 sowie Abs. 2 Z 2 und 3, 10 Abs. 5, 14 Abs. 1 Z 9, 35 Abs. 2, 44 Abs. 1 Z 8a, 51 Abs. 4, 138 Abs. 2 lit. e, 162 Abs. 5 Z 1, 252 Abs. 2 sowie 292 Abs. 4 lit. p und r in der Fassung des Bundesgesetzes BGBl. I Nr. 17/2012 treten mit 1. Juni 2012 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 665 ASVG # Schlussbestimmungen zu Art. 48 Teil 1 des 2. Stabilitätsgesetzes 2012, BGBl. I Nr. 35 (77. Novelle)
 
@@ -1761,7 +1757,7 @@ Abweichend von Z 1 ist für die Vervielfachung von Hinterbliebenenpensionen, di
 ### § 670 ASVG # Schlussbestimmung zu Art. 3 des Bundesgesetzes BGBl. I Nr. 4/2013
 
 `§ 670 ASVG.`  
-Die §§ 5 Abs. 1 Z 15 und 7 Z 1 lit. g in der Fassung des Bundesgesetzes BGBl. I Nr. 4/2013 treten mit 1. Jänner 2013 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 671 ASVG # Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 123/2012 (79. Novelle)
 
@@ -1771,15 +1767,12 @@ Die §§ 5 Abs. 1 Z 15 und 7 Z 1 lit. g in der Fassung des Bundesgesetzes B
 ### § 672 ASVG # Schlussbestimmung zu Art. 7 des Bundesgesetzes BGBl. I Nr. 67/2013
 
 `§ 672 ASVG.`  
-§ 44 Abs. 1 Z 13 lit. d in der Fassung des Bundesgesetzes BGBl. I Nr. 67/2013 tritt mit 1. Juli 2013 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 673 ASVG # Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 87/2013 (80. Novelle)
 
-`§ 673 (1) ASVG.`  
-Die §§ 5 Abs. 1 Z 12, 110 Abs. 1 Z 2, 111a, 308 Abs. 4, 311 Abs. 1, 358 samt Überschrift, 359 Abs. 5, 360a Überschrift und erster Satz, 360b samt Überschrift, 362a samt Überschrift, 411, 412 samt Überschrift, 413 samt Überschrift, 414 samt Überschrift, 415 samt Überschrift, 416 samt Überschrift, 452a samt Überschrift und 545a samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 87/2013 treten mit 1. Jänner 2014 in Kraft.
-
-`§ 673 (2) ASVG.`  
-Die Untergliederung des Abschnittes III des Siebenten Teiles samt Überschriften sowie die §§ 357, 410 Abs. 2, 417 und 417a treten mit Ablauf des 31. Dezember 2013 außer Kraft.
+`§ 673 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 674 ASVG # Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 130/2013 (81. Novelle)
 
@@ -1804,7 +1797,7 @@ Die Untergliederung des Abschnittes III des Siebenten Teiles samt Überschrifte
 ### § 678 ASVG # Schlussbestimmung zu Art. 10 des Bundesgesetzes BGBl. I Nr. 138/2013
 
 `§ 678 ASVG.`  
-Die §§ 8 Abs. 1 Z 2 lit. j, 10 Abs. 6b Z 8 und 9, 14 Abs. 1 Z 13 und 14, 18b Abs. 1a, 31c Abs. 3, 36 Abs. 1 Z 18 und 19, 41 Abs. 4, 44 Abs. 1 Z 18 und 19, 52 Abs. 4 erster Satz sowie Z 5 und 6, 143 Abs. 1, 162 Abs. 3 lit. c und 166 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 138/2013 treten mit 1. Jänner 2014 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 679 ASVG # Schlussbestimmungen zu Art. 2 des Bundesgesetzes BGBl. I Nr. 137/2013
 
@@ -1813,40 +1806,23 @@ Die §§ 8 Abs. 1 Z 2 lit. j, 10 Abs. 6b Z 8 und 9, 14 Abs. 1 Z 13 und 1
 
 ### § 680 ASVG # Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 139/2013
 
-`§ 680 (1) ASVG.`  
-Es treten in Kraft:  
-`§ 680 (1) Z 1 ASVG.`
-mit 1. Juli 2013 die §§ 255 Abs. 3b, 484 bis 489 samt Überschriften und 662 in der Fassung des Bundesgesetzes BGBl. I Nr. 139/2013;  
-`§ 680 (1) Z 2 ASVG.`
-mit 1. August 2013 die §§ 123 Abs. 3, 215 Abs. 4 sublit. bb, 216, 259 und 264 Abs. 10 lit. b in der Fassung des Bundesgesetzes BGBl. I Nr. 139/2013;  
-`§ 680 (1) Z 3 ASVG.`
-mit 1. Jänner 2014 die §§ 49 Abs. 7 Z 2, 66, 139 Abs. 6, 307h samt Überschrift und 414 in der Fassung des Bundesgesetzes BGBl. I Nr. 139/2013;  
-`§ 680 (1) Z 4 ASVG.`
-mit 1. Jänner 2015 die §§ 67a Abs. 4 Z 2, Abs. 5a, Abs. 6 Z 1, Abs. 6a und Abs. 8a, 67c Abs. 1 und 2, 67e samt Überschrift und 112a in der Fassung des Bundesgesetzes BGBl. I Nr. 139/2013.
-
-`§ 680 (2) ASVG.`  
-§ 217 Abs. 2 tritt mit Ablauf des 31. Juli 2013 außer Kraft.
-
-`§ 680 (3) ASVG.`  
-Die § 53b Abs. 3 bis 5 in der Fassung des 2. Sozialversicherungs-Änderungsgesetzes 2013, BGBl. I Nr. 139/2013, sind auf Entgeltfortzahlungstage infolge von Unfällen, die sich nach dem 30. Juli 2013 ereignet haben, anzuwenden.
+`§ 680 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 681 ASVG # Schlussbestimmung zu Art. 4 des Bundesgesetzes BGBl. I Nr. 30/2014
 
-`§ 681 (1) ASVG.`  
-Die §§ 51 Abs. 1 Z 2 und 53a Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 30/2014 treten mit 1. Juli 2014 in Kraft.
-
-`§ 681 (2) ASVG.`  
-§ 669 Abs. 6a in der Fassung des Bundesgesetzes BGBl. I Nr. 30/2014 tritt rückwirkend mit 1. Jänner 2014 in Kraft und mit Ablauf des 31. Dezember 2015 außer Kraft.
+`§ 681 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 682 ASVG # Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 28/2014
 
 `§ 682 ASVG.`  
-Die §§ 153a Abs. 1 und 343c Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 28/2014 treten mit 1. Juli 2015 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 683 ASVG # Schlussbestimmung zu Art. 34 des Bundesgesetzes BGBl. I Nr. 40/2014
 
 `§ 683 ASVG.`  
-§ 8 Abs. 1 Z 2 lit. j in der Fassung des Bundesgesetzes BGBl. I Nr. 40/2014 tritt rückwirkend mit 1. Jänner 2014 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 684 ASVG # Schlussbestimmungen zu Art. 7 des Bundesgesetzes BGBl. I Nr. 46/2014
 
@@ -1856,17 +1832,17 @@ Die §§ 153a Abs. 1 und 343c Abs. 1 in der Fassung des Bundesgesetzes BGBl.�
 ### § 685 ASVG # Schlussbestimmung zu Art. 3 des Bundesgesetzes BGBl. I Nr. 68/2014
 
 `§ 685 ASVG.`  
-Die §§ 10 Abs. 5 und 5b, 11 Abs. 2, 12 Abs. 4b, 13 und 30 Abs. 4a in der Fassung des Bundesgesetzes BGBl. I Nr. 68/2014 treten mit 1. Juli 2014 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 686 ASVG # Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 56/2014
 
 `§ 686 ASVG.`  
-§ 252 Abs. 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 56/2014 tritt mit 1. Juli 2014 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 687 ASVG # Schlussbestimmung zu Art. 2 des Bundesgesetzes BGBl. I Nr. 82/2014
 
 `§ 687 ASVG.`  
-Die §§ 81 Abs. 2b, 342b, 343d Abs. 1 Z 4 und 460 Abs. 1a in der Fassung des Bundesgesetzes BGBl. I Nr. 82/2014 treten mit 1. Jänner 2015 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 688 ASVG # Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 2/2015 (84. Novelle)
 
@@ -1885,11 +1861,8 @@ Die §§ 81 Abs. 2b, 342b, 343d Abs. 1 Z 4 und 460 Abs. 1a in der Fassung d
 
 ### § 691 ASVG # Schlussbestimmung zu Art. 14 Teil 2 des Bundesgesetzes BGBl. I Nr. 118/2015
 
-`§ 691 (1) ASVG.`  
-Die §§ 49 Abs. 3 Z 11, 12, 16, 17, 20, 28 und 29 sowie Abs. 9, 50 und 108 Abs. 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 118/2015 treten mit 1. Jänner 2016 in Kraft.
-
-`§ 691 (2) ASVG.`  
-§ 49 Abs. 3 Z 3, 6, 8, 10, 14, 15, 24 und 25 tritt mit Ablauf des 31. Dezember 2015 außer Kraft.
+`§ 691 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 692 ASVG # Schlussbestimmungen zu Art. 2 des Bundesgesetzes BGBl. I Nr. 113/2015
 
@@ -1919,29 +1892,17 @@ Die §§ 49 Abs. 3 Z 11, 12, 16, 17, 20, 28 und 29 sowie Abs. 9, 50 und 108 
 ### § 697 ASVG # Schlussbestimmung zu Art. 11 des Bundesgesetzes BGBl. I Nr. 44/2016
 
 `§ 697 ASVG.`  
-Es treten in der Fassung des Bundesgesetzes BGBl. I Nr. 44/2016 in Kraft:  
-`§ 697 Z 1 ASVG.`
-mit 1. Juni 2016 § 5 Abs. 1 Z 16;  
-`§ 697 Z 2 ASVG.`
-mit 1. Juli 2016 § 695 Überschrift;  
-`§ 697 Z 3 ASVG.`
-rückwirkend mit 1. März 2016 § 311a Abs. 1, wenn der Bundesminister für Arbeit, Soziales und Konsumentenschutz mit Verordnung feststellt, dass die Europäische Kommission den Überweisungsbetrag nach § 311a nicht als staatliche Beihilfe beurteilt.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 698 ASVG # Schlussbestimmung zu Art. 3 des Bundesgesetzes BGBl. I Nr. 53/2016
 
-`§ 698 (1) ASVG.`  
-Die §§ 8 Abs. 1 Z 1 lit. g und Z 2 lit. k sowie Abs. 1b, 10 Abs. 6a und 6b Z 9 und 10, 11 Abs. 3 lit. a, 12 Abs. 5a, 13, 14 Abs. 5, 31c Abs. 3 Z 3 lit. g, 36 Abs. 1 Z 19a, 44 Abs. 1 Z 19a und 19b, 52 Abs. 2a und 4, 138 Abs. 2 lit. h und i, 176 Abs. 1 Z 8 und 227a Abs. 6 in der Fassung des Bundesgesetzes BGBl. I Nr. 53/2016 treten mit 1. März 2017 in Kraft und sind auf Geburten nach dem 28. Februar 2017 anzuwenden.
-
-`§ 698 (2) ASVG.`  
-§ 162 Abs. 3a Z 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 53/2016 tritt mit 1. März 2017 in Kraft und ist auf Versicherungsfälle anzuwenden, die nach dem 28. Februar 2017 eintreten.
-
-`§ 698 (3) ASVG.`  
-§ 162 Abs. 3a Z 3 tritt mit Ablauf des 28. Februar 2017 außer Kraft.
+`§ 698 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 699 ASVG # Schlussbestimmung zu Artikel 2 des Bundesgesetzes BGBl. I Nr. 75/2016
 
 `§ 699 ASVG.`  
-Die §§ 4 Abs. 1 Z 5, 5 Abs. 1 Z 16 und 350 Abs. 1a in der Fassung des Bundesgesetzes BGBl. I Nr. 75/2016 treten mit 1. September 2016 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 700 ASVG # Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 29/2017 (87. Novelle)
 
@@ -1967,47 +1928,27 @@ Die Einmalzahlung gilt nicht als Nettoeinkommen im Sinne des § 292 Abs. 3. Vo
 ### § 702 ASVG # Schlussbestimmung zu Art. 3 des Bundesgesetzes BGBl. I Nr. 32/2017
 
 `§ 702 ASVG.`  
-§ 679 Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 32/2017 tritt mit 1. Jänner 2017 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 703 ASVG # Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 30/2017
 
 `§ 703 ASVG.`  
-Die §§ 8 Abs. 1 Z 2 lit. c, 10 Abs. 6b Z 3, 36 Abs. 1 Z 13b, 40 Abs. 1 Z 1, 44 Abs. 1 Z 14a, 99 Abs. 1b, 116 Abs. 1 Z 2a, 117 Z 3a, 120 Z 2a, 122 Abs. 2 Z 1 lit. b, 125 Abs. 1a, 138 Abs. 2 lit. i und j, 143a Abs. 2, der 3b. Unterabschnitt samt Überschriften und § 178 Abs. 1a in der Fassung des Bundesgesetzes BGBl. I Nr. 30/2017 treten mit 1. Juli 2017 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 704 ASVG # Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 38/2017
 
 `§ 704 ASVG.`  
-Die §§ 31 Abs. 5 Z 20, 100 Abs. 3, 222 Abs. 1 Z 2 lit. c und d sowie Abs. 2 Z 2 lit. c und d, 253e Abs. 1 und 7, 270a, 276e, 300 Abs. 1 und 3, 302 Abs. 1 Z 1b, 303, 307a Abs. 2 und 5, 354 Z 5 und 6, 366 Abs. 4 und 368a sowie die Überschriften zu den §§ 253e, 270a und 276e in der Fassung des Bundesgesetzes BGBl. I Nr. 38/2017 treten rückwirkend mit 1. Jänner 2017 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 705 ASVG # Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 49/2017
 
-`§ 705 (1) ASVG.`  
-Es treten in Kraft:  
-`§ 705 (1) Z 1 ASVG.`
-rückwirkend mit 1. Jänner 2015 § 227a Abs. 8 in der Fassung des Bundesgesetzes BGBl. I Nr. 49/2017;  
-`§ 705 (1) Z 2 ASVG.`
-rückwirkend mit 1. Jänner 2016 die §§ 420 Abs. 3 und 423 Abs. 1 Z 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 49/2017;  
-`§ 705 (1) Z 3 ASVG.`
-mit 1. Mai 2017 die §§ 351c Abs. 6, Abs. 7 Z 2, Abs. 10 bis 13 in der Fassung des Bundesgesetzes BGBl. I Nr. 49/2017;  
-`§ 705 (1) Z 4 ASVG.`
-mit 1. Jänner 2018 § 351c Abs. 9a in der Fassung des Bundesgesetzes BGBl. I Nr. 49/2017.
-
-`§ 705 (2) ASVG.`  
-§ 351c Abs. 6, 7 Z 2 und 10 in der Fassung des Bundesgesetzes BGBl. I Nr. 49/2017 sind auf Verfahren anzuwenden, in denen die Antragstellung durch das vertriebsberechtigte Unternehmen oder die Einleitung des Verfahrens durch den Hauptverband nach dem 1. April 2017 erfolgt. 
-
-`§ 705 (3) ASVG.`  
-§ 351c Abs. 10 tritt mit 31. Dezember 2025 außer Kraft. § 351c Abs. 10 in der am 30. April 2017 geltenden Fassung tritt mit 1. Jänner 2026 in Kraft. Für Verfahren, in denen die Antragstellung durch das vertriebsberechtigte Unternehmen oder die Einleitung des Verfahrens durch den Dachverband vor dem 1. Jänner 2026 erfolgt, ist § 351c Abs. 10 in der am 31. Dezember 2025 geltenden Fassung weiterhin anzuwenden.
-
-`§ 705 (4) ASVG.`  
-Sofern die Preise für die vom § 351c Abs. 11 und 12 erfassten Arzneispezialitäten bis 1. Oktober 2017 beziehungsweise für die vom § 351c Abs. 13 erfassten Arzneispezialitäten bis 1. Oktober 2019 innerhalb des Preisbandes gesenkt werden, sind Streichungen für diese Arzneispezialitäten nach § 351f Abs. 1 aus gesundheitsökonomischen Gründen bis 1. Oktober 2020 ausgeschlossen.
+`§ 705 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 706 ASVG # Schlussbestimmung zu Art. 2 des Bundesgesetzes BGBl. I Nr. 66/2017
 
-`§ 706 (1) ASVG.`  
-§ 3b Z 11a in der Fassung des Bundesgesetzes BGBl. I Nr. 66/2017 tritt mit 1. Jänner 2019 in Kraft.
-
-`§ 706 (2) ASVG.`  
-Die §§ 5 Abs. 1 Z 13 und 7 Z 1 lit. f treten mit Ablauf des 31. Dezember 2018 außer Kraft.
+`§ 706 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 707 ASVG # Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 125/2017
 
@@ -2022,7 +1963,7 @@ Die §§ 5 Abs. 1 Z 13 und 7 Z 1 lit. f treten mit Ablauf des 31. Dezember
 ### § 708 ASVG # Schlussbestimmung zu Art. 6 des Bundesgesetzes BGBl. I Nr. 126/2017
 
 `§ 708 ASVG.`  
-Die §§ 120 Z 3 und 162 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 126/2017 treten mit 1. Jänner 2018 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 709 ASVG # Schlussbestimmungen zu Art. 3 des Bundesgesetzes BGBl. I Nr. 131/2017 (88. Novelle)
 
@@ -2031,11 +1972,8 @@ Die §§ 120 Z 3 und 162 Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr
 
 ### § 710 ASVG # Schlussbestimmung zu Art. 5 des Bundesgesetzes BGBl. I Nr. 105/2017
 
-`§ 710 (1) ASVG.`  
-§ 49 Abs. 3 Z 18 lit. d und e in der Fassung des Bundesgesetzes BGBl. I Nr. 105/2017 tritt mit 1. Jänner 2018 in Kraft.
-
-`§ 710 (2) ASVG.`  
-§ 49 Abs. 3 Z 18 lit. d in der am 31. Dezember 2017 geltenden Fassung ist so lange weiterhin auf nicht übertragbare Optionen auf Beteiligungen am Unternehmen des Dienstgebers anzuwenden, als der Vorteil aus der Ausübung dieser Optionen einkommensteuerbefreit ist.
+`§ 710 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 711 ASVG # Pensionsanpassung 2018
 
@@ -2079,12 +2017,12 @@ Rechtsträger, die Leistungen nach Abs. 2 dritter Satz auszahlen, haben die Hö
 ### § 714 ASVG # Schlussbestimmung zu Art. 71 des Bundesgesetzes BGBl. I Nr. 37/2018
 
 `§ 714 ASVG.`  
-Die §§ 31 Abs. 4 Z 10 und Abs. 11, 31a Abs. 2, 4 und 4a, 31b Abs. 1 und 2, 41a Abs. 5, 42b Abs. 1, 2, 4 und 5, 84a Abs. 5 Z 2, 186 Abs. 2, 321 Abs. 1, 360 Abs. 6, 418 Abs. 7 und 460e in der Fassung des Bundesgesetzes BGBl. I Nr. 37/2018 treten mit 25. Mai 2018 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 715 ASVG # Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 54/2018
 
 `§ 715 ASVG.`  
-Die §§ 88 Abs. 1a und 2, 100 Abs. 4, 104 Abs. 1, 138 Abs. 2 lit. i und j, 143 Abs. 1 Z 7 und 8, 143d Abs. 3 und 4, 204 Abs. 1 und 1a, 306 Abs. 4 erster Satz und 472 Abs. 2 Z 5 lit. b bis d in der Fassung des Bundesgesetzes BGBl. I Nr. 54/2018 treten mit 1. Juli 2018 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 716 ASVG # Schlussbestimmungen zu Art. 10 des Bundesgesetzes BGBl. I Nr. 59/2018
 
@@ -2094,7 +2032,7 @@ Die §§ 88 Abs. 1a und 2, 100 Abs. 4, 104 Abs. 1, 138 Abs. 2 lit. i und j
 ### § 717 ASVG # Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 53/2018
 
 `§ 717 ASVG.`  
-§ 42b Abs. 1 bis 4 und die Anlage 14 in der Fassung des Bundesgesetzes BGBl. I Nr. 53/2018 treten mit 1. September 2018 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 717a ASVG # Pensionsanpassung 2019
 
@@ -2167,7 +2105,7 @@ Werden in anderen Bundesgesetzen die in der linken Spalte genannten Begriffe ver
 ### § 721 ASVG # Schlussbestimmung zu Art. 4 des Bundesgesetzes BGBl. I Nr. 98/2018
 
 `§ 721 ASVG.`  
-§ 41a in der Fassung des Bundesgesetzes, BGBl. I Nr. 98/2018, tritt mit 1. Jänner 2020 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 722 ASVG # Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 8/2019
 
@@ -2177,7 +2115,7 @@ Werden in anderen Bundesgesetzen die in der linken Spalte genannten Begriffe ver
 ### § 723 ASVG # Schlussbestimmung zu Art. 2 des Bundesgesetzes BGBl. I Nr. 20/2019
 
 `§ 723 ASVG.`  
-Die §§ 5 Abs. 1 Z 16 und 17 sowie 342e samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 20/2019 treten mit Ablauf des Tages ihrer Kundmachung in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 724 ASVG # Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 23/2019
 
@@ -2187,7 +2125,7 @@ Die §§ 5 Abs. 1 Z 16 und 17 sowie 342e samt Überschrift in der Fassung des
 ### § 725 ASVG # Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 65/2019
 
 `§ 725 ASVG.`  
-§ 7 Z 1 lit. e in der Fassung des Bundesgesetzes BGBl. I Nr. 65/2019 tritt mit 1. Juli 2019 in Kraft und ist auch auf Sachverhalte anzuwenden, die vor seinem Inkrafttreten verwirklicht wurden.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 726 ASVG # Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 84/2019
 
@@ -2237,12 +2175,12 @@ Rechtsträger, die Leistungen nach Abs. 2 dritter Satz auszahlen, haben die Hö
 ### § 729 ASVG # Schlussbestimmung zu Art. 9 des Bundesgesetzes BGBl. I Nr. 104/2019
 
 `§ 729 ASVG.`  
-Die §§ 67a Abs. 4 Z 2 lit. a, 111a Abs. 1, 351j Abs. 2, 360 Abs. 7 und 412c Abs. 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 104/2019 treten mit 1. Jänner 2021 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 730 ASVG # Schlussbestimmung zu Art. 23 des Bundesgesetzes BGBl. I Nr. 105/2019
 
 `§ 730 ASVG.`  
-§ 460d in der Fassung des Bundesgesetzes BGBl. I Nr. 105/2019 tritt mit 1. Jänner 2020 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 731 ASVG # Ergänzende Schlussbestimmungen zum Sozialversicherungs-Organisationsgesetz, BGBl. I Nr. 100/2018
 
@@ -2367,7 +2305,7 @@ Die Abs. 7 bis 13 sind auch auf den von § 30a B-KUVG erfassten Personenkreis 
 ### § 738 ASVG # Schlussbestimmung zu Art. 20 des Bundesgesetzes BGBl. I Nr. 99/2020
 
 `§ 738 ASVG.`  
-§ 111 Abs. 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 99/2020 tritt mit 1. Jänner 2021 in Kraft. § 733 Abs. 7 bis 14 in der Fassung des Bundesgesetzes BGBl. I Nr. 99/2020 tritt mit 1. Juni 2020 in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 739 ASVG # Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 73/2020
 
@@ -2382,7 +2320,7 @@ Die Abs. 7 bis 13 sind auch auf den von § 30a B-KUVG erfassten Personenkreis 
 ### § 743 ASVG # Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 105/2020
 
 `§ 743 ASVG.`  
-Die §§ 741 samt Überschrift sowie 742 samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 105/2020 treten mit dem auf den Tag der Kundmachung folgenden Tag in Kraft.
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 744 ASVG # Pensionsanpassung 2021
 

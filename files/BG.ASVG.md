@@ -17211,7 +17211,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 585 ASVG — Schlussbestimmung zu Art. 1 des Sozialversicherungs-Änderungsgesetzes 1999, BGBl. I Nr. 2/2000
 
-> § 44 Abs\. 1 Z 10 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 2/2000 tritt mit 1\. Jänner 2000 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-585-asvg--schlussbestimmung-zu-art-1-des-sozialversicherungs-änderungsgesetzes-1999-bgbl-i-nr-22000) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=585) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_746_TextContainer_746) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-585-asvg--schlussbestimmung-zu-art-1-des-sozialversicherungs-änderungsgesetzes-1999-bgbl-i-nr-22000) \]
 
@@ -17219,7 +17219,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 585a ASVG — Schlussbestimmung zu Art. 25 des Bundesgesetzes BGBl. I Nr. 26/2000
 
-> § 80a Abs\. 6 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 26/2000 tritt mit 1\. Juni 2000 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-585a-asvg--schlussbestimmung-zu-art-25-des-bundesgesetzes-bgbl-i-nr-262000) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=585a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_747_TextContainer_747) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-585a-asvg--schlussbestimmung-zu-art-25-des-bundesgesetzes-bgbl-i-nr-262000) \]
 
@@ -17227,7 +17227,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 585b ASVG — Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 35/2000
 
-> § 7 Z 1 lit\. f in der Fassung des Bundesgesetzes BGBl\. I Nr\. 35/2000 tritt mit 1\. Juli 2000 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-585b-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-352000) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=585b) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_748_TextContainer_748) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-585b-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-352000) \]
 
@@ -17235,7 +17235,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 586 ASVG — Schlussbestimmung zu Art. 12 des Bundesgesetzes BGBl. I Nr. 44/2000
 
-> Die §§ 11 Abs\. 2, 51 Abs\. 1 Z 1 lit\. b, d, e und f sowie Abs\. 3, 52 Abs\. 2, 253a Abs\. 2 Z 4, 253b Abs\. 1 Z 4 und Abs\. 3, 276a Abs\. 2 Z 4, 276b Abs\. 1 Z 4 und Abs\. 3 sowie 474 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 44/2000 treten mit 1\. Jänner 2001 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-586-asvg--schlussbestimmung-zu-art-12-des-bundesgesetzes-bgbl-i-nr-442000) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=586) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_749_TextContainer_749) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-586-asvg--schlussbestimmung-zu-art-12-des-bundesgesetzes-bgbl-i-nr-442000) \]
 
@@ -17345,7 +17345,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 599 ASVG — Schlussbestimmung zu Art. 29 des Bundesgesetzes BGBl. I Nr. 100/2002
 
-> Die §§ 34 Abs\. 1, 34b samt Überschrift, 41 Abs\. 2 Z 4 und 5 sowie 49 Abs\. 3 Z 18 lit\. b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 100/2002 treten mit 1\. Juli 2002 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-599-asvg--schlussbestimmung-zu-art-29-des-bundesgesetzes-bgbl-i-nr-1002002) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=599) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_762_TextContainer_762) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-599-asvg--schlussbestimmung-zu-art-29-des-bundesgesetzes-bgbl-i-nr-1002002) \]
 
@@ -17369,7 +17369,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 602 ASVG — Schlussbestimmung zu Art. VII des Bundesgesetzes BGBl. I Nr. 169/2002
 
-> Die §§ 135 Abs\. 1 und 338 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 169/2002 treten mit 1\. März 2003, jedoch nicht vor dem vierten der Kundmachung des Bundesgesetzes BGBl\. I Nr\. 169/2002 folgenden Monatsersten, in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-602-asvg--schlussbestimmung-zu-art-vii-des-bundesgesetzes-bgbl-i-nr-1692002) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=602) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_765_TextContainer_765) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-602-asvg--schlussbestimmung-zu-art-vii-des-bundesgesetzes-bgbl-i-nr-1692002) \]
 
@@ -17385,7 +17385,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 604 ASVG — Schlussbestimmung zu Art. 1 des Sozialversicherungs-Änderungsgesetzes 2003, BGBl. I Nr. 8/2003
 
-> § 293 Abs\. 1 lit\. a sublit\. aa in der Fassung des Bundesgesetzes BGBl\. I Nr\. 8/2003 tritt mit 1\. Jänner 2003 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-604-asvg--schlussbestimmung-zu-art-1-des-sozialversicherungs-änderungsgesetzes-2003-bgbl-i-nr-82003) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=604) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_767_TextContainer_767) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-604-asvg--schlussbestimmung-zu-art-1-des-sozialversicherungs-änderungsgesetzes-2003-bgbl-i-nr-82003) \]
 
@@ -17393,7 +17393,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 605 ASVG — Schlussbestimmung zu Art. 2 des Bundesgesetzes BGBl. I Nr. 28/2003
 
-> Die §§ 53a Abs\. 1, 54 Abs\. 5 und 447g Abs\. 2 lit\. a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 28/2003 treten mit 1\. Juni 2003 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-605-asvg--schlussbestimmung-zu-art-2-des-bundesgesetzes-bgbl-i-nr-282003) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=605) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_768_TextContainer_768) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-605-asvg--schlussbestimmung-zu-art-2-des-bundesgesetzes-bgbl-i-nr-282003) \]
 
@@ -17417,7 +17417,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 608 ASVG — Schlussbestimmung zu Art. 73 Teil 3 des Budgetbegleitgesetzes 2003, BGBl. I Nr. 71
 
-> Die §§ 31 Abs\. 3 Z 13 und 4 Z 2, 32a Abs\. 3, 32b Abs\. 2 Z 2 und 4 sowie Abs\. 3, 32d Abs\. 1 bis 3, 81 Abs\. 3, 81a, 108e Abs\. 2, 415 Abs\. 1 und 3, 416 samt Überschrift, 420 Abs\. 5 Z 2 und 3, 421 Abs\. 1 und 4 Z 2, 423 Abs\. 5, 441b Abs\. 1 und 7, 441d Abs\. 1 und 2, 442a Abs\. 2 Z 1, 3 und 8 sowie Abs\. 9, 442c, 444 Abs\. 1 und 6, 446 Abs\. 3, 446a, 447 Abs\. 1 und 3, 448 Abs\. 1 bis 5, 449 Abs\. 2 und 5, 450 Abs\. 1, 452, 455 Abs\. 1 und 2, 456 Abs\. 1, 456a Abs\. 2 bis 4 und 460 Abs\. 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2003 treten rückwirkend mit 1\. Mai 2003 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-608-asvg--schlussbestimmung-zu-art-73-teil-3-des-budgetbegleitgesetzes-2003-bgbl-i-nr-71) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=608) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_771_TextContainer_771) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-608-asvg--schlussbestimmung-zu-art-73-teil-3-des-budgetbegleitgesetzes-2003-bgbl-i-nr-71) \]
 
@@ -17475,7 +17475,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 614 ASVG — Schlussbestimmung zu Art. 1 des 2. Sozialversicherungs-Änderungsgesetzes 2004, BGBl. I Nr. 78
 
-> § 264 Abs\. 2 bis 6a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 78/2004 tritt mit 1\. Juli 2004 in Kraft und ist auf Versicherungsfälle des Todes anzuwenden, die nach dem 1\. Juni 2004 eingetreten sind\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-614-asvg--schlussbestimmung-zu-art-1-des-2-sozialversicherungs-änderungsgesetzes-2004-bgbl-i-nr-78) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=614) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_777_TextContainer_777) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-614-asvg--schlussbestimmung-zu-art-1-des-2-sozialversicherungs-änderungsgesetzes-2004-bgbl-i-nr-78) \]
 
@@ -17547,7 +17547,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 623 ASVG — Schlussbestimmung zu Art. 2 des Bundesgesetzes BGBl. I Nr. 45/2005
 
-> Die §§ 4 Abs\. 2, 5 Abs\. 2, 12 Abs\. 7, 19a Abs\. 2, Abs\. 3 Z 1 und Abs\. 5, 30 Abs\. 4, 35 Abs\. 4 lit\. b und c, 41 Abs\. 6, 53a Abs\. 3, 85, 471f, 471g, 471h und 471m samt Überschrift sowie die Überschrift zu Abschnitt Ib des Neunten Teiles in der Fassung des Bundesgesetzes BGBl\. I Nr\. 45/2005 treten mit 1\. Jänner 2006 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-623-asvg--schlussbestimmung-zu-art-2-des-bundesgesetzes-bgbl-i-nr-452005) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=623) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_786_TextContainer_786) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-623-asvg--schlussbestimmung-zu-art-2-des-bundesgesetzes-bgbl-i-nr-452005) \]
 
@@ -17629,7 +17629,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 633 ASVG — Schlussbestimmung zu Artikel 3 des Bundesgesetzes BGBl. I Nr. 76/2007
 
-> § 162 Abs\. 3a Z 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 76/2007 tritt mit 1\. Jänner 2008 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-633-asvg--schlussbestimmung-zu-artikel-3-des-bundesgesetzes-bgbl-i-nr-762007) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=633) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_796_TextContainer_796) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-633-asvg--schlussbestimmung-zu-artikel-3-des-bundesgesetzes-bgbl-i-nr-762007) \]
 
@@ -17781,7 +17781,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 646 ASVG — Schlussbestimmung zu Art. 8 des Bundesgesetzes BGBl. I Nr. 116/2009
 
-> § 162 Abs\. 3a Z 2 und 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 116/2009 tritt mit 1\. Jänner 2010 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-646-asvg--schlussbestimmung-zu-art-8-des-bundesgesetzes-bgbl-i-nr-1162009) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=646) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_809_TextContainer_809) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-646-asvg--schlussbestimmung-zu-art-8-des-bundesgesetzes-bgbl-i-nr-1162009) \]
 
@@ -17797,7 +17797,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 648 ASVG — Schlussbestimmung zu Art. 1 Teil 2 des Bundesgesetzes BGBl. I Nr. 147/2009 (71. Novelle)
 
-> Die §§ 31 Abs\. 4 Z 2 bis 4 und Abs\. 5 Z 23, 49 Abs\. 3 Z 28, 104 Abs\. 6, 108a Abs\. 1, 292 Abs\. 14, 298 Abs\. 2 sowie 625 Abs\. 12 Z 4 und 5 und Abs\. 15 sowie Abschnitt VIIIb des Achten Teiles in der Fassung des Bundesgesetzes BGBl\. I Nr\. 147/2009 treten mit 1\. Jänner 2010 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-648-asvg--schlussbestimmung-zu-art-1-teil-2-des-bundesgesetzes-bgbl-i-nr-1472009-71-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=648) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_811_TextContainer_811) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-648-asvg--schlussbestimmung-zu-art-1-teil-2-des-bundesgesetzes-bgbl-i-nr-1472009-71-novelle) \]
 
@@ -17823,7 +17823,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 650 ASVG — Schlussbestimmung zu Art. 22 des Bundesgesetzes BGBl. I Nr. 135/2009
 
-> Die §§ 19 Abs\. 1 Z 2, 49 Abs\. 3 Z 11, 67 Abs\. 7 Z 1, 76 Abs\. 2 und 3, 89 Abs\. 5, 100 Abs\. 1 lit\. b, 107a Abs\. 1, 121 Abs\. 4 Z 7 lit\. c und d, 123 Abs\. 2 Z 1 sowie Abs\. 7, 7a und 7b, 124 Abs\. 1, 197 Abs\. 2, 213 Abs\. 1, 216 samt Überschrift, 217, 259 samt Überschrift, 269 Abs\. 1 Z 1 und Abs\. 3, 281 Abs\. 2, 292 Abs\. 2, 3 und 8, 293 Abs\. 1 lit\. a sublit\. aa und lit\. b sowie Abs\. 4, 294 Abs\. 4, 296 Abs\. 4, 306 Abs\. 2, 311 Abs\. 3 lit\. b, 360 Abs\. 5 Z 3 und 408 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 135/2009 treten mit 1\. Jänner 2010 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-650-asvg--schlussbestimmung-zu-art-22-des-bundesgesetzes-bgbl-i-nr-1352009) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=650) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_813_TextContainer_813) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-650-asvg--schlussbestimmung-zu-art-22-des-bundesgesetzes-bgbl-i-nr-1352009) \]
 
@@ -17855,7 +17855,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 654 ASVG — Schlussbestimmung zu Art. 4 des Bundesgesetzes BGBl. I Nr. 64/2010
 
-> § 89 Abs\. 2a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 64/2010 tritt mit 1\. September 2010 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-654-asvg--schlussbestimmung-zu-art-4-des-bundesgesetzes-bgbl-i-nr-642010) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=654) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_817_TextContainer_817) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-654-asvg--schlussbestimmung-zu-art-4-des-bundesgesetzes-bgbl-i-nr-642010) \]
 
@@ -17863,7 +17863,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 655 ASVG — Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 58/2010
 
-> Die §§ 65 Überschrift und Abs\. 1, 67 Abs\. 5 und 7 Z 6, 67a Abs\. 4 und 68 Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 58/2010 treten mit 1\. August 2010 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-655-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-582010) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=655) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_818_TextContainer_818) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-655-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-582010) \]
 
@@ -17871,7 +17871,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 656 ASVG — Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 92/2010
 
-> § 572 Abs\. 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 92/2010 tritt mit 1\. Jänner 2011 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-656-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-922010) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=656) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_819_TextContainer_819) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-656-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-922010) \]
 
@@ -17903,7 +17903,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 660 ASVG — Schlussbestimmung zu Art. 5 des Bundesgesetzes BGBl. I Nr. 24/2011
 
-> § 31 Abs\. 5 Z 34 und 35 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 24/2011 tritt mit 1\. Mai 2011 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-660-asvg--schlussbestimmung-zu-art-5-des-bundesgesetzes-bgbl-i-nr-242011) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=660) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_823_TextContainer_823) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-660-asvg--schlussbestimmung-zu-art-5-des-bundesgesetzes-bgbl-i-nr-242011) \]
 
@@ -17911,11 +17911,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 661 ASVG — Schlussbestimmung zu Art. 2 des Bundesgesetzes BGBl. I Nr. 52/2011
 
-> Es treten in Kraft:
->
->> `1.` mit 1\. Juli 2011 § 91 Abs\. 1a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 52/2011;
->
->> `2.` mit 1\. Jänner 2012 die §§ 70 Abs\. 4 und 248c Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 52/2011\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-661-asvg--schlussbestimmung-zu-art-2-des-bundesgesetzes-bgbl-i-nr-522011) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=661) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_824_TextContainer_824) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-661-asvg--schlussbestimmung-zu-art-2-des-bundesgesetzes-bgbl-i-nr-522011) \]
 
@@ -17941,7 +17937,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 664 ASVG — Schlussbestimmung zu Art. 3 des Bundesgesetzes BGBl. I Nr. 17/2012
 
-> Die §§ 4 Abs\. 1 Z 11 sowie Abs\. 2 Z 2 und 3, 10 Abs\. 5, 14 Abs\. 1 Z 9, 35 Abs\. 2, 44 Abs\. 1 Z 8a, 51 Abs\. 4, 138 Abs\. 2 lit\. e, 162 Abs\. 5 Z 1, 252 Abs\. 2 sowie 292 Abs\. 4 lit\. p und r in der Fassung des Bundesgesetzes BGBl\. I Nr\. 17/2012 treten mit 1\. Juni 2012 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-664-asvg--schlussbestimmung-zu-art-3-des-bundesgesetzes-bgbl-i-nr-172012) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=664) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_827_TextContainer_827) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-664-asvg--schlussbestimmung-zu-art-3-des-bundesgesetzes-bgbl-i-nr-172012) \]
 
@@ -17997,7 +17993,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 670 ASVG — Schlussbestimmung zu Art. 3 des Bundesgesetzes BGBl. I Nr. 4/2013
 
-> Die §§ 5 Abs\. 1 Z 15 und 7 Z 1 lit\. g in der Fassung des Bundesgesetzes BGBl\. I Nr\. 4/2013 treten mit 1\. Jänner 2013 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-670-asvg--schlussbestimmung-zu-art-3-des-bundesgesetzes-bgbl-i-nr-42013) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=670) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_833_TextContainer_833) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-670-asvg--schlussbestimmung-zu-art-3-des-bundesgesetzes-bgbl-i-nr-42013) \]
 
@@ -18013,7 +18009,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 672 ASVG — Schlussbestimmung zu Art. 7 des Bundesgesetzes BGBl. I Nr. 67/2013
 
-> § 44 Abs\. 1 Z 13 lit\. d in der Fassung des Bundesgesetzes BGBl\. I Nr\. 67/2013 tritt mit 1\. Juli 2013 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-672-asvg--schlussbestimmung-zu-art-7-des-bundesgesetzes-bgbl-i-nr-672013) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=672) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_835_TextContainer_835) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-672-asvg--schlussbestimmung-zu-art-7-des-bundesgesetzes-bgbl-i-nr-672013) \]
 
@@ -18021,9 +18017,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 673 ASVG — Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 87/2013 (80. Novelle)
 
-> `(1)` Die §§ 5 Abs\. 1 Z 12, 110 Abs\. 1 Z 2, 111a, 308 Abs\. 4, 311 Abs\. 1, 358 samt Überschrift, 359 Abs\. 5, 360a Überschrift und erster Satz, 360b samt Überschrift, 362a samt Überschrift, 411, 412 samt Überschrift, 413 samt Überschrift, 414 samt Überschrift, 415 samt Überschrift, 416 samt Überschrift, 452a samt Überschrift und 545a samt Überschrift in der Fassung des Bundesgesetzes BGBl\. I Nr\. 87/2013 treten mit 1\. Jänner 2014 in Kraft\.
-
-> `(2)` Die Untergliederung des Abschnittes III des Siebenten Teiles samt Überschriften sowie die §§ 357, 410 Abs\. 2, 417 und 417a treten mit Ablauf des 31\. Dezember 2013 außer Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-673-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-872013-80-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=673) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_836_TextContainer_836) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-673-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-872013-80-novelle) \]
 
@@ -18063,7 +18057,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 678 ASVG — Schlussbestimmung zu Art. 10 des Bundesgesetzes BGBl. I Nr. 138/2013
 
-> Die §§ 8 Abs\. 1 Z 2 lit\. j, 10 Abs\. 6b Z 8 und 9, 14 Abs\. 1 Z 13 und 14, 18b Abs\. 1a, 31c Abs\. 3, 36 Abs\. 1 Z 18 und 19, 41 Abs\. 4, 44 Abs\. 1 Z 18 und 19, 52 Abs\. 4 erster Satz sowie Z 5 und 6, 143 Abs\. 1, 162 Abs\. 3 lit\. c und 166 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 138/2013 treten mit 1\. Jänner 2014 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-678-asvg--schlussbestimmung-zu-art-10-des-bundesgesetzes-bgbl-i-nr-1382013) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=678) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_841_TextContainer_841) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-678-asvg--schlussbestimmung-zu-art-10-des-bundesgesetzes-bgbl-i-nr-1382013) \]
 
@@ -18079,19 +18073,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 680 ASVG — Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 139/2013
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. Juli 2013 die §§ 255 Abs\. 3b, 484 bis 489 samt Überschriften und 662 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 139/2013;
->
->> `2.` mit 1\. August 2013 die §§ 123 Abs\. 3, 215 Abs\. 4 sublit\. bb, 216, 259 und 264 Abs\. 10 lit\. b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 139/2013;
->
->> `3.` mit 1\. Jänner 2014 die §§ 49 Abs\. 7 Z 2, 66, 139 Abs\. 6, 307h samt Überschrift und 414 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 139/2013;
->
->> `4.` mit 1\. Jänner 2015 die §§ 67a Abs\. 4 Z 2, Abs\. 5a, Abs\. 6 Z 1, Abs\. 6a und Abs\. 8a, 67c Abs\. 1 und 2, 67e samt Überschrift und 112a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 139/2013\.
-
-> `(2)` § 217 Abs\. 2 tritt mit Ablauf des 31\. Juli 2013 außer Kraft\.
-
-> `(3)` Die § 53b Abs\. 3 bis 5 in der Fassung des 2\. Sozialversicherungs\-Änderungsgesetzes 2013, BGBl\. I Nr\. 139/2013, sind auf Entgeltfortzahlungstage infolge von Unfällen, die sich nach dem 30\. Juli 2013 ereignet haben, anzuwenden\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-680-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1392013) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=680) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_843_TextContainer_843) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-680-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1392013) \]
 
@@ -18099,9 +18081,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 681 ASVG — Schlussbestimmung zu Art. 4 des Bundesgesetzes BGBl. I Nr. 30/2014
 
-> `(1)` Die §§ 51 Abs\. 1 Z 2 und 53a Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 30/2014 treten mit 1\. Juli 2014 in Kraft\.
-
-> `(2)` § 669 Abs\. 6a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 30/2014 tritt rückwirkend mit 1\. Jänner 2014 in Kraft und mit Ablauf des 31\. Dezember 2015 außer Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-681-asvg--schlussbestimmung-zu-art-4-des-bundesgesetzes-bgbl-i-nr-302014) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=681) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_844_TextContainer_844) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-681-asvg--schlussbestimmung-zu-art-4-des-bundesgesetzes-bgbl-i-nr-302014) \]
 
@@ -18109,7 +18089,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 682 ASVG — Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 28/2014
 
-> Die §§ 153a Abs\. 1 und 343c Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 28/2014 treten mit 1\. Juli 2015 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-682-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-282014) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=682) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_845_TextContainer_845) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-682-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-282014) \]
 
@@ -18117,7 +18097,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 683 ASVG — Schlussbestimmung zu Art. 34 des Bundesgesetzes BGBl. I Nr. 40/2014
 
-> § 8 Abs\. 1 Z 2 lit\. j in der Fassung des Bundesgesetzes BGBl\. I Nr\. 40/2014 tritt rückwirkend mit 1\. Jänner 2014 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-683-asvg--schlussbestimmung-zu-art-34-des-bundesgesetzes-bgbl-i-nr-402014) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=683) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_846_TextContainer_846) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-683-asvg--schlussbestimmung-zu-art-34-des-bundesgesetzes-bgbl-i-nr-402014) \]
 
@@ -18133,7 +18113,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 685 ASVG — Schlussbestimmung zu Art. 3 des Bundesgesetzes BGBl. I Nr. 68/2014
 
-> Die §§ 10 Abs\. 5 und 5b, 11 Abs\. 2, 12 Abs\. 4b, 13 und 30 Abs\. 4a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 68/2014 treten mit 1\. Juli 2014 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-685-asvg--schlussbestimmung-zu-art-3-des-bundesgesetzes-bgbl-i-nr-682014) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=685) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_848_TextContainer_848) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-685-asvg--schlussbestimmung-zu-art-3-des-bundesgesetzes-bgbl-i-nr-682014) \]
 
@@ -18141,7 +18121,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 686 ASVG — Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 56/2014
 
-> § 252 Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 56/2014 tritt mit 1\. Juli 2014 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-686-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-562014) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=686) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_849_TextContainer_849) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-686-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-562014) \]
 
@@ -18149,7 +18129,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 687 ASVG — Schlussbestimmung zu Art. 2 des Bundesgesetzes BGBl. I Nr. 82/2014
 
-> Die §§ 81 Abs\. 2b, 342b, 343d Abs\. 1 Z 4 und 460 Abs\. 1a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 82/2014 treten mit 1\. Jänner 2015 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-687-asvg--schlussbestimmung-zu-art-2-des-bundesgesetzes-bgbl-i-nr-822014) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=687) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_850_TextContainer_850) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-687-asvg--schlussbestimmung-zu-art-2-des-bundesgesetzes-bgbl-i-nr-822014) \]
 
@@ -18181,9 +18161,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 691 ASVG — Schlussbestimmung zu Art. 14 Teil 2 des Bundesgesetzes BGBl. I Nr. 118/2015
 
-> `(1)` Die §§ 49 Abs\. 3 Z 11, 12, 16, 17, 20, 28 und 29 sowie Abs\. 9, 50 und 108 Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 118/2015 treten mit 1\. Jänner 2016 in Kraft\.
-
-> `(2)` § 49 Abs\. 3 Z 3, 6, 8, 10, 14, 15, 24 und 25 tritt mit Ablauf des 31\. Dezember 2015 außer Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-691-asvg--schlussbestimmung-zu-art-14-teil-2-des-bundesgesetzes-bgbl-i-nr-1182015) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=691) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_854_TextContainer_854) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-691-asvg--schlussbestimmung-zu-art-14-teil-2-des-bundesgesetzes-bgbl-i-nr-1182015) \]
 
@@ -18231,13 +18209,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 697 ASVG — Schlussbestimmung zu Art. 11 des Bundesgesetzes BGBl. I Nr. 44/2016
 
-> Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 44/2016 in Kraft:
->
->> `1.` mit 1\. Juni 2016 § 5 Abs\. 1 Z 16;
->
->> `2.` mit 1\. Juli 2016 § 695 Überschrift;
->
->> `3.` rückwirkend mit 1\. März 2016 § 311a Abs\. 1, wenn der Bundesminister für Arbeit, Soziales und Konsumentenschutz mit Verordnung feststellt, dass die Europäische Kommission den Überweisungsbetrag nach § 311a nicht als staatliche Beihilfe beurteilt\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-697-asvg--schlussbestimmung-zu-art-11-des-bundesgesetzes-bgbl-i-nr-442016) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=697) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_860_TextContainer_860) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-697-asvg--schlussbestimmung-zu-art-11-des-bundesgesetzes-bgbl-i-nr-442016) \]
 
@@ -18245,11 +18217,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 698 ASVG — Schlussbestimmung zu Art. 3 des Bundesgesetzes BGBl. I Nr. 53/2016
 
-> `(1)` Die §§ 8 Abs\. 1 Z 1 lit\. g und Z 2 lit\. k sowie Abs\. 1b, 10 Abs\. 6a und 6b Z 9 und 10, 11 Abs\. 3 lit\. a, 12 Abs\. 5a, 13, 14 Abs\. 5, 31c Abs\. 3 Z 3 lit\. g, 36 Abs\. 1 Z 19a, 44 Abs\. 1 Z 19a und 19b, 52 Abs\. 2a und 4, 138 Abs\. 2 lit\. h und i, 176 Abs\. 1 Z 8 und 227a Abs\. 6 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 53/2016 treten mit 1\. März 2017 in Kraft und sind auf Geburten nach dem 28\. Februar 2017 anzuwenden\.
-
-> `(2)` § 162 Abs\. 3a Z 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 53/2016 tritt mit 1\. März 2017 in Kraft und ist auf Versicherungsfälle anzuwenden, die nach dem 28\. Februar 2017 eintreten\.
-
-> `(3)` § 162 Abs\. 3a Z 3 tritt mit Ablauf des 28\. Februar 2017 außer Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-698-asvg--schlussbestimmung-zu-art-3-des-bundesgesetzes-bgbl-i-nr-532016) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=698) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_861_TextContainer_861) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-698-asvg--schlussbestimmung-zu-art-3-des-bundesgesetzes-bgbl-i-nr-532016) \]
 
@@ -18257,7 +18225,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 699 ASVG — Schlussbestimmung zu Artikel 2 des Bundesgesetzes BGBl. I Nr. 75/2016
 
-> Die §§ 4 Abs\. 1 Z 5, 5 Abs\. 1 Z 16 und 350 Abs\. 1a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 75/2016 treten mit 1\. September 2016 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-699-asvg--schlussbestimmung-zu-artikel-2-des-bundesgesetzes-bgbl-i-nr-752016) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=699) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_862_TextContainer_862) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-699-asvg--schlussbestimmung-zu-artikel-2-des-bundesgesetzes-bgbl-i-nr-752016) \]
 
@@ -18293,7 +18261,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 702 ASVG — Schlussbestimmung zu Art. 3 des Bundesgesetzes BGBl. I Nr. 32/2017
 
-> § 679 Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 32/2017 tritt mit 1\. Jänner 2017 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-702-asvg--schlussbestimmung-zu-art-3-des-bundesgesetzes-bgbl-i-nr-322017) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=702) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_866_TextContainer_866) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-702-asvg--schlussbestimmung-zu-art-3-des-bundesgesetzes-bgbl-i-nr-322017) \]
 
@@ -18301,7 +18269,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 703 ASVG — Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 30/2017
 
-> Die §§ 8 Abs\. 1 Z 2 lit\. c, 10 Abs\. 6b Z 3, 36 Abs\. 1 Z 13b, 40 Abs\. 1 Z 1, 44 Abs\. 1 Z 14a, 99 Abs\. 1b, 116 Abs\. 1 Z 2a, 117 Z 3a, 120 Z 2a, 122 Abs\. 2 Z 1 lit\. b, 125 Abs\. 1a, 138 Abs\. 2 lit\. i und j, 143a Abs\. 2, der 3b\. Unterabschnitt samt Überschriften und § 178 Abs\. 1a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 30/2017 treten mit 1\. Juli 2017 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-703-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-302017) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=703) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_867_TextContainer_867) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-703-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-302017) \]
 
@@ -18309,7 +18277,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 704 ASVG — Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 38/2017
 
-> Die §§ 31 Abs\. 5 Z 20, 100 Abs\. 3, 222 Abs\. 1 Z 2 lit\. c und d sowie Abs\. 2 Z 2 lit\. c und d, 253e Abs\. 1 und 7, 270a, 276e, 300 Abs\. 1 und 3, 302 Abs\. 1 Z 1b, 303, 307a Abs\. 2 und 5, 354 Z 5 und 6, 366 Abs\. 4 und 368a sowie die Überschriften zu den §§ 253e, 270a und 276e in der Fassung des Bundesgesetzes BGBl\. I Nr\. 38/2017 treten rückwirkend mit 1\. Jänner 2017 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-704-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-382017) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=704) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_868_TextContainer_868) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-704-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-382017) \]
 
@@ -18317,21 +18285,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 705 ASVG — Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 49/2017
 
-> `(1)` Es treten in Kraft:
->
->> `1.` rückwirkend mit 1\. Jänner 2015 § 227a Abs\. 8 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 49/2017;
->
->> `2.` rückwirkend mit 1\. Jänner 2016 die §§ 420 Abs\. 3 und 423 Abs\. 1 Z 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 49/2017;
->
->> `3.` mit 1\. Mai 2017 die §§ 351c Abs\. 6, Abs\. 7 Z 2, Abs\. 10 bis 13 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 49/2017;
->
->> `4.` mit 1\. Jänner 2018 § 351c Abs\. 9a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 49/2017\.
-
-> `(2)` § 351c Abs\. 6, 7 Z 2 und 10 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 49/2017 sind auf Verfahren anzuwenden, in denen die Antragstellung durch das vertriebsberechtigte Unternehmen oder die Einleitung des Verfahrens durch den Hauptverband nach dem 1\. April 2017 erfolgt\. 
-
-> `(3)` § 351c Abs\. 10 tritt mit 31\. Dezember 2025 außer Kraft\. § 351c Abs\. 10 in der am 30\. April 2017 geltenden Fassung tritt mit 1\. Jänner 2026 in Kraft\. Für Verfahren, in denen die Antragstellung durch das vertriebsberechtigte Unternehmen oder die Einleitung des Verfahrens durch den Dachverband vor dem 1\. Jänner 2026 erfolgt, ist § 351c Abs\. 10 in der am 31\. Dezember 2025 geltenden Fassung weiterhin anzuwenden\.
-
-> `(4)` Sofern die Preise für die vom § 351c Abs\. 11 und 12 erfassten Arzneispezialitäten bis 1\. Oktober 2017 beziehungsweise für die vom § 351c Abs\. 13 erfassten Arzneispezialitäten bis 1\. Oktober 2019 innerhalb des Preisbandes gesenkt werden, sind Streichungen für diese Arzneispezialitäten nach § 351f Abs\. 1 aus gesundheitsökonomischen Gründen bis 1\. Oktober 2020 ausgeschlossen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-705-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-492017) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=705) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_869_TextContainer_869) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-705-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-492017) \]
 
@@ -18339,9 +18293,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 706 ASVG — Schlussbestimmung zu Art. 2 des Bundesgesetzes BGBl. I Nr. 66/2017
 
-> `(1)` § 3b Z 11a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 66/2017 tritt mit 1\. Jänner 2019 in Kraft\.
-
-> `(2)` Die §§ 5 Abs\. 1 Z 13 und 7 Z 1 lit\. f treten mit Ablauf des 31\. Dezember 2018 außer Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-706-asvg--schlussbestimmung-zu-art-2-des-bundesgesetzes-bgbl-i-nr-662017) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=706) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_870_TextContainer_870) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-706-asvg--schlussbestimmung-zu-art-2-des-bundesgesetzes-bgbl-i-nr-662017) \]
 
@@ -18365,7 +18317,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 708 ASVG — Schlussbestimmung zu Art. 6 des Bundesgesetzes BGBl. I Nr. 126/2017
 
-> Die §§ 120 Z 3 und 162 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 126/2017 treten mit 1\. Jänner 2018 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-708-asvg--schlussbestimmung-zu-art-6-des-bundesgesetzes-bgbl-i-nr-1262017) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=708) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_873_TextContainer_873) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-708-asvg--schlussbestimmung-zu-art-6-des-bundesgesetzes-bgbl-i-nr-1262017) \]
 
@@ -18381,9 +18333,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 710 ASVG — Schlussbestimmung zu Art. 5 des Bundesgesetzes BGBl. I Nr. 105/2017
 
-> `(1)` § 49 Abs\. 3 Z 18 lit\. d und e in der Fassung des Bundesgesetzes BGBl\. I Nr\. 105/2017 tritt mit 1\. Jänner 2018 in Kraft\.
-
-> `(2)` § 49 Abs\. 3 Z 18 lit\. d in der am 31\. Dezember 2017 geltenden Fassung ist so lange weiterhin auf nicht übertragbare Optionen auf Beteiligungen am Unternehmen des Dienstgebers anzuwenden, als der Vorteil aus der Ausübung dieser Optionen einkommensteuerbefreit ist\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-710-asvg--schlussbestimmung-zu-art-5-des-bundesgesetzes-bgbl-i-nr-1052017) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=710) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_875_TextContainer_875) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-710-asvg--schlussbestimmung-zu-art-5-des-bundesgesetzes-bgbl-i-nr-1052017) \]
 
@@ -18435,7 +18385,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 714 ASVG — Schlussbestimmung zu Art. 71 des Bundesgesetzes BGBl. I Nr. 37/2018
 
-> Die §§ 31 Abs\. 4 Z 10 und Abs\. 11, 31a Abs\. 2, 4 und 4a, 31b Abs\. 1 und 2, 41a Abs\. 5, 42b Abs\. 1, 2, 4 und 5, 84a Abs\. 5 Z 2, 186 Abs\. 2, 321 Abs\. 1, 360 Abs\. 6, 418 Abs\. 7 und 460e in der Fassung des Bundesgesetzes BGBl\. I Nr\. 37/2018 treten mit 25\. Mai 2018 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-714-asvg--schlussbestimmung-zu-art-71-des-bundesgesetzes-bgbl-i-nr-372018) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=714) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_879_TextContainer_879) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-714-asvg--schlussbestimmung-zu-art-71-des-bundesgesetzes-bgbl-i-nr-372018) \]
 
@@ -18443,7 +18393,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 715 ASVG — Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 54/2018
 
-> Die §§ 88 Abs\. 1a und 2, 100 Abs\. 4, 104 Abs\. 1, 138 Abs\. 2 lit\. i und j, 143 Abs\. 1 Z 7 und 8, 143d Abs\. 3 und 4, 204 Abs\. 1 und 1a, 306 Abs\. 4 erster Satz und 472 Abs\. 2 Z 5 lit\. b bis d in der Fassung des Bundesgesetzes BGBl\. I Nr\. 54/2018 treten mit 1\. Juli 2018 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-715-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-542018) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=715) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_880_TextContainer_880) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-715-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-542018) \]
 
@@ -18459,7 +18409,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 717 ASVG — Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 53/2018
 
-> § 42b Abs\. 1 bis 4 und die Anlage 14 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 53/2018 treten mit 1\. September 2018 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-717-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-532018) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=717) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_882_TextContainer_882) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-717-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-532018) \]
 
@@ -18546,7 +18496,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 721 ASVG — Schlussbestimmung zu Art. 4 des Bundesgesetzes BGBl. I Nr. 98/2018
 
-> § 41a in der Fassung des Bundesgesetzes, BGBl\. I Nr\. 98/2018, tritt mit 1\. Jänner 2020 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-721-asvg--schlussbestimmung-zu-art-4-des-bundesgesetzes-bgbl-i-nr-982018) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=721) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_888_TextContainer_888) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-721-asvg--schlussbestimmung-zu-art-4-des-bundesgesetzes-bgbl-i-nr-982018) \]
 
@@ -18562,7 +18512,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 723 ASVG — Schlussbestimmung zu Art. 2 des Bundesgesetzes BGBl. I Nr. 20/2019
 
-> Die §§ 5 Abs\. 1 Z 16 und 17 sowie 342e samt Überschrift in der Fassung des Bundesgesetzes BGBl\. I Nr\. 20/2019 treten mit Ablauf des Tages ihrer Kundmachung in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-723-asvg--schlussbestimmung-zu-art-2-des-bundesgesetzes-bgbl-i-nr-202019) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=723) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_890_TextContainer_890) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-723-asvg--schlussbestimmung-zu-art-2-des-bundesgesetzes-bgbl-i-nr-202019) \]
 
@@ -18578,7 +18528,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 725 ASVG — Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 65/2019
 
-> § 7 Z 1 lit\. e in der Fassung des Bundesgesetzes BGBl\. I Nr\. 65/2019 tritt mit 1\. Juli 2019 in Kraft und ist auch auf Sachverhalte anzuwenden, die vor seinem Inkrafttreten verwirklicht wurden\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-725-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-652019) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=725) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_892_TextContainer_892) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-725-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-652019) \]
 
@@ -18634,7 +18584,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 729 ASVG — Schlussbestimmung zu Art. 9 des Bundesgesetzes BGBl. I Nr. 104/2019
 
-> Die §§ 67a Abs\. 4 Z 2 lit\. a, 111a Abs\. 1, 351j Abs\. 2, 360 Abs\. 7 und 412c Abs\. 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 104/2019 treten mit 1\. Jänner 2021 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-729-asvg--schlussbestimmung-zu-art-9-des-bundesgesetzes-bgbl-i-nr-1042019) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=729) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_896_TextContainer_896) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-729-asvg--schlussbestimmung-zu-art-9-des-bundesgesetzes-bgbl-i-nr-1042019) \]
 
@@ -18642,7 +18592,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 730 ASVG — Schlussbestimmung zu Art. 23 des Bundesgesetzes BGBl. I Nr. 105/2019
 
-> § 460d in der Fassung des Bundesgesetzes BGBl\. I Nr\. 105/2019 tritt mit 1\. Jänner 2020 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-730-asvg--schlussbestimmung-zu-art-23-des-bundesgesetzes-bgbl-i-nr-1052019) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=730) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_897_TextContainer_897) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-730-asvg--schlussbestimmung-zu-art-23-des-bundesgesetzes-bgbl-i-nr-1052019) \]
 
@@ -18765,7 +18715,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 738 ASVG — Schlussbestimmung zu Art. 20 des Bundesgesetzes BGBl. I Nr. 99/2020
 
-> § 111 Abs\. 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 99/2020 tritt mit 1\. Jänner 2021 in Kraft\. § 733 Abs\. 7 bis 14 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 99/2020 tritt mit 1\. Juni 2020 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-738-asvg--schlussbestimmung-zu-art-20-des-bundesgesetzes-bgbl-i-nr-992020) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=738) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_904_TextContainer_904) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-738-asvg--schlussbestimmung-zu-art-20-des-bundesgesetzes-bgbl-i-nr-992020) \]
 
@@ -18789,7 +18739,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 743 ASVG — Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 105/2020
 
-> Die §§ 741 samt Überschrift sowie 742 samt Überschrift in der Fassung des Bundesgesetzes BGBl\. I Nr\. 105/2020 treten mit dem auf den Tag der Kundmachung folgenden Tag in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-743-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1052020) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=743) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_907_TextContainer_907) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-743-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1052020) \]
 
@@ -18865,7 +18815,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 749 ASVG
 
-> § 748 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 22/2021 tritt mit 1\. Jänner 2021 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-749-asvg) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=749) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_912_TextContainer_912) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-749-asvg) \]
 
@@ -18889,7 +18839,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 753 ASVG — Schlussbestimmung zu Art. 4 des Bundesgesetzes BGBl. I Nr. 78/2021
 
-> § 43a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 78/2021 tritt mit 1\. Juli 2021 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-753-asvg--schlussbestimmung-zu-art-4-des-bundesgesetzes-bgbl-i-nr-782021) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=753) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_915_TextContainer_915) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-753-asvg--schlussbestimmung-zu-art-4-des-bundesgesetzes-bgbl-i-nr-782021) \]
 
@@ -18897,9 +18847,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 754 ASVG — Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 68/2021
 
-> `(1)` § 679 Abs\. 3, die Überschrift zu § 742a sowie § 742a Abs\. 1 erster Satz in der Fassung des Bundesgesetzes BGBl\. I Nr\. 68/2021 treten mit 1\. April 2021 in Kraft\.
-
-> `(2)` § 679 Abs\. 2 und 3 tritt mit 1\. Jänner 2022 außer Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-754-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-682021) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=754) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_916_TextContainer_916) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-754-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-682021) \]
 
@@ -18907,11 +18855,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 755 ASVG — Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 99/2021
 
-> Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 99/2021 in Kraft:
->
->> `1.` rückwirkend mit 19\. Mai 2021 § 747 Abs\. 2b;
->
->> `2.` rückwirkend mit 15\. Februar 2021 § 747 Abs\. 2a\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-755-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-992021) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=755) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_917_TextContainer_917) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-755-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-992021) \]
 
@@ -18919,7 +18863,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 756 ASVG — Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 85/2021
 
-> Die §§ 742b Abs\. 2 und 751 Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 85/2021 treten mit 1\. Juni 2021 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-756-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-852021) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=756) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_918_TextContainer_918) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-756-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-852021) \]
 
@@ -18935,7 +18879,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 758 ASVG — Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 179/2021
 
-> § 747 Abs\. 2 erster Satz und Abs\. 3 letzter Satz in der Fassung des Bundesgesetzes BGBl\. I Nr\. 179/2021 tritt rückwirkend mit 1\. September 2021 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-758-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-1792021) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=758) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_920_TextContainer_920) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-758-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-1792021) \]
 
@@ -19025,13 +18969,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 760 ASVG — Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 197/2021
 
-> `(1)` Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 197/2021 in Kraft:
->
->> `1.` mit dem auf den Tag der Kundmachung folgenden Tag § 750 Abs\. 1a und Abs\. 2;
->
->> `2.` mit 3\. Dezember 2021 § 735 Abs\. 2, 2a, 3a bis 3d und 6\.
-
-> `(2)` Eine Verordnung nach § 735 Abs\. 3b kann bereits ab dem 3\. Dezember 2021 erlassen werden, sie darf jedoch frühestens mit 15\. Dezember 2021 in Kraft treten\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-760-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-1972021) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=760) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_924_TextContainer_924) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-760-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-1972021) \]
 
@@ -19047,7 +18985,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 761a ASVG — Schlussbestimmung zu Artikel 5 des Bundesgesetzes BGBl. I Nr. 15/2022
 
-> Die §§ 4 Abs\. 1 Z 5 und 5 Abs\. 1 Z 16 lit\. b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 15/2022 treten mit 1\. Juli 2022 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-761a-asvg--schlussbestimmung-zu-artikel-5-des-bundesgesetzes-bgbl-i-nr-152022) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=761a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_926_TextContainer_926) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-761a-asvg--schlussbestimmung-zu-artikel-5-des-bundesgesetzes-bgbl-i-nr-152022) \]
 
@@ -19063,7 +19001,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 763 ASVG — Schlussbestimmung zu Art. 2 des Bundesgesetzes BGBl. I Nr. 29/2022
 
-> § 117 Z 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 29/2022 tritt mit 1\. Jänner 2022 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-763-asvg--schlussbestimmung-zu-art-2-des-bundesgesetzes-bgbl-i-nr-292022) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=763) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_928_TextContainer_928) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-763-asvg--schlussbestimmung-zu-art-2-des-bundesgesetzes-bgbl-i-nr-292022) \]
 
@@ -19079,7 +19017,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 767 ASVG — Schlussbestimmung zu Art. 2 des Bundesgesetzes BGBl. I Nr. 60/2022
 
-> Die §§ 5 Abs\. 1 Z 17 bis 19, 7 Z 4 und 53a Abs\. 3a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 60/2022 treten mit 1\. Jänner 2023 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-767-asvg--schlussbestimmung-zu-art-2-des-bundesgesetzes-bgbl-i-nr-602022) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=767) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_930_TextContainer_930) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-767-asvg--schlussbestimmung-zu-art-2-des-bundesgesetzes-bgbl-i-nr-602022) \]
 
@@ -19095,7 +19033,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 769 ASVG — Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 81/2022
 
-> § 759b Abs\. 5 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 81/2022 tritt rückwirkend mit 19\. März 2022 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-769-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-812022) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=769) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_932_TextContainer_932) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-769-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-812022) \]
 
@@ -19103,9 +19041,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 770 ASVG — Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 92/2022
 
-> `(1)` § 742c erster Satz in der Fassung des Bundesgesetzes BGBl\. I Nr\. 92/2022 tritt rückwirkend mit 21\. März 2022 in Kraft und mit Ablauf des 30\. Juni 2023 außer Kraft\.
-
-> `(2)` § 718 Abs\. 7a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 92/2022 tritt rückwirkend mit 1\. Jänner 2022 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-770-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-922022) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=770) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_933_TextContainer_933) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-770-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-922022) \]
 
@@ -19159,7 +19095,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 772 ASVG — Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 93/2022
 
-> Die §§ 51 Abs\. 1 Z 2, 53a Abs\. 1 und 319a samt Überschrift in der Fassung des Bundesgesetzes BGBl\. I Nr\. 93/2022 treten mit 1\. Jänner 2023 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-772-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-932022) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=772) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_935_TextContainer_935) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-772-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-932022) \]
 
@@ -19201,7 +19137,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 774 ASVG — Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 174/2022
 
-> Die §§ 108 Abs\. 5 erster Satz, 108i samt Überschrift und 108k in der Fassung des Bundesgesetzes BGBl\. I Nr\. 174/2022 treten mit 1\. Oktober 2022 in Kraft\. Die Anpassung nach § 108i hat erstmalig mit 1\. Jänner 2023 zu erfolgen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-774-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1742022) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=774) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_938_TextContainer_938) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-774-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1742022) \]
 
@@ -19268,7 +19204,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 777 ASVG — Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 175/2022
 
-> § 293 Abs\. 1 und 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 175/2022 tritt mit 1\. Jänner 2023 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-777-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1752022) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=777) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_941_TextContainer_941) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-777-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1752022) \]
 
@@ -19276,7 +19212,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 778 ASVG — Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 177/2022
 
-> Die §§ 742a samt Überschrift sowie 742c Abs\. 1 und 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 177/2022 treten rückwirkend mit 1\. September 2022 in Kraft und mit Ablauf des 30\. Juni 2023 außer Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-778-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-1772022) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=778) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_942_TextContainer_942) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-778-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-1772022) \]
 
@@ -19292,11 +19228,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 780 ASVG — Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 217/2022
 
-> Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 217/2022 in Kraft:
->
->> `1.` mit 1\. Jänner 2023 die §§ 18a Abs\. 2 und 18b Abs\. 1a;
->
->> `2.` rückwirkend mit 25\. Mai 2018 die §§ 30c Abs\. 1a und 460e\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-780-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-2172022) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=780) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_944_TextContainer_944) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-780-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-2172022) \]
 
@@ -19304,7 +19236,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 781 ASVG — Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 236/2022
 
-> § 49 Abs\. 3 Z 28 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 236/2022 tritt mit 1\. Jänner 2023 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-781-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-2362022) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=781) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_945_TextContainer_945) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-781-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-2362022) \]
 
@@ -19328,7 +19260,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 784 ASVG — Schlussbestimmung zu Art. 2 des Bundesgesetzes BGBl. I Nr. 81/2023
 
-> § 342 Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 81/2023 tritt mit 1\. August 2023 in Kraft und ist auf Auswahlverfahren anzuwenden, die ab diesem Zeitpunkt eingeleitet wurden\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-784-asvg--schlussbestimmung-zu-art-2-des-bundesgesetzes-bgbl-i-nr-812023) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=784) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_948_TextContainer_948) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-784-asvg--schlussbestimmung-zu-art-2-des-bundesgesetzes-bgbl-i-nr-812023) \]
 
@@ -19356,7 +19288,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 787 ASVG — Schlussbestimmung zu Art. 3 des Bundesgesetzes BGBl. I Nr. 82/2023
 
-> § 31a Abs\. 4 Z 6 und 7 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 82/2023 tritt mit 30\. Juni 2023 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-787-asvg--schlussbestimmung-zu-art-3-des-bundesgesetzes-bgbl-i-nr-822023) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=787) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_951_TextContainer_951) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-787-asvg--schlussbestimmung-zu-art-3-des-bundesgesetzes-bgbl-i-nr-822023) \]
 
@@ -19372,7 +19304,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 789 ASVG — Schlussbestimmung zu Art. 18 des Bundesgesetzes BGBl. I Nr. 110/2023
 
-> § 49 Abs\. 3 Z 26b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 110/2023 tritt mit 1\. Jänner 2024 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-789-asvg--schlussbestimmung-zu-art-18-des-bundesgesetzes-bgbl-i-nr-1102023) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=789) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_953_TextContainer_953) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-789-asvg--schlussbestimmung-zu-art-18-des-bundesgesetzes-bgbl-i-nr-1102023) \]
 
@@ -19424,7 +19356,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 793 ASVG — Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 190/2023
 
-> Der 8\. Unterabschnitt des Ersten Teils, Abschnitt V in der Fassung des Bundesgesetzes BGBl\. I Nr\. 190/2023, tritt mit 1\. Jänner 2024 in Kraft und mit Ablauf des 31\. Dezember 2028 außer Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-793-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-1902023) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=793) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_957_TextContainer_957) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-793-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-1902023) \]
 
@@ -19492,11 +19424,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 800 ASVG — Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 64/2024
 
-> `(1)` Die §§ 5 Abs\. 3 Z 2, 8 Abs\. 1 Z 1 lit\. h und Abs\. 1 Z 2 lit\. a, 10 Abs\. 6a und Abs\. 6b Z 1, 31c Abs\. 3 Z 3 lit\. e, 36 Abs\. 1 Z 11, 44 Abs\. 1 Z 12, 138 Abs\. 2 lit\. i und j, 158 Abs\. 5, 162 Abs\. 1, Abs\. 3a und Abs\. 3b, 163 samt Überschrift und 168 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 64/2024 treten rückwirkend mit 1\. September 2022 in Kraft und sind anzuwenden, wenn der in § 120 Z 3 festgelegte Zeitpunkt nach Ablauf des 31\. August 2022 eintrat\.
-
-> `(2)` Trat der in § 120 Z 3 festgelegte Zeitpunkt vor dem Tag der Kundmachung des Bundesgesetzes BGBl\. I Nr\. 64/2024 ein, so kann ein Antrag auf Sonderwochengeld nach § 163 oder auf Nachbemessung des Wochengeldes aufgrund § 162 Abs\. 3a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 64/2024 bis 30\. Juni 2025 gestellt werden\. Besteht ein rückwirkender Anspruch auf Sonderwochengeld für Zeiträume, in welchen das Entgelt nach § 14 Abs\. 2 MSchG oder vergleichbaren österreichischen Rechtsvorschriften fortgezahlt wurde, so ruht das Sonderwochengeld\.
-
-> `(3)` § 162 Abs\. 3 lit\. c tritt rückwirkend mit 1\. November 2023 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-800-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-642024) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=800) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_964_TextContainer_964) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-800-asvg--schlussbestimmung-zum-bundesgesetz-bgbl-i-nr-642024) \]
 
@@ -19504,7 +19432,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 801 ASVG — Schlussbestimmung zu Art. 2 des Bundesgesetzes BGBl. I Nr. 105/2024
 
-> `(1)` § 31d Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 105/2024 tritt mit 30\. September 2024 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-801-asvg--schlussbestimmung-zu-art-2-des-bundesgesetzes-bgbl-i-nr-1052024) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=801) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_965_TextContainer_965) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-801-asvg--schlussbestimmung-zu-art-2-des-bundesgesetzes-bgbl-i-nr-1052024) \]
 
@@ -19528,7 +19456,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 804 ASVG — Schlussbestimmung zu Art. 3 des BGBl. I Nr. 107/2024
 
-> § 111a Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 107/2024 tritt am 1\. September 2024 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-804-asvg--schlussbestimmung-zu-art-3-des-bgbl-i-nr-1072024) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=804) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_968_TextContainer_968) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-804-asvg--schlussbestimmung-zu-art-3-des-bgbl-i-nr-1072024) \]
 
@@ -19536,7 +19464,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 805 ASVG — Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 109/2024
 
-> § 292 Abs\. 4 lit\. o in der Fassung des Bundesgesetzes BGBl\. I Nr\. 109/2024 tritt mit 1\. Jänner 2025 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-805-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1092024) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=805) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_969_TextContainer_969) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-805-asvg--schlussbestimmung-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1092024) \]
 
@@ -19544,7 +19472,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 806 ASVG — Schlussbestimmung zu Art. 5 des Bundesgesetzes BGBl. I Nr. 110/2024
 
-> § 49 Abs\. 3 Z 31 sowie § 175 Abs\. 1a und 1b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 110/2024 treten mit 1\. Jänner 2025 in Kraft\.“
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-806-asvg--schlussbestimmung-zu-art-5-des-bundesgesetzes-bgbl-i-nr-1102024) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=806) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_970_TextContainer_970) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-806-asvg--schlussbestimmung-zu-art-5-des-bundesgesetzes-bgbl-i-nr-1102024) \]
 
@@ -19596,23 +19524,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 810 ASVG — Schlussbestimmung zu Art. 28 des Bundesgesetzes BGBl. I Nr. 25/2025
 
-> `(1)` Es treten in der Fassung des Budgetbegleitgesetzes 2025, BGBl\. I Nr\. 25/2025, in Kraft:
->
->> `1.` mit dem auf die Kundmachung folgenden Tag die §§ 31c Abs\. 2 und Abs\. 3 Z 3a sowie 108h Abs\. 1a;
->
->> `2.` mit 1\. Jänner 2026 § 33 Abs\. 1a Z 1\.
-
-> `(2)` Es treten außer Kraft:
->
->> `1.` mit Ablauf des Tages der Kundmachung die §§ 31c Abs\. 2 Z 1 und 808 Abs\. 3;
->
->> `2.` mit 1\. April 2026 § 31c Abs\. 5 Z 2\.
-
-> `(3)` Der Betrag nach § 5 Abs\. 2 erster Satz ist abweichend von § 5 Abs\. 2 zweiter Satz für das Kalenderjahr 2026 nicht zu vervielfachen\.
-
-> `(4)` Abweichend von § 31c Abs\. 2 ist für das Jahr 2026 von Beziehern und Bezieherinnen einer Pension nach diesem Bundesgesetz oder dem GSVG kein e\-card Service\-Entgelt zu zahlen\.
-
-> `(5)` § 108i ist in den Kalenderjahren 2026 und 2027 nicht anzuwenden\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-810-asvg--schlussbestimmung-zu-art-28-des-bundesgesetzes-bgbl-i-nr-252025) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=810) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_974_TextContainer_974) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-810-asvg--schlussbestimmung-zu-art-28-des-bundesgesetzes-bgbl-i-nr-252025) \]
 
