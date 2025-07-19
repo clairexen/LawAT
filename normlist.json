@@ -91,6 +91,13 @@
 	"caption": "Gerichtsorganisationsgesetz (GOG)",
 	"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009"
 },
+"BG.OGHG": {
+	"type": "BG",
+	"title": "OGHG",
+	"stop": "§ 25",
+	"caption": "Oberster Gerichtshof Gesetz (OGHG)",
+	"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000449"
+},
 "BG.RpflG": {
 	"type": "BG",
 	"title": "RpflG",

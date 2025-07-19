@@ -5,3 +5,47 @@ BWG: https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzes
 
 https://ris.bka.gv.at/RisInfo/LawList.pdf
 https://ris.bka.gv.at/RisInfo/AusgewaehlteGesetze.pdf
+
+>>> import json
+>>> rsdata = json.load(open("files/rsdata.json"))
+>>> print("\n".join(f"{k:<8} {c:3}" for c,k in sorted((len(rsdata["index"][k]),k) for k in rsdata["index"])))
+...
+RStDG     10
+KBGG      11
+UGB       11
+ZustG     11
+FBG       12
+RATG      12
+SMG       12
+VerG      12
+EKHG      13
+MSchG     13
+MedienG   14
+PSG       15
+VBG       15
+BSVG      16
+UWG       16
+AngG      17
+RAO       17
+UVG       17
+GOG       18
+KSchG     21
+IPRG      25
+AktG      29
+EheG      29
+FinStrG   29
+GSVG      31
+ASGG      32
+GmbHG     34
+MRG       35
+ArbVG     41
+JN        43
+IO        44
+VersVG    50
+AußStrG   69
+EO        93
+ASVG     110
+StGB     162
+ZPO      246
+StPO     280
+ABGB     572

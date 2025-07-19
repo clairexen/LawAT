@@ -24,6 +24,7 @@
 * [Konsumentenschutzgesetz (KSchG)](BG.KSchG.md)
 * [Mediengesetz (MedienG)](BG.MedienG.md)
 * [Neue-Psychoaktive-Substanzen-Gesetz (NPSG)](BG.NPSG.md)
+* [Oberster Gerichtshof Gesetz (OGHG)](BG.OGHG.md)
 * [Rechtsanwaltsordnung (RAO)](BG.RAO.md)
 * [Rechtspflegergesetz (RpflG)](BG.RpflG.md)
 * [Rezeptpflichtgesetz (RezeptPG)](BG.RezeptPG.md)
