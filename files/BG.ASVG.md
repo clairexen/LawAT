@@ -17203,25 +17203,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 584 ASVG — Schlussbestimmungen zu Art. 1 des Sozialrechts-Änderungsgesetzes 1999, BGBl. I Nr. 1/2000
 
-> `(1)` § 293 Abs\. 1 und 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 1/2000 tritt mit 1\. Jänner 2000 in Kraft\.
-
-> `(2)` § 108 Abs\. 5 vorletzter Satz ist im Kalenderjahr 1999 nicht anzuwenden\.
-
-> `(3)` Beträgt das Gesamtpensionseinkommen einer Person \(Abs\. 4\) nicht mehr als 10 400 S monatlich, so ist die Pensionserhöhung für das Kalenderjahr 2000 abweichend von § 108h nicht mit dem Anpassungsfaktor, sondern wie folgt vorzunehmen: Das Gesamtpensionseinkommen ist zu erhöhen
->
->> `1.` wenn es nicht mehr als 7 000 S monatlich beträgt, um 1,5%;
->
->> `2.` wenn es über 7 000 S bis zu 8 000 S monatlich beträgt, um jenen Prozentsatz, der sich aus der Summe des Betrages des Prozentsatzes nach Z 1 und jenem Betrag ergibt, der sich im Verhältnis des um 7 000 verminderten Gesamtpensionseinkommenswertes zur Zahl 1 000 errechnet;
->
->> `3.` wenn es über 8 000 S bis zu 9 750 S monatlich beträgt, um 200 S;
->
->> `4.` wenn es über 9 750 S bis zu 10 400 S monatlich beträgt, um jenen Betrag, der sich aus der Verminderung des Erhöhungsbetrages nach Z 3 um zehn Groschen für jeden Schilling, der 9 750 S übersteigt, ergibt\.
->
-> &nbsp; Beträgt das Gesamtpensionseinkommen mehr als 10 400 S monatlich, so ist es jedenfalls um mindestens 135 S zu erhöhen\.
-
-> `(4)` Das Gesamtpensionseinkommen einer Person ist die Summe aller ihrer Pensionen aus der gesetzlichen Pensionsversicherung, auf die nach den am 31\. Dezember 1999 in Geltung gestandenen Vorschriften Anspruch bestand, jedoch mit Ausnahme der Kinderzuschüsse, der Ausgleichszulage und des besonderen Steigerungsbetrages und vor Anwendung von Ruhensbestimmungen\.
-
-> `(5)` Bezieht eine Person zwei oder mehrere Pensionen aus der gesetzlichen Pensionsversicherung, so ist der Erhöhungsbetrag nach Abs\. 3 auf die einzelne Pension im Verhältnis der Pensionen zueinander aufzuteilen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-584-asvg--schlussbestimmungen-zu-art-1-des-sozialrechts-änderungsgesetzes-1999-bgbl-i-nr-12000) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=584) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_745_TextContainer_745) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-584-asvg--schlussbestimmungen-zu-art-1-des-sozialrechts-änderungsgesetzes-1999-bgbl-i-nr-12000) \]
 
@@ -17261,21 +17243,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 587 ASVG — Schlussbestimmungen zu Art. 1 des Sozialversicherungs-Änderungsgesetzes 2000, BGBl. I Nr. 43
 
-> `(1)` Die §§ 222 Abs\. 1 Z 1 lit\. d und Abs\. 2 Z 1 lit\. e, 236 Abs\. 4 Z 2, 253 Abs\. 3, 255 Abs\. 4 bis 6, 261b Abs\. 2, 270, 273 Abs\. 2, 276 Abs\. 4, 284b Abs\. 2, 362 Abs\. 2, 421 Abs\. 1, 1a, 1b und 3, 440 Abs\. 3, 5 und 6, 440a Abs\. 3 und 5, 440c Abs\. 4, 440f samt Überschrift sowie 453 Abs\. 1 Z 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 43/2000 treten mit 1\. Juli 2000 in Kraft\.
-
-> `(2)` Die §§ 222 Abs\. 1 Z 1 lit\. e und Abs\. 2 Z 1 lit\. f, 236 Abs\. 1 Z 2 lit\. b, 253d, 276d, 421 Abs\. 6 und 453 Abs\. 1 Z 5 treten mit Ablauf des 30\. Juni 2000 außer Kraft\.
-
-> `(3)` Die §§ 222 Abs\. 1 Z 1 lit\. d und e und Abs\. 2 Z 1 lit\. e und f, 236 Abs\. 1 Z 2 lit\. b und Abs\. 4 Z 2, 253 Abs\. 3, 253d, 261b Abs\. 2, 270, 276 Abs\. 4, 276d, 284b Abs\. 2 und 362 Abs\. 2 in der am 30\. Juni 2000 geltenden Fassung sind auf Personen, die Anspruch auf vorzeitige Alterspension wegen geminderter Arbeitsfähigkeit \(vorzeitige Knappschaftsalterspension wegen geminderter Arbeitsfähigkeit\) mit Stichtag vor dem 1\. Juli 2000 haben, weiterhin anzuwenden\.
-
-> `(4)` Anträge auf vorzeitige Alterspension wegen geminderter Arbeitsfähigkeit \(vorzeitige Knappschaftsalterspension wegen geminderter Arbeitsfähigkeit\), die nach dem 23\. Mai 2000 und vor dem 2\. Juni 2000 gestellt wurden, sind als Anträge auf Invaliditäts\-\(Berufunfähigkeits\-\)Pension mit Stichtag 1\. Juni 2000 zu werten, wobei § 255 Abs\. 4 in der Fassung des Sozialversicherungs\-Änderungsgesetzes 2000, BGBl\. I Nr\. 43, anzuwenden ist\.
-
-> `(5)` § 255 Abs\. 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 43/2000 ist nur auf Versicherungsfälle anzuwenden, in denen der Stichtag nach dem 30\. Juni 2000 liegt\.
-
-> `(6)` Alle Versicherungsvertreter sind nach § 421 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 43/2000 bis längstens 31\. Dezember 2000 neu zu bestellen; mit dem Tag der Neubestellung gilt jedes amtierende Mitglied als seines Amtes enthoben\.
-
-> `(7)` Die Amtsdauer der am 31\. Dezember 2000 bestehenden Verwaltungskörper verlängert sich bis zum Ablauf des 31\. Dezember 2005\.
-
-> `(8)` Der Vorsitzende und die Vorsitzenden\-Stellvertreter des beim Hauptverband errichteten Beirates sind nach § 440a Abs\. 3 Z 1 und 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 43/2000 bis längstens 31\. Dezember 2000 neu zu bestellen; mit dem Tag der Neubestellung gelten der amtierende Vorsitzende und sein Stellvertreter als ihres Amtes enthoben\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-587-asvg--schlussbestimmungen-zu-art-1-des-sozialversicherungs-änderungsgesetzes-2000-bgbl-i-nr-43) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=587) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_750_TextContainer_750) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-587-asvg--schlussbestimmungen-zu-art-1-des-sozialversicherungs-änderungsgesetzes-2000-bgbl-i-nr-43) \]
 
@@ -17283,104 +17251,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 588 ASVG — Schlussbestimmungen zu Art. 1 des Sozialrechts-Änderungsgesetzes 2000, BGBl. I Nr. 92
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. Oktober 2000 die §§ 31 Abs\. 5 Z 16, 31b Abs\. 2, 32a bis 32e samt Überschriften, 91 Abs\. 2 in der Fassung der Z 2, 92 Abs\. 1, 108 Abs\. 5 und 7, 108d Abs\. 1, 108e samt Überschrift, 108f Abs\. 1, 2 und 5, 135 Abs\. 6, 136 Abs\. 3, 222 Abs\. 2 Z 1 lit\. c bis e, 227 Abs\. 1 Z 5, 236 Abs\. 1 Z 2 lit\. c, 238 Abs\. 1, 242 Abs\. 9, 253a Abs\. 1, 253b Abs\. 1, 253c Abs\. 1, 261 Abs\. 4 und 5, 261b Abs\. 1, 261c Abs\. 1, 264 Abs\. 1 Z 1 und 2 sowie Abs\. 2, 6, 6a und 7a, 276 samt Überschrift, 284 samt Überschrift, 284b samt Überschrift, 284c samt Überschrift, 285 Abs\. 1 und 5, 293 Abs\. 2, 299a samt Überschrift, 441 Abs\. 1 Z 2 lit\. b sowie Z 3 und 4 sowie 442b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 92/2000;
->
->> `2.` mit 1\. August 2000 § 575 Abs\. 7 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 92/2000;
->
->> `3.` mit 1\. Jänner 2001 die §§ 91 Abs\. 2 in der Fassung der Z 3, 135a samt Überschrift, 261 Abs\. 3, 292 Abs\. 8 und 447a Abs\. 1 bis 4 sowie 447b Abs\. 10 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 92/2000;
->
->> `4.` mit 1\. Jänner 2003 § 81 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 92/2000;
->
->> `5.` rückwirkend mit 1\. Juli 2000 die §§ 264 Abs\. 1 Z 5, 421 Abs\. 1c und 455 Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 92/2000;
->
->> `6.` rückwirkend mit 1\. Jänner 2000 die §§ 31 Abs\. 12 und 502 Abs\. 1a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 92/2000;
->
->> `7.` rückwirkend mit 1\. Juli 1996 § 227 Abs\. 1 Z 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 92/2000\.
-
-> `(2)` Die §§ 108f Abs\. 3, 251a Abs\. 7 Z 3, 253 Abs\. 2 und 276a bis 276c treten mit Ablauf des 30\. September 2000 außer Kraft\.
-
-> `(3)` § 108d Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 92/2000 gilt erstmals für die Ermittlung des Anpassungsrichtwertes für das Kalenderjahr 2001\.
-
-> `(4)` Die Anpassungsfaktoren für die Jahre 2001 bis 2003 hat der Bundesminister für soziale Sicherheit und Generationen abweichend von den Bestimmungen des § 108f Abs\. 2 in den einzelnen Jahren unter Bedachtnahme auf die Erhöhung der Verbraucherpreise nach § 299a Abs\. 2 so festzusetzen, dass in den Jahren 2001 und 2002 der Abstand der Anpassungsfaktormesszahl zur Anpassungsrichtwertmesszahl schrittweise verringert und im Jahr 2003 der Gleichstand von Anpassungsfaktormesszahl und Anpassungsrichtwertmesszahl erreicht wird\. Zur Vervielfachung der letzten Anpassungsfaktormesszahl nach § 108f Abs\. 4 ist für das Jahr 2000 anstelle des Anpassungsfaktors der Faktor 1,011 heranzuziehen\.
-> *\(Anm\.: Abs\. 4a aufgehoben durch VfGH, BGBl\. I Nr\. 33/2001\)*
-
-> `(5)` § 227 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 92/2000 gilt auch für Fälle, in denen über einen nach dem 30\. Juni 1996 gestellten Antrag auf Beitragsentrichtung nach § 227 Abs\. 3 bis 5 bereits entschieden worden ist, wenn eine neuerliche Entscheidung über die Beitragsentrichtung beantragt wird\. Die Rechtskraft der ergangenen Entscheidung steht dem nicht entgegen\.
-
-> `(6)` Die §§ 253a Abs\. 1, 253b Abs\. 1, 253c Abs\. 1 und 264 Abs\. 1 Z 1 und 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 92/2000 sind nur auf Versicherungsfälle anzuwenden, in denen der Stichtag nach dem 30\. September 2000 liegt, jedoch tritt jeweils
->
->> `1.` an die Stelle des 738\. Lebensmonates, wenn der Versicherte das 60\. Lebensjahr vollendet  
->> &nbsp; bis einschließlich 30\. September 2000der 720\. Lebensmonat,  
->> &nbsp; im Oktober oder November oder Dezember 2000der 722\. Lebensmonat,  
->> &nbsp; im Jänner oder Februar oder März 2001der 724\. Lebensmonat,  
->> &nbsp; im April oder Mai oder Juni 2001der 726\. Lebensmonat,  
->> &nbsp; im Juli oder August oder September 2001der 728\. Lebensmonat,  
->> &nbsp; im Oktober oder November oder Dezember 2001der 730\. Lebensmonat,  
->> &nbsp; im Jänner oder Februar oder März 2002der 732\. Lebensmonat,  
->> &nbsp; im April oder Mai oder Juni 2002der 734\. Lebensmonat,  
->> &nbsp; im Juli oder August oder September 2002der 736\. Lebensmonat;
->
->> `2.` an die Stelle des 678\. Lebensmonates, wenn die Versicherte das 55\. Lebensjahr vollendet  
->> &nbsp; bis einschließlich 30\. September 2000der 660\. Lebensmonat,  
->> &nbsp; im Oktober oder November oder Dezember 2000der 662\. Lebensmonat,  
->> &nbsp; im Jänner oder Februar oder März 2001der 664\. Lebensmonat,  
->> &nbsp; im April oder Mai oder Juni 2001der 666\. Lebensmonat,  
->> &nbsp; im Juli oder August oder September 2001der 668\. Lebensmonat,  
->> &nbsp; im Oktober oder November oder Dezember 2001der 670\. Lebensmonat,  
->> &nbsp; im Jänner oder Februar oder März 2002der 672\. Lebensmonat,  
->> &nbsp; im April oder Mai oder Juni 2002der 674\. Lebensmonat,  
->> &nbsp; im Juli oder August oder September 2002der 676\. Lebensmonat\.
->
-> *\(Anm\.: Abs\. 7 aufgehoben durch BGBl\. I Nr\. 71/2003\)*
-
-> `(7a)` Die Pensionsversicherungsträger werden in den Jahren 2001 bis 2003 ermächtigt, in den Richtlinien nach § 84 Abs\. 6 zum Ausgleich besonderer Härten durch die Anhebung des Pensionsanfallsalters vorzusehen, dass dem \(der\) Versicherten auf Antrag eine Unterstützung nach pflichtgemäßem Ermessen des Versicherungsträgers und durch Beschluss der Selbstverwaltung zuerkannt wird\. Die Höhe dieser Unterstützung ist im Einzelfall unter sinngemäßer Anwendung des § 306, die Dauer mit dem Zeitraum, der sich jeweils aus der Anhebung des Anfallsalters nach Abs\. 6 ergibt, zu begrenzen\. Abweichend von § 84 Abs\. 3 können in diesen Jahren zusätzliche Mittel an den Unterstützungsfonds im Höchstausmaß von 0,5 vT der Erträge an Beiträgen für Versicherte überwiesen werden\.
-
-> `(8)` § 261 Abs\. 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 92/2000 ist nur auf Versicherungsfälle anzuwenden, in denen der Stichtag nach dem 30\. September 2000 liegt\. Für männliche Versicherte, die das 60\. Lebensjahr, für weibliche Versicherte, die das 55\. Lebensjahr vor dem 1\. Oktober 2002 vollenden, ist das Ausmaß der Verminderung \(§ 261 Abs\. 4 erster bis vierter Satz\) in jenem Verhältnis zu kürzen, das sich aus der Gegenüberstellung von zehn Steigerungspunkten zur Zahl der Steigerungspunkte ergibt, die sich als Ausmaß der Verminderung beim jeweils frühestmöglichen Antritt einer vorzeitigen Alterspension nach Abs\. 6 ohne Berücksichtigung eines Höchstausmaßes errechnet\. Das Höchstausmaß der Verminderung beträgt 15% der nach § 261 Abs\. 2 ermittelten Summe der Steigerungspunkte\.
-
-> `(9)` § 261 Abs\. 5 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 92/2000 ist so anzuwenden, dass die Invaliditätspension für je zwölf Versicherungsmonate mindestens im Ausmaß von
->
->> `1.` 1,78% bei Stichtagen im Jahr 2001,
->
->> `2.` 1,76% bei Stichtagen im Jahr 2002,
->
->> `3.` 1,74% bei Stichtagen im Jahr 2003,
->
->> `4.` 1,72% bei Stichtagen im Jahr 2004
->
-> &nbsp; der Gesamtbemessungsgrundlage begrenzt mit 60% der Gesamtbemessungsgrundlage gebührt\. § 261 Abs\. 2 dritter und vierter Satz sind anzuwenden\.
-
-> `(10)` § 264 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 92/2000 ist nur auf Versicherungsfälle anzuwenden, in denen der Stichtag nach dem 30\. September 2000 liegt\. Auf Witwen\-\(Witwer\-\)Pensionen mit Stichtag vor dem 1\. Oktober 2000 ist § 264 in der vor dem 1\. Oktober 2000 geltenden Fassung weiterhin anzuwenden\.
-
-> `(11)` § 284 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 92/2000 ist so anzuwenden, dass die Knappschaftsvollpension für je zwölf Versicherungsmonate mindestens im Ausmaß von
->
->> `1.` 1,95% bei Stichtagen im Jahr 2001,
->
->> `2.` 1,925% bei Stichtagen im Jahr 2002,
->
->> `3.` 1,90% bei Stichtagen im Jahr 2003,
->
->> `4.` 1,875% bei Stichtagen im Jahr 2004
->
-> &nbsp; der Gesamtbemessungsgrundlage begrenzt mit 66% der Gesamtbemessungsgrundlage gebührt\. § 261 Abs\. 2 dritter und vierter Satz sind anzuwenden\.
-
-> `(12)` Der Hauptverband hat die Befugnis nach § 455 Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 92/2000 bis zum 1\. Oktober 2000 wahrzunehmen\. Die Krankenversicherungsträger haben sodann die entsprechenden Satzungsänderungen bis zum 31\. Jänner 2001 zu beschließen\.
-
-> `(13)` § 502 Abs\. 1a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 92/2000 ist auf Antrag auch auf bereits zuerkannte und bestehende Pensionen anzuwenden\. Die neubemessene Pension gebührt ab 1\. Jänner 2000, wenn der Antrag bis zum Ablauf des 31\. Dezember 2000 gestellt wird, sonst ab dem der Antragstellung folgenden Monatsersten\.
-
-> `(14)` Der auf die Krankenversicherung, Unfallversicherung und Pensionsversicherung jeweils entfallende Verwaltungs\- und Verrechnungsaufwand der Versicherungsträger nach diesem Bundesgesetz, dem GSVG, dem BSVG, dem B\-KUVG und des Hauptverbandes ist ab dem Geschäftsjahr 2001 bis zum Geschäftsjahr 2003 auf die Höhe des jeweiligen Verwaltungs\- und Verrechnungsaufwandes des Geschäftsjahres 1999 in der Krankenversicherung, Unfallversicherung und Pensionsversicherung zurückzuführen\. Dabei sind
->
->> `1.` die Entwicklungs\- und Implementierungskosten für Standardprodukte sowie die Verwaltungskostenersätze hiefür,
->
->> `2.` die Entwicklungs\- und Implementierungskosten für das ELSY nach den §§ 31a ff\.,
->
->> `3.` die Vergütung für die Mitwirkung an fremden Aufgaben nach § 82 dieses Bundesgesetzes und nach § 250 Abs\. 2 GSVG und
->
->> `4.` die Entwicklungs\- und Implementierungskosten für die Einrichtung der Niederösterreichischen Gebietskrankenkasse als Kompetenzzentrum nach § 26 Abs\. 3 KBGG, soweit diese Kosten nicht nach § 38 Abs\. 3 KBGG abgegolten werden,
->
-> &nbsp; jeweils außer Acht zu lassen\. Ferner ist auf die Veränderung des Versichertenstandes ab dem Geschäftsjahr 1999 bis zum Geschäftsjahr 2003 Bedacht zu nehmen\. Der 6\. Unterabschnitt des Abschnittes III des Ersten Teiles ist anzuwenden\.
-
-> `(15)` Auf Versicherte, die nach der am 30\. September 2000 geltenden Rechtslage Anspruch auf vorzeitige Alterspension nach § 253b mit Stichtag 1\. Oktober 2000 oder 1\. November 2000 oder 1\. Dezember 2000 oder 1\. Jänner 2001 oder 1\. Februar 2001 hätten und deren Arbeitsverhältnis nachweislich bis zum 30\. Juni 2000 zu einem Termin zwischen dem 31\. August 2000 und dem 31\. Dezember 2000 nachweislich wegen Inanspruchnahme der Pension gelöst wurde, ist § 253b Abs\. 1 in der am 30\. September 2000 geltenden Fassung anzuwenden\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-588-asvg--schlussbestimmungen-zu-art-1-des-sozialrechts-änderungsgesetzes-2000-bgbl-i-nr-92) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=588) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_751_TextContainer_751) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-588-asvg--schlussbestimmungen-zu-art-1-des-sozialrechts-änderungsgesetzes-2000-bgbl-i-nr-92) \]
 
@@ -17388,21 +17259,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 589 ASVG — Schlussbestimmungen zu Art. 66 des Budgetbegleitgesetzes 2001, BGBl. I Nr. 142/2000
 
-> `(1)` Die §§ 4 Abs\. 2 zweiter Satz, 31 Abs\. 5 Z 16a, 43 Abs\. 3, 44 Abs\. 6 lit\. a, b und c, 51d samt Überschrift, 70a Abs\. 1, 73 Abs\. 1a, 2 und 4, 76b Abs\. 4, 77 Abs\. 6, 195 Abs\. 4, 205a Abs\. 1, 227a Abs\. 8, 262 Abs\. 2 und 361 Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 142/2000 treten mit 1\. Jänner 2001 in Kraft\.
-
-> `(2)` Die §§ 31 Abs\. 3 Z 9, 460 Abs\. 1, 460b samt Überschrift, 460c samt Überschrift, 460d, 460e und 479 Abs\. 2 Z 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 142/2000 treten mit 1\. März 2001 in Kraft, es sei denn, dass bis zu diesem Zeitpunkt in den Dienstordnungen \(§ 31 Abs\. 3 Z 9\) den §§ 460b und 460c in der Fassung des Bundesgesetzes BGBl\. I Nr\. 142/2000 gleichwertige Regelungen getroffen werden\. Der Bundesminister für soziale Sicherheit und Generationen hat durch Verordnung festzustellen, ob eine derartige Gleichwertigkeit vorliegt, wenn diesbezügliche Änderungen der Dienstordnungen bis zum Ablauf des 28\. Februar 2001 nach § 31 Abs\. 8 vorgelegt werden\.
-
-> `(3)` Die §§ 421 Abs\. 1 und 587 Abs\. 6 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 142/2000 treten rückwirkend mit 1\. Juli 2000 in Kraft\.
-
-> `(4)` § 77 Abs\. 6 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 142/2000 ist auch auf Personen anzuwenden, die bereits am 31\. Dezember 2000 in der Pensionsversicherung weiterversichert sind und einen nahen Angehörigen \(eine nahe Angehörige\) mit Anspruch auf Pflegegeld in Höhe der Stufe 4 im Sinne der genannten Bestimmung pflegen, wenn sie dies bis zum Ablauf des 31\. Dezember 2001 beim zuständigen Pensionsversicherungsträger beantragen\. Diesfalls wird der auf den Dienstgeber entfallende Beitragsteil ab dem 1\. Jänner 2001 aus Mitteln des Bundes getragen; die zu viel gezahlten Beiträge sind den Weiterversicherten zu erstatten\. Wird der Antrag später gestellt, so erfolgt die Beitragstragung aus Mitteln des Bundes erst ab dem der Antragstellung folgenden Monatsersten\.
-
-> `(5)` § 77 Abs\. 6 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 142/2000 ist ferner auf Personen sinngemäß anzuwenden, die in der Pensionsversicherung nach § 16a selbstversichert sind und einen nahen Angehörigen \(eine nahe Angehörige\) mit Anspruch auf Pflegegeld zumindest in Höhe der Stufe 4 im Sinne der genannten Bestimmung pflegen, wenn sie
->
->> `1.` dies bis zum Ablauf des 31\. Dezember 2001 beantragen und
->
->> `2.` in den letzten 120 Kalendermonaten vor der Antragstellung mindestens 60 Versicherungsmonate erworben haben\.
-
-> `(6)` Die §§ 460b und 460c in der Fassung des Bundesgesetzes BGBl\. I Nr\. 142/2000 sind im Falle ihres Inkrafttretens auch auf Bedienstete, die vor dem 1\. März 2001 in den Dienst eines Versicherungsträgers \(des Hauptverbandes\) eingetreten sind, und auf vor dem 1\. März 2001 angefallene Leistungen auf Grund des Pensionsrechts nach den Dienstordnungen anzuwenden\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-589-asvg--schlussbestimmungen-zu-art-66-des-budgetbegleitgesetzes-2001-bgbl-i-nr-1422000) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=589) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_752_TextContainer_752) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-589-asvg--schlussbestimmungen-zu-art-66-des-budgetbegleitgesetzes-2001-bgbl-i-nr-1422000) \]
 
@@ -17410,22 +17267,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 590 ASVG — Schlussbestimmungen zu Art. 3 des Bundesgesetzes BGBl. I Nr. 5/2001
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. Jänner 2001 die §§ 148, 149 Abs\. 5 in der Fassung der Z 9 und Abs\. 6, 150 Abs\. 3 in der Fassung der Z 11, 322a Abs\. 1, 2 und 4, 447a Abs\. 5 Z 3 und 4 sowie 447f samt Überschrift in der Fassung des Bundesgesetzes BGBl\. I Nr\. 5/2001;
->
->> `1a.` mit 1\. Jänner 2002 die §§ 149 Abs\. 3, 3a, 3b und 5 in der Fassung der Z 9a, 150 Abs\. 1 Z 1, Abs\. 2 und 3 in der Fassung der Z 11a und 349 Abs\. 2a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 5/2001;
->
->> `2.` rückwirkend mit 1\. Oktober 2000 § 567 Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 5/2001;
-
-> `(2)` § 447a Abs\. 2 Z 2 tritt mit 1\. Jänner 2001 außer Kraft\.
-
-> `(3)` Die §§ 63b und 567 Abs\. 3 treten mit Ablauf des 31\. Dezember 2000 außer Kraft\.
-
-> `(4)` Der Behandlungsbeitrag\-Ambulanz ist für das Jahr 2001 erst für Behandlungsfälle ab dem 1\. März 2001 einzuheben\. Die landesgesetzlichen Ausführungsbestimmungen zu § 148 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 5/2001 sind innerhalb von sechs Monaten zu erlassen und rückwirkend mit 1\. März 2001 in Kraft zu setzen\.
-
-> `(4a)` Am 31\. Dezember 2000 geltende, nach § 149 vertraglich festgelegte Verpflegskosten pro Tag für Privatkrankenanstalten, die vom Vertrag zwischen Hauptverband und Wirtschaftskammer Österreich erfasst sind, sind für das Jahr 2001 um 3,3% zu erhöhen\.
-> *\(Anm\.: Abs\. 5 aufgehoben durch BGBl\. I Nr\. 179/2004\)*
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-590-asvg--schlussbestimmungen-zu-art-3-des-bundesgesetzes-bgbl-i-nr-52001) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=590) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_753_TextContainer_753) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-590-asvg--schlussbestimmungen-zu-art-3-des-bundesgesetzes-bgbl-i-nr-52001) \]
 
@@ -17447,11 +17289,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 592 ASVG — Schlussbestimmungen zu Art. 2 des Bundesgesetzes BGBl. I Nr. 12/2001
 
-> `(1)` § 502 Abs\. 6 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 12/2001 tritt am 1\. März 2002 in Kraft\.
-
-> `(2)` Für Personen, die erst auf Grund des § 502 Abs\. 6 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 12/2001 Beiträge für die Zeit der Auswanderung nachentrichten können, ist § 502 Abs\. 4 mit der Maßgabe anzuwenden, dass auch für die Zeit nach dem 31\. März 1959 Beiträge für insgesamt höchstens 180 Versicherungsmonate nachentrichtet werden können\.
-
-> `(3)` Personen, die erst auf Grund des § 502 Abs\. 6 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 12/2001 Anspruch auf eine Leistung aus der Pensionsversicherung nach diesem Bundesgesetz erhalten, gebührt diese Leistung ab dem Monat des In\-Kraft\-Tretens dieses Bundesgesetzes, wenn der Antrag innerhalb eines Jahres nach In\-Kraft\-Treten dieses Bundesgesetzes gestellt wird, sonst ab dem auf die Antragstellung folgenden Monatsersten\. Befindet sich der Antragsteller im Zeitpunkt der Antragstellung in Auswirkung einer aus den Gründen des § 500 Abs\. 1 erfolgten Auswanderung noch im Ausland, ist das Zutreffen der Voraussetzungen für den Leistungsanspruch abweichend von § 223 Abs\. 2 zum Zeitpunkt des Eintrittes des Versicherungsfalles zu prüfen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-592-asvg--schlussbestimmungen-zu-art-2-des-bundesgesetzes-bgbl-i-nr-122001) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=592) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_755_TextContainer_755) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-592-asvg--schlussbestimmungen-zu-art-2-des-bundesgesetzes-bgbl-i-nr-122001) \]
 
@@ -17459,46 +17297,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 593 ASVG — Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 99/2001 (58. Novelle)
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. August 2001 die §§ 4 Abs\. 4, 5 Abs\. 1 Z 3b und 14, 7 Z 1 lit\. e sowie Z 4 lit\. c und d, 8 Abs\. 4, 14 Abs\. 1 Z 2, 16 Abs\. 6 Z 3, 31b Abs\. 2 in der Fassung der Z 16, 32b Abs\. 2 in der Fassung der Z 18 und Abs\. 3, 32c in der Fassung der Z 20, 34 Abs\. 2, 54a samt Überschrift, 58 Abs\. 4, 59 Abs\. 1, 81, 104 Abs\. 7, 116 Abs\. 3, 123 Abs\. 4 Z 2 und 3 sowie Abs\. 10, 131 Abs\. 3 und 5, 131a samt Überschrift, 132a Abs\. 1, 132b Abs\. 2, 135 Abs\. 1 bis 3, 153 Abs\. 3 und 4, 210 samt Überschrift, 338 Abs\. 1, 340 Abs\. 1, 341 Abs\. 1, 3 und 4, 342 Abs\. 1 bis 3, 343 Abs\. 1 bis 5, 343a Abs\. 2, 343c Abs\. 1 Z 2 und Abs\. 2, 349 Abs\. 3, 350 Abs\. 1 Z 2 und Abs\. 2, 357 Abs\. 1, 437 Abs\. 1, 446a, 447b Abs\. 5 und 6, 447g Abs\. 6 bis 8, 572 Abs\. 1 Z 5, 581 Abs\. 1 Z 3 sowie 588 Abs\. 4 und 14 Z 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 99/2001;
->
->> `1a.` mit 1\. September 2001 die §§ 31 Abs\. 3 Z 13, 31b Abs\. 2 in der Fassung der Z 15a, 32a Abs\. 1 und 2, 32a Abs\. 3, 32b Abs\. 2 und 3 in der Fassung der Z 17c, 32c in der Fassung der Z 19a, 32d Abs\. 2, 420 Abs\. 5 Z 2, 421 Abs\. 7, 440 Abs\. 5 Z 1, 440a Abs\. 3 Z 3, 440a Abs\. 5 Z 2, 440f Abs\. 4, 441 bis 442d, 447c Abs\. 4, 447f Abs\. 10 in der Fassung der Z 90a, 448 Abs\. 3, 453 Abs\. 2, 455 Abs\. 3, 456a Abs\. 1, 3 *\(Anm\.: in der Fassung der Z 96d\)* und 4 sowie 460 Abs\. 1, 3 und 5 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 99/2001;
->
->> `1b.` mit 1\. Oktober 2001 die §§ 8 Abs\. 1 Z 2, 10 Abs\. 5, 14 Abs\. 1 Z 11 und 12, 36 Abs\. 1 Z 9 und 10, 44 Abs\. 1 Z 10 und 11 sowie 52 Abs\. 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 99/2001;
->
->> `2.` mit 1\. Jänner 2002 die §§ 5 Abs\. 1 Z 15, 7 Z 1 lit\. g, 31 Abs\. 4 Z 6, Abs\. 8, 9 und 9a, 31b Abs\. 4, 49 Abs\. 4, 213a Abs\. 4, 319a Abs\. 2, 349 Abs\. 2a und 2b, 455 Abs\. 1 und 456a Abs\. 3 *\(Anm\.: in der Fassung der Z 97\)* in der Fassung des Bundesgesetzes BGBl\. I Nr\. 99/2001;
->
->> `3.` rückwirkend mit 31\. März 2001 die §§ 460b und 460d in der Fassung des Bundesgesetzes BGBl\. I Nr\. 99/2001;
->
->> `4.` rückwirkend mit 1\. März 2001 § 447f Abs\. 10 in der Fassung der Z 90 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 99/2001;
->
->> `5.` rückwirkend mit 1\. Jänner 2001 die §§ 4 Abs\. 2 und 80 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 99/2001;
->
->> `6.` rückwirkend mit 1\. Oktober 2000 die §§ 90 und 135 Abs\. 6 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 99/2001;
->
->> `7.` rückwirkend mit 1\. Juli 2000 die §§ 5 Abs\. 1 Z 13, 7 Z 1 lit\. f und 585b Überschrift in der Fassung des Bundesgesetzes BGBl\. I Nr\. 99/2001;
->
->> `8.` rückwirkend mit 1\. August 1998 § 26 Abs\. 1 Z 3 lit\. c und d in der Fassung des Bundesgesetzes BGBl\. I Nr\. 99/2001\.
-
-> `(2)` Es treten außer Kraft:
->
->> `1.` mit Ablauf des 31\. Juli 2001 die §§ 447i und 572 Abs\. 1 Z 4a;
->
->> `2.` rückwirkend mit Ablauf des 30\. Juni 2000 § 563 Abs\. 21\.
-
-> `(3)` Alle vor Beginn des Jahres 2002 in der Fachzeitschrift „Soziale Sicherheit“ vorgenommenen Verlautbarungen, denen ihrem Inhalt nach rechtsverbindliche Kraft zukommt, treten spätestens mit Ablauf des 31\. Dezember 2005 außer Kraft, sofern sie nicht nach § 31 Abs\. 9 im Internet wiederverlautbart wurden\. Sie sind jedoch auf Sachverhalte, die sich vor ihrem Außer\-Kraft\-Treten ereignet haben, weiterhin anzuwenden\. Eine Wiederverlautbarung nach der genannten Bestimmung erfolgt unabhängig vom ursprünglichen Normerzeugungsverfahren durch Beschluss des Vorstandes \(Verbandsvorstandes\) mit einfacher Stimmenmehrheit, der der Aufsichtsbehörde \(§ 448\) zur Kenntnis zu bringen ist\. Anlässlich der Wiederverlautbarung können die in Art\. 49a Abs\. 2 B\-VG genannten Änderungen vorgenommen werden\. Ab dem fünften Tag nach der Kundmachung sind alle Gerichte und Verwaltungsbehörden an die wiederverlautbarten Texte gebunden\.
-
-> `(3a)` § 210 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 99/2001 ist nur anzuwenden, wenn der letzte Versicherungsfall nach dem 31\. Juli 2001 eingetreten ist\.
-
-> `(4)` § 447b Abs\. 5 und 6 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 99/2001 ist erstmals für das Geschäftsjahr 2000 anzuwenden\.
-
-> `(5)` Im Geschäftsjahr 2001 sind der Rücklage zur Deckung eines außerordentlichen Aufwandes aus den im § 447c Abs\. 1 lit\. a angeführten Gründen keine Mittel nach § 447a Abs\. 4 zuzuführen\.
-
-> `(6)` Die entsendenden Organe sind verpflichtet, die Mitglieder des Verwaltungsrates nach § 441b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 99/2001 so zeitgerecht zu bestimmen, dass sich dieser Verwaltungskörper bis längstens 15\. September 2001 konstituieren kann\. Ist dies nicht möglich, so hat der Bundesminister für soziale Sicherheit und Generationen das Recht, einen provisorischen Verwaltungsrat aus Versicherungsvertretern zu bestellen, der so lange im Amt bleibt, bis sich der ordentliche Verwaltungsrat vollzählig konstituiert hat\. Die erste Sitzung des Verwaltungsrates ist von dem an Lebensjahren ältesten Mitglied des Verwaltungsrates einzuberufen und zu leiten\.
-> *\(Anm\.: Abs\. 7 aufgehoben durch BGBl\. I Nr\. 35/2012\)*
-
-> `(8)` Bis zur Konstituierung der Geschäftsführung nach § 441c in der Fassung des Bundesgesetzes BGBl\. I Nr\. 99/2001 führen der bisherige leitende Angestellte und seine Stellvertreter als einstimmig entscheidendes Kollegialorgan die Geschäfte des Hauptverbandes\. Die Verbandskonferenz hat bis zur Konstituierung der Hauptversammlung, die Kontrollversammlung bis zur Konstituierung des Verwaltungsrates die ihr gesetzlich übertragenen Aufgabenbereiche weiter zu besorgen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-593-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-992001-58-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=593) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_756_TextContainer_756) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-593-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-992001-58-novelle) \]
 
@@ -17506,17 +17305,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 594 ASVG — Schlussbestimmungen zu Art. 1 des Sozialversicherungs-Währungsumstellungs-Begleitgesetzes, BGBl. I Nr. 67/2001
 
-> `(1)` Die §§ 5 Abs\. 2, 16 Abs\. 1, 44 Abs\. 1 und 6, 49 Abs\. 3 Z 3, 18 lit\. a und 19, 54 Abs\. 1, 56a Abs\. 2 Z 1 und 2, 59 Abs\. 1, 64 Abs\. 4, 74 Abs\. 1, 2 und 6, 74a Überschrift und Abs\. 1, 76 Abs\. 1 und 2, 76a Abs\. 3 und 6, 76b Abs\. 1 und 4, 77 Abs\. 2a und 4, 108 Abs\. 3 und 9, 108a Abs\. 2 bis 4, 108d Abs\. 9 bis 11, 108l Abs\. 3, 111, 116 Abs\. 5, 122 Abs\. 4, 125 Abs\. 1, 135 Abs\. 3, 135a Abs\. 1, 136 Abs\. 3, 137 Abs\. 2 und 5, 141 Abs\. 3 und 5, 149 Abs\. 3, 153 Abs\. 4, 154 Abs\. 1, 154a Abs\. 7, 155 Abs\. 3, 181 Abs\. 1, 2 und 6, 181b lit\. a bis c, 199 Abs\. 2, 207 Abs\. 1, 212 Abs\. 3, 227a Abs\. 8, 238 Abs\. 1, 240, 242 Abs\. 2 Z 4 lit\. b, 243 Abs\. 1 Z 2 lit\. c, 244 Abs\. 1, 249 Abs\. 3, 250 Abs\. 3 und 4 lit\. a bis c, 251 Abs\. 4, 253b Abs\. 1 Z 4, 253c Abs\. 2, 254 Abs\. 7, 262 Abs\. 2, 264 Abs\. 3 Z 1 und 2 sowie Abs\. 4 Z 1 und 2 und Abs\. 6, 283, 288 Abs\. 1, 292 Abs\. 3, Abs\. 4 lit\. h sowie Abs\. 5 und 8, 293 Abs\. 1, 302 Abs\. 4, 307d Abs\. 6, 307e Abs\. 2, 311 Abs\. 5, 363 Abs\. 2, 447a Abs\. 5 Z 3 und 4, 447f Abs\. 4, 6 und 7, 447g Abs\. 3 Z 1 lit\. d, 451 Abs\. 3, 466 Abs\. 4, 471e, 479e Abs\. 1, 502 Abs\. 4, 522a Abs\. 2 Z 1 und 2, Abs\. 3, 4 Z 1 und 2 sowie Abs\. 5, 522e Abs\. 3, 522f Abs\. 2 Z 1 lit\. a und b und Z 2 sowie Abs\. 3 und 4, 522i Abs\. 4, 522k Abs\. 2, 529 Abs\. 3 und 5 lit\. a sowie 572 Abs\. 10a und die Anlagen 2, 3, 4 und 7 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 67/2001 treten mit 1\. Jänner 2002 in Kraft\.
-
-> `(2)` Die §§ 46, 58 Abs\. 5, 104 Abs\. 4 und 108b sowie Abschnitt VI des Neunten Teiles treten mit Ablauf des 31\. Dezember 2001 außer Kraft\.
-
-> `(3)` Schillingbeträge, die am 31\. Dezember 2001 zur Bemessung einer \(künftigen\) Geldleistung bei den Versicherungsträgern \(beim Hauptverband\) gespeichert sind, sind mit Wirksamkeit vom 1\. Jänner 2002 in Euro umzurechnen\.
-
-> `(4)` Die Verordnung des Bundesministers für Arbeit und Soziales über die Durchführung der Sozialversicherung in den Zollausschlussgebieten der Gemeinden Jungholz und Mittelberg, BGBl\. Nr\. 396/1993, gilt ab 1\. Jänner 2002 – mit Ausnahme der §§ 1 bis 3, 4 Abs\. 2 und 5 Abs\. 1 und 2 sowie des § 6, die mit Ablauf des 31\. Dezember 2001 aufgehoben werden – als Bundesgesetz für jene Personen weiter, die vor dem 1\. Jänner 2002 auf Grund einer Tätigkeit in den Gemeinden Jungholz und Mittelberg Beitragsmonate erworben haben, die bei der Bemessung der Leistungen aus der gesetzlichen Unfall\- oder Pensionsversicherung zu berücksichtigen sind\. Dabei tritt
->
->> `1.` an die Stelle der Leistungsfeststellung in Schilling die Leistungsfeststellung in Euro und
->
->> `2.` an die Stelle des am Tag der Antragstellung geltenden Wechselkurses \(K\) der Wechselkurs von 7,04 S je 1 DM\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-594-asvg--schlussbestimmungen-zu-art-1-des-sozialversicherungs-währungsumstellungs-begleitgesetzes-bgbl-i-nr-672001) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=594) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_757_TextContainer_757) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-594-asvg--schlussbestimmungen-zu-art-1-des-sozialversicherungs-währungsumstellungs-begleitgesetzes-bgbl-i-nr-672001) \]
 
@@ -17524,9 +17313,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 595 ASVG — Schlussbestimmungen zu Art. 3 des Bundesgesetzes BGBl. I Nr. 103/2001
 
-> `(1)` Die §§ 8 Abs\. 1 Z 1 lit\. e und f, 10 Abs\. 6a, 12 Abs\. 5a, 120 Abs\. 1, 138 Abs\. 2 lit\. f und g, 162 Abs\. 1, 3a sowie 5 Z 2 und 3, 176 Abs\. 1 Z 8, 227a Abs\. 5 Z 1 und Abs\. 6, 233, 236 Abs\. 4a, 253a Abs\. 1 Z 2, 253b Abs\. 1 Z 2 lit\. b, 253c Abs\. 1 Z 1 lit\. b, 292 Abs\. 4, 447g Abs\. 3 Z 1 lit\. b und § 588 Abs\. 14 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 103/2001 treten mit 1\. Jänner 2002 in Kraft\.
-
-> `(2)` Abweichend von § 447g Abs\. 3 Z 1 lit\. b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 103/2001 sind für das Kalenderjahr 2002 123,54 Millionen €, für das Kalenderjahr 2003 130,81 Millionen € und für das Kalenderjahr 2004 196,22 Millionen € aus Mitteln des Ausgleichsfonds für Familienbeihilfen zu zahlen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-595-asvg--schlussbestimmungen-zu-art-3-des-bundesgesetzes-bgbl-i-nr-1032001) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=595) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_758_TextContainer_758) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-595-asvg--schlussbestimmungen-zu-art-3-des-bundesgesetzes-bgbl-i-nr-1032001) \]
 
@@ -17534,9 +17321,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 596 ASVG — Schlussbestimmungen zu Art. 7 des Bundesgesetzes BGBl. I Nr. 131/2001
 
-> `(1)` Die §§ 110 Abs\. 1, 545 Abs\. 1 und 582 Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 131/2001 treten mit 1\. Jänner 2002 in Kraft\.
-
-> `(2)` § 110 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 131/2001 ist auf alle Schriften und Amtshandlungen anzuwenden, bezüglich deren der Anspruch auf die Gebühr nach dem 31\. Dezember 2001 begründet wird\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-596-asvg--schlussbestimmungen-zu-art-7-des-bundesgesetzes-bgbl-i-nr-1312001) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=596) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_759_TextContainer_759) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-596-asvg--schlussbestimmungen-zu-art-7-des-bundesgesetzes-bgbl-i-nr-1312001) \]
 
@@ -17544,31 +17329,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 597 ASVG — Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 1/2002 (59. Novelle)
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. Jänner 2002 die §§ 10 Abs\. 7, 16 Abs\. 2 Z 1 und Abs\. 6 Z 3, 18a Abs\. 3 Z 1 bis 3, 31 Abs\. 11 und 12, 31a, 31b Abs\. 2, 44 Abs\. 1 Z 7 und Abs\. 3, 49 Abs\. 3 Z 18 lit\. a, 19, 25 und 26, 51d Abs\. 2, 53a Abs\. 4, 76 Abs\. 1 Z 2 und Abs\. 3, 81a samt Überschrift, 86 Abs\. 3 Z 1, 104 Abs\. 6, 106 Abs\. 2, 108 Abs\. 3, 123 Abs\. 2, 125 Abs\. 1, 129 Abs\. 5, 130 Abs\. 1, 144 Abs\. 4, 194, 252 Abs\. 1, 275 Abs\. 2, 277 Abs\. 3, 292 Abs\. 8, 294 Abs\. 3, 308 Abs\. 3 und 5 bis 7, 309, 310, 321 Abs\. 1, 340a samt Überschrift, 347 Abs\. 7, 350 Abs\. 1 Z 3, 358 Abs\. 3, 360 Abs\. 5, 363 Abs\. 3 Z 3, 418 Abs\. 7, 441d Abs\. 2, 443 samt Überschrift, 444 Abs\. 7, 447g Abs\. 3 Z 1 lit\. c, 459b Abs\. 1 Z 1, 460d, 460e, 538a bis 538d samt Überschriften, 551 Abs\. 11, 572 Abs\. 1 Z 5 und 5a sowie 581 Abs\. 1 Z 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 1/2002;
->
->> `2.` mit 1\. Jänner 2003 die §§ 16a Abs\. 3 Z 2, 17 Abs\. 3, 25 Abs\. 1, 29 Abs\. 1 und 2, 73 Abs\. 2, 84 Abs\. 3 und 5, 231 Z 1, 232 Abs\. 3, 418 Abs\. 3, Abs\. 5 Z 5 und Abs\. 5a, 419 Abs\. 2, 426 Abs\. 1 Z 2, 427 Abs\. 1 Z 2, 428 Z 2, 429 Z 2, 430 Z 2, 447f Abs\. 10, 502 Abs\. 4 und 506b Abs\. 6 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 1/2002;
->
->> `3.` rückwirkend mit 1\. Jänner 2001 die §§ 322a Abs\. 2 und 447f Abs\. 11 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 1/2002\.
-
-> `(2)` Es treten außer Kraft:
->
->> `1.` mit Ablauf des 31\. Dezember 2001 § 363 Abs\. 3 Z 4;
->
->> `2.` mit Ablauf des 31\. Dezember 2002 die §§ 418 Abs\. 5 Z 6 und 7, 427 Abs\. 1 Z 3, 428 Z 3 und 429 Z 3\.
-
-> `(3)` Als ausdrücklich verlangte Barzahlungen im Sinne des § 104 Abs\. 6 erster Satz in der Fassung des Bundesgesetzes BGBl\. I Nr\. 1/2002 gelten auch Barzahlungen von Leistungen, die bereits vor dem 1\. Jänner 2002 im Wege der Barzahlung erbracht wurden und nach diesem Zeitpunkt weiter zu erbringen sind\.
-
-> `(4)` § 308 Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 1/2002 gilt auch für Personen, die vor dem 1\. Jänner 2002 in ein pensionsversicherungsfreies Dienstverhältnis aufgenommen wurden\. Die Rechtskraft bereits ergangener Entscheidungen steht dem nicht entgegen\.
-
-> `(5)` Der Hauptverband und der Österreichische Bundesverband für Psychotherapie haben zur Vorbereitung des Abschlusses eines Gesamtvertrages im Sinne des § 349 Abs\. 2 ein Psychotherapiekonzept zu erstellen, das eine umfassende volkswirtschaftliche Kosten\-Nutzen\-Analyse zu enthalten hat\. Die Gültigkeit bereits bestehender Verträge über die Erbringung psychotherapeutischer Leistungen wird dadurch nicht berührt\.
-
-> `(6)` Alle für geringfügig beschäftigte Personen und geringfügige Beschäftigungsverhältnisse nach diesem Bundesgesetz geltenden Bestimmungen sind bis zum Ablauf des 31\. Dezember 2005 auch auf Personen anzuwenden, die nach § 203 Abs\. 2 B\-KUVG von der Kranken\- und Unfallversicherung nach dem B\-KUVG ausgenommen sind\.
-
-> `(7)` Für die Sitzungen des Überleitungsausschusses und der Verwaltungskörper der Pensionsversicherungsanstalt bis 31\. Dezember 2005 gilt § 439 mit der Maßgabe, dass die nach dem Arbeitsverfassungsgesetz in Betracht kommende Betriebsvertretung der Pensionsversicherungsanstalt der Arbeiter und der Pensionsversicherungsanstalt der Angestellten je zwei teilnahmeberechtigte Vertreter mit beratender Stimme namhaft zu machen hat\.
-
-> `(8)` Für die Sitzungen des Überleitungsausschusses und der Verwaltungskörper der Pensionsversicherungsanstalt gilt § 440 Abs\. 5 Z 1 bis zur Konstituierung des Beirates der Pensionsversicherungsanstalt mit der Maßgabe, dass die Vorsitzenden und je ein Stellvertreter des bei der Pensionsversicherungsanstalt der Arbeiter und des bei der Pensionsversicherungsanstalt der Angestellten errichteten Beirates berechtigt sind, teilzunehmen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-597-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-12002-59-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=597) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_760_TextContainer_760) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-597-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-12002-59-novelle) \]
 
@@ -17576,13 +17337,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 598 ASVG — Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 82/2002
 
-> Es treten in Kraft:
->
->> `1.` mit 1\. Mai 2002 die §§ 538d Abs\. 4 und 5 sowie 538e samt Überschrift in der Fassung des Bundesgesetzes BGBl\. I Nr\. 82/2002;
->
->> `2.` mit 1\. Juli 2002 die §§ 538b Abs\. 1 und 2, 538c Abs\. 1 dritter und letzter Satz sowie Abs\. 4 und 6 letzter Satz, 538d Abs\. 2, 3, 6 und 7, 538f samt Überschrift und 538g samt Überschrift in der Fassung des Bundesgesetzes BGBl\. I Nr\. 82/2002;
->
->> `3.` rückwirkend mit 1\. Jänner 2002 § 538c Abs\. 6 zweiter Satz in der Fassung des Bundesgesetzes BGBl\. I Nr\. 82/2002\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-598-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-822002) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=598) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_761_TextContainer_761) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-598-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-822002) \]
 
@@ -17598,54 +17353,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 600 ASVG — Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 140/2002 (60. Novelle)
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. September 2002 die §§ 10 Abs\. 1 und 2, 12 Abs\. 1, 19a Abs\. 2, 31 Abs\. 5 Z 33 und 34, 32a Abs\. 1, 32c, 36 Abs\. 3, 49 Abs\. 6, 77 Abs\. 6, 123 Abs\. 4 Z 1, 132a Abs\. 2, 135a Abs\. 2, 142 Abs\. 1, 233 Abs\. 2, 242 Abs\. 3, 245 Abs\. 4 und 8, 251a Abs\. 7 und 8, 252 Abs\. 2 Z 1, 292 Abs\. 5, 345 Abs\. 1, 348g samt Überschrift, 349a samt Überschrift, 350 Abs\. 1 Z 2, 351b, 420 Abs\. 2, 421 Abs\. 7, 440a Abs\. 2, 442 Abs\. 2 Z 1 und 1a, 442a Abs\. 2 Z 5 und 5a, 446 Abs\. 1 und 2, 447a Abs\. 2 Z 2, Abs\. 3 letzter Satz und Abs\. 4 letzter Satz, 447f Abs\. 10, 11, 12 Z 2 und Abs\. 15, 479 Abs\. 1 und 2 Z 4, 567 Abs\. 8 Z 2, 588 Abs\. 7 und 7a sowie 593 Abs\. 3 und 3a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 140/2002;
->
->> `2.` mit 1\. Oktober 2002 die §§ 31 Abs\. 3 Z 12 und 351c bis 351j samt Überschriften in der Fassung des Bundesgesetzes BGBl\. I Nr\. 140/2002;
->
->> `3.` mit 1\. Jänner 2003 die §§ 26 Abs\. 1 Z 5 lit\. f und g, 108g Abs\. 1, 178 Abs\. 2, 179 Abs\. 1 bis 5, 181 Abs\. 1, 181b, 442 Abs\. 2 Z 5 und 6, 442a Abs\. 2 Z 8 und 9 sowie Abs\. 3 Z 6, 445 Z 5, 447a Abs\. 1, Abs\. 3 erster Satz sowie Abs\. 4 erster und zweiter Satz und Abs\. 5 und 6, 447b samt Überschrift und 447c samt Überschrift in der Fassung des Bundesgesetzes BGBl\. I Nr\. 140/2002;
->
->> `4.` mit 1\. Jänner 2004 die §§ 5 Abs\. 1 Z 5, 7 Z 4 lit\. d und e, 8 Abs\. 1 Z 1 lit\. a sublit\. aa, 73 Abs\. 1 Z 2, 309 und 312 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 140/2002;
->
->> `4a.` mit 1\. Jänner 2005 § 58 Abs\. 6 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 140/2002;
->
->> `4b.` mit 1\. Jänner 2006 die §§ 31 Abs\. 5 Z 16, 135 Abs\. 3, 153 Abs\. 4 und 361 Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 140/2002;
->
->> `5.` rückwirkend mit 1\. Jänner 2002 die §§ 125 Abs\. 1, 130 Abs\. 1 und 468 Abs\. 6 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 140/2002\.
-
-> `(2)` Die §§ 10a und 55 Abs\. 2 treten mit Ablauf des 31\. August 2002 außer Kraft\.
-
-> `(3)` Die §§ 447d und 447e treten mit Ablauf des 31\. Dezember 2002 außer Kraft\.
-
-> `(4)` § 31 Abs\. 5 Z 12 tritt mit Ablauf des 31\. Dezember 2004 außer Kraft\.
-
-> `(4a)` Der Hauptverband hat dem Bundesminister für soziale Sicherheit und Generationen bis längstens 30\. September 2003 über den Zeitpunkt der flächendeckenden technischen Verfügbarkeit und Einsatzbereitschaft des ELSY zu berichten\. Auf Grund dieses Berichtes kann der Bundesminister für soziale Sicherheit und Generationen durch Verordnung den Zeitpunkt des In\-Kraft\-Tretens der §§ 31 Abs\. 5 Z 16, 58 Abs\. 6, 135 Abs\. 3, 153 Abs\. 4 und 361 Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 140/2002 und des Bundesgesetzes BGBl\. I Nr\. 71/2003 bzw\. des Außer\-Kraft\-Tretens des § 31 Abs\. 5 Z 12 abweichend von Abs\. 1 Z 4 bzw\. von Abs\. 4 festsetzen\.
-
-> `(5)` Personen, die am 31\. Dezember 1999 nach § 8 Abs\. 1 Z 1 lit\. d pflichtversichert waren, sowie Pensionisten aus den in § 273 Abs\. 6 GSVG genannten Berufsgruppen mit Pensionsstichtagen ab dem 1\. Jänner 2000 bleiben in der Krankenversicherung nach diesem Bundesgesetz pflichtversichert\.
-
-> `(6)` Die Betriebskrankenkasse Pengg gilt mit Ablauf des 31\. Dezember 2002 als aufgelöst; das Bundesministerium für soziale Sicherheit und Generationen hat die bezüglich des Rechts\- und Vermögensüberganges erforderlichen Anordnungen zu treffen\.
-
-> `(7)` Die §§ 31 Abs\. 3 Z 12 und 351c bis 351j in der Fassung des Bundesgesetzes BGBl\. I Nr\. 140/2002 sind nur auf jene Fälle anzuwenden, in denen die Anbotstellung nach dem 30\. September 2002 erfolgt\.
-
-> `(8)` § 77 Abs\. 6 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 140/2002 ist anzuwenden
->
->> `1.` auf Personen, die den Antrag auf Weiterversicherung nach § 17 nach Ablauf des 31\. August 2002 stellen;
->
->> `2.` auf Personen, die bereits am 31\. August 2002 in der Pensionsversicherung weiterversichert sind und einen nahen Angehörigen \(eine nahe Angehörige\) im Sinne der genannten Bestimmung pflegen, wenn sie dies bis zum Ablauf des 31\. August 2003 beim zuständigen Pensionsversicherungsträger beantragen\. Diesfalls wird der auf den Dienstgeber entfallende Beitragsteil ab dem 1\. September 2002 aus Mitteln des Bundes getragen; die zuviel gezahlten Beiträge sind den Weiterversicherten zu erstatten\. Wird der Antrag später gestellt, so erfolgt die Beitragstragung aus Mitteln des Bundes erst ab dem der Antragstellung folgenden Monatsersten\.
-
-> `(9)` Die §§ 178 Abs\. 2, 179, 181 Abs\. 1 und 181b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 140/2002 sind nur auf Versicherungsfälle anzuwenden, die nach dem 31\. Dezember 2002 eintreten\.
-
-> `(10)` Im Geschäftsjahr 2002 sind der Rücklage zur Deckung eines außerordentlichen Aufwandes aus den in § 447c Abs\. 1 lit\. a angeführten Gründen keine Mittel nach § 447a Abs\. 4 zuzuführen\. Werden in einem Geschäftsjahr die Mittel der besonderen Rücklage nach § 447a Abs\. 5 nicht ausgeschöpft, so ist der Rest dieser Mittel der allgemeinen Rücklage des Ausgleichsfonds zuzuführen\.
-> *\(Anm\.: Abs\. 11 aufgehoben durch VfGH, BGBl\. I Nr\. 20/2004\)*
-
-> `(12)` § 447e in der am 31\. Dezember 2002 geltenden Fassung ist auf jene Fälle weiterhin anzuwenden, in denen der Antrag auf Zweckzuschüsse vor dem 1\. September 2002 bewilligt wurde\.
-
-> `(13)` Bei der Berechnung der Verwaltungskosten nach § 588 Abs\. 14 sind Aufwendungen und Belastungen außer Acht zu lassen, die beim Hauptverband anfallen oder angefallen sind, für die Verwirklichung oder Einführung von
->
->> `1.` Maßnahmen zur Verringerung der Kosten für nicht auf wissenschaftlicher Grundlage oder nicht auf sonst gesichertem Wissen beruhende medizinische Leistungen \(evidence based medicine\);
->
->> `2.` Maßnahmen, die trägerübergreifende Zielvereinbarungen und das Controlling nach dem 6\. Unterabschnitt des Abschnittes III des Ersten Teiles betreffen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-600-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-1402002-60-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=600) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_763_TextContainer_763) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-600-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-1402002-60-novelle) \]
 
@@ -17653,9 +17361,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 601 ASVG — Schlussbestimmungen zu Art. XI des Bundesgesetzes BGBl. I Nr. 132/2002
 
-> `(1)` Die §§ 31 Abs\. 5 Z 15 und Abs\. 11, 34 Abs\. 2, 41a samt Überschrift, 43a samt Überschrift, 321 Abs\. 1, 360 Abs\. 7 und 545 Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 132/2002 treten mit 1\. Jänner 2003 in Kraft\.
-
-> `(2)` § 34 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 132/2002 ist für Beitragszeiträume anzuwenden, die nach Ablauf des 31\. Dezember 2002 enden; § 41a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 132/2002 ist auf Prüfungen anzuwenden, die nach Ablauf des 31\. Dezember 2002 beginnen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-601-asvg--schlussbestimmungen-zu-art-xi-des-bundesgesetzes-bgbl-i-nr-1322002) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=601) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_764_TextContainer_764) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-601-asvg--schlussbestimmungen-zu-art-xi-des-bundesgesetzes-bgbl-i-nr-1322002) \]
 
@@ -17671,9 +17377,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 603 ASVG — Schlussbestimmungen zu Art. 6 des Bundesgesetzes BGBl. I Nr. 155/2002
 
-> `(1)` Die §§ 53b samt Überschrift, 57a samt Überschrift und 575 Abs\. 7 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 155/2002 treten mit 1\. Oktober 2002 in Kraft\.
-
-> `(2)` § 135a Abs\. 2 und 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 155/2002 tritt mit 1\. Oktober 2002 in Kraft und ist auf alle anhängigen Fälle, weiters über Antrag des Versicherten auch auf Fälle, in denen der Behandlungsbeitrag\-Ambulanz bereits entrichtet wurde, sowie auf Rückerstattungsanträge nach § 135a Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 155/2002 anzuwenden\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-603-asvg--schlussbestimmungen-zu-art-6-des-bundesgesetzes-bgbl-i-nr-1552002) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=603) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_766_TextContainer_766) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-603-asvg--schlussbestimmungen-zu-art-6-des-bundesgesetzes-bgbl-i-nr-1552002) \]
 
@@ -17697,29 +17401,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 606 ASVG — Schlussbestimmungen zu Art. 73 Teil 1 des Budgetbegleitgesetzes 2003, BGBl. I Nr. 71
 
-> `(1)` Es treten in Kraft:
->
->> `1.` die §§ 31 Abs\. 2 Z 3 und 4, 51 Abs\. 1 Z 1 lit\. a bis f sowie Abs\. 3 Z 1 lit\. a und b sowie Abs\. 6, 51e samt Überschrift, 73 Abs\. 1 Z 1 und 2, Abs\. 1a, 2, 3 und 4, 77 Abs\. 1, 472a Abs\. 2, 474 Abs\. 1 sowie 479d Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2003 mit 1\. Jänner 2004;
->
->> `2.` rückwirkend mit 1\. Oktober 2002 § 53b Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2003\.
-
-> `(2)` Es treten außer Kraft:
->
->> `1.` mit Ablauf des 31\. Dezember 2003 § 575 Abs\. 7;
->
->> `2.` rückwirkend mit Ablauf des 31\. März 2003 die §§ 31 Abs\. 5 Z 16b, 135a, 148 Z 4a und 149 Abs\. 6\.
-
-> `(3)` Die Verordnung nach § 31 Abs\. 5a ist frühestens mit 1\. Jänner 2005 in Kraft zu setzen\. Dabei hat der Hauptverband für die im § 31 Abs\. 5a genannten Krankenversicherungsträger einen gemeinsamen Zeitpunkt festzusetzen, zu dem erstmalig der Kostenbeitrag einzuheben ist\. Für Zeiträume, ab denen der Kostenbeitrag eingehoben wird, sind die Bestimmungen der §§ 135 Abs\. 3 und 153 Abs\. 4 über die Krankenscheingebühr nicht mehr anzuwenden\.
-
-> `(4)` Abweichend von § 73 Abs\. 1 Z 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2003 beläuft sich der einzubehaltende Betrag im Kalenderjahr 2004 auf 4,25 % der auszuzahlenden Leistung\.
-
-> `(5)` Abweichend von § 73 Abs\. 1 Z 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2003 beläuft sich der einzubehaltende Betrag im Kalenderjahr 2004 auf 4,25 % der auszuzahlenden Leistung\.
-
-> `(6)` Abweichend von § 73 Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2003 treten an die Stelle der ab 1\. Jänner 2004 geltenden Prozentsätze von 181%, 174%, 403%, 181% und 316% im Kalenderjahr 2004 die Prozentsätze von 190%, 183%, 439%, 190% und 342%\.
-
-> `(7)` Abweichend von § 73 Abs\. 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2003 tritt an die Stelle des ab 1\. Jänner 2004 geltenden Prozentsatzes von 181% im Kalenderjahr 2004 der Prozentsatz von 190%\.
-
-> `(8)` § 135a Abs\. 4 in der am 31\. März 2003 geltenden Fassung ist für das Kalenderjahr 2003 weiterhin anzuwenden\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-606-asvg--schlussbestimmungen-zu-art-73-teil-1-des-budgetbegleitgesetzes-2003-bgbl-i-nr-71) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=606) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_769_TextContainer_769) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-606-asvg--schlussbestimmungen-zu-art-73-teil-1-des-budgetbegleitgesetzes-2003-bgbl-i-nr-71) \]
 
@@ -17727,415 +17409,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 607 ASVG — Schlussbestimmungen zu Art. 73 Teil 2 des Budgetbegleitgesetzes 2003, BGBl. I Nr. 71
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. Jänner 2004 die §§ 70b samt Überschrift, 81a letzter Satz, 91 Abs\. 1 und 2, 103 Abs\. 2, 108 Abs\. 3, 108h Abs\. 1, 227 Abs\. 1 Z 1, 236 Abs\. 4a, 238 Abs\. 1 und 2, 239 Abs\. 1, 248 Abs\. 1, 248c samt Überschrift, 261 Abs\. 2 bis 5, 261c Abs\. 1, 284 Z 3, 289, 292 Abs\. 1 und 8, 293 Abs\. 1 lit\. a sublit\. aa, 447 Abs\. 1a, 2a und 3, 460c sowie Abschnitt IVa des Vierten Teiles in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2003;
->
->> `2.` mit 1\. Juli 2004 die §§ 222 Abs\. 1 Z 1, 233 Abs\. 2, 236 Abs\. 1 Z 2 lit\. c, 254 Abs\. 1 Z 3, 264 Abs\. 1 Z 1 und 2, 270, 271 Abs\. 1 Z 3, 276 Überschrift und Abs\. 1, 279 Abs\. 1 Z 3 und 460b Z 1 lit\. b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2003\.
-
-> `(2)` Es treten außer Kraft:
->
->> `1.` mit Ablauf des 31\. Dezember 2003 die §§ 40 Abs\. 2 Z 2, 222 Abs\. 2 Z 1 lit\. c und e, 238 Abs\. 5, 253a, 253c, 261 Abs\. 6, 284 Z 5, 572 Abs\. 10 und 10a sowie 588 Abs\. 7;
->
->> `2.` mit Ablauf des 30\. Juni 2004 die §§ 222 Abs\. 2 Z 1 lit\. d, 236 Abs\. 4 Z 2, 253 Abs\. 3, 253b, 261b und 284b\.
-
-> `(3)` § 70b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2003 ist auf Versicherungsfälle anzuwenden, in denen der Stichtag nach dem 31\. Dezember 2003 liegt\. Auf Versicherungsfälle, in denen der Stichtag vor dem 1\. Jänner 2004 liegt, ist die zitierte Bestimmung nur dann anzuwenden, wenn der \(die\) Versicherte bzw\. der \(die\) Leistungsbezieher\(in\) die Beitragserstattung beantragt, und zwar so, dass eine allfällige Erstattung innerhalb eines Jahres nach der Antragstellung zu erfolgen hat und die Beiträge mit den für das Kalenderjahr 2004 geltenden Aufwertungsfaktoren aufzuwerten sind\. Die Rechtskraft bereits ergangener Entscheidungen steht dem nicht entgegen\.
-
-> `(3a)` Abweichend von § 108h Abs\. 1 hat der Bundesminister für soziale Sicherheit, Generationen und Konsumentenschutz in der Verordnung nach § 108 Abs\. 5 für die Kalenderjahre 2004 und 2005 die Pensionsanpassung so vorzunehmen, dass anstelle der Vervielfachung mit dem Anpassungsfaktor wie folgt zu erhöhen ist:
->
->> `1.` Die Erhöhung jener Pensionen, die die Höhe der Medianpension nach diesem Bundesgesetz nicht überschreiten, ist auf Grund der Erhöhung der Verbraucherpreise nach § 299a Abs\. 2 vorzunehmen\.
->
->> `2.` Alle übrigen Pensionen sind mit einem Fixbetrag zu erhöhen, der der Erhöhung der Medianpension nach Z 1 entspricht\.
->
-> &nbsp; Medianpension im Sinne der Z 1 und 2 ist die Medianpension des Monates Jänner des dem jeweiligen Anpassungsjahr vorangegangenen Kalenderjahres\. Die Höhe der Medianpension ist von der Kommission zur langfristigen Pensionssicherung \(§ 108e\) jeweils bis zum 31\. Oktober des dem Anpassungsjahr vorangehenden Jahres festzustellen\.
-
-> `(3b)` § 108h Abs\. 1 letzter Satz in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2003 ist nur auf Leistungen anzuwenden, deren Stichtag \(§ 223 Abs\. 2\) nach dem 31\. Dezember 2003 liegt\.
-
-> `(4)` § 238 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2003 ist nur auf Versicherungsfälle anzuwenden, in denen der Stichtag nach dem 31\. Dezember 2003 liegt, und zwar so, dass das Höchstausmaß von 480 monatlichen Gesamtbeitragsgrundlagen
-
-> im Jahr 2004 durch 192,
->
-> im Jahr 2005 durch 204,
->
-> im Jahr 2006 durch 216,
->
-> im Jahr 2007 durch 228,
->
-> im Jahr 2008 durch 240,
->
-> im Jahr 2009 durch 252,
->
-> im Jahr 2010 durch 264,
->
-> im Jahr 2011 durch 276,
->
-> im Jahr 2012 durch 288,
->
-> im Jahr 2013 durch 300,
->
-> im Jahr 2014 durch 312,
->
-> im Jahr 2015 durch 324,
->
-> im Jahr 2016 durch 336,
->
-> im Jahr 2017 durch 348,
->
-> im Jahr 2018 durch 360,
->
-> im Jahr 2019 durch 372,
->
-> im Jahr 2020 durch 384,
->
-> im Jahr 2021 durch 396,
->
-> im Jahr 2022 durch 408,
->
-> im Jahr 2023 durch 420,
->
-> im Jahr 2024 durch 432,
->
-> im Jahr 2025 durch 444,
->
-> im Jahr 2026 durch 456 und
->
-> im Jahr 2027 durch 468
->
-> monatliche Gesamtbeitragsgrundlagen ersetzt wird und der Divisor 560 durch die um ein Sechstel erhöhte Zahl dieser Gesamtbeitragsgrundlagen ersetzt wird\.
-
-> `(6)` § 239 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2003 ist in der Zeit vom 1\. Jänner 2004 bis zum Ablauf des Jahres 2027 so anzuwenden, dass der Prozentsatz von 50 für jedes Kalenderjahr vor dem Jahr 2028 um 2 zu vermindern ist\.
-
-> `(7)` Auf Personen, die die Anspruchsvoraussetzungen für die Alterspension \(Knappschaftsalterspension\) spätestens am 31\. Dezember 2003 erfüllen, sind die §§ 238, 239, 253, 261, 261c, 284, 284c, 285 und 563 Abs\. 19 in der am 31\. Dezember 2003 in Geltung gestandenen Fassung weiterhin anzuwenden, sofern es für diese Personen günstiger ist\. Gleiches gilt für Personen, die trotz Vorliegens der Voraussetzungen nach Abs\. 9 erster Satz nicht die vorzeitige Alterspension bei langer Versicherungsdauer \(vorzeitige Knappschaftsalterspension bei langer Versicherungsdauer\), sondern die Alterspension \(Knappschaftsalterspension\) in Anspruch nehmen\.
-
-> `(8)` Auf Personen, die Anspruch auf vorzeitige Alterspension bei Arbeitslosigkeit \(vorzeitige Knappschaftsalterspension bei Arbeitslosigkeit\) oder auf vorzeitige Alterspension bei langer Versicherungsdauer \(vorzeitige Knappschaftsalterspension bei langer Versicherungsdauer\) oder auf Gleitpension \(Knappschaftsgleitpension\) haben, ist weiterhin die am 31\. Dezember 2003 geltende Rechtslage anzuwenden, wenn der Stichtag vor dem 1\. Jänner 2004 liegt\.
-
-> `(8a)` Auf Personen, die Anspruch auf vorzeitige Alterspension bei langer Versicherungsdauer mit einem Stichtag nach dem 31\. Dezember 2003 und vor dem 2\. Juni 2004 haben, sind, sofern nicht Abs\. 9 anzuwenden ist, die §§ 253 Abs\. 3 sowie 253b Abs\. 2 und 3 in der am 30\. Juni 2004 geltenden Fassung ab 1\. Juli 2004 weiterhin anzuwenden\. Abs\. 11 gilt entsprechend\.
-
-> `(9)` Auf Personen, die die Anspruchsvoraussetzungen für die vorzeitige Alterspension bei langer Versicherungsdauer \(vorzeitige Knappschaftsalterspension bei langer Versicherungsdauer\) – mit Ausnahme der Voraussetzung des Fehlens einer die Pflichtversicherung begründenden Erwerbstätigkeit am Stichtag \(§ 253b Abs\. 1 Z 4\) – spätestens am 31\. Dezember 2003 erfüllen, sind die §§ 238, 239, 253b, 261, 261b, 284, 284b und 588 Abs\. 7 in der am 31\. Dezember 2003 in Geltung gestandenen Fassung weiterhin anzuwenden, sofern es für diese Personen günstiger ist\. § 588 Abs\. 7 in der am 31\. Dezember 2003 in Geltung gestandenen Fassung ist jedoch nur dann weiterhin anzuwenden, wenn auch die erforderlichen Beitragsmonate bis zu diesem Zeitpunkt vorliegen\.
-
-> `(9a)` Auf Personen, die am Stichtag \(§ 223 Abs\. 2\) nach Abs\. 9, 10, 12 bis 14, 20 oder 22 die Anspruchsvoraussetzungen für die vorzeitige Alterspension bei langer Versicherungsdauer \(vorzeitige Knappschaftsalterspension bei langer Versicherungsdauer\) erfüllen, sind die §§ 254 Abs\. 1 Z 3, 271 Abs\. 1 Z 3 und 279 Abs\. 1 Z 3 in der am 31\. Dezember 2003 in Geltung gestandenen Fassung weiterhin anzuwenden\.
-
-> `(10)` Die am 31\. Dezember 2003 geltenden Bestimmungen über die vorzeitige Alterspension bei langer Versicherungsdauer \(vorzeitige Knappschaftsalterspension bei langer Versicherungsdauer\) sind – mit Ausnahme der §§ 108h Abs\. 1, 238, 239, 261, 261b, 284 Z 3 und 284b – auf Versicherungsfälle, in denen der Stichtag nach dem 30\. Juni 2004 liegt, weiterhin anzuwenden, jedoch tritt abweichend von § 253b Abs\. 1
->
->> `1.` an die Stelle des 738\. Lebensmonates, wenn der Versicherte diesen Lebensmonat vollendet
->>
->>> `–` im Juli oder August oder September 2004der 740\. Lebensmonat,
->>
->>> `–` im Oktober oder November oder Dezember 2004der 742\. Lebensmonat,
->>
->>> `–` im Jänner oder Februar oder März 2005der 743\. Lebensmonat,
->>
->>> `–` im April oder Mai oder Juni 2005der 744\. Lebensmonat,
->>
->>> `–` im Juli oder August oder September 2005der 745\. Lebensmonat,
->>
->>> `–` im Oktober oder November oder Dezember 2005der 746\. Lebensmonat,
->>
->>> `–` im Jänner oder Februar oder März 2006der 747\. Lebensmonat,
->>
->>> `–` im April oder Mai oder Juni 2006der 748\. Lebensmonat,
->>
->>> `–` im Juli oder August oder September 2006der 749\. Lebensmonat,
->>
->>> `–` im Oktober oder November oder Dezember 2006der 750\. Lebensmonat,
->>
->>> `–` im Jänner oder Februar oder März 2007der 751\. Lebensmonat,
->>
->>> `–` im April oder Mai oder Juni 2007der 752\. Lebensmonat,
->>
->>> `–` im Juli oder August oder September 2007der 753\. Lebensmonat,
->>
->>> `–` im Oktober oder November oder Dezember 2007der 754\. Lebensmonat,
->>
->>> `–` im Jänner oder Februar oder März 2008der 755\. Lebensmonat,
->>
->>> `–` im April oder Mai oder Juni 2008der 756\. Lebensmonat,
->>
->>> `–` im Juli oder August oder September 2008der 757\. Lebensmonat,
->>
->>> `–` im Oktober oder November oder Dezember 2008der 758\. Lebensmonat,
->>
->>> `–` im Jänner oder Februar oder März 2009der 759\. Lebensmonat,
->>
->>> `–` im April oder Mai oder Juni 2009der 760\. Lebensmonat,
->>
->>> `–` im Juli oder August oder September 2009der 761\. Lebensmonat,
->>
->>> `–` im Oktober oder November oder Dezember 2009der 762\. Lebensmonat,
->>
->>> `–` im Jänner oder Februar oder März 2010der 763\. Lebensmonat,
->>
->>> `–` im April oder Mai oder Juni 2010der 764\. Lebensmonat,
->>
->>> `–` im Juli oder August oder September 2010der 765\. Lebensmonat,
->>
->>> `–` im Oktober oder November oder Dezember 2010der 766\. Lebensmonat,
->>
->>> `–` im Jänner oder Februar oder März 2011der 767\. Lebensmonat,
->>
->>> `–` im April oder Mai oder Juni 2011der 768\. Lebensmonat,
->>
->>> `–` im Juli oder August oder September 2011der 769\. Lebensmonat,
->>
->>> `–` im Oktober oder November oder Dezember 2011der 770\. Lebensmonat,
->>
->>> `–` im Jänner oder Februar oder März 2012der 771\. Lebensmonat,
->>
->>> `–` im April oder Mai oder Juni 2012der 772\. Lebensmonat,
->>
->>> `–` im Juli oder August oder September 2012der 773\. Lebensmonat,
->>
->>> `–` im Oktober oder November oder Dezember 2012der 774\. Lebensmonat,
->>
->>> `–` im Jänner oder Februar oder März 2013der 775\. Lebensmonat,
->>
->>> `–` im April oder Mai oder Juni 2013der 776\. Lebensmonat,
->>
->>> `–` im Juli oder August oder September 2013der 777\. Lebensmonat,
->>
->>> `–` im Oktober oder November oder Dezember 2013der 778\. Lebensmonat,
->>
->>> `–` im Jänner oder Februar oder März 2014der 779\. Lebensmonat,
->>
->>> `–` im April oder Mai oder Juni 2014der 780\. Lebensmonat;
->
->> `2.` an die Stelle des 678\. Lebensmonates, wenn die Versicherte diesen Lebensmonat vollendet
->>
->>> `–` im Juli oder August oder September 2004der 680\. Lebensmonat,
->>
->>> `–` im Oktober oder November oder Dezember 2004der 682\. Lebensmonat,
->>
->>> `–` im Jänner oder Februar oder März 2005der 683\. Lebensmonat,
->>
->>> `–` im April oder Mai oder Juni 2005der 684\. Lebensmonat,
->>
->>> `–` im Juli oder August oder September 2005der 685\. Lebensmonat,
->>
->>> `–` im Oktober oder November oder Dezember 2005der 686\. Lebensmonat,
->>
->>> `–` im Jänner oder Februar oder März 2006der 687\. Lebensmonat,
->>
->>> `–` im April oder Mai oder Juni 2006der 688\. Lebensmonat,
->>
->>> `–` im Juli oder August oder September 2006der 689\. Lebensmonat,
->>
->>> `–` im Oktober oder November oder Dezember 2006der 690\. Lebensmonat,
->>
->>> `–` im Jänner oder Februar oder März 2007der 691\. Lebensmonat,
->>
->>> `–` im April oder Mai oder Juni 2007der 692\. Lebensmonat,
->>
->>> `–` im Juli oder August oder September 2007der 693\. Lebensmonat,
->>
->>> `–` im Oktober oder November oder Dezember 2007der 694\. Lebensmonat,
->>
->>> `–` im Jänner oder Februar oder März 2008der 695\. Lebensmonat,
->>
->>> `–` im April oder Mai oder Juni 2008der 696\. Lebensmonat,
->>
->>> `–` im Juli oder August oder September 2008der 697\. Lebensmonat,
->>
->>> `–` im Oktober oder November oder Dezember 2008der 698\. Lebensmonat,
->>
->>> `–` im Jänner oder Februar oder März 2009der 699\. Lebensmonat,
->>
->>> `–` im April oder Mai oder Juni 2009der 700\. Lebensmonat,
->>
->>> `–` im Juli oder August oder September 2009der 701\. Lebensmonat,
->>
->>> `–` im Oktober oder November oder Dezember 2009der 702\. Lebensmonat,
->>
->>> `–` im Jänner oder Februar oder März 2010der 703\. Lebensmonat,
->>
->>> `–` im April oder Mai oder Juni 2010der 704\. Lebensmonat,
->>
->>> `–` im Juli oder August oder September 2010der 705\. Lebensmonat,
->>
->>> `–` im Oktober oder November oder Dezember 2010der 706\. Lebensmonat,
->>
->>> `–` im Jänner oder Februar oder März 2011der 707\. Lebensmonat,
->>
->>> `–` im April oder Mai oder Juni 2011der 708\. Lebensmonat,
->>
->>> `–` im Juli oder August oder September 2011der 709\. Lebensmonat,
->>
->>> `–` im Oktober oder November oder Dezember 2011der 710\. Lebensmonat,
->>
->>> `–` im Jänner oder Februar oder März 2012der 711\. Lebensmonat,
->>
->>> `–` im April oder Mai oder Juni 2012der 712\. Lebensmonat,
->>
->>> `–` im Juli oder August oder September 2012der 713\. Lebensmonat,
->>
->>> `–` im Oktober oder November oder Dezember 2012der 714\. Lebensmonat,
->>
->>> `–` im Jänner oder Februar oder März 2013der 715\. Lebensmonat,
->>
->>> `–` im April oder Mai oder Juni 2013der 716\. Lebensmonat,
->>
->>> `–` im Juli oder August oder September 2013der 717\. Lebensmonat,
->>
->>> `–` im Oktober oder November oder Dezember 2013der 718\. Lebensmonat,
->>
->>> `–` im Jänner oder Februar oder März 2014der 719\. Lebensmonat,
->>
->>> `–` im April oder Mai oder Juni 2014der 720\. Lebensmonat;
->
->> `3.` an die Stelle der 450 Versicherungsmonate \(Z 2 lit\. a\) bzw\. an die Stelle der 420 Beitragsmonate \(Z 2 lit\. b\) für
->>
->>> `a)` Versicherungsfälle, in denen der Stichtag im Kalenderjahr 2013 liegt, der Erwerb von mindestens 456 derartigen Versicherungsmonaten bzw\. 426 derartigen Beitragsmonaten,
->>
->>> `b)` Versicherungsfälle, in denen der Stichtag im Kalenderjahr 2014 liegt, der Erwerb von mindestens 462 derartigen Versicherungsmonaten bzw\. 432 derartigen Beitragsmonaten,
->>
->>> `c)` Versicherungsfälle, in denen der Stichtag im Kalenderjahr 2015 liegt, der Erwerb von mindestens 468 derartigen Versicherungsmonaten bzw\. 438 derartigen Beitragsmonaten,
->>
->>> `d)` Versicherungsfälle, in denen der Stichtag im Kalenderjahr 2016 liegt, der Erwerb von mindestens 474 derartigen Versicherungsmonaten bzw\. 444 derartigen Beitragsmonaten,
->>
->>> `e)` Versicherungsfälle, in denen der Stichtag im Kalenderjahr 2017 liegt, der Erwerb von mindestens 480 derartigen Versicherungsmonaten bzw\. 450 derartigen Beitragsmonaten\.
-
-> `(10a)` Personen, die die Anspruchsvoraussetzungen für die vorzeitige Alterspension bei langer Versicherungsdauer \(vorzeitige Knappschaftsalterspension bei langer Versicherungsdauer\) nach Abs\. 10 – mit Ausnahme der Voraussetzung des Fehlens einer die Pflichtversicherung begründenden Erwerbstätigkeit am Stichtag \(§ 253b Abs\. 1 Z 4\) – unter Annahme einer früheren Antragstellung bereits erfüllt haben, bleibt dieser Pensionsanspruch gewahrt\.
-
-> `(11)` In Fällen des Abs\. 10, in denen eine vorzeitige Alterspension nach § 253b Abs\. 2 weggefallen ist, ist die Leistung – mit Ausnahme eines besonderen Steigerungsbetrages \(§ 248\) – mit dem Monatsersten nach dem Erreichen des Regelpensionsalters von Amts wegen neu festzustellen; dabei ist die Leistung für jeden Monat, in dem die vorzeitige Alterspension weggefallen ist, um 0,55 % zu erhöhen\. Fällt der Zeitpunkt der Erreichung des Regelpensionsalters selbst auf einen Monatsersten, so gilt dieser Tag als Monatserster im Sinne des ersten Satzes\. Bei der Ermittlung der Witwen\(Witwer\)pension nach § 264 Abs\. 1 Z 5 ist der erste Satz so anzuwenden, dass die Leistung von Amts wegen zum Zeitpunkt des Todes neu festzustellen ist\.
-
-> `(12)` Auf männliche Versicherte, die vor dem 1\. Jänner 1954 geboren sind, und auf weibliche Versicherte, die vor dem 1\. Jänner 1959 geboren sind, sind die am 31\. Dezember 2003 geltenden Bestimmungen über die vorzeitige Alterspension bei langer Versicherungsdauer \(vorzeitige Knappschaftsalterspension bei langer Versicherungsdauer\) – mit Ausnahme der §§ 108h Abs\. 1, 238, 239, 261, 261b, 284 Z 3 und 284b \(die in der jeweils geltenden Fassung anzuwenden sind\) – so anzuwenden, dass abweichend von § 253b Abs\. 1
->
->> `1.` an die Stelle des 738\. Lebensmonates das 60\. Lebensjahr tritt, wenn und sobald der Versicherte 540 Beitragsmonate erworben hat,
->
->> `2.` an die Stelle des 678\. Lebensmonates das 55\. Lebensjahr tritt, wenn und sobald die Versicherte 480 Beitragsmonate erworben hat;
->
-> &nbsp; dabei gilt § 231 Z 1 mit der Maßgabe, dass Zeiten der freiwilligen Versicherung den Ersatzzeiten vorgehen; weiters sind als Beitragsmonate zu berücksichtigen:
->
->> `–` bis zu 60 Ersatzmonate für Zeiten der Kindererziehung \(§§ 227a oder 228a dieses Bundesgesetzes oder §§ 116a oder 116b GSVG oder §§ 107a oder 107b BSVG\), die sich nicht mit Beitragsmonaten decken,
->
->> `–` Ersatzmonate wegen eines Anspruches auf Wochengeld \(§ 227 Abs\. 1 Z 3\), die sich nicht mit Ersatzmonaten nach § 227a oder nach § 228a decken,
->
->> `–` Ersatzmonate für Zeiten eines Präsenz\- oder Zivildienstes \(§ 227 Abs\. 1 Z 7 und 8 dieses Bundesgesetzes oder § 116 Abs\. 1 Z 3 GSVG oder § 107 Abs\. 1 Z 3 BSVG\),
->
->> `–` Ersatzmonate wegen eines Krankengeldbezuges \(§ 227 Abs\. 1 Z 6\),
->
->> `–` Ersatzmonate nach § 116 Abs\. 1 Z 1 GSVG und nach § 107 Abs\. 1 Z 1 BSVG, wenn für sie ein Beitrag in der Höhe von 22,8% der dreißigfachen Mindestbeitragsgrundlage nach § 76a Abs\. 3 je Ersatzmonat unter sinngemäßer Anwendung des § 227 Abs\. 4 entrichtet wird\.
->
-> &nbsp; § 261 Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2003 ist – abweichend von Abs\. 15 erster Satz – so anzuwenden, dass das Ausmaß von 1,78 Steigerungspunkten bis zum Ablauf des Jahres 2007 durch zwei Steigerungspunkte, im Jahr 2008 durch 1,95 Steigerungspunkte, im Jahr 2009 durch 1,90 Steigerungspunkte und im Jahr 2010 durch 1,85 Steigerungspunkte bzw\. in der knappschaftlichen Pensionsversicherung das Ausmaß von 1,955 Steigerungspunkten bis zum Ablauf des Jahres 2007 durch 2,175 Steigerungspunkte, im Jahr 2008 durch 2,125 Steigerungspunkte, im Jahr 2009 durch 2,075 Steigerungspunkte und im Jahr 2010 durch 2,025 Steigerungspunkte ersetzt wird; Abs\. 15 zweiter und dritter Satz sind anzuwenden\. § 261 Abs\. 4 ist nicht anzuwenden, wenn die Anspruchsvoraussetzungen – mit Ausnahme der Voraussetzung des Fehlens einer die Pflichtversicherung begründenden Erwerbstätigkeit am Stichtag \(§ 253b Abs\. 1 Z 4\) – bis zum Ablauf des 31\. Dezember 2013 erfüllt sind\. Ab 1\. Jänner 2014 ist § 261 Abs\. 4 so anzuwenden, dass an die Stelle des Regelpensionsalters das jeweils geltende Anfallsalter für die vorzeitige Alterspension bei langer Versicherungsdauer tritt; Abs\. 11 ist entsprechend anzuwenden\. Die Rechtskraft bereits ergangener Entscheidungen steht dem nicht entgegen\.
-
-> `(13)` Personen, die die Anspruchsvoraussetzungen für die vorzeitige Alterspension bei langer Versicherungsdauer \(vorzeitige Knappschaftsalterspension bei langer Versicherungsdauer\) nach Abs\. 12 – mit Ausnahme der Voraussetzung des Fehlens einer die Pflichtversicherung begründenden Erwerbstätigkeit am Stichtag \(§ 253b Abs\. 1 Z 4\) – in einem der in Abs\. 12 viertletzter Satz genannten Kalenderjahre erfüllen, bleiben die für das jeweilige Kalenderjahr angeführten Steigerungspunkte gewahrt\.
-
-> `(14)` Abs\. 12 ist auch auf männliche Versicherte, die nach dem 31\. Dezember 1953 und vor dem 1\. Jänner 1959 und auf weibliche Versicherte, die nach dem 31\. Dezember 1958 und vor dem 1\. Jänner 1964 geboren sind, anzuwenden, wenn der \(die\) Versicherte mindestens 120 Beitragsmonate innerhalb der letzten 240 Kalendermonate vor dem Stichtag \(§ 223 Abs\. 2\) auf Grund von Tätigkeiten, die unter körperlich oder psychisch besonders belastenden Bedingungen erbracht wurden, erworben hat; abweichend von Abs\. 12 vorletzter Satz ist § 261 Abs\. 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2003 so anzuwenden, dass an die Stelle von 4,2 % der Wert von 1,8 % und an die Stelle von 0,35 % der Wert von 0,15 % tritt\. Der Bundesminister für soziale Sicherheit, Generationen und Konsumentenschutz hat unter Berücksichtigung von berufskundlichen und arbeitsmedizinischen Gutachten sowie nach Anhörung der gesetzlichen beruflichen Interessenvertretungen und unter Bedachtnahme auf die Liste der Berufskrankheiten \(Anlage 1\) bis längstens 31\. Dezember 2006 mit Verordnung festzustellen, welche Tätigkeiten als besonders belastend im Sinne des ersten Satzes gelten\. Diese Verordnung bedarf der Zustimmung der Bundesregierung\. Der Bundesminister für soziale Sicherheit, Generationen und Konsumentenschutz hat jährlich bis zum 31\. Oktober des Folgejahres, erstmals für das Kalenderjahr 2007 bis zum 31\. Oktober 2008, der Bundesregierung einen Bericht über die statistischen und finanziellen Auswirkungen dieser Regelung vorzulegen\.
-
-> `(14a)` Personen, die die Anspruchsvoraussetzungen für eine vorzeitige Alterspension nach Abs\. 14 – mit Ausnahme der Voraussetzung des Fehlens einer die Pflichtversicherung begründenden Erwerbstätigkeit am Stichtag \(§ 253b Abs\. 1 Z 4\) – unter Annahme einer früheren Antragstellung bereits erfüllt haben, bleibt dieser Pensionsanspruch gewahrt\.
-
-> `(15)` § 261 Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2003 ist nur auf Versicherungsfälle anzuwenden, in denen der Stichtag nach dem 31\. Dezember 2003 liegt, und zwar so, dass das Ausmaß von 1,78 Steigerungspunkten ersetzt wird durch
->
->> `1.` 1,96 Steigerungspunkte bei Stichtagen im Kalenderjahr 2004,
->
->> `2.` 1,92 Steigerungspunkte bei Stichtagen im Kalenderjahr 2005,
->
->> `3.` 1,88 Steigerungspunkte bei Stichtagen im Kalenderjahr 2006,
->
->> `4.` 1,84 Steigerungspunkte bei Stichtagen im Kalenderjahr 2007,
->
->> `5.` 1,80 Steigerungspunkte bei Stichtagen im Kalenderjahr 2008\.
->
-> &nbsp; Die Leistung, mit Ausnahme eines besonderen Steigerungsbetrages \(§ 248\), darf in diesen Fällen 80% der höchsten zur Anwendung kommenden Bemessungsgrundlage \(§§ 238 Abs\. 1, 239 Abs\. 1, 241\) nicht übersteigen\. Liegen jedoch mehr als 45 Versicherungsjahre vor, so beträgt die Leistung jenes Prozentausmaß der höchsten zur Anwendung kommenden Bemessungsgrundlage, das sich aus § 261 Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2003 ergibt\.
-
-> `(15a)` Auf Personen, die die Anspruchsvoraussetzungen für die Alterspension oder für die vorzeitige Alterspension bei langer Versicherungsdauer – mit Ausnahme der Voraussetzung des Fehlens einer die Pflichtversicherung begründenden Erwerbstätigkeit am Stichtag \(§ 253b Abs\. 1 Z 4\) – in einem der in Abs\. 15 Z 1 bis 5 genannten Kalenderjahre erfüllen, sind die in der jeweiligen Ziffer des Abs\. 15 angeführten Steigerungspunkte abweichend von § 261 Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2003 anzuwenden\.
-
-> `(15b)` § 261 Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2003 ist nur auf Versicherungsfälle anzuwenden, in denen der Stichtag nach dem 31\. Dezember 2003 liegt, jedoch tritt an die Stelle des 60\. Lebensjahres bei Versicherungsfällen mit Stichtag
->
->> `–` im Kalenderjahr 2004der 685\. Lebensmonat, 
->
->> `–` im Kalenderjahr 2005der 692\. Lebensmonat, 
->
->> `–` im Kalenderjahr 2006der 699\. Lebensmonat, 
->
->> `–` im Kalenderjahr 2007der 706\. Lebensmonat, 
->
->> `–` im Kalenderjahr 2008der 713\. Lebensmonat\. 
-
-> `(16)` § 264 Abs\. 1 Z 1 und 2 in der am 31\. Dezember 2003 geltenden Fassung ist weiterhin auf Versicherungsfälle anzuwenden, in denen der Stichtag nach dem 31\. Dezember 2003 liegt, und zwar so, dass an die Stelle des 738\. bzw\. 678\. Lebensmonates die in Abs\. 10 Z 1 und 2 angeführten Lebensmonate – für das jeweilige Quartal – treten\.
-
-> `(17)` § 284 Z 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2003 ist nur auf Versicherungsfälle anzuwenden, in denen der Stichtag nach dem 31\. Dezember 2003 liegt, und zwar so, dass das Ausmaß von 1,955 Steigerungspunkten ersetzt wird durch
->
->> `1.` 2,135 Steigerungspunkte bei Stichtagen im Kalenderjahr 2004,
->
->> `2.` 2,095 Steigerungspunkte bei Stichtagen im Kalenderjahr 2005,
->
->> `3.` 2,055 Steigerungspunkte bei Stichtagen im Kalenderjahr 2006,
->
->> `4.` 2,015 Steigerungspunkte bei Stichtagen im Kalenderjahr 2007,
->
->> `5.` 1,975 Steigerungspunkte bei Stichtagen im Kalenderjahr 2008\.
->
-> &nbsp; Die Leistung, mit Ausnahme eines besonderen Steigerungsbetrages \(§ 248\), darf in diesen Fällen 87% der höchsten zur Anwendung kommenden Bemessungsgrundlage \(§§ 238 Abs\. 1, 239 Abs\. 1, 241\) nicht übersteigen\. Liegen jedoch mehr als 45 Versicherungsjahre vor, so beträgt die Leistung jenes Prozentausmaß der höchsten zur Anwendung gelangenden Bemessungsgrundlage, das sich aus § 261 Abs\. 2 in Verbindung mit § 284 Z 5 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2003 ergibt\.
-
-> `(17a)` Auf Personen, die die Anspruchsvoraussetzungen für die Knappschaftsalterspension oder für die vorzeitige Knappschaftsalterspension bei langer Versicherungsdauer – mit Ausnahme der Voraussetzung des Fehlens einer die Pflichtversicherung begründenden Erwerbstätigkeit am Stichtag \(§ 253b Abs\. 1 Z 4\) – in einem der in Abs\. 17 Z 1 bis 5 genannten Kalenderjahre erfüllen, sind die in der jeweiligen Ziffer des Abs\. 17 angeführten Steigerungspunkte abweichend von § 284 Z 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2003 anzuwenden\.
-
-> `(18)` Abweichend von § 292 Abs\. 8 dritter Satz in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2003 gilt für die Ermittlung der Ausgleichszulage als monatliches Einkommen
->
->> `a)` im Jahr 2004 ein Betrag von 26%,
->
->> `b)` im Jahr 2005 ein Betrag von 25%,
->
->> `c)` im Jahr 2006 ein Betrag von 23%,
->
->> `d)` im Jahr 2007 ein Betrag von 22%,
->
->> `e)` im Jahr 2008 ein Betrag von 21%
->
-> &nbsp; des jeweiligen Richtsatzes\.
-
-> `(19)` Die Pensionsversicherungsträger werden in den Jahren 2004 bis 2006 ermächtigt, in den Richtlinien nach § 84 Abs\. 6 zum Ausgleich besonderer Härten durch die ab 1\. Jänner 2004 geltende neue Pensionsberechnung und die Anhebung des Pensionsanfallsalters \(Abs\. 10\) vorzusehen, dass dem \(der\) Versicherten auf Antrag eine Unterstützung nach pflichtgemäßem Ermessen des Versicherungsträgers und durch Beschluss der Selbstverwaltung zuerkannt wird\. Die Höhe dieser Unterstützung ist im Einzelfall unter sinngemäßer Anwendung des § 306, die Dauer mit dem Zeitraum, der sich jeweils aus der Anhebung des Pensionsanfallsalters nach Abs\. 10 ergibt, zu begrenzen\. Abweichend von § 84 Abs\. 3 können in diesen Jahren zusätzliche Mittel an den Unterstützungsfonds im Höchstausmaß von 0,5 vT der Erträge an Beiträgen für Versicherte überwiesen werden\.
-
-> `(20)` Auf Versicherte, die nach der am 30\. Juni 2004 geltenden Rechtslage Anspruch auf vorzeitige Alterspension bei langer Versicherungsdauer mit Stichtag 1\. Juli 2004 oder 1\. August 2004 oder 1\. September 2004 oder 1\. Oktober 2004 oder 1\. November 2004 hätten und deren Arbeitsverhältnis nachweislich bis zum 30\. Juni 2003 zu einem Termin in der Zeit vom 30\. Juni 2004 bis zum 31\. August 2004 wegen Inanspruchnahme der Pension gelöst wurde, ist § 253b Abs\. 1 in der am 30\. Juni 2004 geltenden Fassung anzuwenden\.
-
-> `(21)` Der Hauptverband hat das Pensionsrecht nach den Dienstordnungen für die Bediensteten bei den Sozialversicherungsträgern Österreichs \(DO\. A, DO\. B und DO\. C\) bis spätestens 31\. Dezember 2003 an die Bestimmungen der §§ 4 Abs\. 1 Z 3, 91 Abs\. 3 und 102 Abs\. 25 des Pensionsgesetzes 1965 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2003 anzupassen\.
-
-> `(22)` Für Arbeitnehmerinnen und Arbeitnehmer, die eine Altersteilzeitvereinbarung im Sinne des § 27 AlVG, BGBl\. Nr\. 609, in der Fassung des Bundesgesetzes BGBl\. I Nr\. 92/2000 oder einer früheren Fassung abgeschlossen haben, die vor dem 1\. April 2003 wirksam geworden ist, gilt das zum 31\. Dezember 2003 in Kraft stehende frühestmögliche Pensionsanfallsalter weiter\. Dies gilt auch dann, wenn der Arbeitgeber nur deshalb kein Altersteilzeitgeld nach § 27 AlVG erhalten hat, weil das der verringerten Arbeitszeit entsprechende Entgelt die Höchstbeitragsgrundlage überschritten hat\.
-
-> `(23)` Bei Pensionen mit Stichtag nach dem 31\. Dezember 2003 \(Neupensionen\) ist eine Vergleichsberechnung vorzunehmen\. Zu diesem Zweck ist zum Stichtag \(§ 223 Abs\. 2\) eine Vergleichspension unter Anwendung der am 31\. Dezember 2003 in Geltung gestandenen Rechtslage zu ermitteln; dabei sind die §§ 108 Abs\. 8 letzter Satz und 572 Abs\. 10a viertletzter bis letzter Satz nicht anzuwenden\. Die Vergleichspension ist der Neupension gegenüberzustellen\. Ist die Neupension im jeweils angeführten Kalenderjahr um mehr als den in der linken Spalte genannten Prozentsatz niedriger als die Vergleichspension, so gilt der in der rechten Spalte genannte Prozentsatz der Vergleichspension als die gebührende Pension:
->
->> `–` im Jahr 2004: 5 %95 %, 
->
->> `–` im Jahr 2005: 5,25 %94,75 %, 
->
->> `–` im Jahr 2006: 5,50 %94,50 %, 
->
->> `–` im Jahr 2007: 5,75 %94,25 %, 
->
->> `–` im Jahr 2008: 6 %94 %, 
->
->> `–` im Jahr 2009: 6,25 %93,75 %, 
->
->> `–` im Jahr 2010: 6,50 %93,50 %, 
->
->> `–` im Jahr 2011: 6,75 %93,25 %, 
->
->> `–` im Jahr 2012: 7 %93 % 
->
->> `–` im Jahr 2013: 7,25 %92,75 %, 
->
->> `–` im Jahr 2014: 7,50 %92,50 %, 
->
->> `–` im Jahr 2015: 7,75 %92,25 %, 
->
->> `–` im Jahr 2016: 8 %92 %, 
->
->> `–` im Jahr 2017: 8,25 %91,75 %, 
->
->> `–` im Jahr 2018: 8,50 %91,50 %, 
->
->> `–` im Jahr 2019: 8,75 %91,25 %, 
->
->> `–` im Jahr 2020: 9 %91 %, 
->
->> `–` im Jahr 2021: 9,25 %90,75 %, 
->
->> `–` im Jahr 2022: 9,50 %90,50 %, 
->
->> `–` im Jahr 2023: 9,75 %90,25 %, 
->
->> `–` ab dem Jahr 2024: 10 %90 %\. 
-
-> Die Rechtskraft bereits ergangener Entscheidungen steht dem nicht entgegen\. Personen, die die Anspruchsvoraussetzungen für eine Alterspension \(Knappschaftsalterspension\) oder eine vorzeitige Alterspension bei langer Versicherungsdauer \(vorzeitige Knappschaftsalterspension bei langer Versicherungsdauer\) – mit Ausnahme der Voraussetzung des Fehlens einer die Pflichtversicherung begründenden Erwerbstätigkeit am Stichtag \(§ 253b Abs\. 1 Z 4\) – in einem der angeführten Kalenderjahre erfüllen, bleiben die dem jeweiligen Kalenderjahr zugeordneten Prozentsätze gewahrt\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-607-asvg--schlussbestimmungen-zu-art-73-teil-2-des-budgetbegleitgesetzes-2003-bgbl-i-nr-71) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=607) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_770_TextContainer_770) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-607-asvg--schlussbestimmungen-zu-art-73-teil-2-des-budgetbegleitgesetzes-2003-bgbl-i-nr-71) \]
 
@@ -18151,97 +17425,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 609 ASVG — Schlussbestimmungen zu Art. 1 Teil 1 des Bundesgesetzes BGBl. I Nr. 145/2003 (61. Novelle)
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. Jänner 2004 die §§ 7 Z 3 lit\. b und 4 lit\. d, 8 Abs\. 1 Z 3 lit\. g, 31 Abs\. 3 Z 12 und Abs\. 5 Z 10 und Z 13a sowie Abs\. 8, 57a, 136 Abs\. 3, 151 Abs\. 5, 162 Abs\. 3, 338 Abs\. 2a, 342 Abs\. 1 Z 6, 347 Abs\. 5, 350 Abs\. 1 Z 3 und Abs\. 3, Überschrift des Abschnittes V im Sechsten Teil, §§ 351c samt Überschrift, 351d, 351e, 351f samt Überschrift, 351g, 351h Abs\. 1, 2 und 3, 351i Abs\. 1 Z 1 lit\. a und Z 2, Abs\. 3, 4 und 5, 351j Abs\. 7, 472 Abs\. 1 in der Fassung der Z 80 sowie der 6\. Unterabschnitt des Abschnittes I des Zehnten Teiles samt Überschrift in der Fassung des Bundesgesetzes BGBl\. I Nr\. 145/2003;
->
->> `2.` mit 1\. Jänner 2005 die §§ 5 Abs\. 1 Z 3 lit\. b, 15 Abs\. 3 Z 3, 23 Abs\. 1 Z 3 und Abs\. 4, 24 Abs\. 1 Z 3, 25 Abs\. 1 Z 1 lit\. c, Z 2 lit\. b und Z 3, 26 Abs\. 1 Z 3 lit\. b und Z 4, 28 Z 3, 29, 31 Abs\. 5a, 42a, 53b Abs\. 1, 71 Überschrift, Abs\. 1, 2 und 3, 73 Abs\. 2 und 4, 84 Abs\. 3 Z 2 lit\. b, Abs\. 4 und 5 Z 2 lit\. b, 231 Z 1, 232 Abs\. 3, 319a Abs\. 1 und 6, 343 Abs\. 1, 343b Abs\. 1, 421 Abs\. 1a, 426 Abs\. 1 Z 2, 427 Abs\. 1 Z 3, 4 \(neu\) und 5 \(neu\), 428 Z 3, 4 \(neu\) und 5 \(neu\), 429 Z 3, 4 \(neu\) und 5 \(neu\), 441a Abs\. 1, 444 Abs\. 3, 447a Abs\. 1 und 3, 448 Abs\. 3, 449 Abs\. 2 bis 5, 460 Abs\. 4, Überschrift des Abschnittes II des neunten Teiles, 473 Abs\. 1, 2 und 3, 474 Abs\. 1 und 2, 475, 476, 477 sowie 580 Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 145/2003;
->
->> `3.` rückwirkend mit 1\. Jänner 2003 § 445 Z 5 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 145/2003;
->
->> `4.` rückwirkend mit 1\. Oktober 2002 § 53b Abs\. 2 Z 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 145/2003;
->
->> `5.` rückwirkend mit 1\. Jänner 2002 § 365 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 145/2003\.
-
-> `(2)` Es treten außer Kraft
->
->> `1.` mit Ablauf des 31\. Dezember 2004 die §§ 23 Abs\. 1 Z 4, 25 Abs\. 1 Z 2 lit\. c, 26 Abs\. 1 Z 5, 84 Abs\. 3 Z 2 lit\. c und Abs\. 5 Z 2 lit\. c;
->
->> `2.` mit Ablauf des 31\. Dezember 2003 §§ 343 Abs\. 5, 421 Abs\. 1c, 427 Abs\. 1 Z 4 und 5, 428 Z 4 und 5 sowie 429 Z 4 und 5\.
-
-> `(3)` Behandlungsbeiträge nach § 135a in den Fassungen der Bundesgesetze BGBl\. I Nr\. 155/2002, 140/2002, 67/2001, 35/2001 und 5/2001 \(Behandlungsbeitrag\-Ambulanz\) sind für Zeiten, die vor dem 1\. April 2003 liegen, nicht mehr einzuheben\.
-
-> `(4)` Anträge auf Rückzahlung von bereits geleisteten Behandlungsbeiträgen\-Ambulanz \(§ 603 Abs\. 2\) können längstens bis 30\. Juni 2004 wirksam gestellt werden\.
-
-> `(4a)` § 108 Abs\. 9 erster Satz, zweiter Halbsatz ist auf die §§ 136 Abs\. 3 dieses Bundesgesetzes, 92 Abs\. 3 GSVG, 86 Abs\. 3 BSVG und 64 Abs\. 3 B\-KUVG in der Fassung des Bundesgesetzes BGBl\. I Nr\. 145/2003 nicht anzuwenden\.
-
-> `(5)` Der Hauptverband hat mit der Österreichischen Ärztekammer für die Versicherungsanstalt für Eisenbahnen und Bergbau bis spätestens 31\. März 2005 einen Gesamtvertrag über die Beziehungen zu den freiberuflich tätigen Ärzt/inn/en und den Gruppenpraxen abzuschließen\. Bis dahin gilt § 343 Abs\. 1 in der am 31\. Dezember 2004 geltenden Fassung für bei der Versicherungsanstalt für Eisenbahnen und Bergbau versicherte Personen,
->
->> `1.` für die am 31\. Dezember 2004 die Versicherungsanstalt des österreichischen Bergbaues in der Krankenversicherung zuständig war,
->
->> `2.` die nach dem 31\. Dezember 2004 die Vorraussetzungen nach § 26 Abs\. 1 Z 4 lit\. i bis l erfüllen,
->
->> `3.` die nach dem 31\. Dezember 2004 aufgrund des Abschnittes IV des Vierten Teiles dieses Bundesgesetzes eine Pension beziehen,
->
->> `4.` die nach dem 31\. Dezember 2004 den ordentlichen oder außerordentlichen Präsenzdienst antreten und die unmittelbar vor Antritt des Präsenzdienstes die Vorraussetzungen nach § 26 Abs\. 1 Z 4 lit\. i bis l erfüllt haben\.
->
-> &nbsp; Dabei ist von den vertragsabschließenden Parteien auf die finanzielle Leistungsfähigkeit dieses Versicherungsträgers in der Krankenversicherung Bedacht zu nehmen\.
-
-> `(6)` Die Amtsdauer der am 31\. Dezember 2005 bestehenden Verwaltungskörper der Versicherungsanstalt für Eisenbahnen und Bergbau verlängert sich bis zum Ablauf des 31\. Dezember 2010\.
-
-> `(7)` Der auf die Krankenversicherung, Unfallversicherung und Pensionsversicherung jeweils entfallende Verwaltungs\- und Verrechnungsaufwand der einzelnen Versicherungsträger nach diesem Bundesgesetz, dem GSVG, dem BSVG, dem B\-KUVG und der Verwaltungsaufwand des Hauptverbandes dürfen im Geschäftsjahr 2004 die Höhe des jeweiligen Verwaltungs\- und Verrechnungsaufwandes der einzelnen Versicherungsträger und des Hauptverbandes des Geschäftsjahres 1999 nicht übersteigen\. Dabei sind jeweils außer Acht zu lassen:
->
->> `1.` die Entwicklungs\- und Implementierungskosten für Standardprodukte sowie die Verwaltungskostenersätze hiefür,
->
->> `2.` die Entwicklungs\- und Implementierungskosten für das ELSY nach den §§ 31a ff,
->
->> `3.` die Vergütung für die Mitwirkung an fremden Aufgaben nach § 82 dieses Bundesgesetzes und nach § 250 Abs\. 2 GSVG,
->
->> `4.` die Entwicklungs\- und Implementierungskosten für die Einrichtung der Niederösterreichischen Gebietskrankenkasse als Kompetenzzentrum nach § 26 Abs\. 3 KBGG, soweit diese Kosten nicht nach § 38 Abs\. 3 KBGG abgegolten werden,
->
->> `5.` die Kosten für Maßnahmen, die trägerübergreifende Zielvereinbarungen und das Controlling nach dem 6\. Unterabschnitt des Abschnittes III des Ersten Teiles dieses Bundesgesetzes betreffen,
->
->> `6.` die Kosten der Auflösung und Umgestaltung von Organisationseinheiten \(insbesondere jener der elektronischen Datenverarbeitung\), soweit diese auf Grund der Zusammenführung von gemeinsamen Aufgaben oder der Zusammenführung von Versicherungsträgern \(zB nach § 538h\) bzw\. der Schaffung von Einrichtungen im Sinne des § 81 Abs\. 2 dieses Bundesgesetzes entstehen;
->
->> `7.` die Aufwendungen des Hauptverbandes und der Versicherungsträger im Zusammenhang mit der Pensionskassenversorgung der Sozialversicherungsbediensteten,
->
->> `8.` die Aufwendungen und Belastungen für Maßnahmen zur Verringerung der Kosten für nicht auf wissenschaftlicher Grundlage oder nicht auf sonst gesichertem Wissen beruhende medizinische Leistungen \(evidence based medicine\) bis zu jenem Betrag, der sich aus dem diesbezüglichen Aufwand im Jahre 2003 ergibt\. Abs\. 8 gilt entsprechend,
->
->> `9.` die Aufwendungen im Zusammenhang mit
->>
->>> `a)` den zusätzlichen Verwaltungskosten auf Grund der EU\-Erweiterung mit 1\. Mai 2004 und
->>
->>> `b)` den Vorkehrungen für die Einrichtung von Pensionskonten,
->
->> `10.` die Aufwendungen im Zusammenhang mit der Errichtung und Führung einer Datenpseudonymisierungsstelle nach § 84a Abs\. 5\.
-
-> `(8)` Abweichend von den Bestimmungen des Abs\. 7 darf sich der Verwaltungsaufwand beim Hauptverband und der Verwaltungs\- und Verrechnungsaufwand bei jenen Versicherungsträgern, die ihren diesbezüglichen Aufwand bis zum Jahr 2003 im Sinne des § 588 Abs\. 14 zurückgeführt haben, im Jahr 2004 bis zu jenem Betrag erhöhen, der sich aus dem jeweiligen Verwaltungs\- und Verrechnungsaufwand des Jahres 1999 zuzüglich der Inflationsrate des Jahres 2003 ergibt\.
-
-> `(9)` Falls eine Rahmenvereinbarung über die ärztliche Bewilligung des chef\- und kontrollärztlichen Dienstes der Sozialversicherungsträger zwischen dem Hauptverband und der Österreichischen Ärztekammer, Bundeskurie niedergelassene Ärzte bis zum 31\. März 2004 nicht zu Stande kommt, ist die Bundesministerin für Gesundheit und Frauen ermächtigt, die Grundsätze der chef\- und kontrollärztlichen Bewilligung, insbesondere die Umsetzung der Einholung der chef\- und kontrollärztlichen Bewilligung, sowie der nachfolgenden Kontrolle und die Grundsätze der Dokumentation nach § 350 Abs\. 3, durch Verordnung zu regeln\. Eine nach In\-Kraft\-Treten der Verordnung abgeschlossene Rahmenvereinbarung und deren Übernahme in die Gesamtverträge kann erst nach Außer\-Kraft\-Treten der Verordnung in Geltung treten\. Für die Umsetzung der Einholung der chef\- und kontrollärztlichen Bewilligung sowie der nachfolgenden Kontrolle nach § 350 Abs\. 3 hat der Hauptverband gemeinsam mit den Sozialversicherungsträgern bis längstens 31\. Dezember 2004 die notwendigen Voraussetzungen zu schaffen\. Bis dahin sind die derzeit geltenden Bestimmungen über die chef\- und kontrollärztliche Bewilligung anzuwenden\.
-
-> `(9a)` In einer Rahmenvereinbarung oder Verordnung nach Abs\. 9 ist zu bestimmen, dass die Einholung der ärztlichen Bewilligung des chef\- und kontrollärztlichen Dienstes der Sozialversicherungsträger nach § 350 Abs\. 3 erster Satz unter Verwendung der technischen Infrastruktur der e\-card zu erfolgen hat\. In der Verordnung nach Abs\. 9 kann zur Sicherstellung der Nutzung der technischen Infrastruktur der e\-card für diesen Zweck die verpflichtende Bekanntgabe technischer Anforderungen durch den Hauptverband vorgesehen werden\. Steht die technische Infrastruktur der e\-card für diesen Zweck nach dem 31\. Dezember 2004 nicht zur Verfügung, kann die Verordnung nach Abs\. 9 die nachfolgende Kontrolle an Stelle der chef\- und kontrollärztlichen Bewilligung unter sinngemäßer Anwendung der §§ 31 Abs\. 3 Z 12 lit\. b, Abs\. 5 Z 13, 343 Abs\. 5 und 350 Abs\. 3 mit der Maßgabe vorsehen, dass an die Stelle der Dokumentation der bestimmten Verwendung eine Dokumentation über die Auswahl der Arzneispezialität tritt\. Den Gesamtvertragspartnern nach § 341 kann die Vereinbarung einer Beibehaltung der chef\- und kontrollärztlichen Bewilligung freigestellt oder aufgetragen werden\.
-
-> `(10)` Die Verfahrensordnung nach § 351g ist der Bundesministerin für Gesundheit und Frauen vom Hauptverband bis zum 31\. März 2004 zur Genehmigung vorzulegen und spätestens mit 1\. Juli 2004 in Kraft zu setzen\. Die Verfahrensordnung nach § 351g in der jeweils geltenden Fassung ist bis zum In\-Kraft\-Treten der Verfahrensordnung nach § 351g in der Fassung des Bundesgesetzes BGBl\. I Nr\. 145/2003 anzuwenden\.
-
-> `(11)` Die Preiskommission \(§ 351c Abs\. 6\) hat ihre Vorgehensweise zur Ermittlung des EU\-Durchschnittpreises bis zum 1\. Jänner 2004 festzulegen\.
-
-> `(12)` Das bisherige Heilmittelverzeichnis wird schrittweise ab 1\. Jänner 2004 durch den Erstattungskodex ersetzt\. Die bisherigen Indikationsgruppen werden auf der Basis des Klassifikationssystems der WHO \(ATC\-Code\) bis längstens 31\. Dezember 2004 neu geordnet\. In der Übergangszeit bis dahin gilt das Heilmittelverzeichnis in der jeweils geltenden Fassung\.
-
-> `(13)` Arzneispezialitäten, die im Jahr 2004 im Heilmittelverzeichnis in der jeweils geltenden Fassung angeführt sind, sind spätestens ab dem Jahr 2005 im grünen Bereich des Erstattungskodex\. Stoffe für magistrale Zubereitungen, die im Jahr 2004 im Heilmittelverzeichnis in der jeweils geltenden Fassung angeführt sind, sind spätestens ab dem Jahr 2005 im gelben Bereich des Erstattungskodex\. Arzneispezialitäten, die im Jahr 2004 in der Heilmittel\-Sonderliste des Heilmittelverzeichnisses in der jeweils geltenden Fassung angeführt sind, sind spätestens ab dem Jahr 2005 im gelben Bereich des Erstattungskodex\. Auf Verlangen des Hauptverbandes ist das vertriebsberechtigte Unternehmen verpflichtet, diesem mitzuteilen, wann für die im Heilmittelverzeichnis angeführten Arzneispezialitäten der Patentschutz in Österreich der in der jeweiligen Arzneispezialität enthaltenen Wirkstoffe endet\.
-
-> `(14)` Alle Arzneispezialitäten, die vor dem In\-Kraft\-Treten dieses Bundesgesetzes der chef\- und kontrollarztpflichtigen Bewilligung bedurften, unterliegen ab Jänner 2004 dem roten Bereich des Erstattungskodex\. In der Verfahrensordnung nach § 351g kann für die Überleitung einer Arzneispezialität in den gelben oder grünen Bereich des Erstattungskodex ein verkürztes Verfahren, insbesondere auch ohne Befassung der Heilmittel\-Evaluierungs\-Kommission und unter Ausschluss des Rechtszuges an die Unabhängige Heilmittelkommission, vorgesehen werden\.
-
-> `(15)` Alle neuen erstattungsfähigen Arzneispezialitäten, die ab 1\. Jänner 2004 für Österreich zugelassen und lieferbar sind, sind hinsichtlich der Preisgestaltung so zu behandeln, als ob sie ab diesem Datum im roten Bereich des Erstattungskodex wären, soweit nicht zwischen Hauptverband und dem vertriebsberechtigten Unternehmen vereinbart wird, dass die Arzneispezialität in den grünen Bereich aufgenommen wird\.
-
-> `(16)` Die erste Fassung der Liste nicht erstattungsfähiger Arzneimittelkategorien nach § 351c Abs\. 2 ist bis 31\. März 2004 im Internet kundzumachen\.
-
-> `(17)` Auf die Abgeltung der Bearbeitungskosten für den Erstattungskodex nach § 351g Abs\. 4 sind allfällige Kostenersätze aus dem Jahr 2004 anzurechnen\.
-
-> `(18)` In allen bundesgesetzlichen Regelungen, in denen das Wort „Heilmittelverzeichnis“ enthalten ist, tritt an dessen Stelle das Wort „Erstattungskodex“, jeweils in der entsprechenden grammatikalischen Form\.
-
-> `(19)` Die vertriebsberechtigten Unternehmen haben zur Wahrung des finanziellen Gleichgewichts des Systems der sozialen Sicherheit den Krankenversicherungsträgern beginnend mit dem Jahr 2004 bis einschließlich 2006 jährlich einen nachträglichen Rabatt in Höhe von 2 % ihres jährlichen Arzneimittelumsatzes, den sie auf Rechnung der Krankenversicherungsträger erzielen, zu gewähren\. Bei jedem Unternehmen bleibt dabei ein Sockelbetrag von zwei Millionen Euro außer Betracht\. Dieser Betrag unterliegt einer jährlichen Valorisierung auf Basis der Steigerungen der Heilmittelaufwendungen der Krankenversicherungsträger\. Für das Jahr 2004 beträgt die Summe der Überweisungen pauschal 23 Millionen Euro\. Eine erste Akontierung ist mit 1\. Juli 2004 fällig, die Abrechnung ist so rasch wie möglich nach Ende des jeweiligen Kalenderjahres vorzunehmen\. Eine weitere Akontierung ist mit 10\. Jänner 2005 fällig, in weiterer Folge gelten als Fälligkeitstage jeweils der 1\. April und der 1\. Oktober\. Die Abrechnung und Einhebung des Betrages erfolgt durch den Hauptverband, der im Namen und auf Rechnung der Krankenversicherungsträger tätig wird\.
-
-> `(20)` Im Jahr 2004 tritt an die Stelle des im § 351c Abs\. 10 Z 1 zweiter Satz genannten Prozentsatzes von 25,7 ein Prozentsatz von 20 und im Jahr 2005 von 22,9\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-609-asvg--schlussbestimmungen-zu-art-1-teil-1-des-bundesgesetzes-bgbl-i-nr-1452003-61-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=609) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_772_TextContainer_772) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-609-asvg--schlussbestimmungen-zu-art-1-teil-1-des-bundesgesetzes-bgbl-i-nr-1452003-61-novelle) \]
 
@@ -18249,21 +17433,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 610 ASVG — Schlussbestimmungen zu Art. 1 Teil 2 des Bundesgesetzes BGBl. I Nr. 145/2003 (61. Novelle)
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. Jänner 2004 die §§ 8 Abs\. 1 Z 3 lit\. c, 31 Abs\. 5 Z 31, 70b Abs\. 1 und 2, 81 Abs\. 2a, 86 Abs\. 4, 91 Abs\. 1, 103 Abs\. 2, 113 Abs\. 2, 201 Abs\. 4, 225 Abs\. 1 Z 7 und 8 sowie Abs\. 5, 227 Abs\. 1 Z 1 und 5, 235 Abs\. 3 lit\. a, 247, 254 Abs\. 6, 255 Abs\. 7, 261 Abs\. 7, 273 Abs\. 2, 284c, 288 Abs\. 1, 308 Abs\. 5, 324 Abs\. 1, 363 samt Überschrift, 364, 368 Abs\. 1, 415, 418 Abs\. 6, 443 Abs\. 1, 447g Abs\. 3 Z 1 und 2, 460 Abs\. 3a und 4a, 460b, 603 Überschrift, 605 Überschrift sowie 607 Abs\. 3b, 7, 8a, 9, 11 bis 13, 14a, 17a, 18 und 23 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 145/2003;
->
->> `2.` rückwirkend mit 1\. November 2003 die §§ 227a Abs\. 6 und 228a Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 145/2003\.
-
-> `(2)` Es treten außer Kraft:
->
->> `1.` mit Ablauf des 31\. Dezember 2003 § 261c Abs\. 2;
->
->> `2.` mit Ablauf des 31\. Oktober 2003 die §§ 227a Abs\. 7 und 228a Abs\. 4\.
-
-> `(3)` § 460 Abs\. 3a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 145/2003 gilt nur für Bestellungen, die nach dem 31\. Dezember 2003 erfolgen\.
-
-> `(4)` § 460 Abs\. 4a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 145/2003 gilt nur für Bestellungen, die nach dem 31\. Dezember 2003 erfolgen; solche Neubestellungen dürfen erst dann vorgenommen werden, wenn die bereits vor dem 1\. Jänner 2004 bestellten ständigen StellvertreterInnen der leitenden Angestellten und der leitenden Ärzte \(Ärztinnen\) aus ihrer Funktion ausgeschieden sind oder – soweit es sich um einen der im § 427 Abs\. 1 Z 1 und 2 genannten Versicherungsträger handelt – nur mehr eine\(r\) dieser ständigen Stellvertreter\(innen\) seine \(ihre\) Funktion ausübt\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-610-asvg--schlussbestimmungen-zu-art-1-teil-2-des-bundesgesetzes-bgbl-i-nr-1452003-61-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=610) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_773_TextContainer_773) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-610-asvg--schlussbestimmungen-zu-art-1-teil-2-des-bundesgesetzes-bgbl-i-nr-1452003-61-novelle) \]
 
@@ -18271,13 +17441,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 611 ASVG — Schlussbestimmungen zu Art. 1 des Sozialversicherungs-Änderungsgesetzes 2004, BGBl. I Nr. 18
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. März 2004 die §§ 31 Abs\. 4 Z 1, 31a Abs\. 2 und 31c Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 18/2004;
->
->> `2.` mit 1\. Jänner 2005 § 31a Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 18/2004\.
-
-> `(2)` § 31c Abs\. 2 tritt mit Ablauf des 29\. Februar 2004 außer Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-611-asvg--schlussbestimmungen-zu-art-1-des-sozialversicherungs-änderungsgesetzes-2004-bgbl-i-nr-18) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=611) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_774_TextContainer_774) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-611-asvg--schlussbestimmungen-zu-art-1-des-sozialversicherungs-änderungsgesetzes-2004-bgbl-i-nr-18) \]
 
@@ -18319,11 +17483,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 615 ASVG — Schlussbestimmungen zu Art. 3 des Bundesgesetzes BGBl. I Nr. 106/2004
 
-> Es treten in Kraft:
->
->> `1.` mit 1\. Juli 2004 die §§ 7 Z 3 lit\. b, 14 Abs\. 1 Z 11, 26 Abs\. 1 Z 4 lit\. f, 472 Abs\. 1 Z 1 bis 3, 472 Abs\. 2 Z 4 lit\. b, 472a Abs\. 2 vorletzter Satz in der Fassung der Z 11 und 472b Z 1 bis 6 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 106/2004;
->
->> `2.` mit 1\. Jänner 2005 die §§ 26 Abs\. 1 Z 4 lit\. d bis l, 28 Z 3 lit\. a, 71 Abs\. 1 erster Satz, 472 Abs\. 2 Z 4 lit\. a, 472 Abs\. 3, 472a Abs\. 2 in der Fassung der Z 12, 472a Abs\. 5 sowie 474 Abs\. 2 Z 2 und 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 106/2004\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-615-asvg--schlussbestimmungen-zu-art-3-des-bundesgesetzes-bgbl-i-nr-1062004) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=615) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_778_TextContainer_778) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-615-asvg--schlussbestimmungen-zu-art-3-des-bundesgesetzes-bgbl-i-nr-1062004) \]
 
@@ -18331,195 +17491,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 616 ASVG — Schlussbestimmungen zu Art. 1 des Sozialrechts-Änderungsgesetzes 2004, BGBl. I Nr. 105
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. Juli 2004 die §§ 264 Abs\. 1 Z 1, 447g Abs\. 10, 459c, 607 Abs\. 9a sowie 609 Abs\. 7 Z 7 bis 9 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 105/2004;
->
->> `2.` mit 1\. Jänner 2005 die §§ 74 Abs\. 1 und 460 Abs\. 4a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 105/2004;
->
->> `3.` rückwirkend mit 1\. Jänner 2004 die §§ 31 Abs\. 3 Z 12 lit\. b und Abs\. 5 Z 13, 343 Abs\. 5 sowie 350 Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 105/2004;
->
->> `4.` rückwirkend mit 31\. Dezember 2003 § 609 Abs\. 9, 14 und 19 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 105/2004\.
-
-> `(2)` Folgende Krankenversicherungsträger erhalten aus dem Ausgleichsfonds der Krankenversicherungsträger nach § 447a Zahlungen in folgender Höhe:
->
->> `1.` Wiener Gebietskrankenkasse32 237 374,74 €
->
->> `2.` Niederösterreichische Gebietskrankenkasse50 524 734,29 €
->
->> `3.` Burgenländische Gebietskrankenkasse 3 383 505,28 €
->
->> `4.` Oberösterreichische Gebietskrankenkasse59 129 455,25 €
->
->> `5.` Steiermärkische Gebietskrankenkasse16 542 755,44 €
->
->> `6.` Kärntner Gebietskrankenkasse 7 644 563,10 €
->
->> `7.` Salzburger Gebietskrankenkasse25 224 285,24 €
->
->> `8.` Tiroler Gebietskrankenkasse10 047 516,09 €
->
->> `9.` Vorarlberger Gebietskrankenkasse14 413 390,76 €
->
->> `10.` Versicherungsanstalt des österreichischen Bergbaues 6 450 096,98 €
->
->> `11.` Versicherungsanstalt der österreichischen Eisenbahnen25 574 348,91 €
->
->> `12.` Versicherungsanstalt öffentlich Bediensteter49 615 110,88 €
->
->> `13.` Sozialversicherungsanstalt der gewerblichen Wirtschaft85 238 286,00 €
->
->> `14.` Sozialversicherungsanstalt der Bauern 6 331 384,38 €
->
-> &nbsp; Diese Forderungen der Krankenversicherungsträger unterliegen einer Verzinsung\. Die Verzinsung ist nach dem jeweils von der Europäischen Zentralbank für die Einlagenfazilität erstellten Zinssatz, erhöht um 0,8 Prozentpunkte, zu berechnen\.
-
-> `(3)` Die Zahlungen nach Abs\. 2 haben aus den folgenden Mitteln, die dem Ausgleichsfonds zufließen, nach der Maßgabe des Einlangens zu erfolgen:
->
->> `1.` auf Grund des § 1 des Gesundheits\- und Sozialbereich\-Beihilfengesetzes, BGBl\. Nr\. 746/1996, in den Jahren 2004 bis 2007 jeweils in der Höhe von 69 Mio\. € und 2008 in der Höhe von 21 343 741,58 €;
->
->> `2.` auf Grund der Rückzahlungen der Darlehen folgender Krankenversicherungsträger in den Jahren 2005 bis 2007:
->>
->>> `a.` Wiener Gebietskrankenkasse58 605 171,00 €
->>
->>> `b.` Burgenländische Gebietskrankenkasse 5 242 898,00 €
->>
->>> `c.` Steiermärkische Gebietskrankenkasse23 469 518,00 €
->>
->>> `d.` Kärntner Gebietskrankenkasse22 426 428,00 €
->>
->>> `e.` Tiroler Gebietskrankenkasse16 854 133,00 €
->>
->>> `f.` Sozialversicherungsanstalt der Bauern45 401 852,00 €
-
-> `(4)` Den folgenden Krankenversicherungsträgern sind im Jahr 2004 die nachstehenden Teilbeträge der Zahlungen nach Abs\. 2 aus den Mitteln nach Abs\. 3 Z 1 zu überweisen:
->
->> `1.` Niederösterreichische Gebietskrankenkasse 9 203 662,00 €
->
->> `2.` Oberösterreichische Gebietskrankenkasse11 742 606,00 €
->
->> `3.` Salzburger Gebietskrankenkasse 5 395 255,00 €
->
->> `4.` Vorarlberger Gebietskrankenkasse 4 574 348,00 €
->
->> `5.` Versicherungsanstalt des österreichischen Bergbaues 1 586 841,00 €
->
->> `6.` Versicherungsanstalt der österreichischen Eisenbahnen 5 395 255,00 €
->
->> `7.` Versicherungsanstalt öffentlich Bediensteter 8 251 558,00 €
->
->> `8.` Sozialversicherungsanstalt der gewerblichen Wirtschaft22 850 475,00 €
-
-> `(5)` Den folgenden Krankenversicherungsträgern sind im Jahr 2005 die nachstehenden Teilbeträge der Zahlungen nach Abs\. 2 aus den Mitteln nach Abs\. 3 Z 1 und 2 zu überweisen:
->
->> `1.` Niederösterreichische Gebietskrankenkasse13 834 390,00 €
->
->> `2.` Oberösterreichische Gebietskrankenkasse17 650 765,00 €
->
->> `3.` Salzburger Gebietskrankenkasse 8 109 807,00 €
->
->> `4.` Vorarlberger Gebietskrankenkasse 825 978,00 €
->
->> `5.` Versicherungsanstalt für Eisenbahnen und Bergbau10 495 042,00 €
->
->> `6.` Versicherungsanstalt öffentlich Bediensteter12 403 249,00 €
->
->> `7.` Sozialversicherungsanstalt der gewerblichen Wirtschaft34 347 436,00 €
-
-> `(6)` Den folgenden Krankenversicherungsträgern sind im Jahr 2006 die nachstehenden Teilbeträge der Zahlungen nach Abs\. 2 aus den Mitteln nach Abs\. 3 Z 1 vorrangig vor den anderen in Abs\. 2 genannten Krankenversicherungsträgern zu überweisen:
->
->> `1.` Niederösterreichische Gebietskrankenkasse 5 961 948,00 €
->
->> `2.` Oberösterreichische Gebietskrankenkasse 7 606 629,00 €
->
->> `3.` Salzburger Gebietskrankenkasse 3 494 938,00 €
->
->> `4.` Versicherungsanstalt für Eisenbahnen und Bergbau 4 522 862,00 €
->
->> `5.` Versicherungsanstalt öffentlich Bediensteter 5 345 193,00 €
->
->> `6.` Sozialversicherungsanstalt der gewerblichen Wirtschaft14 802 089,00 €
-
-> `(7)` Den folgenden Krankenversicherungsträgern sind im Jahr 2006 die nachstehenden Teilbeträge der Zahlungen nach Abs\. 2 aus den Mitteln nach Abs\. 3 Z 1, diese im Anschluss an die Überweisungen nach Abs\. 6, und Z 2 zu überweisen:
->
->> `1.` Wiener Gebietskrankenkasse10 306 954,00 €
->
->> `2.` Niederösterreichische Gebietskrankenkasse 6 881 902,00 €
->
->> `3.` Burgenländische Gebietskrankenkasse 1 081 778,00 €
->
->> `4.` Oberösterreichische Gebietskrankenkasse 7 075 240,00 €
->
->> `5.` Steiermärkische Gebietskrankenkasse 5 289 059,00 €
->
->> `6.` Kärntner Gebietskrankenkasse 2 444 121,00 €
->
->> `7.` Salzburger Gebietskrankenkasse 2 629 472,00 €
->
->> `8.` Tiroler Gebietskrankenkasse 3 212 401,00 €
->
->> `9.` Versicherungsanstalt für Eisenbahnen und Bergbau 3 205 023,00 €
->
->> `10.` Versicherungsanstalt öffentlich Bediensteter 7 550 235,00 €
->
->> `11.` Sozialversicherungsanstalt der gewerblichen Wirtschaft 4 232 551,00 €
->
->> `12.` Sozialversicherungsanstalt der Bauern 2 024 272,00 €
-
-> `(8)` Den folgenden Krankenversicherungsträgern sind im Jahr 2007 die nachstehenden Teilbeträge der Zahlungen nach Abs\. 2 aus den Mitteln nach Abs\. 3 Z 1 und 2 zu überweisen:
->
->> `1.` Wiener Gebietskrankenkasse17 997 349,00 €
->
->> `2.` Niederösterreichische Gebietskrankenkasse12 016 741,00 €
->
->> `3.` Burgenländische Gebietskrankenkasse 1 888 932,00 €
->
->> `4.` Oberösterreichische Gebietskrankenkasse12 354 335,00 €
->
->> `5.` Steiermärkische Gebietskrankenkasse 9 235 419,00 €
->
->> `6.` Kärntner Gebietskrankenkasse 4 267 770,00 €
->
->> `7.` Salzburger Gebietskrankenkasse 4 591 417,00 €
->
->> `8.` Tiroler Gebietskrankenkasse 5 609 290,00 €
->
->> `9.` Versicherungsanstalt für Eisenbahnen und Bergbau 5 596 407,00 €
->
->> `10.` Versicherungsanstalt öffentlich Bediensteter13 183 740,00 €
->
->> `11.` Sozialversicherungsanstalt der gewerblichen Wirtschaft 7 390 613,00 €
->
->> `12.` Sozialversicherungsanstalt der Bauern 3 534 654,00 €
-
-> `(9)` Den folgenden Krankenversicherungsträgern sind im Jahr 2008 die nachstehenden Teilbeträge der Zahlungen nach Abs\. 2 aus den Mitteln nach Abs\. 3 Z 1 zu überweisen:
->
->> `1.` Wiener Gebietskrankenkasse3 933 071,74 €
->
->> `2.` Niederösterreichische Gebietskrankenkasse2 626 091,29 €
->
->> `3.` Burgenländische Gebietskrankenkasse 412 795,28 €
->
->> `4.` Oberösterreichische Gebietskrankenkasse2 699 880,25 €
->
->> `5.` Steiermärkische Gebietskrankenkasse2 018 277,44 €
->
->> `6.` Kärntner Gebietskrankenkasse 932 672,10 €
->
->> `7.` Salzburger Gebietskrankenkasse1 003 396,24 €
->
->> `8.` Tiroler Gebietskrankenkasse1 225 825,09 €
->
->> `9.` Versicherungsanstalt für Eisenbahnen und Bergbau1 223 015,89 €
->
->> `10.` Versicherungsanstalt öffentlich Bediensteter2 881 135,88 €
->
->> `11.` Sozialversicherungsanstalt der gewerblichen Wirtschaft1 615 122,00 €
->
->> `12.` Sozialversicherungsanstalt der Bauern 772 458,38 €
-
-> `(10)` Die vollständige Leistung der Zahlung nach Abs\. 2 an die Vorarlberger Gebietskrankenkasse hat bis 30\. April 2005 zu erfolgen, wobei die Aufrechnung mit Beitragsforderungen nach § 447a Abs\. 3 für das Jahr 2004 im Ausmaß von 5 886 427 € und 2005 im Ausmaß von 3 126 638 € zulässig ist\. Im Übrigen ist jede Art der Aufrechnung im Zusammenhang mit den Zahlungen nach Abs\. 2, insbesondere auch mit den Teilzahlungen nach Abs\. 4 bis 9, ausgeschlossen\.
-
-> `(11)` Die Überweisungen nach den Abs\. 4 bis 9 an die Krankenversicherungsträger haben jeweils gleichzeitig und der Höhe nach im Verhältnis der Teilbeträge zueinander zu erfolgen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-616-asvg--schlussbestimmungen-zu-art-1-des-sozialrechts-änderungsgesetzes-2004-bgbl-i-nr-105) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=616) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_779_TextContainer_779) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-616-asvg--schlussbestimmungen-zu-art-1-des-sozialrechts-änderungsgesetzes-2004-bgbl-i-nr-105) \]
 
@@ -18527,101 +17499,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 617 ASVG — Schlussbestimmungen zu Art. 2 des Bundesgesetzes BGBl. I Nr. 142/2004 (62. Novelle)
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. Jänner 2005 die §§ 2a samt Überschrift, 5 Abs\. 2, 8 Abs\. 1 Z 2, 10 Abs\. 5 und 6b, 11 Abs\. 2, 12 Abs\. 5b und 6, 13, 14 Abs\. 1 Z 12 und Abs\. 5, 15 Abs\. 5, 18 samt Überschrift, 18a Abs\. 1 und 3 Z 3, 21 Abs\. 1, 31 Abs\. 3 Z 9 und Abs\. 4 Z 7 bis 9, 36 Abs\. 1 Z 10 bis 17, 44 Abs\. 1 Z 11 bis 18 und Abs\. 6, 51 Abs\. 1 Z 3 und Abs\. 3 Z 2, 51a samt Überschrift, 52 Abs\. 4, 54 Abs\. 5, 56a Abs\. 2, 70 Überschrift und Abs\. 1 bis 3, 74 Abs\. 1 und 6, 76 Abs\. 1, 76a Abs\. 3, 76b Abs\. 1, 3 und 4, 77 Abs\. 2, 2a, 4 und 6, 79a samt Überschrift, 79b samt Überschrift, 80 Abs\. 1, 108, 108a Abs\. 1 und 2, 108e Abs\. 2 Z 14 und 15 sowie Abs\. 9 und 11, 108f, 122 Abs\. 4, 136 Abs\. 3, 141 Abs\. 3 und 5, 154a Abs\. 7, 155 Abs\. 3, 162 Abs\. 3a, 181 Abs\. 1, 2 und 6, 181b, 212 Abs\. 3, 225 Abs\. 1 Z 3, 227 Überschrift und Abs\. 1 Einleitung, 227a Überschrift sowie Abs\. 1 und 3, 230 Abs\. 2 lit\. g und h, 231 Z 1, 232 Abs\. 1, 233 Abs\. 1 und 2, 242 Abs\. 9, 254 Abs\. 1 Z 3 und Abs\. 7, 264 Abs\. 6, 271 Abs\. 1 Z 3, 283, 288 Abs\. 1, 292 Abs\. 3 und 4 lit\. h, 293 Abs\. 2, 302 Abs\. 4, 306 Abs\. 2, 307d Abs\. 6, 410 Abs\. 1 Z 8 und 9, 460c, 502 Abs\. 4, 522k Abs\. 2 und 615 sowie die Überschrift zu Abschnitt V des Vierten Teiles und die Anlagen 12 und 13 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 142/2004;
->
->> `2.` rückwirkend mit 1\. Juli 2004 die §§ 227 Abs\. 1 Z 5 sowie 264 Abs\. 5 Z 3 lit\. e und Abs\. 7b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 142/2004;
->
->> `3.` rückwirkend mit 1\. Jänner 2004 § 607 Abs\. 11 bis 14a und 23 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 142/2004\.
-
-> `(2)` Die §§ 53a Abs\. 5, 63a, 108d, 299a, 447g und 460b Abs\. 1 Z 1 lit\. a treten mit Ablauf des 31\. Dezember 2004 außer Kraft\.
-
-> `(2a)` § 607 Abs\. 14a tritt mit 1\. Jänner 2004 außer Kraft\.
-
-> `(3)` Auf Personen, die vor dem 1\. Jänner 1955 geboren sind, ist § 8 Abs\. 1 Z 2 lit\. a bis g in der Fassung des Bundesgesetzes BGBl\. I Nr\. 142/2004 nicht anzuwenden; für diese Personen gelten weiterhin die §§ 227 und 227a in der jeweils geltenden Fassung sowie § 447g Abs\. 3 und 4 in der am 31\. Dezember 2004 geltenden Fassung, wobei die letztgenannte Bestimmung so anzuwenden ist, dass die Abgeltungsbeträge an den Hauptverband zu überweisen und von diesem auf die Pensionsversicherungsträger nach dem zuletzt gültigen Aufteilungsschlüssel aufzuteilen sind\.
-
-> `(4)` § 18a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 142/2004 gilt auch für jene Fälle, in denen die Selbstversicherung am 31\. Dezember 2004 wegen Vollendung des 30\. Lebensjahres des Kindes bereits beendet war\.
-
-> `(5)` Abweichend von § 52 Abs\. 4 Z 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 142/2004 sind die Beiträge für Teilversicherte nach § 8 Abs\. 1 Z 2 lit\. g in den Jahren 2005 bis einschließlich 2009 zu gleichen Teilen aus Mitteln des Familienlastenausgleichsfonds und aus Mitteln des Bundes zu tragen\.
-
-> `(6)` § 70 Abs\. 1 und 2 in der am 31\. Dezember 2004 geltenden Fassung ist weiterhin auf Beiträge anzuwenden, die für Beitragszeiträume vor dem 1\. Jänner 2005 entrichtet wurden\.
-
-> `(7)` Abweichend von § 73 Abs\. 1 Z 1 und 2 beläuft sich der einzubehaltende Betrag im Kalenderjahr 2005 auf 4,25 % der auszuzahlenden Leistung, wenn es sich dabei um eine Direktpension mit einem im Jahr 2004 liegenden Stichtag oder um eine Hinterbliebenenpension handelt, die von einer Pension mit einem im Jahr 2004 liegenden Stichtag abgeleitet wird\.
-
-> `(8)` Auf Personen, die vor dem 1\. Jänner 1955 geboren sind, ist § 76a Abs\. 1 in der am 31\. Dezember 2004 geltenden Fassung weiterhin anzuwenden\.
-
-> `(9)` Abweichend von § 108h Abs\. 1 hat der Bundesminister für soziale Sicherheit, Generationen und Konsumentenschutz in der Verordnung nach § 108 Abs\. 5 für die Kalenderjahre 2006 und 2007 die Pensionsanpassung so vorzunehmen, dass
->
->> `1.` nur jene Pensionen, die das Fünfzehnfache der Höchstbeitragsgrundlage nach § 45 nicht überschreiten, mit dem Anpassungsfaktor zu vervielfachen sind;
->
->> `2.` alle übrigen Pensionen mit einem Fixbetrag zu erhöhen sind, der der Erhöhung des Fünfzehnfachen der Höchstbeitragsgrundlage nach § 45 mit dem Anpassungsfaktor entspricht\.
-
-> `(10)` Abweichend von § 227 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 142/2004 sind nach dem 31\. Dezember 2004 gelegene Monate des Besuches einer Bildungseinrichtung nach Z 1 dieser Bestimmung weiterhin als Versicherungsmonate für die Erfüllung der Wartezeit für Leistungen aus dem Versicherungsfall des Todes zu berücksichtigen\.
-
-> `(11)` Abweichend von § 253 Abs\. 1 in der am 31\. Dezember 2004 geltenden Fassung bestimmt sich das Anfallsalter für weibliche Versicherte, die das 60\. Lebensjahr am oder nach dem 1\. Jänner 2024 vollenden, nach § 3 des Bundesverfassungsgesetzes über unterschiedliche Altersgrenzen von männlichen und weiblichen Sozialversicherten, BGBl\. Nr\. 832/1992\. Es ist das in der rechten Spalte genannte vollendete Lebensjahr, wenn die Versicherte in dem in der linken Spalte genannten Zeitraum geboren ist:
-
-<table><tbody>
-<tr><td style="vertical-align:bottom">1. Jänner 1964 bis 30. Juni 1964</td><td style="vertical-align:bottom">60,5. Lebensjahr</td></tr>
-<tr><td style="vertical-align:bottom">1. Juli 1964 bis 31. Dezember 1964</td><td style="vertical-align:bottom">61. Lebensjahr</td></tr>
-<tr><td style="vertical-align:bottom">1. Jänner 1965 bis 30. Juni 1965</td><td style="vertical-align:bottom">61,5. Lebensjahr</td></tr>
-<tr><td style="vertical-align:bottom">1. Juli 1965 bis 31. Dezember 1965</td><td style="vertical-align:bottom">62. Lebensjahr</td></tr>
-<tr><td style="vertical-align:bottom">1. Jänner 1966 bis 30. Juni 1966</td><td style="vertical-align:bottom">62,5. Lebensjahr</td></tr>
-<tr><td style="vertical-align:bottom">1. Juli 1966 bis 31. Dezember 1966</td><td style="vertical-align:bottom">63. Lebensjahr</td></tr>
-<tr><td style="vertical-align:bottom">1. Jänner 1967 bis 30. Juni 1967</td><td style="vertical-align:bottom">63,5. Lebensjahr</td></tr>
-<tr><td style="vertical-align:bottom">1. Juli 1967 bis 31. Dezember 1967</td><td style="vertical-align:bottom">64. Lebensjahr</td></tr>
-<tr><td style="vertical-align:bottom">1. Jänner 1968 bis 30. Juni 1968</td><td style="vertical-align:bottom">64,5. Lebensjahr</td></tr>
-<tr><td style="vertical-align:bottom">nach dem 30. Juni 1968</td><td style="vertical-align:bottom">65. Lebensjahr</td></tr>
-<tr><td></td><td></td></tr>
-</tbody></table>
-
-> `(12)` Das am 31\. Dezember 2004 im Ausgleichsfonds der Pensionsversicherungsträger befindliche Vermögen ist nach dem für das Geschäftsjahr 2004 geltenden Schlüssel auf die Träger der Pensionsversicherung nach diesem Bundesgesetz, dem GSVG, dem FSVG und dem BSVG aufzuteilen, und zwar bis längstens 1\. März 2005\. Ab 1\. Jänner 2005 dürfen dem Ausgleichsfonds der Pensionsversicherungsträger keine Einnahmen mehr zufließen\.
-
-> `(13)` § 607 Abs\. 12 erster Satz ist auch auf männliche Versicherte, die nach dem 31\. Dezember 1953 geboren sind, und auf weibliche Versicherte, die nach dem 31\. Dezember 1958 geboren sind, so anzuwenden, dass
->
->> `1.` bei männlichen Versicherten an die Stelle des 738\. Lebensmonates nicht das 60\. Lebensjahr, sondern das 62\. Lebensjahr tritt;
->
->> `2.` bei weiblichen Versicherten an die Stelle des 678\. Lebensmonates nicht das 55\. Lebensjahr, sondern das in der rechten Spalte genannte Lebensjahr tritt:
->>
->>> `a)` 1\. Jänner 1959 bis 31\. Dezember 195957\. Lebensjahr;
->>
->>> `b)` 1\. Jänner 1960 bis 31\. Dezember 196058\. Lebensjahr;
->>
->>> `c)` 1\. Jänner 1961 bis 31\. Dezember 196159\. Lebensjahr;
->>
->>> `d)` 1\. Jänner 1962 bis 31\. Dezember 196360\. Lebensjahr;
->>
->>> `e)` 1\. Jänner 1964 bis 30\. Juni 196460,5\. Lebensjahr;
->>
->>> `f)` 1\. Juli 1964 bis 31\. Dezember 196461\. Lebensjahr;
->>
->>> `g)` 1\. Jänner 1965 bis 30\. Juni 196561,5\. Lebensjahr;
->>
->>> `h)` ab 1\. Juli 196562\. Lebensjahr;
->
->> `3.` bei weiblichen Versicherten statt 480 Beitragsmonaten
->>
->>> `–` bei Personen nach Z 2 lit\. a 504 Beitragsmonate,
->>
->>> `–` bei Personen nach Z 2 lit\. b 516 Beitragsmonate,
->>
->>> `–` bei Personen nach Z 2 lit\. c 528 Beitragsmonate,
->>
->>> `–` bei Personen nach Z 2 lit\. d bis h 540 Beitragsmonate
->
-> erforderlich sind;
->
->> `4.` als Beitragsmonate lediglich Beitragsmonate auf Grund einer Erwerbstätigkeit sowie die im ersten bis dritten Teilstrich des § 607 Abs\. 12 genannten Ersatzmonate zu berücksichtigen sind\.
->
-> &nbsp; Als Beitragsmonate auf Grund einer Erwerbstätigkeit gelten auch folgende Versicherungsmonate nach § 3 Abs\. 1 Z 2 APG:
->
->> `–` Versicherungsmonate nach § 8 Abs\. 1 Z 2 lit\. a dieses Bundesgesetzes,
->
->> `–` Versicherungsmonate nach § 8 Abs\. 1 Z 2 lit\. d und e dieses Bundesgesetzes, § 3 Abs\. 3 Z 1 und 2 GSVG und § 4a Abs\. 1 Z 1 und 2 BSVG,
->
->> `–` bis zu 60 Versicherungsmonate nach § 8 Abs\. 1 Z 2 lit\. g dieses Bundesgesetzes, § 3 Abs\. 3 Z 4 GSVG und § 4a Abs\. 1 Z 4 BSVG, die sich nicht mit Zeiten einer Pflichtversicherung in der Pensionsversicherung auf Grund einer Erwerbstätigkeit decken\.
->
-> &nbsp; Die Höchstgrenze von 60 Versicherungsmonaten darf auch bei Vorliegen von entsprechenden Ersatzmonaten nach Z 4 nicht überschritten werden\. Für Versicherte nach den Z 1 und 2, die die Leistung nach Vollendung des 62\. Lebensjahres beanspruchen, ist anstelle des § 261 Abs\. 4 die Bestimmung des § 15 Abs\. 4 Z 1 APG anzuwenden\. § 261 Abs\. 4 bzw\. § 15 Abs\. 4 Z 1 APG ist für die Zeit nach dem 31\. Dezember 2023 so anzuwenden, dass an die Stelle des Regelpensionsalters nach § 253 Abs\. 1 die jeweils geltende Altersgrenze nach § 3 des Bundesverfassungsgesetzes über unterschiedliche Altersgrenzen von männlichen und weiblichen Sozialversicherten, BGBl\. Nr\. 832/1992, tritt\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-617-asvg--schlussbestimmungen-zu-art-2-des-bundesgesetzes-bgbl-i-nr-1422004-62-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=617) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_780_TextContainer_780) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-617-asvg--schlussbestimmungen-zu-art-2-des-bundesgesetzes-bgbl-i-nr-1422004-62-novelle) \]
 
@@ -18629,19 +17507,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 618 ASVG — Schlussbestimmungen zu Art. 1 Teil 1 des Bundesgesetzes BGBl. I Nr. 171/2004 (63. Novelle)
 
-> `(1)` Die §§ 31 Abs\. 3 Z 13 und Abs\. 5a, 31b Abs\. 2, 32a samt Überschrift, 32b Abs\. 1 bis 3, 32c, 32d Abs\. 2, 32f samt Überschrift, 34 Abs\. 2, 420 Abs\. 5 Z 2, 440 Abs\. 5 Z 1, 440a Abs\. 3 Z 3 und Abs\. 5 Z 2, 440f Abs\. 4, 441 bis 441h samt Überschriften, 442 bis 442b samt Überschriften, 446a, 447b Abs\. 2, 448 Abs\. 1a und 3, 453 Abs\. 2, 455 Abs\. 3, 456a Abs\. 1, 3 und 4, 460 Abs\. 1, 3 und 5 sowie 593 Abs\. 3 und die Überschrift zum 6\. Unterabschnitt des Abschnittes III des Ersten Teiles in der Fassung des Bundesgesetzes BGBl\. I Nr\. 171/2004 treten mit 1\. Jänner 2005 in Kraft\.
-
-> `(2)` § 32b Abs\. 1 tritt mit Ablauf des 31\. Dezember 2004 außer Kraft\.
-
-> `(3)` Die drei mitgliederstärksten im Bundesseniorenbeirat vertretenen Seniorenorganisationen \(§ 3 des Bundesseniorengesetzes, BGBl\. I Nr\. 84/1998\) sind verpflichtet, die von ihnen nach § 441a Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 171/2004 zu entsendenden Mitglieder der Trägerkonferenz bis zum 31\. Dezember 2004 zu bestimmen und dem Bundesminister für soziale Sicherheit, Generationen und Konsumentenschutz namhaft zu machen\.
-
-> `(4)` Die Mitglieder der Trägerkonferenz nach § 441a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 171/2004 werden erstmals vom Bundesminister für soziale Sicherheit, Generationen und Konsumentenschutz zur konstituierenden Sitzung eingeladen\. Mit ihrem ersten Zusammentreten ist die Trägerkonferenz konstituiert\. In der konstituierenden Sitzung wählen die Mitglieder der Trägerkonferenz aus ihrer Mitte einen Vorsitzenden/eine Vorsitzende und zwei Vorsitzenden\-StellvertreterInnen; das an Lebensjahren älteste Mitglied aus dem Kreis der Obmänner/Obfrauen führt hiebei den Vorsitz\. Die Trägerkonferenz hat bis zum 31\. Jänner 2005 die Mitglieder und Ersatzmitglieder des Verbandsvorstandes zu entsenden; die entsprechenden Vorschläge der Interessenvertretungen sind bis längstens 7\. Jänner 2005 zu erstatten\.
-
-> `(5)` Die Mitglieder des Verbandsvorstandes nach § 441b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 171/2004 werden erstmals vom Vorsitzenden/von der Vorsitzenden der Trägerkonferenz zur konstituierenden Sitzung in der Weise eingeladen, dass der Verbandsvorstand ab 1\. Februar 2005 seine Aufgaben und Obliegenheiten wahrnehmen kann\. Mit seinem ersten Zusammentreten ist der Verbandsvorstand konstituiert\. In der konstituierenden Sitzung wählen die Mitglieder des Verbandsvorstandes aus ihrer Mitte einen Verbandsvorsitzenden/eine Verbandsvorsitzende und einen/eine Verbandsvorsitzenden\-StellvertreterIn; der/die Vorsitzende der Trägerkonferenz führt hiebei den Vorsitz\.
-
-> `(6)` Der Verbandsvorstand hat bis zum 31\. März 2005 mit Wirkung ab 1\. April 2005 das Verbandsmanagement zu bestellen\.
-
-> `(7)` Bis zum Ablauf des 31\. März 2005 führt die bisherige Geschäftsführung nach den §§ 441c und 442b ASVG in der am 31\. Dezember 2004 geltenden Fassung die Geschäfte des Hauptverbandes unter Weisungsgebundenheit gegenüber dem Verbandsvorstand und der Trägerkonferenz weiter\. Bis zur Konstituierung der Trägerkonferenz nach Abs\. 4 haben der Verwaltungsrat nach den § 441b und 442a ASVG in der am 31\. Dezember 2004 geltenden Fassung und die Hauptversammlung nach den §§ 441a und 442 ASVG in der am 31\. Dezember 2004 geltenden Fassung ihre Aufgaben weiter zu besorgen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-618-asvg--schlussbestimmungen-zu-art-1-teil-1-des-bundesgesetzes-bgbl-i-nr-1712004-63-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=618) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_781_TextContainer_781) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-618-asvg--schlussbestimmungen-zu-art-1-teil-1-des-bundesgesetzes-bgbl-i-nr-1712004-63-novelle) \]
 
@@ -18649,21 +17515,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 619 ASVG — Schlussbestimmungen zu Art. 1 Teil 2 des Bundesgesetzes BGBl. I Nr. 171/2004 (63. Novelle)
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. Dezember 2004 § 609 Abs\. 9a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 171/2004;
->
->> `2.` mit 1\. Jänner 2005 die §§ 26 Abs\. 1 Z 4 lit\. a, 31 Abs\. 5 Z 16, 31c samt Überschrift, 53b samt Überschrift, 71 Abs\. 1 und 3, 128 samt Überschrift, 172 Abs\. 1, 173 Z 2 und 3, 175 Abs\. 5 Z 1, 447h samt Überschrift, 473 Abs\. 3, 474 Abs\. 2 in der Fassung der Z 13, 597 Abs\. 6, 600 Abs\. 1 Z 4a und 4b sowie 609 Abs\. 1 Z 2 und Abs\. 5 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 171/2004;
->
->> `3.` mit 1\. Jänner 2006 die §§ 135 Abs\. 3 und 153 Abs\. 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 171/2004;
->
->> `4.` mit 1\. Jänner 2008 § 131b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 171/2004\.
-
-> `(2)` Die §§ 31 Abs\. 5 Z 33 und 474 Abs\. 2 in der Fassung der Z 12 treten mit Ablauf des 31\. Dezember 2004 außer Kraft\.
-
-> `(3)` Gesamtvertragspartner nach § 341 können durch Vereinbarung die für die Abgabe von Arzneispezialitäten auf Rechnung eines Sozialversicherungsträgers notwendigen ärztlichen Bewilligungen \(§ 350 Abs\. 3 erster Satz\) des chef\- und kontrollärztlichen Dienstes der Sozialversicherungträger aussetzen\. Die Wahrung des finanziellen Gleichgewichtes des Systems der sozialen Sicherheit ist durch verbindliche Ziele sicherzustellen\. Verlängerungen der Vereinbarung können nur erfolgen, solange die Ziele nicht überschritten werden\. Der erforderliche Inhalt der Vereinbarung ist in der Rahmenvereinbarung oder der Verordnung nach § 609 Abs\. 9 zu bestimmen\.
-
-> `(4)` Der Hauptverband hat der Bundesministerin für Gesundheit und Frauen bis zum 31\. März 2006 einen gemeinsam mit den im Ausgleichsfonds vertretenen Krankenversicherungsträgern erarbeiteten Vorschlag für eine Neuregelung über einen Strukturausgleich zwischen den Gebietskrankenkassen ab dem Geschäftsjahr 2005 zu übermitteln\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-619-asvg--schlussbestimmungen-zu-art-1-teil-2-des-bundesgesetzes-bgbl-i-nr-1712004-63-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=619) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_782_TextContainer_782) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-619-asvg--schlussbestimmungen-zu-art-1-teil-2-des-bundesgesetzes-bgbl-i-nr-1712004-63-novelle) \]
 
@@ -18671,15 +17523,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 620 ASVG — Schlussbestimmungen zu Art. 3 des Bundesgesetzes BGBl. I Nr. 156/2004
 
-> `(1)` Die §§ 137 Abs\. 2a, 4 und 6, 447a Abs\. 1, 3, 7 und 8, 447f samt Überschrift sowie 545 Abs\. 7 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 156/2004 treten mit 1\. Jänner 2005 in Kraft\.
-
-> `(2)` Die §§ 51 Abs\. 1 Z 1 lit\. a bis f, 51 Abs\. 3 Z 1 lit\. a und b, 73 Abs\. 1 Z 1 und 2, Abs\. 2 und 4, 472a Abs\. 2, 474 Abs\. 1, 479d Abs\. 2 Z 1 und 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 156/2004 treten mit 1\. Jänner 2005 in Kraft\.
-
-> `(3)` Es treten außer Kraft:
->
->> `1.` mit Ablauf des 31\. Dezember 2004 die §§ 31 Abs\. 5 Z 13a und 136 Abs\. 3 vierter und fünfter Satz;
->
->> `2.` mit Ablauf des 31\. Dezember 2007 § 545 Abs\. 7\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-620-asvg--schlussbestimmungen-zu-art-3-des-bundesgesetzes-bgbl-i-nr-1562004) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=620) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_783_TextContainer_783) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-620-asvg--schlussbestimmungen-zu-art-3-des-bundesgesetzes-bgbl-i-nr-1562004) \]
 
@@ -18687,12 +17531,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 621 ASVG — Schlussbestimmungen zu Art. 2 des Bundesgesetzes BGBl. I Nr. 179/2004
 
-> `(1)` Der siebente Unterabschnitt samt Überschrift im Abschnitt V des Ersten Teiles, die Überschrift zu § 144, der § 144 Abs\. 1, die Überschrift zu § 145, §§ 145 Abs\. 1 und 2, 148 samt Überschrift, 149 Abs\. 3, 150 Abs\. 1 Z 1, 189 Abs\. 3, 302 Abs\. 3, 322a Abs\. 1, 2 und 4, 332 Abs\. 1 sowie 609 Abs\. 7 Z 9 und 10 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 179/2004 treten mit 1\. Jänner 2005 in Kraft\.
-
-> `(2)` § 590 Abs\. 5 tritt mit Ablauf des 31\. Dezember 2004 außer Kraft\.
-> *\(Anm\.: Abs\. 3 aufgehoben durch BGBl\. I Nr\. 101/2007\)*
-
-> `(4)` Die landesgesetzlichen Ausführungsbestimmungen zu den §§ 148, 189 Abs\. 3 und 302 Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. Nr\. 179/2004 sind innerhalb von sechs Monaten zu erlassen und rückwirkend mit 1\. Jänner 2005 in Kraft zu setzen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-621-asvg--schlussbestimmungen-zu-art-2-des-bundesgesetzes-bgbl-i-nr-1792004) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=621) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_784_TextContainer_784) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-621-asvg--schlussbestimmungen-zu-art-2-des-bundesgesetzes-bgbl-i-nr-1792004) \]
 
@@ -18700,9 +17539,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 622 ASVG — Schlussbestimmungen zu Art. II des Bundesgesetzes BGBl. I Nr. 152/2004
 
-> `(1)` Die §§ 33 Abs\. 1 und 1a sowie 41 Abs\. 4 Z 2 und 3 sowie Abs\. 5 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 152/2004 und die Aufhebung des § 41 Abs\. 2 treten, sofern die Burgenländische Gebietskrankenkasse für die versicherte Person nach § 30 zuständig ist und der \(die\) meldepflichtige Dienstgeber\(in\) seinen \(ihren\) Betriebssitz im Burgenland hat, mit 1\. Jänner 2006 in Kraft\.
-
-> `(2)` § 114 tritt mit Ablauf des 28\. Februar 2005 außer Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-622-asvg--schlussbestimmungen-zu-art-ii-des-bundesgesetzes-bgbl-i-nr-1522004) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=622) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_785_TextContainer_785) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-622-asvg--schlussbestimmungen-zu-art-ii-des-bundesgesetzes-bgbl-i-nr-1522004) \]
 
@@ -18718,21 +17555,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 624 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 71/2005 (64. Novelle)
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. Juli 2005 die §§ 7 Z 4 lit\. c sublit\. cc, 12 Abs\. 5a, 31 Abs\. 5 Z 34, 31c Abs\. 2 zweiter Satz und Abs\. 3 bis 5, 73 Abs\. 1 Z 2, Abs\. 2 und 2a, 80a Abs\. 7, 162 Abs\. 3, 175 Abs\. 5 Z 2 und 3, 292 Abs\. 4 lit\. n und o, 441a Abs\. 3, 441b Abs\. 7 sowie der 7\. Unterabschnitt des Abschnittes I des Zehnten Teiles samt Überschrift in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2005;
->
->> `2.` mit 1\. Jänner 2006 die §§ 7 Z 4 Einleitung, 19a Abs\. 1, 26 Abs\. 1 Z 3 lit\. a, 53a Abs\. 3a und 4, 135 Abs\. 3, 447f Abs\. 10 in der Fassung der Z 23 und 11 Z 2 in der Fassung der Z 25, 472a Abs\. 1 dritter Satz in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2005;
->
->> `3.` rückwirkend mit 1\. Jänner 2005 die §§ 8 Abs\. 1 Z 3 lit\. e, 149 Abs\. 3 erster Satz und 3a, 447f Abs\. 10 in der Fassung der Z 22 und 11 Z 2 in der Fassung der Z 24 sowie § 447f Abs\. 14 letzter Satz und 15 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2005;
->
->> `4.` rückwirkend mit 1\. Jänner 2004 der § 460 Abs\. 3a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2005;
->
->> `5.` rückwirkend mit 1\. Jänner 2001 der § 77 Abs\. 1 zweiter Satz in der Fassung der Z 17 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2005;
->
->> `6.` rückwirkend mit 1\. Jänner 2000 der § 77 Abs\. 1 zweiter Satz in der Fassung der Z 16 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2005\.
-
-> `(2)` § 162 Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2005 ist auf Versicherungsfälle der Mutterschaft anzuwenden, die nach dem 30\. Juni 2005 eintreten\. § 162 Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 71/2005 ist darüber hinaus dann anzuwenden, wenn eine Neuberechnung des Wochengeldes spätestens bis zum Ablauf des 31\. Dezember 2005 beantragt wird\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-624-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-712005-64-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=624) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_787_TextContainer_787) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-624-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-712005-64-novelle) \]
 
@@ -18740,32 +17563,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 625 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 132/2005 (65. Novelle)
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. Jänner 2006 die §§ 4 Abs\. 4 lit\. a, 8 Abs\. 1 Z 2 lit\. g, 18a Abs\. 2 Z 1, 18b samt Überschrift, 35 Abs\. 4 lit\. b, 53 Abs\. 3 lit\. b, 59 Abs\. 3, 68a samt Überschrift, 70 Abs\. 1, 70a Abs\. 1, 76b Abs\. 5a, 77 Abs\. 6 und 8, 91 Abs\. 1, 175 Abs\. 5 Z 3, 225 Abs\. 1 Z 1 und 2, 226 Abs\. 4, 227 Abs\. 1 Z 1, 230 Abs\. 2 lit\. c, 264 Abs\. 1 Z 5, 293 Abs\. 1, 360a samt Überschrift, 447 Abs\. 2a, 459d samt Überschrift, 479 Abs\. 2 Z 1, 607 Abs\. 13, 619 Abs\. 4, 622 und 623 Überschrift in der Fassung des Bundesgesetzes BGBl\. I Nr\. 132/2005;
->
->> `1a.` mit 1\. Jänner 2007 § 34 Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 132/2005;
->
->> `2.` rückwirkend mit 1\. November 2005 § 31c Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 132/2005;
->
->> `3.` rückwirkend mit 1\. September 2005 die §§ 5 Abs\. 1 Z 2, 10 Abs\. 1, 44 Abs\. 1 Z 2, 203 Abs\. 2, 210 Abs\. 1, 212 Abs\. 3 und 471f in der Fassung des Bundesgesetzes BGBl\. I Nr\. 132/2005;
->
->> `4.` rückwirkend mit 1\. Jänner 2005 die Abs\. 8 bis 14 und die §§ 32b Abs\. 1 und 1a, 32e samt Überschrift, 32g samt Überschrift, 44 Abs\. 1 Z 14, 70 Abs\. 2, 76a Abs\. 1, 76b Abs\. 3 und 3a, 230 Abs\. 2 lit\. h, 308 Abs\. 1a, 311 Abs\. 2, 421 Abs\. 1 Z 4 und Abs\. 4 Z 2 sowie Abs\. 7, 440 Abs\. 6, 442 Abs\. 1, 2 und 5, 442c samt Überschrift, 506a, 609 Abs\. 7 und 8 sowie 617 Abs\. 3 und 8 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 132/2005\.
-
-> `(1a)` § 113 Abs\. 1 Z 1 und 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 132/2005 tritt, sofern die Burgenländische Gebietskrankenkasse für die versicherte Person nach § 30 zuständig ist und der \(die\) meldepflichtige Dienstgeber\(in\) seinen \(ihren\) Betriebssitz im Burgenland hat, mit 1\. Jänner 2006 in Kraft\.
-
-> `(2)` Die §§ 225 Abs\. 3, 226 Abs\. 3 und 254 Abs\. 5 treten mit Ablauf des 31\. Dezember 2005 außer Kraft, sie sind jedoch auf Verfahren, die an diesem Tag anhängig sind, weiterhin anzuwenden\.
-
-> `(3)` § 4 Abs\. 1 Z 11 tritt rückwirkend mit Ablauf des 31\. August 2005 außer Kraft\.
-
-> `(4)` Die §§ 59 Abs\. 3, 68a sowie 225 Abs\. 1 Z 1 lit\. b und Z 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 132/2005 sind nicht auf Personen anzuwenden, die Anspruch auf eine Pension mit Stichtag \(§ 223 Abs\. 2\) vor dem 1\. Jänner 2006 haben\.
-
-> `(5)` Für Personen, die vor dem 1\. Jänner 1955 geboren sind, ist § 76b Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 132/2005 so anzuwenden, dass im Fall der Beitragsentrichtung nach Vollendung des 50\. Lebensjahres die Beitragsgrundlage mit dem Faktor 1,66 zu vervielfachen ist; an die Stelle dieses Faktors tritt nach Vollendung des 55\. Lebensjahres der Faktor 2,22 und nach Vollendung des 60\. Lebensjahres der Faktor 2,34\. Soweit Personen, die nach dem 31\. Dezember 1954 geboren sind, bereits vor dem 1\. Jänner 2005 Beiträge nach § 227 Abs\. 3 unter Vervielfachung der Beitragsgrundlage mit einem Faktor entrichtet haben, sind ihnen die auf die Vervielfachung entfallenden Beitragsteile bei Anfall einer Direktpensionsleistung – aufgewertet mit dem der zeitlichen Lagerung entsprechenden Aufwertungsfaktor \(§ 108 Abs\. 4\) – von Amts wegen zu erstatten; auf Antrag hat die Erstattung schon vor Pensionsanfall zu erfolgen\.
-
-> `(6)` Der Härteausgleichsfonds nach Abschnitt IVa des Vierten Teiles hat bis zum 30\. Juni 2006 34 Millionen Euro an den Bund rückzuüberweisen\.
-
-> `(7)` Die Richtsätze nach § 293 Abs\. 1 lit\. a sublit\. bb, lit\. b und lit\. c sublit\. bb in der Fassung des Bundesgesetzes BGBl\. I Nr\. 132/2005 sind abweichend von § 293 Abs\. 2 in Verbindung mit § 108 Abs\. 6 für das Kalenderjahr 2006 nicht zu vervielfachen\.
-> *\(Anm\.: Abs\. 8 bis 15 aufgehoben durch BGBl\. I Nr\. 122/2011\)*
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-625-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1322005-65-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=625) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_788_TextContainer_788) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-625-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1322005-65-novelle) \]
 
@@ -18773,9 +17571,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 626 ASVG — Schlussbestimmungen zu Art. 6 des Bundesgesetzes BGBl. I Nr. 155/2005
 
-> `(1)` Die §§ 131 Abs\. 3, 131a samt Überschrift, 138 Abs\. 3, 153 Abs\. 3, die Überschrift des Sechsten Teiles, 338 Abs\. 1, 339 Abs\. 1, 343c Abs\. 1 und 2, 343d samt Überschrift, 349 Abs\. 1 und 3 sowie 350 Abs\. 1 bis 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 155/2005 treten mit 1\. Jänner 2006 in Kraft\.
-
-> `(2)` In den zum Zeitpunkt des In\-Kraft\-Tretens dieses Bundesgesetzes anhängigen Verfahren nach den §§ 344 bis 346, die Angehörige des zahnärztlichen Berufs und des Dentistenberufs \(§ 351\) betreffen, wird die personelle Zusammensetzung der Kommissionen durch die Bestimmungen dieses Bundesgesetzes nicht berührt\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-626-asvg--schlussbestimmungen-zu-art-6-des-bundesgesetzes-bgbl-i-nr-1552005) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=626) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_789_TextContainer_789) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-626-asvg--schlussbestimmungen-zu-art-6-des-bundesgesetzes-bgbl-i-nr-1552005) \]
 
@@ -18783,15 +17579,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 627 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 130/2006
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. Juli 2006 die §§ 31 Abs\. 8, 247 und 247a samt Überschriften, 354 Z 4, 367 Abs\. 1, 368 Abs\. 1, 447 Abs\. 1 und 1a, 460 Abs\. 3b und 607 Abs\. 14 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 130/2006;
->
->> `2.` rückwirkend mit 1\. Jänner 2006 die §§ 264 Abs\. 3 bis 5b und 625 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 130/2006;
->
->> `3.` rückwirkend mit 1\. Jänner 2005 § 49 Abs\. 3 Z 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 130/2006\.
-
-> `(2)` § 264 Abs\. 3 bis 5b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 130/2006 ist auf Versicherungsfälle des Todes anzuwenden, die nach dem 31\. Dezember 2005 eingetreten sind\. Auf Antrag der Witwe \(des Witwers\) bis längstens zum Ablauf des 31\. Dezember 2008 sind die zitierten Bestimmungen auch auf Versicherungsfälle des Todes anzuwenden, die nach dem 1\. Juni 2004 und vor dem 1\. Jänner 2006 eingetreten sind; die Rechtskraft bereits ergangener Entscheidungen steht dem nicht entgegen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-627-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1302006) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=627) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_790_TextContainer_790) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-627-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1302006) \]
 
@@ -18799,45 +17587,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 628 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 131/2006 (66. Novelle)
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. Juli 2006 die §§ 8 Abs\. 1 Z 3 lit\. g in der Fassung der Z 3, 31 Abs\. 3 Z 9, 31a Abs\. 4 und 4a, 122 Abs\. 2 Z 2, 138 Abs\. 1, 351g Abs\. 4, 351i Abs\. 4, 363 Abs\. 1, 421 Abs\. 1, 442 Abs\. 2, 447a, 447b, 474 Abs\. 1 in der Fassung der Z 29 und 621 Abs\. 3 sowie die Anlage 1 Nr\. 27 lit\. b bis d, Nr\. 43, Nr\. 45 und Nr\. 53 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 131/2006;
->
->> `2.` mit 1\. August 2006 die §§ 51d Abs\. 3 Z 2 und 123 Abs\. 7a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 131/2006;
->
->> `3.` mit 1\. Jänner 2007 die §§ 8 Abs\. 1 Z 3 lit\. a und b, 67 Abs\. 4 und 10 sowie 335 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 131/2006;
->
->> `4.` mit 1\. Jänner 2009 § 474 Abs\. 1 in der Fassung der Z 30 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 131/2006;
->
->> `5.` rückwirkend mit 1\. Jänner 2006 die §§ 8 Abs\. 1 Z 3 lit\. g in der Fassung der Z 4 und 30 Abs\. 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 131/2006;
->
->> `6.` rückwirkend mit 1\. Jänner 2005 § 204 Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 131/2006;
->
->> `7.` rückwirkend mit 1\. Mai 2003 § 448 Abs\. 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 131/2006;
->
->> `8.` rückwirkend mit 1\. Februar 1999 § 176 Abs\. 1 Z 12 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 131/2006;
->
->> `9.` rückwirkend mit 1\. Jänner 1999 die §§ 176 Abs\. 1 Z 5 und 13 sowie 201 Abs\. 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 131/2006;
->
->> `10.` rückwirkend mit 1\. August 1998 die Anlage 1 Nr\. 51 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 131/2006;
->
->> `11.` rückwirkend mit 1\. September 1994 die §§ 363 Abs\. 3 Z 2 und 365 Abs\. 3 in der Fassung der Z 25 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 131/2006;
->
->> `12.` rückwirkend mit 1\. April 1993 die §§ 363 Abs\. 3 Z 1 und 365 Abs\. 3 in der Fassung der Z 24 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 131/2006;
->
->> `13.` rückwirkend mit 1\. September 1990 § 176 Abs\. 1 Z 11 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 131/2006\.
-
-> `(2)` Leidet die versicherte Person am 1\. Juli 2006 an einer Krankheit, die erst auf Grund des Bundesgesetzes BGBl\. I Nr\. 131/2006 als Berufskrankheit gilt, oder ist sie vor dem 1\. Juli 2006 an einer solchen Krankheit gestorben, so sind an sie oder an ihre Hinterbliebenen die Leistungen der Unfallversicherung zu erbringen, wenn der Versicherungsfall nach dem 31\. Dezember 1955 eingetreten ist; die Leistungen sind frühestens ab 1\. Juli 2006 zu erbringen, wenn der Antrag bis zum Ablauf des 30\. Juni 2007 gestellt wird; wird der Antrag nach dem 30\. Juni 2007 gestellt, so gebühren die Leistungen frühestens ab dem Tag der Antragstellung\.
-
-> `(3)` Auf vor dem 1\. Jänner 2007 in das Firmenbuch eingetragene Personengesellschaften des Handelsrechts und Erwerbsgesellschaften sind für die Dauer der Firmenfortführung ohne dem nach § 19 Abs\. 1 Z 2 und 3 Unternehmensgesetzbuch vorgeschriebenen Rechtsformzusatz weiterhin die §§ 8 Abs\. 1 Z 3 lit\. a in der Fassung des BGBl\. I Nr\. 138/1998 und 8 Abs\. 1 Z 3 lit\. b in der Fassung des BGBl\. Nr\. 411/1996 sowie die §§ 67 Abs\. 10 und 335 Abs\. 1 jeweils in der Fassung des BGBl\. Nr\. 741/1990 anzuwenden\.
-
-> `(3a)` Personen, die nach § 123 Abs\. 8 lit\. b in der am 31\. Juli 2006 geltenden Fassung als Angehörige anspruchsberechtigt sind und zu diesem Zeitpunkt bereits das 27\. Lebensjahr vollendet haben, bleiben weiterhin als Angehörige anspruchsberechtigt, so lange sich der maßgebliche Sachverhalt nicht ändert\.
-
-> `(3b)` Personen, die nach § 123 Abs\. 8 lit\. b in der am 31\. Juli 2006 geltenden Fassung als Angehörige anspruchsberechtigt sind und zu diesem Zeitpunkt das 27\. Lebensjahr noch nicht vollendet haben, bleiben weiterhin als Angehörige anspruchsberechtigt, so lange sich der maßgebliche Sachverhalt nicht ändert, längstens jedoch bis zum Ablauf des 31\. Dezember 2009\.
-
-> `(4)` § 351g Abs\. 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 131/2006 ist nur auf Anträge anzuwenden, die nach dem 31\. Dezember 2006 beim Hauptverband einlangen\. Auf Anträge, die vor dem 1\. Jänner 2007 beim Hauptverband einlangen, ist § 351g Abs\. 4 in der am 30\. Juni 2006 geltenden Fassung anzuwenden\.
-
-> `(5)` Die §§ 447a Abs\. 1 bis 9 und 447b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 131/2006 sind erstmals für den Ausgleich des Jahres 2005, erfolgswirksam im Geschäftsjahr 2006, anzuwenden\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-628-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1312006-66-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=628) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_791_TextContainer_791) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-628-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1312006-66-novelle) \]
 
@@ -18855,11 +17605,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 630 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 169/2006
 
-> `(1)` § 293 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 169/2006 tritt mit 1\. Jänner 2007 in Kraft\.
-
-> `(2)` Die Richtsätze nach § 293 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 169/2006 sind abweichend von § 293 Abs\. 2 in Verbindung mit § 108 Abs\. 6 für das Kalenderjahr 2007 nicht zu vervielfachen\.
-
-> `(3)` Personen, die im Jänner 2007 Anspruch auf Ausgleichszulage haben, gebührt keine Einmalzahlung nach § 629\. Ergibt sich jedoch auf Grund der Anpassung mit dem Anpassungsfaktor und der Einmalzahlung nach § 629 ein höherer Betrag als auf Grund der Erhöhung der Ausgleichszulagenrichtsätze mit 1\. Jänner 2007, so ist der Unterschiedsbetrag als besondere Einmalzahlung auszuzahlen\. Auf die besondere Einmalzahlung ist § 629 Abs\. 2 anzuwenden\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-630-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1692006) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=630) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_793_TextContainer_793) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-630-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1692006) \]
 
@@ -18867,16 +17613,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 631 ASVG — Schlussbestimmungen zu Art. 1 Teil 1 des Bundesgesetzes BGBl. I Nr. 31/2007 (67. Novelle)
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. Juli 2007 die §§ 8 Abs\. 1 Z 3 lit\. g, 123 Abs\. 7 bis 10, 132c Abs\. 1 Z 3 und 4 sowie Abs\. 2 bis 4, 338 Abs\. 2a, 340a, 348g, 349 Abs\. 2b sowie 349a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 31/2007;
->
->> `2.` mit 1\. Jänner 2008 die §§ 351c Überschrift, Abs\. 1, 5 und 7 Z 1, 351d Abs\. 1 sowie § 351i Abs\. 1 und 4 Z 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 31/2007;
->
->> `3.` rückwirkend mit 1\. August 2006 die §§ 351c Abs\. 6, 351h Abs\. 3 Z 5 sowie 442 Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 31/2007\.
-
-> `(2)` Falls über die einheitlichen Grundsätze für die elektronische Abrechnung mit den Vertragspartnern \(§§ 340a, 348g und 349a\) am 30\. Juni 2007 nicht ohnehin bereits vertragliche Regelungen bestehen, haben sich die Vertragspartner bis zum 31\. Dezember 2007 über diese Grundsätze vertraglich zu einigen\. Erfolgt bis zu diesem Zeitpunkt keine Einigung, so sind diese Grundsätze durch den Hauptverband nach Weisungen der zuständigen Bundesministerin festzusetzen und im Internet kundzumachen\. Die Abrechnungsgrundsätze, die vom Hauptverband nach den §§ 340a, 348g und 349a im Internet kundgemacht wurden, sind in ihrer am 30\. Juni 2007 geltenden Fassung bis zum 31\. März 2008 weiter anzuwenden\.
-> *\(Anm\.: Abs\. 3 aufgehoben durch BGBl\. I Nr\. 33/2009\)*
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-631-asvg--schlussbestimmungen-zu-art-1-teil-1-des-bundesgesetzes-bgbl-i-nr-312007-67-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=631) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_794_TextContainer_794) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-631-asvg--schlussbestimmungen-zu-art-1-teil-1-des-bundesgesetzes-bgbl-i-nr-312007-67-novelle) \]
 
@@ -18884,21 +17621,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 632 ASVG — Schlussbestimmungen zu Art. 1 Teil 2 des Bundesgesetzes BGBl. I Nr. 31/2007 (67. Novelle)
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. Juli 2007 die §§ 19a Abs\. 1, 49 Abs\. 3 und 8, 77 Abs\. 9, 607 Abs\. 7, 12, 14 und 14a sowie 617 Abs\. 13 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 31/2007;
->
->> `2.` mit 1\. Jänner 2008 die §§ 33 Abs\. 1 und 1a, 41 Abs\. 4 Z 2 und 3 sowie Abs\. 5, 111 samt Überschrift, 111a samt Überschrift, 113, 471d, 622 Abs\. 1 und 625 Abs\. 1a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 31/2007;
->
->> `3.` rückwirkend mit 1\. Jänner 2006 § 44 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 31/2007\.
-
-> `(2)` § 41 Abs\. 2 tritt mit Ablauf des 31\. Dezember 2007 außer Kraft\.
-
-> `(3)` Der Anwendung des § 44 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 31/2007 steht die Rechtskraft bereits ergangener Entscheidungen nicht entgegen\.
-
-> `(4)` Abweichend von § 44 Abs\. 1 letzter Satz in der Fassung des Bundesgesetzes BGBl\. I Nr\. 31/2007 beläuft sich in den Jahren 2006 und 2007 die monatliche Beitragsgrundlage für Selbstversicherte nach § 18b auf 1 350 €\.
-
-> `(5)` § 607 Abs\. 7 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 31/2007 ist auf Antrag des Pensionsbeziehers/der Pensionsbezieherin auch auf Alterspensionen \(Knappschaftsalterspensionen\) mit Stichtag nach dem 31\. Dezember 2003 und vor dem 1\. Juli 2007 anzuwenden\. Die Rechtskraft bereits ergangener Entscheidungen steht dem nicht entgegen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-632-asvg--schlussbestimmungen-zu-art-1-teil-2-des-bundesgesetzes-bgbl-i-nr-312007-67-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=632) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_795_TextContainer_795) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-632-asvg--schlussbestimmungen-zu-art-1-teil-2-des-bundesgesetzes-bgbl-i-nr-312007-67-novelle) \]
 
@@ -18914,69 +17637,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 634 ASVG — Schlussbestimmungen zu Art. 4 des Bundesgesetzes BGBl. I Nr. 101/2007 (68. Novelle)
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. Jänner 2008 die §§ 10 Abs\. 2, 12 Abs\. 6, 20 Abs\. 1, 31 Abs\. 5 Z 16, die Überschrift des 4\. Unterabschnittes des Abschnittes III Erster Teil, die Überschrift zu § 31a *\(Anm\.: in der Aufzählung fehlt § 31a Abs\. 7\)* sowie §§ 31d, 37, 51 Abs\. 1 Z 1 lit\. a bis f in der Fassung der Z 10, 12, 14, 16, 18 und 20, 51 Abs\. 3 Z 1 lit\. a bis c in der Fassung der Z 22, 73 Abs\. 1 Z 1 und 2 in der Fassung der Z 24, 74 Abs\. 1 Z 1 und Abs\. 3 Z 1, 84a Abs\. 2 und 4, 120 Abs\. 1, 122 Abs\. 3a, 130 Abs\. 1, 134 Abs\. 3, 136 Abs\. 6, 139 Abs\. 3, 148, 149 Abs\. 3 und 3a, 162 Abs\. 1, 3 und 3a Z 1, 181 Abs\. 1, 293 Abs\. 1, 322a Abs\. 2 und 4, 322b samt Überschrift, 342 Abs\. 1 und 2, 348a Abs\. 3, 349 Abs\. 5, 351g Abs\. 3, 442 Abs\. 2, 447a Abs\. 10, 447f Abs\. 1, 2, 6, 12, 14, 16 und 17, 447h Abs\. 3 letzter Satz, 472a Abs\. 2 in der Fassung der Z 60, 62 und 64, 474 Abs\. 1 zweiter und letzter Satz in der Fassung der Z 66 und 68, 479d Abs\. 2 Z 1 und 2 in der Fassung der Z 70 und 72 sowie Abs\. 2 letzter Satz, 545 Abs\. 7, 617 Abs\. 9, 620 Abs\. 2 und Abs\. 3 Z 2, 625 Abs\. 8, 9, 12 Z 1 und 14 sowie 633 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 101/2007;
->
-> &nbsp; *\(Anm\.: Z 2 aufgehoben durch BGBl\. I Nr\. 118/2015\)*
->
->> `3.` rückwirkend mit 1\. Oktober 2006 § 447f Abs\. 10 und 11 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 101/2007\.
-
-> `(2)` Die §§ 8 Abs\. 1 Z 3 lit\. b, 138 Abs\. 2 lit\. f, 472a Abs\. 3 und 621 Abs\. 3 treten mit Ablauf des 31\. Dezember 2007 außer Kraft\.
-
-> `(3)` Personen, die am 31\. Dezember 2007 der Pflichtversicherung nach § 8 Abs\. 1 Z 3 lit\. b unterliegen, gelten mit 1\. Jänner 2008 als nach § 8 Abs\. 1 Z 3 lit\. a versichert\.
-
-> `(4)` Änderungen der Richtlinien über die Befreiung von der Rezeptgebühr nach § 31 Abs\. 5 Z 16 auf Grund der Änderung des § 31 Abs\. 5 Z 16 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 101/2007 sind rückwirkend mit 1\. Jänner 2008 vorzunehmen\.
-
-> `(5)` Im Jahr 2008 kommt es abweichend von § 73 Abs\. 1 Z 1 und 2 in der Fassung der Z 24 nicht zur Beitragserhöhung, wenn die Versicherungspflicht aufgrund des Pensionsanfalles im Jahr 2007 eingetreten ist und nach § 108h Abs\. 1 keine Anpassung erfolgt ist\.
-
-> `(6)` Die landesgesetzlichen Ausführungsbestimmungen zu den §§ 148, 189 Abs\. 3 und 302 Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 179/2004 bzw\. in der Fassung des Bundesgesetzes BGBl\. I Nr\. 101/2007 sind innerhalb von sechs Monaten zu erlassen und mit 1\. Jänner 2008 in Kraft zu setzen\.
-
-> `(7)` Die §§ 138 Abs\. 1 und 2 sowie 162 Abs\. 1, 3 und 3a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 101/2007 sind auf Personen anzuwenden, bei denen der Versicherungsfall nach dem 31\. Dezember 2007 eingetreten ist\.
-
-> `(8)` Zur finanziellen Absicherung der gesetzlichen Krankenversicherung hat der Hauptverband bis zum 30\. Juni 2008 in der Trägerkonferenz konkrete Maßnahmen zur Effizienzsteigerung und Kostendämpfung in der gesetzlichen Krankenversicherung im Ausmaß von 150 Millionen Euro zu beschließen\. Diese Maßnahmen sind in der Weise darzustellen, dass daraus entsprechend dem § 14 Abs\. 1 BHG die finanziellen Auswirkungen für die Krankenversicherungsträger hervorgehen\. Stellt die Bundesministerin für Gesundheit, Familie und Jugend im Einvernehmen mit dem Bundesminister für Finanzen durch eine längstens bis zum 31\. Oktober 2008 zu erlassende Verordnung fest, dass durch die beschlossenen Maßnahmen und auf Grund deren finanzieller Darstellung die Effizienzsteigerung und die Kostendämpfung nicht erreicht werden können, so treten
->
->> `1.` die §§ 51 Abs\. 1 Z 1 lit\. a bis f in der Fassung der Z 10, 12, 14, 16, 18 und 20, Abs\. 3 Z 1 lit\. a bis c in der Fassung der Z 22, 73 Abs\. 1 Z 1 und 2 in der Fassung der Z 24, 472a Abs\. 2 in der Fassung der Z 60, 62 und 64, 474 Abs\. 1 zweiter und letzter Satz in der Fassung Z 66 und 68 und 479d Abs\. 2 Z 1 und 2 in der Fassung Z 70 und 72,
->
->> `2.` die §§ 14f Abs\. 1 Z 1 und 2 in der Fassung der Z 1 und 3, 27 Abs\. 1 Z 1 in der Fassung der Z 5, 29 Abs\. 1 in der Fassung der Z 7 GSVG,
->
->> `3.` die §§ 24 Abs\. 1 in der Fassung der Z 1 sowie 26 Abs\. 1 in der Fassung der Z 3 BSVG,
->
->> `4.` die §§ 20 Abs\. 1 in der Fassung der Z 1 sowie 22 Abs\. 1 in der Fassung der Z 4 und Abs\. 6 sowie 70 B\-KUVG,
->
->> `5.` die §§ 32 Abs\. 1 und 42 Abs\. 1 jeweils in der Fassung der Z 1 AlVG,
->
->> `6.` § 7 Abs\. 1 Z 2 in der Fassung der Z 1 SUG,
->
->> `7.` § 53 Abs\. 1 in der Fassung der Z 1 HVG,
->
->> `8.` § 74 Abs\. 1 in der Fassung der Z 1 KOVG,
->
->> `9.` § 39j Abs\. 6 in der Fassung der Z 1 FLAG,
->
-> &nbsp; jeweils in der Fassung des Bundesgesetzes BGBl\. I Nr\. 101/2007, mit dem Ablauf des 31\. Dezember 2008 außer Kraft und diese sowie § 472a Abs\. 3 dieses Bundesgesetzes und die §§ 22 Abs\. 3 und 151 Abs\. 4 B\-KUVG jeweils in der am 31\. Dezember 2007 geltenden Fassung wieder in Kraft\. Diese Verordnung bedarf der Zustimmung des Hauptausschusses des Nationalrates\.
-
-> `(8a)` Der Fortlauf der Verjährung von Ansprüchen nach den §§ 351c Abs\. 7 Z 2, 351g Abs\. 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 45/2003 und des § 609 Abs\. 19 wird rückwirkend mit 1\. Jänner 2004 bis zum Ablauf des Jahres 2013 gehemmt\.
-
-> `(9)` Die Richtsätze nach § 293 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 101/2007 sind abweichend von § 293 Abs\. 2 in Verbindung mit § 108 Abs\. 6 für das Kalenderjahr 2008 nicht zu vervielfachen\.
-
-> `(10)` Abweichend von § 108h Abs\. 1 erster Satz sind im Kalenderjahr 2008 alle Pensionen, die mehr als 746,99 € monatlich betragen, nicht mit dem Anpassungsfaktor zu vervielfachen, sondern wie folgt zu erhöhen: Beträgt die Pension monatlich
->
->> `1.` mehr als 746,99 € bis zu 1 050 €, so ist sie um 21 € zu erhöhen;
->
->> `2.` mehr als 1 050 € bis zu 1 700 €, so ist sie mit dem Faktor 1,020 zu vervielfachen;
->
->> `3.` mehr als 1 700 € bis zu 2 161,50 €, so ist sie um einen Prozentsatz zu erhöhen, der zwischen den genannten Werten von 2,0 % auf 1,7 % linear absinkt;
->
->> `4.` mehr als 2 161,50 €, so ist sie um 36,75 € zu erhöhen\.
-
-> `(11)` Bezieht eine Person zwei oder mehrere Pensionen, die jeweils den Richtsatz nach § 293 Abs\. 1 lit\. a sublit\. bb in der Fassung des Bundesgesetzes BGBl\. I Nr\. 101/2007 nicht erreichen, so ist ausschließlich die Summe dieser Pensionen nach Abs\. 10 zu erhöhen, wobei der Erhöhungsbetrag auf die einzelne Pension im Verhältnis der Pensionen zueinander aufzuteilen ist\.
-
-> `(12)` Abweichend von § 108h Abs\. 1 erster Satz hat der Bundesminister für Soziales und Konsumentenschutz in der Verordnung nach § 108 Abs\. 5 für die Kalenderjahre 2009 und 2010 die Pensionsanpassung so vorzunehmen, dass
->
->> `1.` jene Pensionen, die 60 % der Höchstbeitragsgrundlage nach § 45 nicht überschreiten, für das Kalenderjahr 2009 mit dem Faktor 1,034 und für das Kalenderjahr 2010 mit dem Anpassungsfaktor zu vervielfachen sind und
->
->> `2.` alle übrigen Pensionen mit einem Fixbetrag zu erhöhen sind, der der Erhöhung von 60 % der Höchstbeitragsgrundlage nach § 45 mit dem Faktor 1,034 für das Kalenderjahr 2009 und mit dem Anpassungsfaktor für das Kalenderjahr 2010 entspricht\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-634-asvg--schlussbestimmungen-zu-art-4-des-bundesgesetzes-bgbl-i-nr-1012007-68-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=634) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_797_TextContainer_797) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-634-asvg--schlussbestimmungen-zu-art-4-des-bundesgesetzes-bgbl-i-nr-1012007-68-novelle) \]
 
@@ -18984,9 +17645,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 635 ASVG — Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 91/2008
 
-> `(1)` Die §§ 67a bis 67d samt Überschriften, 112a samt Überschrift, 545 Abs\. 8 und 625 Abs\. 12 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 91/2008 treten zu dem Zeitpunkt in Kraft, in dem der Bundesminister für Soziales und Konsumentenschutz durch Verordnung feststellt, dass die zur Verfügung stehenden technischen Mittel für die Vollziehung der Bestimmungen über die AuftraggeberInnenhaftung für die von den Krankenversicherungsträgern einzuhebenden Beiträge und Umlagen geeignet sind\. Bis zur Erlassung dieser Verordnung hat der Hauptverband dem Bundesminister für Soziales und Konsumentenschutz ab 1\. Jänner 2009 monatlich einen Bericht über die technische Umsetzung der Bestimmungen über diese AuftraggeberInnenhaftung zu erstatten\.
-
-> `(2)` Anträge auf Aufnahme in die HFU\-Liste nach § 67b Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 91/2008 können bereits ab 1\. November 2008 gestellt werden\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-635-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-912008) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=635) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_798_TextContainer_798) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-635-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-912008) \]
 
@@ -19022,9 +17681,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 637 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 129/2008
 
-> `(1)` Die §§ 108h Abs\. 1, 607 Abs\. 12 und 14 sowie 636 Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 129/2008 treten rückwirkend mit 1\. August 2008 in Kraft\.
-
-> `(2)` Werden die Anspruchsvoraussetzungen für die vorzeitige Alterspension \(vorzeitige Knappschaftsalterspension\) nach § 607 Abs\. 12 erst unter Berücksichtigung der im vierten und fünften Teilstrich dieser Bestimmung in der Fassung des Bundesgesetzes BGBl\. I Nr\. 129/2008 genannten Ersatzzeiten als Beitragszeiten erfüllt, so fällt die Leistung abweichend von § 86 Abs\. 3 Z 2 jedenfalls auch dann mit dem Monatsersten an, an dem die Voraussetzungen erfüllt werden oder der der Erfüllung der Voraussetzungen nachfolgt, frühestens jedoch mit 1\. August 2008, wenn die Leistung bis zum Ablauf des 31\. Dezember 2008 beantragt wird\. Die Rechtskraft bereits ergangener Entscheidungen steht dem nicht entgegen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-637-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1292008) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=637) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_800_TextContainer_800) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-637-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1292008) \]
 
@@ -19092,9 +17749,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 642 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 33/2009
 
-> `(1)` § 31 Abs\. 3 Z 12, die Überschrift zu Abschnitt V, Sechster Teil, die Überschrift zu § 351c sowie die §§ 351c Abs\. 1, 5 und 7 Z 1, 351d Abs\. 1 letzter Satz, 351e Abs\. 1 erster Satz und Abs\. 2 erster Satz, 351i Abs\. 1 Z 1 lit\. a sowie Abs\. 3 und 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 33/2009 treten rückwirkend mit 1\. Jänner 2009 in Kraft\.
-
-> `(2)` Auf Anträge auf Aufnahme in den Erstattungskodex und auf sonstige Anträge nach der Verfahrensordnung zur Herausgabe des Erstattungskodex nach § 351g, die bis zum Ablauf des 31\. Dezember 2008 beim Hauptverband eingelangt sind, ist die am 31\. Dezember 2007 geltende Rechtslage anzuwenden\. Dies gilt auch für sonstige Verfahren nach dieser Verfahrensordnung, die bis zum Ablauf des 31\. Dezember 2008 eingeleitet wurden\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-642-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-332009) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=642) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_805_TextContainer_805) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-642-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-332009) \]
 
@@ -19102,10 +17757,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 643 ASVG — Schlussbestimmungen zu Art. 48 des Budgetbegleitgesetzes 2009, BGBl. I Nr. 52
 
-> `(1)` § 447a Abs\. 5 tritt mit Ablauf des 30\. September 2009 außer Kraft\.
-> *\(Anm\.: Abs\. 2 aufgehoben durch VfGH, BGBl\. I Nr\. 85/2010\)*
-
-> `(3)` Ab dem Geschäftsjahr 2009 sind die Mittel der pauschalen Beihilfe nach § 1 Abs\. 2 GSBG in der Höhe von 4,3 % der Krankenversicherungsaufwendungen, die bei Versicherungsträgern mit negativem Reinvermögen über die vollständige Abgeltung der nicht abziehbaren Vorsteuer hinausgehen \(Überdeckung\), vom Hauptverband auf diese Krankenversicherungsträger entsprechend der jeweiligen nicht abziehbaren Vorsteuer des Abrechnungsjahres zu verteilen; bei Versicherungsträgern mit positivem Reinvermögen ist eine derartige Überdeckung vom Hauptverband auf die Krankenversicherungsträger entsprechend deren negativem Reinvermögen des Abrechnungsjahres zu verteilen\. Bei der vorläufigen monatlichen Weiterleitung ist vom negativen Reinvermögen des zuletzt abgeschlossenen Geschäftsjahres auszugehen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-643-asvg--schlussbestimmungen-zu-art-48-des-budgetbegleitgesetzes-2009-bgbl-i-nr-52) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=643) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_806_TextContainer_806) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-643-asvg--schlussbestimmungen-zu-art-48-des-budgetbegleitgesetzes-2009-bgbl-i-nr-52) \]
 
@@ -19113,27 +17765,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 644 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 83/2009 (69. Novelle)
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. August 2009 die §§ 4 Abs\. 1 Z 6 sowie Abs\. 4 lit\. c, 5 Abs\. 1 Z 11 und 13, 7 Z 1 lit\. f, 8 Abs\. 1 Z 1 lit\. c und Z 5, 12 Abs\. 6, 17 Abs\. 5 lit\. d, 41a Abs\. 4, 44 Abs\. 1 letzter Satz, 49 Abs\. 3 Z 27 und 28, 56a Abs\. 1, 68a Abs\. 2, 77 Abs\. 6 und 8, 89a, 122 Abs\. 2 Z 2 lit\. a, 143 Abs\. 1 Z 6, 225 Abs\. 1 Z 1, 227 Abs\. 1 Z 7 und 8, 234 Abs\. 2, 235 Abs\. 3 lit\. c, 238 Abs\. 2 Z 2, 248c Abs\. 1, 251a Abs\. 4 lit\. b, 265 Abs\. 1, 306 Abs\. 4, 360 Abs\. 3 und 6, 434 Abs\. 2, 459c Abs\. 1 und 3, 502 Abs\. 6 sowie 585 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 83/2009;
->
->> `2.` rückwirkend mit 1\. Jänner 2009 die §§ 31b Abs\. 2 und 2a, 49 Abs\. 3 Z 1 letzter Satz sowie 292 Abs\. 4 lit\. o und p in der Fassung des Bundesgesetzes BGBl\. I Nr\. 83/2009;
->
->> `3.` rückwirkend mit 1\. Oktober 2008 die §§ 5 Abs\. 1 Z 3c, 8 Abs\. 1 Z 2 lit\. i, 14 Abs\. 1 Z 12 und 13, 36 Abs\. 1 Z 17 und 18, 44 Abs\. 1 Z 5 sowie 52 Abs\. 4 Z 4 und 5 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 83/2009;
->
->> `4.` rückwirkend mit 1\. Jänner 2008 § 49 Abs\. 3 Z 18 lit\. b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 83/2009;
->
->> `5.` rückwirkend mit 1\. Jänner 2005 die §§ 8 Abs\. 1a und 506a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 83/2009\.
-
-> `(2)` Die §§ 77 Abs\. 9 und 294 Abs\. 5 treten mit Ablauf des 31\. Juli 2009 außer Kraft\.
-
-> `(3)` § 225 Abs\. 1 Z 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 83/2009 ist erstmals für Beitragszeiträume ab 1\. August 2004 anzuwenden\.
-
-> `(4)` Für Personen, die erst auf Grund des § 502 Abs\. 6 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 83/2009 Beiträge nachentrichten können, ist § 502 Abs\. 4 so anzuwenden, dass auch für die Zeit nach dem 31\. März 1959 Beiträge für insgesamt höchstens 180 Versicherungsmonate nachentrichtet werden können\.
-
-> `(5)` Für Personen, die vor dem 1\. Jänner 1955 geboren sind, ist § 506a in der am 31\. Dezember 2004 geltenden Fassung weiterhin anzuwenden\.
-
-> `(6)` § 625 Abs\. 12 Z 3 und 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 83/2009 tritt mit dem Monatsersten in Kraft, der der zustimmenden Kenntnisnahme des Sanierungskonzeptes nach § 1 des Bundesgesetzes betreffend den Verzicht auf Bundesforderungen gegenüber Gebietskrankenkassen, BGBl\. I Nr\. 83/2009, durch die Bundesregierung folgt\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-644-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-832009-69-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=644) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_807_TextContainer_807) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-644-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-832009-69-novelle) \]
 
@@ -19141,23 +17773,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 645 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 84/2009 (70. Novelle)
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. August 2009 die §§ 8 Abs\. 1 Z 3 lit\. g und j, 51d Abs\. 3 Z 1 und 3, 108g Abs\. 6 erster Satz, 120 Abs\. 1, 120a samt Überschrift, 122 Abs\. 3a und 4 dritter Satz, 123 Abs\. 7a, 7b, 9 und 10, 124 Abs\. 1 letzter Satz, 134 Abs\. 3, 153 Abs\. 3, 162 Abs\. 5 Z 3, 176 Abs\. 3, 447f Abs\. 7 Z 3, Abs\. 10 und 11 Z 2, 447h Abs\. 4 erster Satz, 453 Abs\. 3 sowie 456 Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 84/2009;
->
->> `2.` mit 1\. Jänner 2010 § 49 Abs\. 3 Z 15;
->
->> `3.` mit 1\. Juli 2010 die §§ 338 Abs\. 1 und 348 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 84/2009;
->
->> `4.` rückwirkend mit 1\. September 2007 § 16 Abs\. 2 Z 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 84/2009;
->
->> `5.` rückwirkend mit 1\. Juli 2006 die §§ 447f Abs\. 3 Z 4 und Abs\. 9 sowie 447h Abs\. 2 Z 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 84/2009\.
-
-> `(2)` § 51d Abs\. 3 Z 4 tritt mit Ablauf des 31\. Juli 2009 außer Kraft\.
-
-> `(3)` Der Hauptverband hat bis zum 1\. Juli 2010 eine kompilierte Fassung aller zu diesem Zeitpunkt geltenden Gesamtverträge sowie allfälliger Änderungen und Zusatzvereinbarungen im Internet zu veröffentlichen\.
-
-> `(4)` Der Ausschluss nach § 123 Abs\. 10 aufgrund eines Pensionsbezuges gilt nicht für Personen, die am 31\. Juli 2009 als Angehörige anspruchsberechtigt sind, solange sich der maßgebliche Sachverhalt nicht ändert\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-645-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-842009-70-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=645) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_808_TextContainer_808) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-645-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-842009-70-novelle) \]
 
@@ -19173,13 +17789,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 647 ASVG — Schlussbestimmungen zu Art. 1 Teil 1 des Bundesgesetzes BGBl. I Nr. 147/2009 (71. Novelle)
 
-> `(1)` Die §§ 31 Abs\. 5 Z 10 und 13, 148 Z 6, 149 Abs\. 2, 340a, 342 Abs\. 1 Z 1, 1a, 3, 4, 9 und 10, Abs\. 2 und 2a, 343 Abs\. 1a und 1b, Abs\. 2 Z 6 und 7 sowie Abs\. 2 vorletzter Satz, 345a Abs\. 2, 348g, 349 Abs\. 2b und 3, 349a, 446 Abs\. 1, 3 Z 1 und Abs\. 4, 448 Abs\. 3 in der Fassung der Z 27 und 449 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 147/2009 treten mit 1\. Jänner 2010 in Kraft\.
-
-> `(2)` Die §§ 442 Abs\. 5, 448 Abs\. 1 und 4, 448 Abs\. 3 in der Fassung der Z 28, 449 Abs\. 2 und 4, 450 Abs\. 1 und 451 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 147/2009 treten mit 1\. März 2010 in Kraft\.
-
-> `(3)` § 448 Abs\. 2 und 5 tritt mit Ablauf des 28\. Februar 2010 außer Kraft\.
-
-> `(4)` § 342 Abs\. 1 Z 10 ist auf Einzelverträge von Vertrags\(zahn\)ärztinnen und –\(zahn\)ärzten \(Vertrags\-Gruppenpraxen\) und Dentisten/Dentistinnen anzuwenden, die ab dem 1\. Jänner 2010 geschlossen werden\. Für vor diesem Zeitpunkt geschlossene Einzelverträge sind in den Gesamtverträgen stufenweise Übergangsregelungen unter Berücksichtigung von Lebensalter und Vertrauensschutz vorzusehen\. Kommt bis zum Ablauf des 31\. Dezember 2010 im jeweiligen Gesamtvertrag keine Einigung über eine Altersgrenze zustande, so gilt das vollendete 70\. Lebensjahr als Altersgrenze\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-647-asvg--schlussbestimmungen-zu-art-1-teil-1-des-bundesgesetzes-bgbl-i-nr-1472009-71-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=647) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_810_TextContainer_810) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-647-asvg--schlussbestimmungen-zu-art-1-teil-1-des-bundesgesetzes-bgbl-i-nr-1472009-71-novelle) \]
 
@@ -19221,9 +17831,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 651 ASVG — Schlussbestimmungen zu Art. 3 des Bundesgesetzes BGBl. I Nr. 63/2010
 
-> `(1)` Die §§ 75, 75a samt Überschrift, 292 Abs\. 4 lit\. c und 293 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 63/2010 treten mit 1\. September 2010 in Kraft\.
-
-> `(2)` Der Bundesminister für Gesundheit überweist bis spätestens 31\. Dezember 2010 an den Hauptverband als Vorauszahlung einen Betrag von 7 Millionen Euro für die Unterschiedsbeträge nach § 75a Abs\. 1 und 2 der Monate September bis Dezember 2010\. Die Endabrechnung erfolgt nach Vorliegen des endgültigen Gebarungsergebnisses, spätestens bis zum 31\. Oktober 2011\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-651-asvg--schlussbestimmungen-zu-art-3-des-bundesgesetzes-bgbl-i-nr-632010) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=651) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_814_TextContainer_814) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-651-asvg--schlussbestimmungen-zu-art-3-des-bundesgesetzes-bgbl-i-nr-632010) \]
 
@@ -19231,31 +17839,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 652 ASVG — Schlussbestimmungen zu Art. 4 des Bundesgesetzes BGBl. I Nr. 61/2010 (72. Novelle)
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. September 2010 die §§ 8 Abs\. 1 Z 3 lit\. l, 10 Abs\. 5 erster Satz, 28 Z 2 lit\. a, 32h samt Überschrift, 37 erster Satz, 74 Abs\. 5, 120, 125 Abs\. 1, 131 Abs\. 1 und 5, 138 Abs\. 1, 162 Abs\. 1 und 3, 175 Abs\. 4, 177 Abs\. 3, 181b samt Überschrift, 192 samt Überschrift, 195 Abs\. 7, 203 Abs\. 2, 204 Abs\. 4, 210 Abs\. 1 erster Satz, 212 Abs\. 3, 319a Abs\. 2, 335 Abs\. 3, die Überschrift des Abschnittes II des sechsten Teiles und die Überschriften des ersten, zweiten und dritten Unterabschnittes, 342 Abs\. 2 und 2a Z 4, 342a samt Überschrift, 343 Abs\. 1, 1a, 1b und 1c sowie Abs\. 2 bis 4, 343d, 344 Abs\. 2 und 3, 345 Abs\. 1, 347 Abs\. 4a erster und zweiter Satz, 349 Abs\. 2c und 363 Abs\. 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 61/2010;
->
->> `2.` rückwirkend mit 1\. Jänner 2010 die §§ 104 Abs\. 5, 199 Abs\. 2, 214 Abs\. 4, 216, 346 Abs\. 6 und 351h Abs\. 5 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 61/2010;
->
->> `3.` rückwirkend mit 20\. April 2002 die §§ 23 Abs\. 6, 133 Abs\. 5, 144 Abs\. 4, 339 Abs\. 1, 460e und 538d Abs\. 2 Z 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 61/2010\.
-
-> `(2)` Die §§ 342 Abs\. 3 und 343 Abs\. 5 treten mit Ablauf des 31\. August 2010 außer Kraft\.
-
-> `(3)` § 347 Abs\. 4a dritter und vierter Satz treten mit dem Zeitpunkt in Kraft, den der Bundesminister für Gesundheit durch Verordnung festsetzt, frühestens jedoch mit 1\. Jänner 2011\. Die Erlassung der Verordnung ist daran gebunden, dass die Österreichische Ärztekammer oder der Hauptverband darlegen, dass den Kommissionen nach den §§ 344, 345, 345a und 346 für die Beurteilung der Einhaltung der Vertragspflichten keine geeigneten Parameter zur Verfügung stehen\.
-
-> `(4)` Der Bundesminister für Gesundheit hat dafür zu sorgen, dass die Österreichische Ärztekammer bei der Entwicklung sektorenübergreifender Abrechnungsmodelle für den ambulanten Bereich eingebunden wird\. Die Gruppenpraxen sind verpflichtet, Art und Umfang der Abrechnung ihrer Leistungen spätestens mit Ablauf des 31\. Dezember 2013 auf Grundlage einer einheitlichen elektronischen Diagnosen\- und Leistungsdokumentation durchzuführen\.
-
-> `(5)` § 125 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 61/2010 ist auf jene Versicherungsfälle anzuwenden, die nach dem 1\. November 2010 eingetreten sind\. Der Hauptverband hat jeweils zum 31\. Oktober der Jahre 2011 bis 2013 eine Evaluierung der Aufwendungen, die durch die Neubildung der Bemessungsgrundlage für freie Dienstnehmer/Dienstnehmerinnen nach § 125 Abs\. 1 entstanden sind, vorzunehmen\. Der jährliche Evaluierungsbericht ist dem Bundesminister für Gesundheit vorzulegen\.
-
-> `(6)` Als Übergangsbestimmungen für das Vertragspartnerrecht gilt Folgendes:
->
->> `1.` Einzelverträge mit einer Gruppenpraxis dürfen – abgesehen von der Bestimmung der Z 2 – nach In\-Kraft\-Treten des § 342a nur auf Grundlage von Gesamtverträgen nach § 342a Abs\. 1 bis 4 oder eines Sonder\-Einzelvertrages nach einheitlichen Grundsätzen nach § 342a Abs\. 5 abgeschlossen werden\. Gesamtverträge nach § 342a Abs\. 1 bis 4 haben auch Regelungen über die Auswirkungen solcher Gesamtverträge auf bestehende Einzelverträge von Gruppenpraxen zu enthalten\.
->
->> `2.` Einzelverträge mit einer Gruppenpraxis in der Rechtsform einer offenen Gesellschaft dürfen nach In\-Kraft\-Treten des § 342a so lange auf Grundlage von zu diesem Zeitpunkt geltenden Gesamtverträgen abgeschlossen werden, bis Gesamtverträge nach § 342a Abs\. 1 bis 4 abgeschlossen sind\.
->
->> `3.` Im Falle des Wechsels der Rechtsform einer Gruppenpraxis in die Rechtsform einer Gesellschaft mit beschränkter Haftung erlischt der Einzelvertrag, wenn kein Gruppenpraxis\-Gesamtvertrag nach § 342a Abs\. 1 bis 4 anwendbar ist\.
-
-> `(7)` Die Bestellung der Vorsitzenden der paritätischen Schiedskommissionen hat längstens bis zum 1\. Jänner 2011 zu erfolgen\. Bis zum Zeitpunkt der Bestellung hat die jeweilige paritätische Schiedskommission ihre Zuständigkeit in der bisherigen Zusammensetzung wahrzunehmen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-652-asvg--schlussbestimmungen-zu-art-4-des-bundesgesetzes-bgbl-i-nr-612010-72-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=652) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_815_TextContainer_815) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-652-asvg--schlussbestimmungen-zu-art-4-des-bundesgesetzes-bgbl-i-nr-612010-72-novelle) \]
 
@@ -19263,29 +17847,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 653 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 62/2010 (73. Novelle)
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. August 2010 die §§ 4 Abs\. 4 lit\. a, 5 Abs\. 1 Z 15 und 16, 58 Abs\. 5, 64 Abs\. 1, 69 Abs\. 2, 70 Abs\. 4, 91 Abs\. 1 und 1a, 107 Abs\. 4, 311 Abs\. 1 bis 3 und 5 bis 9, 312, 344 Abs\. 3, 347 Abs\. 4 und 6, 348f Abs\. 1, 357 samt Überschrift, 368 Abs\. 1, 415 Abs\. 2a Z 2, 417 Abs\. 1 und 607 Abs\. 11 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 62/2010;
->
->> `2.` rückwirkend mit 1\. Juli 2010 § 351b samt Überschrift in der Fassung des Bundesgesetzes BGBl\. I Nr\. 62/2010;
->
->> `3.` rückwirkend mit 1\. Jänner 2010 die §§ 31a Abs\. 7, 222 Abs\. 1 Z 3 lit\. a, 257, 360 Abs\. 6, 459a Abs\. 1 Z 2, 459b Abs\. 1, 459c Überschrift, Abs\. 1 Z 1, Abs\. 2 und 4 sowie 460d in der Fassung des Bundesgesetzes BGBl\. I Nr\. 62/2010;
->
->> `4.` rückwirkend mit 1\. Jänner 2009 § 292 Abs\. 4 lit\. p in der Fassung des Bundesgesetzes BGBl\. I Nr\. 62/2010;
->
->> `5.` rückwirkend mit 1\. Jänner 2005 die §§ 8 Abs\. 1a Z 2, 238 Abs\. 3 Z 4, 243 Abs\. 1 Z 1 und Abs\. 2 sowie 308 Abs\. 1a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 62/2010\.
-
-> `(2)` § 7 Z 4 lit\. b tritt rückwirkend mit Ablauf des 31\. Dezember 2004 außer Kraft\.
-
-> `(3)` Auf Personen, die vor dem 1\. Jänner 1955 geboren sind, sind die §§ 238 Abs\. 3 Z 4 sowie 243 Abs\. 1 Z 1 und Abs\. 2 in der am 31\. Dezember 2004 geltenden Fassung weiterhin anzuwenden\.
-
-> `(4)` § 313 in der am 31\. Juli 2010 geltenden Fassung ist weiterhin anzuwenden, wenn
->
->> `1.` der Austritt aus dem pensionsversicherungsfreien Dienstverhältnis vor Ablauf des Tages der Kundmachung des zitierten Bundesgesetzes erklärt wird und
->
->> `2.` diese Erklärung innerhalb von 6 Monaten nach Kundmachung des zitierten Bundesgesetzes wirksam wird, es sei denn, der Austritt wurde bereits vor dem 1\. Juni 2010 erklärt\.
-
-> `(5)` Auf das Verfahren der Versicherungsträger ist § 18 AVG in Verbindung mit § 357 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 62/2010 bis zum Ablauf des 31\. Dezember 2010 so anzuwenden, dass schriftliche Ausfertigungen von elektronisch erstellten Erledigungen oder in Form von elektronischen Dokumenten keiner Unterschrift, Beglaubigung oder Amtssignatur bedürfen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-653-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-622010-73-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=653) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_816_TextContainer_816) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-653-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-622010-73-novelle) \]
 
@@ -19317,19 +17879,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 657 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 102/2010 (74. Novelle)
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. Jänner 2011 die §§ 8 Abs\. 1 Z 3 lit\. m, 10 Abs\. 2 und 5, 12 Abs\. 1, 28 Z 2 lit\. i, 31a Abs\. 4, 35 Abs\. 2, 74 Abs\. 2a und 3, 82 Abs\. 1, 122 Abs\. 2, 175 Abs\. 5 Z 3, 181 Abs\. 4 und 335 Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 102/2010;
->
->> `2.` mit 1\. Juli 2011 die §§ 31 Abs\. 5 Z 11, 58 Abs\. 2 und 129 samt Überschrift in der Fassung des Bundesgesetzes BGBl\. I Nr\. 102/2010;
->
->> `3.` rückwirkend mit 1\. September 2010 die §§ 343 Schlussteil, 343d Abs\. 1 Z 3, 347 Abs\. 1 und 2 sowie § 652 Abs\. 7 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 102/2010\.
-
-> `(2)` Die Verordnung des Bundesministers für Gesundheit über die Geschäftsordnungen der Schiedskommissionen \(Schiedskommissionsverordnung 2010 – SchKV 2010\) kann in Umsetzung der §§ 344 und 652 ASVG in der Fassung des Bundesgesetzes über die Stärkung der ambulanten öffentlichen Gesundheitsversorgung, BGBl\. I Nr\. 61/2010, rückwirkend mit 1\. September 2010 in Kraft treten\.
-
-> `(3)` Der Bundesminister für Arbeit, Soziales und Konsumentenschutz hat im Einvernehmen mit dem Bundesminister für Gesundheit durch Verordnung festzustellen, ab wann die technischen Mittel für den Einbehalt bzw\. die Einhebung von Beiträgen für ausländische Renten \(§ 73a\) zur Verfügung stehen\. Zielsetzung dabei ist, dass Krankenversicherungsbeiträge im Sinne des § 73a ehestmöglich, tunlichst jedoch erstmals für ausländische Renten, die ab Juli 2011 ausgezahlt werden, einzubehalten bzw\. einzuheben sind\.
-
-> `(4)` Ausgenommen bei Ausgleichszulagenbezieher/inne/n obliegt es abweichend von § 73a Abs\. 2 erster, zweiter, vierter und fünfter Satz den Krankenversicherungsträgern, hinsichtlich jener inländischen Pensionsbezieher/innen, deren Stichtag vor dem 1\. Jänner 2011 liegt, auf Basis der von den Pensionsversicherungsträgern zur Verfügung gestellten Datenlage betreffend Bezieher/innen ausländischer Pensionen festzustellen, in welcher Höhe ein Krankenversicherungsbeitrag von der ausländischen Rente zu entrichten ist\. Die Krankenversicherungsträger haben dem für den Einbehalt zuständigen Pensionsversicherungsträger die Höhe des einzubehaltenden Betrages mitzuteilen\. Erstmalige Sachverhaltsfeststellungen betreffend Pensionen mit Stichtag vor dem 1\. Jänner 2011, die zum 31\. Dezember 2011 noch nicht abgeschlossen sind, sind vom Krankenversicherungsträger weiter zu führen\. Ab 1\. Jänner 2012 sind sämtliche abgeschlossenen Sachverhaltsfeststellungen vom zuständigen Pensionsversicherungsträger zu übernehmen und allfällige Veränderungen von diesem festzustellen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-657-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1022010-74-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=657) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_820_TextContainer_820) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-657-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1022010-74-novelle) \]
 
@@ -19337,61 +17887,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 658 ASVG — Schlussbestimmungen zu Art. 115 Teil 1 des Budgetbegleitgesetzes 2011, BGBl. I Nr. 111/2010 (75. Novelle)
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. Jänner 2011 die §§ 5 Abs\. 1 Z 11, 8 Abs\. 1, 11 Abs\. 3, 17 Abs\. 5 lit\. d, 31 Abs\. 5 Z 27, 32c, 36 Abs\. 1 Z 6, 44 Abs\. 1 Z 7 und 15a, 47, 52 Abs\. 3, 53 Abs\. 3 lit\. c, 56a Abs\. 3, 59 Abs\. 1, 60 Abs\. 2, 76b Abs\. 3, 79c samt Überschrift, 105 Abs\. 1, 3, 3a und 4, 108h Abs\. 1, 154a Abs\. 7, 155 Abs\. 3, 222 Abs\. 1 Z 2 und Abs\. 3, 227 Abs\. 1 und 3, 251a Abs\. 1, 253e samt Überschrift, 254 Abs\. 1 Z 1 bis 4, 255 Abs\. 2 bis 4, 270a samt Überschrift, 271 Abs\. 1 Z 1 bis 4, 273 Abs\. 1 und 2, 279 Abs\. 1 Z 1 bis 4, 292 Abs\. 1 und 8, 300 Abs\. 1 und 3, 301 Abs\. 1, 302 Abs\. 1 Z 1a und Abs\. 4, 305, 306 Abs\. 1, 307a Abs\. 1, 307d Abs\. 6, 361 Abs\. 1, 362 Abs\. 2 und 3, 367 Abs\. 1 und 617 Abs\. 13 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 111/2010;
->
->> `2.` mit 1\. Februar 2011 § 607 Abs\. 12 in der Fassung des Art\. 115 Teil 1 Z 71 des Bundesgesetzes BGBl\. I Nr\. 111/2010;
->
->> `3.` mit 1\. Jänner 2012 die §§ 261 Abs\. 4 und 284 Z 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 111/2010\.
-
-> `(2)` Es treten außer Kraft:
->
->> `1.` mit Ablauf des 31\. Dezember 2010 die §§ 8 Abs\. 1 Z 5, 14 Abs\. 1 Z 8, 254 Abs\. 2, 271 Abs\. 2, 279 Abs\. 2 und 300 Abs\. 2;
->
-> &nbsp; *\(Anm\.: Z 2 aufgehoben durch BGBl\. I Nr\. 35/2012\)*
-
-> `(3)` § 52 Abs\. 4 Z 3 ist für die Kalenderjahre 2011 bis 2015 so anzuwenden, dass an die Stelle des Prozentsatzes von 75 der Prozentsatz von 72 tritt\.
-
-> `(4)` § 73 Abs\. 2 ist für die Kalenderjahre 2010 bis 2015 so anzuwenden, dass an die Stelle des Prozentsatzes von 318 \(322\) folgende Prozentsätze treten:
->
->> `1.` im Jahr 2010 der Prozentsatz von 290,
->
->> `2.` im Jahr 2011 der Prozentsatz von 297,
->
->> `3.` im Jahr 2012 der Prozentsatz von 289,
->
->> `4.` im Jahr 2013 der Prozentsatz von 297,
->
->> `5.` im Jahr 2014 der Prozentsatz von 303,
->
->> `6.` im Jahr 2015 der Prozentsatz von 310\.
->
-> &nbsp; *\(Anm\.: Z 7 aufgehoben durch BGBl\. I Nr\. 118/2015\)*
-
-> `(5)` Die §§ 76b Abs\. 3 und 227 Abs\. 3 in der am 31\. Dezember 2010 geltenden Fassung sind weiterhin anzuwenden, wenn der Antrag auf Beitragsentrichtung vor Ablauf des Tages der Kundmachung des Bundesgesetzes BGBl\. I Nr\. 111/2010 gestellt wird\.
-
-> `(6)` Abweichend von § 108h Abs\. 1 erster Satz sind im Kalenderjahr 2011 nur jene Pensionen, die den Betrag von 2 310 € monatlich nicht übersteigen, zu erhöhen\. Beträgt die Pension monatlich
->
->> `1.` nicht mehr als 2 000 €, so ist sie mit dem Anpassungsfaktor zu vervielfachen;
->
->> `2.` mehr als 2 000 € bis zu 2 310 €, so ist sie um einen Prozentsatz zu erhöhen, der zwischen den genannten Werten von 1,2 % auf 0,0 % linear absinkt\.
-
-> `(7)` Auf Personen, die Anspruch auf Invaliditätspension nach § 254 Abs\. 2 oder auf Berufsunfähigkeitspension nach § 271 Abs\. 2 oder auf Knappschaftsvollpension nach § 279 Abs\. 2 haben, ist weiterhin die am 31\. Dezember 2010 geltende Rechtslage anzuwenden, wenn der Stichtag vor dem 1\. Jänner 2011 liegt\.
-
-> `(7a)` Abweichend von § 292 Abs\. 8 dritter Satz in der Fassung des Bundesgesetzes BGBl\. I Nr\. 111/2010 gilt für die Ermittlung der Ausgleichszulage als monatliches Einkommen
->
->> `1.` im Jahr 2011 ein Betrag von 19 %,
->
->> `2.` im Jahr 2012 ein Betrag von 18 %,
->
->> `3.` im Jahr 2013 ein Betrag von 16 %
->
-> &nbsp; des jeweiligen Richtsatzes\.
-
-> `(8)` Auf Personen, die die Voraussetzungen für den Anspruch auf eine vorzeitige Alterspension nach § 607 Abs\. 12 bis zum Ablauf des 31\. Dezember 2010 erfüllt haben, ist die zitierte Bestimmung in der am 31\. Dezember 2010 geltenden Fassung weiterhin anzuwenden\.
-
-> `(9)` Beiträge, die nach § 607 Abs\. 12 erster Satz fünfter Teilstrich entrichtet wurden, damit Ersatzzeiten nach § 116 Abs\. 1 Z 1 GSVG und § 107 Abs\. 1 Z 1 BSVG als Beitragsmonate berücksichtigt werden, sind der versicherten Person oder den anspruchsberechtigten Hinterbliebenen in dem Umfang vom leistungspflichtigen Versicherungsträger zu erstatten, als die Berücksichtigung dieser Ersatzzeiten als Beitragsmonate nicht eintritt\. Die Erstattung hat von Amts wegen innerhalb eines Jahres nach Eintritt der Rechtskraft der Entscheidung über die Zuerkennung der Leistung zu erfolgen\. Die Beiträge sind entsprechend ihrer zeitlichen Lagerung mit den Aufwertungsfaktoren \(§ 108 Abs\. 4\) zum Stichtag der zuerkannten Leistung aufzuwerten\. Mit der Erstattung erlöschen alle Ansprüche und Berechtigungen, die auf der Beitragsentrichtung beruhen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-658-asvg--schlussbestimmungen-zu-art-115-teil-1-des-budgetbegleitgesetzes-2011-bgbl-i-nr-1112010-75-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=658) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_821_TextContainer_821) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-658-asvg--schlussbestimmungen-zu-art-115-teil-1-des-budgetbegleitgesetzes-2011-bgbl-i-nr-1112010-75-novelle) \]
 
@@ -19399,9 +17895,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 659 ASVG — Schlussbestimmungen zu Art. 115 Teil 2 des Budgetbegleitgesetzes 2011, BGBl. I Nr. 111/2010 (75. Novelle)
 
-> `(1)` Die §§ 89a, 122 Abs\. 2 Z 2 lit\. a, 143 Abs\. 1 Z 6, 176 Abs\. 1 Z 8 und 421 Abs\. 1 bis 5 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 111/2010 treten mit 1\. Jänner 2011 in Kraft\.
-
-> `(2)` Für Entsendungen ab 1\. Jänner 2011 bis 30\. Juni 2011 ist § 421 Abs\. 1 bis 5 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 131/2006 anzuwenden\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-659-asvg--schlussbestimmungen-zu-art-115-teil-2-des-budgetbegleitgesetzes-2011-bgbl-i-nr-1112010-75-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=659) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_822_TextContainer_822) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-659-asvg--schlussbestimmungen-zu-art-115-teil-2-des-budgetbegleitgesetzes-2011-bgbl-i-nr-1112010-75-novelle) \]
 
@@ -19439,29 +17933,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 663 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 122/2011 (76. Novelle)
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. Jänner 2012 die §§ 81a, 95 Abs\. 1, 324 Abs\. 4, 441e Abs\. 2a, 446 Abs\. 1 und 658 Abs\. 9 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 122/2011;
->
->> `2.` rückwirkend mit 1\. Juli 2011 § 264 Abs\. 5 Z 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 122/2011;
->
->> `3.` rückwirkend mit 1\. Jänner 2011 die §§ 11 Abs\. 3 lit\. b, 79c Abs\. 1, 222 Abs\. 2 und 3, 251a Abs\. 1, 273 Abs\. 2 und 3, 276e samt Überschrift, 279 Abs\. 1 Z 1, 302 Abs\. 1 Z 3, 306 Abs\. 1 sowie die Überschriften zu den §§ 459g und 656 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 122/2011\.
-
-> `(2)` Es treten außer Kraft:
->
->> `1.` mit Ablauf des 31\. Dezember 2011 § 625 Abs\. 8 bis 15;
->
->> `2.` rückwirkend mit Ablauf des 31\. Dezember 2010 § 223 Abs\. 1 Z 2 lit\. b\.
-
-> `(3)` Die Verwaltungskostenziele nach § 441e Abs\. 2a für das Kalenderjahr 2012 sind bis zum 31\. März 2012 von der Trägerkonferenz zu beschließen und mit dem Bundesminister für Arbeit, Soziales und Konsumentenschutz und dem Bundesminister für Gesundheit abzustimmen\.
-
-> `(4)` Abweichend von § 108h Abs\. 1 erster Satz sind im Kalenderjahr 2012 nur jene Pensionen, die den Betrag von 3 300 € monatlich nicht übersteigen, mit dem Anpassungsfaktor zu vervielfachen\. Beträgt die Pension monatlich
->
->> `1.` mehr als 3 300 € bis zu 5 940 €, so ist sie um einen Prozentsatz zu erhöhen, der zwischen den genannten Werten von 2,7 % auf 1,5 % linear absinkt;
->
->> `2.` mehr als 5 940 €, so ist sie um 1,5 % zu erhöhen\.
-
-> Ein besonderer Steigerungsbetrag \(§ 248\) ist jedenfalls mit dem Anpassungsfaktor zu vervielfachen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-663-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1222011-76-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=663) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_826_TextContainer_826) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-663-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1222011-76-novelle) \]
 
@@ -19477,17 +17949,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 665 ASVG — Schlussbestimmungen zu Art. 48 Teil 1 des 2. Stabilitätsgesetzes 2012, BGBl. I Nr. 35 (77. Novelle)
 
-> `(1)` Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 35/2012 in Kraft:
->
->> `1.` mit 1\. Jänner 2013 § 8 Abs\. 1 Z 3 lit\. e;
->
->> `2.` rückwirkend mit 1\. Jänner 2012 die §§ 447a Abs\. 4 erster Satz und Abs\. 6 sowie 447f Abs\. 11;
->
->> `3.` rückwirkend mit 1\. Jänner 2012 § 658 Abs\. 4\.
->
-> *\(Anm\.: Abs\. 2 aufgehoben durch Art\. 1 Z 27b, BGBl\. I Nr\. 29/2017\)*
-
-> `(3)` Die §§ 32a bis 32g samt Überschriften, 593 Abs\. 7 sowie der Abschnitt IVb des Achten Teiles samt Überschriften treten mit Ablauf des 31\. Dezember 2012 außer Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-665-asvg--schlussbestimmungen-zu-art-48-teil-1-des-2-stabilitätsgesetzes-2012-bgbl-i-nr-35-77-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=665) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_828_TextContainer_828) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-665-asvg--schlussbestimmungen-zu-art-48-teil-1-des-2-stabilitätsgesetzes-2012-bgbl-i-nr-35-77-novelle) \]
 
@@ -19495,29 +17957,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 666 ASVG — Schlussbestimmungen zu Art. 48 Teil 2 des 2. Stabilitätsgesetzes 2012, BGBl. I Nr. 35 (77. Novelle)
 
-> `(1)` Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 35/2012 in Kraft:
->
->> `1.` mit 1\. Juli 2012 die §§ 31 Abs\. 13 sowie 365 Abs\. 2 und 3;
->
->> `2.` mit 1\. Jänner 2013 die §§ 108 Abs\. 3, 255 Abs\. 4, 264 Abs\. 6a sowie 607 Abs\. 10 und 10a;
->
->> `3.` mit 1\. Jänner 2014 § 354 Z 4 und 5;
->
->> `4.` mit 1\. Jänner 2015 § 292 Abs\. 8\.
-
-> `(2)` Die §§ 79b und 363 Abs\. 3 Z 2 treten mit Ablauf des 30\. Juni 2012 außer Kraft\.
-
-> `(3)` Abweichend von § 108h Abs\. 1 erster Satz sind die Pensionen in den Kalenderjahren 2013 und 2014 so zu erhöhen, dass der dem jeweiligen Anpassungsfaktor \(§ 108f\) entsprechende Erhöhungsprozentsatz
->
->> `1.` im Kalenderjahr 2013 um einen Prozentpunkt und
->
->> `2.` im Kalenderjahr 2014 um 0,8 Prozentpunkte
->
-> &nbsp; vermindert wird\.
-
-> `(4)` § 255 Abs\. 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 35/2012 ist nur auf Versicherungsfälle anzuwenden, in denen der Stichtag nach dem 31\. Dezember 2012 liegt, und zwar so, dass an die Stelle des vollendeten 60\. Lebensjahres in den Kalenderjahren 2013 und 2014 das vollendete 58\. Lebensjahr und in den Kalenderjahren 2015 und 2016 das vollendete 59\. Lebensjahr tritt\.
-
-> `(5)` Abweichend von § 292 Abs\. 8 dritter Satz in der Fassung des Bundesgesetzes BGBl\. I Nr\. 35/2012 gilt für die Ermittlung der Ausgleichszulage als monatliches Einkommen im Jahr 2015 ein Betrag von 14 % des jeweiligen Richtsatzes\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-666-asvg--schlussbestimmungen-zu-art-48-teil-2-des-2-stabilitätsgesetzes-2012-bgbl-i-nr-35-77-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=666) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_829_TextContainer_829) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-666-asvg--schlussbestimmungen-zu-art-48-teil-2-des-2-stabilitätsgesetzes-2012-bgbl-i-nr-35-77-novelle) \]
 
@@ -19541,9 +17981,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 668 ASVG — Schlussbestimmungen zu Art. 8 des Bundesgesetzes BGBl. I Nr. 89/2012
 
-> `(1)` § 4 Abs\. 1 Z 5 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 89/2012 tritt mit 1\. Jänner 2013 in Kraft\.
-
-> `(2)` Bis 31\. Dezember 2016 ist § 4 Abs\. 1 Z 5 auch auf Schülerinnen und Schüler, die in Ausbildung zum medizinisch\-technischen Fachdienst im Sinne des Bundesgesetzes über die Regelung des medizinisch\-technischen Fachdienstes und der Sanitätshilfsdienste, BGBl\. Nr\. 102/1961, stehen, anzuwenden\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-668-asvg--schlussbestimmungen-zu-art-8-des-bundesgesetzes-bgbl-i-nr-892012) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=668) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_831_TextContainer_831) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-668-asvg--schlussbestimmungen-zu-art-8-des-bundesgesetzes-bgbl-i-nr-892012) \]
 
@@ -19551,28 +17989,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 669 ASVG — Schlussbestimmungen zu Art. 5 des Bundesgesetzes BGBl. I Nr. 3/2013 (78. Novelle)
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. Jänner 2013 die §§ 16 Abs\. 2a, 31 Abs\. 3 Z 9, 76 Abs\. 1 Z 3, 77 Abs\. 7, 108e Abs\. 9 Z 2 und Z 3 in der Fassung der Z 21, 225 Abs\. 1 Z 3, 311 Abs\. 1a, 363 Abs\. 2, 440a Abs\. 5 und 460c in der Fassung des Bundesgesetzes BGBl\. I Nr\. 3/2013;
->
->> `2.` mit 1\. Jänner 2014 die §§ 8 Abs\. 1 Z 1 lit\. d und Z 2 lit\. c, 10 Abs\. 5a und 6b Z 3, 12 Abs\. 4a, 31 Abs\. 2 und 5, 36 Abs\. 1 Z 13a, 44 Abs\. 1 Z 14 und Abs\. 6 lit\. a, 88 Abs\. 2 lit\. a, 99 Abs\. 3 Eingang und Z 1, 108e Abs\. 9 Z 3 in der Fassung der Z 22, 117 Z 3, 138 Abs\. 2 lit\. f, 222 Abs\. 1 Z 2 lit\. a und Abs\. 2 Z 2 lit\. a, 234 Abs\. 1 Z 5, 251a Abs\. 1, 253f samt Überschrift, 254 Abs\. 1 Z 1 und 2, 255a samt Überschrift, 270b samt Überschrift, 271 Abs\. 1 Z 1 und 2 sowie Abs\. 3, 273a samt Überschrift, 276f samt Überschrift, 277 Abs\. 2, 279 Abs\. 1 Z 1 und 2 sowie Abs\. 3, 280a samt Überschrift, 301 Abs\. 1, 303, 306 Abs\. 1, 307a Überschrift sowie Abs\. 1 und 4, 307g samt Überschrift, 361 Abs\. 1, 362 Abs\. 2 bis 4, 366 Abs\. 4, 367 Abs\. 1 und 4, 368a samt Überschrift sowie Unterabschnitt 3a des Abschnittes II des Zweiten Teiles samt Überschriften \(§§ 143a bis 143c\) in der Fassung des Bundesgesetzes BGBl\. I Nr\. 3/2013;
->
->> `3.` mit 1\. Jänner 2016 § 79c Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 3/2013;
->
->> `4.` rückwirkend mit 1\. Juni 2012 die §§ 252 Abs\. 2 Z 3 und 292 Abs\. 4 lit\. r in der Fassung des Bundesgesetzes BGBl\. I Nr\. 3/2013\.
-
-> `(2)` Die §§ 253e, 256, 270a und 276e treten mit Ablauf des 31\. Dezember 2013 außer Kraft\.
-
-> `(3)` Die Selbstversicherung in der Pensionsversicherung nach § 18a kann auf Antrag von Personen, die irgendwann in der Zeit seit dem 1\. Jänner 1988 die zum Zeitpunkt der Antragstellung geltenden Voraussetzungen für diese Selbstversicherung erfüllt haben, nachträglich beansprucht werden, und zwar für alle oder einzelne Monate, längstens jedoch für 120 Monate, in denen die genannten Voraussetzungen vorlagen\. § 18 Abs\. 2 ist sinngemäß anzuwenden\.
-
-> `(4)` Die Krankenversicherungsträger haben die Aufwendungen, die durch die Einführung des Rehabilitationsgeldes nach § 143a bis zum 31\. Dezember 2015 entstanden sind, gemeinsam mit den Pensionsversicherungsträgern bis zum 31\. März 2016 zu evaluieren\. Der Evaluierungsbericht ist dem Bundesministerium für Arbeit, Soziales und Konsumentenschutz und dem Bundeministerium für Gesundheit vorzulegen\.
-
-> `(5)` Auf Personen, die das 50\. Lebensjahr bereits vor dem 1\. Jänner 2014 vollendet haben, sind die §§ 222 Abs\. 1 und 2, 251a Abs\. 1, 253e, 254 Abs\. 1 Z 1 und 2, 256, 270a, 271 Abs\. 1 Z 1 und 2 sowie Abs\. 3, 276e, 277 Abs\. 2, 279 Abs\. 1 Z 1 und 2 sowie Abs\. 3, 301 Abs\. 1, 306 Abs\. 1, 362 Abs\. 2 und 367 Abs\. 1 in der am 31\. Dezember 2013 geltenden Fassung weiterhin anzuwenden\.
-
-> `(6)` Auf Personen, die am 31\. Dezember 2013 eine zeitlich befristet zuerkannte Pension aus dem Versicherungsfall der geminderten Arbeitsfähigkeit beziehen, ist § 256 in der am 31\. Dezember 2013 geltenden Fassung bis zum Ablauf der jeweiligen Befristung weiterhin anzuwenden\.
-> *\(Anm\.: Abs\. 7 aufgehoben durch BGBl\. I Nr\. 46/2014\)*
-
-> `(8)` § 25 Abs\. 3 APG ist nur auf Versicherungsfälle anzuwenden, in denen der Stichtag nach dem 31\. Dezember 2013 liegt\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-669-asvg--schlussbestimmungen-zu-art-5-des-bundesgesetzes-bgbl-i-nr-32013-78-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=669) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_832_TextContainer_832) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-669-asvg--schlussbestimmungen-zu-art-5-des-bundesgesetzes-bgbl-i-nr-32013-78-novelle) \]
 
@@ -19588,21 +18005,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 671 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 123/2012 (79. Novelle)
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. Jänner 2013 die §§ 5 Abs\. 2, die Überschrift zu § 31c, 31c Abs\. 2 und Abs\. 3, 53b Abs\. 2 Z 3, Abs\. 3 Z 2 und 3, 90a samt Überschrift, 123 Abs\. 9 und 10, 153 Abs\. 3 und 3a, 175 Abs\. 2 Z 10, 176 Abs\. 1 Z 2, 195 Abs\. 6, 204 Abs\. 1, 319b samt Überschrift, 343c samt Überschrift sowie die Nr\. 20, 22, 23, 26 und 30 der Anlage 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 123/2012;
->
->> `2.` rückwirkend mit 1\. Jänner 2011 § 139 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 123/2012;
->
->> `3.` rückwirkend mit 1\. Jänner 2004 § 31 Abs\. 6 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 123/2012\.
-
-> `(2)` § 575 Abs\. 16a tritt mit Ablauf des 30\. Juni 2013 außer Kraft\.
-
-> `(3)` Leidet der \(die\) Versicherte am 1\. Jänner 2013 an einer Krankheit, die erst auf Grund des Bundesgesetzes BGBl\. I Nr\. 123/2012 als Berufskrankheit gilt, oder ist er \(sie\) vor dem 1\. Jänner 2013 an einer solchen Krankheit gestorben, so sind an ihn \(sie\) oder an seine \(ihre\) Hinterbliebenen die Leistungen der Unfallversicherung zu erbringen, wenn der Versicherungsfall nach dem 31\. Dezember 1955 eingetreten ist; die Leistungen sind frühestens ab 1\. Jänner 2013 zu erbringen, wenn der Antrag bis zum Ablauf des 31\. Dezember 2014 gestellt wird; wird der Antrag nach dem 31\. Dezember 2014 gestellt, so gebühren die Leistungen frühestens ab dem Tag der Antragstellung\.
-
-> `(4)` Die Sozialversicherungsanstalt der gewerblichen Wirtschaft hat gemeinsam mit der Allgemeinen Unfallversicherungsanstalt zum 31\. März 2016 im übertragenen Wirkungsbereich der Träger unter Bindung an die Weisungen des Bundesministers für Gesundheit eine Evaluierung der Aufwendungen, die durch die Einführung der Unterstützungsleistungen bei lang andauernder Krankheit nach § 104a bis zum 31\. Dezember 2015 entstanden sind, vorzunehmen\. Der Evaluierungsbericht ist dem Bundesministerium für Gesundheit vorzulegen\.
-
-> `(5)` Verordnungen auf Grund des Bundesgesetzes BGBl\. I Nr\. 123/2012 können rückwirkend mit 1\. Jänner 2013 in Kraft treten\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-671-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1232012-79-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=671) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_834_TextContainer_834) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-671-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1232012-79-novelle) \]
 
@@ -19628,11 +18031,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 674 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 130/2013 (81. Novelle)
 
-> `(1)` Die §§ 343 Abs\. 1b und 4, 343d Abs\. 2, 345 bis 348 samt Überschriften, 348a Abs\. 3 Z 5, 348c Abs\. 3, 348d Abs\. 3 und 4, 348e Abs\. 1 und 2, 348f, 351 samt Überschrift, 351d Abs\. 1, 351e Abs\. 1, 351f Abs\. 1, 351g Abs\. 1 bis 2 und 4, 351h bis 351j samt Überschriften sowie 545 Abs\. 9 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 130/2013 treten mit 1\. Jänner 2014 in Kraft\.
-
-> `(2)` Die §§ 344 Abs\. 3 und 4, 345a sowie 351d Abs\. 2 treten mit Ablauf des 31\. Dezember 2013 außer Kraft\.
-
-> `(3)` Die Vorschläge der Bundesarbeitskammer und der Wirtschaftskammer für Laienrichter/Laienrichterinnen nach § 351i Abs\. 2 sind dem Bundesministerium für Gesundheit bis spätestens 30\. September 2013 zu übermitteln\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-674-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1302013-81-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=674) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_837_TextContainer_837) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-674-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1302013-81-novelle) \]
 
@@ -19640,11 +18039,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 675 ASVG — Schlussbestimmungen zu Art. 3 des Bundesgesetzes BGBl. I Nr. 81/2013 (82. Novelle)
 
-> `(1)` Die §§ 23 Abs\. 5, 31 Abs\. 2 Z 5 und 6, Abs\. 4 Z 9 und 10, Abs\. 5 Z 16b, 31d, 32h, 82 Abs\. 5, die Überschrift des siebten Unterabschnittes im 5\. Abschnitt des Ersten Teiles, 84a Abs\. 2 bis 5, 84c samt Überschrift, 116 Abs\. 1 Z 1 und 5, die Überschrift des 1\. Unterabschnittes zu Abschnitt II des Zweiten Teiles, § 149 Abs\. 3, die Überschrift zu 154b, 154b Abs\. 1, 156 Abs\. 1 Z 3, 338 Abs\. 1, 351g Abs\. 2, 437 Abs\. 1 Z 8 und 9, 441d Abs\. 2 Z 11 bis 14, 447g samt Überschrift, 447h Abs\. 3 und 4 sowie 634 Abs\. 1 Z 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 81/2013 treten rückwirkend mit 1\. Jänner 2013 in Kraft\.
-
-> `(2)` Der Hauptverband hat zum 1\. Juli 2014 eine konsolidierte Fassung aller zu diesem Zeitpunkt geltenden Gesamtverträge sowie allfälligen Änderungen und Zusatzvereinbarungen im Internet zu veröffentlichen\.
-
-> `(3)` Die §§ 149 Abs\. 3a, 322a Abs\. 2 und 4, 447a Abs\. 10 sowie 447f Abs\. 1, 6, 14 und 16 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 81/2013 treten rückwirkend mit 1\. Jänner 2013 in Kraft und nach Ablauf von sechs Monaten nach Außer\-Kraft\-Treten der Vereinbarung gemäß Art\. 15a B\-VG über die Organisation und Finanzierung des Gesundheitswesens, BGBl\. I Nr\. 105/2008, in der jeweils geltenden Fassung außer Kraft\. Den Zeitpunkt des Außer\-Kraft\-Tretens hat der Bundesminister für Gesundheit durch eine im Einvernehmen mit der Bundesministerin für Finanzen zu erlassende Verordnung festzustellen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-675-asvg--schlussbestimmungen-zu-art-3-des-bundesgesetzes-bgbl-i-nr-812013-82-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=675) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_838_TextContainer_838) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-675-asvg--schlussbestimmungen-zu-art-3-des-bundesgesetzes-bgbl-i-nr-812013-82-novelle) \]
 
@@ -19652,19 +18047,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 676 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 86/2013 (83. Novelle)
 
-> `(1)` Es treten in Kraft:
->
->> `1.` mit 1\. Jänner 2014 die §§ 143c samt Überschrift, 367a samt Überschrift und Abschnitt VIIId des Achten Teiles in der Fassung des Bundesgesetzes BGBl\. I Nr\. 86/2013;
->
->> `2.` rückwirkend mit 1\. Februar 2013 die §§ 67 Abs\. 7 Z 2 und 3, 123 Abs\. 2 Z 2, 227a Abs\. 2 Z 1 sowie 252 Abs\. 1 Z 1 und zweiter Satz in der Fassung des Bundesgesetzes BGBl\. I Nr\. 86/2013\.
-
-> `(2)` Es treten außer Kraft:
->
->> `1.` mit Ablauf des 1\. Jänner 2014 die §§ 291a bis 291j;
->
->> `2.` rückwirkend mit Ablauf des 31\. Jänner 2013 die §§ 123 Abs\. 2 Z 3 und 4, 227a Abs\. 2 Z 2 und 3, 252 Abs\. 1 Z 2 und 3 sowie 459d Abs\. 1 Z 6\.
-
-> `(3)` Die Mittel des Härteausgleichsfonds sind am 1\. Jänner 2014 an den Überbrückungshilfefonds nach § 44a GSVG zu überweisen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-676-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-862013-83-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=676) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_839_TextContainer_839) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-676-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-862013-83-novelle) \]
 
@@ -19672,9 +18055,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 677 ASVG — Schlussbestimmungen zu Art. 2 des Bundesgesetzes BGBl. I Nr. 187/2013
 
-> `(1)` Die §§ 4 Abs\. 1 Z 9, 48 samt Überschrift und 53 Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 187/2013 treten mit 1\. Jänner 2014 in Kraft\.
-
-> `(2)` § 48 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 187/2013 ist nur auf Personen anzuwenden, deren Einsatzvertrag nach dem 31\. Dezember 2013 abgeschlossen wird\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-677-asvg--schlussbestimmungen-zu-art-2-des-bundesgesetzes-bgbl-i-nr-1872013) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=677) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_840_TextContainer_840) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-677-asvg--schlussbestimmungen-zu-art-2-des-bundesgesetzes-bgbl-i-nr-1872013) \]
 
@@ -19690,8 +18071,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 679 ASVG — Schlussbestimmungen zu Art. 2 des Bundesgesetzes BGBl. I Nr. 137/2013
 
-> `(1)` Die §§ 8 Abs\. 1 Z 4 und 5, 36 Abs\. 1 Z 19 und 20, 44 Abs\. 1 Z 19 und 20, 52 Abs\. 3a, 138 Abs\. 2 lit\. g und h sowie 162 Abs\. 5 Z 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 137/2013 treten mit 1\. Jänner 2014 in Kraft\.
-> *\(Anm\.: Abs\. 2 und 3 gemäß § 754 Abs\. 2 außer Kraft getreten\)*
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-679-asvg--schlussbestimmungen-zu-art-2-des-bundesgesetzes-bgbl-i-nr-1372013) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=679) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_842_TextContainer_842) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-679-asvg--schlussbestimmungen-zu-art-2-des-bundesgesetzes-bgbl-i-nr-1372013) \]
 
@@ -19745,11 +18125,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 684 ASVG — Schlussbestimmungen zu Art. 7 des Bundesgesetzes BGBl. I Nr. 46/2014
 
-> `(1)` Die §§ 31 Abs\. 3 Z 9, 460b Abs\. 1 und 460c zweiter Satz in der Fassung des Bundesgesetzes BGBl\. I Nr\. 46/2014 treten mit 1\. Jänner 2015 in Kraft\.
-
-> `(2)` § 669 Abs\. 7 tritt mit Ablauf des 31\. Dezember 2014 außer Kraft\.
-
-> `(3)` § 460c zweiter Satz in der Fassung des Bundesgesetzes BGBl\. I Nr\. 46/2014 ist auf BezieherInnen von Leistungen, für die nach dem Pensionsrecht der Dienstordnungen keine kollektivvertragliche Pensionseinkommensgrenze gilt, so anzuwenden, dass an die Stelle der Prozentsätze von 50% und 80% die Prozentsätze von 35% und 70% sowie an die Stelle der Prozentsätze von 3,3%, 4,5% und 9,0% die Prozentsätze von 3,5%, 5,0% und 10% treten\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-684-asvg--schlussbestimmungen-zu-art-7-des-bundesgesetzes-bgbl-i-nr-462014) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=684) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_847_TextContainer_847) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-684-asvg--schlussbestimmungen-zu-art-7-des-bundesgesetzes-bgbl-i-nr-462014) \]
 
@@ -19781,35 +18157,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 688 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 2/2015 (84. Novelle)
 
-> `(1)` Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 2/2015 in Kraft:
->
->> `1.` mit 1\. Jänner 2015 die §§ 18a Abs\. 1 und 3, 68a Abs\. 1, 76b Abs\. 5a, 77 Abs\. 7, 86 Abs\. 3 Z 2, 89 Abs\. 1 Z 3 und Abs\. 2, 108e Abs\. 9 Z 1 bis 3, 143a Abs\. 1 bis 5, 248c Abs\. 2, 324 Abs\. 4 und 414 Abs\. 4;
->
->> `2.` rückwirkend mit 1\. Jänner 2014 die §§ 26 Abs\. 1 Z 3 und 4, 36 Abs\. 1 Z 13a, 40 Abs\. 3, 44 Abs\. 6 lit\. a, 49 Abs\. 6, 86 Abs\. 6, 99 Abs\. 1a und 3 Z 1 lit\. b, 103 Abs\. 1 Z 4 und 5, 104 Abs\. 1, 222 Abs\. 3, 248a, 254 Abs\. 1 Z 2, 255 Abs\. 2 und 4 Z 1a, 255a, 255b samt Überschrift, 271 Abs\. 1 Z 2, 273a, 273b samt Überschrift, 279 Abs\. 1 Z 2, 280a, 280b samt Überschrift, 332 Abs\. 1a, 348d Abs\. 3, 354 Z 4a und 5, 361 Abs\. 1 und 5, 362 Abs\. 4 Z 1, 366 Abs\. 4, 367 Abs\. 4, 459h Abs\. 2, 459i Abs\. 1 bis 5 und 545 sowie die Überschrift zu § 675\.
-
-> `(2)` Die §§ 18a Abs\. 2 Z 1 und 76b Abs\. 4 treten mit Ablauf des 31\. Dezember 2014 außer Kraft\.
-
-> `(3)` Abweichend von § 76b Abs\. 5a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 2/2015 beträgt die monatliche Beitragsgrundlage für Selbstversicherte nach § 18a
->
->> `1.` im Kalenderjahr 2015  1 214 €; 
->
->> `2.` im Kalenderjahr 2016  1 323 €; 
->
->> `3.` im Kalenderjahr 2017  1 432 €; 
->
->> `4.` im Kalenderjahr 2018  1 541 €\. 
-
-> `(4)` Abweichend von § 77 Abs\. 7 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 2/2015 sind die Beiträge für die nach § 18a Selbstversicherten zu tragen:
->
->> `1.` im Kalenderjahr 2015 zu 91% vom Ausgleichsfonds für Familienbeihilfen und zu 9% vom Bund;
->
->> `2.` im Kalenderjahr 2016 zu 83,5% vom Ausgleichsfonds für Familienbeihilfen und zu 16,5% vom Bund;
->
->> `3.` im Kalenderjahr 2017 zu 77% vom Ausgleichsfonds für Familienbeihilfen und zu 23% vom Bund;
->
->> `4.` im Kalenderjahr 2018 zu 72% vom Ausgleichsfonds für Familienbeihilfen und zu 28% vom Bund\.
-
-> `(5)` Der Hauptverband hat die Aufwendungen, die durch die Änderungen der Bestimmungen über die Selbstversicherung in der Pensionsversicherung für Zeiten der Pflege eines behinderten Kindes \(§§ 18a Abs\. 1 bis 3, 76b Abs\. 5a und 77 Abs\. 7 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 2/2015\) bis zum 31\. Dezember 2016 entstanden sind, bis zum 31\. März 2017 zu evaluieren\. Die dafür erforderlichen Daten sind dem Hauptverband von den zuständigen Behörden zu übermitteln\. Der Evaluierungsbericht ist dem Bundesministerium für Arbeit, Soziales und Konsumentenschutz vorzulegen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-688-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-22015-84-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=688) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_851_TextContainer_851) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-688-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-22015-84-novelle) \]
 
@@ -19817,35 +18165,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 689 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 79/2015 (85. Novelle)
 
-> `(1)` Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 79/2015 in Kraft:
->
->> `1.` mit 1\. Jänner 2017 die §§ 59 Abs\. 1 dritter Satz und 67b Abs\. 2;
->
->> `2.` mit 1\. Jänner 2019 die §§ 33 Abs\. 1a, 1b und 3, 34 samt Überschrift, 41 Abs\. 1 und 4 Z 3, 44 Abs\. 2, 58 Abs\. 1, 4 und 8, 59 Abs\. 1 erster Satz, 60 Abs\. 3, 67a Abs\. 6 Z 2 und 3, 67b Abs\. 1 und 4 Z 4, 111 Abs\. 1 Z 1, 112 Abs\. 1, 113 bis 115 samt Überschriften, 125 Abs\. 3, 162 Abs\. 4, 471f in der Fassung der Z 33 und 471g in der Fassung der Z 34\.
-
-> `(1a)` Die §§ 5 Abs\. 2 und 3, 7 Z 4, 44 Abs\. 1 Z 8a und 14, 76b Abs\. 2, 143a Abs\. 4, 254 Abs\. 6, 471f in der Fassung der Z 2, 471g in der Fassung der Z 2 und 471m in der Fassung des Bundesgesetzes BGBl\. I Nr\. 79/2015 treten mit 1\. Jänner 2017 in Kraft, es sei denn, der Bundesminister für Arbeit, Soziales und Konsumentenschutz setzt durch Verordnung einen früheren Zeitpunkt fest\. Der Hauptverband ist verpflichtet, den Bundesminister für Arbeit, Soziales und Konsumentenschutz zu informieren
->
->> `1.` bis längstens 29\. Februar 2016 darüber, wann voraussichtlich die technischen Mittel für die Vollziehung der zitierten Bestimmungen zur Verfügung stehen werden, und
->
->> `2.` in schriftlicher Form darüber, wann diese technischen Mittel tatsächlich zur Verfügung stehen\.
->
-> &nbsp; Nach Vorliegen der Information nach Z 2 hat der Bundesminister für Arbeit, Soziales und Konsumentenschutz die im ersten Satz genannte Verordnung unverzüglich zu erlassen\.
-
-> `(2)` Die §§ 34a, 44a, 54 Abs\. 2, 56, 58a und 125 Abs\. 5 sowie die Abschnitte I und Ia des Neunten Teiles treten mit Ablauf des 31\. Dezember 2018 außer Kraft\.
-
-> `(3)` Der Hauptverband hat die Auswirkungen der Aufhebung der Bestimmungen über die tägliche Geringfügigkeitsgrenze – bezogen auf das Kalenderjahr 2017 – bis zum Ablauf des 30\. Juni 2019 im übertragenen Wirkungsbereich zu evaluieren\. Er ist dabei an die Weisungen des Bundesministers für Arbeit, Soziales und Konsumentenschutz gebunden\.
-
-> `(4)` Personen, die am 31\. Dezember 2017 nach den §§ 461 bis 471 pflichtversichert sind, bleiben weiterhin nach diesen Bestimmungen pflichtversichert, und zwar so lange, als die unständige Beschäftigung in der Land\- und Forstwirtschaft ausgeübt wird und keine Änderung des maßgeblichen Sachverhaltes eintritt\.
-
-> `(5)` Die auf Grund des § 361 Abs\. 3 erlassenen Bestimmungen der Satzung sind gleichzeitig mit Inkrafttreten der monatlichen Beitragsgrundlagenmeldung nach § 34 unter Berücksichtigung der sodann beim Versicherungsträger vorliegenden Datenlage auf das für die Vollziehung unumgänglich notwendige Ausmaß einzuschränken\.
-
-> `(6)` Der Hauptverband und die in Betracht kommenden Versicherungsträger haben die technischen Voraussetzungen für die Meldung der monatlichen Beitragsgrundlagen nach den in Abs\. 1 Z 2 genannten Bestimmungen bis zum Ablauf des 31\. Dezember 2017 zu schaffen\.
-
-> `(7)` Im Kalenderjahr 2018 ist zur Einführung der monatlichen Beitragsgrundlagenmeldung nach den in Abs\. 1 Z 2 genannten Bestimmungen vom Hauptverband und den in Betracht kommenden Versicherungsträgern ein Testbetrieb mit Lohnsoftwarehersteller/inne/n sowie ein organisierter Produktionstestbetrieb mit Dienstgebern durchzuführen\.
-
-> `(8)` Auf Meldepflichten, die Beitragszeiträume vor dem 1\. Jänner 2019 betreffen, sind die §§ 33, 34, 41, 56, 58 und 113 in der am 31\. Dezember 2018 geltenden Fassung weiterhin anzuwenden\.
-
-> `(9)` Für Meldeverstöße nach § 114 Abs\. 1 Z 2 bis 6 im Zeitraum vom 1\. Jänner 2019 bis zum Ablauf des 31\. März 2020 sind keine Säumniszuschläge vorzuschreiben\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-689-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-792015-85-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=689) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_852_TextContainer_852) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-689-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-792015-85-novelle) \]
 
@@ -19853,19 +18173,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 690 ASVG — Schlussbestimmungen zu Art. 14 Teil 1 des Bundesgesetzes BGBl. I Nr. 118/2015
 
-> `(1)` Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 118/2015 in Kraft:
->
->> `1.` mit 1\. Jänner 2016 die §§ 11 Abs\. 2 letzter Satz, 52 Abs\. 2, 53a Abs\. 3 lit\. a, 54 Abs\. 5, 73a Abs\. 1 erster Satz, 77 Abs\. 1, 447f Abs\. 11 Z 1 und 2, 479d Abs\. 3 sowie 658 Abs\. 4;
->
->> `2.` mit 1\. Jänner 2016 die §§ 51 Abs\. 1 Z 1 lit\. a bis g in der Fassung der Z 2, 4, 6, 8, 10, 12 und 14, 51 Abs\. 3 Z 1 in der Fassung der Z 16, 73 Abs\. 1 und 2 in der Fassung der Z 23 und 26, 472a Abs\. 2 erster und zweiter Satz in der Fassung der Z 32 und 34, 474 Abs\. 1 zweiter und dritter Satz in der Fassung der Z 36 sowie 479d Abs\. 2 in der Fassung der Z 38;
->
->> `3.` mit dem nach § 675 Abs\. 3 durch Verordnung der Bundesministerin für Gesundheit festgestellten Zeitpunkt, jedoch jedenfalls nicht vor 1\. Jänner 2016, die §§ 51 Abs\. 1 Z 1 lit\. a bis g in der Fassung der Z 3\. 5, 7, 9, 11, 13 und 15, 51 Abs\. 3 Z 1 in der Fassung der Z 17, 73 Abs\. 1 und 2 in der Fassung der Z 24 und 27, 472a Abs\. 2 erster und zweiter Satz in der Fassung der Z 33 und 35, 474 Abs\. 1 zweiter und dritter Satz in der Fassung der Z 37 sowie 479d Abs\. 2 in der Fassung der Z 39\.
-
-> `(2)` Die §§ 51b und 51c samt Überschriften, 51e samt Überschrift, 73 Abs\. 1a, und 634 Abs\. 1 Z 2 treten mit Ablauf des 31\. Dezember 2015 außer Kraft\.
-
-> `(3)` § 57a tritt mit Ablauf des 31\. Dezember 2015 außer Kraft\. Auf Lehrverhältnisse, die vor dem 1\. Jänner 2016 begonnen wurden, sind die §§ 51 Abs\. 1 Z 1 und Abs\. 3 Z 1, 51b Abs\. 1, 51e und 57a in der am 31\. Dezember 2015 geltenden Fassung weiterhin anzuwenden\.
-
-> `(4)` Abweichend von § 73 Abs\. 2 in der Fassung der Z 26 beträgt der für die Versicherungsanstalt für Eisenbahnen und Bergbau anzuwendende Prozentsatz für das Jahr 2016 305%\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-690-asvg--schlussbestimmungen-zu-art-14-teil-1-des-bundesgesetzes-bgbl-i-nr-1182015) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=690) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_853_TextContainer_853) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-690-asvg--schlussbestimmungen-zu-art-14-teil-1-des-bundesgesetzes-bgbl-i-nr-1182015) \]
 
@@ -19883,9 +18191,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 692 ASVG — Schlussbestimmungen zu Art. 2 des Bundesgesetzes BGBl. I Nr. 113/2015
 
-> `(1)` Die §§ 11 Abs\. 7, 23 Abs\. 7, 31 Abs\. 5 Z 12, 32a samt Überschrift, 32b samt Überschrift, 33 Abs\. 1b, 35a samt Überschrift, 41 Abs\. 4, 42 Abs\. 1a, 42b samt Überschrift, 43 Abs\. 4, 67a Abs\. 6 und 6a, 111 Abs\. 1, 111a, 148 Z 6, 149 Abs\. 2, 338 Abs\. 5 und 342 Abs\. 1 Z 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 113/2015 sowie die Überschrift zum 6\. Unterabschnitt des Abschnittes III des Ersten Teiles und die Anlage 14 treten mit 1\. Jänner 2016 in Kraft\.
-
-> `(2)` Die Landesgesetzgebung hat die Ausführungsbestimmungen zu den §§ 148 Z 6 und 149 Abs\. 2 innerhalb von sechs Monaten zu erlassen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-692-asvg--schlussbestimmungen-zu-art-2-des-bundesgesetzes-bgbl-i-nr-1132015) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=692) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_855_TextContainer_855) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-692-asvg--schlussbestimmungen-zu-art-2-des-bundesgesetzes-bgbl-i-nr-1132015) \]
 
@@ -19893,17 +18199,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 693 ASVG — Schlussbestimmungen zu Art. 10 des Bundesgesetzes BGBl. I Nr. 144/2015
 
-> `(1)` Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 144/2015 in Kraft:
->
->> `1.` mit 1\. Jänner 2016 die §§ 3 Abs\. 2 lit\. e, 8 Abs\. 1 Z 2 lit\. e sowie Z 4 und 4a, 10 Abs\. 5c und 6b Z 5, 12 Abs\. 4c und 5b, 17 Abs\. 5 lit\. e, 30 Abs\. 3, 31 Abs\. 14 bis 16, 35 Abs\. 2, 36 Abs\. 1 Z 15, 44 Abs\. 1 Z 16 und 19a, 52 Abs\. 2 und 2a, 122 Abs\. 2 Z 2 lit\. a, 132b Abs\. 6, 138 Abs\. 2 lit\. e und 143 Abs\. 1 Z 5;
->
->> `2.` rückwirkend mit 1\. November 2015 § 31d Abs\. 3 und 4\.
-
-> `(2)` Die §§ 36 Abs\. 1 Z 9, 74a Abs\. 2 und 132a Abs\. 4 treten mit Ablauf des 31\. Dezember 2015 außer Kraft\.
-
-> `(3)` Auf Personen, die am 31\. Dezember 2015 einen Auslandsdienst nach § 12b des Zivildienstgesetzes 1986 leisten, sind die §§ 3 Abs\. 2 lit\. e, 8 Abs\. 1 Z 2 lit\. e und Z 4, 10 Abs\. 6b Z 5, 12 Abs\. 5b, 17 Abs\. 5 lit\. e, 30 Abs\. 3, 36 Abs\. 1 Z 9 und 15, 44 Abs\. 1 Z 16, 52 Abs\. 2, 122 Abs\. 2 Z 2 lit\. a und 143 Abs\. 1 Z 5 in der an diesem Tag geltenden Fassung weiterhin anzuwenden\.
-
-> `(4)` Der für das Jahr 2015 fällig werdende Bundesbeitrag nach § 74a Abs\. 2 und der Kostenersatz nach § 132a Abs\. 4 sind vom Bund nicht mehr zu leisten\. § 132b Abs\. 6 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 144/2015 ist bereits auf im Jahr 2015 durchgeführte Vorsorgeuntersuchungen anzuwenden\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-693-asvg--schlussbestimmungen-zu-art-10-des-bundesgesetzes-bgbl-i-nr-1442015) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=693) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_856_TextContainer_856) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-693-asvg--schlussbestimmungen-zu-art-10-des-bundesgesetzes-bgbl-i-nr-1442015) \]
 
@@ -19911,23 +18207,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 694 ASVG — Schlussbestimmungen zu Art. 1 Teil 1 des Bundesgesetzes BGBl. I Nr. 162/2015 (86. Novelle)
 
-> `(1)` Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 162/2015 in Kraft:
->
->> `1.` mit 1\. Jänner 2016 die §§ 3b, 11 Abs\. 3 lit\. b, 14 Abs\. 1 Z 1, 31 Abs\. 9a, 42b Abs\. 5, 49 Abs\. 3 Z 26a, 51 Abs\. 1 Z 1 lit\. a, 225 Abs\. 1 Z 2a, 255 Abs\. 7, 308 Abs\. 1a, 3a und 4, 311 Abs\. 9, 347 Abs\. 5, 446 samt Überschrift, 631 Abs\. 2 sowie 689 Abs\. 1, 1a, 2 und 4;
->
->> `2.` mit 1\. Jänner 2017 § 3 Abs\. 2 lit\. f\.
-
-> `(2)` Es treten außer Kraft:
->
->> `1.` mit Ablauf des 31\. Dezember 2015 § 67d;
->
->> `2.` mit Ablauf des 31\. Dezember 2016 § 5 Abs\. 1 Z 9\.
-
-> `(3)` War eine Person nach § 3 Abs\. 2 lit\. f oder nach § 5 Abs\. 1 Z 9 in der am 31\. Dezember 2016 geltenden Fassung pflichtversichert oder von der Pflichtversicherung befreit und würde § 3 Abs\. 2 lit\. f in der Fassung des Bundesgesetzes BGBl\. I Nr\. 162/2015 oder die Aufhebung des § 5 Abs\. 1 Z 9 eine bestehende Pflichtversicherung oder Befreiung von der Pflichtversicherung beenden, so bleibt die bisherige Pflichtversicherung oder Befreiung von der Pflichtversicherung so lange aufrecht, als das zugrunde liegende Dienstverhältnis fortbesteht, es sei denn, die betreffende Person wünscht die Anwendung der Rechtslage in der Fassung des Bundesgesetzes BGBl\. I Nr\. 162/2015; eine solche Erklärung ist bis zum 31\. März 2017 abzugeben und bewirkt die Anwendung der neuen Rechtslage ab dem 1\. Jänner 2017\.
-
-> `(4)` Auf Immobilienfonds, in die vor dem 1\. Jänner 2016 veranlagt worden ist, ist § 446 in der am 31\. Dezember 2015 geltenden Fassung weiterhin anzuwenden\.
-
-> `(5)` § 49 Abs\. 3 Z 26a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 162/2015 ist auch auf Sachverhalte anzuwenden, die vor dem 1\. Jänner 2016 verwirklicht wurden, wenn über diese noch keine rechtskräftige Entscheidung im Verfahren in Verwaltungssachen vorliegt\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-694-asvg--schlussbestimmungen-zu-art-1-teil-1-des-bundesgesetzes-bgbl-i-nr-1622015-86-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=694) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_857_TextContainer_857) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-694-asvg--schlussbestimmungen-zu-art-1-teil-1-des-bundesgesetzes-bgbl-i-nr-1622015-86-novelle) \]
 
@@ -19935,19 +18215,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 695 ASVG — Schlussbestimmungen zu Art. 1 Teil 2 des Bundesgesetzes BGBl. I Nr. 162/2015 (86. Novelle)
 
-> `(1)` Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 162/2015 in Kraft:
->
->> `1.` mit 1\. Jänner 2016 die §§ 7 Z 1 lit\. e, 8 Abs\. 1 Z 3 lit\. k, 8 Abs\. 2 lit\. e und Abs\. 4, 16 Abs\. 2a und 2b, 23 Abs\. 6 lit\. a, 26 Abs\. 1 Z 4 lit\. f und g, 31 Abs\. 4 Z 6, 31 Abs\. 5 Z 21, 31 Abs\. 5 Z 25, 31c Abs\. 3 Z 3 lit\. f, 52 Abs\. 2, 53b, 73a Abs\. 1 und 3, 74 Abs\. 6 erster Satz, 75a Abs\. 1 bis 4, 76 Abs\. 1 Z 3, 77 Abs\. 7, 117 Z 4 lit\. c, 120 Z 1, 120a Abs\. 2, 121 Abs\. 4 Z 3 lit\. c, 122 Abs\. 2 Z 1 lit\. c, 122 Abs\. 2 Z 3, 123 Abs\. 4 Z 3, 124 Abs\. 1 und 2, 135 Abs\. 1 Z 2, 138 Abs\. 1, 139 Abs\. 2a und 2b, 143a Abs\. 2, 144 Abs\. 4, 154a Abs\. 3, 155 Abs\. 2 Z 2 bis 4, 157, 161 Überschrift und Abs\. 1, 234 Abs\. 1 Z 5, 307d Abs\. 2 Z 1 bis 5, 322 Abs\. 1, 322a Überschrift sowie Abs\. 3 und 4, 343e Abs\. 3, 347 Abs\. 3a, 349 Abs\. 2, 363, 420 Abs\. 2 und 3, 423 Abs\. 1 Z 3, 441d Abs\. 2 Einleitung, 441e Abs\. 2, 472 Abs\. 2 Z 4 und 5, 680 Abs\. 3 und 690 Abs\. 3 und 4;
->
->> `2.` rückwirkend mit 1\. Jänner 2011 § 28 Z 2 lit\. i;
->
->> `3.` rückwirkend mit 1\. Juni 2012 § 97 Abs\. 3;
->
->> `4.` rückwirkend mit 1\. Jänner 2015 § 71 Abs\. 2 und 2a\.
-
-> `(2)` Die §§ 447 Abs\. 3 und 472 Abs\. 2 Z 2 treten mit Ablauf des 31\. Dezember 2015 außer Kraft\.
-
-> `(3)` Für Personen, denen bis 31\. Dezember 2015 ein Rehabilitationsgeld zuerkannt wurde, für dessen Berechnung ausschließlich eine Erwerbstätigkeit berücksichtigt wurde, die nur eine Teilversicherung in der Unfallfallversicherung begründet hat, ist die Höhe des Rehabilitationsgeldes rückwirkend mit Zuerkennung von Amts wegen neu festzusetzen, wenn das bereits zuerkannte Rehabilitationsgeld niedriger ist als dies auf Grund der Berechnung nach § 143a Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 162/2015 der Fall wäre\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-695-asvg--schlussbestimmungen-zu-art-1-teil-2-des-bundesgesetzes-bgbl-i-nr-1622015-86-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=695) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_858_TextContainer_858) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-695-asvg--schlussbestimmungen-zu-art-1-teil-2-des-bundesgesetzes-bgbl-i-nr-1622015-86-novelle) \]
 
@@ -19955,27 +18223,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 696 ASVG — Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 18/2016
 
-> `(1)` Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 18/2016 in Kraft:
->
->> `1.` mit 1\. März 2016 § 5 Abs\. 1 Z 3 lit\. a und mit 1\. Februar 2016 die §§ 311a samt Überschrift und 312 sowie Abs\. 4 dieser Bestimmung, wenn der Bundesminister für Arbeit, Soziales und Konsumentenschutz mit Verordnung feststellt, dass die Europäische Kommission den Überweisungsbetrag nach § 311a nicht als staatliche Beihilfe beurteilt;
->
->> `2.` mit 1\. Februar 2016 die §§ 308 Abs\. 1, 311 Abs\. 5 und 9 sowie Abs\. 5 dieser Bestimmung\.
-
-> `(2)` Für Personen mit Anwartschaft auf Ruhe\- und Versorgungsgenüsse gegenüber der UniCredit Bank Austria Aktiengesellschaft, die mit dieser bis zum Ablauf des 29\. Februar 2016 vereinbaren, dass ihr Dienstverhältnis zur UniCredit Bank Austria Aktiengesellschaft längstens mit Ablauf des 31\. Dezember 2016 endet, ist § 5 Abs\. 1 Z 3 lit\. a in der am 29\. Februar 2016 geltenden Fassung weiterhin anzuwenden\.
-
-> `(3)` Für DienstnehmerInnen und Vorstandsmitglieder der UniCredit Bank Austria Aktiengesellschaft, deren bisher pensionsversicherungsfreies Dienstverhältnis frühestens ab 1\. März 2016 der Vollversicherung nach § 4 unterliegt, sind
->
->> `1.` für die verlängerte Dauer des Krankengeldanspruches nach § 139 Abs\. 1 letzter Satz Zeiten der Zugehörigkeit zu einer Krankenfürsorgeeinrichtung anzurechnen;
->
->> `2.` aus dem Versicherungsfall der Mutterschaft, wenn dieser bereits vor Einbeziehung in die Vollversicherung nach § 4 eingetreten ist, zu gewähren:
->>
->>> `a)` Sachleistungen, wenn die ehemals zuständige Krankenfürsorgeeinrichtung keine Ausleistungspflicht trifft, und
->>
->>> `b)` Wochengeld, wenn weder die ehemals zuständige Krankenfürsorgeeinrichtung noch die UniCredit Bank Austria Aktiengesellschaft eine entsprechende Geldleistung gewähren\.
-
-> `(4)` Betriebsvereinbarungen, die in den im § 5 Abs\. 1 Z 3 lit\. a genannten Angelegenheiten \(Ruhe\- und Versorgungsgenüsse, Entgeltfortzahlung im Krankheitsfall\) sowie für Maßnahmen zur Milderung der Folgen von Änderungen bei den angeführten Angelegenheiten für die im Abs\. 3 genannten DienstnehmerInnen bereits abgeschlossen wurden, sind Betriebsvereinbarungen im Sinne des § 29 des Arbeitsverfassungsgesetzes \(ArbVG\), BGBl\. Nr\. 22/1974\. Dies gilt auch für künftig abzuschließende Betriebsvereinbarungen insoweit, als sie in diesen Angelegenheiten Maßnahmen in sinngemäßer Anwendung des § 97 Abs\. 1 Z 4 in Verbindung mit § 109 Abs\. 1 Z 1 bis 6 ArbVG betreffen\.
-
-> `(5)` Die pensionsbezogenen Leistungen, Zusagen oder Anwartschaften der Unternehmensgruppe UniCredit Bank Austria Aktiengesellschaft gelten bis zur Leistung des Überweisungsbetrages in der Höhe von 22,8 % der Berechnungsgrundlage \(§ 311 Abs\. 6\) weiterhin als gleichwertig im Sinne des § 5 Abs\. 1 Z 3 lit\. a und sind zu erbringen und zu erfüllen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-696-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-182016) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=696) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_859_TextContainer_859) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-696-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-182016) \]
 
@@ -20017,19 +18265,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 700 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 29/2017 (87. Novelle)
 
-> `(1)` Die §§ 51 Abs\. 7, 53a Abs\. 3 zweiter Satz und Abs\. 3 lit\. a, 108f Abs\. 1, 222 Abs\. 4, 253e samt Überschrift, 254 Abs\. 1 Z 2, 255a, 270a samt Überschrift, 271 Abs\. 1 Z 2, 273a, 276e samt Überschrift, 279 Abs\. 1 Z 2, 280a, 293 Abs\. 1 lit\. a, 301 Abs\. 1, 307a Abs\. 4, 366 Abs\. 4, 367 Abs\. 4, 459h Abs\. 2, 471c und 665 Abs\. 1 Z 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 29/2017 treten mit mit 1\. Jänner 2017 in Kraft\.
-
-> `(2)` Die §§ 53a Abs\. 3b und 58 Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 29/2017 treten mit 1\. Jänner 2018 in Kraft und mit Ablauf des 31\. Dezember 2020 außer Kraft\.
-
-> `(3)` Die §§ 79a Abs\. 2 und 3, 108e, 367 Abs\. 4 Z 3 und 665 Abs\. 2 treten mit Ablauf des 31\. Dezember 2016 außer Kraft\.
-
-> `(4)` Der Hauptverband hat die Auswirkungen des § 53a Abs\. 3b für die Kalenderjahre 2018 und 2019 bis zum Ablauf des 31\. März 2020 im übertragenen Wirkungsbereich zu evaluieren\. Er ist dabei an die Weisungen des Bundesministers für Arbeit, Soziales und Konsumentenschutz gebunden\.
-
-> `(5)` Der Richtsatz nach § 293 Abs\. 1 lit\. a sublit\. cc ist abweichend von den §§ 108 Abs\. 6 und 293 Abs\. 2 erstmals mit 1\. Jänner 2018 mit dem Anpassungsfaktor \(§ 108f\) zu vervielfachen\.
-
-> `(6)` Der Bundesminister für Arbeit, Soziales und Konsumentenschutz hat die Aufwendungen, die durch die Einführung des Richtsatzes nach § 293 Abs\. 1 lit\. a sublit\. cc entstanden sind, bis zum 31\. Dezember 2021 zu evaluieren\.
-
-> *\(Beachte: Abweichend von Abs\. 5 sind die Ausgleichszulagenrichtsätze für das Kalenderjahr 2018 nicht mit dem Anpassungsfaktor, sondern mit dem Faktor 1,022 zu vervielfachen \(vgl\. § 711 Abs\. 4\)\.\)*
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-700-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-292017-87-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=700) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_863_TextContainer_863) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-700-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-292017-87-novelle) \]
 
@@ -20049,9 +18285,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 701 ASVG — Schlussbestimmungen zu Art. 3 des Bundesgesetzes BGBl. I Nr. 26/2017
 
-> `(1)` Die §§ 31 Abs\. 5 Z 16b, 84a, 84c, 351g Abs\. 2, 437 Abs\. 1 Z 9, 441d Abs\. 2 Z 14, 447a Abs\. 10, 447f Abs\. 7 Z 4 und Abs\. 7a sowie § 447g in der Fassung des Bundesgesetzes BGBl\. I Nr\. 26/2017 treten mit 1\. Jänner 2017 in Kraft\.
-
-> `(2)` Die §§ 149 Abs\. 3a, 322a Abs\. 2 und 4, 447a Abs\. 10 sowie 447f Abs\. 1, 6, 14 und 16 treten nach Ablauf von sechs Monaten nach Außer\-Kraft\-Treten der Vereinbarung gemäß Art\. 15a B\-VG über die Organisation und Finanzierung des Gesundheitswesens, in der jeweils geltenden Fassung außer Kraft\. Den Zeitpunkt des Außer\-Kraft\-Tretens hat die Bundesministerin für Gesundheit und Frauen durch eine im Einvernehmen mit dem Bundesminister für Finanzen zu erlassende Verordnung festzustellen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-701-asvg--schlussbestimmungen-zu-art-3-des-bundesgesetzes-bgbl-i-nr-262017) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=701) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_865_TextContainer_865) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-701-asvg--schlussbestimmungen-zu-art-3-des-bundesgesetzes-bgbl-i-nr-262017) \]
 
@@ -20115,9 +18349,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 707 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 125/2017
 
-> `(1)` Die §§ 247 Abs\. 2, 412a bis 412e samt Überschriften, 607 Abs\. 12 und 617 Abs\. 13 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 125/2017 treten mit 1\. Juli 2017 in Kraft\.
-
-> `(2)` Die Bundesministerin für Gesundheit und Frauen hat bis 31\. Dezember 2017 unter Berücksichtigung der Patienten\- und Versorgungssicherheit einen Gesetzentwurf zum Medikamentenmanagement für stationäre Pflegeeinrichtungen auszuarbeiten, der insbesondere einen begünstigten Bezug von Arzneimitteln sowie deren Bevorratung durch Wohn\- und stationäre Pflegeeinrichtungen vorsieht\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-707-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1252017) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=707) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_871_TextContainer_871) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-707-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1252017) \]
 
@@ -20125,9 +18357,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 707a ASVG — Weitere Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 125/2017
 
-> `(1)` Die §§ 330b samt Überschrift und 669 Abs\. 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 125/2017 treten mit 1\. Jänner 2018 in Kraft\.
-
-> `(2)` \(Verfassungsbestimmung\) § 330a samt Überschrift in der Fassung des Bundesgesetzes BGBl\. I Nr\. 125/2017 tritt mit 1\. Jänner 2018 in Kraft\. Ab diesem Zeitpunkt dürfen Ersatzansprüche nicht mehr geltend gemacht werden, laufende Verfahren sind einzustellen\. Insoweit Landesgesetze dem entgegenstehen, treten die betreffenden Bestimmungen zu diesem Zeitpunkt außer Kraft\. Nähere Bestimmungen über den Übergang zur neuen Rechtslage können bundesgesetzlich getroffen werden\. Die Durchführungsverordnungen zu einem auf Grund dieser Bestimmung ergehenden Bundesgesetz sind vom Bund zu erlassen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-707a-asvg--weitere-schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1252017) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=707a) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_872_TextContainer_872) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-707a-asvg--weitere-schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1252017) \]
 
@@ -20143,11 +18373,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 709 ASVG — Schlussbestimmungen zu Art. 3 des Bundesgesetzes BGBl. I Nr. 131/2017 (88. Novelle)
 
-> `(1)` Die §§ 131 Abs\. 3 erster Satz, 131a samt Überschrift, 135 Abs\. 1 erster Satz und 3 erster Satz, die Überschrift des Sechsten Teils, 338 Abs\. 1 erster Satz, 339 Abs\. 1, 342 Abs\. 1 Z 9, Abs\. 1a und 3, die Überschrift zu § 342a, 342b und 342c samt Überschriften, 342d, 343 Abs\. 1b zweiter Satz und Abs\. 1c, 345 Abs\. 2 Z 2, die Überschrift zu § 348, 348 Abs\. 1 bis 3 sowie 350 Abs\. 1 Z 2 lit\. a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 131/2017 treten mit dem auf den Tag der Kundmachung folgenden Tag in Kraft\.
-
-> `(2)` Die im § 342c Abs\. 12 genannte Frist von drei Jahren verlängert sich auf fünf Jahre, wenn die Invertragnahme spätestens zum 31\. Dezember 2025 erfolgt ist\. Die nach § 342 Abs\. 1 Z 10 in den jeweiligen Gesamtverträgen festgelegte Altersgrenze für die Beendigung der Einzelverträge von Vertragsärztinnen und Vertragsärzten \(Gesellschafterinnen/Gesellschaftern einer Vertrags\-Gruppenpraxis\) ist anzuwenden\.
-
-> `(3)` Bis zur Implementierung eines Honorierungssystems im Sinne des § 342b Abs\. 3 und 4 ist die Honorierung über ein ausschließliches Pauschalsystem zulässig, um mögliche betriebswirtschaftliche Risiken oder Unabwägbarkeiten beim Umstieg in neue Versorgungsstrukturen abzudecken\. Bis dahin hat der Hauptverband dem Bundesministerium für Gesundheit und Frauen halbjährlich über den Fortschritt der Verhandlungen für ein Honorierungssystem im Sinne des § 342b Abs\. 3 und 4 zu berichten\. Im Sinne des § 342b Abs\. 3 erster Satz sind bei der Festlegung des Pauschalsystems für unterschiedliche regionale Gegebenheiten auf nicht\-diskriminierender Basis differenzierte Pauschalen vorzusehen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-709-asvg--schlussbestimmungen-zu-art-3-des-bundesgesetzes-bgbl-i-nr-1312017-88-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=709) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_874_TextContainer_874) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-709-asvg--schlussbestimmungen-zu-art-3-des-bundesgesetzes-bgbl-i-nr-1312017-88-novelle) \]
 
@@ -20193,11 +18419,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 712 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 151/2017
 
-> `(1)` § 53b Abs\. 2a und 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 151/2017 tritt mit 1\. Juli 2018 in Kraft\.
-
-> `(2)` § 319b tritt mit Ablauf des 30\. Juni 2018 außer Kraft\.
-
-> `(3)` § 53b Abs\. 2a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 151/2017 ist auf Entgeltfortzahlungstage infolge von Krankheit und Unfällen, die nach dem 30\. Juni 2018 eingetreten sind bzw\. sich ereignet haben, anzuwenden\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-712-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1512017) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=712) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_877_TextContainer_877) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-712-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1512017) \]
 
@@ -20205,13 +18427,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 713 ASVG — Schlussbestimmungen zu Art. 21 des Bundesgesetzes BGBl. I Nr. 30/2018
 
-> `(1)` § 31a Abs\. 8 bis 10 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 30/2018 tritt mit dem auf den Tag der Kundmachung folgenden Tag in Kraft\.
-
-> `(2)` § 31a Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 30/2018 tritt mit 1\. Jänner 2020 in Kraft\.
-
-> `(3)` § 31 Abs\. 14 bis 16 tritt mit Ablauf des 30\. Juni 2018 außer Kraft\.
-
-> `(4)` §§ 34 Abs\. 2 und Abs\. 4, §§ 38a samt Überschrift, §§ 51d und 471m sowie § 689 Abs\. 9 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 30/2018 treten mit 1\. Jänner 2019 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-713-asvg--schlussbestimmungen-zu-art-21-des-bundesgesetzes-bgbl-i-nr-302018) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=713) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_878_TextContainer_878) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-713-asvg--schlussbestimmungen-zu-art-21-des-bundesgesetzes-bgbl-i-nr-302018) \]
 
@@ -20235,15 +18451,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 716 ASVG — Schlussbestimmungen zu Art. 10 des Bundesgesetzes BGBl. I Nr. 59/2018
 
-> `(1)` Die Abs\. 2 bis 7 sowie die §§ 86 Abs\. 3 Z 1 und 106 Abs\. 1 letzter Satz in der Fassung des Bundesgesetzes BGBl\. I Nr\. 59/2018 treten mit Ablauf des Tages ihrer Kundmachung in Kraft\.
-> *\(Anm\.: Abs\. 2 und 3 aufgehoben durch Art\. 1 Z 191, BGBl\. I Nr\. 100/2018\)*
-
-> `(4)` Fällt der Beendigungszeitpunkt einer befristeten Bestellung eines/einer leitenden Angestellten oder leitenden Arztes/leitenden Ärztin sowie von deren ständigen Stellvertretern/Stellvertreterinnen eines der im Abs\. 2 genannten Versicherungsträger oder des Hauptverbandes in die Zeit vom 1\. Juli 2018 bis zum 31\. Dezember 2019, so verlängert sich diese befristete Bestellung bis zum Ablauf des 31\. Dezember 2019\.
-> *\(Anm\.: Abs\. 5 und 6 aufgehoben durch Art\. 1 Z 191, BGBl\. I Nr\. 100/2018\)*
-
-> `(7)` Kommt im Falle des Erlöschens eines befristet abgeschlossenen Gesamtvertrages nach § 342 oder eines anderen Gesamtvertrages oder einer sonstigen Vereinbarung mit Anbieter/inne/n von Gesundheitsdienstleistungen kein neuer Gesamtvertrag zustande, so bleibt der bisherige Gesamtvertrag bis zum Ablauf des 31\. Dezember 2019 aufrecht\.
-
-> `(8)` Rückwirkend mit 1\. Jänner 2014 treten die §§ 143a Abs\. 1, 255b, 273b und 280b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 59/2018 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-716-asvg--schlussbestimmungen-zu-art-10-des-bundesgesetzes-bgbl-i-nr-592018) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=716) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_881_TextContainer_881) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-716-asvg--schlussbestimmungen-zu-art-10-des-bundesgesetzes-bgbl-i-nr-592018) \]
 
@@ -20295,105 +18503,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 718 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 100/2018 (89. Novelle)
 
-> `(1)` Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 100/2018 in Kraft:
->
->> `1.` mit 1\. Jänner 2019 die §§ 51 Abs\. 1 Z 2, 53a Abs\. 1, 319a Abs\. 2, 447f Abs\. 18, 456a sowie der 8\. Unterabschnitt des Abschnittes I des Zehnten Teiles samt Überschrift;
->
->> `2.` mit 1\. April 2019 § 716 Abs\. 7;
->
->> `3.` mit 1\. Jänner 2020 die Überschrift zu § 3, die §§ 3 Abs\. 1 und 4, 5 Abs\. 1 Z 3 lit\. b und c sowie Z 8 und 9, 5a und 5b samt Überschriften, 7 Z 2 lit\. a und c, Z 3 lit\. b, Z 4, 8 Abs\. 1 Z 1 lit\. a sublit\. bb und cc, Abs\. 1 Z 3 lit\. e, 9 erster Satz, 11 Abs\. 2, 12 Abs\. 7, 14 Abs\. 2 erster Satz, 15 Abs\. 3 Z 3, 16 Abs\. 4 und 5, 17 Abs\. 1 Z 1 lit\. a und Abs\. 2, die Überschrift zu Abschnitt III des Ersten Teiles, der erste und zweite Unterabschnitt des Abschnittes III des Ersten Teiles samt Überschriften, der 3\. Unterabschnitt des Abschnittes III des Ersten Teiles samt Überschriften, 31, 31a Abs\. 1 erster Satz, Abs\. 3 Z 1 lit\. b, Abs\. 4 letzter Satz, Abs\. 7 erster Satz, Abs\. 8 dritter und vierter Satz, Abs\. 9 letzter Satz und Abs\. 10 zweiter Satz, 31b Abs\. 1 erster und zweiter Satz, Abs\. 2 erster, zweiter, fünfter und neunter Satz, Abs\. 2a, Abs\. 3 zweiter Satz sowie Abs\. 4 erster und letzter Satz, 31c Abs\. 2 Z 6 und Abs\. 4 zweiter Satz, 31d Abs\. 1, Abs\. 2 Einleitung und Abs\. 3 erster Satz, die Überschrift zum 5\. Unterabschnitt des Abschnittes III des Ersten Teiles, 32 Abs\. 1 und 2, 32a Abs\. 3, 37c erster Satz, 37d erster Satz, 41 Abs\. 1 und 4 erster Satz, 42a, 42b Abs\. 2, 4 sowie Abs\. 5 erster und zweiter Satz, 49 Abs\. 4 erster Satz, Abs\. 6 und 7 Einleitung sowie Abs\. 9 Z 5, 51d Abs\. 4 erster Satz, 53b Abs\. 1 und 3, 67a Abs\. 5 letzter Satz und Abs\. 5a, 67b Abs\. 5, 67c Abs\. 1, 70 Abs\. 1 erster Satz und Abs\. 2 erster Satz sowie Abs\. 4, 70a Abs\. 1 und 3, 73 Abs\. 2, 4 und 5, 74 Abs\. 3 Z 3, 75a samt Überschrift, 80a Abs\. 6 und 8, 80c Abs\. 1, Abs\. 2 erster Satz und Abs\. 4, 81 Abs\. 1 erster Satz, Abs\. 2, Abs\. 2a, Abs\. 2b erster Satz und Abs\. 3 letzter Satz, 81a, 82 Abs\. 1 erster Satz und Abs\. 3 erster Satz sowie Abs\. 5 erster Satz, 84 Abs\. 6, 84a Abs\. 1 erster Satz, Abs\. 2 Einleitung, Abs\. 3 und Abs\. 5 Z 2 sowie letzter Satz, 84c, 85 Abs\. 2, 99 Abs\. 3 Z 1 lit\. b, 109 erster und zweiter Satz, 110 Abs\. 1 Z 1, Z 2 lit\. a und b sowie Z 3 und Abs\. 4, 123 Abs\. 9 lit\. e, 131 Abs\. 1, 132a Abs\. 6, 132b Abs\. 2 erster Satz, Abs\. 4 und 6, 132c Abs\. 3 erster Satz, 135 Abs\. 3a, 136 Abs\. 5 und 6, 143c Abs\. 2 erster und zweiter Satz, 144 Abs\. 1 erster Satz und Abs\. 6, 148 Z 3 zweiter Satz, Z 8 zweiter Satz und Z 10 zweiter Satz, 149 Abs\. 1 erster Satz, Abs\. 3 erster und zweiter Satz, Abs\. 3a, Abs\. 3b erster Satz und Abs\. 4 zweiter Satz, 152 samt Überschrift, 153 Abs\. 4a, 153a Abs\. 3 erster und zweiter Satz sowie Abs\. 5 erster und zweiter Satz, 154a Abs\. 7 vorletzter Satz, 155 Abs\. 4, 194 erster Satz, 213a Abs\. 4 erster Satz, 231 Z 1 lit\. b, 232 Abs\. 3, 243 Abs\. 1 Z 1 und Z 2 lit\. h, 307c zweiter Satz, 307d Abs\. 2 Z 1, 307g Abs\. 3 und 4, die Überschrift zum Fünften Teil, 318 Abs\. 1 Einleitung, 319a Abs\. 1 und Abs\. 5 erster Halbsatz, die Überschrift zum 4\. Unterabschnitt des Fünften Teiles, 321 Abs\. 2, 322 Abs\. 2, 322a Abs\. 1, Abs\. 2 erster Satz, Abs\. 6, Abs\. 7 erster Halbsatz und Abs\. 8 erster Halbsatz, 322b Abs\. 1 erster Satz sowie Abs\. 2 dritter und vierter Satz, die Überschrift zum Sechsten Teil, 338 Abs\. 1 erster, dritter und vierter Satz, 339 Abs\. 1 erster und zweiter Satz, die Überschrift zu Abschnitt II des Sechsten Teiles, 340 Abs\. 1 und 3, 340a zweiter Satz, 341 Abs\. 1, 342 Abs\. 1 Einleitungssatz und Abs\. 1 Z 3 und 6 sowie Abs\. 2b und 2c, 342a Abs\. 4 dritter Satz und Abs\. 5 erster Satz, 342b Abs\. 1 zweiter und dritter Satz, Abs\. 2 Z 7 sowie Abs\. 4, 342c Abs\. 3 zweiter Satz, Abs\. 7 zweiter Satz, Abs\. 12 vierter Satz und Abs\. 13 erster Satz, 342d Abs\. 1 und Abs\. 2 letzter Satz, 343 Abs\. 1 zweiter und fünfter Satz und Abs\. 1a, 343a Abs\. 1 erster Halbsatz, 343b Abs\. 1, 343c Abs\. 1, 343d Abs\. 1 Z 3 und 4 sowie Abs\. 2 Z 2, 343e Abs\. 1 erster Satz, Abs\. 2 erster Satz sowie Abs\. 4 dritter und vierter Satz, 343f erster bis dritter Satz, 345 Abs\. 1 letzter Satz, 346 Abs\. 2 dritter Satz, Abs\. 4 Z 3 und Abs\. 5 vierter und fünfter Satz, 347 Abs\. 2 erster Satz, Abs\. 3, 3a, 4, 6 dritter und vierter Satz sowie Abs\. 7, 347b Abs\. 2 erster und zweiter Satz sowie Abs\. 3, 348 Abs\. 1, Abs\. 2 zweiter Satz und Abs\. 4 erster Satz, die Überschrift zu Abschnitt III des Sechsten Teiles, 348a Abs\. 1 zweiter Satz, Abs\. 3 Einleitung sowie Abs\. 4 erster Satz, 348b Abs\. 1 und 2, 348c Abs\. 1 erster Satz, Abs\. 2 und Abs\. 3 vierter Satz, 348d Abs\. 2 zweiter Satz, Abs\. 3 erster und vierter Satz, Abs\. 4 zweiter und vierter Satz sowie Abs\. 5, 348e Abs\. 1 erster und zweiter Satz sowie Abs\. 2 zweiter Satz, 348g zweiter Satz, die Überschrift zu Abschnitt IV des Sechsten Teiles, 349 Abs\. 2 zweiter und dritter Satz, 349a zweiter Satz, 350 Abs\. 1 Z 3 und Abs\. 3, 351a erster Halbsatz, 351c Abs\. 1 erster, dritter und vierter Satz, Abs\. 2 Einleitung, Abs\. 5 erster Satz, Abs\. 6 fünfter Satz, Abs\. 9a Z 1 dritter Satz und Z 3, Abs\. 10 Z 1 Einleitung und lit\. b zweiter Satz, Z 2 Einleitung und lit\. b zweiter Satz, Z 3 erster Satz, Z 4 sowie Z 5 und 11 erster, dritter und fünfter Satz, die Überschrift zu § 351d, 351d Abs\. 1 erster Satz und Abs\. 3, 351e Abs\. 1 zweiter Satz und Abs\. 2 zweiter Satz, 351f Abs\. 1 erster, dritter und vierter Satz sowie Abs\. 2 erster Satz, 351g Abs\. 1 erster und letzter Satz, Abs\. 1a zweiter, dritter, vierter und letzter Satz, Abs\. 1b letzter Satz, Abs\. 1c zweiter Satz, Abs\. 2 dritter und vierter Satz, Abs\. 3, Abs\. 4 erster und dritter Satz sowie Abs\. 5, 351h Abs\. 2, Abs\. 3 erster, dritter und vierter Satz, Abs\. 4 erster, dritter und vierter Satz sowie Abs\. 5 erster, zweiter, vierter und fünfter Satz, 351i Abs\. 3 zweiter Satz, 351j Abs\. 1 vierter Satz, 354 Z 1, 355 Z 5, 360 Abs\. 1 erster und zweiter Satz, Abs\. 3 erster Satz, Abs\. 5 sowie Abs\. 6 erster und vierter Satz, 360a erster und zweiter Satz, 367a Abs\. 3 erster Satz, 412a erster Satz sowie Z 2 lit\. a, 412b Abs\. 1 und 2, 412c Abs\. 1 bis 4, 412d Z 1 und 2, 413 samt Überschrift, der Abschnitt I des Achten Teiles, die Abschnitte II und III des Achten Teiles samt Überschriften, der Abschnitt IVa des Achten Teiles samt Überschriften, 443 und 444 samt Überschriften, 446 Abs\. 1 erster und zweiter Satz, Abs\. 3 sowie Abs\. 4 erster Satz, 446a erster Satz, 447 Abs\. 1 und 1a, 447a samt Überschrift, 447f Abs\. 3, Abs\. 5 Z 2, Abs\. 6a, Abs\. 7a vorletzter und letzter Satz, Abs\. 9 erster und zweiter Satz, Abs\. 11 zweiter Satz, Abs\. 13 letzter Satz, Abs\. 15 erster Satz und Abs\. 17 erster Satz, 447g Abs\. 2 dritter Satz, 447h samt Überschrift, 447i Abs\. 1 erster und zweiter Satz sowie Abs\. 4 erster Satz, der Abschnitt VI des Achten Teiles, die Überschrift zu 453, 453 Abs\. 1 Z 4, Abs\. 2 und 3, 454 samt Überschrift, 455 Abs\. 2 erster Satz, 456 Abs\. 1 und 2, 457 Abs\. 1 und 3, 458 erster Satz, 459, 459d Abs\. 1 und Abs\. 2 erster Satz, 459e Abs\. 1 erster Satz, 459g Abs\. 3 zweiter Satz, 460 Abs\. 1, Abs\. 1a erster Satz, Abs\. 3, Abs\. 3b, 4 und 4a, 460c letzter Satz, 460d erster Satz, 471i und 479 Abs\. 2 Z 4\.
-
-> `(1a)` § 717b in der Fassung des Pensionsanpassungsgesetzes 2019 wird durch § 717b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 100/2018 ersetzt\.
-
-> `(2)` Es treten außer Kraft:
->
->> `1.` mit Ablauf des 31\. Dezember 2018 die §§ 79c samt Überschrift, 347 Abs\. 5;
->
->> `2.` mit Ablauf des 31\. März 2019 § 716 Abs\. 2, 3, 5 und 6;
->
->> `3.` mit Ablauf des 31\. Dezember 2019 die §§ 2 Abs\. 2 Z 15, 70 Abs\. 3, 71 samt Überschrift, 129 samt Überschrift sowie 319a Abs\. 6, der Abschnitt IV des Achten Teiles, 445 samt Überschrift, 447b samt Überschrift, der erste und zweite Unterabschnitt des Abschnittes II sowie der Abschnitt IIa des Neunten Teiles samt Überschriften;
->
->> `4.` mit Ablauf des 31\. Dezember 2022 § 319a samt Überschrift\.
-
-> `(3)` Für die Erstattung von Beiträgen, die vor dem 1\. Jänner 2019 entrichtet wurden, sind weiterhin die §§ 70 und 70a in der am 31\. Dezember 2019 geltenden Fassung anzuwenden; dies gilt nicht, soweit diese Beiträge zusammen mit Beiträgen, die ab 1\. Jänner 2019 entrichtet wurden, für ein bestimmtes Kalenderjahr entrichtet wurden\.
-
-> `(4)` § 131 Abs\. 1 tritt zu dem Zeitpunkt in Kraft, den die Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz durch Verordnung festsetzt\. Die Verordnung ist zu erlassen, sobald für die Österreichische Gesundheitskasse ein Gesamtvertrag nach § 341 abgeschlossen wurde und ein einheitlicher Leistungskatalog wirksam wird\.
-
-> `(5)` § 319a samt Überschrift tritt mit 31\. Dezember 2022 außer Kraft\. Der im § 319a Abs\. 6 vorgesehene besondere Pauschbetrag ist von der Versicherungsanstalt für Eisenbahnen und Bergbau an die Allgemeine Unfallversicherungsanstalt letztmalig für das Jahr 2019 zu überweisen\.
-
-> `(6)` Die zum 31\. Dezember 2019 in Geltung stehenden Gesamtverträge der Gebietskrankenkassen mit der Österreichischen Ärztekammer, den örtlich zuständigen Ärztekammern oder der Österreichischen Zahnärztekammer sowie die zum 31\. Dezember 2019 in Geltung stehenden Verträge dieser Versicherungsträger mit den Ärzten/Ärztinnen, Zahnärzten/Zahnärztinnen und anderen Vertragspartnern/Vertragspartnerinnen zur Erbringung der Leistungen der Krankenversicherung gelten bis zu neuen Vertragsabschlüssen durch die Österreichische Gesundheitskasse weiter\. Die gesetzlichen Kündigungs\- und Erlöschenstatbestände mit Ausnahme der §§ 342c Abs\. 4 Z 1 und 2 sowie 343 Abs\. 2 Z 1 und 2 bleiben von diesem Rechtsübergang unberührt\.
-
-> `(7)` Die nach §§ 342c Abs\. 3 und 343 Abs\. 1 in der am 31\. Dezember 2019 geltenden Fassung für die Sozialversicherungsanstalt der Bauern bestehende Wirksamkeit der Verträge bleibt für diesen Teilbereich der Sozialversicherungsanstalt der Selbständigen ab dem 1\. Jänner 2020 solange aufrecht, bis ein neuer Gesamtvertrag nach § 14 SVSG abgeschlossen wird\.
-
-> `(7a)` § 420 Abs\. 6 Z 5 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 100/2018 ist auf Personen, die vor dem 1\. Jänner 2022 als Versicherungsvertreter/innen in einen nach dem genannten Bundesgesetz neu einzurichtenden Verwaltungskörper entsendet werden, so anzuwenden, dass der Nachweis der fachlichen Eignung bis längstens zum Ablauf des 31\. Dezember 2022 bei sonstiger Enthebung nach § 423 Abs\. 1 Z 5 zu erbringen ist\.
-
-> `(8)` Die Betriebskrankenkassen der Wiener Verkehrsbetriebe, Mondi, voestalpine Bahnsysteme, Zeltweg und Kapfenberg werden mit Wirksamkeit ab 1\. Jänner 2020 aufgelöst\.
-
-> `(8a)` Das zum Stichtag 31\. Dezember 2019 vorhandene Vermögen und die Verbindlichkeiten der Betriebskrankenkassen Mondi, voestalpine Bahnsysteme, Zeltweg und Kapfenberg, abzüglich des in Abs\. 9 genannten Betrages, gehen mit 1\. Jänner 2020 auf die Österreichische Gesundheitskasse über\. Dies gilt nicht, sofern und solange mittels Betriebsvereinbarung eine betriebliche Gesundheitseinrichtung im Sinne der §§ 5a und 5b errichtet wurde\. Im Falle der Auflösung einer betrieblichen Gesundheitseinrichtung ist durch Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz die Höhe des Anteils des an den Betriebsunternehmer zu übertragenden Reinvermögens in Abhängigkeit von der Summe der bisher vom Betriebsunternehmer getragenen Verwaltungskosten festzusetzen\.
-
-> `(8b)` Das zum Stichtag 31\. Dezember 2019 vorhandene Vermögen einschließlich der eigenen Einrichtung und die Verbindlichkeiten der Betriebskrankenkasse der Wiener Verkehrsbetriebe, abzüglich des in Abs\. 9 genannten Betrages, gehen entsprechend dem Versichertenstand zum Stichtag 31\. Dezember 2019 auf die Krankenfürsorgeanstalt der Bediensteten der Stadt Wien und die Versicherungsanstalt öffentlich Bediensteter, Eisenbahnen und Bergbau über\. Die eigene Einrichtung der Betriebskrankenkasse der Wiener Verkehrsbetriebe als solche geht mit 1\. Jänner 2020 auf die Versicherungsanstalt öffentlich Bediensteter, Eisenbahnen und Bergbau über\. Die Abwicklung der Betriebskrankenkasse der Wiener Verkehrsbetriebe obliegt ausschließlich der Versicherungsanstalt öffentlich Bediensteter, Eisenbahnen und Bergbau, wobei die Kosten dieser Abwicklung im Rahmen der Vermögensaufteilung zu berücksichtigen sind\. Die Vermögensverteilung ist durch Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz festzulegen\.
-
-> `(9)` Die Betriebsunternehmer der in Abs\. 8 genannten Betriebe können zum Zweck der Aufrechterhaltung des für die Versicherten und deren anspruchsberechtigten Angehörigen der jeweiligen Betriebskrankenkasse zum Zeitpunkt der Auflösung bestehenden Leistungsniveaus jeweils eine Privatstiftung zur Förderung der Gesundheit ihrer Beschäftigten einrichten\. Dieser Stiftung ist von der jeweiligen Betriebskrankenkasse ein Anteil ihres im Jahresabschluss 2019 ausgewiesenen Reinvermögens zu widmen\. Näheres ist durch Verordnung der Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz nach Anhörung der Betriebsunternehmer zu regeln, wobei die Höhe des zu widmenden Anteils des Reinvermögens in Abhängigkeit von der Summe der bisher vom Betriebsunternehmer getragenen Verwaltungskosten und dem Alter der Anspruchsberechtigten festzusetzen ist\.
-
-> `(10)` Bezüglich des im Abs\. 8 verfügten Vermögensüberganges auf die Österreichische Gesundheitskasse bzw\. die Versicherungsanstalt öffentlich Bediensteter, Eisenbahnen und Bergbau wird Folgendes festgelegt:
->
->> `1.` Der Jahresbericht für das Geschäftsjahr 2019 der Betriebskrankenkassen ist von der Österreichischen Gesundheitskasse bzw\. der Versicherungsanstalt öffentlich Bediensteter, Eisenbahnen und Bergbau zu erstellen\. Alle Schriften, Bücher und Akten der Betriebskrankenkassen sind mit 1\. Jänner 2020 der Österreichischen Gesundheitskasse bzw\. der Versicherungsanstalt öffentlich Bediensteter, Eisenbahnen und Bergbau zu übergeben\.
->
->> `2.` Die Österreichische Gesundheitskasse bzw\. die Versicherungsanstalt öffentlich Bediensteter, Eisenbahnen und Bergbau hat
->>
->>> `a)` zur Nachweisung der Übernahme des Vermögens der mit 31\. Dezember 2019 aufgelösten Betriebskrankenkassen dieses \(Aktiva/Passiva\) in geeigneten Aufzeichnungen gesondert zu erfassen; abweichende Zuordnungen von Aktiva und Passiva in der Vermögensrechnung sind näher zu begründen;
->>
->>> `b)` in ihrer Schlussbilanz zum 31\. Dezember 2020 in der Einzelnachweisung zu den Posten allgemeine Rücklage, Leistungssicherungsrücklage und Unterstützungsfonds die übernommenen Vermögensteile jeweils gesondert als „Vermögensübertragung“ anzugeben;
->>
->>> `c)` in ihrem Geschäftsbericht für das Jahr 2020 jedenfalls über das übernommene Vermögen \(Aktiva/Passiva\) sowie über den zum 1\. Jänner 2020 übernommenen Versichertenstand näher zu berichten;
->>
->>> `d)` die Aufbewahrungsfristen nach § 58 der Weisungen für die Rechnungslegung und Rechnungsführung der Sozialversicherungsträger und des Hauptverbandes \(Rechnungsvorschriften – RV\) hinsichtlich aller übernommenen Bücher, Aufzeichnungen und sonstigen Unterlagen zu beachten\.
-
-> `(10a)` Die Dienstverhältnisse von Bediensteten, die am 31\. Dezember 2019 bei einer der im Abs\. 8 genannten und mit 1\. Jänner 2020 aufzulösenden Betriebskrankenkassen beschäftigt sind, gehen, sofern diese Bediensteten im Betrieb, für den die Betriebskrankenkasse errichtet war, nicht mehr weiter beschäftigt werden können, oder in der betrieblichen Gesundheitseinrichtung nicht beschäftigt werden können, auf die Österreichische Gesundheitskasse beziehungsweise im Fall der Betriebskrankenkasse der Wiener Verkehrsbetriebe auf die Versicherungsanstalt öffentlich Bediensteter, Eisenbahnen und Bergbau über\.
-
-> `(11)` Die Österreichische Gesundheitskasse hat bis längstens 31\. Dezember 2020 eine Satzung und eine Krankenordnung zu erlassen, die an die Stelle der von den Gebietskrankenkassen erlassenen Satzungen bzw\. Krankenordnungen tritt\. Bis zur Erlassung dieser Satzung \(Krankenordnung\) gelten die Satzungen \(Krankenordnungen\) der Gebietskrankenkassen im jeweiligen Bundesland weiter\.
-
-> `(12)` Für die am 31\. Dezember 2019 beim Hauptverband beschäftigten Bediensteten kommen mit Wirkung vom 1\. Jänner 2020 folgende Regelungen zur Anwendung:
->
->> `1.` Die Dienstverhältnisse von Bediensteten, die nicht in einer im Abs\. 18 genannten Abteilung beschäftigt sind, gehen im Rahmen ihrer Abteilung auf die Österreichische Gesundheitskasse über\. Die Dienstverhältnisse der Mitglieder des Verbandsmanagements gehen nicht auf die Österreichische Gesundheitskasse über\.
->
->> `2.` Durch Erklärung des Dienstgebers/der Dienstgeberin kann der/die Bedienstete entsprechend seinem/ihrem bisherigen Aufgabenbereich einer Organisationseinheit bzw\. einem Arbeitsplatz des Dachverbandes oder des Versicherungsträgers zur dauernden Dienstleistung zugewiesen werden\.
->
->> `3.` Dem/Der Bediensteten bleiben die ihm/ihr aus dem bisherigen Dienstverhältnis und der auf ihn/sie anzuwendenden Dienstordnung zustehenden Rechte unverändert gewahrt\.
->
-> &nbsp; Unbeschadet der Wahrnehmung ihrer Aufgaben im Hauptverband sind die Bediensteten der Abteilungen „Nationale und internationale Grundsatzangelegenheiten \(KV, UV, PV\)“ und „Evidenzbasierte wirtschaftliche Gesundheitsversorgung \(EWG\)“ nach dem am 24\. Oktober 2018 geltenden Dienstpostenplan und dem Anhang zur Geschäftsordnung des Verbandsvorstandes zur Vorbereitung der Zusammenführung der Gebietskrankenkassen bereits ab dem 1\. April 2019 dem/der kommissarischen Leiter/Leiterin bzw\. dem/der leitenden Angestellten der Österreichischen Gesundheitskasse direkt zugeordnet\.
-
-> `(13)` Die bisher dem Hauptverband zukommende Kollektivvertragsfähigkeit verbleibt auch nach dem 1\. Jänner 2020 beim Dachverband\. Normen der kollektiven Rechtsgestaltung bleiben aufrecht\.
-
-> `(14)` Für Bedienstete, die am 31\. Dezember 2019 mit einer Funktion nach § 460 Abs\. 3a betraut sind, finden hinsichtlich der Entgeltbedingungen abweichend von § 460 Abs\. 3b die Regelungen des § 36 Abs\. 3 DO\. A bzw\. des § 36 Abs\. 2 DO\. B sinngemäß Anwendung\. Diese Bediensteten dürfen jedoch auch vor Ablauf der Befristung im Rahmen der Organisationsreform mit einem Dienstposten des bereichsleitenden Dienstes oder eines anderen gehobenen Aufgabenfeldes betraut werden\.
-
-> `(15)` Sozialversicherungsbedienstete, die sich am 31\. Dezember 2018 in einem aufrechten Dienstverhältnis befanden, dürfen dienstgeberseitig nicht aus dem Grund der Organisationsänderungen durch das Bundesgesetz BGBl\. I Nr\. 100/2018 gekündigt werden\.
-
-> `(16)` Der Überleitungsausschuss bzw\. ab 1\. Jänner 2020 die Österreichische Gesundheitskasse hat der Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz und dem Dachverband ab 1\. Juni 2019 monatlich über den Umsetzungsstand der Zusammenführung der Gebietskrankenkassen zu berichten\. Näheres über die Art und den Umfang der Berichterstattung hat die Bundesministerin mit Verordnung festzusetzen\.
-
-> `(17)` Der Dachverband hat dafür Sorge zu tragen, dass für die Sozialversicherungsbediensteten die besondere Fach\- und Führungskräfteausbildung einschließlich der Abschlussprüfungen \(§§ 30a Abs\. 1 Z 3 und 30b Abs\. 1 Z 2\) in Kooperation mit bestehenden Fachhochschulen ab 1\. Jänner 2021 als Kolloquien erfolgen können\.
-
-> `(18)` Folgende Abteilungen des Hauptverbandes, basierend auf dem Anhang zur Geschäftsordnung und dem Dienstpostenplan in der am 24\. Oktober 2018 geltenden Fassung, verbleiben im Dachverband:
->
->> `1.` Finanz\- und Rechnungswesen einschließlich Fondsverwaltung,
->
->> `2.` Statistik, Grundlagen und Versicherungsmathematik,
->
->> `3.` Dienstrecht, Akademie und Personal,
->
->> `4.` allgemeine Rechtsangelegenheiten, interne Revision und Organisation der Selbstverwaltung mit Ausnahme der Öffentlichkeitsarbeit,
->
->> `5.` trägerübergreifendes Controlling \(TÜC\),
->
->> `6.` internationale Angelegenheiten und zwischenstaatliche Sozialversicherung,
->
->> `7.` IT\-Management inklusive SVC, Schnittstelle ITSV sowie IT\-Organisation,
->
->> `8.` Vertragspartner Medikamente\.
->
-> &nbsp; Unabhängig davon kann die Konferenz weitere Personalkörper oder Mitarbeiter/innen durch Beschluss an Sozialversicherungsträger übertragen\.
-
-> `(19)` § 456a in der am 31\. Dezember 2018 geltenden Fassung ist bis zum Ablauf des 31\. Dezember 2019 weiterhin auf die am 31\. Dezember 2018 bestehenden Verwaltungskörper anzuwenden\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-718-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1002018-89-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=718) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_885_TextContainer_885) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-718-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1002018-89-novelle) \]
 
@@ -20444,13 +18554,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 722 ASVG — Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 8/2019
 
-> `(1)` Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 8/2019 in Kraft:
->
->> `1.` mit 1\. Jänner 2019 die §§ 58 Abs\. 1a und 302 Abs\. 1 Z 1a;
->
->> `2.` mit 1\. Juli 2019 § 5 Abs\. 1 Z 16 und 17\.
-
-> `(2)` § 5 Abs\. 1 Z 17 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 8/2019 ist auch auf Sachverhalte anzuwenden, die vor dem 1\. Juli 2019 verwirklicht wurden, wenn über diese noch keine rechtskräftige Entscheidung im Verfahren in Verwaltungssachen vorliegt\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-722-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-82019) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=722) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_889_TextContainer_889) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-722-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-82019) \]
 
@@ -20466,11 +18570,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 724 ASVG — Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 23/2019
 
-> `(1)` Die §§ 31a Abs\. 8 Z 3 und 4, Abs\. 8 letzter Satz, Abs\. 9 bis 12, 460e in der Fassung der Z 5 und 545 Abs\. 11 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 23/2019 treten mit dem auf den Tag der Kundmachung folgenden Tag in Kraft\.
-
-> `(2)` § 460e in der Fassung der Z 6 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 23/2019 tritt mit 1\. Jänner 2020 in Kraft\.
-
-> `(3)` Abweichend von § 31a Abs\. 8 können bis zum Vorliegen der technischen Verfügbarkeit der Registrierung des Elektronischen Identitätsnachweises \(E\-ID\) nach § 4a ff\. E\-GovG, längstens bis 31\. Dezember 2020, e\-cards ohne Lichtbilder, die eigens zu kennzeichnen sind und längstens drei Jahre gültig sind, ausgegeben werden\. Dies gilt nur für jene Fälle, in denen kein Lichtbild in den in § 31a Abs\. 8 Z 1 bis 4 und Abs\. 10 genannten Beständen vorhanden ist und auch keine Ausnahme von der Verpflichtung zur Beibringung vorliegt\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-724-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-232019) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=724) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_891_TextContainer_891) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-724-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-232019) \]
 
@@ -20486,13 +18586,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 726 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 84/2019
 
-> `(1)` Die §§ 73 Abs\. 1, 100 Abs\. 1 lit\. b, 105 Abs\. 3, 108h Abs\. 2 und 3, 292 Abs\. 4 lit\. r und s, 293 Abs\. 1 lit\. a sublit\. bb und 299a samt Überschrift in der Fassung des Bundesgesetzes BGBl\. I Nr\. 84/2019 treten mit 1\. Jänner 2020 in Kraft\.
-
-> `(2)` § 293 Abs\. 1 lit\. a sublit\. cc tritt mit Ablauf des 31\. Dezember 2019 außer Kraft\.
-
-> `(3)` Pensionsbeziehern, die Anspruch auf eine Leistung nach § 293 Abs\. 1 lit\. a sublit\. cc bis zum 31\. Dezember 2019 gehabt haben oder hätten, gebührt der Bonus nach § 299a in der Höhe, die sich aus § 293 Abs\. 1 lit\. a sublit\. cc ergibt, wenn dies günstiger ist und spätestens im Jahr 2020 beantragt wird\.
-
-> `(4)` Die Bundesministerin für Arbeit, Soziales, Gesundheit und Konsumentenschutz hat in Ergänzung der in § 700 Abs\. 6 dieses Bundesgesetzes, in § 365 Abs\. 3 GSVG und in § 357 Abs\. 3 BSVG vorgesehenen Evaluierung auch die sozialen Auswirkungen und die finanziellen Auswirkungen, die sich durch die Einführung des Ausgleichszulagenbonus nach § 299a dieses Bundesgesetzes, nach § 156a GSVG und nach § 147a BSVG ergeben, bis 31\. Dezember 2021 zu evaluieren\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-726-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-842019) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=726) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_893_TextContainer_893) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-726-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-842019) \]
 
@@ -20500,13 +18594,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 727 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 98/2019
 
-> `(1)` Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 98/2019 in Kraft:
->
->> `1.` mit 1\. Jänner 2020 die §§ 236 Abs\. 4b, 292 Abs\. 4 lit\. s und t sowie 293 Abs\. 1 lit\. a sublit\. aa;
->
->> `2.` rückwirkend mit 1\. September 2019 § 689 Abs\. 9\.
-
-> `(2)` Der Richtsatz nach § 293 Abs\. 1 lit\. a sublit\. aa in der Fassung des Bundesgesetzes BGBl\. I Nr\. 98/2019 ist abweichend von § 293 Abs\. 2 für das Kalenderjahr 2020 \(rückwirkend\) mit dem Faktor 1,036 zu vervielfachen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-727-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-982019) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=727) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_894_TextContainer_894) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-727-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-982019) \]
 
@@ -20562,21 +18650,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 731 ASVG — Ergänzende Schlussbestimmungen zum Sozialversicherungs-Organisationsgesetz, BGBl. I Nr. 100/2018
 
-> `(1)` Die folgenden Bestimmungen gelten für die Zusammenführung der Gebietskrankenkassen zur Österreichischen Gesundheitskasse, der Versicherungsanstalt öffentlich Bediensteter und der Versicherungsanstalt für Eisenbahnen und Bergbau zur Versicherungsanstalt für öffentlich Bedienstete, Eisenbahnen und Bergbau, der Sozialversicherungsanstalt der gewerblichen Wirtschaft und der Sozialversicherungsanstalt der Bauern zur Sozialversicherungsanstalt der Selbständigen sowie im Verhältnis zwischen den bisherigen Betriebskrankenkassen und einem Sozialversicherungsträger nach diesem oder einem anderen Bundesgesetz bzw\. der Krankenfürsorgeanstalt der Bediensteten der Stadt Wien für die im Zusammenhang mit dem Sozialversicherungs\-Organisationsgesetz, BGBl\. I Nr\. 100/2018, erforderlichen und im Folgenden näher bezeichneten Vorgänge, Rechtshandlungen und Rechtsgeschäfte\.
-
-> `(2)` Die durch den Übergang von Vermögen, Rechten, Pflichten und Verbindlichkeiten veranlassten \(anfallenden\) Schriften, Rechtsvorgänge und Rechtsgeschäfte sind von allen bundesgesetzlich geregelten Steuern, Gebühren und Abgaben befreit\.
-
-> `(3)` Der Übergang von Vermögensgegenständen und Verbindlichkeiten sowie sonstiger Rechte und Pflichten gilt nicht als steuerbarer Umsatz im Sinne des Umsatzsteuergesetzes 1994\. Es gelten für Zwecke der Umsatzsteuer die Rechtsverhältnisse für diese Tätigkeit als Unternehmer/in weiter\.
-
-> `(4)` Übertragene Wirtschaftsgüter gelten ertragssteuerlich als unentgeltlich übertragen\. Die Buchwerte sind fortzuführen\.
-
-> `(5)` Lohnsteuerrechtlich treten die übernehmenden Sozialversicherungsträger in die Rechtsstellung der bisherigen Arbeitgeber ein\.
-
-> `(6)` Der Übergang von Bestandsverhältnisse im Wege der Gesamtrechtsnachfolge oder zwischen Sozialversicherungsträgern oder dem Hauptverband \(Dachverband\) stellt keine Veräußerung im Sinne des § 12a Abs\. 1 des Mietrechtsgesetzes, BGBl\. Nr\. 520/1981, und keine Änderung der rechtlichen und wirtschaftlichen Einflussmöglichkeiten im Sinne des § 12a Abs\. 3 leg\. cit\. dar\.
-
-> `(7)` Parteienbezeichnungen und Eintragungen in öffentliche Register \(Grundbuch, Firmenbuch, Vereinsregister u\. dgl\.\) betreffend bisherige Sozialversicherungsträger bzw\. den Hauptverband sind auf Anregung des Sozialversicherungsträgers bzw\. des Dachverbandes oder bei jeder aus sonstigem Anlass vorzunehmenden Änderung der Eintragung nach Anhörung des neuen Sozialversicherungsträgers bzw\. des Dachverbandes von Amts wegen zu berichtigen\. Die bisherigen Bezeichnungen und Eintragungen wirken bis zur Berichtigung in rechtlicher Hinsicht, als ob sie bereits berichtigt wären\.
-
-> `(8)` § 731 Abs\. 7 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 105/2019 tritt am 1\. Jänner 2020 in Kraft
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-731-asvg--ergänzende-schlussbestimmungen-zum-sozialversicherungs-organisationsgesetz-bgbl-i-nr-1002018) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=731) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_898_TextContainer_898) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-731-asvg--ergänzende-schlussbestimmungen-zum-sozialversicherungs-organisationsgesetz-bgbl-i-nr-1002018) \]
 
@@ -20667,7 +18741,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 734 ASVG — Schlussbestimmungen zu Art. 45 des Bundesgesetzes BGBl. I Nr. 23/2020
 
-> § 175 Abs\. 1a und 1b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 23/2020 tritt rückwirkend mit 11\. März 2020 in Kraft und mit Ablauf des 31\. März 2021 außer Kraft\. Die Regelung ist auf jene Versicherungsfälle anzuwenden, die ab dem 11\. März 2020 eingetreten sind\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-734-asvg--schlussbestimmungen-zu-art-45-des-bundesgesetzes-bgbl-i-nr-232020) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=734) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_901_TextContainer_901) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-734-asvg--schlussbestimmungen-zu-art-45-des-bundesgesetzes-bgbl-i-nr-232020) \]
 
@@ -20675,18 +18749,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 736 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 31/2020
 
-> `(1)` § 733 Abs\. 5 letzter Satz in der Fassung des Bundesgesetzes BGBl\. I Nr\. 31/2020 tritt rückwirkend mit Ablauf des 22\. März 2020 außer Kraft\.
-
-> `(2)` Können Einsatztage im Sinne des § 49 Abs\. 3 Z 28 aufgrund der COVID\-19\-Krise nicht stattfinden und werden pauschale Reiseaufwandsentschädigungen weiter gewährt, können diese bis längstens 30\. Juni 2021*\(Anm\.\)* gemäß § 49 Abs\. 3 Z 28 nicht als Entgelt behandelt werden, sofern für diese Steuerfreiheit nach § 124b Z 352 EStG 1988 zusteht\.
-> *\(Anm\.: Abs\. 3 bis 8 aufgehoben durch Art\. 4 Z 1, BGBl\. I Nr\. 69/2023\)*
-
-> `(9)` § 32 APG gilt auch für Zeiträume im Jahr 2022\.
-
-> `(10)` Die Rahmenfrist von 240 Kalendermonaten nach § 607 Abs\. 14 dieses Bundesgesetzes und nach § 4 Abs\. 3 Z 1 APG verlängert sich um die Monate der Kurzarbeit wegen der COVID19Pandemie, wenn diese Monate keine Schwerarbeitsmonate sind\.
-
-> *\(\_\_\_\_\_\_\_\_\_\_\_*
->
-> *Anm\.: Art\. 1 Z 9 der Novelle BGBl\. I Nr\. 28/2021 lautet: „In den §§ 735 Abs\. 2a und 3 sowie 736 Abs\. 2 und 5 bis 8 wird der Ausdruck „31\. Dezember 2020“ jeweils durch den Ausdruck „30\. Juni 2021“ ersetzt\.“\. Die Anweisung konnte nicht durchgeführt werden\.*
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-736-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-312020) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=736) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_902_TextContainer_902) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-736-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-312020) \]
 
@@ -20694,17 +18757,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 737 ASVG — Schlussbestimmungen zu Art. 3 des Bundesgesetzes BGBl. I Nr. 54/2020
 
-> `(1)` § 41a Abs\. 1 und 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 104/2019 tritt nicht in Kraft\.
-
-> `(2)` Die §§ 41a und 49 Abs\. 3 Z 12 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 54/2020 treten mit 1\. Juli 2020 in Kraft\.
-
-> `(3)` § 735 Abs\. 2a in der Fassung der Z 1c in der Fassung des Bundesgesetzes BGBl\. I Nr\. 54/2020 tritt rückwirkend mit 6\. Mai 2020 in Kraft und mit Ablauf des 31\. Mai 2020 außer Kraft\. § 735 Abs\. 2a in der Fassung der Z 1c ist auf Beurteilungen der individuellen Risikosituation bzw\. COVID\-19\-Risiko\-Atteste anzuwenden, die ab 6\. Mai 2020 bis längstens 31\. Mai 2020 durchgeführt bzw\. ausgestellt werden\.
-
-> `(4)` § 735 Abs\. 4 erster Satz in der Fassung des Bundesgesetzes BGBl\. I Nr\. 54/2020 tritt rückwirkend mit 6\. Mai 2020 in Kraft\.
-
-> `(5)` § 735 Abs\. 2 erster Satz in der Fassung des Bundesgesetzes BGBl\. I Nr\. 54/2020 tritt mit 1\. Juni 2020 in Kraft\.
-
-> `(6)` § 735 Abs\. 2a in der Fassung der Z 1d in der Fassung des Bundesgesetzes BGBl\. I Nr\. 54/2020 tritt mit 1\. Juni 2020 in Kraft und ist auf COVID\-19\-Risiko\-Atteste anzuwenden, die ab diesem Zeitpunkt ausgestellt werden\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-737-asvg--schlussbestimmungen-zu-art-3-des-bundesgesetzes-bgbl-i-nr-542020) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=737) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_903_TextContainer_903) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-737-asvg--schlussbestimmungen-zu-art-3-des-bundesgesetzes-bgbl-i-nr-542020) \]
 
@@ -20720,9 +18773,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 739 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 73/2020
 
-> `(1)` § 292 Abs\. 8 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 73/2020 tritt rückwirkend mit 1\. Jänner 2020 in Kraft\.
-
-> `(2)` In Fällen, in denen durch die Absenkung des Prozentsatzes nach § 292 Abs\. 8 von 13% auf 10% durch das Bundesgesetz BGBl\. I Nr\. 73/2020 ein Anspruch auf Ausgleichszulage entsteht, gebührt diese abweichend von § 296 Abs\. 2 mit Erfüllung der Voraussetzungen, frühestens ab 1\. Jänner 2020, wenn der Antrag auf Ausgleichszulage im Jahr 2020 gestellt wird\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-739-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-732020) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=739) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_905_TextContainer_905) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-739-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-732020) \]
 
@@ -20730,11 +18781,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 740 ASVG — Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 100/2020
 
-> `(1)` § 733 Abs\. 12 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 100/2020 tritt rückwirkend mit 1\. Juni 2020 in Kraft\.
-
-> `(2)` § 351c Abs\. 14 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 100/2020 tritt mit 1\. September 2020 in Kraft\.
-
-> `(3)` Sofern die Preise für die vom § 351c Abs\. 14 erfassten Arzneispezialitäten bis 1\. Oktober 2021 innerhalb des Preisbandes gesenkt werden, sind Streichungen für diese Arzneispezialitäten nach § 351f Abs\. 1 aus gesundheitsökonomischen Gründen bis 1\. April 2022 ausgeschlossen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-740-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-1002020) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=740) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_906_TextContainer_906) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-740-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-1002020) \]
 
@@ -20786,23 +18833,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 745 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 28/2021
 
-> `(1)` Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 28/2021 in Kraft:
->
->> `1.` mit 1\. Jänner 2021 § 736 Abs\. 10;
->
->> `2.` mit 1\. Jänner 2022 die §§ 108h Abs\. 1a, 262a samt Überschrift und 286a samt Überschrift;
->
->> `3.` rückwirkend mit 1\. Oktober 2020 § 741 Abs\. 2 Z 4 sowie Abs\. 4 Z 15 und 16;
->
->> `4.` rückwirkend mit 1\. Juni 2020 § 733 Abs\. 15\.
-
-> `(2)` § 236 Abs\. 4b tritt mit Ablauf des 31\. Dezember 2021 außer Kraft\.
-
-> `(3)` § 108h Abs\. 1a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 28/2021 ist nur auf Leistungen anzuwenden, deren Stichtag \(§ 223 Abs\. 2\) nach dem 31\. Dezember 2020 liegt\.
-
-> `(4)` Auf Personen, die die Anspruchsvoraussetzungen nach § 236 Abs\. 4b in der am 31\. Dezember 2021 geltenden Fassung spätestens am 31\. Dezember 2021 erfüllen, ist die genannte Bestimmung weiterhin anzuwenden; die §§ 262a und 286a sind dabei nicht anzuwenden\.
-
-> `(5)` Die §§ 262a und 286a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 28/2021 sind auf Pensionen anzuwenden, deren Stichtag nach dem 31\. Dezember 2021 liegt\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-745-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-282021) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=745) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_909_TextContainer_909) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-745-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-282021) \]
 
@@ -20810,26 +18841,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 746 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 158/2020
 
-> `(1)` Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 158/2020 in Kraft:
->
->> `1.` mit 1\. Jänner 2021 die §§ 733 Abs\. 7, 8a bis 9, 11 und 12, 734, 735 Abs\. 2a und 3, 736 Abs\. 2 und 5 bis 8 sowie 747 samt Überschrift;
->
->> `2.` rückwirkend mit 1\. November 2020 der Abs\. 3;
->
->> `3.` rückwirkend mit 1\. Mai 2020 die §§ 306 Abs\. 4 und 306a samt Überschrift;
->
->> `4.` rückwirkend mit 1\. Juli 2017 § 162 Abs\. 3\.
-
-> `(1a)` \(Verfassungsbestimmung\) § 744 Abs\. 7 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 158/2020 tritt mit 1\. Jänner 2021 in Kraft\.
-
-> `(2)` § 733 Abs\. 15 in der Fassung des Sozialversicherungs\-Änderungsgesetzes 2020 tritt rückwirkend mit Ablauf des 31\. Mai 2020 außer Kraft\.
-
-> `(3)` Wird der vom Entgelt ausgenommene Betrag für die Teilnahme an Betriebsveranstaltungen nach § 49 Abs\. 3 Z 17 im Kalenderjahr 2020 nicht oder nicht zur Gänze ausgeschöpft, so ist für Dienstnehmer/innen von 1\. November 2020 bis 31\. Jänner 2021 der Empfang von Gutscheinen im Wert von bis zu 365 € beitragsfrei\.
-
-> `(4)` Abweichend von § 59 Abs\. 1 dritter Satz berechnet sich der Hundertsatz der rückständigen Beiträge im Zeitraum vom 1\. Juli 2021 bis zum 30\. September 2022 aus dem Basiszinssatz zuzüglich zwei Prozentpunkten\.
-
-> `(5)` Für Versicherungsfälle der Mutterschaft, die ab dem 11\. März 2020 eingetreten sind, bleiben für die Dauer der durch die WHO ausgerufenen COVID\-19\-Pandemie abweichend von § 162 Abs\. 3 in den Fällen der Kurzarbeit nach lit\. b diese Zeiten dann nicht außer Betracht, sofern dies für die Versicherte günstiger ist und dem zuständigen Krankenversicherungsträger die entsprechenden Unterlagen nach § 361 Abs\. 3 vorgelegt werden\. Der zum Vergleich heranzuziehende Arbeitsverdienst umfasst das Arbeitsentgelt, das während der Kurzarbeit gebührte, einschließlich der Kurzarbeitsunterstützung\.
-> *\(Anm\.: Abs\. 6* *und* *7 aufgehoben durch Art\. 4 Z 1, BGBl\. I Nr\. 69/2023\)*
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-746-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1582020) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=746) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_910_TextContainer_910) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.051.md#-746-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1582020) \]
 
@@ -20861,19 +18873,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 751 ASVG — Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 35/2021
 
-> `(1)` Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 35/2021 in Kraft:
->
->> `1.` mit dem auf den Tag der Kundmachung folgenden Tag § 742b samt Überschrift;
->
->> `2.` mit 1\. April 2021 die §§ 733, 746 Abs\. 4 und 750 samt Überschrift;
->
->> `3.` rückwirkend mit 8\. Februar 2021 die Überschrift zu § 742 und § 742a samt Überschrift;
->
->> `4.` rückwirkend mit 1\. Jänner 2021 § 748 Abs\. 1\.
-
-> `(2)` Die §§ 742a und 742b samt Überschriften treten mit 31\. August 2021 außer Kraft\. Dauert die COVID\-19\-Pandemie über den 31\. August 2021 hinaus an, so kann der Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz durch Verordnung das Außerkrafttreten bis längstens 31\. März 2022 verschieben\.
-
-> `(3)` § 742a ist auf jene Tests anzuwenden, die ab dem 8\. Februar 2021 in den öffentlichen Apotheken durchgeführt wurden\. § 742b ist auf jene SARS\-CoV\-2\-Antigentests zur Eigenanwendung anzuwenden, die ab dem auf den Tag der Kundmachung folgenden Tag abgegeben wurden\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-751-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-352021) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=751) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_913_TextContainer_913) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-751-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-352021) \]
 
@@ -20881,17 +18881,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 752 ASVG — Schlussbestimmungen zu Art. 5 des Bundesgesetzes BGBl. I Nr. 61/2021
 
-> `(1)` Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 61/2021 in Kraft:
->
->> `1.` mit 1\. April 2021 § 175 Abs\. 1a und 1b in der Fassung der Z 3;
->
->> `2.` rückwirkend mit 1\. Jänner 2021 § 49 Abs\. 3 Z 30 und 31;
->
->> `3.` rückwirkend mit 11\. März 2020 § 175 Abs\. 1b in der Fassung der Z 2\.
-
-> `(2)` § 734 Abs\. 2 tritt mit Ablauf des 31\. März 2021 außer Kraft\.
-
-> `(3)` § 175 Abs\. 1b in der Fassung der Z 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 61/2021 ist auf jene Versicherungsfälle anzuwenden, die vom 11\. März 2020 bis 31\. März 2021 eingetreten sind\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-752-asvg--schlussbestimmungen-zu-art-5-des-bundesgesetzes-bgbl-i-nr-612021) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=752) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_914_TextContainer_914) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-752-asvg--schlussbestimmungen-zu-art-5-des-bundesgesetzes-bgbl-i-nr-612021) \]
 
@@ -20937,15 +18927,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 757 ASVG — Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 114/2021
 
-> `(1)` Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 114/2021 in Kraft:
->
->> `1.` mit dem auf den Tag der Kundmachung folgenden Tag die §§ 705 Abs\. 3 und 748 Abs\. 1 erster Satz und Abs\. 2;
->
->> `2.` mit 1\. Juli 2021 die §§ 735 Abs\. 2, 2a, 3a, 3b, 4a sowie Abs\. 6 erster Satz, 736 Abs\. 7 und 8, 742b Abs\. 2 und 747 Abs\. 1;
->
->> `3.` rückwirkend mit 8\. Juni 2021 die Überschrift zu § 742a und Abs\. 2a\.
-
-> `(2)` § 49 Abs\. 3 Z 20 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 114/2021 tritt mit 1\. Juli 2021 in Kraft\. Der dritte Halbsatz ist nur auf jene Fälle anzuwenden, in denen die Wochen\-, Monats\- oder Jahreskarte nach dem 30\. Juni 2021 erworben wird\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-757-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-1142021) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=757) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_919_TextContainer_919) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-757-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-1142021) \]
 
@@ -21057,15 +19039,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 761 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 238/2021
 
-> `(1)` Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 238/2021 in Kraft:
->
->> `1.` mit 1\. Jänner 2022 die §§ 49 Abs\. 3 Z 12 und 736 Abs\. 9;
->
-> &nbsp; *\(Anm\.: Z 2 aufgehoben durch Art\. 4 Z 1, BGBl\. I Nr\. 69/2023\)*
-
-> `(2)` Können Einsatztage im Sinne des § 49 Abs\. 3 Z 28 auf Grund der COVID\-19\-Krise in den Kalendermonaten November und Dezember 2021 nicht stattfinden und werden pauschale Reiseaufwandsentschädigungen weiter gewährt, so gelten diese nach § 49 Abs\. 3 Z 28 nicht als Entgelt, wenn sie nach § 124b Z 381 EStG 1988 steuerfrei sind\.
-
-> `(3)` Wird der vom Entgelt ausgenommene Betrag für die Teilnahme an Betriebsveranstaltungen nach § 49 Abs\. 3 Z 17 im Kalenderjahr 2021 nicht oder nicht zur Gänze ausgeschöpft, so ist für Dienstnehmer/innen von 1\. November 2021 bis 31\. Jänner 2022 der Empfang von Gutscheinen im Wert von bis zu 365 € beitragsfrei\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-761-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-2382021) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=761) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_925_TextContainer_925) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-761-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-2382021) \]
 
@@ -21081,9 +19055,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 762 ASVG — Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 31/2022
 
-> `(1)` § 292 Abs\. 8 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 31/2022 tritt rückwirkend mit 1\. Jänner 2022 in Kraft\.
-
-> `(2)` In Fällen, in denen durch die Absenkung des Prozentsatzes nach § 292 Abs\. 8 von 10% auf 7,5% durch das Bundesgesetz BGBl\. I Nr\. 31/2022 ein Anspruch auf Ausgleichszulage entsteht, gebührt diese abweichend von § 296 Abs\. 2 mit Erfüllung der Voraussetzungen, frühestens ab 1\. Jänner 2022, wenn der Antrag auf Ausgleichszulage im Jahr 2022 gestellt wird\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-762-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-312022) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=762) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_927_TextContainer_927) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-762-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-312022) \]
 
@@ -21099,9 +19071,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 766 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 32/2022
 
-> `(1)` Die §§ 351c Abs\. 9a Z 2, 11, 15 und 16 sowie 735 Abs\. 2 Z 2 und Abs\. 3e in der Fassung des Bundesgesetzes BGBl\. I Nr\. 32/2022 treten mit 1\. April 2022 in Kraft\.
-
-> `(2)` Sofern die Preise für die vom § 351c Abs\. 15 erfassten Arzneispezialitäten bis 1\. Oktober 2023 innerhalb des Preisbandes gesenkt werden, sind Streichungen für diese Arzneispezialitäten nach § 351f Abs\. 1 aus gesundheitsökonomischen Gründen bis 31\. Dezember 2023 ausgeschlossen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-766-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-322022) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=766) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_929_TextContainer_929) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-766-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-322022) \]
 
@@ -21117,9 +19087,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 768 ASVG — Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 42/2022
 
-> `(1)` § 742b samt Überschrift in der Fassung des Bundesgesetzes BGBl\. I Nr\. 42/2022 tritt mit 9\. April 2022 in Kraft und mit Ablauf des 30\. Juni 2022 außer Kraft\. Dauert die COVID\-19\-Pandemie über den 30\. Juni 2022 hinaus an, so kann der Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz durch Verordnung das Außerkrafttreten bis längstens 30\. Juni 2023 verschieben\.
-
-> `(2)` § 742c samt Überschrift in der Fassung des Bundesgesetzes BGBl\. I Nr\. 42/2022 tritt rückwirkend mit 21\. März 2022 in Kraft und mit Ablauf des 30\. Juni 2023 außer Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-768-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-422022) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=768) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_931_TextContainer_931) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-768-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-422022) \]
 
@@ -21225,11 +19193,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 773 ASVG — Schlussbestimmungen zu Art. 7 des Bundesgesetzes BGBl. I Nr. 108/2022
 
-> `(1)` § 735 Abs\. 2 Z 1, 2 und Abs\. 2a letzter Satz in der Fassung des Bundesgesetzes BGBl\. I Nr\. 108/2022 tritt mit dem auf die Kundmachung folgenden Tag in Kraft\.
-
-> `(2)` § 49 Abs\. 3 Z 31 und 32 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 108/2022 tritt mit 1\. Juli 2022 in Kraft\.
-
-> `(3)` Die §§ 735 Abs\. 3e, 764 und 765 samt Überschriften treten mit dem Ablauf des Tages der Kundmachung des Bundesgesetzes BGBl\. I Nr\. 108/2022 außer Kraft\. Die Bezahlung des Honorars für die Ausnahmebestätigungen sowie der Kostenersatz des Bundes an die Krankenversicherungsträger nach § 764 Abs\. 1 haben für die bis zu diesem Zeitpunkt ausgestellten Ausnahmebestätigungen zu erfolgen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-773-asvg--schlussbestimmungen-zu-art-7-des-bundesgesetzes-bgbl-i-nr-1082022) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=773) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_937_TextContainer_937) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-773-asvg--schlussbestimmungen-zu-art-7-des-bundesgesetzes-bgbl-i-nr-1082022) \]
 
@@ -21320,15 +19284,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 779 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 179/2022
 
-> `(1)` Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 179/2022 in Kraft:
->
->> `1.` mit 1\. Jänner 2023 die §§ 421 Abs\. 1 und 423 Abs\. 1;
->
->> `2.` rückwirkend mit 1\. Juli 2022 § 772a Abs\. 4\.
-
-> `(2)` § 420 Abs\. 6 Z 5 tritt mit Ablauf des 31\. Dezember 2022 außer Kraft\.
-
-> `(3)` Personen, die vor dem 1\. Jänner 2023 als Versicherungsvertreter/innen in einen Verwaltungskörper entsendet werden, haben den Nachweis des Besuchs einer regelmäßig vom Dachverband durchzuführenden Informationsveranstaltung für angehende Versicherungsvertreter/innen bis längstens zum Ablauf des 31\. Dezember 2023 bei sonstiger Enthebung zu erbringen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-779-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1792022) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=779) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_943_TextContainer_943) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-779-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1792022) \]
 
@@ -21356,9 +19312,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 782 ASVG — Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 11/2023
 
-> `(1)` § 617 Abs\. 11 und 13 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 11/2023 tritt mit 1\. Juli 2023 in Kraft\.
-
-> `(2)` § 617 Abs\. 11 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 11/2023 ist auch auf Pensionen aus eigener Pensionsversicherung mit einem Stichtag vor dem 1\. Juli 2023 anzuwenden, wenn bei dieser Leistung eine Verminderung nach § 261 Abs\. 4 dieses Bundesgesetzes bzw\. nach den §§ 5 Abs\. 2 und 25 Abs\. 5 APG festgestellt wurde\. Gleiches gilt für Hinterbliebenenpensionen, die sich aus dieser Leistung ableiten\. Die Rechtskraft bereits ergangener Entscheidungen steht dem nicht entgegen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-782-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-112023) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=782) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_946_TextContainer_946) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-782-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-112023) \]
 
@@ -21366,11 +19320,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 783 ASVG — Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 36/2023
 
-> `(1)` § 776 Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 36/2023 tritt rückwirkend mit 1\. Jänner 2023 in Kraft\.
-
-> `(2)` Nachzahlungen, die auf Grund des § 776 Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 36/2023 gebühren, haben zum 30\. Juni 2023 von jenem Entscheidungsträger zu erfolgen, der die Direktzahlung zum 1\. März 2023 ausgezahlt hat\.
-
-> `(3)` § 108h Abs\. 1a ist bei den Pensionsanpassungen für die Kalenderjahre 2024 und 2025 nicht anzuwenden\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-783-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-362023) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=783) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_947_TextContainer_947) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-783-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-362023) \]
 
@@ -21398,25 +19348,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 786 ASVG — Schlussbestimmungen zu Art. 4 des Bundesgesetzes BGBl. I Nr. 69/2023
 
-> `(1)` § 742 Abs\. 1 in der Fassung der Z 2 des Bundesgesetzes BGBl\. I Nr\. 69/2023 tritt rückwirkend mit 5\. Mai 2023 in Kraft und mit Ablauf des 30\. Juni 2023 außer Kraft\.
-
-> `(2)` § 742 samt Überschrift in der Fassung des Bundesgesetzes BGBl\. I Nr\. 69/2023 tritt mit 1\. Juli 2023 in Kraft und mit Ablauf des 31\. März 2024 außer Kraft\.
-
-> `(2a)` § 742c samt Überschrift in der Fassung des Bundesgesetzes BGBl\. I Nr\. 69/2023 tritt mit 1\. Juli 2023 in Kraft und mit Ablauf des 31\. Jänner 2024 außer Kraft\.
-
-> `(3)` § 747 samt Überschrift in der Fassung des Bundesgesetzes BGBl\. I Nr\. 69/2023 tritt mit 1\. Juli 2023 in Kraft und mit Ablauf des 31\. März 2025 außer Kraft\.
-
-> `(4)` § 735 samt Überschrift, § 742a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 238/2021 samt Überschrift, die §§ 748 und 750 samt Überschriften sowie die §§ 736 Abs\. 3 bis 8, 746 Abs\. 6 und 7 und 761 Abs\. 1 Z 2 treten mit Ablauf des 30\. Juni 2023 außer Kraft\.
-
-> `(5)` Die für die Abrechnung des Kostenersatzes durch den Bund aus dem COVID\-19\-Krisenbewältigungsfonds nach den §§ 735, 736, 742, 742a, 742b, 742c, 746 Abs\. 6 und 7, 747, 748 und 750 erforderlichen Unterlagen und Nachweise sind vom Krankenversicherungsträger dem/der Bundesminister/in für Soziales, Gesundheit, Pflege und Konsumentenschutz für die gesetzmäßigen Aufwendungen
->
->> `–` aus den Jahren 2020 bis 2022bis längstens 31\. Dezember 2023, 
->
->> `–` aus dem Jahr 2023bis längstens 31\. Dezember 2024, 
->
->> `–` aus dem Jahr 2024bis längstens 31\. Dezember 2025 
->
-> &nbsp; bei sonstigem Anspruchsverlust vorzulegen\. In begründeten Fällen, insbesondere wenn die erforderlichen Unterlagen und Nachweise aus sachlichen Gründen nicht rechtzeitig beigebracht werden können, kann diese Frist auf Antrag durch den/die Bundesminister/in für Soziales, Gesundheit, Pflege und Konsumentenschutz unter Angabe einer neuen Frist verlängert werden\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-786-asvg--schlussbestimmungen-zu-art-4-des-bundesgesetzes-bgbl-i-nr-692023) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=786) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_950_TextContainer_950) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-786-asvg--schlussbestimmungen-zu-art-4-des-bundesgesetzes-bgbl-i-nr-692023) \]
 
@@ -21432,7 +19364,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 788 ASVG — Schlussbestimmungen zu Art. 3 des Bundesgesetzes BGBl. I Nr. 108/2023
 
-> `(1)` § 350 Abs\. 1 Z 2 lit\. b und c sowie Abs\. 1a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 108/2023 tritt mit 1\. Jänner 2024 in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-788-asvg--schlussbestimmungen-zu-art-3-des-bundesgesetzes-bgbl-i-nr-1082023) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=788) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_952_TextContainer_952) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-788-asvg--schlussbestimmungen-zu-art-3-des-bundesgesetzes-bgbl-i-nr-1082023) \]
 
@@ -21476,9 +19408,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 791 ASVG — Schlussbestimmungen zu Art. 28 des Bundesgesetzes BGBl. I Nr. 152/2023
 
-> `(1)` Die §§ 49 Abs\. 3 Z 11 lit\. d, Z 16, Z 16a und Abs\. 9 Z 2, 135 Abs\. 1 Z 2 sowie 349 Abs\. 2 und 3 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 152/2023 treten mit 1\. Jänner 2024 in Kraft\.
-
-> `(2)` Die Auswirkungen der Gleichstellung der klinisch\-psychologischen Behandlung mit der ärztlichen Hilfe nach § 135 Abs\. 1 Z 2 ASVG, § 91 Abs\. 1 Z 2 GSVG, § 85 Abs\. 1 Z 2 BSVG und § 63 Abs\. 1 Z 2 B\-KUVG auf die Versorgung der Versicherten und ihrer anspruchsberechtigten Angehörigen sind laufend durch die Gesundheit Österreich GmbH zu evaluieren\. Diese hat dem Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz bis 30\. September 2025 einen Evaluierungsbericht vorzulegen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-791-asvg--schlussbestimmungen-zu-art-28-des-bundesgesetzes-bgbl-i-nr-1522023) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=791) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_955_TextContainer_955) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-791-asvg--schlussbestimmungen-zu-art-28-des-bundesgesetzes-bgbl-i-nr-1522023) \]
 
@@ -21486,17 +19416,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 792 ASVG — Schlussbestimmungen zu Art. 5 des Bundesgesetzes BGBl. I Nr. 200/2023
 
-> `(1)` Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 200/2023 in Kraft:
->
->> `1.` mit dem auf die Kundmachung folgenden Tag die §§ 351c Abs\. 15 und 17 sowie 705 Abs\. 3;
->
->> `2.` mit 1\. Jänner 2024 die §§ 49 Abs\. 3 Z 30, 50a samt Überschrift und 443 Abs\. 1\.
-
-> `(2)` Die §§ 30a Abs\. 1 Z 38 und 39 sowie 350 Abs\. 1 Z 2 lit\. c und Z 3 und 4 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 200/2023 treten mit 1\. Jänner 2024 in Kraft und mit Ablauf des 31\. Dezember 2025 außer Kraft\.
-
-> `(3)` § 18a Abs\. 2 Z 3 tritt mit Ablauf des 31\. Dezember 2023 außer Kraft\.
-
-> `(4)` Sofern die Preise für die vom § 351c Abs\. 17 erfassten Arzneispezialitäten bis 1\. Oktober 2025 innerhalb des Preisbandes gesenkt werden, sind Streichungen für diese Arzneispezialitäten nach § 351f Abs\. 1 aus gesundheitsökonomischen Gründen bis 31\. Dezember 2025 ausgeschlossen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-792-asvg--schlussbestimmungen-zu-art-5-des-bundesgesetzes-bgbl-i-nr-2002023) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=792) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_956_TextContainer_956) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-792-asvg--schlussbestimmungen-zu-art-5-des-bundesgesetzes-bgbl-i-nr-2002023) \]
 
@@ -21512,13 +19432,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 794 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 189/2023
 
-> `(1)` Die §§ 54b und 261c Abs\. 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 189/2023 treten mit 1\. Jänner 2024 in Kraft\.
-
-> `(2)` Die Verrechnung der Beitragsübernahme nach § 54b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 189/2023 erfolgt rückwirkend nach Vorliegen der erforderlichen technischen Anpassungen in allen betroffenen Systemen\.
-
-> `(3)` § 54b in der Fassung des Bundesgesetzes BGBl\. I Nr\. 189/2023 tritt mit Ablauf des 31\. Dezember 2025 außer Kraft\.
-
-> `(4)` Der Dachverband hat bis zum 31\. März 2025 eine Evaluierung der Beitragsübernahme durch den Bund \(§ 54b\) unter Bindung an die Weisungen des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz im übertragenen Wirkungsbereich vorzunehmen\. Der Evaluierungsbericht ist dem Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz vorzulegen und von diesem an den Nationalrat zu übermitteln\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-794-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1892023) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=794) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_958_TextContainer_958) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-794-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1892023) \]
 
@@ -21526,17 +19440,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 795 ASVG — Schlussbestimmungen zu Art. 3 des Bundesgesetzes BGBl. I Nr. 191/2023
 
-> `(1)` Die §§ 30b Abs\. 1 Z 10 und 11, 31a Abs\. 4 Z 7 bis 9, 31d Abs\. 3, 84a Abs\. 1 zweiter Satz und Abs\. 3, 135 Abs\. 3, 136 Abs\. 2 letzter Satz, 338 Abs\. 2, 341, 342 Abs\. 1 Z 1 und 3, Abs\. 1a bis 1c sowie Abs\. 4, 342a Abs\. 5, 342c Abs\. 13, 343 Abs\. 1 sowie Abs\. 2 Z 8 und 9 und Abs\. 2 letzter Satz, 345 Abs\. 2 Z 2 und 3, 347 Abs\. 3a, 348 Abs\. 1 erster Satz sowie 447g samt Überschrift in der Fassung des Bundesgesetzes BGBl\. I Nr\. 191/2023 treten mit 1\. Jänner 2024 in Kraft\.
-
-> `(2)` § 31a Abs\. 7a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 191/2023 tritt mit 1\. Jänner 2026 in Kraft\.
-
-> `(3)` § 32b Abs\. 1 und 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 191/2023 tritt mit 1\. Jänner 2024 in Kraft und ist auf Honorarnoten anzuwenden, die für ab dem 1\. Juli 2024 erbrachte Leistungen ausgestellt wurden\.
-
-> `(4)` Die §§ 339 samt Überschrift, 342 Abs\. 2b und 2c sowie 343 Abs\. 1b und 1c treten mit Ablauf des 31\. Dezember 2023 außer Kraft\.
-
-> `(5)` Die Österreichische Gesundheitskasse hat einen bundesweit einheitlichen Gesamtvertrag abzuschließen\.
-
-> `(6)` Die am 31\. Dezember 2023 geltenden gesamtvertraglichen Stellenpläne gelten bis zu einer Einigung über einen Stellenplan nach § 342 Abs\. 1 Z 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 191/2023, längstens jedoch sechs Monate nach Wirksamwerden der jeweiligen Verordnung nach § 23 G\-ZG zur Verbindlicherklärung von Teilen des Regionalen Strukturplanes Gesundheit weiter\. Kommt in den sechs Monaten ab Wirksamwerden dieser Verordnung keine Einigung über einen Stellenplan nach § 342 Abs\. 1 Z 1 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 191/2023 zustande, ist § 342 Abs\. 1c in der Fassung des Bundesgesetzes BGBl\. I Nr\. 191/2023 anzuwenden\. Mit Ablauf des 31\. Dezember 2025 verlieren die am 31\. Dezember 2023 geltenden gesamtvertraglichen Stellenpläne unabhängig vom Wirksamwerden der jeweiligen Verordnung nach § 23 G\-ZG zur Verbindlicherklärung von Teilen des Regionalen Strukturplanes Gesundheit ihre Gültigkeit; in diesem Fall kommt § 24a G\-ZG zur Anwendung\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-795-asvg--schlussbestimmungen-zu-art-3-des-bundesgesetzes-bgbl-i-nr-1912023) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=795) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_959_TextContainer_959) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-795-asvg--schlussbestimmungen-zu-art-3-des-bundesgesetzes-bgbl-i-nr-1912023) \]
 
@@ -21564,11 +19468,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 797 ASVG — Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 16/2024
 
-> `(1)` Die §§ 31a Abs\. 9 Z 2 und Abs\. 9 zweiter Satz, Abs\. 9a sowie Abs\. 12 vierter Satz und 545 Abs\. 12 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 16/2024 treten mit 1\. April 2024 in Kraft\.
-
-> `(2)` § 31a Abs\. 9 vorletzter Satz tritt mit Ablauf des 31\. März 2024 außer Kraft\. Zum 31\. März 2024 bestehende vertragliche Vereinbarungen, die zwischen dem Dachverband der Sozialversicherungsträger und einzelnen als Passbehörden \(§ 16 des Passgesetzes 1992\) tätigen Behörden sowie Bürgermeisterinnen und Bürgermeister abgeschlossen wurden, bleiben bis zur Erlassung einer Verordnung nach § 31a Abs\. 9a wirksam\.
-
-> `(3)` § 113 Abs\. 1 und 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 16/2024 tritt mit dem auf den Tag der Kundmachung folgenden Tag in Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-797-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-162024) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=797) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_961_TextContainer_961) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-797-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-162024) \]
 
@@ -21576,9 +19476,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 798 ASVG — Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 18/2024
 
-> `(1)` Die §§ 177 Abs\. 1, 363 Abs\. 1, 2, 4 und 5 sowie die Anlage 1 zum ASVG in der Fassung des Bundesgesetzes BGBl\. I Nr\. 18/2024 treten mit 1\. März 2024 in Kraft\.
-
-> `(2)` Leidet der/die Versicherte am 1\. März 2024 an einer Krankheit, die erst auf Grund des Bundesgesetzes BGBl\. I Nr\. 18/2024 als Berufskrankheit gilt \(Anlage 1, Lfd\. Nr\. 5\.2\.2\., 5\.2\.3\., 7\.4\.2\. und 7\.7\.1\.\), oder ist er/sie vor dem 1\. März 2024 an einer solchen Krankheit gestorben, so sind an ihn/sie oder an seine/ihre Hinterbliebenen die Leistungen der Unfallversicherung zu erbringen, wenn der Versicherungsfall nach dem 31\. Dezember 1955 eingetreten ist\. Die Leistungen sind frühestens ab 1\. März 2024 zu erbringen, wenn der Antrag bis zum Ablauf des 28\. Februar 2025 gestellt wird; wird der Antrag nach dem 28\. Februar 2025 gestellt, so gebühren die Leistungen frühestens ab dem Tag der Antragstellung\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-798-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-182024) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=798) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_962_TextContainer_962) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-798-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-182024) \]
 
@@ -21586,15 +19484,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 799 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 46/2024
 
-> `(1)` Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 46/2024 in Kraft:
->
->> `1.` mit dem der Kundmachung folgenden Tag die §§ 86 Abs\. 6, 99 Abs\. 3 Z 1 lit\. b, Abs\. 3 Z 1 lit\. b sublit\. dd und 258 Abs\. 1;
->
->> `2.` mit 1\. Juli 2024 die §§ 49 Abs\. 3 Z 33 und 100 Abs\. 3;
->
->> `3.` rückwirkend mit 3\. Jänner 2020 die §§ 444 Abs\. 5, 449 Abs\. 2 erster Satz und 538z Abs\. 6\.
-
-> `(2)` § 86 Abs\. 3 Z 1 dritter Satz in der Fassung des Bundesgesetzes BGBl\. I Nr\. 59/2018 ist auch dann anzuwenden, wenn der Versicherungsfall vor dem 15\. August 2018 eingetreten ist\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-799-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-462024) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=799) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_963_TextContainer_963) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-799-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-462024) \]
 
@@ -21622,11 +19512,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 802 ASVG — Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 65/2024
 
-> `(1)` § 786 Abs\. 3 und 5 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 65/2024 tritt mit dem auf die Kundmachung folgenden Tag in Kraft\.
-
-> `(2)` § 747 Abs\. 2a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 65/2024 tritt mit 1\. Juli 2024 in Kraft und mit Ablauf des 31\. März 2025 außer Kraft\.
-
-> `(3)` § 158 Abs\. 6 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 65/2024 tritt mit 1\. September 2024 in Kraft und ist auf ab diesem Zeitpunkt in Anspruch genommene Leistungen anwendbar\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-802-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-652024) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=802) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_966_TextContainer_966) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-802-asvg--schlussbestimmungen-zum-bundesgesetz-bgbl-i-nr-652024) \]
 
@@ -21634,25 +19520,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 803 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 106/2024 (90. Novelle)
 
-> `(1)` Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 106/2024 in Kraft:
->
->> `1.` mit dem der Kundmachung folgenden Tag die §§ 8 Abs\. 1 Z 3 lit\. i, 15 Abs\. 5, 16 Abs\. 2 Z 1, 19 Abs\. 1 Z 2, 75a Abs\. 3, 84 Abs\. 3 Z 2 lit\. b sowie 4 und 5 Z 2 lit\. b, 86 Abs\. 3 Z 2, 89 Abs\. 1 Z 1, 117 Z 4 lit\. a, 120 Z 3, 136 Abs\. 4, 155 Abs\. 2 Z 3 und Abs\. 3, 159 samt Überschrift, 216 letzter Satz, 217 Abs\. 1 Z 1, 225 Abs\. 1 Z 2a, 227a Abs\. 4, 252 Abs\. 2 Z 2, 258 Abs\. 3 Z 1 und Abs\. 5, 307d Abs\. 2 Z 3 und Abs\. 6, 324 Abs\. 4, 327, 343 Abs\. 3, 431 samt Überschrift, 441c Abs\. 4, 447f Abs\. 9, 449 Abs\. 2, 460 Abs\. 3a und 4, 471i samt Überschrift und 728 Abs\. 2 zweiter Satz;
->
->> `2.` mit 1\. Jänner 2025 die §§ 262a Abs\. 1 und 3 sowie 286a Abs\. 1 und 3;
->
->> `3.` rückwirkend mit 1\. März 2024 die Nrn\. 5\.2\.4\., 5\.2\.5\. und 6\.2\.11\. bis 6\.2\.15 der Anlage 1;
->
->> `4.` rückwirkend mit 1\. Jänner 2024 § 70a Abs\. 1;
->
->> `5.` rückwirkend mit 14\. Oktober 2023 § 430 Abs\. 3b;
->
->> `6.` rückwirkend mit 1\. Juli 2021 die §§ 27 Abs\. 1, 51 Abs\. 1 Z 1 lit\. c, 176 Abs\. 1 Z 1, 363 Abs\. 3 Z 2 und 365 Abs\. 3;
->
->> `7.` rückwirkend mit 1\. Jänner 2020 die §§ 5 Abs\. 1 Z 3 lit\. c und d, 7 Z 4 lit\. o und Z 5, 8 Abs\. 1 Z 3 lit\. e, 28 Z 2 lit\. d, 30d Abs\. 1 letzter Satz, 31b Abs\. 2, 74 Abs\. 3 Z 3, 154a Abs\. 7, 342e Abs\. 1, 441g samt Überschrift, 446a, 447f Abs\. 7a dritter Satz, Abs\. 10 letzter Satz, Abs\. 12 letzter Satz, Abs\. 14 letzter Satz und Abs\. 15, 455 Abs\. 3, 447i Abs\. 5 und 455 Abs\. 3 sowie die Überschrift zu § 727;
->
->> `8.` rückwirkend mit 1\. Jänner 2019 die §§ 538w Abs\. 1 Z 2 lit\. e und 538z Abs\. 1\.
-
-> `(2)` § 19 Abs\. 1 Z 3 und 4 tritt mit Ablauf des Tages der Kundmachung außer Kraft\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-803-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1062024-90-novelle) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=803) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_967_TextContainer_967) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-803-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1062024-90-novelle) \]
 
@@ -21712,10 +19580,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 808 ASVG — Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 145/2024
 
-> `(1)` § 435 Abs\. 1 und 1a in der Fassung des Bundesgesetzes BGBl\. I Nr\. 145/2024 tritt mit 1\. November 2024 in Kraft\.
-
-> `(2)` Die §§ 135 Abs\. 1 Z 3 und 349 Abs\. 2 in der Fassung des Bundesgesetzes BGBl\. I Nr\. 145/2024 treten mit 1\. Jänner 2025 in Kraft\.
-> *\(Anm\.: Abs\. 3 aufgehoben durch Art\. 28 Z 5, BGBl\. I Nr\. 25/2025\)*
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-808-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1452024) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=808) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_972_TextContainer_972) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-808-asvg--schlussbestimmungen-zu-art-1-des-bundesgesetzes-bgbl-i-nr-1452024) \]
 
@@ -21723,39 +19588,7 @@ Der Nationalrat hat beschlossen:
 
 ### § 809 ASVG — Schlussbestimmungen zu Art. 8 des Bundesgesetzes BGBl. I Nr. 20/2025
 
-> `(1)` Es treten in der Fassung des Bundesgesetzes BGBl\. I Nr\. 20/2025 in Kraft:
->
->> `1.` mit dem auf den Tag der Kundmachung folgenden Tag § 786 Abs\. 5;
->
->> `2.` mit 1\. Juni 2025 die §§ 73 Abs\. 1 Z 1 und 2 sowie 447f Abs\. 1;
->
->> `3.` mit 1\. Jänner 2026 die §§ 30a Abs\. 1 Z 15, und 136 Abs\. 2;
->
->> `4.` rückwirkend mit 1\. April 2025 § 747 samt Überschrift;
->
->> `5.` rückwirkend mit 1\. Juni 2025 § 796 Abs\. 2;
->
->> `6.` rückwirkend mit 1\. Juli 2025 § 796 Abs\. 1\.
-
-> `(2)` § 747 samt Überschrift tritt mit 31\. März 2027 außer Kraft\.
-
-> `(3)` Abweichend von § 136 Abs\. 3 ist die Rezeptgebühr für das Jahr 2026 nicht zu vervielfachen\.
-
-> `(4)` Abweichend von § 30a Abs\. 1 Z 15 ist die Obergrenze für die Entrichtung von Rezeptgebühren im Jahr 2026 mit 2%, im Jahr 2027 mit 1,875%, im Jahr 2028 mit 1,75% und im Jahr 2029 mit 1,625% am jährlichen Nettoeinkommen der versicherten Person ohne Berücksichtigung der Sonderzahlungen zu bemessen\.
-
-> `(5)` Die für die Abrechnung des Kostenersatzes durch den Bund nach § 747 erforderlichen Unterlagen und Nachweise sind vom Krankenversicherungsträger dem/der Bundesminister/in für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz für die gesetzmäßigen Aufwendungen
->
->> `–` aus dem Jahr 2025bis längstens 31\. Dezember 2026 
->
->> `–` aus den Jahren 2026 und 2027bis längstens 31\. Oktober 2027 
->
-> &nbsp; bei sonstigem Anspruchsverlust vorzulegen\. In begründeten Fällen, insbesondere wenn die erforderlichen Unterlagen und Nachweise aus sachlichen Gründen nicht rechtzeitig beigebracht werden können, kann diese Frist auf Antrag durch den/die Bundesminister/in für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz unter Angabe einer neuen Frist verlängert werden\.
-
-> `(6)` Abweichend von § 73 Abs\. 1 ist im Jahr 2025 von Personen, die eine Ausgleichzulage, nicht aber einen Ausgleichzulagen\- oder Pensionsbonus, beziehen sowie von deren im gemeinsamen Haushalt lebenden Ehegattinnen, Ehegatten, eingetragenen Partnerinnen und Partnern ein Beitrag in der Höhe von 5,1% einzubehalten\. Eine dadurch bewirkte Erhöhung des Nettoeinkommens ist für den Anspruch auf Ausgleichszulage \(§ 292 Abs\. 1\) nicht zu berücksichtigen\.
-
-> `(7)` Durch Gesetz ist bis 1\. Jänner 2026 ein Fonds ohne eigene Rechtspersönlichkeit \(unselbständiger Verwaltungsfonds\) mit der Bezeichnung „Gesundheitsreformfonds“ einzurichten\. Dem Fonds sollen jene Mittel zur Verfügung gestellt werden, um die sich die von den Pensionsversicherungsträgern zu leistenden Überweisungsbeträge durch die Erhöhung der Beitragssätze in der Krankenversicherung erhöhen\.
-
-> `(8)` Die Erhöhung der Beitragssätze in der Krankenversicherung gemäß § 73 Abs\. 1 Z 1 und 2, § 29 Abs\. 1 GSVG, § 26 Abs\. 1 BSVG und § 20 Abs\. 2 und 2a B\-KUVG ist von der/dem Bundesminister/in für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz bis zum 31\. Dezember 2027 zu evaluieren\. Die Krankenversicherungsträger und der Dachverband der Sozialversicherungsträger haben hiefür die notwendigen Unterlagen zur Verfügung zu stellen\.
+> *Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung\.*
 
 \[ [🔗 Permalink](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.md#-809-asvg--schlussbestimmungen-zu-art-8-des-bundesgesetzes-bgbl-i-nr-202025) | [📜 RIS-Paragraphenansicht](http://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147&Paragraf=809) | [📖 RIS-Gesamtansicht](https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008147#MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_973_TextContainer_973) | [🤖 KI-freundliche Fassung](https://github.com/clairexen/LawAT/blob/main/files/BG.ASVG.052.md#-809-asvg--schlussbestimmungen-zu-art-8-des-bundesgesetzes-bgbl-i-nr-202025) \]
 

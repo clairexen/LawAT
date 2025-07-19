@@ -1018,6 +1018,7 @@ def cli_fetch(*args):
                             item[1] = t
 
             if "remove-headers" in normdata:
+                print(f"  `- running 'remove-headers' with /{normdata['remove-headers']}/.")
                 changecnt = 0
                 def text(el):
                     if not isinstance(el, list):
@@ -1035,7 +1036,34 @@ def cli_fetch(*args):
                             return None
                     return [c for c in [el[0]] + [walker(c, pat) for c in el[1:]] if c is not None]
                 risDocJsonText = walker(risDocJsonText, re.compile(normdata["remove-headers"]))
-                print(f"  `- removed {changecnt} headers matching /{normdata['remove-headers']}/.")
+                print(f"  `- removed {changecnt} headers.")
+
+            if "remove-schlussbestimmungen" in normdata:
+                print(f"  `- running 'remove-schlussbestimmungen' hack.")
+                changecnt = 0
+                schlussBest = None
+                def text(el):
+                    if not isinstance(el, list):
+                        return el.replace("\u00a0", " ")
+                    return " ".join([text(c) for c in el[1:]])
+                def walker(el):
+                    nonlocal changecnt, schlussBest
+                    if schlussBest:
+                        return None
+                    if not isinstance(el, list):
+                        return el
+                    if el[0].startswith("Title") and "Schlussbestimmungen" in text(el):
+                            schlussBest = text(el)
+                            return el
+                    ret = [c for c in [el[0]] + [walker(c) for c in el[1:]] if c is not None]
+                    if schlussBest and el[0].startswith("Part"):
+                        print(f"  `- removing '{schlussBest}'")
+                        ret.append(["Text", ["Rem", f"Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung."]])
+                        schlussBest = None
+                        changecnt += 1
+                    return ret
+                risDocJsonText = walker(risDocJsonText)
+                print(f"  `- removed {changecnt} parts.")
 
             risDocJsonText = prettyJSON(risDocJsonText)
 

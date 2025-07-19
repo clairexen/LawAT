@@ -21,39 +21,13 @@
 
 ### § 751 ASVG # Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 35/2021
 
-`§ 751 (1) ASVG.`  
-Es treten in der Fassung des Bundesgesetzes BGBl. I Nr. 35/2021 in Kraft:  
-`§ 751 (1) Z 1 ASVG.`
-mit dem auf den Tag der Kundmachung folgenden Tag § 742b samt Überschrift;  
-`§ 751 (1) Z 2 ASVG.`
-mit 1. April 2021 die §§ 733, 746 Abs. 4 und 750 samt Überschrift;  
-`§ 751 (1) Z 3 ASVG.`
-rückwirkend mit 8. Februar 2021 die Überschrift zu § 742 und § 742a samt Überschrift;  
-`§ 751 (1) Z 4 ASVG.`
-rückwirkend mit 1. Jänner 2021 § 748 Abs. 1.
-
-`§ 751 (2) ASVG.`  
-Die §§ 742a und 742b samt Überschriften treten mit 31. August 2021 außer Kraft. Dauert die COVID-19-Pandemie über den 31. August 2021 hinaus an, so kann der Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz durch Verordnung das Außerkrafttreten bis längstens 31. März 2022 verschieben.
-
-`§ 751 (3) ASVG.`  
-§ 742a ist auf jene Tests anzuwenden, die ab dem 8. Februar 2021 in den öffentlichen Apotheken durchgeführt wurden. § 742b ist auf jene SARS-CoV-2-Antigentests zur Eigenanwendung anzuwenden, die ab dem auf den Tag der Kundmachung folgenden Tag abgegeben wurden.
+`§ 751 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 752 ASVG # Schlussbestimmungen zu Art. 5 des Bundesgesetzes BGBl. I Nr. 61/2021
 
-`§ 752 (1) ASVG.`  
-Es treten in der Fassung des Bundesgesetzes BGBl. I Nr. 61/2021 in Kraft:  
-`§ 752 (1) Z 1 ASVG.`
-mit 1. April 2021 § 175 Abs. 1a und 1b in der Fassung der Z 3;  
-`§ 752 (1) Z 2 ASVG.`
-rückwirkend mit 1. Jänner 2021 § 49 Abs. 3 Z 30 und 31;  
-`§ 752 (1) Z 3 ASVG.`
-rückwirkend mit 11. März 2020 § 175 Abs. 1b in der Fassung der Z 2.
-
-`§ 752 (2) ASVG.`  
-§ 734 Abs. 2 tritt mit Ablauf des 31. März 2021 außer Kraft.
-
-`§ 752 (3) ASVG.`  
-§ 175 Abs. 1b in der Fassung der Z 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 61/2021 ist auf jene Versicherungsfälle anzuwenden, die vom 11. März 2020 bis 31. März 2021 eingetreten sind.
+`§ 752 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 753 ASVG # Schlussbestimmung zu Art. 4 des Bundesgesetzes BGBl. I Nr. 78/2021
 
@@ -84,17 +58,8 @@ Die §§ 742b Abs. 2 und 751 Abs. 2 in der Fassung des Bundesgesetzes BGBl. 
 
 ### § 757 ASVG # Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 114/2021
 
-`§ 757 (1) ASVG.`  
-Es treten in der Fassung des Bundesgesetzes BGBl. I Nr. 114/2021 in Kraft:  
-`§ 757 (1) Z 1 ASVG.`
-mit dem auf den Tag der Kundmachung folgenden Tag die §§ 705 Abs. 3 und 748 Abs. 1 erster Satz und Abs. 2;  
-`§ 757 (1) Z 2 ASVG.`
-mit 1. Juli 2021 die §§ 735 Abs. 2, 2a, 3a, 3b, 4a sowie Abs. 6 erster Satz, 736 Abs. 7 und 8, 742b Abs. 2 und 747 Abs. 1;  
-`§ 757 (1) Z 3 ASVG.`
-rückwirkend mit 8. Juni 2021 die Überschrift zu § 742a und Abs. 2a.
-
-`§ 757 (2) ASVG.`  
-§ 49 Abs. 3 Z 20 in der Fassung des Bundesgesetzes BGBl. I Nr. 114/2021 tritt mit 1. Juli 2021 in Kraft. Der dritte Halbsatz ist nur auf jene Fälle anzuwenden, in denen die Wochen-, Monats- oder Jahreskarte nach dem 30. Juni 2021 erworben wird.
+`§ 757 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 758 ASVG # Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 179/2021
 
@@ -200,17 +165,8 @@ Eine Verordnung nach § 735 Abs. 3b kann bereits ab dem 3. Dezember 2021 erla
 
 ### § 761 ASVG # Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 238/2021
 
-`§ 761 (1) ASVG.`  
-Es treten in der Fassung des Bundesgesetzes BGBl. I Nr. 238/2021 in Kraft:  
-`§ 761 (1) Z 1 ASVG.`
-mit 1. Jänner 2022 die §§ 49 Abs. 3 Z 12 und 736 Abs. 9;  
-*(Anm.: Z 2 aufgehoben durch Art. 4 Z 1, BGBl. I Nr. 69/2023)*
-
-`§ 761 (2) ASVG.`  
-Können Einsatztage im Sinne des § 49 Abs. 3 Z 28 auf Grund der COVID-19-Krise in den Kalendermonaten November und Dezember 2021 nicht stattfinden und werden pauschale Reiseaufwandsentschädigungen weiter gewährt, so gelten diese nach § 49 Abs. 3 Z 28 nicht als Entgelt, wenn sie nach § 124b Z 381 EStG 1988 steuerfrei sind.
-
-`§ 761 (3) ASVG.`  
-Wird der vom Entgelt ausgenommene Betrag für die Teilnahme an Betriebsveranstaltungen nach § 49 Abs. 3 Z 17 im Kalenderjahr 2021 nicht oder nicht zur Gänze ausgeschöpft, so ist für Dienstnehmer/innen von 1. November 2021 bis 31. Jänner 2022 der Empfang von Gutscheinen im Wert von bis zu 365 € beitragsfrei.
+`§ 761 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 761a ASVG # Schlussbestimmung zu Artikel 5 des Bundesgesetzes BGBl. I Nr. 15/2022
 
@@ -219,11 +175,8 @@ Die §§ 4 Abs. 1 Z 5 und 5 Abs. 1 Z 16 lit. b in der Fassung des Bundesge
 
 ### § 762 ASVG # Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 31/2022
 
-`§ 762 (1) ASVG.`  
-§ 292 Abs. 8 in der Fassung des Bundesgesetzes BGBl. I Nr. 31/2022 tritt rückwirkend mit 1. Jänner 2022 in Kraft.
-
-`§ 762 (2) ASVG.`  
-In Fällen, in denen durch die Absenkung des Prozentsatzes nach § 292 Abs. 8 von 10% auf 7,5% durch das Bundesgesetz BGBl. I Nr. 31/2022 ein Anspruch auf Ausgleichszulage entsteht, gebührt diese abweichend von § 296 Abs. 2 mit Erfüllung der Voraussetzungen, frühestens ab 1. Jänner 2022, wenn der Antrag auf Ausgleichszulage im Jahr 2022 gestellt wird.
+`§ 762 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 763 ASVG # Schlussbestimmung zu Art. 2 des Bundesgesetzes BGBl. I Nr. 29/2022
 
@@ -232,11 +185,8 @@ In Fällen, in denen durch die Absenkung des Prozentsatzes nach § 292 Abs. 8 
 
 ### § 766 ASVG # Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 32/2022
 
-`§ 766 (1) ASVG.`  
-Die §§ 351c Abs. 9a Z 2, 11, 15 und 16 sowie 735 Abs. 2 Z 2 und Abs. 3e in der Fassung des Bundesgesetzes BGBl. I Nr. 32/2022 treten mit 1. April 2022 in Kraft.
-
-`§ 766 (2) ASVG.`  
-Sofern die Preise für die vom § 351c Abs. 15 erfassten Arzneispezialitäten bis 1. Oktober 2023 innerhalb des Preisbandes gesenkt werden, sind Streichungen für diese Arzneispezialitäten nach § 351f Abs. 1 aus gesundheitsökonomischen Gründen bis 31. Dezember 2023 ausgeschlossen.
+`§ 766 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 767 ASVG # Schlussbestimmung zu Art. 2 des Bundesgesetzes BGBl. I Nr. 60/2022
 
@@ -245,11 +195,8 @@ Die §§ 5 Abs. 1 Z 17 bis 19, 7 Z 4 und 53a Abs. 3a in der Fassung des Bun
 
 ### § 768 ASVG # Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 42/2022
 
-`§ 768 (1) ASVG.`  
-§ 742b samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 42/2022 tritt mit 9. April 2022 in Kraft und mit Ablauf des 30. Juni 2022 außer Kraft. Dauert die COVID-19-Pandemie über den 30. Juni 2022 hinaus an, so kann der Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz durch Verordnung das Außerkrafttreten bis längstens 30. Juni 2023 verschieben.
-
-`§ 768 (2) ASVG.`  
-§ 742c samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 42/2022 tritt rückwirkend mit 21. März 2022 in Kraft und mit Ablauf des 30. Juni 2023 außer Kraft.
+`§ 768 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 769 ASVG # Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 81/2022
 
@@ -345,14 +292,8 @@ Die außerordentliche Einmalzahlung gilt nicht als Nettoeinkommen im Sinne des �
 
 ### § 773 ASVG # Schlussbestimmungen zu Art. 7 des Bundesgesetzes BGBl. I Nr. 108/2022
 
-`§ 773 (1) ASVG.`  
-§ 735 Abs. 2 Z 1, 2 und Abs. 2a letzter Satz in der Fassung des Bundesgesetzes BGBl. I Nr. 108/2022 tritt mit dem auf die Kundmachung folgenden Tag in Kraft.
-
-`§ 773 (2) ASVG.`  
-§ 49 Abs. 3 Z 31 und 32 in der Fassung des Bundesgesetzes BGBl. I Nr. 108/2022 tritt mit 1. Juli 2022 in Kraft.
-
-`§ 773 (3) ASVG.`  
-Die §§ 735 Abs. 3e, 764 und 765 samt Überschriften treten mit dem Ablauf des Tages der Kundmachung des Bundesgesetzes BGBl. I Nr. 108/2022 außer Kraft. Die Bezahlung des Honorars für die Ausnahmebestätigungen sowie der Kostenersatz des Bundes an die Krankenversicherungsträger nach § 764 Abs. 1 haben für die bis zu diesem Zeitpunkt ausgestellten Ausnahmebestätigungen zu erfolgen.
+`§ 773 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 774 ASVG # Schlussbestimmung zu Art. 1 des Bundesgesetzes BGBl. I Nr. 174/2022
 
@@ -430,18 +371,8 @@ Die §§ 742a samt Überschrift sowie 742c Abs. 1 und 2 in der Fassung des Bun
 
 ### § 779 ASVG # Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 179/2022
 
-`§ 779 (1) ASVG.`  
-Es treten in der Fassung des Bundesgesetzes BGBl. I Nr. 179/2022 in Kraft:  
-`§ 779 (1) Z 1 ASVG.`
-mit 1. Jänner 2023 die §§ 421 Abs. 1 und 423 Abs. 1;  
-`§ 779 (1) Z 2 ASVG.`
-rückwirkend mit 1. Juli 2022 § 772a Abs. 4.
-
-`§ 779 (2) ASVG.`  
-§ 420 Abs. 6 Z 5 tritt mit Ablauf des 31. Dezember 2022 außer Kraft.
-
-`§ 779 (3) ASVG.`  
-Personen, die vor dem 1. Jänner 2023 als Versicherungsvertreter/innen in einen Verwaltungskörper entsendet werden, haben den Nachweis des Besuchs einer regelmäßig vom Dachverband durchzuführenden Informationsveranstaltung für angehende Versicherungsvertreter/innen bis längstens zum Ablauf des 31. Dezember 2023 bei sonstiger Enthebung zu erbringen.
+`§ 779 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 780 ASVG # Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 217/2022
 
@@ -459,22 +390,13 @@ rückwirkend mit 25. Mai 2018 die §§ 30c Abs. 1a und 460e.
 
 ### § 782 ASVG # Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 11/2023
 
-`§ 782 (1) ASVG.`  
-§ 617 Abs. 11 und 13 in der Fassung des Bundesgesetzes BGBl. I Nr. 11/2023 tritt mit 1. Juli 2023 in Kraft.
-
-`§ 782 (2) ASVG.`  
-§ 617 Abs. 11 in der Fassung des Bundesgesetzes BGBl. I Nr. 11/2023 ist auch auf Pensionen aus eigener Pensionsversicherung mit einem Stichtag vor dem 1. Juli 2023 anzuwenden, wenn bei dieser Leistung eine Verminderung nach § 261 Abs. 4 dieses Bundesgesetzes bzw. nach den §§ 5 Abs. 2 und 25 Abs. 5 APG festgestellt wurde. Gleiches gilt für Hinterbliebenenpensionen, die sich aus dieser Leistung ableiten. Die Rechtskraft bereits ergangener Entscheidungen steht dem nicht entgegen.
+`§ 782 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 783 ASVG # Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 36/2023
 
-`§ 783 (1) ASVG.`  
-§ 776 Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 36/2023 tritt rückwirkend mit 1. Jänner 2023 in Kraft.
-
-`§ 783 (2) ASVG.`  
-Nachzahlungen, die auf Grund des § 776 Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 36/2023 gebühren, haben zum 30. Juni 2023 von jenem Entscheidungsträger zu erfolgen, der die Direktzahlung zum 1. März 2023 ausgezahlt hat.
-
-`§ 783 (3) ASVG.`  
-§ 108h Abs. 1a ist bei den Pensionsanpassungen für die Kalenderjahre 2024 und 2025 nicht anzuwenden.
+`§ 783 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 784 ASVG # Schlussbestimmung zu Art. 2 des Bundesgesetzes BGBl. I Nr. 81/2023
 
@@ -494,30 +416,8 @@ Die beruflichen und gesetzlichen Interessenvertretungen der Leistungserbringer/i
 
 ### § 786 ASVG # Schlussbestimmungen zu Art. 4 des Bundesgesetzes BGBl. I Nr. 69/2023
 
-`§ 786 (1) ASVG.`  
-§ 742 Abs. 1 in der Fassung der Z 2 des Bundesgesetzes BGBl. I Nr. 69/2023 tritt rückwirkend mit 5. Mai 2023 in Kraft und mit Ablauf des 30. Juni 2023 außer Kraft.
-
-`§ 786 (2) ASVG.`  
-§ 742 samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 69/2023 tritt mit 1. Juli 2023 in Kraft und mit Ablauf des 31. März 2024 außer Kraft.
-
-`§ 786 (2a) ASVG.`  
-§ 742c samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 69/2023 tritt mit 1. Juli 2023 in Kraft und mit Ablauf des 31. Jänner 2024 außer Kraft.
-
-`§ 786 (3) ASVG.`  
-§ 747 samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 69/2023 tritt mit 1. Juli 2023 in Kraft und mit Ablauf des 31. März 2025 außer Kraft.
-
-`§ 786 (4) ASVG.`  
-§ 735 samt Überschrift, § 742a in der Fassung des Bundesgesetzes BGBl. I Nr. 238/2021 samt Überschrift, die §§ 748 und 750 samt Überschriften sowie die §§ 736 Abs. 3 bis 8, 746 Abs. 6 und 7 und 761 Abs. 1 Z 2 treten mit Ablauf des 30. Juni 2023 außer Kraft.
-
-`§ 786 (5) ASVG.`  
-Die für die Abrechnung des Kostenersatzes durch den Bund aus dem COVID-19-Krisenbewältigungsfonds nach den §§ 735, 736, 742, 742a, 742b, 742c, 746 Abs. 6 und 7, 747, 748 und 750 erforderlichen Unterlagen und Nachweise sind vom Krankenversicherungsträger dem/der Bundesminister/in für Soziales, Gesundheit, Pflege und Konsumentenschutz für die gesetzmäßigen Aufwendungen  
-`§ 786 (5) – ASVG.`
-aus den Jahren 2020 bis 2022bis längstens 31. Dezember 2023,   
-`§ 786 (5) – ASVG.`
-aus dem Jahr 2023bis längstens 31. Dezember 2024,   
-`§ 786 (5) – ASVG.`
-aus dem Jahr 2024bis längstens 31. Dezember 2025   
-bei sonstigem Anspruchsverlust vorzulegen. In begründeten Fällen, insbesondere wenn die erforderlichen Unterlagen und Nachweise aus sachlichen Gründen nicht rechtzeitig beigebracht werden können, kann diese Frist auf Antrag durch den/die Bundesminister/in für Soziales, Gesundheit, Pflege und Konsumentenschutz unter Angabe einer neuen Frist verlängert werden.
+`§ 786 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 787 ASVG # Schlussbestimmung zu Art. 3 des Bundesgesetzes BGBl. I Nr. 82/2023
 
@@ -526,8 +426,8 @@ bei sonstigem Anspruchsverlust vorzulegen. In begründeten Fällen, insbesondere
 
 ### § 788 ASVG # Schlussbestimmungen zu Art. 3 des Bundesgesetzes BGBl. I Nr. 108/2023
 
-`§ 788 (1) ASVG.`  
-§ 350 Abs. 1 Z 2 lit. b und c sowie Abs. 1a in der Fassung des Bundesgesetzes BGBl. I Nr. 108/2023 tritt mit 1. Jänner 2024 in Kraft.
+`§ 788 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 789 ASVG # Schlussbestimmung zu Art. 18 des Bundesgesetzes BGBl. I Nr. 110/2023
 
@@ -565,29 +465,13 @@ Rechtsträger, die Leistungen nach Abs. 2 dritter und letzter Satz auszahlen, h
 
 ### § 791 ASVG # Schlussbestimmungen zu Art. 28 des Bundesgesetzes BGBl. I Nr. 152/2023
 
-`§ 791 (1) ASVG.`  
-Die §§ 49 Abs. 3 Z 11 lit. d, Z 16, Z 16a und Abs. 9 Z 2, 135 Abs. 1 Z 2 sowie 349 Abs. 2 und 3 in der Fassung des Bundesgesetzes BGBl. I Nr. 152/2023 treten mit 1. Jänner 2024 in Kraft.
-
-`§ 791 (2) ASVG.`  
-Die Auswirkungen der Gleichstellung der klinisch-psychologischen Behandlung mit der ärztlichen Hilfe nach § 135 Abs. 1 Z 2 ASVG, § 91 Abs. 1 Z 2 GSVG, § 85 Abs. 1 Z 2 BSVG und § 63 Abs. 1 Z 2 B-KUVG auf die Versorgung der Versicherten und ihrer anspruchsberechtigten Angehörigen sind laufend durch die Gesundheit Österreich GmbH zu evaluieren. Diese hat dem Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz bis 30. September 2025 einen Evaluierungsbericht vorzulegen.
+`§ 791 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 792 ASVG # Schlussbestimmungen zu Art. 5 des Bundesgesetzes BGBl. I Nr. 200/2023
 
-`§ 792 (1) ASVG.`  
-Es treten in der Fassung des Bundesgesetzes BGBl. I Nr. 200/2023 in Kraft:  
-`§ 792 (1) Z 1 ASVG.`
-mit dem auf die Kundmachung folgenden Tag die §§ 351c Abs. 15 und 17 sowie 705 Abs. 3;  
-`§ 792 (1) Z 2 ASVG.`
-mit 1. Jänner 2024 die §§ 49 Abs. 3 Z 30, 50a samt Überschrift und 443 Abs. 1.
-
-`§ 792 (2) ASVG.`  
-Die §§ 30a Abs. 1 Z 38 und 39 sowie 350 Abs. 1 Z 2 lit. c und Z 3 und 4 in der Fassung des Bundesgesetzes BGBl. I Nr. 200/2023 treten mit 1. Jänner 2024 in Kraft und mit Ablauf des 31. Dezember 2025 außer Kraft.
-
-`§ 792 (3) ASVG.`  
-§ 18a Abs. 2 Z 3 tritt mit Ablauf des 31. Dezember 2023 außer Kraft.
-
-`§ 792 (4) ASVG.`  
-Sofern die Preise für die vom § 351c Abs. 17 erfassten Arzneispezialitäten bis 1. Oktober 2025 innerhalb des Preisbandes gesenkt werden, sind Streichungen für diese Arzneispezialitäten nach § 351f Abs. 1 aus gesundheitsökonomischen Gründen bis 31. Dezember 2025 ausgeschlossen.
+`§ 792 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 793 ASVG # Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 190/2023
 
@@ -596,37 +480,13 @@ Der 8. Unterabschnitt des Ersten Teils, Abschnitt V in der Fassung des Bundesg
 
 ### § 794 ASVG # Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 189/2023
 
-`§ 794 (1) ASVG.`  
-Die §§ 54b und 261c Abs. 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 189/2023 treten mit 1. Jänner 2024 in Kraft.
-
-`§ 794 (2) ASVG.`  
-Die Verrechnung der Beitragsübernahme nach § 54b in der Fassung des Bundesgesetzes BGBl. I Nr. 189/2023 erfolgt rückwirkend nach Vorliegen der erforderlichen technischen Anpassungen in allen betroffenen Systemen.
-
-`§ 794 (3) ASVG.`  
-§ 54b in der Fassung des Bundesgesetzes BGBl. I Nr. 189/2023 tritt mit Ablauf des 31. Dezember 2025 außer Kraft.
-
-`§ 794 (4) ASVG.`  
-Der Dachverband hat bis zum 31. März 2025 eine Evaluierung der Beitragsübernahme durch den Bund (§ 54b) unter Bindung an die Weisungen des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz im übertragenen Wirkungsbereich vorzunehmen. Der Evaluierungsbericht ist dem Bundesminister für Soziales, Gesundheit, Pflege und Konsumentenschutz vorzulegen und von diesem an den Nationalrat zu übermitteln.
+`§ 794 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 795 ASVG # Schlussbestimmungen zu Art. 3 des Bundesgesetzes BGBl. I Nr. 191/2023
 
-`§ 795 (1) ASVG.`  
-Die §§ 30b Abs. 1 Z 10 und 11, 31a Abs. 4 Z 7 bis 9, 31d Abs. 3, 84a Abs. 1 zweiter Satz und Abs. 3, 135 Abs. 3, 136 Abs. 2 letzter Satz, 338 Abs. 2, 341, 342 Abs. 1 Z 1 und 3, Abs. 1a bis 1c sowie Abs. 4, 342a Abs. 5, 342c Abs. 13, 343 Abs. 1 sowie Abs. 2 Z 8 und 9 und Abs. 2 letzter Satz, 345 Abs. 2 Z 2 und 3, 347 Abs. 3a, 348 Abs. 1 erster Satz sowie 447g samt Überschrift in der Fassung des Bundesgesetzes BGBl. I Nr. 191/2023 treten mit 1. Jänner 2024 in Kraft.
-
-`§ 795 (2) ASVG.`  
-§ 31a Abs. 7a in der Fassung des Bundesgesetzes BGBl. I Nr. 191/2023 tritt mit 1. Jänner 2026 in Kraft.
-
-`§ 795 (3) ASVG.`  
-§ 32b Abs. 1 und 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 191/2023 tritt mit 1. Jänner 2024 in Kraft und ist auf Honorarnoten anzuwenden, die für ab dem 1. Juli 2024 erbrachte Leistungen ausgestellt wurden.
-
-`§ 795 (4) ASVG.`  
-Die §§ 339 samt Überschrift, 342 Abs. 2b und 2c sowie 343 Abs. 1b und 1c treten mit Ablauf des 31. Dezember 2023 außer Kraft.
-
-`§ 795 (5) ASVG.`  
-Die Österreichische Gesundheitskasse hat einen bundesweit einheitlichen Gesamtvertrag abzuschließen.
-
-`§ 795 (6) ASVG.`  
-Die am 31. Dezember 2023 geltenden gesamtvertraglichen Stellenpläne gelten bis zu einer Einigung über einen Stellenplan nach § 342 Abs. 1 Z 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 191/2023, längstens jedoch sechs Monate nach Wirksamwerden der jeweiligen Verordnung nach § 23 G-ZG zur Verbindlicherklärung von Teilen des Regionalen Strukturplanes Gesundheit weiter. Kommt in den sechs Monaten ab Wirksamwerden dieser Verordnung keine Einigung über einen Stellenplan nach § 342 Abs. 1 Z 1 in der Fassung des Bundesgesetzes BGBl. I Nr. 191/2023 zustande, ist § 342 Abs. 1c in der Fassung des Bundesgesetzes BGBl. I Nr. 191/2023 anzuwenden. Mit Ablauf des 31. Dezember 2025 verlieren die am 31. Dezember 2023 geltenden gesamtvertraglichen Stellenpläne unabhängig vom Wirksamwerden der jeweiligen Verordnung nach § 23 G-ZG zur Verbindlicherklärung von Teilen des Regionalen Strukturplanes Gesundheit ihre Gültigkeit; in diesem Fall kommt § 24a G-ZG zur Anwendung.
+`§ 795 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 796 ASVG # Verfügung über Impfstoffe und Bedarfsmaterialien zur Verabreichung von COVID-19-Impfstoffen sowie über COVID-19-Arzneimittel
 
@@ -648,36 +508,18 @@ Für vom Bund angeschaffte COVID-19-Arzneimittel gilt Abs. 1 mit der Maßgabe, 
 
 ### § 797 ASVG # Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 16/2024
 
-`§ 797 (1) ASVG.`  
-Die §§ 31a Abs. 9 Z 2 und Abs. 9 zweiter Satz, Abs. 9a sowie Abs. 12 vierter Satz und 545 Abs. 12 in der Fassung des Bundesgesetzes BGBl. I Nr. 16/2024 treten mit 1. April 2024 in Kraft.
-
-`§ 797 (2) ASVG.`  
-§ 31a Abs. 9 vorletzter Satz tritt mit Ablauf des 31. März 2024 außer Kraft. Zum 31. März 2024 bestehende vertragliche Vereinbarungen, die zwischen dem Dachverband der Sozialversicherungsträger und einzelnen als Passbehörden (§ 16 des Passgesetzes 1992) tätigen Behörden sowie Bürgermeisterinnen und Bürgermeister abgeschlossen wurden, bleiben bis zur Erlassung einer Verordnung nach § 31a Abs. 9a wirksam.
-
-`§ 797 (3) ASVG.`  
-§ 113 Abs. 1 und 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 16/2024 tritt mit dem auf den Tag der Kundmachung folgenden Tag in Kraft.
+`§ 797 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 798 ASVG # Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 18/2024
 
-`§ 798 (1) ASVG.`  
-Die §§ 177 Abs. 1, 363 Abs. 1, 2, 4 und 5 sowie die Anlage 1 zum ASVG in der Fassung des Bundesgesetzes BGBl. I Nr. 18/2024 treten mit 1. März 2024 in Kraft.
-
-`§ 798 (2) ASVG.`  
-Leidet der/die Versicherte am 1. März 2024 an einer Krankheit, die erst auf Grund des Bundesgesetzes BGBl. I Nr. 18/2024 als Berufskrankheit gilt (Anlage 1, Lfd. Nr. 5.2.2., 5.2.3., 7.4.2. und 7.7.1.), oder ist er/sie vor dem 1. März 2024 an einer solchen Krankheit gestorben, so sind an ihn/sie oder an seine/ihre Hinterbliebenen die Leistungen der Unfallversicherung zu erbringen, wenn der Versicherungsfall nach dem 31. Dezember 1955 eingetreten ist. Die Leistungen sind frühestens ab 1. März 2024 zu erbringen, wenn der Antrag bis zum Ablauf des 28. Februar 2025 gestellt wird; wird der Antrag nach dem 28. Februar 2025 gestellt, so gebühren die Leistungen frühestens ab dem Tag der Antragstellung.
+`§ 798 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 799 ASVG # Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 46/2024
 
-`§ 799 (1) ASVG.`  
-Es treten in der Fassung des Bundesgesetzes BGBl. I Nr. 46/2024 in Kraft:  
-`§ 799 (1) Z 1 ASVG.`
-mit dem der Kundmachung folgenden Tag die §§ 86 Abs. 6, 99 Abs. 3 Z 1 lit. b, Abs. 3 Z 1 lit. b sublit. dd und 258 Abs. 1;  
-`§ 799 (1) Z 2 ASVG.`
-mit 1. Juli 2024 die §§ 49 Abs. 3 Z 33 und 100 Abs. 3;  
-`§ 799 (1) Z 3 ASVG.`
-rückwirkend mit 3. Jänner 2020 die §§ 444 Abs. 5, 449 Abs. 2 erster Satz und 538z Abs. 6.
-
-`§ 799 (2) ASVG.`  
-§ 86 Abs. 3 Z 1 dritter Satz in der Fassung des Bundesgesetzes BGBl. I Nr. 59/2018 ist auch dann anzuwenden, wenn der Versicherungsfall vor dem 15. August 2018 eingetreten ist.
+`§ 799 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 800 ASVG # Schlussbestimmung zum Bundesgesetz BGBl. I Nr. 64/2024
 
@@ -697,38 +539,13 @@ Trat der in § 120 Z 3 festgelegte Zeitpunkt vor dem Tag der Kundmachung des B
 
 ### § 802 ASVG # Schlussbestimmungen zum Bundesgesetz BGBl. I Nr. 65/2024
 
-`§ 802 (1) ASVG.`  
-§ 786 Abs. 3 und 5 in der Fassung des Bundesgesetzes BGBl. I Nr. 65/2024 tritt mit dem auf die Kundmachung folgenden Tag in Kraft.
-
-`§ 802 (2) ASVG.`  
-§ 747 Abs. 2a in der Fassung des Bundesgesetzes BGBl. I Nr. 65/2024 tritt mit 1. Juli 2024 in Kraft und mit Ablauf des 31. März 2025 außer Kraft.
-
-`§ 802 (3) ASVG.`  
-§ 158 Abs. 6 in der Fassung des Bundesgesetzes BGBl. I Nr. 65/2024 tritt mit 1. September 2024 in Kraft und ist auf ab diesem Zeitpunkt in Anspruch genommene Leistungen anwendbar.
+`§ 802 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 803 ASVG # Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 106/2024 (90. Novelle)
 
-`§ 803 (1) ASVG.`  
-Es treten in der Fassung des Bundesgesetzes BGBl. I Nr. 106/2024 in Kraft:  
-`§ 803 (1) Z 1 ASVG.`
-mit dem der Kundmachung folgenden Tag die §§ 8 Abs. 1 Z 3 lit. i, 15 Abs. 5, 16 Abs. 2 Z 1, 19 Abs. 1 Z 2, 75a Abs. 3, 84 Abs. 3 Z 2 lit. b sowie 4 und 5 Z 2 lit. b, 86 Abs. 3 Z 2, 89 Abs. 1 Z 1, 117 Z 4 lit. a, 120 Z 3, 136 Abs. 4, 155 Abs. 2 Z 3 und Abs. 3, 159 samt Überschrift, 216 letzter Satz, 217 Abs. 1 Z 1, 225 Abs. 1 Z 2a, 227a Abs. 4, 252 Abs. 2 Z 2, 258 Abs. 3 Z 1 und Abs. 5, 307d Abs. 2 Z 3 und Abs. 6, 324 Abs. 4, 327, 343 Abs. 3, 431 samt Überschrift, 441c Abs. 4, 447f Abs. 9, 449 Abs. 2, 460 Abs. 3a und 4, 471i samt Überschrift und 728 Abs. 2 zweiter Satz;  
-`§ 803 (1) Z 2 ASVG.`
-mit 1. Jänner 2025 die §§ 262a Abs. 1 und 3 sowie 286a Abs. 1 und 3;  
-`§ 803 (1) Z 3 ASVG.`
-rückwirkend mit 1. März 2024 die Nrn. 5.2.4., 5.2.5. und 6.2.11. bis 6.2.15 der Anlage 1;  
-`§ 803 (1) Z 4 ASVG.`
-rückwirkend mit 1. Jänner 2024 § 70a Abs. 1;  
-`§ 803 (1) Z 5 ASVG.`
-rückwirkend mit 14. Oktober 2023 § 430 Abs. 3b;  
-`§ 803 (1) Z 6 ASVG.`
-rückwirkend mit 1. Juli 2021 die §§ 27 Abs. 1, 51 Abs. 1 Z 1 lit. c, 176 Abs. 1 Z 1, 363 Abs. 3 Z 2 und 365 Abs. 3;  
-`§ 803 (1) Z 7 ASVG.`
-rückwirkend mit 1. Jänner 2020 die §§ 5 Abs. 1 Z 3 lit. c und d, 7 Z 4 lit. o und Z 5, 8 Abs. 1 Z 3 lit. e, 28 Z 2 lit. d, 30d Abs. 1 letzter Satz, 31b Abs. 2, 74 Abs. 3 Z 3, 154a Abs. 7, 342e Abs. 1, 441g samt Überschrift, 446a, 447f Abs. 7a dritter Satz, Abs. 10 letzter Satz, Abs. 12 letzter Satz, Abs. 14 letzter Satz und Abs. 15, 455 Abs. 3, 447i Abs. 5 und 455 Abs. 3 sowie die Überschrift zu § 727;  
-`§ 803 (1) Z 8 ASVG.`
-rückwirkend mit 1. Jänner 2019 die §§ 538w Abs. 1 Z 2 lit. e und 538z Abs. 1.
-
-`§ 803 (2) ASVG.`  
-§ 19 Abs. 1 Z 3 und 4 tritt mit Ablauf des Tages der Kundmachung außer Kraft.
+`§ 803 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 804 ASVG # Schlussbestimmung zu Art. 3 des BGBl. I Nr. 107/2024
 
@@ -776,55 +593,13 @@ Rechtsträger, die Leistungen nach Abs. 2 dritter und letzter Satz auszahlen, h
 
 ### § 808 ASVG # Schlussbestimmungen zu Art. 1 des Bundesgesetzes BGBl. I Nr. 145/2024
 
-`§ 808 (1) ASVG.`  
-§ 435 Abs. 1 und 1a in der Fassung des Bundesgesetzes BGBl. I Nr. 145/2024 tritt mit 1. November 2024 in Kraft.
-
-`§ 808 (2) ASVG.`  
-Die §§ 135 Abs. 1 Z 3 und 349 Abs. 2 in der Fassung des Bundesgesetzes BGBl. I Nr. 145/2024 treten mit 1. Jänner 2025 in Kraft.
-*(Anm.: Abs. 3 aufgehoben durch Art. 28 Z 5, BGBl. I Nr. 25/2025)*
+`§ 808 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 809 ASVG # Schlussbestimmungen zu Art. 8 des Bundesgesetzes BGBl. I Nr. 20/2025
 
-`§ 809 (1) ASVG.`  
-Es treten in der Fassung des Bundesgesetzes BGBl. I Nr. 20/2025 in Kraft:  
-`§ 809 (1) Z 1 ASVG.`
-mit dem auf den Tag der Kundmachung folgenden Tag § 786 Abs. 5;  
-`§ 809 (1) Z 2 ASVG.`
-mit 1. Juni 2025 die §§ 73 Abs. 1 Z 1 und 2 sowie 447f Abs. 1;  
-`§ 809 (1) Z 3 ASVG.`
-mit 1. Jänner 2026 die §§ 30a Abs. 1 Z 15, und 136 Abs. 2;  
-`§ 809 (1) Z 4 ASVG.`
-rückwirkend mit 1. April 2025 § 747 samt Überschrift;  
-`§ 809 (1) Z 5 ASVG.`
-rückwirkend mit 1. Juni 2025 § 796 Abs. 2;  
-`§ 809 (1) Z 6 ASVG.`
-rückwirkend mit 1. Juli 2025 § 796 Abs. 1.
-
-`§ 809 (2) ASVG.`  
-§ 747 samt Überschrift tritt mit 31. März 2027 außer Kraft.
-
-`§ 809 (3) ASVG.`  
-Abweichend von § 136 Abs. 3 ist die Rezeptgebühr für das Jahr 2026 nicht zu vervielfachen.
-
-`§ 809 (4) ASVG.`  
-Abweichend von § 30a Abs. 1 Z 15 ist die Obergrenze für die Entrichtung von Rezeptgebühren im Jahr 2026 mit 2%, im Jahr 2027 mit 1,875%, im Jahr 2028 mit 1,75% und im Jahr 2029 mit 1,625% am jährlichen Nettoeinkommen der versicherten Person ohne Berücksichtigung der Sonderzahlungen zu bemessen.
-
-`§ 809 (5) ASVG.`  
-Die für die Abrechnung des Kostenersatzes durch den Bund nach § 747 erforderlichen Unterlagen und Nachweise sind vom Krankenversicherungsträger dem/der Bundesminister/in für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz für die gesetzmäßigen Aufwendungen  
-`§ 809 (5) – ASVG.`
-aus dem Jahr 2025bis längstens 31. Dezember 2026   
-`§ 809 (5) – ASVG.`
-aus den Jahren 2026 und 2027bis längstens 31. Oktober 2027   
-bei sonstigem Anspruchsverlust vorzulegen. In begründeten Fällen, insbesondere wenn die erforderlichen Unterlagen und Nachweise aus sachlichen Gründen nicht rechtzeitig beigebracht werden können, kann diese Frist auf Antrag durch den/die Bundesminister/in für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz unter Angabe einer neuen Frist verlängert werden.
-
-`§ 809 (6) ASVG.`  
-Abweichend von § 73 Abs. 1 ist im Jahr 2025 von Personen, die eine Ausgleichzulage, nicht aber einen Ausgleichzulagen- oder Pensionsbonus, beziehen sowie von deren im gemeinsamen Haushalt lebenden Ehegattinnen, Ehegatten, eingetragenen Partnerinnen und Partnern ein Beitrag in der Höhe von 5,1% einzubehalten. Eine dadurch bewirkte Erhöhung des Nettoeinkommens ist für den Anspruch auf Ausgleichszulage (§ 292 Abs. 1) nicht zu berücksichtigen.
-
-`§ 809 (7) ASVG.`  
-Durch Gesetz ist bis 1. Jänner 2026 ein Fonds ohne eigene Rechtspersönlichkeit (unselbständiger Verwaltungsfonds) mit der Bezeichnung „Gesundheitsreformfonds“ einzurichten. Dem Fonds sollen jene Mittel zur Verfügung gestellt werden, um die sich die von den Pensionsversicherungsträgern zu leistenden Überweisungsbeträge durch die Erhöhung der Beitragssätze in der Krankenversicherung erhöhen.
-
-`§ 809 (8) ASVG.`  
-Die Erhöhung der Beitragssätze in der Krankenversicherung gemäß § 73 Abs. 1 Z 1 und 2, § 29 Abs. 1 GSVG, § 26 Abs. 1 BSVG und § 20 Abs. 2 und 2a B-KUVG ist von der/dem Bundesminister/in für Arbeit, Soziales, Gesundheit, Pflege und Konsumentenschutz bis zum 31. Dezember 2027 zu evaluieren. Die Krankenversicherungsträger und der Dachverband der Sozialversicherungsträger haben hiefür die notwendigen Unterlagen zur Verfügung zu stellen.
+`§ 809 ASVG.`  
+*Bitte konsultieren Sie das RIS für den Wortlaut dieser Schlussbestimmung.*
 
 ### § 810 ASVG # Schlussbestimmung zu Art. 28 des Bundesgesetzes BGBl. I Nr. 25/2025
 
