@@ -1373,17 +1373,13 @@ def cli_rs(*args):
                                         removeprefix("Rechtssatz\n").strip()
             }
             if res := tree.xpath("//h3[contains(., 'Im RIS seit')]/.."):
-                rsdata["items"][rsid]["Datum_Seit"] = res[0].text_content().strip(). \
-                                        removeprefix("Im RIS seit\n").strip()
+                rsdata["items"][rsid]["Datum_Seit"] = res[0].text_content().strip().removeprefix("Im RIS seit\n").strip()
             if res := tree.xpath("//h3[contains(., 'Zuletzt aktualisiert am')]/.."):
-                rsdata["items"][rsid]["Datum_Update"] = res[0].text_content().strip(). \
-                                        removeprefix("Zuletzt aktualisiert am\n").strip()
+                rsdata["items"][rsid]["Datum_Update"] = res[0].text_content().strip().removeprefix("Zuletzt aktualisiert am\n").strip()
             if res := tree.xpath("//h3[contains(., 'Entscheidungsdatum')]/.."):
-                rsdata["items"][rsid]["Datum_Entscheidung"] = res[0].text_content().strip(). \
-                                        removeprefix("Entscheidungsdatum\n").strip()
+                rsdata["items"][rsid]["Datum_Entscheidung"] = res[0].text_content().strip().removeprefix("Entscheidungsdatum\n").strip()
             if res := tree.xpath("//h3[contains(., 'Rechtsgebiet')]/.."):
-                rsdata["items"][rsid]["Rechtsgebiet"] = res[0].text_content(). \
-                                replace(" ", "").strip().split("\n")[1]
+                rsdata["items"][rsid]["Rechtsgebiet"] = res[0].text_content().replace(" ", "").strip().split("\n")[1]
             if res := tree.xpath("//h3[contains(., 'Schlagworte')]/.."):
                 rsdata["items"][rsid]["Schlagworte"] = sorted(w.strip() for w in \
                                 res[0].text_content().strip().removeprefix("Schlagworte").split(",") if w.strip())
