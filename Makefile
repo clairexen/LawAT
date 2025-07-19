@@ -8,7 +8,7 @@ help:
 	@echo "Usage:"
 	@echo "  make venv ........ create Python .venv/"
 	@echo "  make zip ......... (re-)create LawAT_DataSet.zip"
-	@echo "  make json ........ (re-)create LawAT_DataSet.json"
+	@echo "  make json ........ (re-)create LawAT_DataSet_*.json"
 	@echo "  make purge ....... remove these (re-)created output files"
 	@echo ""
 
@@ -31,8 +31,8 @@ LawAT_DataSet.zip: normlist.json files/*
 	rm -vf LawAT_DataSet.zip
 	zip -vXj LawAT_DataSet.zip -r files normlist.json
 
-json: LawAT_DataSet.json
-LawAT_DataSet.json: venv normlist.json files/*
+json: LawAT_DataSet_markup.json
+LawAT_DataSet_markup.json: venv normlist.json files/*
 	.venv/bin/python3 code/RisExUtils.py mkjson
 	.venv/bin/python3 code/RisExUtils.py mkwebapp
 
@@ -61,7 +61,7 @@ deploy:
 	.venv/bin/python3 code/RisExUtils.py mkwebapp
 	[ -d __ghpages__ ] || git clone -b gh-pages git@github.com:clairexen/LawAT.git __ghpages__
 	-cd __ghpages__ && git rm -rf .
-	cp -vt __ghpages__/ LawAT_DataSet.json LawAT_DataSet.zip webapp.json
+	cp -vt __ghpages__/ LawAT_DataSet_*.json LawAT_DataSet.zip webapp.json
 	cp -vt __ghpages__/ code/RisEnQuery.py code/risen.js
 	cp -vt __ghpages__/ code/index.html code/style.css
 	cp -vt __ghpages__/ code/lawdoc.js code/lawdoc.css
@@ -71,6 +71,6 @@ deploy:
 
 purge:
 	rm -rf .venv __pycache__/ __ghpages__/ __rismarkup__/ __webcache__/
-	rm -rf code/__pycache__/ LawAT_DataSet.json LawAT_DataSet.zip webapp.json
+	rm -rf code/__pycache__/ LawAT_DataSet_*.json LawAT_DataSet.zip webapp.json
 
 .PHONY: help venv zip json update check-markup mitmp webapp deploy purge

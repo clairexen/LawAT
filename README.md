@@ -6,7 +6,10 @@ Dieser Datensatz ist keine weitere "Online Rechtsdatenbank", sondern eine Sammlu
 
 LawAT Data-Set Download Links:
 * **[LawAT_DataSet.zip](https://clairexen.github.io/LawAT/LawAT_DataSet.zip)** (incl. binary objects)
-* **[LawAT_DataSet.json](https://clairexen.github.io/LawAT/LawAT_DataSet.json)** (not incl. binary objects)
+* **[LawAT_DataSet_markup.json](https://clairexen.github.io/LawAT/LawAT_DataSet_markup.json)** (LawAT "LawDoc" Markup)
+* **[LawAT_DataSet_md4agents.json](https://clairexen.github.io/LawAT/LawAT_DataSet_md4agents.json)** ("AI-Friendly" Markdown)
+* **[LawAT_DataSet_md4users.json](https://clairexen.github.io/LawAT/LawAT_DataSet_md4users.json)** ("Human-Friendly" Markdown)
+* **[LawAT_DataSet_rsdata.json](https://clairexen.github.io/LawAT/LawAT_DataSet_rsdata.json)** (Rechtssätze)
 
 Bitte konkrete Wünsche, welche Normen noch hinzugefügt werden sollen, einfach als [Neues Issue](https://github.com/clairexen/LawAT/issues/new) hinterlegen. Am besten gleich mit dem RIS Link zur gesamten geltenden Fassung.
 

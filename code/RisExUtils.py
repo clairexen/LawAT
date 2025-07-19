@@ -1421,16 +1421,29 @@ def cli_rs(*args):
         json.dump(rsdata, f, ensure_ascii=False, indent=2)
 
 def cli_mkjson():
-    data = dict()
-
-    for fn in ["normlist.json"] + glob.glob(f"{flags.filesdir}/*.json") + glob.glob(f"{flags.filesdir}/*.md"):
-        if fn.endswith(".json"):
-            data[fn.removeprefix(f"{flags.filesdir}/")] = json.load(open(fn))
-        else:
-            data[fn.removeprefix(f"{flags.filesdir}/")] = open(fn).read().split("\n")
-
-    with open("LawAT_DataSet.json", "w") as f:
-        json.dump(data, f)
+    md4ai = set(glob.glob(f"{flags.filesdir}/*.[0-9][0-9][0-9].md"))
+    filemap = {
+        "rsdata": [f"{flags.filesdir}/rsdata.json"],
+        "markup": ["normlist.json", f"{flags.filesdir}/index.json"] +
+                        glob.glob(f"{flags.filesdir}/*.*.json"),
+        "md4users": ["normlist.json", f"{flags.filesdir}/index.json", f"{flags.filesdir}/index.md"] +
+                        glob.glob(f"{flags.filesdir}/*.index.json") +
+                        glob.glob(f"{flags.filesdir}/*.[0-9][0-9][0-9].md"),
+        "md4agents": ["normlist.json", f"{flags.filesdir}/index.json"] +
+                        glob.glob(f"{flags.filesdir}/*.index.json") +
+                        [f for f in glob.glob(f"{flags.filesdir}/*.md") if not f in md4ai],
+    }
+    for item, fns in filemap.items():
+        data = dict()
+        for fn in fns:
+            if fn.endswith(".json"):
+                data[fn.removeprefix(f"{flags.filesdir}/")] = json.load(open(fn))
+            else:
+                data[fn.removeprefix(f"{flags.filesdir}/")] = open(fn).read().split("\n")
+        with open(f"LawAT_DataSet_{item}.json", "w") as f:
+            f.write("{\n" +
+                ",\n".join(f'"{fn}": {json.dumps(dat, ensure_ascii=False)}' for fn, dat in data.items()) +
+                "\n}\n")
 
 def cli_mkwebapp():
     data = dict()
