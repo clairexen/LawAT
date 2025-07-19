@@ -938,6 +938,14 @@ class LawDocMarkdownEngine:
 # CLI Interface
 ###############
 
+def cli_find(*args):
+    today = time.localtime()
+    today = f"{today.tm_mday:02}.{today.tm_mon:02}.{today.tm_year}"
+    for arg in args:
+        os.system("xdg-open 'https://www.ris.bka.gv.at/Ergebnis.wxe?Abfrage=Bundesnormen&" +
+                    f"Titel={arg}&VonParagraf=0&FassungVom={today}&SkipToDocumentPage=true'")
+    time.sleep(0.5)
+
 def cli_update(*args):
     addFlag("new", False)
     args = updateFlags(*args)
