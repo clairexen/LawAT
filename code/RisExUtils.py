@@ -1438,6 +1438,9 @@ def cli_mkwebapp():
                      glob.glob(f"{flags.filesdir}/*.index.json") + glob.glob(f"{flags.filesdir}/*.markup.json") +
                      glob.glob(f"{flags.filesdir}/*.[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].json")):
         data[fn.removeprefix(f"{flags.filesdir}/")] = json.load(open(fn))
+    data["rsdata.json"]["items"] = {
+                    rsid: { "URL": rsdat["URL"], "Rechtssatz": rsdat["Rechtssatz"] }
+                    for rsid, rsdat in data["rsdata.json"]["items"].items() }
     with open("webapp.json", "w") as f:
         json.dump(data, f)
 
