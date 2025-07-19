@@ -84,6 +84,34 @@
 	"caption": "BMJ: DV zum Staatsanwaltschaftsgesetz (DV-StAG)",
 	"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000872"
 },
+"BG.GOG": {
+	"type": "BG",
+	"title": "GOG",
+	"stop": "§ 99",
+	"caption": "Gerichtsorganisationsgesetz (GOG)",
+	"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009"
+},
+"BG.RpflG": {
+	"type": "BG",
+	"title": "RpflG",
+	"stop": "§ 48",
+	"caption": "Rechtspflegergesetz (RpflG)",
+	"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002703"
+},
+"BG.RStDG": {
+	"type": "BG",
+	"title": "RStDG",
+	"stop": "Anl. 4",
+	"caption": "Richter- und Staatsanwaltschaftsdienstgesetz (RStDG)",
+	"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008187"
+},
+"BG.RAO": {
+	"type": "BG",
+	"title": "RAO",
+	"stop": "§ 60",
+	"caption": "Rechtsanwaltsordnung (RAO)",
+	"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001673"
+},
 
 "1": "====================================================================================================",
 
@@ -115,13 +143,6 @@
 	"stop": "§ 123",
 	"caption": "Jurisdiktionsnorm (JN)",
 	"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001697"
-},
-"BG.GOG": {
-	"type": "BG",
-	"title": "GOG",
-	"stop": "§ 99",
-	"caption": "Gerichtsorganisationsgesetz (GOG)",
-	"docurl": "https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10000009"
 },
 
 "2": "====================================================================================================",

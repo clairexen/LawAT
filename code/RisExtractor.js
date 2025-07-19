@@ -215,12 +215,12 @@ risContentBlocks = {};
 _rex_initialize = () => {
 	var lastParName = null;
 	document.querySelectorAll("div.document > div.documentContent").forEach(el => {
-		const parName = el.querySelector(":scope > h2.onlyScreenreader:first-child").
-				textContent.trimStart().trimEnd();
-		if (parName == lastParName) return; else lastParName = parName;
+		const parName = el.querySelector(":scope > h2.onlyScreenreader:first-child").textContent.trim();
+		// if (parName == lastParName) return;
 		// if (parName != "§ 31") return;
 		risContentBlocks[parName] = el;
 		risParList.push(parName);
+		lastParName = parName;
 	});
 	_rex_initialize = () => undefined;
 };
