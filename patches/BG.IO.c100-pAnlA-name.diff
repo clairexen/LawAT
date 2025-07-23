@@ -1,0 +1,20 @@
+--- BG.IO.markup.json
++++ BG.IO.markup.json
+@@ -378,7 +378,7 @@ ["Meta PartAnchors",
+     "§ 283 #MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_367_TextContainer_367",
+     "§ 284 #MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_368_TextContainer_368",
+     "§ 285 #MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_369_TextContainer_369",
+-    "Anl. 1 #MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_370_TextContainer_370",
++    "Anl. A #MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_370_TextContainer_370",
+     "END #MainContent_DocumentRepeater_BundesnormenCompleteNormDocumentData_371_TextContainer_371"],
+ ["Meta LocalChanges"],
+ ["Meta Promulgation",
+@@ -9238,7 +9238,7 @@ ["Part § 285",
+     ["Text",
+         "§ 254 Abs. 3a in der Fassung des Bundesgesetzes BGBl. I Nr. 77/2023 tritt mit ",
+         "14. Juli 2023 in Kraft."]],
+-["Part Anl. 1",
++["Part Anl. A",
+     ["Media",
+         ["Img",
+             "~/Dokumente/Bundesnormen/NOR40237147/image001.png"]]]]}

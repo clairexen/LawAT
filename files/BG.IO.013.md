@@ -6,6 +6,7 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001736  
 **Letzte Änderung im RIS:** BGBl. I Nr. 77/2023 (NR: GP XXVII RV 2093 AB 2155 S. 226. BR: AB 11288 S. 957.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.IO.013.md  
+**LawAT Änderungen im Markup:** [BG.IO.c100-pAnlA-name](../patches/BG.IO.c100-pAnlA-name.diff)  
 *Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *Das ist die "AI-Friendly" multi-part Variante dieser Rechtsvorschrift mit kompakter Formatierung. Siehe [BG.IO.md](BG.IO.md) für die "Human-Friendly" single-page Variante dieser Norm mit hübscherer Formatierung.*
@@ -413,7 +414,7 @@ Die Bestimmungen über den Tilgungsplan (§§ 199, 201 Abs. 2, § 216 Abs. 1
 `§ 285 IO.`  
 § 254 Abs. 3a in der Fassung des Bundesgesetzes BGBl. I Nr. 77/2023 tritt mit 14. Juli 2023 in Kraft.
 
-### Anl. 1 IO
+### Anl. A IO
 
 ![BG.IO.obj.BN.NOR40237147.image001.png](BG.IO.obj.BN.NOR40237147.image001.png "~/Dokumente/Bundesnormen/NOR40237147/image001.png")
 

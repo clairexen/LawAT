@@ -6,6 +6,7 @@
 **Quelle:** https://ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001736  
 **Letzte Änderung im RIS:** BGBl. I Nr. 77/2023 (NR: GP XXVII RV 2093 AB 2155 S. 226. BR: AB 11288 S. 957.)  
 **LawAT Permalink:** https://github.com/clairexen/LawAT/blob/main/files/BG.IO.000.md  
+**LawAT Änderungen im Markup:** [BG.IO.c100-pAnlA-name](../patches/BG.IO.c100-pAnlA-name.diff)  
 *Mit RisEx für RisEn, RisEn-GPT, und LawAT von HTML zu MarkDown konvertiert. (Irrtümer und Fehler vorbehalten.)*
 
 *Das ist die "AI-Friendly" multi-part Variante dieser Rechtsvorschrift mit kompakter Formatierung. Siehe [BG.IO.md](BG.IO.md) für die "Human-Friendly" single-page Variante dieser Norm mit hübscherer Formatierung.*
@@ -632,6 +633,6 @@
 * [§ 283 IO # Inkrafttretens- und Übergangsbestimmungen zum Restrukturierungs- und Insolvenz-Richtlinie-Umsetzungsgesetz](BG.IO.013.md#-283-io--inkrafttretens--und-übergangsbestimmungen-zum-restrukturierungs--und-insolvenz-richtlinie-umsetzungsgesetz)  
 * [§ 284 IO # Inkrafttretens- und Übergangsbestimmung zum BGBl. I Nr. 199/2021](BG.IO.013.md#-284-io--inkrafttretens--und-übergangsbestimmung-zum-bgbl-i-nr-1992021)  
 * [§ 285 IO # Inkrafttretens- und Übergangsbestimmung zum BGBl. I Nr. 77/2023](BG.IO.013.md#-285-io--inkrafttretens--und-übergangsbestimmung-zum-bgbl-i-nr-772023)  
-* [Anl. 1 IO](BG.IO.013.md#anl-1-io)
+* [Anl. A IO](BG.IO.013.md#anl-a-io)
 
 `END-OF-DATA-FILE` *(fortges. in [BG.IO.001](BG.IO.001.md))*
